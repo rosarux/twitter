@@ -1,6 +1,1132 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Thu Nov 17 09:42:07 +0000 2016",
+		"id": 799185842975576000,
+		"id_str": "799185842975576064",
+		"text": "RT @nilstrav: 우리 범야옹연대는 더 강해져야만 한다. https://t.co/QL0CuWGysA",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nilstrav",
+					"name": "닐스",
+					"id": 372817078,
+					"id_str": "372817078",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 799185042685595600,
+					"id_str": "799185042685595648",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/CxdGj-MUkAAmfyy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxdGj-MUkAAmfyy.jpg",
+					"url": "https://t.co/QL0CuWGysA",
+					"display_url": "pic.twitter.com/QL0CuWGysA",
+					"expanded_url": "http://twitter.com/nilstrav/status/799185522522394625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 675,
+							"h": 542,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 542,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 542,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 799185522522394600,
+					"source_status_id_str": "799185522522394625",
+					"source_user_id": 372817078,
+					"source_user_id_str": "372817078"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 799185042685595600,
+					"id_str": "799185042685595648",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/CxdGj-MUkAAmfyy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CxdGj-MUkAAmfyy.jpg",
+					"url": "https://t.co/QL0CuWGysA",
+					"display_url": "pic.twitter.com/QL0CuWGysA",
+					"expanded_url": "http://twitter.com/nilstrav/status/799185522522394625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 675,
+							"h": 542,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 542,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 542,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 799185522522394600,
+					"source_status_id_str": "799185522522394625",
+					"source_user_id": 372817078,
+					"source_user_id_str": "372817078"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 516,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1472,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14748,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 09:40:51 +0000 2016",
+			"id": 799185522522394600,
+			"id_str": "799185522522394625",
+			"text": "우리 범야옹연대는 더 강해져야만 한다. https://t.co/QL0CuWGysA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 799185042685595600,
+						"id_str": "799185042685595648",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/CxdGj-MUkAAmfyy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxdGj-MUkAAmfyy.jpg",
+						"url": "https://t.co/QL0CuWGysA",
+						"display_url": "pic.twitter.com/QL0CuWGysA",
+						"expanded_url": "http://twitter.com/nilstrav/status/799185522522394625/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 675,
+								"h": 542,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 675,
+								"h": 542,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 542,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 799185042685595600,
+						"id_str": "799185042685595648",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/CxdGj-MUkAAmfyy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxdGj-MUkAAmfyy.jpg",
+						"url": "https://t.co/QL0CuWGysA",
+						"display_url": "pic.twitter.com/QL0CuWGysA",
+						"expanded_url": "http://twitter.com/nilstrav/status/799185522522394625/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 675,
+								"h": 542,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 675,
+								"h": 542,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 542,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 372817078,
+				"id_str": "372817078",
+				"name": "닐스",
+				"screen_name": "nilstrav",
+				"location": "제주시 한림읍 금능길 44",
+				"description": "카페닐스 | 따뜻한 음식과 마실 것들 | 064.796.1287",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3464,
+				"friends_count": 340,
+				"listed_count": 75,
+				"created_at": "Tue Sep 13 13:37:52 +0000 2011",
+				"favourites_count": 29606,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13391,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583287523788500992/LEefCg_Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583287523788500992/LEefCg_Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/372817078/1413559851",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 06:45:38 +0000 2016",
+		"id": 799141428110585900,
+		"id_str": "799141428110585856",
+		"text": "RT @sldn1206: @kawanoboru 하지만 대망을 읽으셨을 것 같습니다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sldn1206",
+					"name": "안남향교 유사 담륜",
+					"id": 2572908468,
+					"id_str": "2572908468",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "kawanoboru",
+					"name": "河",
+					"id": 94077994,
+					"id_str": "94077994",
+					"indices": [
+						14,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 516,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1472,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14748,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 06:44:14 +0000 2016",
+			"id": 799141075319341000,
+			"id_str": "799141075319341057",
+			"text": "@kawanoboru 하지만 대망을 읽으셨을 것 같습니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kawanoboru",
+						"name": "河",
+						"id": 94077994,
+						"id_str": "94077994",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 799139395852873700,
+			"in_reply_to_status_id_str": "799139395852873728",
+			"in_reply_to_user_id": 94077994,
+			"in_reply_to_user_id_str": "94077994",
+			"in_reply_to_screen_name": "kawanoboru",
+			"user": {
+				"id": 2572908468,
+				"id_str": "2572908468",
+				"name": "안남향교 유사 담륜",
+				"screen_name": "sldn1206",
+				"location": "",
+				"description": "君市長一體",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3404,
+				"friends_count": 793,
+				"listed_count": 63,
+				"created_at": "Tue Jun 17 13:34:52 +0000 2014",
+				"favourites_count": 9431,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 59830,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/479236772224716801/YsrPm9lN.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/479236772224716801/YsrPm9lN.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/791667839530786816/Ggo2sY8J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/791667839530786816/Ggo2sY8J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2572908468/1477583376",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 06:37:33 +0000 2016",
+		"id": 799139395852873700,
+		"id_str": "799139395852873728",
+		"text": "그러고보니 난 삼국지랑 태백산맥 안읽었음.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 516,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1472,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14748,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 06:37:13 +0000 2016",
+		"id": 799139308561014800,
+		"id_str": "799139308561014784",
+		"text": "RT @dangerousshop: 평생에 걸쳐 읽은 책이라고는 삼국지랑 태백산맥밖에 없는 건 아닐까...? 👀",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dangerousshop",
+					"name": "강가딘",
+					"id": 358230048,
+					"id_str": "358230048",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 516,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1472,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14748,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 06:23:00 +0000 2016",
+			"id": 799135731025223700,
+			"id_str": "799135731025223680",
+			"text": "평생에 걸쳐 읽은 책이라고는 삼국지랑 태백산맥밖에 없는 건 아닐까...? 👀",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 799130266333683700,
+			"in_reply_to_status_id_str": "799130266333683712",
+			"in_reply_to_user_id": 358230048,
+			"in_reply_to_user_id_str": "358230048",
+			"in_reply_to_screen_name": "dangerousshop",
+			"user": {
+				"id": 358230048,
+				"id_str": "358230048",
+				"name": "강가딘",
+				"screen_name": "dangerousshop",
+				"location": "",
+				"description": "We read adventures and novels and journals. I... I... Who'd invent a job like that?",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9770,
+				"friends_count": 622,
+				"listed_count": 132,
+				"created_at": "Fri Aug 19 15:53:58 +0000 2011",
+				"favourites_count": 5518,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 95360,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "451A3F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/575111632889647104/xt7na64N.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/575111632889647104/xt7na64N.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798431274193002496/PbO6GBRO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798431274193002496/PbO6GBRO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/358230048/1479196181",
+				"profile_link_color": "968C34",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "434566",
+				"profile_text_color": "FFFFFF",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 80,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 03:06:57 +0000 2016",
+		"id": 799086394836545500,
+		"id_str": "799086394836545540",
+		"text": "아 어제 오후부터 오늘 아침까지를 2016년 최악의 순간으로 혼자 선정했다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 516,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1472,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14748,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Nov 17 03:00:45 +0000 2016",
+		"id": 799084835138453500,
+		"id_str": "799084835138453504",
+		"text": "RT @platypus_mann: 전우용 저 양반은 여전히 그냥 억울하기만 하다. 본인을 핍박받는 민주투사쯤으로 생각하고 있네. 굳이 말 섞고 싶지도 않고, 말해봤자 듣지도 않는 사람이라 멘션이 아닌 캡처로 깐다. https://t.co/CLjEDo…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "platypus_mann",
+					"name": "Mann.",
+					"id": 39013508,
+					"id_str": "39013508",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 585,
+			"friends_count": 516,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1472,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14748,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 17 02:59:28 +0000 2016",
+			"id": 799084511308853200,
+			"id_str": "799084511308853248",
+			"text": "전우용 저 양반은 여전히 그냥 억울하기만 하다. 본인을 핍박받는 민주투사쯤으로 생각하고 있네. 굳이 말 섞고 싶지도 않고, 말해봤자 듣지도 않는 사람이라 멘션이 아닌 캡처로 깐다. https://t.co/CLjEDoTXLI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 799084503008280600,
+						"id_str": "799084503008280576",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/CxbrHytUAAABFQn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxbrHytUAAABFQn.jpg",
+						"url": "https://t.co/CLjEDoTXLI",
+						"display_url": "pic.twitter.com/CLjEDoTXLI",
+						"expanded_url": "http://twitter.com/platypus_mann/status/799084511308853248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 483,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 483,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 799084503008280600,
+						"id_str": "799084503008280576",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/CxbrHytUAAABFQn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxbrHytUAAABFQn.jpg",
+						"url": "https://t.co/CLjEDoTXLI",
+						"display_url": "pic.twitter.com/CLjEDoTXLI",
+						"expanded_url": "http://twitter.com/platypus_mann/status/799084511308853248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 750,
+								"h": 483,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 483,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 799084503012474900,
+						"id_str": "799084503012474880",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/CxbrHyuUAAA4kAd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CxbrHyuUAAA4kAd.jpg",
+						"url": "https://t.co/CLjEDoTXLI",
+						"display_url": "pic.twitter.com/CLjEDoTXLI",
+						"expanded_url": "http://twitter.com/platypus_mann/status/799084511308853248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 285,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 314,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 314,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39013508,
+				"id_str": "39013508",
+				"name": "Mann.",
+				"screen_name": "platypus_mann",
+				"location": "",
+				"description": "MD, MA. 의대를 졸업하고 대학원에서 의학의 역사를 전공했습니다. 의학 지식이 생성되고 작동하는 과정을 공부합니다. https://t.co/8NBRgoL9VI",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/8NBRgoL9VI",
+								"expanded_url": "http://ask.fm/lumenium",
+								"display_url": "ask.fm/lumenium",
+								"indices": [
+									67,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 735,
+				"friends_count": 277,
+				"listed_count": 17,
+				"created_at": "Sun May 10 07:17:51 +0000 2009",
+				"favourites_count": 2370,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4515,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/736407131050508289/hHdnaUsx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/736407131050508289/hHdnaUsx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39013508/1459317143",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 166,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 166,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Nov 16 05:31:39 +0000 2016",
 		"id": 798760420735533000,
 		"id_str": "798760420735533056",
