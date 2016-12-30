@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Thu Dec 29 08:38:30 +0000 2016",
+		"id": 814390123970203600,
+		"id_str": "814390123970203653",
+		"text": "RT @senji11: @senji11 「日本は殺す側」という認識が、反戦側に圧倒的に欠けているのはいかがなものか。もし自衛隊に戦死が出たらあっという間に被害者意識が逆転して「ゲリラせん滅」を世論が絶叫することになるんじゃないか？",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "senji11",
+					"name": "平沼センジ☭REDs",
+					"id": 573832688,
+					"id_str": "573832688",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "senji11",
+					"name": "平沼センジ☭REDs",
+					"id": 573832688,
+					"id_str": "573832688",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 517,
+			"listed_count": 24,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1546,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15065,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 29 07:52:47 +0000 2016",
+			"id": 814378615710183400,
+			"id_str": "814378615710183425",
+			"text": "@senji11 「日本は殺す側」という認識が、反戦側に圧倒的に欠けているのはいかがなものか。もし自衛隊に戦死が出たらあっという間に被害者意識が逆転して「ゲリラせん滅」を世論が絶叫することになるんじゃないか？",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "senji11",
+						"name": "平沼センジ☭REDs",
+						"id": 573832688,
+						"id_str": "573832688",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 814377407809404900,
+			"in_reply_to_status_id_str": "814377407809404929",
+			"in_reply_to_user_id": 573832688,
+			"in_reply_to_user_id_str": "573832688",
+			"in_reply_to_screen_name": "senji11",
+			"user": {
+				"id": 573832688,
+				"id_str": "573832688",
+				"name": "平沼センジ☭REDs",
+				"screen_name": "senji11",
+				"location": "",
+				"description": "ブルーカラーのサラリーマンをやっている「資本主義のネコ」。 しかして、その実体は「反資本主義の犬」。 もしくは「革命派ゴリラ」。  愛するもの：煙草とシャンソンと革命。  嫌いなもの：靖国神社と死刑制度とイスラエル（的なもの）  死刑廃止原理主義者 シャンソン詩は基本自前訳、BOT。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2098,
+				"friends_count": 1815,
+				"listed_count": 67,
+				"created_at": "Mon May 07 17:48:18 +0000 2012",
+				"favourites_count": 392,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 59625,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/546197723/r16.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/546197723/r16.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/683736498856804352/9_WWbe8V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/683736498856804352/9_WWbe8V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/573832688/1451850261",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Wed Dec 28 01:58:52 +0000 2016",
 		"id": 813927163548139500,
 		"id_str": "813927163548139520",
