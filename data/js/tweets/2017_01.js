@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Thu Jan 05 08:22:40 +0000 2017",
+		"id": 816922853178118100,
+		"id_str": "816922853178118144",
+		"text": "RT @kawanoboru: 혹시 지난해 열린 변월룡 전시회 도록, 가지고 계신 분, 판매하실 의향 있으신 분 계실까요? \nhttps://t.co/iSR3UmRV9S https://t.co/CnJ3pV7Ea7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kawanoboru",
+					"name": "河",
+					"id": 94077994,
+					"id_str": "94077994",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iSR3UmRV9S",
+					"expanded_url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?menuId=1020000000&exhId=201602040000391",
+					"display_url": "mmca.go.kr/exhibitions/ex…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 816142718795530200,
+					"id_str": "816142718795530240",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/C1OFeofUQAAZaGS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1OFeofUQAAZaGS.jpg",
+					"url": "https://t.co/CnJ3pV7Ea7",
+					"display_url": "pic.twitter.com/CnJ3pV7Ea7",
+					"expanded_url": "https://twitter.com/kawanoboru/status/816142875071156224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 328,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 328,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 328,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 816142875071156200,
+					"source_status_id_str": "816142875071156224",
+					"source_user_id": 94077994,
+					"source_user_id_str": "94077994"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 816142718795530200,
+					"id_str": "816142718795530240",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/C1OFeofUQAAZaGS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1OFeofUQAAZaGS.jpg",
+					"url": "https://t.co/CnJ3pV7Ea7",
+					"display_url": "pic.twitter.com/CnJ3pV7Ea7",
+					"expanded_url": "https://twitter.com/kawanoboru/status/816142875071156224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 328,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 328,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 328,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 816142875071156200,
+					"source_status_id_str": "816142875071156224",
+					"source_user_id": 94077994,
+					"source_user_id_str": "94077994"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 517,
+			"listed_count": 0,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1554,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15085,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 03 04:43:19 +0000 2017",
+			"id": 816142875071156200,
+			"id_str": "816142875071156224",
+			"text": "혹시 지난해 열린 변월룡 전시회 도록, 가지고 계신 분, 판매하실 의향 있으신 분 계실까요? \nhttps://t.co/iSR3UmRV9S https://t.co/CnJ3pV7Ea7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iSR3UmRV9S",
+						"expanded_url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?menuId=1020000000&exhId=201602040000391",
+						"display_url": "mmca.go.kr/exhibitions/ex…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 816142718795530200,
+						"id_str": "816142718795530240",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/C1OFeofUQAAZaGS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1OFeofUQAAZaGS.jpg",
+						"url": "https://t.co/CnJ3pV7Ea7",
+						"display_url": "pic.twitter.com/CnJ3pV7Ea7",
+						"expanded_url": "https://twitter.com/kawanoboru/status/816142875071156224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 328,
+								"h": 420,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 328,
+								"h": 420,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 328,
+								"h": 420,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 816142718795530200,
+						"id_str": "816142718795530240",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/C1OFeofUQAAZaGS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1OFeofUQAAZaGS.jpg",
+						"url": "https://t.co/CnJ3pV7Ea7",
+						"display_url": "pic.twitter.com/CnJ3pV7Ea7",
+						"expanded_url": "https://twitter.com/kawanoboru/status/816142875071156224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 328,
+								"h": 420,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 328,
+								"h": 420,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 328,
+								"h": 420,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 94077994,
+				"id_str": "94077994",
+				"name": "河",
+				"screen_name": "kawanoboru",
+				"location": "마음 만은 언제나 오키나와",
+				"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 602,
+				"friends_count": 517,
+				"listed_count": 0,
+				"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+				"favourites_count": 1554,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15085,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Jan 04 13:04:52 +0000 2017",
 		"id": 816631483649511400,
 		"id_str": "816631483649511424",
