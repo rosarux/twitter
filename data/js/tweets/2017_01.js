@@ -1,6 +1,1134 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Fri Jan 06 13:20:32 +0000 2017",
+		"id": 817360202328461300,
+		"id_str": "817360202328461313",
+		"text": "RT @hanitweet: 이진영 씨가 운영하는 ‘노동자의 책’은 지금은 구하기 어려운 1980~1990년대 사회주의나 노동운동 서적을 공유하는 전자도서관이다. \n\n“‘노동자의 책’ 이진영 구속은 사상의 자유 탄압” https://t.co/L4QQL…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hanitweet",
+					"name": "한겨레",
+					"id": 65254718,
+					"id_str": "65254718",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 517,
+			"listed_count": 24,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1555,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15089,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 06 11:00:24 +0000 2017",
+			"id": 817324937107112000,
+			"id_str": "817324937107111936",
+			"text": "이진영 씨가 운영하는 ‘노동자의 책’은 지금은 구하기 어려운 1980~1990년대 사회주의나 노동운동 서적을 공유하는 전자도서관이다. \n\n“‘노동자의 책’ 이진영 구속은 사상의 자유 탄압”… https://t.co/MHZNOyJt4p",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MHZNOyJt4p",
+						"expanded_url": "https://twitter.com/i/web/status/817324937107111936",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65254718,
+				"id_str": "65254718",
+				"name": "한겨레",
+				"screen_name": "hanitweet",
+				"location": "한국",
+				"description": "시민이 만든 신문 한겨레 공식 트위터입니다.",
+				"url": "http://t.co/EZDI3E5OCd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/EZDI3E5OCd",
+								"expanded_url": "http://www.hani.co.kr",
+								"display_url": "hani.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 581774,
+				"friends_count": 165116,
+				"listed_count": 8306,
+				"created_at": "Thu Aug 13 03:03:14 +0000 2009",
+				"favourites_count": 287,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 80789,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/29100296/han2.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/29100296/han2.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/720956938020761600/TfuRv7UK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65254718/1477468439",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jan 06 12:04:19 +0000 2017",
+		"id": 817341021151371300,
+		"id_str": "817341021151371266",
+		"text": "@genbun 저는 오늘 처음 봤어요",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "genbun",
+					"name": "Barde",
+					"id": 3192223305,
+					"id_str": "3192223305",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 817338344581386200,
+		"in_reply_to_status_id_str": "817338344581386242",
+		"in_reply_to_user_id": 3192223305,
+		"in_reply_to_user_id_str": "3192223305",
+		"in_reply_to_screen_name": "genbun",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 517,
+			"listed_count": 24,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1555,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15089,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jan 06 11:43:08 +0000 2017",
+		"id": 817335690321010700,
+		"id_str": "817335690321010689",
+		"text": "컵 고량주도 있네요. https://t.co/v5tDYHPDRX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 817335688467054600,
+					"id_str": "817335688467054592",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/C1fCem1UAAAhBQX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1fCem1UAAAhBQX.jpg",
+					"url": "https://t.co/v5tDYHPDRX",
+					"display_url": "pic.twitter.com/v5tDYHPDRX",
+					"expanded_url": "https://twitter.com/kawanoboru/status/817335690321010689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 817335688467054600,
+					"id_str": "817335688467054592",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/C1fCem1UAAAhBQX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1fCem1UAAAhBQX.jpg",
+					"url": "https://t.co/v5tDYHPDRX",
+					"display_url": "pic.twitter.com/v5tDYHPDRX",
+					"expanded_url": "https://twitter.com/kawanoboru/status/817335690321010689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 517,
+			"listed_count": 24,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1555,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15089,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jan 06 11:28:24 +0000 2017",
+		"id": 817331984263299100,
+		"id_str": "817331984263299072",
+		"text": "RT @kawanoboru: 혹시 지난해 열린 변월룡 전시회 도록, 가지고 계신 분, 판매하실 의향 있으신 분 계실까요? \nhttps://t.co/iSR3UmRV9S https://t.co/CnJ3pV7Ea7",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kawanoboru",
+					"name": "河",
+					"id": 94077994,
+					"id_str": "94077994",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iSR3UmRV9S",
+					"expanded_url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?menuId=1020000000&exhId=201602040000391",
+					"display_url": "mmca.go.kr/exhibitions/ex…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 816142718795530200,
+					"id_str": "816142718795530240",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/C1OFeofUQAAZaGS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1OFeofUQAAZaGS.jpg",
+					"url": "https://t.co/CnJ3pV7Ea7",
+					"display_url": "pic.twitter.com/CnJ3pV7Ea7",
+					"expanded_url": "https://twitter.com/kawanoboru/status/816142875071156224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 328,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 328,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 328,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 816142875071156200,
+					"source_status_id_str": "816142875071156224",
+					"source_user_id": 94077994,
+					"source_user_id_str": "94077994"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 816142718795530200,
+					"id_str": "816142718795530240",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/C1OFeofUQAAZaGS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1OFeofUQAAZaGS.jpg",
+					"url": "https://t.co/CnJ3pV7Ea7",
+					"display_url": "pic.twitter.com/CnJ3pV7Ea7",
+					"expanded_url": "https://twitter.com/kawanoboru/status/816142875071156224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 328,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 328,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 328,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 816142875071156200,
+					"source_status_id_str": "816142875071156224",
+					"source_user_id": 94077994,
+					"source_user_id_str": "94077994"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 517,
+			"listed_count": 24,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1555,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15089,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 03 04:43:19 +0000 2017",
+			"id": 816142875071156200,
+			"id_str": "816142875071156224",
+			"text": "혹시 지난해 열린 변월룡 전시회 도록, 가지고 계신 분, 판매하실 의향 있으신 분 계실까요? \nhttps://t.co/iSR3UmRV9S https://t.co/CnJ3pV7Ea7",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iSR3UmRV9S",
+						"expanded_url": "https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?menuId=1020000000&exhId=201602040000391",
+						"display_url": "mmca.go.kr/exhibitions/ex…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 816142718795530200,
+						"id_str": "816142718795530240",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/C1OFeofUQAAZaGS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1OFeofUQAAZaGS.jpg",
+						"url": "https://t.co/CnJ3pV7Ea7",
+						"display_url": "pic.twitter.com/CnJ3pV7Ea7",
+						"expanded_url": "https://twitter.com/kawanoboru/status/816142875071156224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 328,
+								"h": 420,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 328,
+								"h": 420,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 328,
+								"h": 420,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 816142718795530200,
+						"id_str": "816142718795530240",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/C1OFeofUQAAZaGS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1OFeofUQAAZaGS.jpg",
+						"url": "https://t.co/CnJ3pV7Ea7",
+						"display_url": "pic.twitter.com/CnJ3pV7Ea7",
+						"expanded_url": "https://twitter.com/kawanoboru/status/816142875071156224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 328,
+								"h": 420,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 328,
+								"h": 420,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 328,
+								"h": 420,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 94077994,
+				"id_str": "94077994",
+				"name": "河",
+				"screen_name": "kawanoboru",
+				"location": "마음 만은 언제나 오키나와",
+				"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 602,
+				"friends_count": 517,
+				"listed_count": 24,
+				"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+				"favourites_count": 1555,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15089,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jan 06 07:01:11 +0000 2017",
+		"id": 817264735565402100,
+		"id_str": "817264735565402113",
+		"text": "RT @kingkenny1967: 친구가 말해준 \"한국 기업에서 일하기\" 느낌 https://t.co/NXrMYYy1Fo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kingkenny1967",
+					"name": "Dumbarton Tom",
+					"id": 121141769,
+					"id_str": "121141769",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 817226084001321000,
+					"id_str": "817226084001320960",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/C1deyyYVEAAp9C4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1deyyYVEAAp9C4.jpg",
+					"url": "https://t.co/NXrMYYy1Fo",
+					"display_url": "pic.twitter.com/NXrMYYy1Fo",
+					"expanded_url": "https://twitter.com/kingkenny1967/status/817226120617598976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 738,
+							"h": 550,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 738,
+							"h": 550,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 817226120617599000,
+					"source_status_id_str": "817226120617598976",
+					"source_user_id": 121141769,
+					"source_user_id_str": "121141769"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 817226084001321000,
+					"id_str": "817226084001320960",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/C1deyyYVEAAp9C4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1deyyYVEAAp9C4.jpg",
+					"url": "https://t.co/NXrMYYy1Fo",
+					"display_url": "pic.twitter.com/NXrMYYy1Fo",
+					"expanded_url": "https://twitter.com/kingkenny1967/status/817226120617598976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 507,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 738,
+							"h": 550,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 738,
+							"h": 550,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 817226120617599000,
+					"source_status_id_str": "817226120617598976",
+					"source_user_id": 121141769,
+					"source_user_id_str": "121141769"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 517,
+			"listed_count": 24,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1555,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15089,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 06 04:27:45 +0000 2017",
+			"id": 817226120617599000,
+			"id_str": "817226120617598976",
+			"text": "친구가 말해준 \"한국 기업에서 일하기\" 느낌 https://t.co/NXrMYYy1Fo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 817226084001321000,
+						"id_str": "817226084001320960",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/C1deyyYVEAAp9C4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1deyyYVEAAp9C4.jpg",
+						"url": "https://t.co/NXrMYYy1Fo",
+						"display_url": "pic.twitter.com/NXrMYYy1Fo",
+						"expanded_url": "https://twitter.com/kingkenny1967/status/817226120617598976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 507,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 738,
+								"h": 550,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 738,
+								"h": 550,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 817226084001321000,
+						"id_str": "817226084001320960",
+						"indices": [
+							25,
+							48
+						],
+						"media_url": "http://pbs.twimg.com/media/C1deyyYVEAAp9C4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1deyyYVEAAp9C4.jpg",
+						"url": "https://t.co/NXrMYYy1Fo",
+						"display_url": "pic.twitter.com/NXrMYYy1Fo",
+						"expanded_url": "https://twitter.com/kingkenny1967/status/817226120617598976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 507,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 738,
+								"h": 550,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 738,
+								"h": 550,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 121141769,
+				"id_str": "121141769",
+				"name": "Dumbarton Tom",
+				"screen_name": "kingkenny1967",
+				"location": "Melbourne, Victoria",
+				"description": "Seongnam FC / Seoul CSC / Melburnian",
+				"url": "https://t.co/hDcKf7D4Ak",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hDcKf7D4Ak",
+								"expanded_url": "http://Instagram.com/kingkenny1967",
+								"display_url": "Instagram.com/kingkenny1967",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3323,
+				"friends_count": 2393,
+				"listed_count": 92,
+				"created_at": "Mon Mar 08 15:10:30 +0000 2010",
+				"favourites_count": 4179,
+				"utc_offset": 39600,
+				"time_zone": "Melbourne",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18712,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E7EDF0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173454955/073.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173454955/073.JPG",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/792293015951933440/5mThYqd6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/792293015951933440/5mThYqd6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/121141769/1477304073",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "0C8210",
+				"profile_sidebar_fill_color": "00B32A",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3858,
+			"favorite_count": 638,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3858,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Jan 05 08:22:40 +0000 2017",
 		"id": 816922853178118100,
 		"id_str": "816922853178118144",
