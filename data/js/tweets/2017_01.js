@@ -1,6 +1,579 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Fri Jan 13 12:37:45 +0000 2017",
+		"id": 819886150298939400,
+		"id_str": "819886150298939392",
+		"text": "RT @ceramicrabbit_: 도킨스 내한온대서 가보고 싶은데, 앞 프로그램이 영... 김진명, 강신주, 전우용 막... 이래..... 살려줘.... https://t.co/HpQkRMvV0Q",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ceramicrabbit_",
+					"name": "혜림 🎗🕯",
+					"id": 90572375,
+					"id_str": "90572375",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 815614151305273300,
+					"id_str": "815614151305273344",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/C1Gkv9JVIAAhlRo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1Gkv9JVIAAhlRo.jpg",
+					"url": "https://t.co/HpQkRMvV0Q",
+					"display_url": "pic.twitter.com/HpQkRMvV0Q",
+					"expanded_url": "https://twitter.com/ceramicrabbit_/status/815614157512790017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 815614157512790000,
+					"source_status_id_str": "815614157512790017",
+					"source_user_id": 90572375,
+					"source_user_id_str": "90572375"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 815614151305273300,
+					"id_str": "815614151305273344",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/C1Gkv9JVIAAhlRo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C1Gkv9JVIAAhlRo.jpg",
+					"url": "https://t.co/HpQkRMvV0Q",
+					"display_url": "pic.twitter.com/HpQkRMvV0Q",
+					"expanded_url": "https://twitter.com/ceramicrabbit_/status/815614157512790017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 815614157512790000,
+					"source_status_id_str": "815614157512790017",
+					"source_user_id": 90572375,
+					"source_user_id_str": "90572375"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 518,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1565,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15115,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jan 01 17:42:23 +0000 2017",
+			"id": 815614157512790000,
+			"id_str": "815614157512790017",
+			"text": "도킨스 내한온대서 가보고 싶은데, 앞 프로그램이 영... 김진명, 강신주, 전우용 막... 이래..... 살려줘.... https://t.co/HpQkRMvV0Q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 815614151305273300,
+						"id_str": "815614151305273344",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/C1Gkv9JVIAAhlRo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1Gkv9JVIAAhlRo.jpg",
+						"url": "https://t.co/HpQkRMvV0Q",
+						"display_url": "pic.twitter.com/HpQkRMvV0Q",
+						"expanded_url": "https://twitter.com/ceramicrabbit_/status/815614157512790017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 815614151305273300,
+						"id_str": "815614151305273344",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/media/C1Gkv9JVIAAhlRo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C1Gkv9JVIAAhlRo.jpg",
+						"url": "https://t.co/HpQkRMvV0Q",
+						"display_url": "pic.twitter.com/HpQkRMvV0Q",
+						"expanded_url": "https://twitter.com/ceramicrabbit_/status/815614157512790017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 90572375,
+				"id_str": "90572375",
+				"name": "혜림 🎗🕯",
+				"screen_name": "ceramicrabbit_",
+				"location": "이불속",
+				"description": "당신의 리트윗을 리트윗한 바로 그 사람",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1055,
+				"friends_count": 542,
+				"listed_count": 30,
+				"created_at": "Tue Nov 17 05:49:59 +0000 2009",
+				"favourites_count": 5180,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9549,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/809450436079939584/cGcSWM5T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/809450436079939584/cGcSWM5T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/90572375/1479105309",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 175,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jan 13 11:33:50 +0000 2017",
+		"id": 819870066007101400,
+		"id_str": "819870066007101440",
+		"text": "RT @k_aquinas: 우리나라 정말 나락으로 떨어진다는 느낌인 게, 제대로 된 교양 다큐나 방송 대학이 해야 할 역할을, 무한도전이나 어쩌다어른의 검증 안된 강사들이 대신하고 사람들은 막 거기 열광함...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "k_aquinas",
+					"name": "인간지네퀴저씨네",
+					"id": 49904623,
+					"id_str": "49904623",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 518,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1565,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15115,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 13 11:08:24 +0000 2017",
+			"id": 819863665889267700,
+			"id_str": "819863665889267712",
+			"text": "우리나라 정말 나락으로 떨어진다는 느낌인 게, 제대로 된 교양 다큐나 방송 대학이 해야 할 역할을, 무한도전이나 어쩌다어른의 검증 안된 강사들이 대신하고 사람들은 막 거기 열광함...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 49904623,
+				"id_str": "49904623",
+				"name": "인간지네퀴저씨네",
+				"screen_name": "k_aquinas",
+				"location": "영화천국현실지옥 ",
+				"description": "안녕나는퀴저씨야하지만저는씨네필이아니고나와함께지네하자",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7579,
+				"friends_count": 1607,
+				"listed_count": 112,
+				"created_at": "Tue Jun 23 06:19:16 +0000 2009",
+				"favourites_count": 21459,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 146802,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DDCEAB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000124054592/ec07de97e8010668d0355d658ab15976.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000124054592/ec07de97e8010668d0355d658ab15976.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/809451205671780352/D2tiFeMB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/809451205671780352/D2tiFeMB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/49904623/1481823625",
+				"profile_link_color": "ADB89D",
+				"profile_sidebar_border_color": "DD6238",
+				"profile_sidebar_fill_color": "453D34",
+				"profile_text_color": "C1931F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1692,
+			"favorite_count": 279,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1692,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Jan 13 10:35:37 +0000 2017",
+		"id": 819855413852049400,
+		"id_str": "819855413852049409",
+		"text": "뭐 한국 회사 사무실은 전부, 사실상 오픈오피스나 마찬가지 아닌감",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 518,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1565,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15115,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Jan 12 12:59:53 +0000 2017",
 		"id": 819529333668622300,
 		"id_str": "819529333668622336",
