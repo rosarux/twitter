@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Wed Feb 08 09:50:01 +0000 2017",
+		"id": 829266022934966300,
+		"id_str": "829266022934966273",
+		"text": "해석 노동.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 604,
+			"friends_count": 519,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1592,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15175,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Feb 08 09:49:43 +0000 2017",
+		"id": 829265947382935600,
+		"id_str": "829265947382935552",
+		"text": "RT @shakshak82: [메모] 우리는 왜 권력자/상급자의 심기를 읽어내는 데 쩔쩔매야 하는가. 관료화된 사회에서 '해석노동'의 의미. 안톤 체호프의 &lt;관리의 죽음&gt;과 인류학자 데이비드 그레이버의 고찰. 함께 읽으면 시너지가 나는. https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shakshak82",
+					"name": "김샥샥",
+					"id": 229015681,
+					"id_str": "229015681",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 604,
+			"friends_count": 519,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1592,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15175,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 08 09:38:22 +0000 2017",
+			"id": 829263089648402400,
+			"id_str": "829263089648402432",
+			"text": "[메모] 우리는 왜 권력자/상급자의 심기를 읽어내는 데 쩔쩔매야 하는가. 관료화된 사회에서 '해석노동'의 의미. 안톤 체호프의 &lt;관리의 죽음&gt;과 인류학자 데이비드 그레이버의 고찰. 함께 읽으면 시너지가 나는. https://t.co/Iwn0STX9XH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 829263025387483100,
+						"id_str": "829263025387483136",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/C4IiU_WWMAA8p8g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4IiU_WWMAA8p8g.jpg",
+						"url": "https://t.co/Iwn0STX9XH",
+						"display_url": "pic.twitter.com/Iwn0STX9XH",
+						"expanded_url": "https://twitter.com/shakshak82/status/829263089648402432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 1193,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 399,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 1193,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 829263025387483100,
+						"id_str": "829263025387483136",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/C4IiU_WWMAA8p8g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4IiU_WWMAA8p8g.jpg",
+						"url": "https://t.co/Iwn0STX9XH",
+						"display_url": "pic.twitter.com/Iwn0STX9XH",
+						"expanded_url": "https://twitter.com/shakshak82/status/829263089648402432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 700,
+								"h": 1193,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 399,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 1193,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 829263065371783200,
+						"id_str": "829263065371783168",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/C4IiXUTWMAAXuxa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4IiXUTWMAAXuxa.jpg",
+						"url": "https://t.co/Iwn0STX9XH",
+						"display_url": "pic.twitter.com/Iwn0STX9XH",
+						"expanded_url": "https://twitter.com/shakshak82/status/829263089648402432/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 733,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 733,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 464,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 229015681,
+				"id_str": "229015681",
+				"name": "김샥샥",
+				"screen_name": "shakshak82",
+				"location": "",
+				"description": "독립, 연구자",
+				"url": "https://t.co/xYtQ4iVTRZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xYtQ4iVTRZ",
+								"expanded_url": "http://blog.aladin.co.kr/717962125",
+								"display_url": "blog.aladin.co.kr/717962125",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7107,
+				"friends_count": 0,
+				"listed_count": 107,
+				"created_at": "Tue Dec 21 08:45:22 +0000 2010",
+				"favourites_count": 2355,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6905,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/834304030/b7e4f6a3482a53eb1e3f752ecd29ee07.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/834304030/b7e4f6a3482a53eb1e3f752ecd29ee07.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/828565437348663296/MaTkhtLQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/828565437348663296/MaTkhtLQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/229015681/1486380369",
+				"profile_link_color": "918C9C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 55,
+			"favorite_count": 140,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Feb 07 05:19:53 +0000 2017",
 		"id": 828835651550224400,
 		"id_str": "828835651550224384",
