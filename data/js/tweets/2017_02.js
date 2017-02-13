@@ -1,6 +1,561 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Mon Feb 13 00:15:08 +0000 2017",
+		"id": 830933287245750300,
+		"id_str": "830933287245750272",
+		"text": "RT @TorSean: @TorSean 강대국 틈에서 나라를 지켜야 한다는 과제가 전체주의나 독재를 필요로 할 수도 있다는, 근거없는 생각이 여전히 뿌리뽑히지 않은 게 한국의 비극.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TorSean",
+					"name": "Tor Sean",
+					"id": 133255001,
+					"id_str": "133255001",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "TorSean",
+					"name": "Tor Sean",
+					"id": 133255001,
+					"id_str": "133255001",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 604,
+			"friends_count": 520,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1593,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15189,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 13 00:08:49 +0000 2017",
+			"id": 830931697441001500,
+			"id_str": "830931697441001472",
+			"text": "@TorSean 강대국 틈에서 나라를 지켜야 한다는 과제가 전체주의나 독재를 필요로 할 수도 있다는, 근거없는 생각이 여전히 뿌리뽑히지 않은 게 한국의 비극.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TorSean",
+						"name": "Tor Sean",
+						"id": 133255001,
+						"id_str": "133255001",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 830926895050956800,
+			"in_reply_to_status_id_str": "830926895050956800",
+			"in_reply_to_user_id": 133255001,
+			"in_reply_to_user_id_str": "133255001",
+			"in_reply_to_screen_name": "TorSean",
+			"user": {
+				"id": 133255001,
+				"id_str": "133255001",
+				"name": "Tor Sean",
+				"screen_name": "TorSean",
+				"location": "",
+				"description": "아름다움이 악함을 이긴다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 776,
+				"friends_count": 353,
+				"listed_count": 23,
+				"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+				"favourites_count": 294,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9510,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Feb 12 09:31:40 +0000 2017",
+		"id": 830710957382856700,
+		"id_str": "830710957382856704",
+		"text": "RT @brennawilliams: Abe's facial expression is 🔥 https://t.co/etYaiNH6vp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brennawilliams",
+					"name": "Brenna Williams",
+					"id": 38855868,
+					"id_str": "38855868",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 830121125879353300,
+					"id_str": "830121125879353344",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4UuxAyWEAAbnt8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4UuxAyWEAAbnt8.jpg",
+					"url": "https://t.co/etYaiNH6vp",
+					"display_url": "pic.twitter.com/etYaiNH6vp",
+					"expanded_url": "https://twitter.com/brennawilliams/status/830121323603042304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 314,
+							"h": 174,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 174,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 314,
+							"h": 174,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 830121323603042300,
+					"source_status_id_str": "830121323603042304",
+					"source_user_id": 38855868,
+					"source_user_id_str": "38855868"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 830121125879353300,
+					"id_str": "830121125879353344",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4UuxAyWEAAbnt8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4UuxAyWEAAbnt8.jpg",
+					"url": "https://t.co/etYaiNH6vp",
+					"display_url": "pic.twitter.com/etYaiNH6vp",
+					"expanded_url": "https://twitter.com/brennawilliams/status/830121323603042304/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 314,
+							"h": 174,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 174,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 314,
+							"h": 174,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 830121323603042300,
+					"source_status_id_str": "830121323603042304",
+					"source_user_id": 38855868,
+					"source_user_id_str": "38855868",
+					"video_info": {
+						"aspect_ratio": [
+							157,
+							87
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/C4UuxAyWEAAbnt8.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 604,
+			"friends_count": 520,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1593,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15189,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 10 18:28:41 +0000 2017",
+			"id": 830121323603042300,
+			"id_str": "830121323603042304",
+			"text": "Abe's facial expression is 🔥 https://t.co/etYaiNH6vp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 830121125879353300,
+						"id_str": "830121125879353344",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4UuxAyWEAAbnt8.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4UuxAyWEAAbnt8.jpg",
+						"url": "https://t.co/etYaiNH6vp",
+						"display_url": "pic.twitter.com/etYaiNH6vp",
+						"expanded_url": "https://twitter.com/brennawilliams/status/830121323603042304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 314,
+								"h": 174,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 174,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 314,
+								"h": 174,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 830121125879353300,
+						"id_str": "830121125879353344",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/C4UuxAyWEAAbnt8.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/C4UuxAyWEAAbnt8.jpg",
+						"url": "https://t.co/etYaiNH6vp",
+						"display_url": "pic.twitter.com/etYaiNH6vp",
+						"expanded_url": "https://twitter.com/brennawilliams/status/830121323603042304/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 314,
+								"h": 174,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 314,
+								"h": 174,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 314,
+								"h": 174,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								157,
+								87
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/C4UuxAyWEAAbnt8.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38855868,
+				"id_str": "38855868",
+				"name": "Brenna Williams",
+				"screen_name": "brennawilliams",
+				"location": "Washington, D.C.",
+				"description": "@CNN. @NotreDame, @NBCNews @cspan alum. Irish in name, college & exit strategy. Panic Dixie Meme Girl. 'Cute [...] cool.' -WaPo. 📸: brennaclaire/👻: brenclairw",
+				"url": "https://t.co/8iMwUQLofD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8iMwUQLofD",
+								"expanded_url": "http://CNNPolitics.com",
+								"display_url": "CNNPolitics.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5208,
+				"friends_count": 1133,
+				"listed_count": 154,
+				"created_at": "Sat May 09 13:53:36 +0000 2009",
+				"favourites_count": 6010,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22135,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/813485304430624771/trgq4i02_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/813485304430624771/trgq4i02_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38855868/1479338045",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36299,
+			"favorite_count": 59414,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 36299,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Feb 10 14:20:38 +0000 2017",
 		"id": 830058899814309900,
 		"id_str": "830058899814309888",
