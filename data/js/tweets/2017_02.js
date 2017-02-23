@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Wed Feb 22 00:27:09 +0000 2017",
+		"id": 834197802607534100,
+		"id_str": "834197802607534080",
+		"text": "RT @jacobinmag: The Communist Manifesto was published on this day in 1848. https://t.co/MogM2WXeNr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jacobinmag",
+					"name": "Jacobin",
+					"id": 170254080,
+					"id_str": "170254080",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 834124707586834400,
+					"id_str": "834124707586834432",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/C5NoAI4XAAAjgEv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5NoAI4XAAAjgEv.jpg",
+					"url": "https://t.co/MogM2WXeNr",
+					"display_url": "pic.twitter.com/MogM2WXeNr",
+					"expanded_url": "https://twitter.com/jacobinmag/status/834168330655252483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 1045,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 1045,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 390,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 834168330655252500,
+					"source_status_id_str": "834168330655252483",
+					"source_user_id": 170254080,
+					"source_user_id_str": "170254080"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 834124707586834400,
+					"id_str": "834124707586834432",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/C5NoAI4XAAAjgEv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5NoAI4XAAAjgEv.jpg",
+					"url": "https://t.co/MogM2WXeNr",
+					"display_url": "pic.twitter.com/MogM2WXeNr",
+					"expanded_url": "https://twitter.com/jacobinmag/status/834168330655252483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 1045,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 1045,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 390,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 834168330655252500,
+					"source_status_id_str": "834168330655252483",
+					"source_user_id": 170254080,
+					"source_user_id_str": "170254080"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 519,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1608,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15223,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 21 22:30:02 +0000 2017",
+			"id": 834168330655252500,
+			"id_str": "834168330655252483",
+			"text": "The Communist Manifesto was published on this day in 1848. https://t.co/MogM2WXeNr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 834124707586834400,
+						"id_str": "834124707586834432",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/C5NoAI4XAAAjgEv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5NoAI4XAAAjgEv.jpg",
+						"url": "https://t.co/MogM2WXeNr",
+						"display_url": "pic.twitter.com/MogM2WXeNr",
+						"expanded_url": "https://twitter.com/jacobinmag/status/834168330655252483/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 1045,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 1045,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 390,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 834124707586834400,
+						"id_str": "834124707586834432",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/C5NoAI4XAAAjgEv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5NoAI4XAAAjgEv.jpg",
+						"url": "https://t.co/MogM2WXeNr",
+						"display_url": "pic.twitter.com/MogM2WXeNr",
+						"expanded_url": "https://twitter.com/jacobinmag/status/834168330655252483/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 1045,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 1045,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 390,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 170254080,
+				"id_str": "170254080",
+				"name": "Jacobin",
+				"screen_name": "jacobinmag",
+				"location": "New York City",
+				"description": "Jacobin is a leading voice of the American left, offering socialist perspectives on politics, economics, and culture.",
+				"url": "http://t.co/wLEZWHZbGu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/wLEZWHZbGu",
+								"expanded_url": "http://jacobinmag.com",
+								"display_url": "jacobinmag.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 111314,
+				"friends_count": 47,
+				"listed_count": 2584,
+				"created_at": "Sat Jul 24 09:42:05 +0000 2010",
+				"favourites_count": 418,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12643,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F6F6F6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/496308920416075776/lLGSbRTW.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/496308920416075776/lLGSbRTW.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/801107022666235905/FI7PdXaW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/801107022666235905/FI7PdXaW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/170254080/1479833924",
+				"profile_link_color": "E52F25",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "646161",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 367,
+			"favorite_count": 565,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 367,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Feb 21 12:34:43 +0000 2017",
 		"id": 834018513324892200,
 		"id_str": "834018513324892160",
