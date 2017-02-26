@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sat Feb 25 07:30:39 +0000 2017",
+		"id": 835391543745761300,
+		"id_str": "835391543745761280",
+		"text": "RT @shibouyuugi: 駅のホームに着いた瞬間、球場が目の前って最高。\n#セルラースタジアム那覇 https://t.co/80GLNYJpmc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "セルラースタジアム那覇",
+					"indices": [
+						41,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shibouyuugi",
+					"name": "プロ野球死亡遊戯",
+					"id": 498825511,
+					"id_str": "498825511",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 835386649324347400,
+					"id_str": "835386649324347392",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/C5fju0MU4AA9sdn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5fju0MU4AA9sdn.jpg",
+					"url": "https://t.co/80GLNYJpmc",
+					"display_url": "pic.twitter.com/80GLNYJpmc",
+					"expanded_url": "https://twitter.com/shibouyuugi/status/835386665300418562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 835386665300418600,
+					"source_status_id_str": "835386665300418562",
+					"source_user_id": 498825511,
+					"source_user_id_str": "498825511"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 835386649324347400,
+					"id_str": "835386649324347392",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/C5fju0MU4AA9sdn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5fju0MU4AA9sdn.jpg",
+					"url": "https://t.co/80GLNYJpmc",
+					"display_url": "pic.twitter.com/80GLNYJpmc",
+					"expanded_url": "https://twitter.com/shibouyuugi/status/835386665300418562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 835386665300418600,
+					"source_status_id_str": "835386665300418562",
+					"source_user_id": 498825511,
+					"source_user_id_str": "498825511"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 518,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1614,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15222,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 25 07:11:16 +0000 2017",
+			"id": 835386665300418600,
+			"id_str": "835386665300418562",
+			"text": "駅のホームに着いた瞬間、球場が目の前って最高。\n#セルラースタジアム那覇 https://t.co/80GLNYJpmc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "セルラースタジアム那覇",
+						"indices": [
+							24,
+							36
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 835386649324347400,
+						"id_str": "835386649324347392",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/C5fju0MU4AA9sdn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5fju0MU4AA9sdn.jpg",
+						"url": "https://t.co/80GLNYJpmc",
+						"display_url": "pic.twitter.com/80GLNYJpmc",
+						"expanded_url": "https://twitter.com/shibouyuugi/status/835386665300418562/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 835386649324347400,
+						"id_str": "835386649324347392",
+						"indices": [
+							37,
+							60
+						],
+						"media_url": "http://pbs.twimg.com/media/C5fju0MU4AA9sdn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5fju0MU4AA9sdn.jpg",
+						"url": "https://t.co/80GLNYJpmc",
+						"display_url": "pic.twitter.com/80GLNYJpmc",
+						"expanded_url": "https://twitter.com/shibouyuugi/status/835386665300418562/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 498825511,
+				"id_str": "498825511",
+				"name": "プロ野球死亡遊戯",
+				"screen_name": "shibouyuugi",
+				"location": "",
+				"description": "書籍『プロ野球死亡遊戯 さらば昭和のプロ野球』（ユーキャン）  https://t.co/I5odJoFlA1 　書籍『隣のアイツは年俸1億 巨人2軍のリアル』（白泉社）  https://t.co/f5fkvifCn6",
+				"url": "http://t.co/tc3gwBIymo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tc3gwBIymo",
+								"expanded_url": "http://www.plus-blog.sportsnavi.com/nakami/",
+								"display_url": "plus-blog.sportsnavi.com/nakami/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/I5odJoFlA1",
+								"expanded_url": "http://www.amazon.co.jp/dp/4426608724/ref=cm_sw_r_tw_dp_mrUZwb136MNW8",
+								"display_url": "amazon.co.jp/dp/4426608724/…",
+								"indices": [
+									32,
+									55
+								]
+							},
+							{
+								"url": "https://t.co/f5fkvifCn6",
+								"expanded_url": "http://www.amazon.co.jp/dp/4592810163/ref=cm_sw_r_tw_dp_tuUZwb1DCYZ6C",
+								"display_url": "amazon.co.jp/dp/4592810163/…",
+								"indices": [
+									87,
+									110
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 37382,
+				"friends_count": 97,
+				"listed_count": 0,
+				"created_at": "Tue Feb 21 13:24:05 +0000 2012",
+				"favourites_count": 611,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14608,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/571170570314608640/eg-JAodj.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/571170570314608640/eg-JAodj.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/596567255464300544/9rs1fZXX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/596567255464300544/9rs1fZXX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/498825511/1355364130",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 170,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Fri Feb 24 03:26:09 +0000 2017",
 		"id": 834967625402765300,
 		"id_str": "834967625402765316",
