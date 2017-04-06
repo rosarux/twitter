@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 05 08:25:29 +0000 2017",
+		"id": 849538468275474400,
+		"id_str": "849538468275474433",
+		"text": "RT @Suzan_Sontag: 모든 투쟁은 전 세계에 파장을 미칩니다. 여기가 아니라면, 저기에서. 지금이 아니라면, 곧. 이곳뿐 아니라 다른 곳에서도.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Suzan_Sontag",
+					"name": "수전 손택",
+					"id": 3013439910,
+					"id_str": "3013439910",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 518,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1673,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15420,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 05 07:36:24 +0000 2017",
+			"id": 849526119191720000,
+			"id_str": "849526119191719937",
+			"text": "모든 투쟁은 전 세계에 파장을 미칩니다. 여기가 아니라면, 저기에서. 지금이 아니라면, 곧. 이곳뿐 아니라 다른 곳에서도.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3013439910,
+				"id_str": "3013439910",
+				"name": "수전 손택",
+				"screen_name": "Suzan_Sontag",
+				"location": "",
+				"description": "예술평론가, 소설가, 수필가, 극작가, 연극연출가, 영화감독, 사회운동가. __Susan Sontag, 『문학은 자유다』, 원제 : At The Same Time, 이후 출판사 (2007)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 383,
+				"friends_count": 0,
+				"listed_count": 3,
+				"created_at": "Sun Feb 08 13:58:17 +0000 2015",
+				"favourites_count": 0,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4038,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/743668489982869504/9aNqfqew_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/743668489982869504/9aNqfqew_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3013439910/1430103216",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 87,
+			"favorite_count": 56,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Apr 05 04:17:28 +0000 2017",
+		"id": 849476052342755300,
+		"id_str": "849476052342755328",
+		"text": "RT @FemiQuotes_kr: 강간을 식인이나 마찬가지로 상상조차 못할 짓으로 여기도록 청년·청소년 남성을 사회화하여야 한다. ―메리 파이퍼 https://t.co/sS6uUdxgmY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FemiQuotes_kr",
+					"name": "페미니즘 명언 아카이브",
+					"id": 734768945329147900,
+					"id_str": "734768945329147905",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 849081166049271800,
+					"id_str": "849081166049271809",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/C8iK0mfXYAEKKJa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8iK0mfXYAEKKJa.jpg",
+					"url": "https://t.co/sS6uUdxgmY",
+					"display_url": "pic.twitter.com/sS6uUdxgmY",
+					"expanded_url": "https://twitter.com/FemiQuotes_kr/status/849081174815387650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 260,
+							"h": 395,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 260,
+							"h": 395,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 260,
+							"h": 395,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849081174815387600,
+					"source_status_id_str": "849081174815387650",
+					"source_user_id": 734768945329147900,
+					"source_user_id_str": "734768945329147905"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 849081166049271800,
+					"id_str": "849081166049271809",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/C8iK0mfXYAEKKJa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8iK0mfXYAEKKJa.jpg",
+					"url": "https://t.co/sS6uUdxgmY",
+					"display_url": "pic.twitter.com/sS6uUdxgmY",
+					"expanded_url": "https://twitter.com/FemiQuotes_kr/status/849081174815387650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 260,
+							"h": 395,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 260,
+							"h": 395,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 260,
+							"h": 395,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849081174815387600,
+					"source_status_id_str": "849081174815387650",
+					"source_user_id": 734768945329147900,
+					"source_user_id_str": "734768945329147905"
+				},
+				{
+					"id": 849081166107992000,
+					"id_str": "849081166107992064",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/C8iK0mtXYAAB9Rx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8iK0mtXYAAB9Rx.jpg",
+					"url": "https://t.co/sS6uUdxgmY",
+					"display_url": "pic.twitter.com/sS6uUdxgmY",
+					"expanded_url": "https://twitter.com/FemiQuotes_kr/status/849081174815387650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 589,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 650,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 650,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849081174815387600,
+					"source_status_id_str": "849081174815387650",
+					"source_user_id": 734768945329147900,
+					"source_user_id_str": "734768945329147905"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 518,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1673,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15420,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 04 02:08:21 +0000 2017",
+			"id": 849081174815387600,
+			"id_str": "849081174815387650",
+			"text": "강간을 식인이나 마찬가지로 상상조차 못할 짓으로 여기도록 청년·청소년 남성을 사회화하여야 한다. ―메리 파이퍼 https://t.co/sS6uUdxgmY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 849081166049271800,
+						"id_str": "849081166049271809",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C8iK0mfXYAEKKJa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8iK0mfXYAEKKJa.jpg",
+						"url": "https://t.co/sS6uUdxgmY",
+						"display_url": "pic.twitter.com/sS6uUdxgmY",
+						"expanded_url": "https://twitter.com/FemiQuotes_kr/status/849081174815387650/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 260,
+								"h": 395,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 260,
+								"h": 395,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 260,
+								"h": 395,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 849081166049271800,
+						"id_str": "849081166049271809",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C8iK0mfXYAEKKJa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8iK0mfXYAEKKJa.jpg",
+						"url": "https://t.co/sS6uUdxgmY",
+						"display_url": "pic.twitter.com/sS6uUdxgmY",
+						"expanded_url": "https://twitter.com/FemiQuotes_kr/status/849081174815387650/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 260,
+								"h": 395,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 260,
+								"h": 395,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 260,
+								"h": 395,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 849081166107992000,
+						"id_str": "849081166107992064",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C8iK0mtXYAAB9Rx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8iK0mtXYAAB9Rx.jpg",
+						"url": "https://t.co/sS6uUdxgmY",
+						"display_url": "pic.twitter.com/sS6uUdxgmY",
+						"expanded_url": "https://twitter.com/FemiQuotes_kr/status/849081174815387650/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 589,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 650,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 650,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 734768945329147900,
+				"id_str": "734768945329147905",
+				"name": "페미니즘 명언 아카이브",
+				"screen_name": "FemiQuotes_kr",
+				"location": "",
+				"description": "국내외(주로 영어권)의 여성주의 명언을 찾아 번역/인용합니다. 명언으로 남길 가치가 있는 트윗 & 여성주의/운동 정보성 트윗을 때때로 RT합니다. 제보 환영합니다. // 성적 지향, 성별정체성, 장애, 성매매, 인종 등등에 근거한 혐오 계정은 차단합니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10498,
+				"friends_count": 117,
+				"listed_count": 65,
+				"created_at": "Mon May 23 15:32:22 +0000 2016",
+				"favourites_count": 391,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 579,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/734770499008364544/LpFQbHSj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/734770499008364544/LpFQbHSj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/734768945329147905/1486320680",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4661,
+			"favorite_count": 793,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4661,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Apr 04 23:56:26 +0000 2017",
 		"id": 849410361421856800,
 		"id_str": "849410361421856768",
