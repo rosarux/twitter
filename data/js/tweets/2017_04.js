@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Thu Apr 06 22:43:42 +0000 2017",
+		"id": 850116836037283800,
+		"id_str": "850116836037283840",
+		"text": "RT @CoconutGirlReal: 고만고만한 사람끼리 토론해 봐야 고만고만한 논쟁만 이루어지는 모습 이다 https://t.co/eG3AGWtHCd",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CoconutGirlReal",
+					"name": "이산화",
+					"id": 755972323279110100,
+					"id_str": "755972323279110144",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 849959515416010800,
+					"id_str": "849959515416010752",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/C8uprQ3VoAA8p0r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8uprQ3VoAA8p0r.jpg",
+					"url": "https://t.co/eG3AGWtHCd",
+					"display_url": "pic.twitter.com/eG3AGWtHCd",
+					"expanded_url": "https://twitter.com/CoconutGirlReal/status/849959539969413121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 639,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1039,
+							"h": 1105,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1039,
+							"h": 1105,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849959539969413100,
+					"source_status_id_str": "849959539969413121",
+					"source_user_id": 755972323279110100,
+					"source_user_id_str": "755972323279110144"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 849959515416010800,
+					"id_str": "849959515416010752",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/C8uprQ3VoAA8p0r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C8uprQ3VoAA8p0r.jpg",
+					"url": "https://t.co/eG3AGWtHCd",
+					"display_url": "pic.twitter.com/eG3AGWtHCd",
+					"expanded_url": "https://twitter.com/CoconutGirlReal/status/849959539969413121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 639,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1039,
+							"h": 1105,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1039,
+							"h": 1105,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 849959539969413100,
+					"source_status_id_str": "849959539969413121",
+					"source_user_id": 755972323279110100,
+					"source_user_id_str": "755972323279110144"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "河",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 518,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1673,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15420,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 06 12:18:40 +0000 2017",
+			"id": 849959539969413100,
+			"id_str": "849959539969413121",
+			"text": "고만고만한 사람끼리 토론해 봐야 고만고만한 논쟁만 이루어지는 모습 이다 https://t.co/eG3AGWtHCd",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 849959515416010800,
+						"id_str": "849959515416010752",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/C8uprQ3VoAA8p0r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8uprQ3VoAA8p0r.jpg",
+						"url": "https://t.co/eG3AGWtHCd",
+						"display_url": "pic.twitter.com/eG3AGWtHCd",
+						"expanded_url": "https://twitter.com/CoconutGirlReal/status/849959539969413121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 639,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1039,
+								"h": 1105,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1039,
+								"h": 1105,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 849959515416010800,
+						"id_str": "849959515416010752",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/C8uprQ3VoAA8p0r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C8uprQ3VoAA8p0r.jpg",
+						"url": "https://t.co/eG3AGWtHCd",
+						"display_url": "pic.twitter.com/eG3AGWtHCd",
+						"expanded_url": "https://twitter.com/CoconutGirlReal/status/849959539969413121/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 639,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1039,
+								"h": 1105,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1039,
+								"h": 1105,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 755972323279110100,
+				"id_str": "755972323279110144",
+				"name": "이산화",
+				"screen_name": "CoconutGirlReal",
+				"location": "",
+				"description": "작가/보고 걷고 기뻐하는 사람/잡담계 @CoconutGirlMyth",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 335,
+				"friends_count": 76,
+				"listed_count": 1,
+				"created_at": "Thu Jul 21 03:47:02 +0000 2016",
+				"favourites_count": 36,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14316,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/801094396305256448/orlSzwkk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/801094396305256448/orlSzwkk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/755972323279110144/1479831751",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 342,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 342,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Apr 05 08:25:29 +0000 2017",
 		"id": 849538468275474400,
 		"id_str": "849538468275474433",
