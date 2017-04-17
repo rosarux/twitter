@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Sun Apr 16 12:48:33 +0000 2017",
+		"id": 853590938844708900,
+		"id_str": "853590938844708864",
+		"text": "RT @RATM: Happy 21st birthday to 'Evil Empire' - what's your top track? https://t.co/4BiCwAIyEg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RATM",
+					"name": "RageAgainsTheMachine",
+					"id": 120412341,
+					"id_str": "120412341",
+					"indices": [
+						3,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 853588943769669600,
+					"id_str": "853588943769669632",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/C9iOnzGXkAAlphF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9iOnzGXkAAlphF.jpg",
+					"url": "https://t.co/4BiCwAIyEg",
+					"display_url": "pic.twitter.com/4BiCwAIyEg",
+					"expanded_url": "https://twitter.com/RATM/status/853588951369752576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 853588951369752600,
+					"source_status_id_str": "853588951369752576",
+					"source_user_id": 120412341,
+					"source_user_id_str": "120412341"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 853588943769669600,
+					"id_str": "853588943769669632",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/C9iOnzGXkAAlphF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9iOnzGXkAAlphF.jpg",
+					"url": "https://t.co/4BiCwAIyEg",
+					"display_url": "pic.twitter.com/4BiCwAIyEg",
+					"expanded_url": "https://twitter.com/RATM/status/853588951369752576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 853588951369752600,
+					"source_status_id_str": "853588951369752576",
+					"source_user_id": 120412341,
+					"source_user_id_str": "120412341"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 517,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1698,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15472,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781042222179516416/MocQ3YeZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 16 12:40:39 +0000 2017",
+			"id": 853588951369752600,
+			"id_str": "853588951369752576",
+			"text": "Happy 21st birthday to 'Evil Empire' - what's your top track? https://t.co/4BiCwAIyEg",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 853588943769669600,
+						"id_str": "853588943769669632",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C9iOnzGXkAAlphF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9iOnzGXkAAlphF.jpg",
+						"url": "https://t.co/4BiCwAIyEg",
+						"display_url": "pic.twitter.com/4BiCwAIyEg",
+						"expanded_url": "https://twitter.com/RATM/status/853588951369752576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 853588943769669600,
+						"id_str": "853588943769669632",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/C9iOnzGXkAAlphF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9iOnzGXkAAlphF.jpg",
+						"url": "https://t.co/4BiCwAIyEg",
+						"display_url": "pic.twitter.com/4BiCwAIyEg",
+						"expanded_url": "https://twitter.com/RATM/status/853588951369752576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 120412341,
+				"id_str": "120412341",
+				"name": "RageAgainsTheMachine",
+				"screen_name": "RATM",
+				"location": "Los Angeles",
+				"description": "Rage Against The Machine news from Tom, Zack, Brad & Tim since 2010 with their blessing. Run by fans, not a record company or agency",
+				"url": "https://t.co/E7OidMbL7G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/E7OidMbL7G",
+								"expanded_url": "http://facebook.com/ratm4xmas",
+								"display_url": "facebook.com/ratm4xmas",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 60391,
+				"friends_count": 823,
+				"listed_count": 447,
+				"created_at": "Sat Mar 06 10:38:53 +0000 2010",
+				"favourites_count": 469,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1834,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000110376314/d426015e4998af3283fe5fd3ab8c0428.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000110376314/d426015e4998af3283fe5fd3ab8c0428.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1292883600/RATMwhitestar2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292883600/RATMwhitestar2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/120412341/1470581748",
+				"profile_link_color": "ED2F2F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 362,
+			"favorite_count": 910,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 362,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 15 10:02:43 +0000 2017",
 		"id": 853186819441139700,
 		"id_str": "853186819441139713",
