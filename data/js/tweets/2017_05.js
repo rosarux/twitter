@@ -1,6 +1,680 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Thu May 04 11:33:36 +0000 2017",
+		"id": 860095059336642600,
+		"id_str": "860095059336642560",
+		"text": "윤갑희는 또 누구야",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 496,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1731,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15574,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu May 04 06:42:36 +0000 2017",
+		"id": 860021827162091500,
+		"id_str": "860021827162091520",
+		"text": "@genbun 지금이야 법 개정되어서 👍✌️🤚뭐 다 표시할 수 있는데, 그냥 웃겨요..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "genbun",
+					"name": "Barde",
+					"id": 3192223305,
+					"id_str": "3192223305",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 860020101155700700,
+		"in_reply_to_status_id_str": "860020101155700736",
+		"in_reply_to_user_id": 3192223305,
+		"in_reply_to_user_id_str": "3192223305",
+		"in_reply_to_screen_name": "genbun",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 496,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1731,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15574,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu May 04 06:35:17 +0000 2017",
+		"id": 860019983727775700,
+		"id_str": "860019983727775745",
+		"text": "로 선생 트윗 왜이렇게 웃기지😂",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 496,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1731,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15574,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu May 04 06:29:59 +0000 2017",
+		"id": 860018649704185900,
+		"id_str": "860018649704185856",
+		"text": "주일미해군사령부 계정에서 F-14 톰캣 사진 대방출 중... https://t.co/fb28IeQptE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fb28IeQptE",
+					"expanded_url": "https://twitter.com/CNFJ/status/860015232462336002",
+					"display_url": "twitter.com/CNFJ/status/86…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 496,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1731,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15574,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 860015232462336000,
+		"quoted_status_id_str": "860015232462336002",
+		"quoted_status": {
+			"created_at": "Thu May 04 06:16:24 +0000 2017",
+			"id": 860015232462336000,
+			"id_str": "860015232462336002",
+			"text": "【春のF-14トムキャットまつり】その１。　#春のF-14トムキャットまつり https://t.co/RhKJUCNmHe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "春のF",
+						"indices": [
+							22,
+							26
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 860015229593407500,
+						"id_str": "860015229593407488",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/C-9jS3VXUAARb7P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-9jS3VXUAARb7P.jpg",
+						"url": "https://t.co/RhKJUCNmHe",
+						"display_url": "pic.twitter.com/RhKJUCNmHe",
+						"expanded_url": "https://twitter.com/CNFJ/status/860015232462336002/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 455,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1369,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 802,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 860015229593407500,
+						"id_str": "860015229593407488",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/C-9jS3VXUAARb7P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C-9jS3VXUAARb7P.jpg",
+						"url": "https://t.co/RhKJUCNmHe",
+						"display_url": "pic.twitter.com/RhKJUCNmHe",
+						"expanded_url": "https://twitter.com/CNFJ/status/860015232462336002/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 455,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1369,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 802,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 41546290,
+				"id_str": "41546290",
+				"name": "在日米海軍司令部",
+				"screen_name": "CNFJ",
+				"location": "神奈川県横須賀市",
+				"description": "日本にある全ての米海軍の陸上施設と、ディエゴ・ガルシア海軍支援施設を指揮下に置く在日米海軍司令部は、管轄区域での米海軍の活動をサポートし、海上自衛隊との調整窓口を務めています。Twitterで米海軍の活動や、日本にある米海軍基地でのイベントをお知らせします。",
+				"url": "http://t.co/a5OD361Dwo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/a5OD361Dwo",
+								"expanded_url": "http://www.cnic.navy.mil/regions/cnrj.html",
+								"display_url": "cnic.navy.mil/regions/cnrj.h…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 195202,
+				"friends_count": 49,
+				"listed_count": 6147,
+				"created_at": "Thu May 21 07:14:03 +0000 2009",
+				"favourites_count": 29,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 19688,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1237033942/Logo_small_normal.PNG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237033942/Logo_small_normal.PNG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/41546290/1406597904",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 931,
+			"favorite_count": 1505,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu May 04 00:58:44 +0000 2017",
+		"id": 859935290508492800,
+		"id_str": "859935290508492800",
+		"text": "RT @kawanoboru: 일본(오키나와) 사람들(이라기보다는 정치학/한국학/국제관계 전공자들) 지난해 이후후의 한국의 탄핵정국과 대선 과정을 이해하는데 도움이 될 한글 텍스트(단행본/논문 등) 추천 부탁드립니다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kawanoboru",
+					"name": "縄",
+					"id": 94077994,
+					"id_str": "94077994",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 496,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1731,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15574,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon May 01 11:25:42 +0000 2017",
+			"id": 859005908315127800,
+			"id_str": "859005908315127809",
+			"text": "일본(오키나와) 사람들(이라기보다는 정치학/한국학/국제관계 전공자들) 지난해 이후후의 한국의 탄핵정국과 대선 과정을 이해하는데 도움이 될 한글 텍스트(단행본/논문 등) 추천 부탁드립니다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 94077994,
+				"id_str": "94077994",
+				"name": "縄",
+				"screen_name": "kawanoboru",
+				"location": "마음 만은 언제나 오키나와",
+				"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 599,
+				"friends_count": 496,
+				"listed_count": 23,
+				"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+				"favourites_count": 1731,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15574,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue May 02 09:36:17 +0000 2017",
 		"id": 859340758435766300,
 		"id_str": "859340758435766272",
