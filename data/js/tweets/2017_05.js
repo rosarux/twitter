@@ -1,6 +1,966 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 16 13:47:58 +0000 2017",
+		"id": 864477528643076100,
+		"id_str": "864477528643076096",
+		"text": "RT @BLIDX: 로정태가 부들부들하는거 보니 문재인이 잘하고 있나보군",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BLIDX",
+					"name": "jhoon",
+					"id": 99902846,
+					"id_str": "99902846",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 495,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1747,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15638,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 16 13:21:38 +0000 2017",
+			"id": 864470899919122400,
+			"id_str": "864470899919122432",
+			"text": "로정태가 부들부들하는거 보니 문재인이 잘하고 있나보군",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 99902846,
+				"id_str": "99902846",
+				"name": "jhoon",
+				"screen_name": "BLIDX",
+				"location": "Seoul, Korea",
+				"description": "망국의 유희 개발자",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10541,
+				"friends_count": 1782,
+				"listed_count": 172,
+				"created_at": "Mon Dec 28 08:56:36 +0000 2009",
+				"favourites_count": 1462,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 75275,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/600137832/profile_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/600137832/profile_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue May 16 07:56:41 +0000 2017",
+		"id": 864389122944663600,
+		"id_str": "864389122944663560",
+		"text": "RT @shibedogecon: 남자가 랜섬웨어 핑계로 아내 속여서 70만원짜리 그래픽카드 사면 하하호호 유머 에피소드가 되어서 돌아다니고\n\n여자가 스타벅스가서 4천원짜리 아이스아메리카노 마시면 김치녀 생활비축내는 생각없는년 헤픈년 남친한테 명품백…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shibedogecon",
+					"name": "시바콘",
+					"id": 3890599512,
+					"id_str": "3890599512",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 495,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1747,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15638,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 16 04:10:23 +0000 2017",
+			"id": 864332172244602900,
+			"id_str": "864332172244602881",
+			"text": "남자가 랜섬웨어 핑계로 아내 속여서 70만원짜리 그래픽카드 사면 하하호호 유머 에피소드가 되어서 돌아다니고\n\n여자가 스타벅스가서 4천원짜리 아이스아메리카노 마시면 김치녀 생활비축내는 생각없는년 헤픈년 남친한테 명품백 얻어먹는년 소리듣고...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3890599512,
+				"id_str": "3890599512",
+				"name": "시바콘",
+				"screen_name": "shibedogecon",
+				"location": "",
+				"description": "(꼬리 흔듦) 살랑살랑",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 190,
+				"friends_count": 413,
+				"listed_count": 61,
+				"created_at": "Wed Oct 14 10:27:24 +0000 2015",
+				"favourites_count": 2484,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19132,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/856677051838808065/6M69FZlR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/856677051838808065/6M69FZlR_normal.jpg",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16020,
+			"favorite_count": 1603,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16020,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue May 16 04:04:16 +0000 2017",
+		"id": 864330635527073800,
+		"id_str": "864330635527073793",
+		"text": "어용의 어御가 무슨 의미인지 좀 생각을.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 495,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1747,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15638,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue May 16 01:49:51 +0000 2017",
+		"id": 864296808293347300,
+		"id_str": "864296808293347328",
+		"text": "RT @oogesatarou: 伊江島、謝花悦子さんのフリースタイルをどうぞ。 https://t.co/hIAULYrBVb",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oogesatarou",
+					"name": "大袈裟太郎",
+					"id": 127149635,
+					"id_str": "127149635",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 863375588358185000,
+					"id_str": "863375588358184960",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/863375588358184960/pu/img/8yIczMHVTsfMewm2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/863375588358184960/pu/img/8yIczMHVTsfMewm2.jpg",
+					"url": "https://t.co/hIAULYrBVb",
+					"display_url": "pic.twitter.com/hIAULYrBVb",
+					"expanded_url": "https://twitter.com/oogesatarou/status/863376706966507521/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 863376706966507500,
+					"source_status_id_str": "863376706966507521",
+					"source_user_id": 127149635,
+					"source_user_id_str": "127149635"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 863375588358185000,
+					"id_str": "863375588358184960",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/863375588358184960/pu/img/8yIczMHVTsfMewm2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/863375588358184960/pu/img/8yIczMHVTsfMewm2.jpg",
+					"url": "https://t.co/hIAULYrBVb",
+					"display_url": "pic.twitter.com/hIAULYrBVb",
+					"expanded_url": "https://twitter.com/oogesatarou/status/863376706966507521/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 604,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 863376706966507500,
+					"source_status_id_str": "863376706966507521",
+					"source_user_id": 127149635,
+					"source_user_id_str": "127149635",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/863375588358184960/pu/vid/180x320/L9dS1EsjhOz9cWuJ.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/863375588358184960/pu/vid/360x640/ArM2WJIvIwi278NF.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/863375588358184960/pu/vid/720x1280/wGwhN8o_wncTO7E9.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/863375588358184960/pu/pl/VqIAMCyQveM8eIw-.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 127149635,
+							"id_str": "127149635",
+							"name": "大袈裟太郎",
+							"screen_name": "oogesatarou",
+							"location": "野",
+							"description": "高江辺野古名護渋谷浅草、東京沖縄 /NAU/ オールおれたち/人力車夫/ラッパー/post-journalism/肉球新党/立板に水/HIPHOP無頼派/三宅洋平山本太郎/一票一揆/あーまん！/TBSラジオ/法律破るな、常識破れ/都市の中の山や海として/山田太一/在路/まあ、もう三十郎ですがね",
+							"url": "https://t.co/COzxqRxoU5",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/COzxqRxoU5",
+											"expanded_url": "https://www.facebook.com/oogesa",
+											"display_url": "facebook.com/oogesa",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3957,
+							"friends_count": 1221,
+							"listed_count": 108,
+							"created_at": "Sun Mar 28 06:31:27 +0000 2010",
+							"favourites_count": 34235,
+							"utc_offset": 32400,
+							"time_zone": "Tokyo",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 34838,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "396161",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/539730603835281409/W2ivNowH.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/539730603835281409/W2ivNowH.jpeg",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/704719938573832192/4jBQvR7I_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/704719938573832192/4jBQvR7I_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/127149635/1483441588",
+							"profile_link_color": "1ECC87",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "6C8A6C",
+							"profile_text_color": "121112",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 495,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1747,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15638,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 13 12:53:42 +0000 2017",
+			"id": 863376706966507500,
+			"id_str": "863376706966507521",
+			"text": "伊江島、謝花悦子さんのフリースタイルをどうぞ。 https://t.co/hIAULYrBVb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 863375588358185000,
+						"id_str": "863375588358184960",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/863375588358184960/pu/img/8yIczMHVTsfMewm2.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/863375588358184960/pu/img/8yIczMHVTsfMewm2.jpg",
+						"url": "https://t.co/hIAULYrBVb",
+						"display_url": "pic.twitter.com/hIAULYrBVb",
+						"expanded_url": "https://twitter.com/oogesatarou/status/863376706966507521/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 863375588358185000,
+						"id_str": "863375588358184960",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/863375588358184960/pu/img/8yIczMHVTsfMewm2.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/863375588358184960/pu/img/8yIczMHVTsfMewm2.jpg",
+						"url": "https://t.co/hIAULYrBVb",
+						"display_url": "pic.twitter.com/hIAULYrBVb",
+						"expanded_url": "https://twitter.com/oogesatarou/status/863376706966507521/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 604,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1067,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/863375588358184960/pu/vid/180x320/L9dS1EsjhOz9cWuJ.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/863375588358184960/pu/vid/360x640/ArM2WJIvIwi278NF.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/863375588358184960/pu/vid/720x1280/wGwhN8o_wncTO7E9.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/863375588358184960/pu/pl/VqIAMCyQveM8eIw-.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 127149635,
+				"id_str": "127149635",
+				"name": "大袈裟太郎",
+				"screen_name": "oogesatarou",
+				"location": "野",
+				"description": "高江辺野古名護渋谷浅草、東京沖縄 /NAU/ オールおれたち/人力車夫/ラッパー/post-journalism/肉球新党/立板に水/HIPHOP無頼派/三宅洋平山本太郎/一票一揆/あーまん！/TBSラジオ/法律破るな、常識破れ/都市の中の山や海として/山田太一/在路/まあ、もう三十郎ですがね",
+				"url": "https://t.co/COzxqRxoU5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/COzxqRxoU5",
+								"expanded_url": "https://www.facebook.com/oogesa",
+								"display_url": "facebook.com/oogesa",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3957,
+				"friends_count": 1221,
+				"listed_count": 108,
+				"created_at": "Sun Mar 28 06:31:27 +0000 2010",
+				"favourites_count": 34235,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34838,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "396161",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/539730603835281409/W2ivNowH.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/539730603835281409/W2ivNowH.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/704719938573832192/4jBQvR7I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/704719938573832192/4jBQvR7I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/127149635/1483441588",
+				"profile_link_color": "1ECC87",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "6C8A6C",
+				"profile_text_color": "121112",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 27,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Tue May 16 01:12:21 +0000 2017",
+		"id": 864287369343541200,
+		"id_str": "864287369343541248",
+		"text": "@corwin1129 당장 은행으로!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "corwin1129",
+					"name": "일기통관",
+					"id": 42567931,
+					"id_str": "42567931",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 864285479478243300,
+		"in_reply_to_status_id_str": "864285479478243328",
+		"in_reply_to_user_id": 42567931,
+		"in_reply_to_user_id_str": "42567931",
+		"in_reply_to_screen_name": "corwin1129",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 495,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1747,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15638,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/853798583287431173/9CBI4fz0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon May 15 13:23:09 +0000 2017",
 		"id": 864108892690669600,
 		"id_str": "864108892690669571",
