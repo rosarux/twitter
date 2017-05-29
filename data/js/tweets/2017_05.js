@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Sun May 28 05:41:35 +0000 2017",
+		"id": 868703777917878300,
+		"id_str": "868703777917878272",
+		"text": "RT @porol0ng: 오늘의 나. https://t.co/l3PLKlL5W0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "porol0ng",
+					"name": "포로롱🌿",
+					"id": 834664645809971200,
+					"id_str": "834664645809971201",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 868310462705811500,
+					"id_str": "868310462705811456",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/DAzbw-xVwAARxoW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAzbw-xVwAARxoW.jpg",
+					"url": "https://t.co/l3PLKlL5W0",
+					"display_url": "pic.twitter.com/l3PLKlL5W0",
+					"expanded_url": "https://twitter.com/porol0ng/status/868310468422623233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 868310468422623200,
+					"source_status_id_str": "868310468422623233",
+					"source_user_id": 834664645809971200,
+					"source_user_id_str": "834664645809971201"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 868310462705811500,
+					"id_str": "868310462705811456",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/DAzbw-xVwAARxoW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DAzbw-xVwAARxoW.jpg",
+					"url": "https://t.co/l3PLKlL5W0",
+					"display_url": "pic.twitter.com/l3PLKlL5W0",
+					"expanded_url": "https://twitter.com/porol0ng/status/868310468422623233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 642,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 868310468422623200,
+					"source_status_id_str": "868310468422623233",
+					"source_user_id": 834664645809971200,
+					"source_user_id_str": "834664645809971201"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 493,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1772,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15712,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 27 03:38:42 +0000 2017",
+			"id": 868310468422623200,
+			"id_str": "868310468422623233",
+			"text": "오늘의 나. https://t.co/l3PLKlL5W0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 868310462705811500,
+						"id_str": "868310462705811456",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/DAzbw-xVwAARxoW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAzbw-xVwAARxoW.jpg",
+						"url": "https://t.co/l3PLKlL5W0",
+						"display_url": "pic.twitter.com/l3PLKlL5W0",
+						"expanded_url": "https://twitter.com/porol0ng/status/868310468422623233/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 680,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 642,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 868310462705811500,
+						"id_str": "868310462705811456",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/DAzbw-xVwAARxoW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAzbw-xVwAARxoW.jpg",
+						"url": "https://t.co/l3PLKlL5W0",
+						"display_url": "pic.twitter.com/l3PLKlL5W0",
+						"expanded_url": "https://twitter.com/porol0ng/status/868310468422623233/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 720,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 680,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 642,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 834664645809971200,
+				"id_str": "834664645809971201",
+				"name": "포로롱🌿",
+				"screen_name": "porol0ng",
+				"location": "",
+				"description": "헤더는 연우님🐾!!! 프로필은 임모모님!!!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 138,
+				"friends_count": 153,
+				"listed_count": 0,
+				"created_at": "Thu Feb 23 07:22:13 +0000 2017",
+				"favourites_count": 27731,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2408,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/865581925670375424/sNlYz4Oc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/865581925670375424/sNlYz4Oc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/834664645809971201/1491894115",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7820,
+			"favorite_count": 1871,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7820,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sat May 27 02:28:45 +0000 2017",
 		"id": 868292863997616100,
 		"id_str": "868292863997616128",
