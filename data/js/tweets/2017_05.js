@@ -1,6 +1,898 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Wed May 31 00:13:35 +0000 2017",
+		"id": 869708400568827900,
+		"id_str": "869708400568827905",
+		"text": "RT @CV5YT: 귀여운 아이스베어를 봅시다 https://t.co/vWEmTsRvsp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CV5YT",
+					"name": "울프 제독(고독한 미식 늑대)",
+					"id": 152164668,
+					"id_str": "152164668",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 869570694354317300,
+					"id_str": "869570694354317313",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DBFV8HgUMAE1sao.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBFV8HgUMAE1sao.jpg",
+					"url": "https://t.co/vWEmTsRvsp",
+					"display_url": "pic.twitter.com/vWEmTsRvsp",
+					"expanded_url": "https://twitter.com/CV5YT/status/869570725094359040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 869570725094359000,
+					"source_status_id_str": "869570725094359040",
+					"source_user_id": 152164668,
+					"source_user_id_str": "152164668"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 869570694354317300,
+					"id_str": "869570694354317313",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DBFV8HgUMAE1sao.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBFV8HgUMAE1sao.jpg",
+					"url": "https://t.co/vWEmTsRvsp",
+					"display_url": "pic.twitter.com/vWEmTsRvsp",
+					"expanded_url": "https://twitter.com/CV5YT/status/869570725094359040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 869570725094359000,
+					"source_status_id_str": "869570725094359040",
+					"source_user_id": 152164668,
+					"source_user_id_str": "152164668"
+				},
+				{
+					"id": 869570694350225400,
+					"id_str": "869570694350225408",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DBFV8HfVwAA9udF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DBFV8HfVwAA9udF.jpg",
+					"url": "https://t.co/vWEmTsRvsp",
+					"display_url": "pic.twitter.com/vWEmTsRvsp",
+					"expanded_url": "https://twitter.com/CV5YT/status/869570725094359040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 869570725094359000,
+					"source_status_id_str": "869570725094359040",
+					"source_user_id": 152164668,
+					"source_user_id_str": "152164668"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 492,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1780,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15719,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 30 15:06:31 +0000 2017",
+			"id": 869570725094359000,
+			"id_str": "869570725094359040",
+			"text": "귀여운 아이스베어를 봅시다 https://t.co/vWEmTsRvsp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 869570694354317300,
+						"id_str": "869570694354317313",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/DBFV8HgUMAE1sao.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBFV8HgUMAE1sao.jpg",
+						"url": "https://t.co/vWEmTsRvsp",
+						"display_url": "pic.twitter.com/vWEmTsRvsp",
+						"expanded_url": "https://twitter.com/CV5YT/status/869570725094359040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 869570694354317300,
+						"id_str": "869570694354317313",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/DBFV8HgUMAE1sao.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBFV8HgUMAE1sao.jpg",
+						"url": "https://t.co/vWEmTsRvsp",
+						"display_url": "pic.twitter.com/vWEmTsRvsp",
+						"expanded_url": "https://twitter.com/CV5YT/status/869570725094359040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 869570694350225400,
+						"id_str": "869570694350225408",
+						"indices": [
+							15,
+							38
+						],
+						"media_url": "http://pbs.twimg.com/media/DBFV8HfVwAA9udF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DBFV8HfVwAA9udF.jpg",
+						"url": "https://t.co/vWEmTsRvsp",
+						"display_url": "pic.twitter.com/vWEmTsRvsp",
+						"expanded_url": "https://twitter.com/CV5YT/status/869570725094359040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 152164668,
+				"id_str": "152164668",
+				"name": "울프 제독(고독한 미식 늑대)",
+				"screen_name": "CV5YT",
+				"location": "ユクモ村",
+				"description": "칸코레,월드오브워쉽,워썬더,하스스톤,디지몬,소녀전선,전함소녀,소라히메,포켓몬 등 잡다한 겜덕. 도시문명화된 회색 늑대 제독. 그림, 삼디, 요리하는 백수.군 관련 경험담, 소식 환영합니다.",
+				"url": "https://t.co/Wsg1hugzwM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Wsg1hugzwM",
+								"expanded_url": "http://www.pixiv.net/member.php?id=579976",
+								"display_url": "pixiv.net/member.php?id=…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 246,
+				"friends_count": 264,
+				"listed_count": 23,
+				"created_at": "Sat Jun 05 07:03:43 +0000 2010",
+				"favourites_count": 31126,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 125233,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "313131",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/589344917027074048/QTY2weyb.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/589344917027074048/QTY2weyb.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/868485676307632128/6c9wQ-u9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/868485676307632128/6c9wQ-u9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/152164668/1496116100",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "171106",
+				"profile_text_color": "8A7302",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed May 31 00:09:46 +0000 2017",
+		"id": 869707438726852600,
+		"id_str": "869707438726852608",
+		"text": "RT @BlkBldKnights: 비정상의 정상화 사례라면...\n\n역시 싸드를 제 위치인 팔공산에 배치하는 게 아닐까? \n\n1개 포대가 6문인 걸 잘 아시는 분들이라면, 포대의 제 위치가 어딘지도 잘 아실텐데...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlkBldKnights",
+					"name": "Peter Choi",
+					"id": 50159436,
+					"id_str": "50159436",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 492,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1780,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15719,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 30 23:26:28 +0000 2017",
+			"id": 869696542042488800,
+			"id_str": "869696542042488833",
+			"text": "비정상의 정상화 사례라면...\n\n역시 싸드를 제 위치인 팔공산에 배치하는 게 아닐까? \n\n1개 포대가 6문인 걸 잘 아시는 분들이라면, 포대의 제 위치가 어딘지도 잘 아실텐데...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50159436,
+				"id_str": "50159436",
+				"name": "Peter Choi",
+				"screen_name": "BlkBldKnights",
+				"location": "한왕국 안남시",
+				"description": "표사.\n인기없는 Kassandra. \n프로젝트 블랙블러드나이츠. \n프로젝트 NoGada.   \n프로젝트 중폭시대.\n#gamedev",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 758,
+				"friends_count": 1552,
+				"listed_count": 47,
+				"created_at": "Wed Jun 24 00:48:58 +0000 2009",
+				"favourites_count": 10571,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14897,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836172369509171201/mmr00Ghe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836172369509171201/mmr00Ghe_normal.jpg",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue May 30 09:51:28 +0000 2017",
+		"id": 869491439826214900,
+		"id_str": "869491439826214913",
+		"text": "뭔가 의미가 있을텐데 타임라인의 밀덕 중 누가 설명해주셨으면.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 869458667325636600,
+		"in_reply_to_status_id_str": "869458667325636608",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 492,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1780,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15719,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue May 30 09:50:02 +0000 2017",
+		"id": 869491079736770600,
+		"id_str": "869491079736770560",
+		"text": "오늘 타임라인의 백미는 &lt;포병은 6문 배치가 상식인데요(!?)&gt; 이었던 듯 (w)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 492,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1780,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15719,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue May 30 07:41:14 +0000 2017",
+		"id": 869458667325636600,
+		"id_str": "869458667325636608",
+		"text": "근데 왜 포대 구성은 6문입니까? 나는 이 상식을 왜 모르고 있나. 포병출신이 아니라 그런가.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 492,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1780,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15719,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Tue May 30 04:37:41 +0000 2017",
+		"id": 869412475069841400,
+		"id_str": "869412475069841408",
+		"text": "뜬금없지만, 얼마전에 오키나와 본섬 북부(히가시손, 나키진)에서 정형외과 의사 진료를 못받아서 2박3일 헤메던 기억이 (....)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 492,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1780,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15719,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon May 29 23:33:39 +0000 2017",
 		"id": 869335960785346600,
 		"id_str": "869335960785346560",
