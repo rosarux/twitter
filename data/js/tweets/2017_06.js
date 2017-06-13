@@ -1,6 +1,3873 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 12 23:34:19 +0000 2017",
+		"id": 874409561381150700,
+		"id_str": "874409561381150720",
+		"text": "RT @ryukyushimpo: 翁長知事、大田昌秀氏の県民葬検討へ https://t.co/TFvi1O7oLF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryukyushimpo",
+					"name": "琉球新報",
+					"id": 15746839,
+					"id_str": "15746839",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TFvi1O7oLF",
+					"expanded_url": "http://ow.ly/O1a350c7csJ",
+					"display_url": "ow.ly/O1a350c7csJ",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 12 23:31:13 +0000 2017",
+			"id": 874408778816524300,
+			"id_str": "874408778816524289",
+			"text": "翁長知事、大田昌秀氏の県民葬検討へ https://t.co/TFvi1O7oLF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TFvi1O7oLF",
+						"expanded_url": "http://ow.ly/O1a350c7csJ",
+						"display_url": "ow.ly/O1a350c7csJ",
+						"indices": [
+							18,
+							41
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15746839,
+				"id_str": "15746839",
+				"name": "琉球新報",
+				"screen_name": "ryukyushimpo",
+				"location": "沖縄県那覇市",
+				"description": "沖縄の新聞・琉球新報です。not 琉球新聞。なかのひとが少々。 りゅうちゃん(10歳)は@shimporyuchan、りゅうちゃんクラブは@ryuchanclubです。@shimpolinked、@ryukyushimpo2はbot。会社の見解と必ずしも一致するものばかり(ry",
+				"url": "http://t.co/YUTPJoUc1k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YUTPJoUc1k",
+								"expanded_url": "http://ryukyushimpo.jp",
+								"display_url": "ryukyushimpo.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45058,
+				"friends_count": 12815,
+				"listed_count": 2578,
+				"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+				"favourites_count": 8188,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 91129,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFCCC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/122247791/twitter_summer.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/122247791/twitter_summer.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "D3D920",
+				"profile_sidebar_fill_color": "FAFCC2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Jun 12 23:34:07 +0000 2017",
+		"id": 874409508361035800,
+		"id_str": "874409508361035777",
+		"text": "RT @ryukyushimpo: 大田昌秀氏死去　元知事、全国に基地問う https://t.co/fA3S6gKv26",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryukyushimpo",
+					"name": "琉球新報",
+					"id": 15746839,
+					"id_str": "15746839",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fA3S6gKv26",
+					"expanded_url": "http://ow.ly/puu150c7csI",
+					"display_url": "ow.ly/puu150c7csI",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 12 23:31:11 +0000 2017",
+			"id": 874408772701229000,
+			"id_str": "874408772701229056",
+			"text": "大田昌秀氏死去　元知事、全国に基地問う https://t.co/fA3S6gKv26",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fA3S6gKv26",
+						"expanded_url": "http://ow.ly/puu150c7csI",
+						"display_url": "ow.ly/puu150c7csI",
+						"indices": [
+							20,
+							43
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15746839,
+				"id_str": "15746839",
+				"name": "琉球新報",
+				"screen_name": "ryukyushimpo",
+				"location": "沖縄県那覇市",
+				"description": "沖縄の新聞・琉球新報です。not 琉球新聞。なかのひとが少々。 りゅうちゃん(10歳)は@shimporyuchan、りゅうちゃんクラブは@ryuchanclubです。@shimpolinked、@ryukyushimpo2はbot。会社の見解と必ずしも一致するものばかり(ry",
+				"url": "http://t.co/YUTPJoUc1k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YUTPJoUc1k",
+								"expanded_url": "http://ryukyushimpo.jp",
+								"display_url": "ryukyushimpo.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45058,
+				"friends_count": 12815,
+				"listed_count": 2578,
+				"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+				"favourites_count": 8188,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 91129,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFCCC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/122247791/twitter_summer.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/122247791/twitter_summer.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "D3D920",
+				"profile_sidebar_fill_color": "FAFCC2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Jun 12 22:22:52 +0000 2017",
+		"id": 874391578118201300,
+		"id_str": "874391578118201344",
+		"text": "RT @theokinawatimes: 「僕は戦争を体験しているので、軍事基地の建設はどんな理由があっても拒否するしかなかった。これは生き方の問題だった」\n\n沖縄を語る：大田昌秀さん(88)元沖縄知事（2013年12月の記事です）\nhttps://t.co/cKtDUUUjBZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theokinawatimes",
+					"name": "沖縄タイムス",
+					"id": 118600653,
+					"id_str": "118600653",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cKtDUUUjBZ",
+					"expanded_url": "http://www.okinawatimes.co.jp/articles/-/35199",
+					"display_url": "okinawatimes.co.jp/articles/-/351…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 12 12:00:28 +0000 2017",
+			"id": 874234945450856400,
+			"id_str": "874234945450856449",
+			"text": "「僕は戦争を体験しているので、軍事基地の建設はどんな理由があっても拒否するしかなかった。これは生き方の問題だった」\n\n沖縄を語る：大田昌秀さん(88)元沖縄知事（2013年12月の記事です）\nhttps://t.co/cKtDUUUjBZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cKtDUUUjBZ",
+						"expanded_url": "http://www.okinawatimes.co.jp/articles/-/35199",
+						"display_url": "okinawatimes.co.jp/articles/-/351…",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118600653,
+				"id_str": "118600653",
+				"name": "沖縄タイムス",
+				"screen_name": "theokinawatimes",
+				"location": "沖縄県那覇市",
+				"description": "沖縄、全国、世界の最新ニュースをつぶやきます。米軍基地などの政治問題から観光、芸能、グルメまで幅広く配信。",
+				"url": "http://t.co/MNvzHef3vO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MNvzHef3vO",
+								"expanded_url": "http://www.okinawatimes.co.jp",
+								"display_url": "okinawatimes.co.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 74048,
+				"friends_count": 158,
+				"listed_count": 3053,
+				"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+				"favourites_count": 2904,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 168759,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/640482368134864896/7-cJY-zs.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/640482368134864896/7-cJY-zs.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1486790468",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 317,
+			"favorite_count": 213,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 317,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Jun 12 11:10:21 +0000 2017",
+		"id": 874222333229056000,
+		"id_str": "874222333229056001",
+		"text": "RT @Ssukssukee: 문학과지성사 400번대 보면 정말로 황당하다... 거기에서 성추행 한 사람들 다 빼면 책 한 50권 남음",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ssukssukee",
+					"name": "쓗",
+					"id": 2692683654,
+					"id_str": "2692683654",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 11 08:36:59 +0000 2017",
+			"id": 873821349537501200,
+			"id_str": "873821349537501185",
+			"text": "문학과지성사 400번대 보면 정말로 황당하다... 거기에서 성추행 한 사람들 다 빼면 책 한 50권 남음",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2692683654,
+				"id_str": "2692683654",
+				"name": "쓗",
+				"screen_name": "Ssukssukee",
+				"location": "석관동 ",
+				"description": "BECAUSE you're not there",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 519,
+				"friends_count": 299,
+				"listed_count": 2,
+				"created_at": "Wed Jul 30 11:51:32 +0000 2014",
+				"favourites_count": 6801,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12576,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/866950037334568961/oZ7PY9lJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/866950037334568961/oZ7PY9lJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2692683654/1470008456",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2788,
+			"favorite_count": 496,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2788,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jun 12 11:01:40 +0000 2017",
+		"id": 874220147946344400,
+		"id_str": "874220147946344448",
+		"text": "오타 마사히데 전 오키나와 지사에 관해서는 조만간 트윗으로 소개/정리하겠습니다.  이 분은 일본 복귀 이후 오키나와 역사에서 정말 비중이 어마어마하신지라...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jun 12 10:58:15 +0000 2017",
+		"id": 874219290836127700,
+		"id_str": "874219290836127744",
+		"text": "RT @theokinawatimes: 大田昌秀元沖縄県知事が死去　92歳　普天間返還要求、「平和の礎」建立\nhttps://t.co/0eAIpe0uTl\n#沖縄　#普天間　#辺野古　#平和の礎 https://t.co/l2cUSJn4fD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "沖縄",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "普天間",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "辺野古",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "平和の礎",
+					"indices": [
+						94,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theokinawatimes",
+					"name": "沖縄タイムス",
+					"id": 118600653,
+					"id_str": "118600653",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0eAIpe0uTl",
+					"expanded_url": "http://www.okinawatimes.co.jp/articles/-/101833",
+					"display_url": "okinawatimes.co.jp/articles/-/101…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 874148760162451500,
+					"id_str": "874148760162451456",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DCGZqnpUwAATRjr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCGZqnpUwAATRjr.jpg",
+					"url": "https://t.co/l2cUSJn4fD",
+					"display_url": "pic.twitter.com/l2cUSJn4fD",
+					"expanded_url": "https://twitter.com/theokinawatimes/status/874148912671502336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 533,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 533,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874148912671502300,
+					"source_status_id_str": "874148912671502336",
+					"source_user_id": 118600653,
+					"source_user_id_str": "118600653"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 874148760162451500,
+					"id_str": "874148760162451456",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DCGZqnpUwAATRjr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCGZqnpUwAATRjr.jpg",
+					"url": "https://t.co/l2cUSJn4fD",
+					"display_url": "pic.twitter.com/l2cUSJn4fD",
+					"expanded_url": "https://twitter.com/theokinawatimes/status/874148912671502336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 533,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 533,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874148912671502300,
+					"source_status_id_str": "874148912671502336",
+					"source_user_id": 118600653,
+					"source_user_id_str": "118600653"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 12 06:18:36 +0000 2017",
+			"id": 874148912671502300,
+			"id_str": "874148912671502336",
+			"text": "大田昌秀元沖縄県知事が死去　92歳　普天間返還要求、「平和の礎」建立\nhttps://t.co/0eAIpe0uTl\n#沖縄　#普天間　#辺野古　#平和の礎 https://t.co/l2cUSJn4fD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "沖縄",
+						"indices": [
+							59,
+							62
+						]
+					},
+					{
+						"text": "普天間",
+						"indices": [
+							63,
+							67
+						]
+					},
+					{
+						"text": "辺野古",
+						"indices": [
+							68,
+							72
+						]
+					},
+					{
+						"text": "平和の礎",
+						"indices": [
+							73,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/0eAIpe0uTl",
+						"expanded_url": "http://www.okinawatimes.co.jp/articles/-/101833",
+						"display_url": "okinawatimes.co.jp/articles/-/101…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 874148760162451500,
+						"id_str": "874148760162451456",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DCGZqnpUwAATRjr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCGZqnpUwAATRjr.jpg",
+						"url": "https://t.co/l2cUSJn4fD",
+						"display_url": "pic.twitter.com/l2cUSJn4fD",
+						"expanded_url": "https://twitter.com/theokinawatimes/status/874148912671502336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 533,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 533,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 874148760162451500,
+						"id_str": "874148760162451456",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/DCGZqnpUwAATRjr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCGZqnpUwAATRjr.jpg",
+						"url": "https://t.co/l2cUSJn4fD",
+						"display_url": "pic.twitter.com/l2cUSJn4fD",
+						"expanded_url": "https://twitter.com/theokinawatimes/status/874148912671502336/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 533,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 533,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118600653,
+				"id_str": "118600653",
+				"name": "沖縄タイムス",
+				"screen_name": "theokinawatimes",
+				"location": "沖縄県那覇市",
+				"description": "沖縄、全国、世界の最新ニュースをつぶやきます。米軍基地などの政治問題から観光、芸能、グルメまで幅広く配信。",
+				"url": "http://t.co/MNvzHef3vO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MNvzHef3vO",
+								"expanded_url": "http://www.okinawatimes.co.jp",
+								"display_url": "okinawatimes.co.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 74048,
+				"friends_count": 158,
+				"listed_count": 3053,
+				"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+				"favourites_count": 2904,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 168759,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/640482368134864896/7-cJY-zs.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/640482368134864896/7-cJY-zs.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1486790468",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 501,
+			"favorite_count": 245,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 501,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Jun 12 10:54:49 +0000 2017",
+		"id": 874218424741773300,
+		"id_str": "874218424741773312",
+		"text": "RT @kaiensha: 海燕1号です。大田昌秀さんの思い出。感謝。https://t.co/vSpspJD9Ek",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kaiensha",
+					"name": "海燕社",
+					"id": 582878606,
+					"id_str": "582878606",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vSpspJD9Ek",
+					"expanded_url": "https://twitter.com/kaiensha/status/809929574536491008",
+					"display_url": "twitter.com/kaiensha/statu…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 12 10:47:05 +0000 2017",
+			"id": 874216478018420700,
+			"id_str": "874216478018420736",
+			"text": "海燕1号です。大田昌秀さんの思い出。感謝。https://t.co/vSpspJD9Ek",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vSpspJD9Ek",
+						"expanded_url": "https://twitter.com/kaiensha/status/809929574536491008",
+						"display_url": "twitter.com/kaiensha/statu…",
+						"indices": [
+							21,
+							44
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 582878606,
+				"id_str": "582878606",
+				"name": "海燕社",
+				"screen_name": "kaiensha",
+				"location": "沖縄",
+				"description": "沖縄の小さな映像製作会社です。上映会情報を主に。１号＆２号＆３号＆…号の日々つれづれも。映画、写真、本、祭祀、伝統文化、自然、美術、音楽…。尚、海燕社関連以外のRTは１号個人の見解です。https://t.co/qw6E8LrNPd",
+				"url": "http://t.co/lYiqSxMM2B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/lYiqSxMM2B",
+								"expanded_url": "http://www.kaiensha.jp/",
+								"display_url": "kaiensha.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qw6E8LrNPd",
+								"expanded_url": "http://fujigakutotai.com/",
+								"display_url": "fujigakutotai.com",
+								"indices": [
+									93,
+									116
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1204,
+				"friends_count": 902,
+				"listed_count": 37,
+				"created_at": "Thu May 17 15:36:09 +0000 2012",
+				"favourites_count": 1538,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28047,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2523055312/ptaec7hatym9hxjqr2sf_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2523055312/ptaec7hatym9hxjqr2sf_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/582878606/1477228184",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 809929574536491000,
+			"quoted_status_id_str": "809929574536491008",
+			"quoted_status": {
+				"created_at": "Sat Dec 17 01:13:52 +0000 2016",
+				"id": 809929574536491000,
+				"id_str": "809929574536491008",
+				"text": "海燕1号です。北陸中日新聞(12/9)に掲載された島尾二さんと名城文子さんの記事です。北陸中日新聞に感謝。大田昌秀元沖縄県知事「…あんな親切な日本兵に会うのは初めてで感動した。」。写真は「医師と沖縄 島尾二の戦争」(上)。 https://t.co/YuFrBEkJI5",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 809929561328599000,
+							"id_str": "809929561328599041",
+							"indices": [
+								112,
+								135
+							],
+							"media_url": "http://pbs.twimg.com/media/Cz1ypRQUQAErDBA.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Cz1ypRQUQAErDBA.jpg",
+							"url": "https://t.co/YuFrBEkJI5",
+							"display_url": "pic.twitter.com/YuFrBEkJI5",
+							"expanded_url": "https://twitter.com/kaiensha/status/809929574536491008/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 836,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1426,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 473,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 809929561328599000,
+							"id_str": "809929561328599041",
+							"indices": [
+								112,
+								135
+							],
+							"media_url": "http://pbs.twimg.com/media/Cz1ypRQUQAErDBA.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Cz1ypRQUQAErDBA.jpg",
+							"url": "https://t.co/YuFrBEkJI5",
+							"display_url": "pic.twitter.com/YuFrBEkJI5",
+							"expanded_url": "https://twitter.com/kaiensha/status/809929574536491008/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 836,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1426,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 473,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 582878606,
+					"id_str": "582878606",
+					"name": "海燕社",
+					"screen_name": "kaiensha",
+					"location": "沖縄",
+					"description": "沖縄の小さな映像製作会社です。上映会情報を主に。１号＆２号＆３号＆…号の日々つれづれも。映画、写真、本、祭祀、伝統文化、自然、美術、音楽…。尚、海燕社関連以外のRTは１号個人の見解です。https://t.co/qw6E8LrNPd",
+					"url": "http://t.co/lYiqSxMM2B",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/lYiqSxMM2B",
+									"expanded_url": "http://www.kaiensha.jp/",
+									"display_url": "kaiensha.jp",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/qw6E8LrNPd",
+									"expanded_url": "http://fujigakutotai.com/",
+									"display_url": "fujigakutotai.com",
+									"indices": [
+										93,
+										116
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 1204,
+					"friends_count": 902,
+					"listed_count": 37,
+					"created_at": "Thu May 17 15:36:09 +0000 2012",
+					"favourites_count": 1538,
+					"utc_offset": 28800,
+					"time_zone": "Irkutsk",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 28047,
+					"lang": "ja",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/2523055312/ptaec7hatym9hxjqr2sf_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/2523055312/ptaec7hatym9hxjqr2sf_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/582878606/1477228184",
+					"profile_link_color": "3B94D9",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 3,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ja"
+			},
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 809929574536491000,
+		"quoted_status_id_str": "809929574536491008",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Jun 12 08:13:34 +0000 2017",
+		"id": 874177846993854500,
+		"id_str": "874177846993854466",
+		"text": "RT @tokyonewsroom: ２３日の「沖縄慰霊の日」を前に、元沖縄県知事の大田昌秀さん（９２）が死去しました。本日１２日は、大田さんの著書「人生の蕾（つぼみ）のまま戦場に散った学徒兵　沖縄　鉄血勤皇隊」（高文研）の発刊の日でした。琉球新報さんの記事から。（一） htt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tokyonewsroom",
+					"name": "東京新聞編集局",
+					"id": 810015588198338600,
+					"id_str": "810015588198338560",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 12 06:17:19 +0000 2017",
+			"id": 874148590683267100,
+			"id_str": "874148590683267072",
+			"text": "２３日の「沖縄慰霊の日」を前に、元沖縄県知事の大田昌秀さん（９２）が死去しました。本日１２日は、大田さんの著書「人生の蕾（つぼみ）のまま戦場に散った学徒兵　沖縄　鉄血勤皇隊」（高文研）の発刊の日でした。琉球新報さんの記事から。（一） https://t.co/FDQnNRCfqq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FDQnNRCfqq",
+						"expanded_url": "http://ryukyushimpo.jp/news/entry-513319.html",
+						"display_url": "ryukyushimpo.jp/news/entry-513…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 810015588198338600,
+				"id_str": "810015588198338560",
+				"name": "東京新聞編集局",
+				"screen_name": "tokyonewsroom",
+				"location": "東京都千代田区",
+				"description": "東京新聞編集局の公式アカウントです。編集者たちが、その日の東京新聞の読みどころや記事作成の舞台裏、記事掲載の予告などをつぶやきます。７月２日投開票の東京都議選に向け、各部横断で特別編成したＳＮＳ班が動画なども駆使して分かりやすく伝えます。その間、アイコンやヘッダーの画像（ＳＮＳ班メンバー）も特別バージョンにしています。",
+				"url": "https://t.co/F4FQRXmaJw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F4FQRXmaJw",
+								"expanded_url": "http://www.tokyo-np.co.jp/",
+								"display_url": "tokyo-np.co.jp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4311,
+				"friends_count": 4481,
+				"listed_count": 142,
+				"created_at": "Sat Dec 17 06:55:40 +0000 2016",
+				"favourites_count": 402,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2259,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/867187856527282178/Aa1PtCEA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/867187856527282178/Aa1PtCEA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/810015588198338560/1496147546",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 310,
+			"favorite_count": 152,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 310,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Jun 12 08:07:16 +0000 2017",
+		"id": 874176260737425400,
+		"id_str": "874176260737425408",
+		"text": "이토카즈 의원이 47년생이니까 올해 딱 70세...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 874175864539193300,
+		"in_reply_to_status_id_str": "874175864539193345",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jun 12 08:05:42 +0000 2017",
+		"id": 874175864539193300,
+		"id_str": "874175864539193345",
+		"text": "이에지마의 자하나 상이 37년생...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 874175544895488000,
+		"in_reply_to_status_id_str": "874175544895488001",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jun 12 08:04:25 +0000 2017",
+		"id": 874175544895488000,
+		"id_str": "874175544895488001",
+		"text": "그러면서 메일 말미에 하루 하루 나이가 들어간다는 걸 실감하고 지내는 요즘...이라고 적으셔서 또 눈물이 ㅠㅠ 아라사키센세가 36년생...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 874175259896717300,
+		"in_reply_to_status_id_str": "874175259896717312",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jun 12 08:03:18 +0000 2017",
+		"id": 874175259896717300,
+		"id_str": "874175259896717312",
+		"text": "저번에 오키나와 다녀왔을 때, 아라사키 센세 빼고(-_-;) 다른 분들만 보고 왔는데, 나중에 메일로 실은 저번에 **센세랑 &amp;&amp;상이랑 봤어요...라고 말씀 드렸더니, 나도 **랑 &amp;&amp;랑 친한데! 왜 나는 안부르고! 화를 내셔서...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 874174741124272100,
+		"in_reply_to_status_id_str": "874174741124272128",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jun 12 08:01:14 +0000 2017",
+		"id": 874174741124272100,
+		"id_str": "874174741124272128",
+		"text": "그리고 여전히, 활발하게 정정히, 활동하고 계신, 언제까지고 활동하고 계실 것만 같은 선생님들, 어르신들 생각이... 또...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 874174410105659400,
+		"in_reply_to_status_id_str": "874174410105659392",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jun 12 07:59:55 +0000 2017",
+		"id": 874174410105659400,
+		"id_str": "874174410105659392",
+		"text": "오타 마사히데 大田昌秀 전 오키나와 지사가 돌어가셨다는 부고를 들으니. (솔직히 관심없는 사람이야 옆나라 시골 지사가 뭐 대수라고 그러겠지만)이렇게 또 한 시대가 저물어가는구나...하는 생각이...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jun 12 07:53:37 +0000 2017",
+		"id": 874172825619189800,
+		"id_str": "874172825619189761",
+		"text": "류큐신보 호외\nhttps://t.co/UgSSOhvZPl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UgSSOhvZPl",
+					"expanded_url": "http://ryukyushimpo.jp/archives/002/201706/20170612-gougai.pdf",
+					"display_url": "ryukyushimpo.jp/archives/002/2…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 874172451323641900,
+		"in_reply_to_status_id_str": "874172451323641856",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jun 12 07:52:08 +0000 2017",
+		"id": 874172451323641900,
+		"id_str": "874172451323641856",
+		"text": "아사히의 오타 마사히데 전 지사 특집 페이지\n大田昌秀に関するトピックス：朝日新聞デジタル https://t.co/yBQU9z2KTr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yBQU9z2KTr",
+					"expanded_url": "http://www.asahi.com/topics/word/%E5%A4%A7%E7%94%B0%E6%98%8C%E7%A7%80.html",
+					"display_url": "asahi.com/topics/word/%E…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Jun 12 07:33:42 +0000 2017",
+		"id": 874167814818365400,
+		"id_str": "874167814818365440",
+		"text": "RT @ryukyushimpo: 知事として平和行政推進　大田昌秀氏 https://t.co/gByFqQungK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryukyushimpo",
+					"name": "琉球新報",
+					"id": 15746839,
+					"id_str": "15746839",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gByFqQungK",
+					"expanded_url": "http://ow.ly/VhGT50c6aso",
+					"display_url": "ow.ly/VhGT50c6aso",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 12 07:31:25 +0000 2017",
+			"id": 874167239313940500,
+			"id_str": "874167239313940481",
+			"text": "知事として平和行政推進　大田昌秀氏 https://t.co/gByFqQungK",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gByFqQungK",
+						"expanded_url": "http://ow.ly/VhGT50c6aso",
+						"display_url": "ow.ly/VhGT50c6aso",
+						"indices": [
+							18,
+							41
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15746839,
+				"id_str": "15746839",
+				"name": "琉球新報",
+				"screen_name": "ryukyushimpo",
+				"location": "沖縄県那覇市",
+				"description": "沖縄の新聞・琉球新報です。not 琉球新聞。なかのひとが少々。 りゅうちゃん(10歳)は@shimporyuchan、りゅうちゃんクラブは@ryuchanclubです。@shimpolinked、@ryukyushimpo2はbot。会社の見解と必ずしも一致するものばかり(ry",
+				"url": "http://t.co/YUTPJoUc1k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YUTPJoUc1k",
+								"expanded_url": "http://ryukyushimpo.jp",
+								"display_url": "ryukyushimpo.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45058,
+				"friends_count": 12815,
+				"listed_count": 2578,
+				"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+				"favourites_count": 8188,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 91129,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFCCC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/122247791/twitter_summer.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/122247791/twitter_summer.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "D3D920",
+				"profile_sidebar_fill_color": "FAFCC2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 87,
+			"favorite_count": 53,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Jun 12 06:42:33 +0000 2017",
+		"id": 874154941840937000,
+		"id_str": "874154941840936960",
+		"text": "RT @ryukyushimpo: 大田昌秀氏が死去　沖縄県知事、参院議員など歴任 https://t.co/1YP7gRbPed",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryukyushimpo",
+					"name": "琉球新報",
+					"id": 15746839,
+					"id_str": "15746839",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1YP7gRbPed",
+					"expanded_url": "http://ow.ly/ORRN50c66Xj",
+					"display_url": "ow.ly/ORRN50c66Xj",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 12 06:31:28 +0000 2017",
+			"id": 874152149256736800,
+			"id_str": "874152149256736769",
+			"text": "大田昌秀氏が死去　沖縄県知事、参院議員など歴任 https://t.co/1YP7gRbPed",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1YP7gRbPed",
+						"expanded_url": "http://ow.ly/ORRN50c66Xj",
+						"display_url": "ow.ly/ORRN50c66Xj",
+						"indices": [
+							24,
+							47
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15746839,
+				"id_str": "15746839",
+				"name": "琉球新報",
+				"screen_name": "ryukyushimpo",
+				"location": "沖縄県那覇市",
+				"description": "沖縄の新聞・琉球新報です。not 琉球新聞。なかのひとが少々。 りゅうちゃん(10歳)は@shimporyuchan、りゅうちゃんクラブは@ryuchanclubです。@shimpolinked、@ryukyushimpo2はbot。会社の見解と必ずしも一致するものばかり(ry",
+				"url": "http://t.co/YUTPJoUc1k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YUTPJoUc1k",
+								"expanded_url": "http://ryukyushimpo.jp",
+								"display_url": "ryukyushimpo.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45058,
+				"friends_count": 12815,
+				"listed_count": 2578,
+				"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+				"favourites_count": 8188,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 91129,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFCCC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/122247791/twitter_summer.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/122247791/twitter_summer.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "D3D920",
+				"profile_sidebar_fill_color": "FAFCC2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 181,
+			"favorite_count": 54,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 181,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Jun 12 06:40:10 +0000 2017",
+		"id": 874154341824741400,
+		"id_str": "874154341824741377",
+		"text": "RT @theokinawatimes: 大田昌秀・元沖縄県知事が死去　 https://t.co/YMWl5iU1xw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theokinawatimes",
+					"name": "沖縄タイムス",
+					"id": 118600653,
+					"id_str": "118600653",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YMWl5iU1xw",
+					"expanded_url": "https://goo.gl/W8fjuo",
+					"display_url": "goo.gl/W8fjuo",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 12 06:30:07 +0000 2017",
+			"id": 874151811451572200,
+			"id_str": "874151811451572224",
+			"text": "大田昌秀・元沖縄県知事が死去　 https://t.co/YMWl5iU1xw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YMWl5iU1xw",
+						"expanded_url": "https://goo.gl/W8fjuo",
+						"display_url": "goo.gl/W8fjuo",
+						"indices": [
+							16,
+							39
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.okinawatimes.co.jp\" rel=\"nofollow\">沖縄タイムス社TweetBot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118600653,
+				"id_str": "118600653",
+				"name": "沖縄タイムス",
+				"screen_name": "theokinawatimes",
+				"location": "沖縄県那覇市",
+				"description": "沖縄、全国、世界の最新ニュースをつぶやきます。米軍基地などの政治問題から観光、芸能、グルメまで幅広く配信。",
+				"url": "http://t.co/MNvzHef3vO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MNvzHef3vO",
+								"expanded_url": "http://www.okinawatimes.co.jp",
+								"display_url": "okinawatimes.co.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 74048,
+				"friends_count": 158,
+				"listed_count": 3053,
+				"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+				"favourites_count": 2904,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 168759,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/640482368134864896/7-cJY-zs.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/640482368134864896/7-cJY-zs.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1486790468",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Jun 12 06:39:54 +0000 2017",
+		"id": 874154275756101600,
+		"id_str": "874154275756101632",
+		"text": "RT @BARANEKO: 速報：元沖縄県知事の大田昌秀さんが死去。９２歳。沖縄の基地問題を訴え続けた　（14:54）\n最後の著作になったのかな。悼む https://t.co/dPhoXhRxbB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BARANEKO",
+					"name": "BARA",
+					"id": 73391048,
+					"id_str": "73391048",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 874150775361949700,
+					"id_str": "874150775361949696",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DCGbf62U0AAsOLq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCGbf62U0AAsOLq.jpg",
+					"url": "https://t.co/dPhoXhRxbB",
+					"display_url": "pic.twitter.com/dPhoXhRxbB",
+					"expanded_url": "https://twitter.com/BARANEKO/status/874151210999177216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 902,
+							"h": 1341,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874151210999177200,
+					"source_status_id_str": "874151210999177216",
+					"source_user_id": 73391048,
+					"source_user_id_str": "73391048"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 874150775361949700,
+					"id_str": "874150775361949696",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DCGbf62U0AAsOLq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCGbf62U0AAsOLq.jpg",
+					"url": "https://t.co/dPhoXhRxbB",
+					"display_url": "pic.twitter.com/dPhoXhRxbB",
+					"expanded_url": "https://twitter.com/BARANEKO/status/874151210999177216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 902,
+							"h": 1341,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874151210999177200,
+					"source_status_id_str": "874151210999177216",
+					"source_user_id": 73391048,
+					"source_user_id_str": "73391048"
+				},
+				{
+					"id": 874151158549422100,
+					"id_str": "874151158549422080",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/DCGb2OVVoAAbYLR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCGb2OVVoAAbYLR.jpg",
+					"url": "https://t.co/dPhoXhRxbB",
+					"display_url": "pic.twitter.com/dPhoXhRxbB",
+					"expanded_url": "https://twitter.com/BARANEKO/status/874151210999177216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 425,
+							"h": 319,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 425,
+							"h": 319,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 425,
+							"h": 319,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874151210999177200,
+					"source_status_id_str": "874151210999177216",
+					"source_user_id": 73391048,
+					"source_user_id_str": "73391048"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 12 06:27:44 +0000 2017",
+			"id": 874151210999177200,
+			"id_str": "874151210999177216",
+			"text": "速報：元沖縄県知事の大田昌秀さんが死去。９２歳。沖縄の基地問題を訴え続けた　（14:54）\n最後の著作になったのかな。悼む https://t.co/dPhoXhRxbB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 874150775361949700,
+						"id_str": "874150775361949696",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DCGbf62U0AAsOLq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCGbf62U0AAsOLq.jpg",
+						"url": "https://t.co/dPhoXhRxbB",
+						"display_url": "pic.twitter.com/dPhoXhRxbB",
+						"expanded_url": "https://twitter.com/BARANEKO/status/874151210999177216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 457,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 807,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 902,
+								"h": 1341,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 874150775361949700,
+						"id_str": "874150775361949696",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DCGbf62U0AAsOLq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCGbf62U0AAsOLq.jpg",
+						"url": "https://t.co/dPhoXhRxbB",
+						"display_url": "pic.twitter.com/dPhoXhRxbB",
+						"expanded_url": "https://twitter.com/BARANEKO/status/874151210999177216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 457,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 807,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 902,
+								"h": 1341,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 874151158549422100,
+						"id_str": "874151158549422080",
+						"indices": [
+							62,
+							85
+						],
+						"media_url": "http://pbs.twimg.com/media/DCGb2OVVoAAbYLR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCGb2OVVoAAbYLR.jpg",
+						"url": "https://t.co/dPhoXhRxbB",
+						"display_url": "pic.twitter.com/dPhoXhRxbB",
+						"expanded_url": "https://twitter.com/BARANEKO/status/874151210999177216/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 425,
+								"h": 319,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 425,
+								"h": 319,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 425,
+								"h": 319,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 73391048,
+				"id_str": "73391048",
+				"name": "BARA",
+				"screen_name": "BARANEKO",
+				"location": "どこか",
+				"description": "ｔｗｉｌｏｇはhttps://t.co/oAWPpPJB1Q",
+				"url": "https://t.co/iCGmi3zCok",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iCGmi3zCok",
+								"expanded_url": "http://blog.goo.ne.jp/harumi-s_2005",
+								"display_url": "blog.goo.ne.jp/harumi-s_2005",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/oAWPpPJB1Q",
+								"expanded_url": "http://twilog.org/BARANEKO",
+								"display_url": "twilog.org/BARANEKO",
+								"indices": [
+									7,
+									30
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4732,
+				"friends_count": 1769,
+				"listed_count": 178,
+				"created_at": "Fri Sep 11 13:59:36 +0000 2009",
+				"favourites_count": 20365,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 229547,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/344511763024587178/0e59f1913e68d0e90732efb0d89df9be.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/344511763024587178/0e59f1913e68d0e90732efb0d89df9be.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/872582618247712768/tnyG8qvv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/872582618247712768/tnyG8qvv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/73391048/1496874760",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Jun 12 06:39:48 +0000 2017",
+		"id": 874154246538641400,
+		"id_str": "874154246538641409",
+		"text": "RT @cryforpeace: 朝日新聞(6/12)米軍基地問題訴え続けた大田昌秀さん死去　元沖縄県知事 : R.I.P. https://t.co/XP48wMnIA2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cryforpeace",
+					"name": "非戦音楽人会議",
+					"id": 43734586,
+					"id_str": "43734586",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XP48wMnIA2",
+					"expanded_url": "http://fb.me/8CkdIKTvM",
+					"display_url": "fb.me/8CkdIKTvM",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 12 06:26:54 +0000 2017",
+			"id": 874151000126435300,
+			"id_str": "874151000126435329",
+			"text": "朝日新聞(6/12)米軍基地問題訴え続けた大田昌秀さん死去　元沖縄県知事 : R.I.P. https://t.co/XP48wMnIA2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XP48wMnIA2",
+						"expanded_url": "http://fb.me/8CkdIKTvM",
+						"display_url": "fb.me/8CkdIKTvM",
+						"indices": [
+							46,
+							69
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43734586,
+				"id_str": "43734586",
+				"name": "非戦音楽人会議",
+				"screen_name": "cryforpeace",
+				"location": "東京都",
+				"description": "戦争や軍事力の行使に反対し、そこに関わるいかなる行為にも荷担しないことを誓い、それを明確に表明する、音楽人の集まりです。詳しくは上記URLのWebを御参照下さい。ここではニュースや情報を発信していきます。よろしくお願いいたします。",
+				"url": "http://t.co/IK5LH2sxdO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IK5LH2sxdO",
+								"expanded_url": "http://www.ilovepeace.com/",
+								"display_url": "ilovepeace.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3616,
+				"friends_count": 196,
+				"listed_count": 314,
+				"created_at": "Sun May 31 18:57:50 +0000 2009",
+				"favourites_count": 0,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 33854,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "94033D",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/736442969885048832/Z6uWsf9I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/736442969885048832/Z6uWsf9I_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FA9B9B",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Jun 12 06:31:43 +0000 2017",
+		"id": 874152213815230500,
+		"id_str": "874152213815230464",
+		"text": "아... 오늘이 92세 생신이셨구나..,",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 874148221546709000,
+		"in_reply_to_status_id_str": "874148221546708992",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Jun 12 06:15:51 +0000 2017",
+		"id": 874148221546709000,
+		"id_str": "874148221546708992",
+		"text": "大田昌秀오타 마사히데 전 오키나와 지사 별세. 1925년생. 오키나와 근현대사의 산 증인이자 큰 별이 또 세상을 뜨다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 603,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1813,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Sun Jun 11 02:44:35 +0000 2017",
 		"id": 873732667044380700,
 		"id_str": "873732667044380673",
