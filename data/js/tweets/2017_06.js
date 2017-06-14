@@ -1,6 +1,713 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Tue Jun 13 09:51:57 +0000 2017",
+		"id": 874564992367902700,
+		"id_str": "874564992367902720",
+		"text": "RT @theokinawatimes: 「ハッピーバースデー　ディア　大田先生　ハッピバースデー　トゥーユー」ーー。92歳の誕生日、家族や琉球大学の教え子たちの歌が終わるころ、大田昌秀さんは眠るように息を引き取ったという。\nhttps://t.co/yNrmvuvmHY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theokinawatimes",
+					"name": "沖縄タイムス",
+					"id": 118600653,
+					"id_str": "118600653",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yNrmvuvmHY",
+					"expanded_url": "http://www.okinawatimes.co.jp/articles/-/101937",
+					"display_url": "okinawatimes.co.jp/articles/-/101…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 490,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1815,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15811,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 13 03:33:05 +0000 2017",
+			"id": 874469647495553000,
+			"id_str": "874469647495553024",
+			"text": "「ハッピーバースデー　ディア　大田先生　ハッピバースデー　トゥーユー」ーー。92歳の誕生日、家族や琉球大学の教え子たちの歌が終わるころ、大田昌秀さんは眠るように息を引き取ったという。\nhttps://t.co/yNrmvuvmHY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/yNrmvuvmHY",
+						"expanded_url": "http://www.okinawatimes.co.jp/articles/-/101937",
+						"display_url": "okinawatimes.co.jp/articles/-/101…",
+						"indices": [
+							92,
+							115
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118600653,
+				"id_str": "118600653",
+				"name": "沖縄タイムス",
+				"screen_name": "theokinawatimes",
+				"location": "沖縄県那覇市",
+				"description": "沖縄、全国、世界の最新ニュースをつぶやきます。米軍基地などの政治問題から観光、芸能、グルメまで幅広く配信。",
+				"url": "http://t.co/MNvzHef3vO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MNvzHef3vO",
+								"expanded_url": "http://www.okinawatimes.co.jp",
+								"display_url": "okinawatimes.co.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 74076,
+				"friends_count": 158,
+				"listed_count": 3053,
+				"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+				"favourites_count": 2905,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 168877,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/640482368134864896/7-cJY-zs.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/640482368134864896/7-cJY-zs.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1486790468",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 89,
+			"favorite_count": 70,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Tue Jun 13 03:58:31 +0000 2017",
+		"id": 874476048041164800,
+		"id_str": "874476048041164801",
+		"text": "RT @BARANEKO: 沖縄タイムス　１３日\n大田昌秀さん死去\n① https://t.co/28yIuKHbrJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BARANEKO",
+					"name": "BARA",
+					"id": 73391048,
+					"id_str": "73391048",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 874474098776186900,
+					"id_str": "874474098776186881",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DCLBj0bVoAE-s7G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCLBj0bVoAE-s7G.jpg",
+					"url": "https://t.co/28yIuKHbrJ",
+					"display_url": "pic.twitter.com/28yIuKHbrJ",
+					"expanded_url": "https://twitter.com/BARANEKO/status/874474149833355264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 618,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 970,
+							"h": 882,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 882,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874474149833355300,
+					"source_status_id_str": "874474149833355264",
+					"source_user_id": 73391048,
+					"source_user_id_str": "73391048"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 874474098776186900,
+					"id_str": "874474098776186881",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DCLBj0bVoAE-s7G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCLBj0bVoAE-s7G.jpg",
+					"url": "https://t.co/28yIuKHbrJ",
+					"display_url": "pic.twitter.com/28yIuKHbrJ",
+					"expanded_url": "https://twitter.com/BARANEKO/status/874474149833355264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 618,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 970,
+							"h": 882,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 970,
+							"h": 882,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874474149833355300,
+					"source_status_id_str": "874474149833355264",
+					"source_user_id": 73391048,
+					"source_user_id_str": "73391048"
+				},
+				{
+					"id": 874474137883787300,
+					"id_str": "874474137883787265",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DCLBmGHUQAEEGbg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCLBmGHUQAEEGbg.jpg",
+					"url": "https://t.co/28yIuKHbrJ",
+					"display_url": "pic.twitter.com/28yIuKHbrJ",
+					"expanded_url": "https://twitter.com/BARANEKO/status/874474149833355264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 524,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 696,
+							"h": 536,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 696,
+							"h": 536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 874474149833355300,
+					"source_status_id_str": "874474149833355264",
+					"source_user_id": 73391048,
+					"source_user_id_str": "73391048"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 490,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1815,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15811,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jun 13 03:50:58 +0000 2017",
+			"id": 874474149833355300,
+			"id_str": "874474149833355264",
+			"text": "沖縄タイムス　１３日\n大田昌秀さん死去\n① https://t.co/28yIuKHbrJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 874474098776186900,
+						"id_str": "874474098776186881",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/DCLBj0bVoAE-s7G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCLBj0bVoAE-s7G.jpg",
+						"url": "https://t.co/28yIuKHbrJ",
+						"display_url": "pic.twitter.com/28yIuKHbrJ",
+						"expanded_url": "https://twitter.com/BARANEKO/status/874474149833355264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 618,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 970,
+								"h": 882,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 970,
+								"h": 882,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 874474098776186900,
+						"id_str": "874474098776186881",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/DCLBj0bVoAE-s7G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCLBj0bVoAE-s7G.jpg",
+						"url": "https://t.co/28yIuKHbrJ",
+						"display_url": "pic.twitter.com/28yIuKHbrJ",
+						"expanded_url": "https://twitter.com/BARANEKO/status/874474149833355264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 618,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 970,
+								"h": 882,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 970,
+								"h": 882,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 874474137883787300,
+						"id_str": "874474137883787265",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/DCLBmGHUQAEEGbg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCLBmGHUQAEEGbg.jpg",
+						"url": "https://t.co/28yIuKHbrJ",
+						"display_url": "pic.twitter.com/28yIuKHbrJ",
+						"expanded_url": "https://twitter.com/BARANEKO/status/874474149833355264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 524,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 696,
+								"h": 536,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 696,
+								"h": 536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 73391048,
+				"id_str": "73391048",
+				"name": "BARA",
+				"screen_name": "BARANEKO",
+				"location": "どこか",
+				"description": "ｔｗｉｌｏｇはhttps://t.co/oAWPpPJB1Q",
+				"url": "https://t.co/iCGmi3zCok",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iCGmi3zCok",
+								"expanded_url": "http://blog.goo.ne.jp/harumi-s_2005",
+								"display_url": "blog.goo.ne.jp/harumi-s_2005",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/oAWPpPJB1Q",
+								"expanded_url": "http://twilog.org/BARANEKO",
+								"display_url": "twilog.org/BARANEKO",
+								"indices": [
+									7,
+									30
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4736,
+				"friends_count": 1770,
+				"listed_count": 178,
+				"created_at": "Fri Sep 11 13:59:36 +0000 2009",
+				"favourites_count": 20365,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 229625,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/344511763024587178/0e59f1913e68d0e90732efb0d89df9be.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/344511763024587178/0e59f1913e68d0e90732efb0d89df9be.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/872582618247712768/tnyG8qvv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/872582618247712768/tnyG8qvv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/73391048/1496874760",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Tue Jun 13 03:58:10 +0000 2017",
+		"id": 874475958866034700,
+		"id_str": "874475958866034689",
+		"text": "아이코스는 웹을 통한 고객대응을 포기했나보다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 490,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1815,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15811,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Jun 12 23:34:19 +0000 2017",
 		"id": 874409561381150700,
 		"id_str": "874409561381150720",
