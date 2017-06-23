@@ -1,6 +1,905 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Thu Jun 22 23:05:05 +0000 2017",
+		"id": 878026082582003700,
+		"id_str": "878026082582003712",
+		"text": "RT @NewsOkinawa: [おきなわ] きょう 大田さんの思い胸に 「地獄がそこに」 「目の前で米兵暴行」 https://t.co/7QJUQpw3sn 沖縄県関連のニュース https://t.co/AWSG8ZLQfY #沖縄",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "沖縄",
+					"indices": [
+						117,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewsOkinawa",
+					"name": "NewsOkinawa",
+					"id": 371098869,
+					"id_str": "371098869",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7QJUQpw3sn",
+					"expanded_url": "http://tinyurl.com/yc9munq5",
+					"display_url": "tinyurl.com/yc9munq5",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/AWSG8ZLQfY",
+					"expanded_url": "http://inewsjp.com/news/?px=47&i=5878382",
+					"display_url": "inewsjp.com/news/?px=47&i=…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 604,
+			"friends_count": 492,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1823,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15842,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 22 22:47:29 +0000 2017",
+			"id": 878021654525247500,
+			"id_str": "878021654525247488",
+			"text": "[おきなわ] きょう 大田さんの思い胸に 「地獄がそこに」 「目の前で米兵暴行」 https://t.co/7QJUQpw3sn 沖縄県関連のニュース https://t.co/AWSG8ZLQfY #沖縄",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "沖縄",
+						"indices": [
+							100,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7QJUQpw3sn",
+						"expanded_url": "http://tinyurl.com/yc9munq5",
+						"display_url": "tinyurl.com/yc9munq5",
+						"indices": [
+							41,
+							64
+						]
+					},
+					{
+						"url": "https://t.co/AWSG8ZLQfY",
+						"expanded_url": "http://inewsjp.com/news/?px=47&i=5878382",
+						"display_url": "inewsjp.com/news/?px=47&i=…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/NewsOkinawa\" rel=\"nofollow\">TweetNewsOfOkinawa</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 371098869,
+				"id_str": "371098869",
+				"name": "NewsOkinawa",
+				"screen_name": "NewsOkinawa",
+				"location": "",
+				"description": "沖縄関連のにゅーすやいろんな情報をついーとするよ",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4119,
+				"friends_count": 3696,
+				"listed_count": 138,
+				"created_at": "Sat Sep 10 05:50:57 +0000 2011",
+				"favourites_count": 0,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 67574,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1537902344/371098869-1315710290-58_normal",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537902344/371098869-1315710290-58_normal",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Thu Jun 22 23:00:12 +0000 2017",
+		"id": 878024851847389200,
+		"id_str": "878024851847389186",
+		"text": "오늘, 오키나와 위령의 날.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 604,
+			"friends_count": 492,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1823,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15842,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu Jun 22 22:59:54 +0000 2017",
+		"id": 878024777876652000,
+		"id_str": "878024777876652032",
+		"text": "RT @eizo_desk: 沖縄戦の犠牲者を悼む「慰霊の日」（２３日）の追悼式前夜祭が沖縄県糸満市摩文仁（まぶに）の沖縄平和祈念堂でありました。（萩）フルバージョンは→https://t.co/5WROIKxJdL https://t.co/iMuO0kG4x9",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eizo_desk",
+					"name": "毎日新聞映像グループ",
+					"id": 3191925858,
+					"id_str": "3191925858",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5WROIKxJdL",
+					"expanded_url": "https://mainichi.jp/movie/video/?id=119693315",
+					"display_url": "mainichi.jp/movie/video/?i…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 877904235043725300,
+					"id_str": "877904235043725312",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877904235043725312/pu/img/o_9Hj7nOE3ghKqFb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877904235043725312/pu/img/o_9Hj7nOE3ghKqFb.jpg",
+					"url": "https://t.co/iMuO0kG4x9",
+					"display_url": "pic.twitter.com/iMuO0kG4x9",
+					"expanded_url": "https://twitter.com/eizo_desk/status/877904603630546944/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 877904603630547000,
+					"source_status_id_str": "877904603630546944",
+					"source_user_id": 3191925858,
+					"source_user_id_str": "3191925858"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 877904235043725300,
+					"id_str": "877904235043725312",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877904235043725312/pu/img/o_9Hj7nOE3ghKqFb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877904235043725312/pu/img/o_9Hj7nOE3ghKqFb.jpg",
+					"url": "https://t.co/iMuO0kG4x9",
+					"display_url": "pic.twitter.com/iMuO0kG4x9",
+					"expanded_url": "https://twitter.com/eizo_desk/status/877904603630546944/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 877904603630547000,
+					"source_status_id_str": "877904603630546944",
+					"source_user_id": 3191925858,
+					"source_user_id_str": "3191925858",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14181,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/877904235043725312/pu/vid/640x360/UGGY-xNfKO8t4DZt.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/877904235043725312/pu/vid/320x180/h08CCYhgZtUwoKPO.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/877904235043725312/pu/pl/AMoBx7vdePxf-IgG.m3u8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/877904235043725312/pu/vid/1280x720/r6Tkpu8c61oNij5c.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3191925858,
+							"id_str": "3191925858",
+							"name": "毎日新聞映像グループ",
+							"screen_name": "eizo_desk",
+							"location": "東京都 千代田区一ツ橋1－1－1",
+							"description": "毎日新聞写真映像報道センター・映像グループの公式アカウントです。「毎日動画」にアップした動画ニュースを中心に紹介します。よろしくお願いします。 http://t.co/IjIkiRy50f\nhttps://t.co/Stt4WD0GfD",
+							"url": "http://t.co/IjIkiRy50f",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/IjIkiRy50f",
+											"expanded_url": "http://mainichi.jp/movie/",
+											"display_url": "mainichi.jp/movie/",
+											"indices": [
+												0,
+												22
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "http://t.co/IjIkiRy50f",
+											"expanded_url": "http://mainichi.jp/movie/",
+											"display_url": "mainichi.jp/movie/",
+											"indices": [
+												72,
+												94
+											]
+										},
+										{
+											"url": "https://t.co/Stt4WD0GfD",
+											"expanded_url": "https://www.youtube.com/channel/UCI4mta4pWhYhPSLhjmUAfZQ",
+											"display_url": "youtube.com/channel/UCI4mt…",
+											"indices": [
+												95,
+												118
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 12058,
+							"friends_count": 9,
+							"listed_count": 347,
+							"created_at": "Mon May 11 10:35:14 +0000 2015",
+							"favourites_count": 0,
+							"utc_offset": 32400,
+							"time_zone": "Tokyo",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 2204,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3191925858/1436243230",
+							"profile_link_color": "4A913C",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 604,
+			"friends_count": 492,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1823,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15842,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 22 15:02:22 +0000 2017",
+			"id": 877904603630547000,
+			"id_str": "877904603630546944",
+			"text": "沖縄戦の犠牲者を悼む「慰霊の日」（２３日）の追悼式前夜祭が沖縄県糸満市摩文仁（まぶに）の沖縄平和祈念堂でありました。（萩）フルバージョンは→https://t.co/5WROIKxJdL https://t.co/iMuO0kG4x9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5WROIKxJdL",
+						"expanded_url": "https://mainichi.jp/movie/video/?id=119693315",
+						"display_url": "mainichi.jp/movie/video/?i…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 877904235043725300,
+						"id_str": "877904235043725312",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877904235043725312/pu/img/o_9Hj7nOE3ghKqFb.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877904235043725312/pu/img/o_9Hj7nOE3ghKqFb.jpg",
+						"url": "https://t.co/iMuO0kG4x9",
+						"display_url": "pic.twitter.com/iMuO0kG4x9",
+						"expanded_url": "https://twitter.com/eizo_desk/status/877904603630546944/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 877904235043725300,
+						"id_str": "877904235043725312",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/877904235043725312/pu/img/o_9Hj7nOE3ghKqFb.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/877904235043725312/pu/img/o_9Hj7nOE3ghKqFb.jpg",
+						"url": "https://t.co/iMuO0kG4x9",
+						"display_url": "pic.twitter.com/iMuO0kG4x9",
+						"expanded_url": "https://twitter.com/eizo_desk/status/877904603630546944/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 14181,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/877904235043725312/pu/vid/640x360/UGGY-xNfKO8t4DZt.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/877904235043725312/pu/vid/320x180/h08CCYhgZtUwoKPO.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/877904235043725312/pu/pl/AMoBx7vdePxf-IgG.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/877904235043725312/pu/vid/1280x720/r6Tkpu8c61oNij5c.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3191925858,
+				"id_str": "3191925858",
+				"name": "毎日新聞映像グループ",
+				"screen_name": "eizo_desk",
+				"location": "東京都 千代田区一ツ橋1－1－1",
+				"description": "毎日新聞写真映像報道センター・映像グループの公式アカウントです。「毎日動画」にアップした動画ニュースを中心に紹介します。よろしくお願いします。 http://t.co/IjIkiRy50f\nhttps://t.co/Stt4WD0GfD",
+				"url": "http://t.co/IjIkiRy50f",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/IjIkiRy50f",
+								"expanded_url": "http://mainichi.jp/movie/",
+								"display_url": "mainichi.jp/movie/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/IjIkiRy50f",
+								"expanded_url": "http://mainichi.jp/movie/",
+								"display_url": "mainichi.jp/movie/",
+								"indices": [
+									72,
+									94
+								]
+							},
+							{
+								"url": "https://t.co/Stt4WD0GfD",
+								"expanded_url": "https://www.youtube.com/channel/UCI4mta4pWhYhPSLhjmUAfZQ",
+								"display_url": "youtube.com/channel/UCI4mt…",
+								"indices": [
+									95,
+									118
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12058,
+				"friends_count": 9,
+				"listed_count": 347,
+				"created_at": "Mon May 11 10:35:14 +0000 2015",
+				"favourites_count": 0,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2204,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3191925858/1436243230",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 238,
+			"favorite_count": 191,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 238,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Thu Jun 22 05:18:35 +0000 2017",
+		"id": 877757689274613800,
+		"id_str": "877757689274613760",
+		"text": "오늘 오키나와 지역 장마 종료",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 604,
+			"friends_count": 492,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1823,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15842,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Jun 21 10:55:14 +0000 2017",
 		"id": 877480022251946000,
 		"id_str": "877480022251945984",
