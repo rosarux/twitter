@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Tue Jul 04 09:34:58 +0000 2017",
+		"id": 882170865063940100,
+		"id_str": "882170865063940097",
+		"text": "RT @BARANEKO: 米軍嘉手納基地に４日午後３時ごろ、米空軍の電子偵察機ＲＣ１３５Ｓ（通称コブラボール）が着陸した。同日午前、「北朝鮮」が発射実験したミサイルの弾道を追尾・観測する任務の後とみられる\nhttps://t.co/Kj9eECqlhY … https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BARANEKO",
+					"name": "BARA",
+					"id": 73391048,
+					"id_str": "73391048",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Kj9eECqlhY",
+					"expanded_url": "http://www.okinawatimes.co.jp/articles/-/108367",
+					"display_url": "okinawatimes.co.jp/articles/-/108…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 489,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1851,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15864,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 04 09:18:30 +0000 2017",
+			"id": 882166718457565200,
+			"id_str": "882166718457565184",
+			"text": "米軍嘉手納基地に４日午後３時ごろ、米空軍の電子偵察機ＲＣ１３５Ｓ（通称コブラボール）が着陸した。同日午前、「北朝鮮」が発射実験したミサイルの弾道を追尾・観測する任務の後とみられる\nhttps://t.co/Kj9eECqlhY … https://t.co/OQ3dHXgUhD",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Kj9eECqlhY",
+						"expanded_url": "http://www.okinawatimes.co.jp/articles/-/108367",
+						"display_url": "okinawatimes.co.jp/articles/-/108…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 882166710714814500,
+						"id_str": "882166710714814464",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/DD4V8xDU0AAUWQQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DD4V8xDU0AAUWQQ.jpg",
+						"url": "https://t.co/OQ3dHXgUhD",
+						"display_url": "pic.twitter.com/OQ3dHXgUhD",
+						"expanded_url": "https://twitter.com/BARANEKO/status/882166718457565184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 650,
+								"h": 442,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 650,
+								"h": 442,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 650,
+								"h": 442,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 882166710714814500,
+						"id_str": "882166710714814464",
+						"indices": [
+							116,
+							139
+						],
+						"media_url": "http://pbs.twimg.com/media/DD4V8xDU0AAUWQQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DD4V8xDU0AAUWQQ.jpg",
+						"url": "https://t.co/OQ3dHXgUhD",
+						"display_url": "pic.twitter.com/OQ3dHXgUhD",
+						"expanded_url": "https://twitter.com/BARANEKO/status/882166718457565184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 650,
+								"h": 442,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 650,
+								"h": 442,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 650,
+								"h": 442,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 73391048,
+				"id_str": "73391048",
+				"name": "BARA",
+				"screen_name": "BARANEKO",
+				"location": "どこか",
+				"description": "みなさま  大変立派なツイートをされているので、それらのことは、皆さまにおまかせして、新聞紙スクラップにいそしむ日々                                             ｔｗｉｌｏｇはhttps://t.co/oAWPpPJB1Q",
+				"url": "https://t.co/iCGmi3zCok",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iCGmi3zCok",
+								"expanded_url": "http://blog.goo.ne.jp/harumi-s_2005",
+								"display_url": "blog.goo.ne.jp/harumi-s_2005",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/oAWPpPJB1Q",
+								"expanded_url": "http://twilog.org/BARANEKO",
+								"display_url": "twilog.org/BARANEKO",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4787,
+				"friends_count": 1778,
+				"listed_count": 181,
+				"created_at": "Fri Sep 11 13:59:36 +0000 2009",
+				"favourites_count": 20467,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 231217,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/344511763024587178/0e59f1913e68d0e90732efb0d89df9be.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/344511763024587178/0e59f1913e68d0e90732efb0d89df9be.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/878647625024643072/kbBrz_cP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/878647625024643072/kbBrz_cP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/73391048/1499183728",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Mon Jul 03 07:49:57 +0000 2017",
 		"id": 881782049144660000,
 		"id_str": "881782049144659968",
