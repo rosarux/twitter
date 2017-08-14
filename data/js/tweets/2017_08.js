@@ -1,6 +1,1088 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sun Aug 13 13:40:16 +0000 2017",
+		"id": 896728109013098500,
+		"id_str": "896728109013098496",
+		"text": "RT @kazunyan_1220: 興南高校【ハイサイおじさん】\n\n沖縄の学校と言えば\nやっぱりこの応援歌⚾\n\n指笛が凄いよく聞こえる❇\n\n#興南\n#高校野球応援歌集 https://t.co/eaTY1601Tp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "興南",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "高校野球応援歌集",
+					"indices": [
+						75,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kazunyan_1220",
+					"name": "k a z u m a",
+					"id": 2791561036,
+					"id_str": "2791561036",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 895911535838613500,
+					"id_str": "895911535838613505",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/895911535838613505/pu/img/Bx09lA0pbDoSL0Ay.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/895911535838613505/pu/img/Bx09lA0pbDoSL0Ay.jpg",
+					"url": "https://t.co/eaTY1601Tp",
+					"display_url": "pic.twitter.com/eaTY1601Tp",
+					"expanded_url": "https://twitter.com/kazunyan_1220/status/895912022780461057/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 895912022780461000,
+					"source_status_id_str": "895912022780461057",
+					"source_user_id": 2791561036,
+					"source_user_id_str": "2791561036"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 895911535838613500,
+					"id_str": "895911535838613505",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/895911535838613505/pu/img/Bx09lA0pbDoSL0Ay.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/895911535838613505/pu/img/Bx09lA0pbDoSL0Ay.jpg",
+					"url": "https://t.co/eaTY1601Tp",
+					"display_url": "pic.twitter.com/eaTY1601Tp",
+					"expanded_url": "https://twitter.com/kazunyan_1220/status/895912022780461057/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 338,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 895912022780461000,
+					"source_status_id_str": "895912022780461057",
+					"source_user_id": 2791561036,
+					"source_user_id_str": "2791561036",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32132,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/895911535838613505/pu/vid/640x360/lNygrCulkUm1tp7U.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/895911535838613505/pu/vid/1280x720/xHj0P-_dgUVsJf_F.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/895911535838613505/pu/vid/320x180/A5x-tpQIro3gLUiN.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/895911535838613505/pu/pl/WQKok1KapwqfzzRH.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2791561036,
+							"id_str": "2791561036",
+							"name": "k a z u m a",
+							"screen_name": "kazunyan_1220",
+							"location": "美男美女を見るとすぐツイートする単純な奴",
+							"description": "陸前高田⇄京都｜#高田高校⏩#花園大学｜#欅坂46 #小宮有紗 #かしゆか #鷲尾伶菜 #芳根京子 #福原遥 #女子アナ #モデル #チア スポーツ全般｜口悪い&ツイート多い事を承知でフォローを✋",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 480,
+							"friends_count": 270,
+							"listed_count": 6,
+							"created_at": "Mon Sep 29 12:40:49 +0000 2014",
+							"favourites_count": 2668,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 10143,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/888659638094188544/gY9kzL86_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/888659638094188544/gY9kzL86_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2791561036/1500707948",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 597,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1895,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15923,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 11 07:37:26 +0000 2017",
+			"id": 895912022780461000,
+			"id_str": "895912022780461057",
+			"text": "興南高校【ハイサイおじさん】\n\n沖縄の学校と言えば\nやっぱりこの応援歌⚾\n\n指笛が凄いよく聞こえる❇\n\n#興南\n#高校野球応援歌集 https://t.co/eaTY1601Tp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "興南",
+						"indices": [
+							52,
+							55
+						]
+					},
+					{
+						"text": "高校野球応援歌集",
+						"indices": [
+							56,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 895911535838613500,
+						"id_str": "895911535838613505",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/895911535838613505/pu/img/Bx09lA0pbDoSL0Ay.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/895911535838613505/pu/img/Bx09lA0pbDoSL0Ay.jpg",
+						"url": "https://t.co/eaTY1601Tp",
+						"display_url": "pic.twitter.com/eaTY1601Tp",
+						"expanded_url": "https://twitter.com/kazunyan_1220/status/895912022780461057/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 895911535838613500,
+						"id_str": "895911535838613505",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/895911535838613505/pu/img/Bx09lA0pbDoSL0Ay.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/895911535838613505/pu/img/Bx09lA0pbDoSL0Ay.jpg",
+						"url": "https://t.co/eaTY1601Tp",
+						"display_url": "pic.twitter.com/eaTY1601Tp",
+						"expanded_url": "https://twitter.com/kazunyan_1220/status/895912022780461057/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 32132,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/895911535838613505/pu/vid/640x360/lNygrCulkUm1tp7U.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/895911535838613505/pu/vid/1280x720/xHj0P-_dgUVsJf_F.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/895911535838613505/pu/vid/320x180/A5x-tpQIro3gLUiN.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/895911535838613505/pu/pl/WQKok1KapwqfzzRH.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2791561036,
+				"id_str": "2791561036",
+				"name": "k a z u m a",
+				"screen_name": "kazunyan_1220",
+				"location": "美男美女を見るとすぐツイートする単純な奴",
+				"description": "陸前高田⇄京都｜#高田高校⏩#花園大学｜#欅坂46 #小宮有紗 #かしゆか #鷲尾伶菜 #芳根京子 #福原遥 #女子アナ #モデル #チア スポーツ全般｜口悪い&ツイート多い事を承知でフォローを✋",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 480,
+				"friends_count": 270,
+				"listed_count": 6,
+				"created_at": "Mon Sep 29 12:40:49 +0000 2014",
+				"favourites_count": 2668,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10143,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/888659638094188544/gY9kzL86_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/888659638094188544/gY9kzL86_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2791561036/1500707948",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 69,
+			"favorite_count": 227,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sun Aug 13 13:34:53 +0000 2017",
+		"id": 896726755628556300,
+		"id_str": "896726755628556289",
+		"text": "RT @yuntaku16bird: 本日の高江N１表座り込みはヤンバルクイナ10羽参加しております！ https://t.co/e5VwIcbbhv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yuntaku16bird",
+					"name": "TORITOIRO/鳥と色",
+					"id": 1719080874,
+					"id_str": "1719080874",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 896627241999675400,
+					"id_str": "896627241999675392",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/DHF1ud9UMAA__pz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHF1ud9UMAA__pz.jpg",
+					"url": "https://t.co/e5VwIcbbhv",
+					"display_url": "pic.twitter.com/e5VwIcbbhv",
+					"expanded_url": "https://twitter.com/yuntaku16bird/status/896627270328098817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 896627270328098800,
+					"source_status_id_str": "896627270328098817",
+					"source_user_id": 1719080874,
+					"source_user_id_str": "1719080874"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 896627241999675400,
+					"id_str": "896627241999675392",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/DHF1ud9UMAA__pz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHF1ud9UMAA__pz.jpg",
+					"url": "https://t.co/e5VwIcbbhv",
+					"display_url": "pic.twitter.com/e5VwIcbbhv",
+					"expanded_url": "https://twitter.com/yuntaku16bird/status/896627270328098817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 896627270328098800,
+					"source_status_id_str": "896627270328098817",
+					"source_user_id": 1719080874,
+					"source_user_id_str": "1719080874"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 597,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1895,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15923,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 13 06:59:34 +0000 2017",
+			"id": 896627270328098800,
+			"id_str": "896627270328098817",
+			"text": "本日の高江N１表座り込みはヤンバルクイナ10羽参加しております！ https://t.co/e5VwIcbbhv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 896627241999675400,
+						"id_str": "896627241999675392",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DHF1ud9UMAA__pz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHF1ud9UMAA__pz.jpg",
+						"url": "https://t.co/e5VwIcbbhv",
+						"display_url": "pic.twitter.com/e5VwIcbbhv",
+						"expanded_url": "https://twitter.com/yuntaku16bird/status/896627270328098817/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 896627241999675400,
+						"id_str": "896627241999675392",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DHF1ud9UMAA__pz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHF1ud9UMAA__pz.jpg",
+						"url": "https://t.co/e5VwIcbbhv",
+						"display_url": "pic.twitter.com/e5VwIcbbhv",
+						"expanded_url": "https://twitter.com/yuntaku16bird/status/896627270328098817/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1719080874,
+				"id_str": "1719080874",
+				"name": "TORITOIRO/鳥と色",
+				"screen_name": "yuntaku16bird",
+				"location": "東京⇔やんばる高江",
+				"description": "沖縄本島北部(やんばる)歴は2005年～。鳥見歴は2012年～。鳥作り歴は2013年～。\n未だヒヨッコbirderです。毎年高江に通いつつ、色々な鳥の作り物を通してやんばる野鳥とやんばる高江を伝えます。やんばる植物等使っての草木染も少々。※ 頻繁に逸脱します。\nInstagram yuntaku16birdもよろしく。",
+				"url": "https://t.co/cecviOxvqK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cecviOxvqK",
+								"expanded_url": "http://takae.ti-da.net",
+								"display_url": "takae.ti-da.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 581,
+				"friends_count": 543,
+				"listed_count": 15,
+				"created_at": "Sun Sep 01 13:53:56 +0000 2013",
+				"favourites_count": 760,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2215,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885488691841384448/hc8B0Yi6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885488691841384448/hc8B0Yi6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1719080874/1498905885",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 58,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sun Aug 13 07:07:42 +0000 2017",
+		"id": 896629315613347800,
+		"id_str": "896629315613347841",
+		"text": "RT @nakijingusuku: 世界遺産 今帰仁城跡　公式ホームページできました。今帰仁城跡を管理する指定管理者が作成管理しています。指定管理者とは、簡単に言えば、窓口でチケットを販売する。もちろん、見学のお客様が安全に見て回れるよう、いつも気を配っています。 https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakijingusuku",
+					"name": "今帰仁(なきじん)グスクを学ぶ会",
+					"id": 232493049,
+					"id_str": "232493049",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 597,
+			"friends_count": 491,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1895,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15923,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 13 03:51:19 +0000 2017",
+			"id": 896579895823749100,
+			"id_str": "896579895823749120",
+			"text": "世界遺産 今帰仁城跡　公式ホームページできました。今帰仁城跡を管理する指定管理者が作成管理しています。指定管理者とは、簡単に言えば、窓口でチケットを販売する。もちろん、見学のお客様が安全に見て回れるよう、いつも気を配っています。 https://t.co/FnWISrUavI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 896579213272072200,
+						"id_str": "896579213272072195",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DHFKC1AUwAMj2va.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHFKC1AUwAMj2va.jpg",
+						"url": "https://t.co/FnWISrUavI",
+						"display_url": "pic.twitter.com/FnWISrUavI",
+						"expanded_url": "https://twitter.com/nakijingusuku/status/896579895823749120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 371,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 371,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 896579213272072200,
+						"id_str": "896579213272072195",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/DHFKC1AUwAMj2va.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DHFKC1AUwAMj2va.jpg",
+						"url": "https://t.co/FnWISrUavI",
+						"display_url": "pic.twitter.com/FnWISrUavI",
+						"expanded_url": "https://twitter.com/nakijingusuku/status/896579895823749120/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 371,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 371,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 232493049,
+				"id_str": "232493049",
+				"name": "今帰仁(なきじん)グスクを学ぶ会",
+				"screen_name": "nakijingusuku",
+				"location": "沖縄県国頭郡今帰仁村字今泊",
+				"description": "今帰仁(なきじん)グスク（世界遺産今帰仁城跡）のボランティアガイドです。ガイドと歩けば、知らなかった沖縄を発見したり、日本が見えてきたり。当日の案内は無料（団体は要予約で有料）。毎週日曜日を中心に、Web担当がツイートしています。Facebook はhttps://t.co/N2WBIl6Rju",
+				"url": "http://t.co/x8wioh22uf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/x8wioh22uf",
+								"expanded_url": "http://nakijingusuku.com",
+								"display_url": "nakijingusuku.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/N2WBIl6Rju",
+								"expanded_url": "http://www.facebook.com/na.gusuku",
+								"display_url": "facebook.com/na.gusuku",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2045,
+				"friends_count": 2006,
+				"listed_count": 33,
+				"created_at": "Fri Dec 31 08:42:40 +0000 2010",
+				"favourites_count": 57,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1445,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4169E1",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617243547/2rr4y38k77y7omoxb1iw.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617243547/2rr4y38k77y7omoxb1iw.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/492550374604025856/rPHFeHtG_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/492550374604025856/rPHFeHtG_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/232493049/1397969411",
+				"profile_link_color": "0099CC",
+				"profile_sidebar_border_color": "FFF8AD",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sat Aug 12 13:08:15 +0000 2017",
 		"id": 896357662941528000,
 		"id_str": "896357662941528064",
