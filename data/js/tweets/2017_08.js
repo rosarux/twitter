@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Wed Aug 30 06:31:07 +0000 2017",
+		"id": 902780704307720200,
+		"id_str": "902780704307720192",
+		"text": "RT @seraphage: https://t.co/Ts6ukmVaDd \"박열은 독립투사라기보다는 사회주의 무정부주의자로 천황만큼 조선왕조도 증오했다. 그의 천황제 타도는 아나키즘 구현을 위한 과정이지 조선 복권을 위한 것이 아니다.\"",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seraphage",
+					"name": "柊",
+					"id": 47119440,
+					"id_str": "47119440",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ts6ukmVaDd",
+					"expanded_url": "https://www.facebook.com/permalink.php?story_fbid=1934965640161780&id=100009450888324",
+					"display_url": "facebook.com/permalink.php?…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 486,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1827,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15915,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865525899512340480/b34JvJQJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Aug 30 00:39:06 +0000 2017",
+			"id": 902692114944770000,
+			"id_str": "902692114944770048",
+			"text": "https://t.co/Ts6ukmVaDd \"박열은 독립투사라기보다는 사회주의 무정부주의자로 천황만큼 조선왕조도 증오했다. 그의 천황제 타도는 아나키즘 구현을 위한 과정이지 조선 복권을 위한 것이 아니다.\"",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ts6ukmVaDd",
+						"expanded_url": "https://www.facebook.com/permalink.php?story_fbid=1934965640161780&id=100009450888324",
+						"display_url": "facebook.com/permalink.php?…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47119440,
+				"id_str": "47119440",
+				"name": "柊",
+				"screen_name": "seraphage",
+				"location": "7단지 1동 1203호",
+				"description": "2D. R-18. 🏳️‍🌈",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 940,
+				"friends_count": 1241,
+				"listed_count": 27,
+				"created_at": "Sun Jun 14 16:18:20 +0000 2009",
+				"favourites_count": 20468,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 109353,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FEFDFB",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/433452363718746113/NQuMYa3A.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/433452363718746113/NQuMYa3A.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3432580534/8c977df33c79253ab7bf184dd6e2eb17_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3432580534/8c977df33c79253ab7bf184dd6e2eb17_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47119440/1398215070",
+				"profile_link_color": "75D0FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Aug 25 06:55:35 +0000 2017",
 		"id": 900974922117259300,
 		"id_str": "900974922117259264",
