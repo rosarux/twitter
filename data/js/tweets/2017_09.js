@@ -1,6 +1,632 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Wed Sep 13 10:31:23 +0000 2017",
+		"id": 907914600779321300,
+		"id_str": "907914600779321346",
+		"text": "치비치리가마 뿐만 아니라 오키나와전 관련 유적 훼손 사례가 더 있는 듯",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 485,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1831,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15926,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Sep 13 06:20:04 +0000 2017",
+		"id": 907851354424700900,
+		"id_str": "907851354424700929",
+		"text": "RT @channel__3: 三上知恵さんの撮影による、荒らされた読谷村のチビチリガマの内部の様子。酷すぎる・・・・\n\nチビチリ壊される \nhttps://t.co/zaICWadg6k @YouTubeさんから",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "channel__3",
+					"name": "channel__3",
+					"id": 2955789098,
+					"id_str": "2955789098",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zaICWadg6k",
+					"expanded_url": "https://youtu.be/sh7fJ8uj_nM",
+					"display_url": "youtu.be/sh7fJ8uj_nM",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 485,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1831,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15926,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 12 06:22:30 +0000 2017",
+			"id": 907489580168781800,
+			"id_str": "907489580168781825",
+			"text": "三上知恵さんの撮影による、荒らされた読谷村のチビチリガマの内部の様子。酷すぎる・・・・\n\nチビチリ壊される \nhttps://t.co/zaICWadg6k @YouTubeさんから",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "YouTube",
+						"name": "YouTube",
+						"id": 10228272,
+						"id_str": "10228272",
+						"indices": [
+							79,
+							87
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/zaICWadg6k",
+						"expanded_url": "https://youtu.be/sh7fJ8uj_nM",
+						"display_url": "youtu.be/sh7fJ8uj_nM",
+						"indices": [
+							55,
+							78
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2955789098,
+				"id_str": "2955789098",
+				"name": "channel__3",
+				"screen_name": "channel__3",
+				"location": "",
+				"description": "Stand Against Fascism, Racism, Sexism & Xenophobia. No Nukes. Peace, Love Not War. #Resistance",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1306,
+				"friends_count": 3711,
+				"listed_count": 99,
+				"created_at": "Fri Jan 02 08:17:01 +0000 2015",
+				"favourites_count": 22614,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 76319,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "00CC33",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/835485364299022337/fc_gQacQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/835485364299022337/fc_gQacQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2955789098/1499080717",
+				"profile_link_color": "089E0A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 78,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Wed Sep 13 05:02:50 +0000 2017",
+		"id": 907831917634097200,
+		"id_str": "907831917634097152",
+		"text": "경찰이 수사 중이라는데 목격자도 없는 듯 하고 주변에 CCTV 같은 것도 없을테고 해서...",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 485,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1831,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15926,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Sep 13 04:57:50 +0000 2017",
+		"id": 907830660169179100,
+		"id_str": "907830660169179136",
+		"text": "참혹하게 훼손된 치비치리 가마 (ㅠㅠ)  (류큐신보에서) https://t.co/dLv23jJc28",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 907830648215404500,
+					"id_str": "907830648215404545",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DJlDKicXgAEb7qQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJlDKicXgAEb7qQ.jpg",
+					"url": "https://t.co/dLv23jJc28",
+					"display_url": "pic.twitter.com/dLv23jJc28",
+					"expanded_url": "https://twitter.com/kawanoboru/status/907830660169179136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 344,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 344,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 344,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 907830648215404500,
+					"id_str": "907830648215404545",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DJlDKicXgAEb7qQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJlDKicXgAEb7qQ.jpg",
+					"url": "https://t.co/dLv23jJc28",
+					"display_url": "pic.twitter.com/dLv23jJc28",
+					"expanded_url": "https://twitter.com/kawanoboru/status/907830660169179136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 344,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 344,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 344,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 907830648190238700,
+					"id_str": "907830648190238721",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DJlDKiWXgAE-vJf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJlDKiWXgAE-vJf.jpg",
+					"url": "https://t.co/dLv23jJc28",
+					"display_url": "pic.twitter.com/dLv23jJc28",
+					"expanded_url": "https://twitter.com/kawanoboru/status/907830660169179136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 266,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 266,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 907830648198635500,
+					"id_str": "907830648198635521",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DJlDKiYXoAEkvhv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJlDKiYXoAEkvhv.jpg",
+					"url": "https://t.co/dLv23jJc28",
+					"display_url": "pic.twitter.com/dLv23jJc28",
+					"expanded_url": "https://twitter.com/kawanoboru/status/907830660169179136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 393,
+							"h": 305,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 393,
+							"h": 305,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 393,
+							"h": 305,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 907830648194379800,
+					"id_str": "907830648194379777",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DJlDKiXWsAE_LZ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJlDKiXWsAE_LZ-.jpg",
+					"url": "https://t.co/dLv23jJc28",
+					"display_url": "pic.twitter.com/dLv23jJc28",
+					"expanded_url": "https://twitter.com/kawanoboru/status/907830660169179136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 267,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 267,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 267,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 485,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1831,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15926,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Sep 12 11:40:39 +0000 2017",
 		"id": 907569641500721200,
 		"id_str": "907569641500721152",
