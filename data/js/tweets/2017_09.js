@@ -1,6 +1,719 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Mon Sep 18 11:53:35 +0000 2017",
+		"id": 909747226859135000,
+		"id_str": "909747226859134976",
+		"text": "RT @oricon: 安室奈美恵25周年、故郷・沖縄で5年越し凱旋ライブ　2日間で5万2000人熱狂（写真 全8枚）\nhttps://t.co/urwEeAxqBo\n\n #安室奈美恵 #音楽 #ニュース https://t.co/7K4TOadAsf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "安室奈美恵",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "音楽",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "ニュース",
+					"indices": [
+						97,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oricon",
+					"name": "ORICON NEWS（オリコン）",
+					"id": 95207674,
+					"id_str": "95207674",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/urwEeAxqBo",
+					"expanded_url": "http://www.oricon.co.jp/news/2097428/full/?ref_cd=tw_pic",
+					"display_url": "oricon.co.jp/news/2097428/f…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 909705517194346500,
+					"id_str": "909705517194346496",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DJ_sWRqVAAA6nDh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJ_sWRqVAAA6nDh.jpg",
+					"url": "https://t.co/7K4TOadAsf",
+					"display_url": "pic.twitter.com/7K4TOadAsf",
+					"expanded_url": "https://twitter.com/oricon/status/909705651558871045/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 909705651558871000,
+					"source_status_id_str": "909705651558871045",
+					"source_user_id": 95207674,
+					"source_user_id_str": "95207674"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 909705517194346500,
+					"id_str": "909705517194346496",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DJ_sWRqVAAA6nDh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJ_sWRqVAAA6nDh.jpg",
+					"url": "https://t.co/7K4TOadAsf",
+					"display_url": "pic.twitter.com/7K4TOadAsf",
+					"expanded_url": "https://twitter.com/oricon/status/909705651558871045/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 909705651558871000,
+					"source_status_id_str": "909705651558871045",
+					"source_user_id": 95207674,
+					"source_user_id_str": "95207674"
+				},
+				{
+					"id": 909705543819829200,
+					"id_str": "909705543819829248",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DJ_sX02VoAAHrOn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJ_sX02VoAAHrOn.jpg",
+					"url": "https://t.co/7K4TOadAsf",
+					"display_url": "pic.twitter.com/7K4TOadAsf",
+					"expanded_url": "https://twitter.com/oricon/status/909705651558871045/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 909705651558871000,
+					"source_status_id_str": "909705651558871045",
+					"source_user_id": 95207674,
+					"source_user_id_str": "95207674"
+				},
+				{
+					"id": 909705556620828700,
+					"id_str": "909705556620828672",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DJ_sYkiVYAALTp2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJ_sYkiVYAALTp2.jpg",
+					"url": "https://t.co/7K4TOadAsf",
+					"display_url": "pic.twitter.com/7K4TOadAsf",
+					"expanded_url": "https://twitter.com/oricon/status/909705651558871045/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1313,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 436,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 769,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 909705651558871000,
+					"source_status_id_str": "909705651558871045",
+					"source_user_id": 95207674,
+					"source_user_id_str": "95207674"
+				},
+				{
+					"id": 909705616368664600,
+					"id_str": "909705616368664576",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DJ_scDHVAAAPTx-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJ_scDHVAAAPTx-.jpg",
+					"url": "https://t.co/7K4TOadAsf",
+					"display_url": "pic.twitter.com/7K4TOadAsf",
+					"expanded_url": "https://twitter.com/oricon/status/909705651558871045/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 408,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1230,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 721,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 909705651558871000,
+					"source_status_id_str": "909705651558871045",
+					"source_user_id": 95207674,
+					"source_user_id_str": "95207674"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 485,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1831,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15928,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 18 09:08:23 +0000 2017",
+			"id": 909705651558871000,
+			"id_str": "909705651558871045",
+			"text": "安室奈美恵25周年、故郷・沖縄で5年越し凱旋ライブ　2日間で5万2000人熱狂（写真 全8枚）\nhttps://t.co/urwEeAxqBo\n\n #安室奈美恵 #音楽 #ニュース https://t.co/7K4TOadAsf",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "安室奈美恵",
+						"indices": [
+							74,
+							80
+						]
+					},
+					{
+						"text": "音楽",
+						"indices": [
+							81,
+							84
+						]
+					},
+					{
+						"text": "ニュース",
+						"indices": [
+							85,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/urwEeAxqBo",
+						"expanded_url": "http://www.oricon.co.jp/news/2097428/full/?ref_cd=tw_pic",
+						"display_url": "oricon.co.jp/news/2097428/f…",
+						"indices": [
+							48,
+							71
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 909705517194346500,
+						"id_str": "909705517194346496",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DJ_sWRqVAAA6nDh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJ_sWRqVAAA6nDh.jpg",
+						"url": "https://t.co/7K4TOadAsf",
+						"display_url": "pic.twitter.com/7K4TOadAsf",
+						"expanded_url": "https://twitter.com/oricon/status/909705651558871045/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 909705517194346500,
+						"id_str": "909705517194346496",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DJ_sWRqVAAA6nDh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJ_sWRqVAAA6nDh.jpg",
+						"url": "https://t.co/7K4TOadAsf",
+						"display_url": "pic.twitter.com/7K4TOadAsf",
+						"expanded_url": "https://twitter.com/oricon/status/909705651558871045/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 909705543819829200,
+						"id_str": "909705543819829248",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DJ_sX02VoAAHrOn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJ_sX02VoAAHrOn.jpg",
+						"url": "https://t.co/7K4TOadAsf",
+						"display_url": "pic.twitter.com/7K4TOadAsf",
+						"expanded_url": "https://twitter.com/oricon/status/909705651558871045/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 909705556620828700,
+						"id_str": "909705556620828672",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DJ_sYkiVYAALTp2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJ_sYkiVYAALTp2.jpg",
+						"url": "https://t.co/7K4TOadAsf",
+						"display_url": "pic.twitter.com/7K4TOadAsf",
+						"expanded_url": "https://twitter.com/oricon/status/909705651558871045/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1313,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 436,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 769,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 909705616368664600,
+						"id_str": "909705616368664576",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DJ_scDHVAAAPTx-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJ_scDHVAAAPTx-.jpg",
+						"url": "https://t.co/7K4TOadAsf",
+						"display_url": "pic.twitter.com/7K4TOadAsf",
+						"expanded_url": "https://twitter.com/oricon/status/909705651558871045/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 408,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1230,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 721,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95207674,
+				"id_str": "95207674",
+				"name": "ORICON NEWS（オリコン）",
+				"screen_name": "oricon",
+				"location": "東京都港区六本木",
+				"description": "ORICON NEWS（オリコンニュース）は、話題の最新芸能ニュースや音楽ニュース、オリコンランキングなどのエンタメ情報を毎日発信するエンターテインメントサイトです。",
+				"url": "http://t.co/TBiV19SVaI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/TBiV19SVaI",
+								"expanded_url": "http://www.oricon.co.jp/",
+								"display_url": "oricon.co.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 217154,
+				"friends_count": 22297,
+				"listed_count": 5152,
+				"created_at": "Mon Dec 07 14:15:16 +0000 2009",
+				"favourites_count": 51,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 117000,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875524928769937408/L9SZjS4l_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875524928769937408/L9SZjS4l_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95207674/1484123795",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 286,
+			"favorite_count": 557,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 286,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Sep 18 04:52:25 +0000 2017",
+		"id": 909641236515979300,
+		"id_str": "909641236515979264",
+		"text": "2주만에 커피를 마신다. 조금 불안하다. 그런데 안마실 수 없는 상황 ㅠ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 485,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1831,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15928,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Sep 15 07:09:28 +0000 2017",
 		"id": 908588563683356700,
 		"id_str": "908588563683356672",
