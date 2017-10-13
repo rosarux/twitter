@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Thu Oct 12 13:02:28 +0000 2017",
+		"id": 918461870024966100,
+		"id_str": "918461870024966145",
+		"text": "RT @yanbarugurashi: 信じられますか？これら全て、昨日一日に起こった出来事です。これを異常と言わずして何と言おう。 https://t.co/Sm0Vl9L7ld",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yanbarugurashi",
+					"name": "やんばる🌻ぐらし(こんな人たち系)",
+					"id": 773324146709102600,
+					"id_str": "773324146709102592",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 918215274750386200,
+					"id_str": "918215274750386176",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DL4n7W7VoAApL6b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DL4n7W7VoAApL6b.jpg",
+					"url": "https://t.co/Sm0Vl9L7ld",
+					"display_url": "pic.twitter.com/Sm0Vl9L7ld",
+					"expanded_url": "https://twitter.com/yanbarugurashi/status/918215284447571968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 814,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 814,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 627,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 918215284447572000,
+					"source_status_id_str": "918215284447571968",
+					"source_user_id": 773324146709102600,
+					"source_user_id_str": "773324146709102592"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 918215274750386200,
+					"id_str": "918215274750386176",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DL4n7W7VoAApL6b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DL4n7W7VoAApL6b.jpg",
+					"url": "https://t.co/Sm0Vl9L7ld",
+					"display_url": "pic.twitter.com/Sm0Vl9L7ld",
+					"expanded_url": "https://twitter.com/yanbarugurashi/status/918215284447571968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 814,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 814,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 627,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 918215284447572000,
+					"source_status_id_str": "918215284447571968",
+					"source_user_id": 773324146709102600,
+					"source_user_id_str": "773324146709102592"
+				},
+				{
+					"id": 918215274754482200,
+					"id_str": "918215274754482176",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DL4n7W8UIAAczNr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DL4n7W8UIAAczNr.jpg",
+					"url": "https://t.co/Sm0Vl9L7ld",
+					"display_url": "pic.twitter.com/Sm0Vl9L7ld",
+					"expanded_url": "https://twitter.com/yanbarugurashi/status/918215284447571968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 433,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1177,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1177,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 918215284447572000,
+					"source_status_id_str": "918215284447571968",
+					"source_user_id": 773324146709102600,
+					"source_user_id_str": "773324146709102592"
+				},
+				{
+					"id": 918215274758750200,
+					"id_str": "918215274758750208",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DL4n7W9VQAAJkW1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DL4n7W9VQAAJkW1.jpg",
+					"url": "https://t.co/Sm0Vl9L7ld",
+					"display_url": "pic.twitter.com/Sm0Vl9L7ld",
+					"expanded_url": "https://twitter.com/yanbarugurashi/status/918215284447571968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 918215284447572000,
+					"source_status_id_str": "918215284447571968",
+					"source_user_id": 773324146709102600,
+					"source_user_id_str": "773324146709102592"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 485,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1781,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15968,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 11 20:42:38 +0000 2017",
+			"id": 918215284447572000,
+			"id_str": "918215284447571968",
+			"text": "信じられますか？これら全て、昨日一日に起こった出来事です。これを異常と言わずして何と言おう。 https://t.co/Sm0Vl9L7ld",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 918215274750386200,
+						"id_str": "918215274750386176",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DL4n7W7VoAApL6b.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DL4n7W7VoAApL6b.jpg",
+						"url": "https://t.co/Sm0Vl9L7ld",
+						"display_url": "pic.twitter.com/Sm0Vl9L7ld",
+						"expanded_url": "https://twitter.com/yanbarugurashi/status/918215284447571968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 814,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 814,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 627,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 918215274750386200,
+						"id_str": "918215274750386176",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DL4n7W7VoAApL6b.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DL4n7W7VoAApL6b.jpg",
+						"url": "https://t.co/Sm0Vl9L7ld",
+						"display_url": "pic.twitter.com/Sm0Vl9L7ld",
+						"expanded_url": "https://twitter.com/yanbarugurashi/status/918215284447571968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 814,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 814,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 627,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 918215274754482200,
+						"id_str": "918215274754482176",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DL4n7W8UIAAczNr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DL4n7W8UIAAczNr.jpg",
+						"url": "https://t.co/Sm0Vl9L7ld",
+						"display_url": "pic.twitter.com/Sm0Vl9L7ld",
+						"expanded_url": "https://twitter.com/yanbarugurashi/status/918215284447571968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 433,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 1177,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1177,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 918215274758750200,
+						"id_str": "918215274758750208",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/DL4n7W9VQAAJkW1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DL4n7W9VQAAJkW1.jpg",
+						"url": "https://t.co/Sm0Vl9L7ld",
+						"display_url": "pic.twitter.com/Sm0Vl9L7ld",
+						"expanded_url": "https://twitter.com/yanbarugurashi/status/918215284447571968/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1334,
+								"h": 750,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 773324146709102600,
+				"id_str": "773324146709102592",
+				"name": "やんばる🌻ぐらし(こんな人たち系)",
+				"screen_name": "yanbarugurashi",
+				"location": "沖縄県名護市",
+				"description": "沖縄県名護市。足を運んでこの目で見て、話して聞いて初めて分かることがある。交流しましょう。話しましょう。美ら海と希少生物の宝庫やんばるの森を守りたい。辺野古新基地建設反対、高江ヘリパッド運用反対。整備集約→❌無条件返還→⭕何が何でも沖縄に基地を作りたい日本政府に真っ向反発。非暴力不服従直接行動。いつでも愛とユーモアを。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1875,
+				"friends_count": 269,
+				"listed_count": 101,
+				"created_at": "Wed Sep 07 00:56:59 +0000 2016",
+				"favourites_count": 31008,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4592,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/775404140901961728/f4ViwMfG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/775404140901961728/f4ViwMfG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/773324146709102592/1473706410",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 475,
+			"favorite_count": 168,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 475,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Wed Oct 11 23:09:51 +0000 2017",
 		"id": 918252334236409900,
 		"id_str": "918252334236409857",
