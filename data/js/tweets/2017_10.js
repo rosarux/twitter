@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 13 00:45:05 +0000 2017",
+		"id": 918638686924705800,
+		"id_str": "918638686924705793",
+		"text": "RT @oto_kitchen: 안녕하새요. 나하 츠보야의 그림책방 hoccorie 에서 \"왕의 고양이\" 석판화 전시는 뒤 2일입니다. 꼭 오세요〜 =(^.^)= #hoccorie #王さまのねこ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hoccorie",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "王さまのねこ",
+					"indices": [
+						100,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oto_kitchen",
+					"name": "音の台所",
+					"id": 110617806,
+					"id_str": "110617806",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 485,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1781,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15969,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 13 00:40:10 +0000 2017",
+			"id": 918637452159361000,
+			"id_str": "918637452159361024",
+			"text": "안녕하새요. 나하 츠보야의 그림책방 hoccorie 에서 \"왕의 고양이\" 석판화 전시는 뒤 2일입니다. 꼭 오세요〜 =(^.^)= #hoccorie #王さまのねこ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "hoccorie",
+						"indices": [
+							73,
+							82
+						]
+					},
+					{
+						"text": "王さまのねこ",
+						"indices": [
+							83,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110617806,
+				"id_str": "110617806",
+				"name": "音の台所",
+				"screen_name": "oto_kitchen",
+				"location": "Naha, Okinawa",
+				"description": "南の島でリトグラフ（版画）を作っています。\n音楽紙芝居は11月5日（日）那覇のカフェ・チャイハナ、11月11日（土）荻窪音楽祭で上演します。\n音楽之友社HPで「ゼツメツキグシュ ノオト」連載中！ ☞ https://t.co/0MmdeUsMoZ",
+				"url": "https://t.co/jPOFiIql8r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jPOFiIql8r",
+								"expanded_url": "http://oto-kitchen.com/",
+								"display_url": "oto-kitchen.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0MmdeUsMoZ",
+								"expanded_url": "http://www.ongakunotomo.co.jp/web_content/zetumetu/",
+								"display_url": "ongakunotomo.co.jp/web_content/ze…",
+								"indices": [
+									100,
+									123
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 575,
+				"friends_count": 442,
+				"listed_count": 46,
+				"created_at": "Tue Feb 02 05:07:49 +0000 2010",
+				"favourites_count": 1408,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8953,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3B94D9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/343514218/x6ec6c16bc11bf9ec90d33ef0d4c0462.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/343514218/x6ec6c16bc11bf9ec90d33ef0d4c0462.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/861923504228376576/yk_tRJ7J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/861923504228376576/yk_tRJ7J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110617806/1431998883",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D4EB50",
+				"profile_text_color": "383861",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Oct 12 13:02:28 +0000 2017",
 		"id": 918461870024966100,
 		"id_str": "918461870024966145",
