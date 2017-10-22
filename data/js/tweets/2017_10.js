@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sat Oct 21 10:01:09 +0000 2017",
+		"id": 921677731980394500,
+		"id_str": "921677731980394497",
+		"text": "RT @HON5437: なぜか社民党に投票したくなる不思議な写真\n#社民党がいます https://t.co/4hc3cDZSXw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "社民党がいます",
+					"indices": [
+						34,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HON5437",
+					"name": "HOM55",
+					"id": 3079646688,
+					"id_str": "3079646688",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 921219768803192800,
+					"id_str": "921219768803192833",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DMjUf7eU8AE-x_-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMjUf7eU8AE-x_-.jpg",
+					"url": "https://t.co/4hc3cDZSXw",
+					"display_url": "pic.twitter.com/4hc3cDZSXw",
+					"expanded_url": "https://twitter.com/HON5437/status/921219862046765057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921219862046765000,
+					"source_status_id_str": "921219862046765057",
+					"source_user_id": 3079646688,
+					"source_user_id_str": "3079646688"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 921219768803192800,
+					"id_str": "921219768803192833",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DMjUf7eU8AE-x_-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMjUf7eU8AE-x_-.jpg",
+					"url": "https://t.co/4hc3cDZSXw",
+					"display_url": "pic.twitter.com/4hc3cDZSXw",
+					"expanded_url": "https://twitter.com/HON5437/status/921219862046765057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921219862046765000,
+					"source_status_id_str": "921219862046765057",
+					"source_user_id": 3079646688,
+					"source_user_id_str": "3079646688"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 604,
+			"friends_count": 485,
+			"listed_count": 23,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1799,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15999,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 20 03:41:45 +0000 2017",
+			"id": 921219862046765000,
+			"id_str": "921219862046765057",
+			"text": "なぜか社民党に投票したくなる不思議な写真\n#社民党がいます https://t.co/4hc3cDZSXw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "社民党がいます",
+						"indices": [
+							21,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 921219768803192800,
+						"id_str": "921219768803192833",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DMjUf7eU8AE-x_-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMjUf7eU8AE-x_-.jpg",
+						"url": "https://t.co/4hc3cDZSXw",
+						"display_url": "pic.twitter.com/4hc3cDZSXw",
+						"expanded_url": "https://twitter.com/HON5437/status/921219862046765057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 810,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 810,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 921219768803192800,
+						"id_str": "921219768803192833",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DMjUf7eU8AE-x_-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMjUf7eU8AE-x_-.jpg",
+						"url": "https://t.co/4hc3cDZSXw",
+						"display_url": "pic.twitter.com/4hc3cDZSXw",
+						"expanded_url": "https://twitter.com/HON5437/status/921219862046765057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 810,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 810,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3079646688,
+				"id_str": "3079646688",
+				"name": "HOM@国民審査は木澤に×",
+				"screen_name": "HON5437",
+				"location": "",
+				"description": "関東在住です。いまさらツイッターの良さに気づいた時代遅れ人間。 森友・加計問題の追及のために、わかりやすい画像を日々生産。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5360,
+				"friends_count": 100,
+				"listed_count": 108,
+				"created_at": "Sat Mar 14 06:38:39 +0000 2015",
+				"favourites_count": 406,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2669,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/576633931748921345/0VxrPBBf_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/576633931748921345/0VxrPBBf_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3079646688/1508631285",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1334,
+			"favorite_count": 1579,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1334,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Fri Oct 20 07:27:42 +0000 2017",
 		"id": 921276724825923600,
 		"id_str": "921276724825923584",
