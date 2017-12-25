@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Sun Dec 24 05:53:37 +0000 2017",
+		"id": 944808259231158300,
+		"id_str": "944808259231158272",
+		"text": "RT @palinfo_jp: #クリスマス・イブ ✨🎄✨に #ガザ 出身のアラブ・アイドル、ムハンマド・アッサーフさんの“Dammi Falastini”にのせて、伝統舞踊ダブカを踊る #パレスチナ の若者たち🇵🇸🎅（ベツレヘム近郊のベイト・ジャラで）\nhttps://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "クリスマス・イブ",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"text": "ガザ",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "パレスチナ",
+					"indices": [
+						94,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "palinfo_jp",
+					"name": "パレスチナ情報デスク",
+					"id": 2668563330,
+					"id_str": "2668563330",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 480,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1863,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16103,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/907411101058457600/kXbTY5G2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Dec 24 05:12:54 +0000 2017",
+			"id": 944798012034842600,
+			"id_str": "944798012034842624",
+			"text": "#クリスマス・イブ ✨🎄✨に #ガザ 出身のアラブ・アイドル、ムハンマド・アッサーフさんの“Dammi Falastini”にのせて、伝統舞踊ダブカを踊る #パレスチナ の若者たち🇵🇸🎅（ベツレヘム近郊のベイト・ジャラで）\nhttps://t.co/WoLuNhAf79",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "クリスマス・イブ",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "ガザ",
+						"indices": [
+							15,
+							18
+						]
+					},
+					{
+						"text": "パレスチナ",
+						"indices": [
+							78,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 944333414991368200,
+						"id_str": "944333414991368192",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/944333414991368192/pu/img/EiH1il8Ydn0sxoVu.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/944333414991368192/pu/img/EiH1il8Ydn0sxoVu.jpg",
+						"url": "https://t.co/WoLuNhAf79",
+						"display_url": "pic.twitter.com/WoLuNhAf79",
+						"expanded_url": "https://twitter.com/WeAreNotNumbers/status/944335485396246530/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 944335485396246500,
+						"source_status_id_str": "944335485396246530",
+						"source_user_id": 2998813421,
+						"source_user_id_str": "2998813421"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 944333414991368200,
+						"id_str": "944333414991368192",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/944333414991368192/pu/img/EiH1il8Ydn0sxoVu.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/944333414991368192/pu/img/EiH1il8Ydn0sxoVu.jpg",
+						"url": "https://t.co/WoLuNhAf79",
+						"display_url": "pic.twitter.com/WoLuNhAf79",
+						"expanded_url": "https://twitter.com/WeAreNotNumbers/status/944335485396246530/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 944335485396246500,
+						"source_status_id_str": "944335485396246530",
+						"source_user_id": 2998813421,
+						"source_user_id_str": "2998813421",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 99667,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/944333414991368192/pu/vid/320x180/d1MpA4JT4pTefCzE.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/944333414991368192/pu/vid/640x360/abHHmMa-r5dOAztJ.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/944333414991368192/pu/pl/SvgNkZa2doT48PIO.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/944333414991368192/pu/vid/1280x720/636GSiKJ6_FZKM7G.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2998813421,
+								"id_str": "2998813421",
+								"name": "Not Numbers",
+								"screen_name": "WeAreNotNumbers",
+								"location": "Gaza Strip, Palestine",
+								"description": "Writers from #Gaza and Lebanon team with international mentors to tell the human stories behind the numbers. #Palestine",
+								"url": "https://t.co/kW3tACaoFH",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/kW3tACaoFH",
+												"expanded_url": "http://wearenotnumbers.org/",
+												"display_url": "wearenotnumbers.org",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 2600,
+								"friends_count": 626,
+								"listed_count": 61,
+								"created_at": "Sun Jan 25 23:08:08 +0000 2015",
+								"favourites_count": 636,
+								"utc_offset": -18000,
+								"time_zone": "Eastern Time (US & Canada)",
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 4052,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/663674203690811392/Y5xb1lIM_normal.png",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/663674203690811392/Y5xb1lIM_normal.png",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2998813421/1460167215",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2668563330,
+				"id_str": "2668563330",
+				"name": "パレスチナ情報デスク",
+				"screen_name": "palinfo_jp",
+				"location": "Japan اليابان",
+				"description": "パレスチナ(とその地を占領し続けるイスラエル)を中心とする中東のニュースと文化情報 #FreePalestine #Palestine #Gaza #occupation #Arab #MiddleEast",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6769,
+				"friends_count": 200,
+				"listed_count": 351,
+				"created_at": "Tue Jul 22 06:18:19 +0000 2014",
+				"favourites_count": 5573,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23017,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/804043317918863360/r9dYeQ3t_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/804043317918863360/r9dYeQ3t_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2668563330/1451841425",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 148,
+			"favorite_count": 153,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 148,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Fri Dec 22 14:58:40 +0000 2017",
 		"id": 944220649140076500,
 		"id_str": "944220649140076545",
