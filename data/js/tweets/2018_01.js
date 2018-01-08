@@ -1,6 +1,736 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sun Jan 07 09:03:04 +0000 2018",
+		"id": 949929367232159700,
+		"id_str": "949929367232159744",
+		"text": "RT @chome007: 平和しかない。つらい時に見よう。\n https://t.co/zB1WBihKBR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chome007",
+					"name": "onoma(31)",
+					"id": 137706304,
+					"id_str": "137706304",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 948779191885090800,
+					"id_str": "948779191885090816",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/948779191885090816/pu/img/JbDxvqEr_-Ybc9pw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/948779191885090816/pu/img/JbDxvqEr_-Ybc9pw.jpg",
+					"url": "https://t.co/zB1WBihKBR",
+					"display_url": "pic.twitter.com/zB1WBihKBR",
+					"expanded_url": "https://twitter.com/LauraLasa00/status/948781549444587520/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 948781549444587500,
+					"source_status_id_str": "948781549444587520",
+					"source_user_id": 242071838,
+					"source_user_id_str": "242071838"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 948779191885090800,
+					"id_str": "948779191885090816",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/948779191885090816/pu/img/JbDxvqEr_-Ybc9pw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/948779191885090816/pu/img/JbDxvqEr_-Ybc9pw.jpg",
+					"url": "https://t.co/zB1WBihKBR",
+					"display_url": "pic.twitter.com/zB1WBihKBR",
+					"expanded_url": "https://twitter.com/LauraLasa00/status/948781549444587520/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 948781549444587500,
+					"source_status_id_str": "948781549444587520",
+					"source_user_id": 242071838,
+					"source_user_id_str": "242071838",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 38127,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/948779191885090816/pu/vid/720x1280/jAwmaWmAU_3fOsCd.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/948779191885090816/pu/vid/360x640/rlS1tvXdLMpOTuaJ.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/948779191885090816/pu/vid/180x320/DGJvCJbqr6OiRIRQ.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/948779191885090816/pu/pl/yV89ou9AxG1S1viy.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 242071838,
+							"id_str": "242071838",
+							"name": "👹",
+							"screen_name": "LauraLasa00",
+							"location": "posadas",
+							"description": "https://t.co/NZoD6BHziV.      17.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/NZoD6BHziV",
+											"expanded_url": "https://www.instagram.com/lauralasa_/?hl=es",
+											"display_url": "instagram.com/lauralasa_/?hl…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 2056,
+							"friends_count": 278,
+							"listed_count": 12,
+							"created_at": "Sun Jan 23 21:44:10 +0000 2011",
+							"favourites_count": 4486,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 2209,
+							"lang": "es",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "ACDED6",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/948758057420513280/SgymN77B_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/948758057420513280/SgymN77B_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/242071838/1507263060",
+							"profile_link_color": "038543",
+							"profile_sidebar_border_color": "EEEEEE",
+							"profile_sidebar_fill_color": "F6F6F6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 483,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1883,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16163,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 06 15:42:55 +0000 2018",
+			"id": 949667602330148900,
+			"id_str": "949667602330148867",
+			"text": "平和しかない。つらい時に見よう。\n https://t.co/zB1WBihKBR",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 948779191885090800,
+						"id_str": "948779191885090816",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/948779191885090816/pu/img/JbDxvqEr_-Ybc9pw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/948779191885090816/pu/img/JbDxvqEr_-Ybc9pw.jpg",
+						"url": "https://t.co/zB1WBihKBR",
+						"display_url": "pic.twitter.com/zB1WBihKBR",
+						"expanded_url": "https://twitter.com/LauraLasa00/status/948781549444587520/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 948781549444587500,
+						"source_status_id_str": "948781549444587520",
+						"source_user_id": 242071838,
+						"source_user_id_str": "242071838"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 948779191885090800,
+						"id_str": "948779191885090816",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/948779191885090816/pu/img/JbDxvqEr_-Ybc9pw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/948779191885090816/pu/img/JbDxvqEr_-Ybc9pw.jpg",
+						"url": "https://t.co/zB1WBihKBR",
+						"display_url": "pic.twitter.com/zB1WBihKBR",
+						"expanded_url": "https://twitter.com/LauraLasa00/status/948781549444587520/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 948781549444587500,
+						"source_status_id_str": "948781549444587520",
+						"source_user_id": 242071838,
+						"source_user_id_str": "242071838",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 38127,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/948779191885090816/pu/vid/720x1280/jAwmaWmAU_3fOsCd.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/948779191885090816/pu/vid/360x640/rlS1tvXdLMpOTuaJ.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/948779191885090816/pu/vid/180x320/DGJvCJbqr6OiRIRQ.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/948779191885090816/pu/pl/yV89ou9AxG1S1viy.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 242071838,
+								"id_str": "242071838",
+								"name": "👹",
+								"screen_name": "LauraLasa00",
+								"location": "posadas",
+								"description": "https://t.co/NZoD6BHziV.      17.",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/NZoD6BHziV",
+												"expanded_url": "https://www.instagram.com/lauralasa_/?hl=es",
+												"display_url": "instagram.com/lauralasa_/?hl…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 2056,
+								"friends_count": 278,
+								"listed_count": 12,
+								"created_at": "Sun Jan 23 21:44:10 +0000 2011",
+								"favourites_count": 4486,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 2209,
+								"lang": "es",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "ACDED6",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/948758057420513280/SgymN77B_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/948758057420513280/SgymN77B_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/242071838/1507263060",
+								"profile_link_color": "038543",
+								"profile_sidebar_border_color": "EEEEEE",
+								"profile_sidebar_fill_color": "F6F6F6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 137706304,
+				"id_str": "137706304",
+				"name": "onoma(31)",
+				"screen_name": "chome007",
+				"location": "日本 東京",
+				"description": "良い感じの動画を共有します🎥",
+				"url": "https://t.co/jqctMj2qZI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jqctMj2qZI",
+								"expanded_url": "http://onomaryo.net/",
+								"display_url": "onomaryo.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9300,
+				"friends_count": 399,
+				"listed_count": 106,
+				"created_at": "Tue Apr 27 14:12:39 +0000 2010",
+				"favourites_count": 29596,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 53952,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/684530891/9027bdff5f2660877c47c81bcd04b25a.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/684530891/9027bdff5f2660877c47c81bcd04b25a.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/669907025808089088/xUtL8_TP_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/669907025808089088/xUtL8_TP_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/137706304/1507560436",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49837,
+			"favorite_count": 125746,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 49837,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sun Jan 07 05:16:38 +0000 2018",
+		"id": 949872384315596800,
+		"id_str": "949872384315596800",
+		"text": "RT @ryukyushimpo: うるま市伊計島に米軍ヘリ不時着、民家まで約１００メートル https://t.co/Akpw39yLa5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryukyushimpo",
+					"name": "琉球新報",
+					"id": 15746839,
+					"id_str": "15746839",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Akpw39yLa5",
+					"expanded_url": "http://ow.ly/oxbS50g2JPT",
+					"display_url": "ow.ly/oxbS50g2JPT",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 483,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1883,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16163,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 06 13:45:47 +0000 2018",
+			"id": 949638128649850900,
+			"id_str": "949638128649850880",
+			"text": "うるま市伊計島に米軍ヘリ不時着、民家まで約１００メートル https://t.co/Akpw39yLa5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Akpw39yLa5",
+						"expanded_url": "http://ow.ly/oxbS50g2JPT",
+						"display_url": "ow.ly/oxbS50g2JPT",
+						"indices": [
+							29,
+							52
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15746839,
+				"id_str": "15746839",
+				"name": "琉球新報",
+				"screen_name": "ryukyushimpo",
+				"location": "沖縄県那覇市",
+				"description": "沖縄の新聞・琉球新報です。not 琉球新聞。なかのひとが少々。 りゅうちゃん(10歳)は@shimporyuchan、りゅうちゃんクラブは@ryuchanclubです。@shimpolinked、@ryukyushimpo2はbot。会社の見解と必ずしも一致するものばかり(ry",
+				"url": "http://t.co/YUTPJoUc1k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YUTPJoUc1k",
+								"expanded_url": "http://ryukyushimpo.jp",
+								"display_url": "ryukyushimpo.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 49275,
+				"friends_count": 8890,
+				"listed_count": 2611,
+				"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+				"favourites_count": 8170,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 95948,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFCCC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/122247791/twitter_summer.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/122247791/twitter_summer.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "D3D920",
+				"profile_sidebar_fill_color": "FAFCC2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 212,
+			"favorite_count": 75,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 212,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sat Jan 06 14:05:40 +0000 2018",
 		"id": 949643129115652100,
 		"id_str": "949643129115652096",
