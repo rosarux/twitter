@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Fri Jan 26 11:51:41 +0000 2018",
+		"id": 956857169487343600,
+		"id_str": "956857169487343616",
+		"text": "RT @yu_miri_0622: 密陽（ミリャン）は、わたしの母の生まれ故郷で、わたしの祖父母のお墓があります。\n心配です。 https://t.co/1Ypzp17J8Y",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yu_miri_0622",
+					"name": "柳美里",
+					"id": 147029427,
+					"id_str": "147029427",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1Ypzp17J8Y",
+					"expanded_url": "https://twitter.com/yahoonewstopics/status/956753368331968517",
+					"display_url": "twitter.com/yahoonewstopic…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 489,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1958,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16364,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 26 11:22:46 +0000 2018",
+			"id": 956849892634214400,
+			"id_str": "956849892634214404",
+			"text": "密陽（ミリャン）は、わたしの母の生まれ故郷で、わたしの祖父母のお墓があります。\n心配です。 https://t.co/1Ypzp17J8Y",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1Ypzp17J8Y",
+						"expanded_url": "https://twitter.com/yahoonewstopics/status/956753368331968517",
+						"display_url": "twitter.com/yahoonewstopic…",
+						"indices": [
+							46,
+							69
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 147029427,
+				"id_str": "147029427",
+				"name": "柳美里",
+				"screen_name": "yu_miri_0622",
+				"location": "福島県南相馬市小高区",
+				"description": "【新刊】『国家への道順』河出書房新社 ・『春の消息』第三文明社・『飼う人』文藝春秋 ／【Radio】臨時災害放送局「南相馬ひばりエフエム」にて「柳美里のふたりとひとり」を毎週（金）午後8時30分から放送中／yumiri19680622＠gmail.com",
+				"url": "https://t.co/zEt7nRbIuL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zEt7nRbIuL",
+								"expanded_url": "http://blog.goo.ne.jp/yu_miri",
+								"display_url": "blog.goo.ne.jp/yu_miri",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37801,
+				"friends_count": 1855,
+				"listed_count": 1949,
+				"created_at": "Sun May 23 01:26:39 +0000 2010",
+				"favourites_count": 12022,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 47847,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875536636863332352/JyThjaFr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875536636863332352/JyThjaFr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/147029427/1511603064",
+				"profile_link_color": "5F9EA0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 956753368331968500,
+			"quoted_status_id_str": "956753368331968517",
+			"quoted_status": {
+				"created_at": "Fri Jan 26 04:59:13 +0000 2018",
+				"id": 956753368331968500,
+				"id_str": "956753368331968517",
+				"text": "【病院火災の死者40人超え 韓国】韓国・慶尚南道密陽の病院で発生した火災による死者が41人に増えた。消防当局によると、入院患者100人と後方の療養型病院に入院中の94人、計194人の患者がいたという。 https://t.co/fC7ox01GXt",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/fC7ox01GXt",
+							"expanded_url": "https://yahoo.jp/hspwU7",
+							"display_url": "yahoo.jp/hspwU7",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://dailynews.yahoo.co.jp/fc/\" rel=\"nofollow\">ヤフトピbot</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 88846085,
+					"id_str": "88846085",
+					"name": "Yahoo!ニュース",
+					"screen_name": "YahooNewsTopics",
+					"location": "",
+					"description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。",
+					"url": "https://t.co/PORT0VCtyG",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/PORT0VCtyG",
+									"expanded_url": "https://news.yahoo.co.jp/",
+									"display_url": "news.yahoo.co.jp",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 394827,
+					"friends_count": 11,
+					"listed_count": 13053,
+					"created_at": "Tue Nov 10 03:59:51 +0000 2009",
+					"favourites_count": 0,
+					"utc_offset": 32400,
+					"time_zone": "Tokyo",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 275396,
+					"lang": "ja",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "DFD7C7",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/56797173/background.jpg",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/56797173/background.jpg",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/88846085/1490596288",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "A1A33B",
+					"profile_sidebar_fill_color": "FFFCDE",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 53,
+				"favorite_count": 33,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ja"
+			},
+			"retweet_count": 10,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 956753368331968500,
+		"quoted_status_id_str": "956753368331968517",
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Thu Jan 25 22:45:53 +0000 2018",
 		"id": 956659416375345200,
 		"id_str": "956659416375345152",
