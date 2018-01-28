@@ -1,6 +1,1620 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Sat Jan 27 09:50:51 +0000 2018",
+		"id": 957189150783938600,
+		"id_str": "957189150783938560",
+		"text": "RT @hatoyamayukio: 米軍ヘリの不時着が相次いだことに対し、海兵隊の総司令官が「率直に言って不時着で良かった」と発言した。松本内閣府副大臣は「それで何人死んだのか」と野次を飛ばして辞任に追い込まれた。米軍や政府の沖縄に対する差別の本音が聞こえて来る。政府の米軍に…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hatoyamayukio",
+					"name": "鳩山由紀夫",
+					"id": 97244324,
+					"id_str": "97244324",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 488,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1962,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16370,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 27 09:44:13 +0000 2018",
+			"id": 957187480213536800,
+			"id_str": "957187480213536768",
+			"text": "米軍ヘリの不時着が相次いだことに対し、海兵隊の総司令官が「率直に言って不時着で良かった」と発言した。松本内閣府副大臣は「それで何人死んだのか」と野次を飛ばして辞任に追い込まれた。米軍や政府の沖縄に対する差別の本音が聞こえて来る。政府の米軍に対する弱腰は沖縄を共に植民地化している。",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 97244324,
+				"id_str": "97244324",
+				"name": "鳩山由紀夫",
+				"screen_name": "hatoyamayukio",
+				"location": "JAPAN",
+				"description": "政治の話に限らず、身辺に起こったいろいろな話題について書いていければと思っています。ご意見ご感想は @hatoyamayukio でお願いいたします。",
+				"url": "http://t.co/7UM0Rv8toT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7UM0Rv8toT",
+								"expanded_url": "http://www.eaci.or.jp/",
+								"display_url": "eaci.or.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 839511,
+				"friends_count": 123064,
+				"listed_count": 27014,
+				"created_at": "Wed Dec 16 16:44:30 +0000 2009",
+				"favourites_count": 4,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 769,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5BB007",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/603040601/hatoyama_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/603040601/hatoyama_normal.png",
+				"profile_link_color": "0DA100",
+				"profile_sidebar_border_color": "DBDBDB",
+				"profile_sidebar_fill_color": "F2F2F2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 670,
+			"favorite_count": 697,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 670,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Jan 27 05:32:49 +0000 2018",
+		"id": 957124212849692700,
+		"id_str": "957124212849692672",
+		"text": "RT @welchsbinn: 입만 열면 남자는 군대를 갔다와야 어쩌니 하시는 노땅분들이 많으신데 한가지만 말씀드리자면 현재 50세 중반 이상 되는 아저씨들은 거의 반수가 현역 안갔다. https://t.co/k2LPl4eyHQ https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "welchsbinn",
+					"name": "WelchsBinn",
+					"id": 1928583404,
+					"id_str": "1928583404",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/k2LPl4eyHQ",
+					"expanded_url": "https://twitter.com/welchsbinn/status/957045061606244352/photo/1",
+					"display_url": "pic.twitter.com/k2LPl4eyHQ",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 488,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1962,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16370,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 27 00:19:05 +0000 2018",
+			"id": 957045257723506700,
+			"id_str": "957045257723506688",
+			"text": "입만 열면 남자는 군대를 갔다와야 어쩌니 하시는 노땅분들이 많으신데 한가지만 말씀드리자면 현재 50세 중반 이상 되는 아저씨들은 거의 반수가 현역 안갔다. https://t.co/k2LPl4eyHQ https://t.co/m4ByN32JHy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/k2LPl4eyHQ",
+						"expanded_url": "https://twitter.com/welchsbinn/status/957045061606244352/photo/1",
+						"display_url": "pic.twitter.com/k2LPl4eyHQ",
+						"indices": [
+							87,
+							110
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 957045253239787500,
+						"id_str": "957045253239787520",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DUgbllFU0AABws-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUgbllFU0AABws-.jpg",
+						"url": "https://t.co/m4ByN32JHy",
+						"display_url": "pic.twitter.com/m4ByN32JHy",
+						"expanded_url": "https://twitter.com/welchsbinn/status/957045257723506688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 117,
+								"h": 117,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 117,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 117,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 117,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 957045253239787500,
+						"id_str": "957045253239787520",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/DUgbllFU0AABws-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUgbllFU0AABws-.jpg",
+						"url": "https://t.co/m4ByN32JHy",
+						"display_url": "pic.twitter.com/m4ByN32JHy",
+						"expanded_url": "https://twitter.com/welchsbinn/status/957045257723506688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 117,
+								"h": 117,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 117,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 117,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 117,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1928583404,
+				"id_str": "1928583404",
+				"name": "WelchsBinn",
+				"screen_name": "welchsbinn",
+				"location": "코가사 집안",
+				"description": "주로 동방그림 그립니다│프사헤더 @hantamarij, @bignyongnyong님 │FUB free│맞팔은멘션주세요│가끔 야짤│https://t.co/gce8Ied9I2",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gce8Ied9I2",
+								"expanded_url": "http://Pixiv.me/wellbinn",
+								"display_url": "Pixiv.me/wellbinn",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 693,
+				"friends_count": 378,
+				"listed_count": 17,
+				"created_at": "Wed Oct 02 23:34:49 +0000 2013",
+				"favourites_count": 123,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23080,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "4A4F4A",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/720235626444902401/qPcncde1.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/720235626444902401/qPcncde1.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/942391560037003264/iJL3LXj7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/942391560037003264/iJL3LXj7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1928583404/1513515850",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1695,
+			"favorite_count": 264,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1695,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 27 05:20:01 +0000 2018",
+		"id": 957120990638583800,
+		"id_str": "957120990638583809",
+		"text": "RT @IlIlIl1717: 외국인으로서 현지언어가 딸리면 정말 피말리고 죽고싶지만 단 하나 확실한 희망이 있다. 적어도 현지에 발 붙이고 있는 한 언어실력이 후퇴하는 일은 없을 거라는 것..오늘은 앞으로 남은 인생에서 프랑스어를 제일 못하는 날이고…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IlIlIl1717",
+					"name": "비브",
+					"id": 724728081131417600,
+					"id_str": "724728081131417601",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 488,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1962,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16370,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 25 22:51:11 +0000 2018",
+			"id": 956660749669199900,
+			"id_str": "956660749669199877",
+			"text": "외국인으로서 현지언어가 딸리면 정말 피말리고 죽고싶지만 단 하나 확실한 희망이 있다. 적어도 현지에 발 붙이고 있는 한 언어실력이 후퇴하는 일은 없을 거라는 것..오늘은 앞으로 남은 인생에서 프랑스어를 제일… https://t.co/4NVcXHHCQp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4NVcXHHCQp",
+						"expanded_url": "https://twitter.com/i/web/status/956660749669199877",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 724728081131417600,
+				"id_str": "724728081131417601",
+				"name": "비브",
+				"screen_name": "IlIlIl1717",
+				"location": "죽은 백인 남자들이 쓴 글더미 아래",
+				"description": "사랑으로 아무것도 극복하지 않기 캠페인 위원장. 퀴어 교차페미니스트",
+				"url": "https://t.co/8hx7spjQEX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8hx7spjQEX",
+								"expanded_url": "http://ask.fm/chagrin_B",
+								"display_url": "ask.fm/chagrin_B",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4335,
+				"friends_count": 240,
+				"listed_count": 23,
+				"created_at": "Mon Apr 25 22:33:34 +0000 2016",
+				"favourites_count": 1210,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1253,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/883742798087725056/ORfY38z__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/883742798087725056/ORfY38z__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/724728081131417601/1491155968",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 651,
+			"favorite_count": 455,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 651,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 27 03:07:05 +0000 2018",
+		"id": 957087536563679200,
+		"id_str": "957087536563679233",
+		"text": "RT @Reuters: The worst tanker oil spill in decades is unfolding across hundreds of miles of the East China Sea https://t.co/MhbZ1S0d7n http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Reuters",
+					"name": "Reuters Top News",
+					"id": 1652541,
+					"id_str": "1652541",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MhbZ1S0d7n",
+					"expanded_url": "http://reut.rs/2GjvJGM",
+					"display_url": "reut.rs/2GjvJGM",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 488,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1962,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16370,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jan 26 22:09:18 +0000 2018",
+			"id": 957012597311770600,
+			"id_str": "957012597311770624",
+			"text": "The worst tanker oil spill in decades is unfolding across hundreds of miles of the East China Sea… https://t.co/4AHmUElehB",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4AHmUElehB",
+						"expanded_url": "https://twitter.com/i/web/status/957012597311770624",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							99,
+							122
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1652541,
+				"id_str": "1652541",
+				"name": "Reuters Top News",
+				"screen_name": "Reuters",
+				"location": "Around the world",
+				"description": "Top and breaking news, pictures, and videos from Reuters.",
+				"url": "http://t.co/BmHxhkm3Mh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/BmHxhkm3Mh",
+								"expanded_url": "http://www.reuters.com",
+								"display_url": "reuters.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19336987,
+				"friends_count": 1068,
+				"listed_count": 113492,
+				"created_at": "Tue Mar 20 17:46:05 +0000 2007",
+				"favourites_count": 811,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 242797,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "444444",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735542174/340f8869cdcabbcc436096587143cc38.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735542174/340f8869cdcabbcc436096587143cc38.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877554927932891136/ZBEs235N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1652541/1473859324",
+				"profile_link_color": "006F97",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F5F5F5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 591,
+			"favorite_count": 192,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 591,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jan 27 03:05:31 +0000 2018",
+		"id": 957087145193128000,
+		"id_str": "957087145193127936",
+		"text": "RT @agase_: 득템 https://t.co/7Gheofvf55",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "agase_",
+					"name": "아가새농장",
+					"id": 3303776360,
+					"id_str": "3303776360",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 957086821946597400,
+					"id_str": "957086821946597376",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DUhBZMlVoAAgQKa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUhBZMlVoAAgQKa.jpg",
+					"url": "https://t.co/7Gheofvf55",
+					"display_url": "pic.twitter.com/7Gheofvf55",
+					"expanded_url": "https://twitter.com/agase_/status/957086841521430528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 957086841521430500,
+					"source_status_id_str": "957086841521430528",
+					"source_user_id": 3303776360,
+					"source_user_id_str": "3303776360"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 957086821946597400,
+					"id_str": "957086821946597376",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DUhBZMlVoAAgQKa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUhBZMlVoAAgQKa.jpg",
+					"url": "https://t.co/7Gheofvf55",
+					"display_url": "pic.twitter.com/7Gheofvf55",
+					"expanded_url": "https://twitter.com/agase_/status/957086841521430528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 957086841521430500,
+					"source_status_id_str": "957086841521430528",
+					"source_user_id": 3303776360,
+					"source_user_id_str": "3303776360"
+				},
+				{
+					"id": 957086838111354900,
+					"id_str": "957086838111354880",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/DUhBaIzUQAAKl3T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUhBaIzUQAAKl3T.jpg",
+					"url": "https://t.co/7Gheofvf55",
+					"display_url": "pic.twitter.com/7Gheofvf55",
+					"expanded_url": "https://twitter.com/agase_/status/957086841521430528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 293,
+							"h": 237,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 293,
+							"h": 237,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 293,
+							"h": 237,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 957086841521430500,
+					"source_status_id_str": "957086841521430528",
+					"source_user_id": 3303776360,
+					"source_user_id_str": "3303776360"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 488,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1962,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16370,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jan 27 03:04:19 +0000 2018",
+			"id": 957086841521430500,
+			"id_str": "957086841521430528",
+			"text": "득템 https://t.co/7Gheofvf55",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 957086821946597400,
+						"id_str": "957086821946597376",
+						"indices": [
+							3,
+							26
+						],
+						"media_url": "http://pbs.twimg.com/media/DUhBZMlVoAAgQKa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUhBZMlVoAAgQKa.jpg",
+						"url": "https://t.co/7Gheofvf55",
+						"display_url": "pic.twitter.com/7Gheofvf55",
+						"expanded_url": "https://twitter.com/agase_/status/957086841521430528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 957086821946597400,
+						"id_str": "957086821946597376",
+						"indices": [
+							3,
+							26
+						],
+						"media_url": "http://pbs.twimg.com/media/DUhBZMlVoAAgQKa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUhBZMlVoAAgQKa.jpg",
+						"url": "https://t.co/7Gheofvf55",
+						"display_url": "pic.twitter.com/7Gheofvf55",
+						"expanded_url": "https://twitter.com/agase_/status/957086841521430528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 957086838111354900,
+						"id_str": "957086838111354880",
+						"indices": [
+							3,
+							26
+						],
+						"media_url": "http://pbs.twimg.com/media/DUhBaIzUQAAKl3T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUhBaIzUQAAKl3T.jpg",
+						"url": "https://t.co/7Gheofvf55",
+						"display_url": "pic.twitter.com/7Gheofvf55",
+						"expanded_url": "https://twitter.com/agase_/status/957086841521430528/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 293,
+								"h": 237,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 293,
+								"h": 237,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 293,
+								"h": 237,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3303776360,
+				"id_str": "3303776360",
+				"name": "아가새농장",
+				"screen_name": "agase_",
+				"location": "경기도 하남시",
+				"description": "행복한 앵무새들의 공간 아가새농장입니다. 소소하고 사소한 사진들을 올림!",
+				"url": "http://t.co/H4Pe0HHaJM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/H4Pe0HHaJM",
+								"expanded_url": "http://www.agase.co.kr",
+								"display_url": "agase.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1946,
+				"friends_count": 144,
+				"listed_count": 24,
+				"created_at": "Sun Aug 02 00:54:27 +0000 2015",
+				"favourites_count": 663,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 569,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/817192580081299456/2fuL0xt5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/817192580081299456/2fuL0xt5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3303776360/1438483511",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 56,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jan 27 01:47:39 +0000 2018",
+		"id": 957067548142350300,
+		"id_str": "957067548142350336",
+		"text": "RT @tis_toys: 凍結した水道のレゴです https://t.co/q83uLa22mw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tis_toys",
+					"name": "マンティス",
+					"id": 401665476,
+					"id_str": "401665476",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 956427737291345900,
+					"id_str": "956427737291345920",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DUXp9a6U0AAKZei.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUXp9a6U0AAKZei.jpg",
+					"url": "https://t.co/q83uLa22mw",
+					"display_url": "pic.twitter.com/q83uLa22mw",
+					"expanded_url": "https://twitter.com/tis_toys/status/956428086739791872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 956428086739791900,
+					"source_status_id_str": "956428086739791872",
+					"source_user_id": 401665476,
+					"source_user_id_str": "401665476"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 956427737291345900,
+					"id_str": "956427737291345920",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/DUXp9a6U0AAKZei.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DUXp9a6U0AAKZei.jpg",
+					"url": "https://t.co/q83uLa22mw",
+					"display_url": "pic.twitter.com/q83uLa22mw",
+					"expanded_url": "https://twitter.com/tis_toys/status/956428086739791872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 956428086739791900,
+					"source_status_id_str": "956428086739791872",
+					"source_user_id": 401665476,
+					"source_user_id_str": "401665476"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 488,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1962,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16370,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jan 25 07:26:40 +0000 2018",
+			"id": 956428086739791900,
+			"id_str": "956428086739791872",
+			"text": "凍結した水道のレゴです https://t.co/q83uLa22mw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 956427737291345900,
+						"id_str": "956427737291345920",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/DUXp9a6U0AAKZei.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUXp9a6U0AAKZei.jpg",
+						"url": "https://t.co/q83uLa22mw",
+						"display_url": "pic.twitter.com/q83uLa22mw",
+						"expanded_url": "https://twitter.com/tis_toys/status/956428086739791872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 956427737291345900,
+						"id_str": "956427737291345920",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/DUXp9a6U0AAKZei.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DUXp9a6U0AAKZei.jpg",
+						"url": "https://t.co/q83uLa22mw",
+						"display_url": "pic.twitter.com/q83uLa22mw",
+						"expanded_url": "https://twitter.com/tis_toys/status/956428086739791872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 401665476,
+				"id_str": "401665476",
+				"name": "マンティス",
+				"screen_name": "tis_toys",
+				"location": "",
+				"description": "LEGOであそぶよ。なにかつくるよ。こわくないよ。https://t.co/yWw9JiZ3Xm",
+				"url": "https://t.co/1KjUj7xPVx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1KjUj7xPVx",
+								"expanded_url": "http://blog.livedoor.jp/tis_toys/",
+								"display_url": "blog.livedoor.jp/tis_toys/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/yWw9JiZ3Xm",
+								"expanded_url": "https://www.flickr.com/photos/149398203@N07/",
+								"display_url": "flickr.com/photos/1493982…",
+								"indices": [
+									25,
+									48
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1621,
+				"friends_count": 473,
+				"listed_count": 40,
+				"created_at": "Sun Oct 30 22:08:37 +0000 2011",
+				"favourites_count": 15510,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35075,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "548C1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848007158209761285/Bkzjtdf4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848007158209761285/Bkzjtdf4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/401665476/1491015639",
+				"profile_link_color": "2C47CF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13309,
+			"favorite_count": 29720,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13309,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Fri Jan 26 11:51:41 +0000 2018",
 		"id": 956857169487343600,
 		"id_str": "956857169487343616",
