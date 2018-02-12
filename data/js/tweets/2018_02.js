@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sun Feb 11 04:09:07 +0000 2018",
+		"id": 962538966607061000,
+		"id_str": "962538966607060992",
+		"text": "RT @MMFlint: I just loved the whole F-Trump opening to the Olympics last night. From all Koreans coming in together under one blue flag of…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MMFlint",
+					"name": "Michael Moore",
+					"id": 20479813,
+					"id_str": "20479813",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 492,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2028,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16540,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 10 16:27:29 +0000 2018",
+			"id": 962362395661398000,
+			"id_str": "962362395661398016",
+			"text": "I just loved the whole F-Trump opening to the Olympics last night. From all Koreans coming in together under one bl… https://t.co/AyEIHHLvRn",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AyEIHHLvRn",
+						"expanded_url": "https://twitter.com/i/web/status/962362395661398016",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20479813,
+				"id_str": "20479813",
+				"name": "Michael Moore",
+				"screen_name": "MMFlint",
+				"location": "Michigan/New York City",
+				"description": "Filmmaker(Bowling for Columbine), Author(Stupid White Men), Stable Genius. New film & prime time TV series coming in 2018. Available any Sat. to help Trump move",
+				"url": "https://t.co/o603MFKf3J",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/o603MFKf3J",
+								"expanded_url": "http://Facebook.com/MMFlint",
+								"display_url": "Facebook.com/MMFlint",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5959635,
+				"friends_count": 461,
+				"listed_count": 32840,
+				"created_at": "Tue Feb 10 00:06:58 +0000 2009",
+				"favourites_count": 1510,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13712,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/11081796/mm_twitter_classic.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/11081796/mm_twitter_classic.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/895526290278817793/0Mv-V6Ed_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/895526290278817793/0Mv-V6Ed_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20479813/1502345082",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "003366",
+				"profile_sidebar_fill_color": "DBDADF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5113,
+			"favorite_count": 26683,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5113,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 10 11:55:29 +0000 2018",
 		"id": 962293942241738800,
 		"id_str": "962293942241738752",
