@@ -1,6 +1,1285 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 14 12:00:28 +0000 2018",
+		"id": 963744748639993900,
+		"id_str": "963744748639993857",
+		"text": "@rainbowsda 저는 https://t.co/XyYtNBYXmt 이 행사에서도 오키나와의 음악이 소개됐으면 좋겠다는 얘기였어요^^",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rainbowsda",
+					"name": "쏭다'ㅡ'",
+					"id": 963637243,
+					"id_str": "963637243",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XyYtNBYXmt",
+					"expanded_url": "https://twitter.com/podopodopodopo/status/963429653208682497",
+					"display_url": "twitter.com/podopodopodopo…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 963741474234904600,
+		"in_reply_to_status_id_str": "963741474234904577",
+		"in_reply_to_user_id": 963637243,
+		"in_reply_to_user_id_str": "963637243",
+		"in_reply_to_screen_name": "rainbowsda",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 494,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2043,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16552,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 963429653208682500,
+		"quoted_status_id_str": "963429653208682497",
+		"quoted_status": {
+			"created_at": "Tue Feb 13 15:08:23 +0000 2018",
+			"id": 963429653208682500,
+			"id_str": "963429653208682497",
+			"text": "월간평화음악\n@궁중족발 2018.3.2(금) 19:00\n\n평화를 노래한 음악들을 만나보는 ‘월간평화음악’은 세계의 평화음악들을 들으며 노랫말을 음미해 보고 시대와 음악가들을 만나보는 음악 감상회입니다.\n\n진… https://t.co/OrPMoh2xkm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OrPMoh2xkm",
+						"expanded_url": "https://twitter.com/i/web/status/963429653208682497",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 328424159,
+				"id_str": "328424159",
+				"name": "황경하",
+				"screen_name": "podopodopodopo",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/ZKlB34X3z7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZKlB34X3z7",
+								"expanded_url": "https://www.flickr.com/photos/151640612@N02/",
+								"display_url": "flickr.com/photos/1516406…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1995,
+				"friends_count": 577,
+				"listed_count": 31,
+				"created_at": "Sun Jul 03 10:23:12 +0000 2011",
+				"favourites_count": 2102,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 70673,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/756100854/68b26ed22443973ac398650bf55ffc18.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/756100854/68b26ed22443973ac398650bf55ffc18.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/955291235538710528/_jSHCMdg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/955291235538710528/_jSHCMdg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/328424159/1503014942",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "0084B4",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Feb 14 10:41:42 +0000 2018",
+		"id": 963724928523558900,
+		"id_str": "963724928523558912",
+		"text": "오키나와의 음악들도 들을 수 있었으면(없는 것 같긴 하다)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 494,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2043,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16552,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Feb 14 10:40:48 +0000 2018",
+		"id": 963724701087313900,
+		"id_str": "963724701087313920",
+		"text": "RT @podopodopodopo: 월간평화음악\n@궁중족발 2018.3.2(금) 19:00\n\n평화를 노래한 음악들을 만나보는 ‘월간평화음악’은 세계의 평화음악들을 들으며 노랫말을 음미해 보고 시대와 음악가들을 만나보는 음악 감상회입니다.\n\n진행 쏭&amp;…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "podopodopodopo",
+					"name": "황경하",
+					"id": 328424159,
+					"id_str": "328424159",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 494,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2043,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16552,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 13 15:08:23 +0000 2018",
+			"id": 963429653208682500,
+			"id_str": "963429653208682497",
+			"text": "월간평화음악\n@궁중족발 2018.3.2(금) 19:00\n\n평화를 노래한 음악들을 만나보는 ‘월간평화음악’은 세계의 평화음악들을 들으며 노랫말을 음미해 보고 시대와 음악가들을 만나보는 음악 감상회입니다.\n\n진… https://t.co/OrPMoh2xkm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OrPMoh2xkm",
+						"expanded_url": "https://twitter.com/i/web/status/963429653208682497",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 328424159,
+				"id_str": "328424159",
+				"name": "황경하",
+				"screen_name": "podopodopodopo",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/ZKlB34X3z7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZKlB34X3z7",
+								"expanded_url": "https://www.flickr.com/photos/151640612@N02/",
+								"display_url": "flickr.com/photos/1516406…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1995,
+				"friends_count": 577,
+				"listed_count": 31,
+				"created_at": "Sun Jul 03 10:23:12 +0000 2011",
+				"favourites_count": 2102,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 70673,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/756100854/68b26ed22443973ac398650bf55ffc18.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/756100854/68b26ed22443973ac398650bf55ffc18.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/955291235538710528/_jSHCMdg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/955291235538710528/_jSHCMdg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/328424159/1503014942",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "0084B4",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Wed Feb 14 08:38:48 +0000 2018",
+		"id": 963693999688097800,
+		"id_str": "963693999688097792",
+		"text": "RT @syukan_kinyobi: 【週刊金曜日】アイコンを2月16日号に替えました。特集は〈「戸籍」から「個籍」へ　新たな「別姓訴訟」と家族法〉です。注目ルポ〈沖縄・名護　辺野古新基地建設の現場から　選挙後も続く抗議「我々は諦めない」〉 https://t.co/GvZw…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "syukan_kinyobi",
+					"name": "週刊金曜日",
+					"id": 133206735,
+					"id_str": "133206735",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 494,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2043,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16552,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Feb 14 08:36:00 +0000 2018",
+			"id": 963693294956916700,
+			"id_str": "963693294956916736",
+			"text": "【週刊金曜日】アイコンを2月16日号に替えました。特集は〈「戸籍」から「個籍」へ　新たな「別姓訴訟」と家族法〉です。注目ルポ〈沖縄・名護　辺野古新基地建設の現場から　選挙後も続く抗議「我々は諦めない」〉 https://t.co/GvZw2FYDpF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 963693058549211100,
+						"id_str": "963693058549211136",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DV-5uxtV4AAzQeB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV-5uxtV4AAzQeB.jpg",
+						"url": "https://t.co/GvZw2FYDpF",
+						"display_url": "pic.twitter.com/GvZw2FYDpF",
+						"expanded_url": "https://twitter.com/syukan_kinyobi/status/963693294956916736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 595,
+								"h": 729,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 555,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 595,
+								"h": 729,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 963693058549211100,
+						"id_str": "963693058549211136",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/DV-5uxtV4AAzQeB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV-5uxtV4AAzQeB.jpg",
+						"url": "https://t.co/GvZw2FYDpF",
+						"display_url": "pic.twitter.com/GvZw2FYDpF",
+						"expanded_url": "https://twitter.com/syukan_kinyobi/status/963693294956916736/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 595,
+								"h": 729,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 555,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 595,
+								"h": 729,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 133206735,
+				"id_str": "133206735",
+				"name": "週刊金曜日",
+				"screen_name": "syukan_kinyobi",
+				"location": "東京",
+				"description": "『週刊金曜日』は定期購読主体（一部書店でも販売）の総合週刊誌です。このツイッターでは、編集部・業務部・電子メディア部などの社員が自由につぶやきます。なお、リツイートは該当ツイートに全面的に賛同の意をあらわすものではありません。",
+				"url": "https://t.co/YFxY8MFs6z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YFxY8MFs6z",
+								"expanded_url": "http://www.kinyobi.co.jp/",
+								"display_url": "kinyobi.co.jp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45634,
+				"friends_count": 2459,
+				"listed_count": 2623,
+				"created_at": "Thu Apr 15 08:15:43 +0000 2010",
+				"favourites_count": 277,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 79329,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "40E0FF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/725592326664409088/eaGgubkF.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/725592326664409088/eaGgubkF.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963692049106022400/U2ZCHS0h_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963692049106022400/U2ZCHS0h_normal.jpg",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Wed Feb 14 03:23:21 +0000 2018",
+		"id": 963614614750609400,
+		"id_str": "963614614750609408",
+		"text": "RT @OkinawaPrefLib: 【#ガーブ川桜並木開花情報】\nあっという間に8分咲き！\n休日は、撮影隊がたくさん！\n外国からの旅行客もたくさんいました。ガイドブックに載ってるのかな？(*´ー｀*)#与儀公園 #桜 #沖縄 https://t.co/gvsDqlgcma",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ガーブ川桜並木開花情報",
+					"indices": [
+						21,
+						33
+					]
+				},
+				{
+					"text": "与儀公園",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "桜",
+					"indices": [
+						108,
+						110
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						111,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OkinawaPrefLib",
+					"name": "沖縄県立図書館",
+					"id": 813211931553058800,
+					"id_str": "813211931553058816",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 963560858281435100,
+					"id_str": "963560858281435136",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DV9BftVV4AA5LcJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DV9BftVV4AA5LcJ.jpg",
+					"url": "https://t.co/gvsDqlgcma",
+					"display_url": "pic.twitter.com/gvsDqlgcma",
+					"expanded_url": "https://twitter.com/OkinawaPrefLib/status/963560904418672640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963560904418672600,
+					"source_status_id_str": "963560904418672640",
+					"source_user_id": 813211931553058800,
+					"source_user_id_str": "813211931553058816"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 963560858281435100,
+					"id_str": "963560858281435136",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DV9BftVV4AA5LcJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DV9BftVV4AA5LcJ.jpg",
+					"url": "https://t.co/gvsDqlgcma",
+					"display_url": "pic.twitter.com/gvsDqlgcma",
+					"expanded_url": "https://twitter.com/OkinawaPrefLib/status/963560904418672640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963560904418672600,
+					"source_status_id_str": "963560904418672640",
+					"source_user_id": 813211931553058800,
+					"source_user_id_str": "813211931553058816"
+				},
+				{
+					"id": 963560858281427000,
+					"id_str": "963560858281426944",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/DV9BftVVwAAnJ2u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DV9BftVVwAAnJ2u.jpg",
+					"url": "https://t.co/gvsDqlgcma",
+					"display_url": "pic.twitter.com/gvsDqlgcma",
+					"expanded_url": "https://twitter.com/OkinawaPrefLib/status/963560904418672640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 963560904418672600,
+					"source_status_id_str": "963560904418672640",
+					"source_user_id": 813211931553058800,
+					"source_user_id_str": "813211931553058816"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 494,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2043,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16552,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 13 23:49:56 +0000 2018",
+			"id": 963560904418672600,
+			"id_str": "963560904418672640",
+			"text": "【#ガーブ川桜並木開花情報】\nあっという間に8分咲き！\n休日は、撮影隊がたくさん！\n外国からの旅行客もたくさんいました。ガイドブックに載ってるのかな？(*´ー｀*)#与儀公園 #桜 #沖縄 https://t.co/gvsDqlgcma",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ガーブ川桜並木開花情報",
+						"indices": [
+							1,
+							13
+						]
+					},
+					{
+						"text": "与儀公園",
+						"indices": [
+							82,
+							87
+						]
+					},
+					{
+						"text": "桜",
+						"indices": [
+							88,
+							90
+						]
+					},
+					{
+						"text": "沖縄",
+						"indices": [
+							91,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 963560858281435100,
+						"id_str": "963560858281435136",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/DV9BftVV4AA5LcJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV9BftVV4AA5LcJ.jpg",
+						"url": "https://t.co/gvsDqlgcma",
+						"display_url": "pic.twitter.com/gvsDqlgcma",
+						"expanded_url": "https://twitter.com/OkinawaPrefLib/status/963560904418672640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 963560858281435100,
+						"id_str": "963560858281435136",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/DV9BftVV4AA5LcJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV9BftVV4AA5LcJ.jpg",
+						"url": "https://t.co/gvsDqlgcma",
+						"display_url": "pic.twitter.com/gvsDqlgcma",
+						"expanded_url": "https://twitter.com/OkinawaPrefLib/status/963560904418672640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 963560858281427000,
+						"id_str": "963560858281426944",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/DV9BftVVwAAnJ2u.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV9BftVVwAAnJ2u.jpg",
+						"url": "https://t.co/gvsDqlgcma",
+						"display_url": "pic.twitter.com/gvsDqlgcma",
+						"expanded_url": "https://twitter.com/OkinawaPrefLib/status/963560904418672640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 813211931553058800,
+				"id_str": "813211931553058816",
+				"name": "沖縄県立図書館",
+				"screen_name": "OkinawaPrefLib",
+				"location": "沖縄県那覇市",
+				"description": "沖縄県立図書館の公式アカウントです。県立図書館のイベントや新着本などの情報を発信します。ご意見・お問い合わせは、図書館公式サイトの「お問い合わせ」からお願いします。火曜＋祝日定期休館日",
+				"url": "https://t.co/MoYUxJ88ol",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MoYUxJ88ol",
+								"expanded_url": "http://www.library.pref.okinawa.jp/",
+								"display_url": "library.pref.okinawa.jp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 830,
+				"friends_count": 36,
+				"listed_count": 40,
+				"created_at": "Mon Dec 26 02:36:48 +0000 2016",
+				"favourites_count": 380,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 911,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/960879911383658496/w66g70Tu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/960879911383658496/w66g70Tu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/813211931553058816/1515626981",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Wed Feb 14 03:03:24 +0000 2018",
+		"id": 963609594193825800,
+		"id_str": "963609594193825792",
+		"text": "자기가 1.5인분 차지하고 앉아놓고 자리 좁다고 투덜거리는 아저씨",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 494,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2043,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16552,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Tue Feb 13 22:31:07 +0000 2018",
 		"id": 963541068892422100,
 		"id_str": "963541068892422144",
