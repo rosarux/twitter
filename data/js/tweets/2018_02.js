@@ -1,6 +1,647 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Thu Feb 15 12:33:26 +0000 2018",
+		"id": 964115433606426600,
+		"id_str": "964115433606426629",
+		"text": "RT @masafumi0428: これ、泣ける。素晴らしい。 https://t.co/R1mTKolpum",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "masafumi0428",
+					"name": "masafumi kazuma",
+					"id": 119552261,
+					"id_str": "119552261",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R1mTKolpum",
+					"expanded_url": "https://twitter.com/minnano_dougaww/status/963671913968136193",
+					"display_url": "twitter.com/minnano_dougaw…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 494,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2049,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16554,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 15 12:29:09 +0000 2018",
+			"id": 964114354583908400,
+			"id_str": "964114354583908352",
+			"text": "これ、泣ける。素晴らしい。 https://t.co/R1mTKolpum",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/R1mTKolpum",
+						"expanded_url": "https://twitter.com/minnano_dougaww/status/963671913968136193",
+						"display_url": "twitter.com/minnano_dougaw…",
+						"indices": [
+							14,
+							37
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 119552261,
+				"id_str": "119552261",
+				"name": "masafumi kazuma",
+				"screen_name": "masafumi0428",
+				"location": "神奈川県西部",
+				"description": "中小企業診断士（休業中）。体調が回復し生活再建中。アキレス腱炎と過度な疲労感により市民マラソンは中断も再起を目指す。それとは別に頭の活性化のため40年ぶりに囲碁に嵌まる。難しいけど面白い。三段を目標にしている。 https://t.co/ELozoXobAh",
+				"url": "https://t.co/K4RfqiRQ5H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/K4RfqiRQ5H",
+								"expanded_url": "http://m-kazuma2007.cocolog-nifty.com/blog/",
+								"display_url": "m-kazuma2007.cocolog-nifty.com/blog/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ELozoXobAh",
+								"expanded_url": "http://twilog.org/masafumi0428",
+								"display_url": "twilog.org/masafumi0428",
+								"indices": [
+									106,
+									129
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1450,
+				"friends_count": 1405,
+				"listed_count": 51,
+				"created_at": "Thu Mar 04 00:19:43 +0000 2010",
+				"favourites_count": 902,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23815,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/126113852/58099_.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/126113852/58099_.JPG",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/556325948488822784/0Dxzd6AI_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/556325948488822784/0Dxzd6AI_normal.jpeg",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 963671913968136200,
+			"quoted_status_id_str": "963671913968136193",
+			"quoted_status": {
+				"created_at": "Wed Feb 14 07:11:03 +0000 2018",
+				"id": 963671913968136200,
+				"id_str": "963671913968136193",
+				"text": "おぼれてしまって意識のない子犬を発見し、必死の救助。\n助かって良かったし、人工呼吸のやり方がとても参考になった。\n\nhttps://t.co/bR3PSGSrh0",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 963079983399751700,
+							"id_str": "963079983399751680",
+							"indices": [
+								58,
+								81
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/963079983399751680/pu/img/HKNdE3WVUtd170AF.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/963079983399751680/pu/img/HKNdE3WVUtd170AF.jpg",
+							"url": "https://t.co/bR3PSGSrh0",
+							"display_url": "pic.twitter.com/bR3PSGSrh0",
+							"expanded_url": "https://twitter.com/souske0420/status/963080857127809024/video/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 383,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 720,
+									"h": 1280,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 675,
+									"h": 1200,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 963080857127809000,
+							"source_status_id_str": "963080857127809024",
+							"source_user_id": 3061103694,
+							"source_user_id_str": "3061103694"
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 963079983399751700,
+							"id_str": "963079983399751680",
+							"indices": [
+								58,
+								81
+							],
+							"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/963079983399751680/pu/img/HKNdE3WVUtd170AF.jpg",
+							"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/963079983399751680/pu/img/HKNdE3WVUtd170AF.jpg",
+							"url": "https://t.co/bR3PSGSrh0",
+							"display_url": "pic.twitter.com/bR3PSGSrh0",
+							"expanded_url": "https://twitter.com/souske0420/status/963080857127809024/video/1",
+							"type": "video",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 383,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 720,
+									"h": 1280,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 675,
+									"h": 1200,
+									"resize": "fit"
+								}
+							},
+							"source_status_id": 963080857127809000,
+							"source_status_id_str": "963080857127809024",
+							"source_user_id": 3061103694,
+							"source_user_id_str": "3061103694",
+							"video_info": {
+								"aspect_ratio": [
+									9,
+									16
+								],
+								"duration_millis": 120862,
+								"variants": [
+									{
+										"bitrate": 832000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/963079983399751680/pu/vid/360x640/cXzbhHKRMb1TxhhQ.mp4"
+									},
+									{
+										"content_type": "application/x-mpegURL",
+										"url": "https://video.twimg.com/ext_tw_video/963079983399751680/pu/pl/bAUdZw4lZlo4D4SR.m3u8"
+									},
+									{
+										"bitrate": 256000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/963079983399751680/pu/vid/180x320/YWQfOHtzgp8tUwYU.mp4"
+									},
+									{
+										"bitrate": 2176000,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/ext_tw_video/963079983399751680/pu/vid/720x1280/EsR7eNNd12PNTxG6.mp4"
+									}
+								]
+							},
+							"additional_media_info": {
+								"monetizable": false,
+								"source_user": {
+									"id": 3061103694,
+									"id_str": "3061103694",
+									"name": "ぐりこ@GRC0420",
+									"screen_name": "souske0420",
+									"location": "岡山 倉敷市",
+									"description": "鉄拳(Jin) R6S(IQ) PSID GRC0420",
+									"url": null,
+									"entities": {
+										"description": {
+											"urls": []
+										}
+									},
+									"protected": false,
+									"followers_count": 443,
+									"friends_count": 206,
+									"listed_count": 2,
+									"created_at": "Wed Mar 04 09:57:23 +0000 2015",
+									"favourites_count": 19,
+									"utc_offset": null,
+									"time_zone": null,
+									"geo_enabled": true,
+									"verified": false,
+									"statuses_count": 16319,
+									"lang": "ja",
+									"contributors_enabled": false,
+									"is_translator": false,
+									"is_translation_enabled": false,
+									"profile_background_color": "C0DEED",
+									"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+									"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+									"profile_background_tile": false,
+									"profile_image_url": "http://pbs.twimg.com/profile_images/958382131251523584/NK-OQN78_normal.jpg",
+									"profile_image_url_https": "https://pbs.twimg.com/profile_images/958382131251523584/NK-OQN78_normal.jpg",
+									"profile_banner_url": "https://pbs.twimg.com/profile_banners/3061103694/1516768712",
+									"profile_link_color": "1DA1F2",
+									"profile_sidebar_border_color": "C0DEED",
+									"profile_sidebar_fill_color": "DDEEF6",
+									"profile_text_color": "333333",
+									"profile_use_background_image": true,
+									"has_extended_profile": true,
+									"default_profile": true,
+									"default_profile_image": false,
+									"following": false,
+									"follow_request_sent": false,
+									"notifications": false,
+									"translator_type": "none"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 862326702898200600,
+					"id_str": "862326702898200576",
+					"name": "みんなの動画",
+					"screen_name": "minnano_dougaww",
+					"location": "あなたのスマホ",
+					"description": "更新率は高めだからいつ見ても飽きない暇潰し専用のアカウント！話題のみんなの動画をどんどん紹介してくよ！フォロー＆RTして一緒にTwitterを盛り上げちゃおう！話題になった動画はいいねにあるから見てな😘【スパムツイートは一切しません。引用元は明記してツイートしています】",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 89743,
+					"friends_count": 12830,
+					"listed_count": 250,
+					"created_at": "Wed May 10 15:21:22 +0000 2017",
+					"favourites_count": 179,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1151,
+					"lang": "ja",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/914398356260110336/IOvuG8NO_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/914398356260110336/IOvuG8NO_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/862326702898200576/1497161703",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 33929,
+				"favorite_count": 86811,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ja"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 963671913968136200,
+		"quoted_status_id_str": "963671913968136193",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Thu Feb 15 06:40:09 +0000 2018",
+		"id": 964026526269284400,
+		"id_str": "964026526269284353",
+		"text": "RT @ajans50098538: @estima7 연대 교수님들도 대학 혁신을 위해 구조조정이 필요하다고 생각합니다",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ajans50098538",
+					"name": "ajans",
+					"id": 889496369756463100,
+					"id_str": "889496369756463104",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "estima7",
+					"name": "임정욱 / Jungwook Lim",
+					"id": 14060875,
+					"id_str": "14060875",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 494,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2049,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16554,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 15 05:35:17 +0000 2018",
+			"id": 964010202369474600,
+			"id_str": "964010202369474565",
+			"text": "@estima7 연대 교수님들도 대학 혁신을 위해 구조조정이 필요하다고 생각합니다",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "estima7",
+						"name": "임정욱 / Jungwook Lim",
+						"id": 14060875,
+						"id_str": "14060875",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 963922408460529700,
+			"in_reply_to_status_id_str": "963922408460529664",
+			"in_reply_to_user_id": 14060875,
+			"in_reply_to_user_id_str": "14060875",
+			"in_reply_to_screen_name": "estima7",
+			"user": {
+				"id": 889496369756463100,
+				"id_str": "889496369756463104",
+				"name": "ajans",
+				"screen_name": "ajans50098538",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29,
+				"friends_count": 408,
+				"listed_count": 0,
+				"created_at": "Mon Jul 24 14:43:55 +0000 2017",
+				"favourites_count": 246,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 561,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed Feb 14 12:00:28 +0000 2018",
 		"id": 963744748639993900,
 		"id_str": "963744748639993857",
