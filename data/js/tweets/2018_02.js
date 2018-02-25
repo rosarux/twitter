@@ -1,6 +1,378 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Sat Feb 24 12:14:54 +0000 2018",
+		"id": 967372259286425600,
+		"id_str": "967372259286425601",
+		"text": "RT @rheingang: 역사학자 전우용 씨가 미투운동 전개 시점을 놓고 이상한(?) 얘기를 했더라. '왜 더 일찍 시작하지 않았냐?'는 식의 얘기였는데, 역사적으로 무수한 사회 운동이 있었는데 그것들에 대해서도 같은 논리로 이야기할 수 있을까?…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rheingang",
+					"name": "스케치북",
+					"id": 518600971,
+					"id_str": "518600971",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 493,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2063,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16582,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Feb 22 10:45:32 +0000 2018",
+			"id": 966624996993970200,
+			"id_str": "966624996993970176",
+			"text": "역사학자 전우용 씨가 미투운동 전개 시점을 놓고 이상한(?) 얘기를 했더라. '왜 더 일찍 시작하지 않았냐?'는 식의 얘기였는데, 역사적으로 무수한 사회 운동이 있었는데 그것들에 대해서도 같은 논리로 이야기… https://t.co/D1Lnqo12Pg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/D1Lnqo12Pg",
+						"expanded_url": "https://twitter.com/i/web/status/966624996993970176",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 518600971,
+				"id_str": "518600971",
+				"name": "스케치북",
+				"screen_name": "rheingang",
+				"location": "",
+				"description": "독일에서 자동차 관련 글씁니다. 자동차 문화 담론은 계속돼야 한다. 책 '할로 아우토반'",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3798,
+				"friends_count": 758,
+				"listed_count": 83,
+				"created_at": "Thu Mar 08 15:34:49 +0000 2012",
+				"favourites_count": 778,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18388,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623377806458642432/5nY2KyuR.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623377806458642432/5nY2KyuR.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/942891472990457857/wixFoGi3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/942891472990457857/wixFoGi3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/518600971/1446508810",
+				"profile_link_color": "2F4F4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "171B1C",
+				"profile_text_color": "ED710C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 98,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Feb 24 10:00:38 +0000 2018",
+		"id": 967338471479062500,
+		"id_str": "967338471479062529",
+		"text": "RT @eggry: 김어준의 유해함은 ㅇㅅㅇ과 쌍벽을 이룬다",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eggry",
+					"name": "eggry",
+					"id": 47319345,
+					"id_str": "47319345",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 493,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2063,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16582,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 24 09:45:47 +0000 2018",
+			"id": 967334733758701600,
+			"id_str": "967334733758701568",
+			"text": "김어준의 유해함은 ㅇㅅㅇ과 쌍벽을 이룬다",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47319345,
+				"id_str": "47319345",
+				"name": "eggry",
+				"screen_name": "eggry",
+				"location": "대한민국 수원시",
+				"description": "Feel free to contact in 한국어日本語English Profile source: https://t.co/xVxQwthnUW flickr: https://t.co/sCmoXzbrLz",
+				"url": "https://t.co/Xm6lcdGVMu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Xm6lcdGVMu",
+								"expanded_url": "http://eggry.egloos.com",
+								"display_url": "eggry.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xVxQwthnUW",
+								"expanded_url": "https://twitter.com/joniele13/status/962937107474886656",
+								"display_url": "twitter.com/joniele13/stat…",
+								"indices": [
+									54,
+									77
+								]
+							},
+							{
+								"url": "https://t.co/sCmoXzbrLz",
+								"expanded_url": "http://www.flickr.com/eggry/",
+								"display_url": "flickr.com/eggry/",
+								"indices": [
+									86,
+									109
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3360,
+				"friends_count": 159,
+				"listed_count": 268,
+				"created_at": "Mon Jun 15 12:08:36 +0000 2009",
+				"favourites_count": 185,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 621831,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/580265288/3wf9ol6d0dut8jcj1m16.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/580265288/3wf9ol6d0dut8jcj1m16.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/967273906250817537/YAI4WU87_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/967273906250817537/YAI4WU87_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47319345/1505557980",
+				"profile_link_color": "1157D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Feb 23 12:46:22 +0000 2018",
 		"id": 967017789872521200,
 		"id_str": "967017789872521216",
