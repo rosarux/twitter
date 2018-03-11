@@ -1,6 +1,2055 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sat Mar 10 13:45:05 +0000 2018",
+		"id": 972468384859226100,
+		"id_str": "972468384859226112",
+		"text": "정말 조금은 더 나아졌다. https://t.co/Tvfj5NoR18",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tvfj5NoR18",
+					"expanded_url": "https://twitter.com/bbc/status/972381291143249920",
+					"display_url": "twitter.com/bbc/status/972…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2104,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16655,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 972381291143249900,
+		"quoted_status_id_str": "972381291143249920",
+		"quoted_status": {
+			"created_at": "Sat Mar 10 07:59:00 +0000 2018",
+			"id": 972381291143249900,
+			"id_str": "972381291143249920",
+			"text": "🙌 1 year ago today the world became a better place.\n#BBCdad https://t.co/Q5I70XxT7T",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BBCdad",
+						"indices": [
+							52,
+							59
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 943157249815535600,
+						"id_str": "943157249815535618",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/943157249815535618/img/5-h8Kq3WNlXWnRfT.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/943157249815535618/img/5-h8Kq3WNlXWnRfT.jpg",
+						"url": "https://t.co/Q5I70XxT7T",
+						"display_url": "pic.twitter.com/Q5I70XxT7T",
+						"expanded_url": "https://twitter.com/BBC/status/972381291143249920/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 943157249815535600,
+						"id_str": "943157249815535618",
+						"indices": [
+							60,
+							83
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/943157249815535618/img/5-h8Kq3WNlXWnRfT.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/943157249815535618/img/5-h8Kq3WNlXWnRfT.jpg",
+						"url": "https://t.co/Q5I70XxT7T",
+						"display_url": "pic.twitter.com/Q5I70XxT7T",
+						"expanded_url": "https://twitter.com/BBC/status/972381291143249920/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 41120,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/943157249815535618/vid/640x360/J_bX8Yv2WQEEw5_p.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/943157249815535618/vid/320x180/CoqOn6WQBE64QkAK.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/943157249815535618/pl/Jfx0mNFuZl9TlqNi.m3u8"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/943157249815535618/vid/1280x720/hYQrUEjk9bn5drIF.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19701628,
+				"id_str": "19701628",
+				"name": "BBC",
+				"screen_name": "BBC",
+				"location": "TV. Radio. Online",
+				"description": "Our mission is to enrich your life and to inform, educate and entertain you, wherever you are.",
+				"url": "http://t.co/9Yv7DJ1Pmu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/9Yv7DJ1Pmu",
+								"expanded_url": "http://www.bbc.co.uk",
+								"display_url": "bbc.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1288764,
+				"friends_count": 175,
+				"listed_count": 9658,
+				"created_at": "Thu Jan 29 08:30:16 +0000 2009",
+				"favourites_count": 3584,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 23132,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459267803640385537/QkzQGfqX.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459267803640385537/QkzQGfqX.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/662708106/bbc_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/662708106/bbc_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19701628/1519917079",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39181,
+			"favorite_count": 103999,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Mar 10 09:59:04 +0000 2018",
+		"id": 972411505130987500,
+		"id_str": "972411505130987522",
+		"text": "RT @Happy11311: 今日の富岡町。2011年3月18日に宴会の予約してた居酒屋さん『客神』とコアなファンが朝イチからいたパチンコ屋さん『グランドホール』まだ解体されてなかったよ。 https://t.co/3oHRh5FOiM",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Happy11311",
+					"name": "ハッピー",
+					"id": 269125621,
+					"id_str": "269125621",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 972410899167264800,
+					"id_str": "972410899167264768",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DX6yj4yVQAAv5Hh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX6yj4yVQAAv5Hh.jpg",
+					"url": "https://t.co/3oHRh5FOiM",
+					"display_url": "pic.twitter.com/3oHRh5FOiM",
+					"expanded_url": "https://twitter.com/Happy11311/status/972410946520989696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972410946520989700,
+					"source_status_id_str": "972410946520989696",
+					"source_user_id": 269125621,
+					"source_user_id_str": "269125621"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 972410899167264800,
+					"id_str": "972410899167264768",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DX6yj4yVQAAv5Hh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX6yj4yVQAAv5Hh.jpg",
+					"url": "https://t.co/3oHRh5FOiM",
+					"display_url": "pic.twitter.com/3oHRh5FOiM",
+					"expanded_url": "https://twitter.com/Happy11311/status/972410946520989696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972410946520989700,
+					"source_status_id_str": "972410946520989696",
+					"source_user_id": 269125621,
+					"source_user_id_str": "269125621"
+				},
+				{
+					"id": 972410924748320800,
+					"id_str": "972410924748320768",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/DX6ylYFVMAAw-av.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX6ylYFVMAAw-av.jpg",
+					"url": "https://t.co/3oHRh5FOiM",
+					"display_url": "pic.twitter.com/3oHRh5FOiM",
+					"expanded_url": "https://twitter.com/Happy11311/status/972410946520989696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972410946520989700,
+					"source_status_id_str": "972410946520989696",
+					"source_user_id": 269125621,
+					"source_user_id_str": "269125621"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2104,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16655,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 10 09:56:50 +0000 2018",
+			"id": 972410946520989700,
+			"id_str": "972410946520989696",
+			"text": "今日の富岡町。2011年3月18日に宴会の予約してた居酒屋さん『客神』とコアなファンが朝イチからいたパチンコ屋さん『グランドホール』まだ解体されてなかったよ。 https://t.co/3oHRh5FOiM",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 972410899167264800,
+						"id_str": "972410899167264768",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/DX6yj4yVQAAv5Hh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX6yj4yVQAAv5Hh.jpg",
+						"url": "https://t.co/3oHRh5FOiM",
+						"display_url": "pic.twitter.com/3oHRh5FOiM",
+						"expanded_url": "https://twitter.com/Happy11311/status/972410946520989696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 972410899167264800,
+						"id_str": "972410899167264768",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/DX6yj4yVQAAv5Hh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX6yj4yVQAAv5Hh.jpg",
+						"url": "https://t.co/3oHRh5FOiM",
+						"display_url": "pic.twitter.com/3oHRh5FOiM",
+						"expanded_url": "https://twitter.com/Happy11311/status/972410946520989696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 972410924748320800,
+						"id_str": "972410924748320768",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/media/DX6ylYFVMAAw-av.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX6ylYFVMAAw-av.jpg",
+						"url": "https://t.co/3oHRh5FOiM",
+						"display_url": "pic.twitter.com/3oHRh5FOiM",
+						"expanded_url": "https://twitter.com/Happy11311/status/972410946520989696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 269125621,
+				"id_str": "269125621",
+				"name": "ハッピー",
+				"screen_name": "Happy11311",
+				"location": "",
+				"description": "河出文庫「福島第一原発収束作業日記  3.11からの700日間」加筆した文庫本は全国書店店頭、Amazonで発売中でし (#^.^#) http://t.co/iJ5OVtN43B",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/iJ5OVtN43B",
+								"expanded_url": "http://amazon.co.jp/dp/4309413463/",
+								"display_url": "amazon.co.jp/dp/4309413463/",
+								"indices": [
+									68,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 80018,
+				"friends_count": 211,
+				"listed_count": 4504,
+				"created_at": "Sun Mar 20 04:24:25 +0000 2011",
+				"favourites_count": 25,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9285,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849238898995675136/4xnBM1QH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849238898995675136/4xnBM1QH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/269125621/1491102475",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Mar 10 09:59:00 +0000 2018",
+		"id": 972411488773161000,
+		"id_str": "972411488773160960",
+		"text": "RT @Happy11311: 今日の夜ノ森。よく買い物したトムトム。ビデオ屋さんは解体されててなかったでし。 https://t.co/2LRA2QUBkh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Happy11311",
+					"name": "ハッピー",
+					"id": 269125621,
+					"id_str": "269125621",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 972409640175595500,
+					"id_str": "972409640175595520",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/DX6xamrU8AAyn8C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX6xamrU8AAyn8C.jpg",
+					"url": "https://t.co/2LRA2QUBkh",
+					"display_url": "pic.twitter.com/2LRA2QUBkh",
+					"expanded_url": "https://twitter.com/Happy11311/status/972409704247783425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972409704247783400,
+					"source_status_id_str": "972409704247783425",
+					"source_user_id": 269125621,
+					"source_user_id_str": "269125621"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 972409640175595500,
+					"id_str": "972409640175595520",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/DX6xamrU8AAyn8C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX6xamrU8AAyn8C.jpg",
+					"url": "https://t.co/2LRA2QUBkh",
+					"display_url": "pic.twitter.com/2LRA2QUBkh",
+					"expanded_url": "https://twitter.com/Happy11311/status/972409704247783425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972409704247783400,
+					"source_status_id_str": "972409704247783425",
+					"source_user_id": 269125621,
+					"source_user_id_str": "269125621"
+				},
+				{
+					"id": 972409659146432500,
+					"id_str": "972409659146432512",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/DX6xbtWU8AALrIK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX6xbtWU8AALrIK.jpg",
+					"url": "https://t.co/2LRA2QUBkh",
+					"display_url": "pic.twitter.com/2LRA2QUBkh",
+					"expanded_url": "https://twitter.com/Happy11311/status/972409704247783425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972409704247783400,
+					"source_status_id_str": "972409704247783425",
+					"source_user_id": 269125621,
+					"source_user_id_str": "269125621"
+				},
+				{
+					"id": 972409678738047000,
+					"id_str": "972409678738046976",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/DX6xc2VVQAAPoWj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX6xc2VVQAAPoWj.jpg",
+					"url": "https://t.co/2LRA2QUBkh",
+					"display_url": "pic.twitter.com/2LRA2QUBkh",
+					"expanded_url": "https://twitter.com/Happy11311/status/972409704247783425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972409704247783400,
+					"source_status_id_str": "972409704247783425",
+					"source_user_id": 269125621,
+					"source_user_id_str": "269125621"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2104,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16655,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 10 09:51:54 +0000 2018",
+			"id": 972409704247783400,
+			"id_str": "972409704247783425",
+			"text": "今日の夜ノ森。よく買い物したトムトム。ビデオ屋さんは解体されててなかったでし。 https://t.co/2LRA2QUBkh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 972409640175595500,
+						"id_str": "972409640175595520",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/DX6xamrU8AAyn8C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX6xamrU8AAyn8C.jpg",
+						"url": "https://t.co/2LRA2QUBkh",
+						"display_url": "pic.twitter.com/2LRA2QUBkh",
+						"expanded_url": "https://twitter.com/Happy11311/status/972409704247783425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 972409640175595500,
+						"id_str": "972409640175595520",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/DX6xamrU8AAyn8C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX6xamrU8AAyn8C.jpg",
+						"url": "https://t.co/2LRA2QUBkh",
+						"display_url": "pic.twitter.com/2LRA2QUBkh",
+						"expanded_url": "https://twitter.com/Happy11311/status/972409704247783425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 972409659146432500,
+						"id_str": "972409659146432512",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/DX6xbtWU8AALrIK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX6xbtWU8AALrIK.jpg",
+						"url": "https://t.co/2LRA2QUBkh",
+						"display_url": "pic.twitter.com/2LRA2QUBkh",
+						"expanded_url": "https://twitter.com/Happy11311/status/972409704247783425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 972409678738047000,
+						"id_str": "972409678738046976",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/DX6xc2VVQAAPoWj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX6xc2VVQAAPoWj.jpg",
+						"url": "https://t.co/2LRA2QUBkh",
+						"display_url": "pic.twitter.com/2LRA2QUBkh",
+						"expanded_url": "https://twitter.com/Happy11311/status/972409704247783425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 269125621,
+				"id_str": "269125621",
+				"name": "ハッピー",
+				"screen_name": "Happy11311",
+				"location": "",
+				"description": "河出文庫「福島第一原発収束作業日記  3.11からの700日間」加筆した文庫本は全国書店店頭、Amazonで発売中でし (#^.^#) http://t.co/iJ5OVtN43B",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/iJ5OVtN43B",
+								"expanded_url": "http://amazon.co.jp/dp/4309413463/",
+								"display_url": "amazon.co.jp/dp/4309413463/",
+								"indices": [
+									68,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 80018,
+				"friends_count": 211,
+				"listed_count": 4504,
+				"created_at": "Sun Mar 20 04:24:25 +0000 2011",
+				"favourites_count": 25,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9285,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849238898995675136/4xnBM1QH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849238898995675136/4xnBM1QH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/269125621/1491102475",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Mar 10 09:58:55 +0000 2018",
+		"id": 972411471148695600,
+		"id_str": "972411471148695552",
+		"text": "RT @Happy11311: 今日の富岡駅の運賃表。富岡駅-浪江駅間が…。 https://t.co/T7zfetsnHT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Happy11311",
+					"name": "ハッピー",
+					"id": 269125621,
+					"id_str": "269125621",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 972408288410136600,
+					"id_str": "972408288410136578",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DX6wL69U8AIhLFl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX6wL69U8AIhLFl.jpg",
+					"url": "https://t.co/T7zfetsnHT",
+					"display_url": "pic.twitter.com/T7zfetsnHT",
+					"expanded_url": "https://twitter.com/Happy11311/status/972408317178859521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972408317178859500,
+					"source_status_id_str": "972408317178859521",
+					"source_user_id": 269125621,
+					"source_user_id_str": "269125621"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 972408288410136600,
+					"id_str": "972408288410136578",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DX6wL69U8AIhLFl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX6wL69U8AIhLFl.jpg",
+					"url": "https://t.co/T7zfetsnHT",
+					"display_url": "pic.twitter.com/T7zfetsnHT",
+					"expanded_url": "https://twitter.com/Happy11311/status/972408317178859521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972408317178859500,
+					"source_status_id_str": "972408317178859521",
+					"source_user_id": 269125621,
+					"source_user_id_str": "269125621"
+				},
+				{
+					"id": 972408298342268900,
+					"id_str": "972408298342268928",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/DX6wMf9VQAAHJLi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DX6wMf9VQAAHJLi.jpg",
+					"url": "https://t.co/T7zfetsnHT",
+					"display_url": "pic.twitter.com/T7zfetsnHT",
+					"expanded_url": "https://twitter.com/Happy11311/status/972408317178859521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 972408317178859500,
+					"source_status_id_str": "972408317178859521",
+					"source_user_id": 269125621,
+					"source_user_id_str": "269125621"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2104,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16655,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 10 09:46:23 +0000 2018",
+			"id": 972408317178859500,
+			"id_str": "972408317178859521",
+			"text": "今日の富岡駅の運賃表。富岡駅-浪江駅間が…。 https://t.co/T7zfetsnHT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 972408288410136600,
+						"id_str": "972408288410136578",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DX6wL69U8AIhLFl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX6wL69U8AIhLFl.jpg",
+						"url": "https://t.co/T7zfetsnHT",
+						"display_url": "pic.twitter.com/T7zfetsnHT",
+						"expanded_url": "https://twitter.com/Happy11311/status/972408317178859521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 972408288410136600,
+						"id_str": "972408288410136578",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DX6wL69U8AIhLFl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX6wL69U8AIhLFl.jpg",
+						"url": "https://t.co/T7zfetsnHT",
+						"display_url": "pic.twitter.com/T7zfetsnHT",
+						"expanded_url": "https://twitter.com/Happy11311/status/972408317178859521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 972408298342268900,
+						"id_str": "972408298342268928",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DX6wMf9VQAAHJLi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX6wMf9VQAAHJLi.jpg",
+						"url": "https://t.co/T7zfetsnHT",
+						"display_url": "pic.twitter.com/T7zfetsnHT",
+						"expanded_url": "https://twitter.com/Happy11311/status/972408317178859521/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 269125621,
+				"id_str": "269125621",
+				"name": "ハッピー",
+				"screen_name": "Happy11311",
+				"location": "",
+				"description": "河出文庫「福島第一原発収束作業日記  3.11からの700日間」加筆した文庫本は全国書店店頭、Amazonで発売中でし (#^.^#) http://t.co/iJ5OVtN43B",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/iJ5OVtN43B",
+								"expanded_url": "http://amazon.co.jp/dp/4309413463/",
+								"display_url": "amazon.co.jp/dp/4309413463/",
+								"indices": [
+									68,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 80018,
+				"friends_count": 211,
+				"listed_count": 4504,
+				"created_at": "Sun Mar 20 04:24:25 +0000 2011",
+				"favourites_count": 25,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9285,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849238898995675136/4xnBM1QH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849238898995675136/4xnBM1QH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/269125621/1491102475",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Mar 10 09:18:06 +0000 2018",
+		"id": 972401197582753800,
+		"id_str": "972401197582753797",
+		"text": "RT @yuntaku16bird: https://t.co/B9QCTneVN4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yuntaku16bird",
+					"name": "TORITOIRO/鳥と色",
+					"id": 1719080874,
+					"id_str": "1719080874",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 971398362804117500,
+					"id_str": "971398362804117504",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DXsZqg5V4AAJk5x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXsZqg5V4AAJk5x.jpg",
+					"url": "https://t.co/B9QCTneVN4",
+					"display_url": "pic.twitter.com/B9QCTneVN4",
+					"expanded_url": "https://twitter.com/yuntaku16bird/status/971398379560251393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 971398379560251400,
+					"source_status_id_str": "971398379560251393",
+					"source_user_id": 1719080874,
+					"source_user_id_str": "1719080874"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 971398362804117500,
+					"id_str": "971398362804117504",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/DXsZqg5V4AAJk5x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXsZqg5V4AAJk5x.jpg",
+					"url": "https://t.co/B9QCTneVN4",
+					"display_url": "pic.twitter.com/B9QCTneVN4",
+					"expanded_url": "https://twitter.com/yuntaku16bird/status/971398379560251393/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 971398379560251400,
+					"source_status_id_str": "971398379560251393",
+					"source_user_id": 1719080874,
+					"source_user_id_str": "1719080874"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2104,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16655,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 07 14:53:16 +0000 2018",
+			"id": 971398379560251400,
+			"id_str": "971398379560251393",
+			"text": "https://t.co/B9QCTneVN4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 971398362804117500,
+						"id_str": "971398362804117504",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DXsZqg5V4AAJk5x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXsZqg5V4AAJk5x.jpg",
+						"url": "https://t.co/B9QCTneVN4",
+						"display_url": "pic.twitter.com/B9QCTneVN4",
+						"expanded_url": "https://twitter.com/yuntaku16bird/status/971398379560251393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 971398362804117500,
+						"id_str": "971398362804117504",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/DXsZqg5V4AAJk5x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXsZqg5V4AAJk5x.jpg",
+						"url": "https://t.co/B9QCTneVN4",
+						"display_url": "pic.twitter.com/B9QCTneVN4",
+						"expanded_url": "https://twitter.com/yuntaku16bird/status/971398379560251393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1719080874,
+				"id_str": "1719080874",
+				"name": "TORITOIRO/鳥と色",
+				"screen_name": "yuntaku16bird",
+				"location": "東京⇔やんばる高江",
+				"description": "沖縄本島北部(やんばる)歴05年～。鳥見歴12年～。鳥作り歴13年～。\n未だヒヨッコbirderです。毎年高江に通いつつ、色々な鳥の作り物通してやんばる野鳥&高江を伝えます。やんばる植物等使っての草木染も少々。やんばる商店始めました。※ 頻繁に逸脱します。\nInstagram yuntaku16birdもよろしく。",
+				"url": "https://t.co/cecviOxvqK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cecviOxvqK",
+								"expanded_url": "http://takae.ti-da.net",
+								"display_url": "takae.ti-da.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 665,
+				"friends_count": 625,
+				"listed_count": 15,
+				"created_at": "Sun Sep 01 13:53:56 +0000 2013",
+				"favourites_count": 984,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2799,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/900286145124122624/85D8YDn4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/900286145124122624/85D8YDn4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1719080874/1498905885",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sat Mar 10 01:28:40 +0000 2018",
+		"id": 972283062238064600,
+		"id_str": "972283062238064640",
+		"text": "경우가 좀 다르긴 하지만 유아인 마녀사냥 인스타 하니 예전에 박 모씨가 매즈 미켈슨 프사 단 게 떠오름.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2104,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16655,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Mar 09 12:35:05 +0000 2018",
 		"id": 972088383752224800,
 		"id_str": "972088383752224770",
