@@ -1,6 +1,718 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Mon Mar 19 22:21:24 +0000 2018",
+		"id": 975859811517579300,
+		"id_str": "975859811517579266",
+		"text": "쿠르드족과 함께 ISIS와 싸우던 영국 여성이 터키군의 공격으로 사망.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2118,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16680,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Mar 19 11:02:19 +0000 2018",
+		"id": 975688917025345500,
+		"id_str": "975688917025345538",
+		"text": "와. 어처구니가 없다고 해야하나 참담하다고 해야하나.  아니면 너무나도 당연한.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2118,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16680,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Mon Mar 19 10:55:50 +0000 2018",
+		"id": 975687285508251600,
+		"id_str": "975687285508251648",
+		"text": "RT @kkuaang1: 이쯤에서 다시보는 성별 베스트셀러.....(숙연 https://t.co/bo6M7ywE92",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kkuaang1",
+					"name": "끄아아",
+					"id": 1435325275,
+					"id_str": "1435325275",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 975376446599307300,
+					"id_str": "975376446599307265",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DYk7td3VoAEmcsc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYk7td3VoAEmcsc.jpg",
+					"url": "https://t.co/bo6M7ywE92",
+					"display_url": "pic.twitter.com/bo6M7ywE92",
+					"expanded_url": "https://twitter.com/kkuaang1/status/975376462797680640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1057,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1057,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 975376462797680600,
+					"source_status_id_str": "975376462797680640",
+					"source_user_id": 1435325275,
+					"source_user_id_str": "1435325275"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 975376446599307300,
+					"id_str": "975376446599307265",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DYk7td3VoAEmcsc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYk7td3VoAEmcsc.jpg",
+					"url": "https://t.co/bo6M7ywE92",
+					"display_url": "pic.twitter.com/bo6M7ywE92",
+					"expanded_url": "https://twitter.com/kkuaang1/status/975376462797680640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1057,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1057,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 975376462797680600,
+					"source_status_id_str": "975376462797680640",
+					"source_user_id": 1435325275,
+					"source_user_id_str": "1435325275"
+				},
+				{
+					"id": 975376446582440000,
+					"id_str": "975376446582439936",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DYk7tdzUQAAtCQd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYk7tdzUQAAtCQd.jpg",
+					"url": "https://t.co/bo6M7ywE92",
+					"display_url": "pic.twitter.com/bo6M7ywE92",
+					"expanded_url": "https://twitter.com/kkuaang1/status/975376462797680640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 563,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1027,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 1027,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 975376462797680600,
+					"source_status_id_str": "975376462797680640",
+					"source_user_id": 1435325275,
+					"source_user_id_str": "1435325275"
+				},
+				{
+					"id": 975376446578311200,
+					"id_str": "975376446578311168",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DYk7tdyVQAAJSzG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYk7tdyVQAAJSzG.jpg",
+					"url": "https://t.co/bo6M7ywE92",
+					"display_url": "pic.twitter.com/bo6M7ywE92",
+					"expanded_url": "https://twitter.com/kkuaang1/status/975376462797680640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 1040,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1040,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 975376462797680600,
+					"source_status_id_str": "975376462797680640",
+					"source_user_id": 1435325275,
+					"source_user_id_str": "1435325275"
+				},
+				{
+					"id": 975376446590918700,
+					"id_str": "975376446590918658",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DYk7td1VoAI8sdS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DYk7td1VoAI8sdS.jpg",
+					"url": "https://t.co/bo6M7ywE92",
+					"display_url": "pic.twitter.com/bo6M7ywE92",
+					"expanded_url": "https://twitter.com/kkuaang1/status/975376462797680640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 1084,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1084,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 975376462797680600,
+					"source_status_id_str": "975376462797680640",
+					"source_user_id": 1435325275,
+					"source_user_id_str": "1435325275"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2118,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16680,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Mar 18 14:20:45 +0000 2018",
+			"id": 975376462797680600,
+			"id_str": "975376462797680640",
+			"text": "이쯤에서 다시보는 성별 베스트셀러.....(숙연 https://t.co/bo6M7ywE92",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 975376446599307300,
+						"id_str": "975376446599307265",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DYk7td3VoAEmcsc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYk7td3VoAEmcsc.jpg",
+						"url": "https://t.co/bo6M7ywE92",
+						"display_url": "pic.twitter.com/bo6M7ywE92",
+						"expanded_url": "https://twitter.com/kkuaang1/status/975376462797680640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 850,
+								"h": 1057,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 1057,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 547,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 975376446599307300,
+						"id_str": "975376446599307265",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DYk7td3VoAEmcsc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYk7td3VoAEmcsc.jpg",
+						"url": "https://t.co/bo6M7ywE92",
+						"display_url": "pic.twitter.com/bo6M7ywE92",
+						"expanded_url": "https://twitter.com/kkuaang1/status/975376462797680640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 850,
+								"h": 1057,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 1057,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 547,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 975376446582440000,
+						"id_str": "975376446582439936",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DYk7tdzUQAAtCQd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYk7tdzUQAAtCQd.jpg",
+						"url": "https://t.co/bo6M7ywE92",
+						"display_url": "pic.twitter.com/bo6M7ywE92",
+						"expanded_url": "https://twitter.com/kkuaang1/status/975376462797680640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 563,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 1027,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 850,
+								"h": 1027,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 975376446578311200,
+						"id_str": "975376446578311168",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DYk7tdyVQAAJSzG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYk7tdyVQAAJSzG.jpg",
+						"url": "https://t.co/bo6M7ywE92",
+						"display_url": "pic.twitter.com/bo6M7ywE92",
+						"expanded_url": "https://twitter.com/kkuaang1/status/975376462797680640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 850,
+								"h": 1040,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 556,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 1040,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 975376446590918700,
+						"id_str": "975376446590918658",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/DYk7td1VoAI8sdS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DYk7td1VoAI8sdS.jpg",
+						"url": "https://t.co/bo6M7ywE92",
+						"display_url": "pic.twitter.com/bo6M7ywE92",
+						"expanded_url": "https://twitter.com/kkuaang1/status/975376462797680640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 850,
+								"h": 1084,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 850,
+								"h": 1084,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 533,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 975375855760257000,
+			"in_reply_to_status_id_str": "975375855760257024",
+			"in_reply_to_user_id": 1435325275,
+			"in_reply_to_user_id_str": "1435325275",
+			"in_reply_to_screen_name": "kkuaang1",
+			"user": {
+				"id": 1435325275,
+				"id_str": "1435325275",
+				"name": "끄아아",
+				"screen_name": "kkuaang1",
+				"location": "",
+				"description": "⭐️⭐️⭐️⭐️⭐️⭐️디엠안봐요⭐️⭐️⭐️⭐️⭐️⭐️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3578,
+				"friends_count": 375,
+				"listed_count": 45,
+				"created_at": "Fri May 17 10:40:04 +0000 2013",
+				"favourites_count": 493,
+				"utc_offset": 28800,
+				"time_zone": "Irkutsk",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20218,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000010946898/1355f94ce7533a99582827db2bced309.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000010946898/1355f94ce7533a99582827db2bced309.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/964156221744807936/7EaBWfnt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/964156221744807936/7EaBWfnt_normal.jpg",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14158,
+			"favorite_count": 1883,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14158,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Mar 16 04:56:39 +0000 2018",
 		"id": 974509726795939800,
 		"id_str": "974509726795939841",
