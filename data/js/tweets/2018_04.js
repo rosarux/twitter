@@ -1,6 +1,1032 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Fri Apr 06 05:00:49 +0000 2018",
+		"id": 982120921031884800,
+		"id_str": "982120921031884800",
+		"text": "RT @workersmag: \"누군가 미투를 이용하고 있다!\"(미투공작정치예언가형)\n“이건 미투고, 저건 미투가 아니다!”(미투판관형)\n“떳떳하면 얼굴 까라!”(2차가해모른다형)\n“여자랑 어디 무서워서 얘기 하겠나”(상찌질형)\n“너희는 폭로성 운동의…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "workersmag",
+					"name": "워커스",
+					"id": 705580216576380900,
+					"id_str": "705580216576380928",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2114,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16739,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 05 05:04:48 +0000 2018",
+			"id": 981759537160962000,
+			"id_str": "981759537160962049",
+			"text": "\"누군가 미투를 이용하고 있다!\"(미투공작정치예언가형)\n“이건 미투고, 저건 미투가 아니다!”(미투판관형)\n“떳떳하면 얼굴 까라!”(2차가해모른다형)\n“여자랑 어디 무서워서 얘기 하겠나”(상찌질형)\n“너희는… https://t.co/Kkg7Lz6kwZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Kkg7Lz6kwZ",
+						"expanded_url": "https://twitter.com/i/web/status/981759537160962049",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 705580216576380900,
+				"id_str": "705580216576380928",
+				"name": "워커스",
+				"screen_name": "workersmag",
+				"location": "",
+				"description": "색깔 진한 좌파 언론, 워커스WORKERS -정기구독 신청 https://t.co/VErmMHE5W3 (CMS 매월 10,000원)",
+				"url": "https://t.co/8TBMVzxgd5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8TBMVzxgd5",
+								"expanded_url": "http://workers-zine.net/",
+								"display_url": "workers-zine.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VErmMHE5W3",
+								"expanded_url": "http://workers-zine.net/cms",
+								"display_url": "workers-zine.net/cms",
+								"indices": [
+									33,
+									56
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 947,
+				"friends_count": 217,
+				"listed_count": 25,
+				"created_at": "Fri Mar 04 02:26:47 +0000 2016",
+				"favourites_count": 9,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1358,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/718277855042531328/kXkK7yaG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/718277855042531328/kXkK7yaG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/705580216576380928/1461204931",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4031,
+			"favorite_count": 842,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4031,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Apr 06 03:36:46 +0000 2018",
+		"id": 982099770150826000,
+		"id_str": "982099770150825984",
+		"text": "RT @BARANEKO0409: 糸数慶子さん。\n新崎盛暉さんとの約束 https://t.co/1fBpqE4TSw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BARANEKO0409",
+					"name": "BARANEKO",
+					"id": 976478731026890800,
+					"id_str": "976478731026890752",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 982086614967976000,
+					"id_str": "982086614967975936",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DaESkq_VAAA_NbK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaESkq_VAAA_NbK.jpg",
+					"url": "https://t.co/1fBpqE4TSw",
+					"display_url": "pic.twitter.com/1fBpqE4TSw",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/982086625617297409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 830,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 830,
+							"h": 678,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 555,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982086625617297400,
+					"source_status_id_str": "982086625617297409",
+					"source_user_id": 976478731026890800,
+					"source_user_id_str": "976478731026890752"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982086614967976000,
+					"id_str": "982086614967975936",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DaESkq_VAAA_NbK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaESkq_VAAA_NbK.jpg",
+					"url": "https://t.co/1fBpqE4TSw",
+					"display_url": "pic.twitter.com/1fBpqE4TSw",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/982086625617297409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 830,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 830,
+							"h": 678,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 555,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982086625617297400,
+					"source_status_id_str": "982086625617297409",
+					"source_user_id": 976478731026890800,
+					"source_user_id_str": "976478731026890752"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2114,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16739,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 06 02:44:32 +0000 2018",
+			"id": 982086625617297400,
+			"id_str": "982086625617297409",
+			"text": "糸数慶子さん。\n新崎盛暉さんとの約束 https://t.co/1fBpqE4TSw",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 982086614967976000,
+						"id_str": "982086614967975936",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/DaESkq_VAAA_NbK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaESkq_VAAA_NbK.jpg",
+						"url": "https://t.co/1fBpqE4TSw",
+						"display_url": "pic.twitter.com/1fBpqE4TSw",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/982086625617297409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 830,
+								"h": 678,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 830,
+								"h": 678,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 555,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982086614967976000,
+						"id_str": "982086614967975936",
+						"indices": [
+							19,
+							42
+						],
+						"media_url": "http://pbs.twimg.com/media/DaESkq_VAAA_NbK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaESkq_VAAA_NbK.jpg",
+						"url": "https://t.co/1fBpqE4TSw",
+						"display_url": "pic.twitter.com/1fBpqE4TSw",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/982086625617297409/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 830,
+								"h": 678,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 830,
+								"h": 678,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 555,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 976478731026890800,
+				"id_str": "976478731026890752",
+				"name": "BARANEKO",
+				"screen_name": "BARANEKO0409",
+				"location": "",
+				"description": "ほぼ絶望しているまだ前期高齢者。 残された長くもない人生、ラジカルに生きるぞ。我が亡き後に洪水よ来たれ、だ。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 195,
+				"friends_count": 285,
+				"listed_count": 2,
+				"created_at": "Wed Mar 21 15:20:46 +0000 2018",
+				"favourites_count": 80,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 955,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980940752032165888/T0SnWulQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980940752032165888/T0SnWulQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/976478731026890752/1522944384",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Fri Apr 06 03:33:52 +0000 2018",
+		"id": 982099039108776000,
+		"id_str": "982099039108775936",
+		"text": "RT @BARANEKO0409: 新崎盛暉さんの告別式（5日・那覇）\n琉球新報 https://t.co/oT9wjnt0VW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BARANEKO0409",
+					"name": "BARANEKO",
+					"id": 976478731026890800,
+					"id_str": "976478731026890752",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 982097630422380500,
+					"id_str": "982097630422380544",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DaEcl2wUMAAB3bt.png",
+					"media_url_https": "https://pbs.twimg.com/media/DaEcl2wUMAAB3bt.png",
+					"url": "https://t.co/oT9wjnt0VW",
+					"display_url": "pic.twitter.com/oT9wjnt0VW",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/982097755450388480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 784,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1898,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982097755450388500,
+					"source_status_id_str": "982097755450388480",
+					"source_user_id": 976478731026890800,
+					"source_user_id_str": "976478731026890752"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982097630422380500,
+					"id_str": "982097630422380544",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/DaEcl2wUMAAB3bt.png",
+					"media_url_https": "https://pbs.twimg.com/media/DaEcl2wUMAAB3bt.png",
+					"url": "https://t.co/oT9wjnt0VW",
+					"display_url": "pic.twitter.com/oT9wjnt0VW",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/982097755450388480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 784,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1898,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982097755450388500,
+					"source_status_id_str": "982097755450388480",
+					"source_user_id": 976478731026890800,
+					"source_user_id_str": "976478731026890752"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2114,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16739,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 06 03:28:46 +0000 2018",
+			"id": 982097755450388500,
+			"id_str": "982097755450388480",
+			"text": "新崎盛暉さんの告別式（5日・那覇）\n琉球新報 https://t.co/oT9wjnt0VW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 982097630422380500,
+						"id_str": "982097630422380544",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DaEcl2wUMAAB3bt.png",
+						"media_url_https": "https://pbs.twimg.com/media/DaEcl2wUMAAB3bt.png",
+						"url": "https://t.co/oT9wjnt0VW",
+						"display_url": "pic.twitter.com/oT9wjnt0VW",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/982097755450388480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 784,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 444,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1240,
+								"h": 1898,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982097630422380500,
+						"id_str": "982097630422380544",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DaEcl2wUMAAB3bt.png",
+						"media_url_https": "https://pbs.twimg.com/media/DaEcl2wUMAAB3bt.png",
+						"url": "https://t.co/oT9wjnt0VW",
+						"display_url": "pic.twitter.com/oT9wjnt0VW",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/982097755450388480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 784,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 444,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1240,
+								"h": 1898,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 976478731026890800,
+				"id_str": "976478731026890752",
+				"name": "BARANEKO",
+				"screen_name": "BARANEKO0409",
+				"location": "",
+				"description": "ほぼ絶望しているまだ前期高齢者。 残された長くもない人生、ラジカルに生きるぞ。我が亡き後に洪水よ来たれ、だ。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 195,
+				"friends_count": 285,
+				"listed_count": 2,
+				"created_at": "Wed Mar 21 15:20:46 +0000 2018",
+				"favourites_count": 80,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 955,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980940752032165888/T0SnWulQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980940752032165888/T0SnWulQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/976478731026890752/1522944384",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Fri Apr 06 02:39:46 +0000 2018",
+		"id": 982085426570670100,
+		"id_str": "982085426570670080",
+		"text": "RT @tristisestanima: 듀나는 지금 자기가 일생 노력해온 일을 \"몰라요\" 하는 자들과 싸우고 있다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tristisestanima",
+					"name": "ROW",
+					"id": 54443206,
+					"id_str": "54443206",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2114,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16739,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 05 17:17:53 +0000 2018",
+			"id": 981944021852479500,
+			"id_str": "981944021852479488",
+			"text": "듀나는 지금 자기가 일생 노력해온 일을 \"몰라요\" 하는 자들과 싸우고 있다.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54443206,
+				"id_str": "54443206",
+				"name": "ROW",
+				"screen_name": "tristisestanima",
+				"location": "",
+				"description": "anti human a surfer",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 140,
+				"friends_count": 201,
+				"listed_count": 2,
+				"created_at": "Tue Jul 07 03:58:42 +0000 2009",
+				"favourites_count": 1846,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3490,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/115488008/IMG_2231.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/115488008/IMG_2231.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1016305804/_EB_84_8C_EB_8F_84_EB_8C_80_EC_B2_B4_EB_AC_B4_EC_8A_A8_EC_83_9D_EB_AA_85_EC_B2_B4_EB_8B_88_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016305804/_EB_84_8C_EB_8F_84_EB_8C_80_EC_B2_B4_EB_AC_B4_EC_8A_A8_EC_83_9D_EB_AA_85_EC_B2_B4_EB_8B_88_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54443206/1462200266",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 491,
+			"favorite_count": 261,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 491,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Apr 06 00:14:04 +0000 2018",
 		"id": 982048760137105400,
 		"id_str": "982048760137105408",
