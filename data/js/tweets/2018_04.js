@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 07 02:53:35 +0000 2018",
+		"id": 982451289874247700,
+		"id_str": "982451289874247680",
+		"text": "RT @bullyang_sub: 저는 음성 통화를 할 사람이 없어서 그런 줄도 몰랐읍니다. https://t.co/Gru94auRB8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bullyang_sub",
+					"name": "불량기념물",
+					"id": 130060876,
+					"id_str": "130060876",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 982217164890357800,
+					"id_str": "982217164890357760",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DaGJTrWUwAAidLT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaGJTrWUwAAidLT.jpg",
+					"url": "https://t.co/Gru94auRB8",
+					"display_url": "pic.twitter.com/Gru94auRB8",
+					"expanded_url": "https://twitter.com/bullyang_sub/status/982217206351069184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 474,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 844,
+							"h": 474,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982217206351069200,
+					"source_status_id_str": "982217206351069184",
+					"source_user_id": 130060876,
+					"source_user_id_str": "130060876"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982217164890357800,
+					"id_str": "982217164890357760",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/DaGJTrWUwAAidLT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaGJTrWUwAAidLT.jpg",
+					"url": "https://t.co/Gru94auRB8",
+					"display_url": "pic.twitter.com/Gru94auRB8",
+					"expanded_url": "https://twitter.com/bullyang_sub/status/982217206351069184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 474,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 844,
+							"h": 474,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982217206351069200,
+					"source_status_id_str": "982217206351069184",
+					"source_user_id": 130060876,
+					"source_user_id_str": "130060876"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2116,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16735,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 06 11:23:25 +0000 2018",
+			"id": 982217206351069200,
+			"id_str": "982217206351069184",
+			"text": "저는 음성 통화를 할 사람이 없어서 그런 줄도 몰랐읍니다. https://t.co/Gru94auRB8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 982217164890357800,
+						"id_str": "982217164890357760",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DaGJTrWUwAAidLT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaGJTrWUwAAidLT.jpg",
+						"url": "https://t.co/Gru94auRB8",
+						"display_url": "pic.twitter.com/Gru94auRB8",
+						"expanded_url": "https://twitter.com/bullyang_sub/status/982217206351069184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 844,
+								"h": 474,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 844,
+								"h": 474,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982217164890357800,
+						"id_str": "982217164890357760",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/DaGJTrWUwAAidLT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaGJTrWUwAAidLT.jpg",
+						"url": "https://t.co/Gru94auRB8",
+						"display_url": "pic.twitter.com/Gru94auRB8",
+						"expanded_url": "https://twitter.com/bullyang_sub/status/982217206351069184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 844,
+								"h": 474,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 844,
+								"h": 474,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 130060876,
+				"id_str": "130060876",
+				"name": "불량기념물",
+				"screen_name": "bullyang_sub",
+				"location": "헬조선",
+				"description": "기념물로 지정받아야 마땅할 정도로 불량한 서민입니다. 8/25~8/27, 도쿄에서 논논비요리 극장판 / 별 셋 컬러즈 무대 탐방 / 라멘이 너무 좋은 불량기념물 씨.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 240,
+				"friends_count": 76,
+				"listed_count": 4,
+				"created_at": "Tue Apr 06 05:32:06 +0000 2010",
+				"favourites_count": 13008,
+				"utc_offset": 32400,
+				"time_zone": "Seoul",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6943,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875641694456168450/53oglOJj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875641694456168450/53oglOJj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/130060876/1519629297",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7838,
+			"favorite_count": 1349,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7838,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Fri Apr 06 05:00:49 +0000 2018",
 		"id": 982120921031884800,
 		"id_str": "982120921031884800",
