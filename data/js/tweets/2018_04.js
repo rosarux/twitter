@@ -1,6 +1,694 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 08 09:34:19 +0000 2018",
+		"id": 982914527644667900,
+		"id_str": "982914527644667904",
+		"text": "RT @UCHIATAI: 那覇の夕陽。 https://t.co/VYJzrrSnbT",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UCHIATAI",
+					"name": "新城和博",
+					"id": 260138357,
+					"id_str": "260138357",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 982913422323957800,
+					"id_str": "982913422323957765",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/DaQCjMaVQAUvWCI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaQCjMaVQAUvWCI.jpg",
+					"url": "https://t.co/VYJzrrSnbT",
+					"display_url": "pic.twitter.com/VYJzrrSnbT",
+					"expanded_url": "https://twitter.com/UCHIATAI/status/982913447275851776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982913447275851800,
+					"source_status_id_str": "982913447275851776",
+					"source_user_id": 260138357,
+					"source_user_id_str": "260138357"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982913422323957800,
+					"id_str": "982913422323957765",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/DaQCjMaVQAUvWCI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaQCjMaVQAUvWCI.jpg",
+					"url": "https://t.co/VYJzrrSnbT",
+					"display_url": "pic.twitter.com/VYJzrrSnbT",
+					"expanded_url": "https://twitter.com/UCHIATAI/status/982913447275851776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982913447275851800,
+					"source_status_id_str": "982913447275851776",
+					"source_user_id": 260138357,
+					"source_user_id_str": "260138357"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2116,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16737,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 08 09:30:02 +0000 2018",
+			"id": 982913447275851800,
+			"id_str": "982913447275851776",
+			"text": "那覇の夕陽。 https://t.co/VYJzrrSnbT",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 982913422323957800,
+						"id_str": "982913422323957765",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/DaQCjMaVQAUvWCI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaQCjMaVQAUvWCI.jpg",
+						"url": "https://t.co/VYJzrrSnbT",
+						"display_url": "pic.twitter.com/VYJzrrSnbT",
+						"expanded_url": "https://twitter.com/UCHIATAI/status/982913447275851776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982913422323957800,
+						"id_str": "982913422323957765",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/media/DaQCjMaVQAUvWCI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaQCjMaVQAUvWCI.jpg",
+						"url": "https://t.co/VYJzrrSnbT",
+						"display_url": "pic.twitter.com/VYJzrrSnbT",
+						"expanded_url": "https://twitter.com/UCHIATAI/status/982913447275851776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 260138357,
+				"id_str": "260138357",
+				"name": "新城和博",
+				"screen_name": "UCHIATAI",
+				"location": "那覇",
+				"description": "沖縄の出版社ボーダーインク編集担当、元wander編集長。最近の仕事「本日の栄町市場と、旅する小書店」「おきなわ湧き水紀行」「沖縄への短い帰還」池澤夏樹著『地元ガイドが書いた那覇まちま～いの本』「那覇の市場で古本屋」。著書『ぼくの沖縄〈復帰後〉史』、まち歩き随筆 『ぼくの〈那覇まち〉放浪記』など。",
+				"url": "https://t.co/SlllkXcBgk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SlllkXcBgk",
+								"expanded_url": "http://www.borderink.com/",
+								"display_url": "borderink.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1364,
+				"friends_count": 353,
+				"listed_count": 63,
+				"created_at": "Thu Mar 03 08:10:01 +0000 2011",
+				"favourites_count": 3501,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11394,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/354219479/DSCF0265.JPG",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/354219479/DSCF0265.JPG",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1262633798/uchiatainohibi_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262633798/uchiatainohibi_normal.gif",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/260138357/1432911130",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sun Apr 08 09:23:00 +0000 2018",
+		"id": 982911678307221500,
+		"id_str": "982911678307221505",
+		"text": "RT @basilsauce: 小6息子がですね、熱心に漢字を書いているなぁ、と思いましたらですね、これ書いてました。 https://t.co/2sHl6a8Bg6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "basilsauce",
+					"name": "BASIL（夢は世界平和）",
+					"id": 108801911,
+					"id_str": "108801911",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 982396273385967600,
+					"id_str": "982396273385967618",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DaIsNKfWkAIx6SA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaIsNKfWkAIx6SA.jpg",
+					"url": "https://t.co/2sHl6a8Bg6",
+					"display_url": "pic.twitter.com/2sHl6a8Bg6",
+					"expanded_url": "https://twitter.com/basilsauce/status/982396285419442176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 282,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982396285419442200,
+					"source_status_id_str": "982396285419442176",
+					"source_user_id": 108801911,
+					"source_user_id_str": "108801911"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 982396273385967600,
+					"id_str": "982396273385967618",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/DaIsNKfWkAIx6SA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DaIsNKfWkAIx6SA.jpg",
+					"url": "https://t.co/2sHl6a8Bg6",
+					"display_url": "pic.twitter.com/2sHl6a8Bg6",
+					"expanded_url": "https://twitter.com/basilsauce/status/982396285419442176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 282,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 982396285419442200,
+					"source_status_id_str": "982396285419442176",
+					"source_user_id": 108801911,
+					"source_user_id_str": "108801911"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 600,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2116,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16737,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/947435461101756416/23yVwfzY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 06 23:15:01 +0000 2018",
+			"id": 982396285419442200,
+			"id_str": "982396285419442176",
+			"text": "小6息子がですね、熱心に漢字を書いているなぁ、と思いましたらですね、これ書いてました。 https://t.co/2sHl6a8Bg6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 982396273385967600,
+						"id_str": "982396273385967618",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/DaIsNKfWkAIx6SA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaIsNKfWkAIx6SA.jpg",
+						"url": "https://t.co/2sHl6a8Bg6",
+						"display_url": "pic.twitter.com/2sHl6a8Bg6",
+						"expanded_url": "https://twitter.com/basilsauce/status/982396285419442176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 424,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 424,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 282,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 982396273385967600,
+						"id_str": "982396273385967618",
+						"indices": [
+							44,
+							67
+						],
+						"media_url": "http://pbs.twimg.com/media/DaIsNKfWkAIx6SA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DaIsNKfWkAIx6SA.jpg",
+						"url": "https://t.co/2sHl6a8Bg6",
+						"display_url": "pic.twitter.com/2sHl6a8Bg6",
+						"expanded_url": "https://twitter.com/basilsauce/status/982396285419442176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 424,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 424,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 282,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 108801911,
+				"id_str": "108801911",
+				"name": "BASIL（夢は世界平和）",
+				"screen_name": "basilsauce",
+				"location": "Tokyo,Japan/Oxford,UK 在住",
+				"description": "ツイ2010.1.27〜 元地方議員（無所属3期）家族（夫ドイツ人、小5・中等4・大学生）、ロンドンの反原発グループJANUKメンバー、スカウティング、UNWomen、自殺防止（いのちの電話相談員認定証所持）、お弁当、短時間正規職員、開設7日以内フォロワー15以下アカウントからのリプ・メンション自動ブロックツール使用中",
+				"url": "https://t.co/IP63hWLfPv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IP63hWLfPv",
+								"expanded_url": "http://twilog.org/basilsauce",
+								"display_url": "twilog.org/basilsauce",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32058,
+				"friends_count": 2890,
+				"listed_count": 1400,
+				"created_at": "Wed Jan 27 02:26:13 +0000 2010",
+				"favourites_count": 22670,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 121316,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/632700529320271872/ChHkyeGN.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/632700529320271872/ChHkyeGN.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/723556882095443968/qNgr_Ugk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/723556882095443968/qNgr_Ugk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/108801911/1428330691",
+				"profile_link_color": "8B008B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F5C7C9",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29444,
+			"favorite_count": 81615,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 29444,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sat Apr 07 02:53:35 +0000 2018",
 		"id": 982451289874247700,
 		"id_str": "982451289874247680",
