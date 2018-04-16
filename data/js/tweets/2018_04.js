@@ -1,6 +1,874 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 15 07:43:39 +0000 2018",
+		"id": 985423389748686800,
+		"id_str": "985423389748686848",
+		"text": "RT @yatsu_n: 決壊。 https://t.co/jQfDvehkev",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yatsu_n",
+					"name": "谷津憲郎",
+					"id": 2549956070,
+					"id_str": "2549956070",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 985049357207547900,
+					"id_str": "985049357207547904",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/985049357207547904/pu/img/9vwFvtGFqvx36_OR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/985049357207547904/pu/img/9vwFvtGFqvx36_OR.jpg",
+					"url": "https://t.co/jQfDvehkev",
+					"display_url": "pic.twitter.com/jQfDvehkev",
+					"expanded_url": "https://twitter.com/yatsu_n/status/985050452025733120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985050452025733100,
+					"source_status_id_str": "985050452025733120",
+					"source_user_id": 2549956070,
+					"source_user_id_str": "2549956070"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 985049357207547900,
+					"id_str": "985049357207547904",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/985049357207547904/pu/img/9vwFvtGFqvx36_OR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/985049357207547904/pu/img/9vwFvtGFqvx36_OR.jpg",
+					"url": "https://t.co/jQfDvehkev",
+					"display_url": "pic.twitter.com/jQfDvehkev",
+					"expanded_url": "https://twitter.com/yatsu_n/status/985050452025733120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985050452025733100,
+					"source_status_id_str": "985050452025733120",
+					"source_user_id": 2549956070,
+					"source_user_id_str": "2549956070",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18785,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/985049357207547904/pu/pl/GfM8Dhwa_MPSEdvp.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/985049357207547904/pu/vid/640x360/DXqrO_d0rV-cDmAI.mp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/985049357207547904/pu/vid/320x180/_vXcVDYLr9gsLSvi.mp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/985049357207547904/pu/vid/1280x720/pmkI0-JBH4MQXnGh.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2549956070,
+							"id_str": "2549956070",
+							"name": "谷津憲郎",
+							"screen_name": "yatsu_n",
+							"location": "",
+							"description": "朝日新聞記者。東京社会部を経て、いまは論説委員をしています。沖縄勤務を５年ほど。意見は個人のもので、リツイートなどは同意を意味するとは限りません。【沖縄戦】https://t.co/x5og1gmi6j\n【沖縄戦２】【沖縄戦その後】【日本国憲法】はこちらhttps://t.co/54m9OWBbuG",
+							"url": "https://t.co/ZYbBnTYRuf",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/ZYbBnTYRuf",
+											"expanded_url": "http://www.asahi.com/",
+											"display_url": "asahi.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/x5og1gmi6j",
+											"expanded_url": "http://goo.gl/fJp7cx",
+											"display_url": "goo.gl/fJp7cx",
+											"indices": [
+												78,
+												101
+											]
+										},
+										{
+											"url": "https://t.co/54m9OWBbuG",
+											"expanded_url": "https://togetter.com/id/yatsu_n",
+											"display_url": "togetter.com/id/yatsu_n",
+											"indices": [
+												127,
+												150
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 3034,
+							"friends_count": 29,
+							"listed_count": 195,
+							"created_at": "Fri Jun 06 12:56:13 +0000 2014",
+							"favourites_count": 0,
+							"utc_offset": 32400,
+							"time_zone": "Tokyo",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 10891,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/481573834705731586/gWIuCZPm.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/481573834705731586/gWIuCZPm.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/594422125370290176/vNvnXjyz_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/594422125370290176/vNvnXjyz_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2549956070/1516510814",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2128,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16759,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 14 07:01:43 +0000 2018",
+			"id": 985050452025733100,
+			"id_str": "985050452025733120",
+			"text": "決壊。 https://t.co/jQfDvehkev",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 985049357207547900,
+						"id_str": "985049357207547904",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/985049357207547904/pu/img/9vwFvtGFqvx36_OR.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/985049357207547904/pu/img/9vwFvtGFqvx36_OR.jpg",
+						"url": "https://t.co/jQfDvehkev",
+						"display_url": "pic.twitter.com/jQfDvehkev",
+						"expanded_url": "https://twitter.com/yatsu_n/status/985050452025733120/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 985049357207547900,
+						"id_str": "985049357207547904",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/985049357207547904/pu/img/9vwFvtGFqvx36_OR.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/985049357207547904/pu/img/9vwFvtGFqvx36_OR.jpg",
+						"url": "https://t.co/jQfDvehkev",
+						"display_url": "pic.twitter.com/jQfDvehkev",
+						"expanded_url": "https://twitter.com/yatsu_n/status/985050452025733120/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 18785,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/985049357207547904/pu/pl/GfM8Dhwa_MPSEdvp.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/985049357207547904/pu/vid/640x360/DXqrO_d0rV-cDmAI.mp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/985049357207547904/pu/vid/320x180/_vXcVDYLr9gsLSvi.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/985049357207547904/pu/vid/1280x720/pmkI0-JBH4MQXnGh.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 985046675986116600,
+			"in_reply_to_status_id_str": "985046675986116608",
+			"in_reply_to_user_id": 2549956070,
+			"in_reply_to_user_id_str": "2549956070",
+			"in_reply_to_screen_name": "yatsu_n",
+			"user": {
+				"id": 2549956070,
+				"id_str": "2549956070",
+				"name": "谷津憲郎",
+				"screen_name": "yatsu_n",
+				"location": "",
+				"description": "朝日新聞記者。東京社会部を経て、いまは論説委員をしています。沖縄勤務を５年ほど。意見は個人のもので、リツイートなどは同意を意味するとは限りません。【沖縄戦】https://t.co/x5og1gmi6j\n【沖縄戦２】【沖縄戦その後】【日本国憲法】はこちらhttps://t.co/54m9OWBbuG",
+				"url": "https://t.co/ZYbBnTYRuf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZYbBnTYRuf",
+								"expanded_url": "http://www.asahi.com/",
+								"display_url": "asahi.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/x5og1gmi6j",
+								"expanded_url": "http://goo.gl/fJp7cx",
+								"display_url": "goo.gl/fJp7cx",
+								"indices": [
+									78,
+									101
+								]
+							},
+							{
+								"url": "https://t.co/54m9OWBbuG",
+								"expanded_url": "https://togetter.com/id/yatsu_n",
+								"display_url": "togetter.com/id/yatsu_n",
+								"indices": [
+									127,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3034,
+				"friends_count": 29,
+				"listed_count": 195,
+				"created_at": "Fri Jun 06 12:56:13 +0000 2014",
+				"favourites_count": 0,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10891,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/481573834705731586/gWIuCZPm.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/481573834705731586/gWIuCZPm.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/594422125370290176/vNvnXjyz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/594422125370290176/vNvnXjyz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2549956070/1516510814",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2241,
+			"favorite_count": 1872,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2241,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sun Apr 15 07:43:34 +0000 2018",
+		"id": 985423369544679400,
+		"id_str": "985423369544679425",
+		"text": "RT @yatsu_n: 国会前。「決壊」しました。 https://t.co/da3LMzoYxs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yatsu_n",
+					"name": "谷津憲郎",
+					"id": 2549956070,
+					"id_str": "2549956070",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 985046059750604800,
+					"id_str": "985046059750604800",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/DauWLB7VQAAoDE2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DauWLB7VQAAoDE2.jpg",
+					"url": "https://t.co/da3LMzoYxs",
+					"display_url": "pic.twitter.com/da3LMzoYxs",
+					"expanded_url": "https://twitter.com/yatsu_n/status/985046675986116608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985046675986116600,
+					"source_status_id_str": "985046675986116608",
+					"source_user_id": 2549956070,
+					"source_user_id_str": "2549956070"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 985046059750604800,
+					"id_str": "985046059750604800",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/DauWLB7VQAAoDE2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DauWLB7VQAAoDE2.jpg",
+					"url": "https://t.co/da3LMzoYxs",
+					"display_url": "pic.twitter.com/da3LMzoYxs",
+					"expanded_url": "https://twitter.com/yatsu_n/status/985046675986116608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 985046675986116600,
+					"source_status_id_str": "985046675986116608",
+					"source_user_id": 2549956070,
+					"source_user_id_str": "2549956070"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2128,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16759,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 14 06:46:43 +0000 2018",
+			"id": 985046675986116600,
+			"id_str": "985046675986116608",
+			"text": "国会前。「決壊」しました。 https://t.co/da3LMzoYxs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 985046059750604800,
+						"id_str": "985046059750604800",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/DauWLB7VQAAoDE2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DauWLB7VQAAoDE2.jpg",
+						"url": "https://t.co/da3LMzoYxs",
+						"display_url": "pic.twitter.com/da3LMzoYxs",
+						"expanded_url": "https://twitter.com/yatsu_n/status/985046675986116608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 985046059750604800,
+						"id_str": "985046059750604800",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/media/DauWLB7VQAAoDE2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DauWLB7VQAAoDE2.jpg",
+						"url": "https://t.co/da3LMzoYxs",
+						"display_url": "pic.twitter.com/da3LMzoYxs",
+						"expanded_url": "https://twitter.com/yatsu_n/status/985046675986116608/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 985036774593314800,
+			"in_reply_to_status_id_str": "985036774593314816",
+			"in_reply_to_user_id": 2549956070,
+			"in_reply_to_user_id_str": "2549956070",
+			"in_reply_to_screen_name": "yatsu_n",
+			"user": {
+				"id": 2549956070,
+				"id_str": "2549956070",
+				"name": "谷津憲郎",
+				"screen_name": "yatsu_n",
+				"location": "",
+				"description": "朝日新聞記者。東京社会部を経て、いまは論説委員をしています。沖縄勤務を５年ほど。意見は個人のもので、リツイートなどは同意を意味するとは限りません。【沖縄戦】https://t.co/x5og1gmi6j\n【沖縄戦２】【沖縄戦その後】【日本国憲法】はこちらhttps://t.co/54m9OWBbuG",
+				"url": "https://t.co/ZYbBnTYRuf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZYbBnTYRuf",
+								"expanded_url": "http://www.asahi.com/",
+								"display_url": "asahi.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/x5og1gmi6j",
+								"expanded_url": "http://goo.gl/fJp7cx",
+								"display_url": "goo.gl/fJp7cx",
+								"indices": [
+									78,
+									101
+								]
+							},
+							{
+								"url": "https://t.co/54m9OWBbuG",
+								"expanded_url": "https://togetter.com/id/yatsu_n",
+								"display_url": "togetter.com/id/yatsu_n",
+								"indices": [
+									127,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3034,
+				"friends_count": 29,
+				"listed_count": 195,
+				"created_at": "Fri Jun 06 12:56:13 +0000 2014",
+				"favourites_count": 0,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10891,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/481573834705731586/gWIuCZPm.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/481573834705731586/gWIuCZPm.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/594422125370290176/vNvnXjyz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/594422125370290176/vNvnXjyz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2549956070/1516510814",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 732,
+			"favorite_count": 578,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 732,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sat Apr 14 23:53:05 +0000 2018",
 		"id": 985304970810474500,
 		"id_str": "985304970810474496",
