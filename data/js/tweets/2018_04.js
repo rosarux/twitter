@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Thu Apr 19 09:51:50 +0000 2018",
+		"id": 986905199687036900,
+		"id_str": "986905199687036928",
+		"text": "RT @lurie_john: 私は彼が私が今までに遭遇した中で最もばかばかしい人だと思う https://t.co/gutkg0tdCx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lurie_john",
+					"name": "John Lurie",
+					"id": 774295855,
+					"id_str": "774295855",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 986720737535737900,
+					"id_str": "986720737535737856",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DbGJSG1UQAAmofo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbGJSG1UQAAmofo.jpg",
+					"url": "https://t.co/gutkg0tdCx",
+					"display_url": "pic.twitter.com/gutkg0tdCx",
+					"expanded_url": "https://twitter.com/lurie_john/status/986720757597294592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 438,
+							"h": 436,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 438,
+							"h": 436,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 438,
+							"h": 436,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 986720757597294600,
+					"source_status_id_str": "986720757597294592",
+					"source_user_id": 774295855,
+					"source_user_id_str": "774295855"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 986720737535737900,
+					"id_str": "986720737535737856",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/DbGJSG1UQAAmofo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DbGJSG1UQAAmofo.jpg",
+					"url": "https://t.co/gutkg0tdCx",
+					"display_url": "pic.twitter.com/gutkg0tdCx",
+					"expanded_url": "https://twitter.com/lurie_john/status/986720757597294592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 438,
+							"h": 436,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 438,
+							"h": 436,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 438,
+							"h": 436,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 986720757597294600,
+					"source_status_id_str": "986720757597294592",
+					"source_user_id": 774295855,
+					"source_user_id_str": "774295855"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 598,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2130,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16761,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 18 21:38:55 +0000 2018",
+			"id": 986720757597294600,
+			"id_str": "986720757597294592",
+			"text": "私は彼が私が今までに遭遇した中で最もばかばかしい人だと思う https://t.co/gutkg0tdCx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 986720737535737900,
+						"id_str": "986720737535737856",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DbGJSG1UQAAmofo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbGJSG1UQAAmofo.jpg",
+						"url": "https://t.co/gutkg0tdCx",
+						"display_url": "pic.twitter.com/gutkg0tdCx",
+						"expanded_url": "https://twitter.com/lurie_john/status/986720757597294592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 438,
+								"h": 436,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 438,
+								"h": 436,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 438,
+								"h": 436,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 986720737535737900,
+						"id_str": "986720737535737856",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/DbGJSG1UQAAmofo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DbGJSG1UQAAmofo.jpg",
+						"url": "https://t.co/gutkg0tdCx",
+						"display_url": "pic.twitter.com/gutkg0tdCx",
+						"expanded_url": "https://twitter.com/lurie_john/status/986720757597294592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 438,
+								"h": 436,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 438,
+								"h": 436,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 438,
+								"h": 436,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 774295855,
+				"id_str": "774295855",
+				"name": "John Lurie",
+				"screen_name": "lurie_john",
+				"location": "",
+				"description": "musician, painter, Fishing with John, Lounge Lizards, Marvin Pontiac",
+				"url": "https://t.co/3pW9R1y539",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3pW9R1y539",
+								"expanded_url": "http://geni.us/TheAsylumTapes",
+								"display_url": "geni.us/TheAsylumTapes",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46280,
+				"friends_count": 4715,
+				"listed_count": 625,
+				"created_at": "Wed Aug 22 19:03:05 +0000 2012",
+				"favourites_count": 28769,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 21667,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000161451754/_j1f6jxC.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000161451754/_j1f6jxC.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/657724668976062464/0J85sg-T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/657724668976062464/0J85sg-T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/774295855/1473656327",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4307,
+			"favorite_count": 6286,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4307,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Wed Apr 18 07:56:56 +0000 2018",
 		"id": 986513896243511300,
 		"id_str": "986513896243511296",
