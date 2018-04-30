@@ -1,6 +1,921 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sun Apr 29 23:46:50 +0000 2018",
+		"id": 990739215381028900,
+		"id_str": "990739215381028865",
+		"text": "RT @JapanFocus: The Comfort Women Controversy - Lessons from Taiwan by Thomas J. Ward https://t.co/85v9azS5cF Cc: @PeacePhilosophy https://…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JapanFocus",
+					"name": "Asia-Pacific Journal",
+					"id": 105521430,
+					"id_str": "105521430",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "PeacePhilosophy",
+					"name": "Satoko Oka Norimatsu",
+					"id": 86745451,
+					"id_str": "86745451",
+					"indices": [
+						114,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/85v9azS5cF",
+					"expanded_url": "https://apjjf.org/2018/08/Ward.html",
+					"display_url": "apjjf.org/2018/08/Ward.h…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 595,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1943,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16718,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 29 23:40:01 +0000 2018",
+			"id": 990737500737036300,
+			"id_str": "990737500737036289",
+			"text": "The Comfort Women Controversy - Lessons from Taiwan by Thomas J. Ward https://t.co/85v9azS5cF Cc: @PeacePhilosophy https://t.co/rWVb5xx7i9",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PeacePhilosophy",
+						"name": "Satoko Oka Norimatsu",
+						"id": 86745451,
+						"id_str": "86745451",
+						"indices": [
+							98,
+							114
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/85v9azS5cF",
+						"expanded_url": "https://apjjf.org/2018/08/Ward.html",
+						"display_url": "apjjf.org/2018/08/Ward.h…",
+						"indices": [
+							70,
+							93
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 990737498576904200,
+						"id_str": "990737498576904192",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/Db_OgXxV4AA5Z4R.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Db_OgXxV4AA5Z4R.jpg",
+						"url": "https://t.co/rWVb5xx7i9",
+						"display_url": "pic.twitter.com/rWVb5xx7i9",
+						"expanded_url": "https://twitter.com/JapanFocus/status/990737500737036289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 990737498576904200,
+						"id_str": "990737498576904192",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/Db_OgXxV4AA5Z4R.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Db_OgXxV4AA5Z4R.jpg",
+						"url": "https://t.co/rWVb5xx7i9",
+						"display_url": "pic.twitter.com/rWVb5xx7i9",
+						"expanded_url": "https://twitter.com/JapanFocus/status/990737500737036289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 990737498300010500,
+						"id_str": "990737498300010496",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/Db_OgWvU0AAY_0o.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Db_OgWvU0AAY_0o.jpg",
+						"url": "https://t.co/rWVb5xx7i9",
+						"display_url": "pic.twitter.com/rWVb5xx7i9",
+						"expanded_url": "https://twitter.com/JapanFocus/status/990737500737036289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 727,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 727,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 483,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 990737497951907800,
+						"id_str": "990737497951907840",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/Db_OgVcVMAAkYlv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Db_OgVcVMAAkYlv.jpg",
+						"url": "https://t.co/rWVb5xx7i9",
+						"display_url": "pic.twitter.com/rWVb5xx7i9",
+						"expanded_url": "https://twitter.com/JapanFocus/status/990737500737036289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 848,
+								"h": 476,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 848,
+								"h": 476,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 990737497972850700,
+						"id_str": "990737497972850688",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/Db_OgVhUwAAQmjW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Db_OgVhUwAAQmjW.jpg",
+						"url": "https://t.co/rWVb5xx7i9",
+						"display_url": "pic.twitter.com/rWVb5xx7i9",
+						"expanded_url": "https://twitter.com/JapanFocus/status/990737500737036289/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 588,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 588,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 105521430,
+				"id_str": "105521430",
+				"name": "Asia-Pacific Journal",
+				"screen_name": "JapanFocus",
+				"location": "Global",
+				"description": "In-depth critical analysis of the forces shaping the Asia-Pacific region & the world.　RTs, follows, mentions, listing, etc. are not endorsements.",
+				"url": "https://t.co/GRfPGHSEb4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GRfPGHSEb4",
+								"expanded_url": "http://www.apjjf.org",
+								"display_url": "apjjf.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6934,
+				"friends_count": 794,
+				"listed_count": 507,
+				"created_at": "Sat Jan 16 16:11:14 +0000 2010",
+				"favourites_count": 13634,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12944,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F6F1DF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/105521430/1524442746",
+				"profile_link_color": "572E4F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EE0B5B",
+				"profile_text_color": "027B7F",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Apr 29 23:35:33 +0000 2018",
+		"id": 990736373828141000,
+		"id_str": "990736373828141056",
+		"text": "RT @tsudaka53: 전쟁을 일으키는건 항상 늙은이지만\n전쟁에서 죽는건 항상 젊은이이다. https://t.co/82K10ea9v3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tsudaka53",
+					"name": "Samuel Choi",
+					"id": 4905287629,
+					"id_str": "4905287629",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 990145897584455700,
+					"id_str": "990145897584455680",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/Db20cqVU8AAYRIf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Db20cqVU8AAYRIf.jpg",
+					"url": "https://t.co/82K10ea9v3",
+					"display_url": "pic.twitter.com/82K10ea9v3",
+					"expanded_url": "https://twitter.com/tsudaka53/status/990145906325389312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 359,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 359,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 305,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 990145906325389300,
+					"source_status_id_str": "990145906325389312",
+					"source_user_id": 4905287629,
+					"source_user_id_str": "4905287629"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 990145897584455700,
+					"id_str": "990145897584455680",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/Db20cqVU8AAYRIf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Db20cqVU8AAYRIf.jpg",
+					"url": "https://t.co/82K10ea9v3",
+					"display_url": "pic.twitter.com/82K10ea9v3",
+					"expanded_url": "https://twitter.com/tsudaka53/status/990145906325389312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 359,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 359,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 305,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 990145906325389300,
+					"source_status_id_str": "990145906325389312",
+					"source_user_id": 4905287629,
+					"source_user_id_str": "4905287629"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 595,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1943,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16718,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 28 08:29:14 +0000 2018",
+			"id": 990145906325389300,
+			"id_str": "990145906325389312",
+			"text": "전쟁을 일으키는건 항상 늙은이지만\n전쟁에서 죽는건 항상 젊은이이다. https://t.co/82K10ea9v3",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 990145897584455700,
+						"id_str": "990145897584455680",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/Db20cqVU8AAYRIf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Db20cqVU8AAYRIf.jpg",
+						"url": "https://t.co/82K10ea9v3",
+						"display_url": "pic.twitter.com/82K10ea9v3",
+						"expanded_url": "https://twitter.com/tsudaka53/status/990145906325389312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 359,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 359,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 305,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 990145897584455700,
+						"id_str": "990145897584455680",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/Db20cqVU8AAYRIf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Db20cqVU8AAYRIf.jpg",
+						"url": "https://t.co/82K10ea9v3",
+						"display_url": "pic.twitter.com/82K10ea9v3",
+						"expanded_url": "https://twitter.com/tsudaka53/status/990145906325389312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 359,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 800,
+								"h": 359,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 305,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4905287629,
+				"id_str": "4905287629",
+				"name": "Samuel Choi",
+				"screen_name": "tsudaka53",
+				"location": "",
+				"description": "대장장이/Blacksmith/鍛冶\nIf you need some order to me, DM or Mail to me\nhaforge@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 377,
+				"friends_count": 166,
+				"listed_count": 5,
+				"created_at": "Sun Feb 14 05:53:38 +0000 2016",
+				"favourites_count": 1507,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11081,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/980423422227357697/HjViMa-s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980423422227357697/HjViMa-s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4905287629/1497440990",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1886,
+			"favorite_count": 509,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1886,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sun Apr 29 02:42:53 +0000 2018",
+		"id": 990421131109650400,
+		"id_str": "990421131109650432",
+		"text": "RT @shiikazuo: 南北首脳会談での「板門店宣言」をもたらした力の一つは、韓国で起こった「キャンドル革命」だと思う。昨年９月、文大統領は国連総会演説で、「韓国の新政府はキャンドル革命が作った政府」とのべ、北朝鮮に対話と平和をよびかけた。称賛すべき外交的イニシアチブの根…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shiikazuo",
+					"name": "志位和夫",
+					"id": 1409223888,
+					"id_str": "1409223888",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 595,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1943,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16718,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Apr 28 08:28:34 +0000 2018",
+			"id": 990145737248858100,
+			"id_str": "990145737248858112",
+			"text": "南北首脳会談での「板門店宣言」をもたらした力の一つは、韓国で起こった「キャンドル革命」だと思う。昨年９月、文大統領は国連総会演説で、「韓国の新政府はキャンドル革命が作った政府」とのべ、北朝鮮に対話と平和をよびかけた。称賛すべき外交的イニシアチブの根本には民主革命の力があったのだ。",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1409223888,
+				"id_str": "1409223888",
+				"name": "志位和夫",
+				"screen_name": "shiikazuo",
+				"location": "",
+				"description": "日本共産党委員長の志位和夫です。力をあわせて一緒に政治を変えましょう。",
+				"url": "http://t.co/Yp1lqKMNWj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Yp1lqKMNWj",
+								"expanded_url": "http://www.shii.gr.jp/",
+								"display_url": "shii.gr.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 87417,
+				"friends_count": 0,
+				"listed_count": 2682,
+				"created_at": "Tue May 07 02:32:41 +0000 2013",
+				"favourites_count": 163,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3089,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3624876884/b16d250401cc357c5be9859f7ba3db8f_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3624876884/b16d250401cc357c5be9859f7ba3db8f_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1642,
+			"favorite_count": 2183,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1642,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sat Apr 28 14:27:40 +0000 2018",
 		"id": 990236109572485100,
 		"id_str": "990236109572485120",
