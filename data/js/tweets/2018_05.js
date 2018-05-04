@@ -1,6 +1,1080 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Thu May 03 10:35:46 +0000 2018",
+		"id": 991989686460559400,
+		"id_str": "991989686460559360",
+		"text": "RT @musabianpo: 東京朝鮮高校の皆さんが、沖縄の歌を歌っています。　#0503憲法集会 https://t.co/CwVAvCXrMS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "0503憲法集会",
+					"indices": [
+						41,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "musabianpo",
+					"name": "安保法反対☆自由と良心武蔵野美術大学有志",
+					"id": 3453293959,
+					"id_str": "3453293959",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 991916655549734900,
+					"id_str": "991916655549734913",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/991916655549734913/pu/img/9pk6GgmSw_jf8klj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/991916655549734913/pu/img/9pk6GgmSw_jf8klj.jpg",
+					"url": "https://t.co/CwVAvCXrMS",
+					"display_url": "pic.twitter.com/CwVAvCXrMS",
+					"expanded_url": "https://twitter.com/musabianpo/status/991917338273312768/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 991917338273312800,
+					"source_status_id_str": "991917338273312768",
+					"source_user_id": 3453293959,
+					"source_user_id_str": "3453293959"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 991916655549734900,
+					"id_str": "991916655549734913",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/991916655549734913/pu/img/9pk6GgmSw_jf8klj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/991916655549734913/pu/img/9pk6GgmSw_jf8klj.jpg",
+					"url": "https://t.co/CwVAvCXrMS",
+					"display_url": "pic.twitter.com/CwVAvCXrMS",
+					"expanded_url": "https://twitter.com/musabianpo/status/991917338273312768/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 991917338273312800,
+					"source_status_id_str": "991917338273312768",
+					"source_user_id": 3453293959,
+					"source_user_id_str": "3453293959",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45291,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/991916655549734913/pu/vid/640x360/K_UkhPTeRz4T4qIl.mp4?tag=3"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/991916655549734913/pu/vid/1280x720/yLin7StOYcAEGYDZ.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/991916655549734913/pu/pl/7m8m7k1Tgl3g_BdE.m3u8?tag=3"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/991916655549734913/pu/vid/320x180/cQfW_DF3_B3veQtG.mp4?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3453293959,
+							"id_str": "3453293959",
+							"name": "安保法反対☆自由と良心武蔵野美術大学有志",
+							"screen_name": "musabianpo",
+							"location": "Japan. Art University.",
+							"description": "国内の政治問題に沈黙・素通りする空気が多く、情報共有や可視化が必要と思いました。The Art for Peace.We opposed The War-Laws of Government. 安保が「法案」だった2015年9月16日に、公式HPを開設、声明を出しました。2018年も賛同署名 受付中。HPはこちら ↓",
+							"url": "https://t.co/yevwjcPM2H",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/yevwjcPM2H",
+											"expanded_url": "http://maus-artforpeace.jimdo.com/",
+											"display_url": "maus-artforpeace.jimdo.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3879,
+							"friends_count": 4338,
+							"listed_count": 82,
+							"created_at": "Fri Sep 04 23:41:42 +0000 2015",
+							"favourites_count": 58259,
+							"utc_offset": 32400,
+							"time_zone": "Tokyo",
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 98386,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "89C9FA",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/875408984177393665/PM3WU4Gp_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/875408984177393665/PM3WU4Gp_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3453293959/1524336055",
+							"profile_link_color": "3B94D9",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1952,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16730,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 03 05:48:17 +0000 2018",
+			"id": 991917338273312800,
+			"id_str": "991917338273312768",
+			"text": "東京朝鮮高校の皆さんが、沖縄の歌を歌っています。　#0503憲法集会 https://t.co/CwVAvCXrMS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "0503憲法集会",
+						"indices": [
+							25,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 991916655549734900,
+						"id_str": "991916655549734913",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/991916655549734913/pu/img/9pk6GgmSw_jf8klj.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/991916655549734913/pu/img/9pk6GgmSw_jf8klj.jpg",
+						"url": "https://t.co/CwVAvCXrMS",
+						"display_url": "pic.twitter.com/CwVAvCXrMS",
+						"expanded_url": "https://twitter.com/musabianpo/status/991917338273312768/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 991916655549734900,
+						"id_str": "991916655549734913",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/991916655549734913/pu/img/9pk6GgmSw_jf8klj.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/991916655549734913/pu/img/9pk6GgmSw_jf8klj.jpg",
+						"url": "https://t.co/CwVAvCXrMS",
+						"display_url": "pic.twitter.com/CwVAvCXrMS",
+						"expanded_url": "https://twitter.com/musabianpo/status/991917338273312768/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 45291,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/991916655549734913/pu/vid/640x360/K_UkhPTeRz4T4qIl.mp4?tag=3"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/991916655549734913/pu/vid/1280x720/yLin7StOYcAEGYDZ.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/991916655549734913/pu/pl/7m8m7k1Tgl3g_BdE.m3u8?tag=3"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/991916655549734913/pu/vid/320x180/cQfW_DF3_B3veQtG.mp4?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3453293959,
+				"id_str": "3453293959",
+				"name": "安保法反対☆自由と良心武蔵野美術大学有志",
+				"screen_name": "musabianpo",
+				"location": "Japan. Art University.",
+				"description": "国内の政治問題に沈黙・素通りする空気が多く、情報共有や可視化が必要と思いました。The Art for Peace.We opposed The War-Laws of Government. 安保が「法案」だった2015年9月16日に、公式HPを開設、声明を出しました。2018年も賛同署名 受付中。HPはこちら ↓",
+				"url": "https://t.co/yevwjcPM2H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yevwjcPM2H",
+								"expanded_url": "http://maus-artforpeace.jimdo.com/",
+								"display_url": "maus-artforpeace.jimdo.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3879,
+				"friends_count": 4338,
+				"listed_count": 82,
+				"created_at": "Fri Sep 04 23:41:42 +0000 2015",
+				"favourites_count": 58259,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 98386,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875408984177393665/PM3WU4Gp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875408984177393665/PM3WU4Gp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3453293959/1524336055",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 264,
+			"favorite_count": 307,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 264,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Thu May 03 10:15:25 +0000 2018",
+		"id": 991984566637215700,
+		"id_str": "991984566637215745",
+		"text": "냉전보다 냉면을",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1952,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16730,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu May 03 10:13:27 +0000 2018",
+		"id": 991984071931715600,
+		"id_str": "991984071931715584",
+		"text": "RT @ktcathouse: 素晴らしいプラカ！ #自由と尊厳の祝祭 https://t.co/YCdpuwIBZY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "自由と尊厳の祝祭",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ktcathouse",
+					"name": "cat-house",
+					"id": 102934035,
+					"id_str": "102934035",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 991916549798690800,
+					"id_str": "991916549798690816",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DcP-2L2VAAAhCh_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcP-2L2VAAAhCh_.jpg",
+					"url": "https://t.co/YCdpuwIBZY",
+					"display_url": "pic.twitter.com/YCdpuwIBZY",
+					"expanded_url": "https://twitter.com/ktcathouse/status/991916562931068928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 991916562931068900,
+					"source_status_id_str": "991916562931068928",
+					"source_user_id": 102934035,
+					"source_user_id_str": "102934035"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 991916549798690800,
+					"id_str": "991916549798690816",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/DcP-2L2VAAAhCh_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcP-2L2VAAAhCh_.jpg",
+					"url": "https://t.co/YCdpuwIBZY",
+					"display_url": "pic.twitter.com/YCdpuwIBZY",
+					"expanded_url": "https://twitter.com/ktcathouse/status/991916562931068928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 991916562931068900,
+					"source_status_id_str": "991916562931068928",
+					"source_user_id": 102934035,
+					"source_user_id_str": "102934035"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1952,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16730,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu May 03 05:45:12 +0000 2018",
+			"id": 991916562931068900,
+			"id_str": "991916562931068928",
+			"text": "素晴らしいプラカ！ #自由と尊厳の祝祭 https://t.co/YCdpuwIBZY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "自由と尊厳の祝祭",
+						"indices": [
+							10,
+							19
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 991916549798690800,
+						"id_str": "991916549798690816",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DcP-2L2VAAAhCh_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcP-2L2VAAAhCh_.jpg",
+						"url": "https://t.co/YCdpuwIBZY",
+						"display_url": "pic.twitter.com/YCdpuwIBZY",
+						"expanded_url": "https://twitter.com/ktcathouse/status/991916562931068928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 991916549798690800,
+						"id_str": "991916549798690816",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DcP-2L2VAAAhCh_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcP-2L2VAAAhCh_.jpg",
+						"url": "https://t.co/YCdpuwIBZY",
+						"display_url": "pic.twitter.com/YCdpuwIBZY",
+						"expanded_url": "https://twitter.com/ktcathouse/status/991916562931068928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 102934035,
+				"id_str": "102934035",
+				"name": "cat-house",
+				"screen_name": "ktcathouse",
+				"location": "こんな猫たち。",
+				"description": "猫・猫屋敷とお呼びください。NO RACISM！あらゆる差別にNOを。",
+				"url": "https://t.co/TTXJcpVe73",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TTXJcpVe73",
+								"expanded_url": "http://twilog.org/ktcathouse",
+								"display_url": "twilog.org/ktcathouse",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2262,
+				"friends_count": 538,
+				"listed_count": 72,
+				"created_at": "Fri Jan 08 09:12:49 +0000 2010",
+				"favourites_count": 2597,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 101872,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000012318625/3d86b7defae1978e6b1436665b30b4b2.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000012318625/3d86b7defae1978e6b1436665b30b4b2.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/723891268149858306/y6QWA3Lj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/723891268149858306/y6QWA3Lj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/102934035/1470736985",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 882,
+			"favorite_count": 1240,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 882,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Thu May 03 07:34:45 +0000 2018",
+		"id": 991944135438356500,
+		"id_str": "991944135438356481",
+		"text": "그동안 한국 사회에서 &lt;평화&gt;는 &lt;빨갱이&gt;의 말이었다.  참혹한 전쟁 끝에 지속된 군사적 대치 속에서 평화를 이야기하는 것은 남한의 일방적인 무장해제, 곧 북한에 의한 적화통일에 동의한다는 의미로 받아들여졌다.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 991933357041696800,
+		"in_reply_to_status_id_str": "991933357041696768",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1952,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16730,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Thu May 03 06:51:56 +0000 2018",
+		"id": 991933357041696800,
+		"id_str": "991933357041696768",
+		"text": "이번 정상회담과, 관련된 일련의 반응을 보면서 개인적으로 가장 의미있게 받아들이고 싶은 것은, 그동안 한국사회가 갖고 있던 '평화'라는 말에 대한 기묘한 거부반응(이라 부를 수 있는 어떤 집단의식?)이 조금씩 퇴색되어 가고 있다는 점.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1952,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16730,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Wed May 02 04:32:33 +0000 2018",
 		"id": 991535895080677400,
 		"id_str": "991535895080677376",
