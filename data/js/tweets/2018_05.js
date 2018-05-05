@@ -1,6 +1,1164 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 04 11:02:14 +0000 2018",
+		"id": 992358735547744300,
+		"id_str": "992358735547744262",
+		"text": "RT @CDP2017: 【レインボーパレード🌈】\n5月6日(日)に代々木公園で行われるレインボーパレードに、枝野代表や福山幹事長をはじめ、立憲民主党から多くの議員が参加します。議員用にタオルとフラッグも作りました😊🏳️‍🌈 #TRP2018 https://t.co/IHDD…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TRP2018",
+					"indices": [
+						113,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CDP2017",
+					"name": "立憲民主党 🏳️‍🌈",
+					"id": 914762049481084900,
+					"id_str": "914762049481084929",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1952,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16735,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 04 10:37:19 +0000 2018",
+			"id": 992352464811712500,
+			"id_str": "992352464811712512",
+			"text": "【レインボーパレード🌈】\n5月6日(日)に代々木公園で行われるレインボーパレードに、枝野代表や福山幹事長をはじめ、立憲民主党から多くの議員が参加します。議員用にタオルとフラッグも作りました😊🏳️‍🌈 #TRP2018… https://t.co/L9xCPkTL1L",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TRP2018",
+						"indices": [
+							100,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/L9xCPkTL1L",
+						"expanded_url": "https://twitter.com/i/web/status/992352464811712512",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 914762049481084900,
+				"id_str": "914762049481084929",
+				"name": "立憲民主党 🏳️‍🌈",
+				"screen_name": "CDP2017",
+				"location": "",
+				"description": "立憲民主党公式アカウントです。 代表 枝野幸男 @edanoyukio0531 基本政策 https://t.co/l67COFqO1m 　LINE https://t.co/jPGcVo8km8",
+				"url": "https://t.co/x7okgbHbxG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/x7okgbHbxG",
+								"expanded_url": "http://cdp-japan.jp",
+								"display_url": "cdp-japan.jp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/l67COFqO1m",
+								"expanded_url": "https://cdp-japan.jp/policy",
+								"display_url": "cdp-japan.jp/policy",
+								"indices": [
+									45,
+									68
+								]
+							},
+							{
+								"url": "https://t.co/jPGcVo8km8",
+								"expanded_url": "https://line.me/R/ti/p/2BxklPTTND",
+								"display_url": "line.me/R/ti/p/2BxklPT…",
+								"indices": [
+									75,
+									98
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 179121,
+				"friends_count": 168,
+				"listed_count": 2205,
+				"created_at": "Mon Oct 02 08:00:42 +0000 2017",
+				"favourites_count": 7107,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6370,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/922101006279761920/bqCIScpV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/922101006279761920/bqCIScpV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/914762049481084929/1512479717",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 379,
+			"favorite_count": 647,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 379,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Fri May 04 10:55:27 +0000 2018",
+		"id": 992357029837615100,
+		"id_str": "992357029837615104",
+		"text": "RT @olivenews: 5月3日　9条改憲NO！平和といのちと人権を！5.3憲法集会\nhttps://t.co/DcohNImVwM\n参加者６万人。\n安倍9条改憲ＮＯ！全国統一署名報告は１３５０万筆でした。 https://t.co/0QV41PxbCx",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "olivenews",
+					"name": "The daily olivenews",
+					"id": 110997322,
+					"id_str": "110997322",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DcohNImVwM",
+					"expanded_url": "https://www.youtube.com/watch?v=vh1DNU46ok8",
+					"display_url": "youtube.com/watch?v=vh1DNU…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 992329404456910800,
+					"id_str": "992329404456910849",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DcV2VfTUQAEI7J3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcV2VfTUQAEI7J3.jpg",
+					"url": "https://t.co/0QV41PxbCx",
+					"display_url": "pic.twitter.com/0QV41PxbCx",
+					"expanded_url": "https://twitter.com/olivenews/status/992335520016449536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 910,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 302,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 533,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 992335520016449500,
+					"source_status_id_str": "992335520016449536",
+					"source_user_id": 110997322,
+					"source_user_id_str": "110997322"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 992329404456910800,
+					"id_str": "992329404456910849",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DcV2VfTUQAEI7J3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcV2VfTUQAEI7J3.jpg",
+					"url": "https://t.co/0QV41PxbCx",
+					"display_url": "pic.twitter.com/0QV41PxbCx",
+					"expanded_url": "https://twitter.com/olivenews/status/992335520016449536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 910,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 302,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 533,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 992335520016449500,
+					"source_status_id_str": "992335520016449536",
+					"source_user_id": 110997322,
+					"source_user_id_str": "110997322"
+				},
+				{
+					"id": 992329515505365000,
+					"id_str": "992329515505364994",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DcV2b8_VMAI_6Se.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcV2b8_VMAI_6Se.jpg",
+					"url": "https://t.co/0QV41PxbCx",
+					"display_url": "pic.twitter.com/0QV41PxbCx",
+					"expanded_url": "https://twitter.com/olivenews/status/992335520016449536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 533,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 302,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 992335520016449500,
+					"source_status_id_str": "992335520016449536",
+					"source_user_id": 110997322,
+					"source_user_id_str": "110997322"
+				},
+				{
+					"id": 992329580458397700,
+					"id_str": "992329580458397697",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DcV2fu9V0AEr-8m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcV2fu9V0AEr-8m.jpg",
+					"url": "https://t.co/0QV41PxbCx",
+					"display_url": "pic.twitter.com/0QV41PxbCx",
+					"expanded_url": "https://twitter.com/olivenews/status/992335520016449536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 910,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 533,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 302,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 992335520016449500,
+					"source_status_id_str": "992335520016449536",
+					"source_user_id": 110997322,
+					"source_user_id_str": "110997322"
+				},
+				{
+					"id": 992329621235368000,
+					"id_str": "992329621235367936",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/DcV2iG3VAAA1dkC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcV2iG3VAAA1dkC.jpg",
+					"url": "https://t.co/0QV41PxbCx",
+					"display_url": "pic.twitter.com/0QV41PxbCx",
+					"expanded_url": "https://twitter.com/olivenews/status/992335520016449536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 302,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 910,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 533,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 992335520016449500,
+					"source_status_id_str": "992335520016449536",
+					"source_user_id": 110997322,
+					"source_user_id_str": "110997322"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1952,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16735,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 04 09:29:59 +0000 2018",
+			"id": 992335520016449500,
+			"id_str": "992335520016449536",
+			"text": "5月3日　9条改憲NO！平和といのちと人権を！5.3憲法集会\nhttps://t.co/DcohNImVwM\n参加者６万人。\n安倍9条改憲ＮＯ！全国統一署名報告は１３５０万筆でした。 https://t.co/0QV41PxbCx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DcohNImVwM",
+						"expanded_url": "https://www.youtube.com/watch?v=vh1DNU46ok8",
+						"display_url": "youtube.com/watch?v=vh1DNU…",
+						"indices": [
+							31,
+							54
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 992329404456910800,
+						"id_str": "992329404456910849",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/DcV2VfTUQAEI7J3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcV2VfTUQAEI7J3.jpg",
+						"url": "https://t.co/0QV41PxbCx",
+						"display_url": "pic.twitter.com/0QV41PxbCx",
+						"expanded_url": "https://twitter.com/olivenews/status/992335520016449536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 910,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 302,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 533,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 992329404456910800,
+						"id_str": "992329404456910849",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/DcV2VfTUQAEI7J3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcV2VfTUQAEI7J3.jpg",
+						"url": "https://t.co/0QV41PxbCx",
+						"display_url": "pic.twitter.com/0QV41PxbCx",
+						"expanded_url": "https://twitter.com/olivenews/status/992335520016449536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 910,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 302,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 533,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 992329515505365000,
+						"id_str": "992329515505364994",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/DcV2b8_VMAI_6Se.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcV2b8_VMAI_6Se.jpg",
+						"url": "https://t.co/0QV41PxbCx",
+						"display_url": "pic.twitter.com/0QV41PxbCx",
+						"expanded_url": "https://twitter.com/olivenews/status/992335520016449536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 533,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 302,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 910,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 992329580458397700,
+						"id_str": "992329580458397697",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/DcV2fu9V0AEr-8m.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcV2fu9V0AEr-8m.jpg",
+						"url": "https://t.co/0QV41PxbCx",
+						"display_url": "pic.twitter.com/0QV41PxbCx",
+						"expanded_url": "https://twitter.com/olivenews/status/992335520016449536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 910,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 533,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 302,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 992329621235368000,
+						"id_str": "992329621235367936",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/DcV2iG3VAAA1dkC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcV2iG3VAAA1dkC.jpg",
+						"url": "https://t.co/0QV41PxbCx",
+						"display_url": "pic.twitter.com/0QV41PxbCx",
+						"expanded_url": "https://twitter.com/olivenews/status/992335520016449536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 302,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 910,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 533,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110997322,
+				"id_str": "110997322",
+				"name": "The daily olivenews",
+				"screen_name": "olivenews",
+				"location": "東京",
+				"description": "【毎日のオリーブニュース】The   daily Olive News network 年6億1800万PV!! 総発行部数112万部のolivenewsを中心とした第3世代メディア標榜（現在1,124,873部） フォローして頂ければあなたのtwを広く拡散します。（twは編集委員mk担当）",
+				"url": "http://t.co/WDQoCHuAvW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/WDQoCHuAvW",
+								"expanded_url": "http://www.olivenews.net/v4/",
+								"display_url": "olivenews.net/v4/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23028,
+				"friends_count": 213,
+				"listed_count": 1641,
+				"created_at": "Wed Feb 03 13:31:51 +0000 2010",
+				"favourites_count": 551,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 54177,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/595519172622340096/QEA7toe7.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/595519172622340096/QEA7toe7.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1532607839/__________normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1532607839/__________normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110997322/1400862973",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Fri May 04 05:54:35 +0000 2018",
+		"id": 992281314198868000,
+		"id_str": "992281314198867968",
+		"text": "@carmikle226 @sldn1206 일본 현지의 어학원이랑 인력소개소 두군데서 소개비 먹는 장사인 것 같습니다;;;;;;",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "carmikle226",
+					"name": "Carmikle",
+					"id": 157771266,
+					"id_str": "157771266",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "sldn1206",
+					"name": "교토 도련님형 담륜",
+					"id": 2572908468,
+					"id_str": "2572908468",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 992280808718135300,
+		"in_reply_to_status_id_str": "992280808718135298",
+		"in_reply_to_user_id": 157771266,
+		"in_reply_to_user_id_str": "157771266",
+		"in_reply_to_screen_name": "carmikle226",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1952,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16735,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri May 04 05:50:46 +0000 2018",
+		"id": 992280353875226600,
+		"id_str": "992280353875226624",
+		"text": "@sldn1206 헐 그렇군요..",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sldn1206",
+					"name": "교토 도련님형 담륜",
+					"id": 2572908468,
+					"id_str": "2572908468",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 992279896419266600,
+		"in_reply_to_status_id_str": "992279896419266560",
+		"in_reply_to_user_id": 2572908468,
+		"in_reply_to_user_id_str": "2572908468",
+		"in_reply_to_screen_name": "sldn1206",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1952,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16735,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri May 04 05:37:44 +0000 2018",
+		"id": 992277071031238700,
+		"id_str": "992277071031238657",
+		"text": "이건 또 뭘까🤔 경비는 카드 할부로 끊고 현지에서 일해서 갚으라고(...) https://t.co/fpN5tksDAt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 992277048130322400,
+					"id_str": "992277048130322432",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DcVGt8yUwAAhRlo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcVGt8yUwAAhRlo.jpg",
+					"url": "https://t.co/fpN5tksDAt",
+					"display_url": "pic.twitter.com/fpN5tksDAt",
+					"expanded_url": "https://twitter.com/kawanoboru/status/992277071031238657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 992277048130322400,
+					"id_str": "992277048130322432",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/DcVGt8yUwAAhRlo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcVGt8yUwAAhRlo.jpg",
+					"url": "https://t.co/fpN5tksDAt",
+					"display_url": "pic.twitter.com/fpN5tksDAt",
+					"expanded_url": "https://twitter.com/kawanoboru/status/992277071031238657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1952,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16735,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu May 03 10:35:46 +0000 2018",
 		"id": 991989686460559400,
 		"id_str": "991989686460559360",
