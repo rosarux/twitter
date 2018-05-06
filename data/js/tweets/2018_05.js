@@ -1,10 +1,431 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sat May 05 04:06:14 +0000 2018",
+		"id": 992616435787579400,
+		"id_str": "992616435787579392",
+		"text": "혼다 캐이스케 멋지네. 일본 셀렙이 저렇게 공개적으로 발언하기 쉽지 않을텐데.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1953,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16737,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat May 05 04:04:49 +0000 2018",
+		"id": 992616077807906800,
+		"id_str": "992616077807906816",
+		"text": "RT @kskgroup2017: 少し遅くなったけど、素晴らしく、歴史的な第一歩。\n\n多くの韓国人と北朝鮮の友人達よ。本当におめでとう！そして乾杯！！ https://t.co/JXIkivD8WZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kskgroup2017",
+					"name": "KeisukeHonda(本田圭佑)",
+					"id": 824122844258897900,
+					"id_str": "824122844258897920",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 992564247128244200,
+					"id_str": "992564247128244230",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DcZL7IbVAAYSG22.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcZL7IbVAAYSG22.jpg",
+					"url": "https://t.co/JXIkivD8WZ",
+					"display_url": "pic.twitter.com/JXIkivD8WZ",
+					"expanded_url": "https://twitter.com/kskgroup2017/status/992564248625598464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 757,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1608,
+							"h": 1014,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 992564248625598500,
+					"source_status_id_str": "992564248625598464",
+					"source_user_id": 824122844258897900,
+					"source_user_id_str": "824122844258897920"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 992564247128244200,
+					"id_str": "992564247128244230",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DcZL7IbVAAYSG22.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DcZL7IbVAAYSG22.jpg",
+					"url": "https://t.co/JXIkivD8WZ",
+					"display_url": "pic.twitter.com/JXIkivD8WZ",
+					"expanded_url": "https://twitter.com/kskgroup2017/status/992564248625598464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 757,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1608,
+							"h": 1014,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 992564248625598500,
+					"source_status_id_str": "992564248625598464",
+					"source_user_id": 824122844258897900,
+					"source_user_id_str": "824122844258897920"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 497,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1953,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16737,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 05 00:38:52 +0000 2018",
+			"id": 992564248625598500,
+			"id_str": "992564248625598464",
+			"text": "少し遅くなったけど、素晴らしく、歴史的な第一歩。\n\n多くの韓国人と北朝鮮の友人達よ。本当におめでとう！そして乾杯！！ https://t.co/JXIkivD8WZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 992564247128244200,
+						"id_str": "992564247128244230",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/DcZL7IbVAAYSG22.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcZL7IbVAAYSG22.jpg",
+						"url": "https://t.co/JXIkivD8WZ",
+						"display_url": "pic.twitter.com/JXIkivD8WZ",
+						"expanded_url": "https://twitter.com/kskgroup2017/status/992564248625598464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 757,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1608,
+								"h": 1014,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 429,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 992564247128244200,
+						"id_str": "992564247128244230",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/DcZL7IbVAAYSG22.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DcZL7IbVAAYSG22.jpg",
+						"url": "https://t.co/JXIkivD8WZ",
+						"display_url": "pic.twitter.com/JXIkivD8WZ",
+						"expanded_url": "https://twitter.com/kskgroup2017/status/992564248625598464/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 757,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1608,
+								"h": 1014,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 429,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 824122844258897900,
+				"id_str": "824122844258897920",
+				"name": "KeisukeHonda(本田圭佑)",
+				"screen_name": "kskgroup2017",
+				"location": "Mexico",
+				"description": "Human, Man, Educator,Social Activist ,Entrepreneur, Angel Investor , Soccer Player, Anthropologist",
+				"url": "https://t.co/KzvgfPjj8p",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KzvgfPjj8p",
+								"expanded_url": "https://kskgroup.co/",
+								"display_url": "kskgroup.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 308137,
+				"friends_count": 83,
+				"listed_count": 1243,
+				"created_at": "Wed Jan 25 05:12:52 +0000 2017",
+				"favourites_count": 357,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 210,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/960682119210008576/2N7WJGZE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/960682119210008576/2N7WJGZE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/824122844258897920/1517879701",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1626,
+			"favorite_count": 8332,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1626,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Fri May 04 11:02:14 +0000 2018",
 		"id": 992358735547744300,
 		"id_str": "992358735547744262",
-		"text": "RT @CDP2017: 【レインボーパレード🌈】\n5月6日(日)に代々木公園で行われるレインボーパレードに、枝野代表や福山幹事長をはじめ、立憲民主党から多くの議員が参加します。議員用にタオルとフラッグも作りました😊🏳️‍🌈 #TRP2018 https://t.co/IHDD…",
+		"text": "RT @CDP2017: 【レインボーパレード🌈】\n5月6日(日)に代々木公園で行われるレインボーパレードに、枝野代表や福山幹事長をはじめ、立憲民主党から多くの議員が参加します。議員用にタオルとフラッグも作りました😊🏳️🌈 #TRP2018 https://t.co/IHDD…",
 		"truncated": false,
 		"entities": {
 			"hashtags": [
@@ -20,7 +441,7 @@ Grailbird.data.tweets_2018_05 =
 			"user_mentions": [
 				{
 					"screen_name": "CDP2017",
-					"name": "立憲民主党 🏳️‍🌈",
+					"name": "立憲民主党 🏳️🌈",
 					"id": 914762049481084900,
 					"id_str": "914762049481084929",
 					"indices": [
@@ -93,7 +514,7 @@ Grailbird.data.tweets_2018_05 =
 			"created_at": "Fri May 04 10:37:19 +0000 2018",
 			"id": 992352464811712500,
 			"id_str": "992352464811712512",
-			"text": "【レインボーパレード🌈】\n5月6日(日)に代々木公園で行われるレインボーパレードに、枝野代表や福山幹事長をはじめ、立憲民主党から多くの議員が参加します。議員用にタオルとフラッグも作りました😊🏳️‍🌈 #TRP2018… https://t.co/L9xCPkTL1L",
+			"text": "【レインボーパレード🌈】\n5月6日(日)に代々木公園で行われるレインボーパレードに、枝野代表や福山幹事長をはじめ、立憲民主党から多くの議員が参加します。議員用にタオルとフラッグも作りました😊🏳️🌈 #TRP2018… https://t.co/L9xCPkTL1L",
 			"truncated": true,
 			"entities": {
 				"hashtags": [
@@ -128,7 +549,7 @@ Grailbird.data.tweets_2018_05 =
 			"user": {
 				"id": 914762049481084900,
 				"id_str": "914762049481084929",
-				"name": "立憲民主党 🏳️‍🌈",
+				"name": "立憲民主党 🏳️🌈",
 				"screen_name": "CDP2017",
 				"location": "",
 				"description": "立憲民主党公式アカウントです。 代表 枝野幸男 @edanoyukio0531 基本政策 https://t.co/l67COFqO1m 　LINE https://t.co/jPGcVo8km8",
