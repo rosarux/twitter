@@ -1,6 +1,841 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Fri May 25 05:50:32 +0000 2018",
+		"id": 999890441477677000,
+		"id_str": "999890441477677067",
+		"text": "RT @PeacePhilosophy: https://t.co/XeLle1CB2b https://t.co/XeLle1CB2b",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeacePhilosophy",
+					"name": "Satoko Oka Norimatsu",
+					"id": 86745451,
+					"id_str": "86745451",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XeLle1CB2b",
+					"expanded_url": "https://www.commondreams.org/news/2018/05/24/john-bolton-must-be-stoked-experts-put-blame-canceled-north-korea-talks-squarely",
+					"display_url": "commondreams.org/news/2018/05/2…",
+					"indices": [
+						21,
+						44
+					]
+				},
+				{
+					"url": "https://t.co/XeLle1CB2b",
+					"expanded_url": "https://www.commondreams.org/news/2018/05/24/john-bolton-must-be-stoked-experts-put-blame-canceled-north-korea-talks-squarely",
+					"display_url": "commondreams.org/news/2018/05/2…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 596,
+			"friends_count": 495,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1984,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16747,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 25 05:48:47 +0000 2018",
+			"id": 999890001172152300,
+			"id_str": "999890001172152320",
+			"text": "https://t.co/XeLle1CB2b https://t.co/XeLle1CB2b",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XeLle1CB2b",
+						"expanded_url": "https://www.commondreams.org/news/2018/05/24/john-bolton-must-be-stoked-experts-put-blame-canceled-north-korea-talks-squarely",
+						"display_url": "commondreams.org/news/2018/05/2…",
+						"indices": [
+							0,
+							23
+						]
+					},
+					{
+						"url": "https://t.co/XeLle1CB2b",
+						"expanded_url": "https://www.commondreams.org/news/2018/05/24/john-bolton-must-be-stoked-experts-put-blame-canceled-north-korea-talks-squarely",
+						"display_url": "commondreams.org/news/2018/05/2…",
+						"indices": [
+							24,
+							47
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 86745451,
+				"id_str": "86745451",
+				"name": "Satoko Oka Norimatsu",
+				"screen_name": "PeacePhilosophy",
+				"location": "Vancouver, Canada",
+				"description": "Editor, Asia-Pacific Journal: Japan Focus / Co-author of Resistant Islands: Okinawa Confronts Japan and the US Updated Paperback coming April 2018 琉球新報「正義への責任」",
+				"url": "http://t.co/oizzHRkEgy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/oizzHRkEgy",
+								"expanded_url": "http://www.peacephilosophy.com",
+								"display_url": "peacephilosophy.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9927,
+				"friends_count": 953,
+				"listed_count": 749,
+				"created_at": "Sun Nov 01 15:52:21 +0000 2009",
+				"favourites_count": 344,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16287,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/986456077389606912/kEyN7Ta9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/986456077389606912/kEyN7Ta9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/86745451/1524024520",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Fri May 25 05:36:55 +0000 2018",
+		"id": 999887011614900200,
+		"id_str": "999887011614900224",
+		"text": "RT @furaisou: 久し振りに、ひばり屋さんで、のんびりしたいなぁ。。。 https://t.co/qdZpuBXMH5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "furaisou",
+					"name": "風来荘",
+					"id": 207791068,
+					"id_str": "207791068",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qdZpuBXMH5",
+					"expanded_url": "https://twitter.com/sesokojima/status/999872650871631872",
+					"display_url": "twitter.com/sesokojima/sta…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 596,
+			"friends_count": 495,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1984,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16747,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 25 05:31:20 +0000 2018",
+			"id": 999885608939016200,
+			"id_str": "999885608939016192",
+			"text": "久し振りに、ひばり屋さんで、のんびりしたいなぁ。。。 https://t.co/qdZpuBXMH5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qdZpuBXMH5",
+						"expanded_url": "https://twitter.com/sesokojima/status/999872650871631872",
+						"display_url": "twitter.com/sesokojima/sta…",
+						"indices": [
+							27,
+							50
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 207791068,
+				"id_str": "207791068",
+				"name": "風来荘",
+				"screen_name": "furaisou",
+				"location": "沖縄県　今帰仁村",
+				"description": "13年前に鎌倉から沖縄へ。  。。                                           海のそばで『風来荘　fu-rai-sou』 と言う名の宿を営んでおります.朝食には国産小麦を使って焼き上げる自家製天然酵母パンとスープでほっこりと。。ゆったりとした沖縄時間をお楽しみ下さい。。",
+				"url": "http://t.co/q1DVIfauZK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/q1DVIfauZK",
+								"expanded_url": "http://www7.plala.or.jp/fu-rai-sou/",
+								"display_url": "www7.plala.or.jp/fu-rai-sou/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 592,
+				"friends_count": 272,
+				"listed_count": 14,
+				"created_at": "Tue Oct 26 01:28:07 +0000 2010",
+				"favourites_count": 1147,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1016,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439958135634001921/P1j1yf6a_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439958135634001921/P1j1yf6a_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/207791068/1398257915",
+				"profile_link_color": "256DD9",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 999872650871631900,
+			"quoted_status_id_str": "999872650871631872",
+			"quoted_status": {
+				"created_at": "Fri May 25 04:39:51 +0000 2018",
+				"id": 999872650871631900,
+				"id_str": "999872650871631872",
+				"text": "絶好のひばり屋日和。梅雨なのに。\n\n#珈琲屋台ひばり屋 #沖縄 #珈琲 https://t.co/WDhwZNeXxm",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "珈琲屋台ひばり屋",
+							"indices": [
+								18,
+								27
+							]
+						},
+						{
+							"text": "沖縄",
+							"indices": [
+								28,
+								31
+							]
+						},
+						{
+							"text": "珈琲",
+							"indices": [
+								32,
+								35
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 999872611545792500,
+							"id_str": "999872611545792512",
+							"indices": [
+								36,
+								59
+							],
+							"media_url": "http://pbs.twimg.com/media/DeBC17fUQAAe6gi.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DeBC17fUQAAe6gi.jpg",
+							"url": "https://t.co/WDhwZNeXxm",
+							"display_url": "pic.twitter.com/WDhwZNeXxm",
+							"expanded_url": "https://twitter.com/sesokojima/status/999872650871631872/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 2048,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 1200,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 999872611545792500,
+							"id_str": "999872611545792512",
+							"indices": [
+								36,
+								59
+							],
+							"media_url": "http://pbs.twimg.com/media/DeBC17fUQAAe6gi.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DeBC17fUQAAe6gi.jpg",
+							"url": "https://t.co/WDhwZNeXxm",
+							"display_url": "pic.twitter.com/WDhwZNeXxm",
+							"expanded_url": "https://twitter.com/sesokojima/status/999872650871631872/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 2048,
+									"h": 2048,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 1200,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 96967903,
+					"id_str": "96967903",
+					"name": "セソコマサユキ",
+					"screen_name": "sesokojima",
+					"location": "tokyo →okinawa  ",
+					"description": "沖縄へ移住した編集者です。 著書「あたらしい沖縄旅行」「あたらしい離島旅行」「あたらしい北海道旅行」「あたらしい移住のカタチ」。企画・制作に 「みんなの沖縄」。カフェ、パン屋、おすすめスポットなど、沖縄での暮らしを綴ります。新刊「石垣 宮古 ストーリーのある島旅案内」。渋谷ヒカリエの次は、森道市場に参加しまーす。",
+					"url": "https://t.co/LV41wxFLpJ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/LV41wxFLpJ",
+									"expanded_url": "http://masayukisesoko.com",
+									"display_url": "masayukisesoko.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1434,
+					"friends_count": 357,
+					"listed_count": 29,
+					"created_at": "Tue Dec 15 12:02:46 +0000 2009",
+					"favourites_count": 97,
+					"utc_offset": 32400,
+					"time_zone": "Tokyo",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 2374,
+					"lang": "ja",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/838960307607252992/9ZhWG0xI_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/838960307607252992/9ZhWG0xI_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/96967903/1398240324",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 3,
+				"favorite_count": 20,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ja"
+			},
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 999872650871631900,
+		"quoted_status_id_str": "999872650871631872",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Fri May 25 05:36:13 +0000 2018",
+		"id": 999886837215780900,
+		"id_str": "999886837215780867",
+		"text": "RT @furaisou: 今日も快晴。日陰に入ると、爽やかな風が吹きぬけます。\n湿度もなく、気持ちが良いなぁ。\nでも、気掛かりな事が。。\n沖縄が梅雨入りをしてから2週間ほどになりますが、梅雨らしい日が、殆んどありません。\nダムの貯水率も50%を割っています。心配だなぁ\n今から…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "furaisou",
+					"name": "風来荘",
+					"id": 207791068,
+					"id_str": "207791068",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 596,
+			"friends_count": 495,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 1984,
+			"utc_offset": 32400,
+			"time_zone": "Tokyo",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16747,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 25 05:31:36 +0000 2018",
+			"id": 999885673149620200,
+			"id_str": "999885673149620225",
+			"text": "今日も快晴。日陰に入ると、爽やかな風が吹きぬけます。\n湿度もなく、気持ちが良いなぁ。\nでも、気掛かりな事が。。\n沖縄が梅雨入りをしてから2週間ほどになりますが、梅雨らしい日が、殆んどありません。\nダムの貯水率も50%を割っています… https://t.co/VLReqBbiPS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VLReqBbiPS",
+						"expanded_url": "https://twitter.com/i/web/status/999885673149620225",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 207791068,
+				"id_str": "207791068",
+				"name": "風来荘",
+				"screen_name": "furaisou",
+				"location": "沖縄県　今帰仁村",
+				"description": "13年前に鎌倉から沖縄へ。  。。                                           海のそばで『風来荘　fu-rai-sou』 と言う名の宿を営んでおります.朝食には国産小麦を使って焼き上げる自家製天然酵母パンとスープでほっこりと。。ゆったりとした沖縄時間をお楽しみ下さい。。",
+				"url": "http://t.co/q1DVIfauZK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/q1DVIfauZK",
+								"expanded_url": "http://www7.plala.or.jp/fu-rai-sou/",
+								"display_url": "www7.plala.or.jp/fu-rai-sou/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 592,
+				"friends_count": 272,
+				"listed_count": 14,
+				"created_at": "Tue Oct 26 01:28:07 +0000 2010",
+				"favourites_count": 1147,
+				"utc_offset": 32400,
+				"time_zone": "Tokyo",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1016,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/439958135634001921/P1j1yf6a_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/439958135634001921/P1j1yf6a_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/207791068/1398257915",
+				"profile_link_color": "256DD9",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "052e049119fd8da1",
+				"url": "https://api.twitter.com/1.1/geo/id/052e049119fd8da1.json",
+				"place_type": "admin",
+				"name": "沖縄",
+				"full_name": "日本 沖縄",
+				"country_code": "JP",
+				"country": "日本",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								122.933784,
+								24.045669
+							],
+							[
+								131.332071,
+								24.045669
+							],
+							[
+								131.332071,
+								27.095384
+							],
+							[
+								122.933784,
+								27.095384
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 12,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Thu May 24 23:51:50 +0000 2018",
 		"id": 999800168403812400,
 		"id_str": "999800168403812358",
