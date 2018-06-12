@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 11 05:45:46 +0000 2018",
+		"id": 1006049834518712300,
+		"id_str": "1006049834518712321",
+		"text": "RT @BARANEKO0409: 米軍嘉手納基地所属のＦ１５戦闘機が、那覇沖に墜落したことを受け、第３次嘉手納爆音訴訟原告団と沖縄平和運動センター、中部地区労は１２日正午すぎから北谷町砂辺の嘉手納基地第１ゲート前で緊急の抗議集会を開くことを決めた。 https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BARANEKO0409",
+					"name": "BARANEKO",
+					"id": 976478731026890800,
+					"id_str": "976478731026890752",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 595,
+			"friends_count": 494,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16756,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 11 05:36:52 +0000 2018",
+			"id": 1006047592776519700,
+			"id_str": "1006047592776519680",
+			"text": "米軍嘉手納基地所属のＦ１５戦闘機が、那覇沖に墜落したことを受け、第３次嘉手納爆音訴訟原告団と沖縄平和運動センター、中部地区労は１２日正午すぎから北谷町砂辺の嘉手納基地第１ゲート前で緊急の抗議集会を開くことを決めた。 https://t.co/HUXAvwnj3B",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1006047480184598500,
+						"id_str": "1006047480184598528",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DfYy2luUcAAEHQw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfYy2luUcAAEHQw.jpg",
+						"url": "https://t.co/HUXAvwnj3B",
+						"display_url": "pic.twitter.com/HUXAvwnj3B",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/1006047592776519680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1026,
+								"h": 1570,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 444,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 784,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1006047480184598500,
+						"id_str": "1006047480184598528",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DfYy2luUcAAEHQw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DfYy2luUcAAEHQw.jpg",
+						"url": "https://t.co/HUXAvwnj3B",
+						"display_url": "pic.twitter.com/HUXAvwnj3B",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/1006047592776519680/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1026,
+								"h": 1570,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 444,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 784,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 976478731026890800,
+				"id_str": "976478731026890752",
+				"name": "BARANEKO",
+				"screen_name": "BARANEKO0409",
+				"location": "",
+				"description": "ほぼ絶望しているまだ前期高齢者。 残された長くもない人生、ラジカルに生きるぞ。我が亡き後に洪水よ来たれ、だ。又は 前期高齢者の戯言。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 400,
+				"friends_count": 343,
+				"listed_count": 7,
+				"created_at": "Wed Mar 21 15:20:46 +0000 2018",
+				"favourites_count": 365,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4250,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1002147108806246401/Oklv0E1d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1002147108806246401/Oklv0E1d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/976478731026890752/1527765046",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Jun 11 00:34:01 +0000 2018",
+		"id": 1005971377671696400,
+		"id_str": "1005971377671696384",
+		"text": "RT @theokinawatimes: パイロット救助される　米軍F15、那覇沖で墜落 https://t.co/YAoG9NLMOh #米軍機事故 #米軍機墜落 #嘉手納基地 #okinawa #沖縄",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "米軍機事故",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "米軍機墜落",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "嘉手納基地",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "okinawa",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						99,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theokinawatimes",
+					"name": "沖縄タイムス",
+					"id": 118600653,
+					"id_str": "118600653",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YAoG9NLMOh",
+					"expanded_url": "https://goo.gl/wgJXQU",
+					"display_url": "goo.gl/wgJXQU",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 595,
+			"friends_count": 494,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16756,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 11 00:30:07 +0000 2018",
+			"id": 1005970398914142200,
+			"id_str": "1005970398914142209",
+			"text": "パイロット救助される　米軍F15、那覇沖で墜落 https://t.co/YAoG9NLMOh #米軍機事故 #米軍機墜落 #嘉手納基地 #okinawa #沖縄",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "米軍機事故",
+						"indices": [
+							48,
+							54
+						]
+					},
+					{
+						"text": "米軍機墜落",
+						"indices": [
+							55,
+							61
+						]
+					},
+					{
+						"text": "嘉手納基地",
+						"indices": [
+							62,
+							68
+						]
+					},
+					{
+						"text": "okinawa",
+						"indices": [
+							69,
+							77
+						]
+					},
+					{
+						"text": "沖縄",
+						"indices": [
+							78,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YAoG9NLMOh",
+						"expanded_url": "https://goo.gl/wgJXQU",
+						"display_url": "goo.gl/wgJXQU",
+						"indices": [
+							24,
+							47
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.okinawatimes.co.jp\" rel=\"nofollow\">沖縄タイムス社TweetBot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118600653,
+				"id_str": "118600653",
+				"name": "沖縄タイムス",
+				"screen_name": "theokinawatimes",
+				"location": "沖縄県那覇市",
+				"description": "沖縄、全国、世界の最新ニュースをつぶやきます。米軍基地などの政治問題から観光、芸能、グルメまで幅広く配信。",
+				"url": "http://t.co/MNvzHef3vO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MNvzHef3vO",
+								"expanded_url": "http://www.okinawatimes.co.jp",
+								"display_url": "okinawatimes.co.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 79610,
+				"friends_count": 196,
+				"listed_count": 3143,
+				"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+				"favourites_count": 3088,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 241748,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1523504889",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sat Jun 09 05:39:43 +0000 2018",
 		"id": 1005323536238403600,
 		"id_str": "1005323536238403584",
