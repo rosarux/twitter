@@ -1,6 +1,1435 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 23 08:51:48 +0000 2018",
+		"id": 1010445304158535700,
+		"id_str": "1010445304158535680",
+		"text": "오키나와 위령의 날.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 595,
+			"friends_count": 495,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16762,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Sat Jun 23 06:25:17 +0000 2018",
+		"id": 1010408433802043400,
+		"id_str": "1010408433802043393",
+		"text": "RT @yzjps: 翁長知事「辺野古に新基地をつくらせないという私の決意は、県民とともにあり、これからも微塵も揺らぐことはありません」沖縄・慰霊の日 https://t.co/pyCLZUFKKX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yzjps",
+					"name": "モリカケ王©！",
+					"id": 112722693,
+					"id_str": "112722693",
+					"indices": [
+						3,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1010365556443119600,
+					"id_str": "1010365556443119616",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1010365556443119616/pu/img/GJ5FApBiOO00fZ5g.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1010365556443119616/pu/img/GJ5FApBiOO00fZ5g.jpg",
+					"url": "https://t.co/pyCLZUFKKX",
+					"display_url": "pic.twitter.com/pyCLZUFKKX",
+					"expanded_url": "https://twitter.com/yzjps/status/1010365795090685953/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010365795090686000,
+					"source_status_id_str": "1010365795090685953",
+					"source_user_id": 112722693,
+					"source_user_id_str": "112722693"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1010365556443119600,
+					"id_str": "1010365556443119616",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1010365556443119616/pu/img/GJ5FApBiOO00fZ5g.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1010365556443119616/pu/img/GJ5FApBiOO00fZ5g.jpg",
+					"url": "https://t.co/pyCLZUFKKX",
+					"display_url": "pic.twitter.com/pyCLZUFKKX",
+					"expanded_url": "https://twitter.com/yzjps/status/1010365795090685953/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010365795090686000,
+					"source_status_id_str": "1010365795090685953",
+					"source_user_id": 112722693,
+					"source_user_id_str": "112722693",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16067,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1010365556443119616/pu/vid/320x180/0pTNZDy7RpAnykO5.mp4?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1010365556443119616/pu/vid/640x360/yjuQ9VOoM4vVIySc.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1010365556443119616/pu/pl/W93s0uLsDimH2eLW.m3u8?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 112722693,
+							"id_str": "112722693",
+							"name": "モリカケ王©！",
+							"screen_name": "yzjps",
+							"location": "Japan",
+							"description": "👑モリカケ王はんぱない！(笑)某国首相ではないですよォ～念のためw権力に溺れ三昧してますが何か？👑■ ■高プロ、参院いつでも可https://t.co/YP1HyWQyZj］",
+							"url": "https://t.co/uQZMp1HAAa",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/uQZMp1HAAa",
+											"expanded_url": "https://www.youtube.com/c/yzjps",
+											"display_url": "youtube.com/c/yzjps",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/YP1HyWQyZj",
+											"expanded_url": "https://www.youtube.com/user/iss2012/videoskSq5wbumovUaHU",
+											"display_url": "youtube.com/user/iss2012/v…",
+											"indices": [
+												63,
+												86
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 19958,
+							"friends_count": 12080,
+							"listed_count": 264,
+							"created_at": "Tue Feb 09 13:58:49 +0000 2010",
+							"favourites_count": 1460,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 35388,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FF6699",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/873985058897395714/Y06In0ej_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/873985058897395714/Y06In0ej_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/112722693/1513639606",
+							"profile_link_color": "91D2FA",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "E5507E",
+							"profile_text_color": "362720",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 595,
+			"friends_count": 495,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16762,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 23 03:35:51 +0000 2018",
+			"id": 1010365795090686000,
+			"id_str": "1010365795090685953",
+			"text": "翁長知事「辺野古に新基地をつくらせないという私の決意は、県民とともにあり、これからも微塵も揺らぐことはありません」沖縄・慰霊の日 https://t.co/pyCLZUFKKX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1010365556443119600,
+						"id_str": "1010365556443119616",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1010365556443119616/pu/img/GJ5FApBiOO00fZ5g.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1010365556443119616/pu/img/GJ5FApBiOO00fZ5g.jpg",
+						"url": "https://t.co/pyCLZUFKKX",
+						"display_url": "pic.twitter.com/pyCLZUFKKX",
+						"expanded_url": "https://twitter.com/yzjps/status/1010365795090685953/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1010365556443119600,
+						"id_str": "1010365556443119616",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1010365556443119616/pu/img/GJ5FApBiOO00fZ5g.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1010365556443119616/pu/img/GJ5FApBiOO00fZ5g.jpg",
+						"url": "https://t.co/pyCLZUFKKX",
+						"display_url": "pic.twitter.com/pyCLZUFKKX",
+						"expanded_url": "https://twitter.com/yzjps/status/1010365795090685953/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 16067,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1010365556443119616/pu/vid/320x180/0pTNZDy7RpAnykO5.mp4?tag=3"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1010365556443119616/pu/vid/640x360/yjuQ9VOoM4vVIySc.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1010365556443119616/pu/pl/W93s0uLsDimH2eLW.m3u8?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 112722693,
+				"id_str": "112722693",
+				"name": "モリカケ王©！",
+				"screen_name": "yzjps",
+				"location": "Japan",
+				"description": "👑モリカケ王はんぱない！(笑)某国首相ではないですよォ～念のためw権力に溺れ三昧してますが何か？👑■ ■高プロ、参院いつでも可https://t.co/YP1HyWQyZj］",
+				"url": "https://t.co/uQZMp1HAAa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uQZMp1HAAa",
+								"expanded_url": "https://www.youtube.com/c/yzjps",
+								"display_url": "youtube.com/c/yzjps",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/YP1HyWQyZj",
+								"expanded_url": "https://www.youtube.com/user/iss2012/videoskSq5wbumovUaHU",
+								"display_url": "youtube.com/user/iss2012/v…",
+								"indices": [
+									63,
+									86
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 19958,
+				"friends_count": 12080,
+				"listed_count": 264,
+				"created_at": "Tue Feb 09 13:58:49 +0000 2010",
+				"favourites_count": 1460,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35388,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/873985058897395714/Y06In0ej_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/873985058897395714/Y06In0ej_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/112722693/1513639606",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "E5507E",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2767,
+			"favorite_count": 3292,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2767,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Jun 23 06:25:08 +0000 2018",
+		"id": 1010408394220376000,
+		"id_str": "1010408394220376064",
+		"text": "RT @ryukyushimpo: 南洋墓参、来年最後に　群島帰還者会　高齢化で継続断念https://t.co/HJbddhm3p8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ryukyushimpo",
+					"name": "琉球新報",
+					"id": 15746839,
+					"id_str": "15746839",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HJbddhm3p8",
+					"expanded_url": "https://ift.tt/2Mf53cA",
+					"display_url": "ift.tt/2Mf53cA",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 595,
+			"friends_count": 495,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16762,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 23 06:08:21 +0000 2018",
+			"id": 1010404169621131300,
+			"id_str": "1010404169621131264",
+			"text": "南洋墓参、来年最後に　群島帰還者会　高齢化で継続断念https://t.co/HJbddhm3p8",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HJbddhm3p8",
+						"expanded_url": "https://ift.tt/2Mf53cA",
+						"display_url": "ift.tt/2Mf53cA",
+						"indices": [
+							26,
+							49
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15746839,
+				"id_str": "15746839",
+				"name": "琉球新報",
+				"screen_name": "ryukyushimpo",
+				"location": "沖縄県那覇市",
+				"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+				"url": "http://t.co/YUTPJoUc1k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YUTPJoUc1k",
+								"expanded_url": "http://ryukyushimpo.jp",
+								"display_url": "ryukyushimpo.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nFmlmocCxo",
+								"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+								"display_url": "facebook.com/ryukyushimpo/",
+								"indices": [
+									25,
+									48
+								]
+							},
+							{
+								"url": "https://t.co/6ry90YboVK",
+								"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+								"display_url": "line.me/R/ti/p/%40oa-r…",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 51954,
+				"friends_count": 6824,
+				"listed_count": 2647,
+				"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+				"favourites_count": 8165,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 99318,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFCCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "D3D920",
+				"profile_sidebar_fill_color": "FAFCC2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Jun 23 06:23:02 +0000 2018",
+		"id": 1010407866719584300,
+		"id_str": "1010407866719584256",
+		"text": "RT @_canayan: 綺麗なホテルやインスタ映えの観光地🌴\n73年前の面影も、今はアスファルトの下に。\n年に1度、唯一島中が祈りに包まれる日。\n\n今年は慰霊の日と共に梅雨明けです。\n悲しいほど青い海、パワーをくれる毎日よ太陽。\n\n今日の私は、南の島に向かって東京からウート…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_canayan",
+					"name": "かーなー@いーどぅし",
+					"id": 1191882884,
+					"id_str": "1191882884",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 595,
+			"friends_count": 495,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16762,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 23 02:17:42 +0000 2018",
+			"id": 1010346125788774400,
+			"id_str": "1010346125788774400",
+			"text": "綺麗なホテルやインスタ映えの観光地🌴\n73年前の面影も、今はアスファルトの下に。\n年に1度、唯一島中が祈りに包まれる日。\n\n今年は慰霊の日と共に梅雨明けです。\n悲しいほど青い海、パワーをくれる毎日よ太陽。\n\n今日の私は、南の島に向… https://t.co/TEOmQN4Ir6",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TEOmQN4Ir6",
+						"expanded_url": "https://twitter.com/i/web/status/1010346125788774400",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1191882884,
+				"id_str": "1191882884",
+				"name": "かーなー@いーどぅし",
+				"screen_name": "_canayan",
+				"location": "",
+				"description": "沖縄県産娘☺︎太陽と海と琉球芸能がすき。沢山の方に支えられて音楽してます。 お仕事の依頼は、メールにて宜しくお願いします。 💌cana@i-dushi.com",
+				"url": "https://t.co/lBpI9ciH0g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lBpI9ciH0g",
+								"expanded_url": "https://www.youtube.com/user/canakana17",
+								"display_url": "youtube.com/user/canakana17",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13054,
+				"friends_count": 371,
+				"listed_count": 37,
+				"created_at": "Mon Feb 18 03:11:04 +0000 2013",
+				"favourites_count": 8871,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18564,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1003223080863272961/q7xpvgDL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1003223080863272961/q7xpvgDL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1191882884/1513094202",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 171,
+			"favorite_count": 641,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 171,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Sat Jun 23 06:20:49 +0000 2018",
+		"id": 1010407308185096200,
+		"id_str": "1010407308185096193",
+		"text": "RT @yakyu824: 沖縄全戦没者追悼式\n平和の詩 ｢生きる！｣\n相良倫子さん\n\n沖縄戦を知らない皆さんへ届け https://t.co/7ABYrafmAB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yakyu824",
+					"name": "彩耶。",
+					"id": 3102798704,
+					"id_str": "3102798704",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1010367613757583400,
+					"id_str": "1010367613757583360",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1010367613757583360/pu/img/8b8XyMXKQhLIOh98.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1010367613757583360/pu/img/8b8XyMXKQhLIOh98.jpg",
+					"url": "https://t.co/7ABYrafmAB",
+					"display_url": "pic.twitter.com/7ABYrafmAB",
+					"expanded_url": "https://twitter.com/yakyu824/status/1010367775003500544/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010367775003500500,
+					"source_status_id_str": "1010367775003500544",
+					"source_user_id": 3102798704,
+					"source_user_id_str": "3102798704"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1010367613757583400,
+					"id_str": "1010367613757583360",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1010367613757583360/pu/img/8b8XyMXKQhLIOh98.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1010367613757583360/pu/img/8b8XyMXKQhLIOh98.jpg",
+					"url": "https://t.co/7ABYrafmAB",
+					"display_url": "pic.twitter.com/7ABYrafmAB",
+					"expanded_url": "https://twitter.com/yakyu824/status/1010367775003500544/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010367775003500500,
+					"source_status_id_str": "1010367775003500544",
+					"source_user_id": 3102798704,
+					"source_user_id_str": "3102798704",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1010367613757583360/pu/vid/640x360/zZwbR9wQACy5mwdX.mp4?tag=3"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1010367613757583360/pu/vid/1280x720/0dDaaXgbK1Gr0CSw.mp4?tag=3"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1010367613757583360/pu/vid/320x180/tA2h96G4cF49kUmN.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1010367613757583360/pu/pl/tC4AFwmHgozPIvtC.m3u8?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3102798704,
+							"id_str": "3102798704",
+							"name": "彩耶。",
+							"screen_name": "yakyu824",
+							"location": "",
+							"description": "沖縄の野球が好きです。",
+							"url": "https://t.co/93yo5FDVbF",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/93yo5FDVbF",
+											"expanded_url": "http://Instagram.com/go.koshien",
+											"display_url": "Instagram.com/go.koshien",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 329,
+							"friends_count": 217,
+							"listed_count": 1,
+							"created_at": "Sun Mar 22 07:25:42 +0000 2015",
+							"favourites_count": 442,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 906,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/893729967787327488/TcrSZMJe_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/893729967787327488/TcrSZMJe_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3102798704/1502580890",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 595,
+			"friends_count": 495,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16762,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 23 03:43:43 +0000 2018",
+			"id": 1010367775003500500,
+			"id_str": "1010367775003500544",
+			"text": "沖縄全戦没者追悼式\n平和の詩 ｢生きる！｣\n相良倫子さん\n\n沖縄戦を知らない皆さんへ届け https://t.co/7ABYrafmAB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1010367613757583400,
+						"id_str": "1010367613757583360",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1010367613757583360/pu/img/8b8XyMXKQhLIOh98.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1010367613757583360/pu/img/8b8XyMXKQhLIOh98.jpg",
+						"url": "https://t.co/7ABYrafmAB",
+						"display_url": "pic.twitter.com/7ABYrafmAB",
+						"expanded_url": "https://twitter.com/yakyu824/status/1010367775003500544/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1010367613757583400,
+						"id_str": "1010367613757583360",
+						"indices": [
+							45,
+							68
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1010367613757583360/pu/img/8b8XyMXKQhLIOh98.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1010367613757583360/pu/img/8b8XyMXKQhLIOh98.jpg",
+						"url": "https://t.co/7ABYrafmAB",
+						"display_url": "pic.twitter.com/7ABYrafmAB",
+						"expanded_url": "https://twitter.com/yakyu824/status/1010367775003500544/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1010367613757583360/pu/vid/640x360/zZwbR9wQACy5mwdX.mp4?tag=3"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1010367613757583360/pu/vid/1280x720/0dDaaXgbK1Gr0CSw.mp4?tag=3"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1010367613757583360/pu/vid/320x180/tA2h96G4cF49kUmN.mp4?tag=3"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1010367613757583360/pu/pl/tC4AFwmHgozPIvtC.m3u8?tag=3"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3102798704,
+				"id_str": "3102798704",
+				"name": "彩耶。",
+				"screen_name": "yakyu824",
+				"location": "",
+				"description": "沖縄の野球が好きです。",
+				"url": "https://t.co/93yo5FDVbF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/93yo5FDVbF",
+								"expanded_url": "http://Instagram.com/go.koshien",
+								"display_url": "Instagram.com/go.koshien",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 329,
+				"friends_count": 217,
+				"listed_count": 1,
+				"created_at": "Sun Mar 22 07:25:42 +0000 2015",
+				"favourites_count": 442,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 906,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/893729967787327488/TcrSZMJe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/893729967787327488/TcrSZMJe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3102798704/1502580890",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2383,
+			"favorite_count": 3548,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2383,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Thu Jun 21 08:44:08 +0000 2018",
 		"id": 1009718598070222800,
 		"id_str": "1009718598070222849",
