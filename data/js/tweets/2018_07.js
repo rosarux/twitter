@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Thu Jul 05 04:58:52 +0000 2018",
+		"id": 1014735341511512000,
+		"id_str": "1014735341511512065",
+		"text": "RT @zaki_3_0257: 台風前日の空ってすごい https://t.co/RsDXCbCmOh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zaki_3_0257",
+					"name": "ざきphoto",
+					"id": 952429738064191500,
+					"id_str": "952429738064191488",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1014064024663683100,
+					"id_str": "1014064024663683072",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/DhKt25GU8AA8A4X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhKt25GU8AA8A4X.jpg",
+					"url": "https://t.co/RsDXCbCmOh",
+					"display_url": "pic.twitter.com/RsDXCbCmOh",
+					"expanded_url": "https://twitter.com/zaki_3_0257/status/1014064031651454978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014064031651455000,
+					"source_status_id_str": "1014064031651454978",
+					"source_user_id": 952429738064191500,
+					"source_user_id_str": "952429738064191488"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1014064024663683100,
+					"id_str": "1014064024663683072",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/DhKt25GU8AA8A4X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhKt25GU8AA8A4X.jpg",
+					"url": "https://t.co/RsDXCbCmOh",
+					"display_url": "pic.twitter.com/RsDXCbCmOh",
+					"expanded_url": "https://twitter.com/zaki_3_0257/status/1014064031651454978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1014064031651455000,
+					"source_status_id_str": "1014064031651454978",
+					"source_user_id": 952429738064191500,
+					"source_user_id_str": "952429738064191488"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 593,
+			"friends_count": 495,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16779,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jul 03 08:31:20 +0000 2018",
+			"id": 1014064031651455000,
+			"id_str": "1014064031651454978",
+			"text": "台風前日の空ってすごい https://t.co/RsDXCbCmOh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1014064024663683100,
+						"id_str": "1014064024663683072",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/DhKt25GU8AA8A4X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhKt25GU8AA8A4X.jpg",
+						"url": "https://t.co/RsDXCbCmOh",
+						"display_url": "pic.twitter.com/RsDXCbCmOh",
+						"expanded_url": "https://twitter.com/zaki_3_0257/status/1014064031651454978/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1014064024663683100,
+						"id_str": "1014064024663683072",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/media/DhKt25GU8AA8A4X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhKt25GU8AA8A4X.jpg",
+						"url": "https://t.co/RsDXCbCmOh",
+						"display_url": "pic.twitter.com/RsDXCbCmOh",
+						"expanded_url": "https://twitter.com/zaki_3_0257/status/1014064031651454978/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 952429738064191500,
+				"id_str": "952429738064191488",
+				"name": "ざきphoto",
+				"screen_name": "zaki_3_0257",
+				"location": "",
+				"description": "趣味で写真を撮っています / 自然が大好きです / 写真を貼るように作りました / 星、夕陽、海などよく撮ります https://t.co/InPrswjJbz",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/InPrswjJbz",
+								"expanded_url": "http://Instagram.com/zaki_3_0257",
+								"display_url": "Instagram.com/zaki_3_0257",
+								"indices": [
+									57,
+									80
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18916,
+				"friends_count": 213,
+				"listed_count": 63,
+				"created_at": "Sun Jan 14 06:38:39 +0000 2018",
+				"favourites_count": 404,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 297,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1001320544329809920/8X-FWx6l_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001320544329809920/8X-FWx6l_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/952429738064191488/1530800905",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 95053,
+			"favorite_count": 457237,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 95053,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Wed Jul 04 09:19:03 +0000 2018",
 		"id": 1014438428572672000,
 		"id_str": "1014438428572672001",
