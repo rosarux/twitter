@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Mon Jul 09 05:41:21 +0000 2018",
+		"id": 1016195583093010400,
+		"id_str": "1016195583093010432",
+		"text": "RT @jbbajb: ええっ https://t.co/wpRvl1giQv",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jbbajb",
+					"name": "jb",
+					"id": 1792495627,
+					"id_str": "1792495627",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1015946231120457700,
+					"id_str": "1015946231120457728",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/DhldtujU8AA_SyR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhldtujU8AA_SyR.jpg",
+					"url": "https://t.co/wpRvl1giQv",
+					"display_url": "pic.twitter.com/wpRvl1giQv",
+					"expanded_url": "https://twitter.com/jbbajb/status/1015946232714235904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 839,
+							"h": 978,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 839,
+							"h": 978,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015946232714235900,
+					"source_status_id_str": "1015946232714235904",
+					"source_user_id": 1792495627,
+					"source_user_id_str": "1792495627"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1015946231120457700,
+					"id_str": "1015946231120457728",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/DhldtujU8AA_SyR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DhldtujU8AA_SyR.jpg",
+					"url": "https://t.co/wpRvl1giQv",
+					"display_url": "pic.twitter.com/wpRvl1giQv",
+					"expanded_url": "https://twitter.com/jbbajb/status/1015946232714235904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 839,
+							"h": 978,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 839,
+							"h": 978,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 583,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1015946232714235900,
+					"source_status_id_str": "1015946232714235904",
+					"source_user_id": 1792495627,
+					"source_user_id_str": "1792495627"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 495,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16779,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 08 13:10:31 +0000 2018",
+			"id": 1015946232714235900,
+			"id_str": "1015946232714235904",
+			"text": "ええっ https://t.co/wpRvl1giQv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1015946231120457700,
+						"id_str": "1015946231120457728",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/media/DhldtujU8AA_SyR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhldtujU8AA_SyR.jpg",
+						"url": "https://t.co/wpRvl1giQv",
+						"display_url": "pic.twitter.com/wpRvl1giQv",
+						"expanded_url": "https://twitter.com/jbbajb/status/1015946232714235904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 839,
+								"h": 978,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 839,
+								"h": 978,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 583,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1015946231120457700,
+						"id_str": "1015946231120457728",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/media/DhldtujU8AA_SyR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DhldtujU8AA_SyR.jpg",
+						"url": "https://t.co/wpRvl1giQv",
+						"display_url": "pic.twitter.com/wpRvl1giQv",
+						"expanded_url": "https://twitter.com/jbbajb/status/1015946232714235904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 839,
+								"h": 978,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 839,
+								"h": 978,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 583,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1792495627,
+				"id_str": "1792495627",
+				"name": "jb",
+				"screen_name": "jbbajb",
+				"location": "",
+				"description": "プロフィールは嫌い。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4811,
+				"friends_count": 4767,
+				"listed_count": 48,
+				"created_at": "Sun Sep 08 00:52:05 +0000 2013",
+				"favourites_count": 117341,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 343042,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/834931513795883008/EtTzWObp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/834931513795883008/EtTzWObp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1792495627/1525266803",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3197,
+			"favorite_count": 1920,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3197,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Thu Jul 05 04:58:52 +0000 2018",
 		"id": 1014735341511512000,
 		"id_str": "1014735341511512065",
