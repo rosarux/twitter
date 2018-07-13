@@ -1,6 +1,336 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Thu Jul 12 13:41:02 +0000 2018",
+		"id": 1017403461158072300,
+		"id_str": "1017403461158072320",
+		"text": "RT @gn_mas: 최저임금 다툼으로 을-을 갈등 만들지 말고 일본처럼 가맹점 노동조합 만들어서 대기업 본사와 교섭하고 투쟁합시다! 하지만 어렵겠지... https://t.co/15gkTvXJEs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gn_mas",
+					"name": "pursued,S",
+					"id": 277808854,
+					"id_str": "277808854",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1017375308037554200,
+					"id_str": "1017375308037554176",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/Dh5xc87VAAA2KMN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dh5xc87VAAA2KMN.jpg",
+					"url": "https://t.co/15gkTvXJEs",
+					"display_url": "pic.twitter.com/15gkTvXJEs",
+					"expanded_url": "https://twitter.com/gn_mas/status/1017375320389791744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 559,
+							"h": 852,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 559,
+							"h": 852,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1017375320389791700,
+					"source_status_id_str": "1017375320389791744",
+					"source_user_id": 277808854,
+					"source_user_id_str": "277808854"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1017375308037554200,
+					"id_str": "1017375308037554176",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/Dh5xc87VAAA2KMN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dh5xc87VAAA2KMN.jpg",
+					"url": "https://t.co/15gkTvXJEs",
+					"display_url": "pic.twitter.com/15gkTvXJEs",
+					"expanded_url": "https://twitter.com/gn_mas/status/1017375320389791744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 559,
+							"h": 852,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 559,
+							"h": 852,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1017375320389791700,
+					"source_status_id_str": "1017375320389791744",
+					"source_user_id": 277808854,
+					"source_user_id_str": "277808854"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 595,
+			"friends_count": 493,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16780,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 12 11:49:12 +0000 2018",
+			"id": 1017375320389791700,
+			"id_str": "1017375320389791744",
+			"text": "최저임금 다툼으로 을-을 갈등 만들지 말고 일본처럼 가맹점 노동조합 만들어서 대기업 본사와 교섭하고 투쟁합시다! 하지만 어렵겠지... https://t.co/15gkTvXJEs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1017375308037554200,
+						"id_str": "1017375308037554176",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/Dh5xc87VAAA2KMN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dh5xc87VAAA2KMN.jpg",
+						"url": "https://t.co/15gkTvXJEs",
+						"display_url": "pic.twitter.com/15gkTvXJEs",
+						"expanded_url": "https://twitter.com/gn_mas/status/1017375320389791744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 559,
+								"h": 852,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 446,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 559,
+								"h": 852,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1017375308037554200,
+						"id_str": "1017375308037554176",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/Dh5xc87VAAA2KMN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dh5xc87VAAA2KMN.jpg",
+						"url": "https://t.co/15gkTvXJEs",
+						"display_url": "pic.twitter.com/15gkTvXJEs",
+						"expanded_url": "https://twitter.com/gn_mas/status/1017375320389791744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 559,
+								"h": 852,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 446,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 559,
+								"h": 852,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1017261196976664600,
+			"in_reply_to_status_id_str": "1017261196976664576",
+			"in_reply_to_user_id": 277808854,
+			"in_reply_to_user_id_str": "277808854",
+			"in_reply_to_screen_name": "gn_mas",
+			"user": {
+				"id": 277808854,
+				"id_str": "277808854",
+				"name": "pursued,S",
+				"screen_name": "gn_mas",
+				"location": "",
+				"description": "사람살려",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3493,
+				"friends_count": 646,
+				"listed_count": 121,
+				"created_at": "Wed Apr 06 02:30:56 +0000 2011",
+				"favourites_count": 191,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13370,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/996015023540420608/N0MHbkaf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/996015023540420608/N0MHbkaf_normal.jpg",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 140,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": false,
+		"retweet_count": 140,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Jul 09 05:41:21 +0000 2018",
 		"id": 1016195583093010400,
 		"id_str": "1016195583093010432",
