@@ -1,6 +1,1713 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Mon Aug 13 06:09:38 +0000 2018",
+		"id": 1028886275271491600,
+		"id_str": "1028886275271491584",
+		"text": "RT @theokinawatimes: 翁長知事に「ご苦労様」「ありがとう」　県庁・市役所に多くの県民 https://t.co/MWltE5Ch6n #翁長雄志 #翁長知事死去 #okinawa #沖縄",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "翁長雄志",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "翁長知事死去",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "okinawa",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						100,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theokinawatimes",
+					"name": "沖縄タイムス",
+					"id": 118600653,
+					"id_str": "118600653",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MWltE5Ch6n",
+					"expanded_url": "https://goo.gl/fGZhE8",
+					"display_url": "goo.gl/fGZhE8",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 591,
+			"friends_count": 490,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16831,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 13 05:46:00 +0000 2018",
+			"id": 1028880326343315500,
+			"id_str": "1028880326343315456",
+			"text": "翁長知事に「ご苦労様」「ありがとう」　県庁・市役所に多くの県民 https://t.co/MWltE5Ch6n #翁長雄志 #翁長知事死去 #okinawa #沖縄",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "翁長雄志",
+						"indices": [
+							56,
+							61
+						]
+					},
+					{
+						"text": "翁長知事死去",
+						"indices": [
+							62,
+							69
+						]
+					},
+					{
+						"text": "okinawa",
+						"indices": [
+							70,
+							78
+						]
+					},
+					{
+						"text": "沖縄",
+						"indices": [
+							79,
+							82
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MWltE5Ch6n",
+						"expanded_url": "https://goo.gl/fGZhE8",
+						"display_url": "goo.gl/fGZhE8",
+						"indices": [
+							32,
+							55
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.okinawatimes.co.jp\" rel=\"nofollow\">沖縄タイムス社TweetBot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118600653,
+				"id_str": "118600653",
+				"name": "沖縄タイムス",
+				"screen_name": "theokinawatimes",
+				"location": "沖縄県那覇市",
+				"description": "沖縄、全国、世界の最新ニュースをつぶやきます。米軍基地などの政治問題から観光、芸能、グルメまで幅広く配信。",
+				"url": "http://t.co/MNvzHef3vO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MNvzHef3vO",
+								"expanded_url": "http://www.okinawatimes.co.jp",
+								"display_url": "okinawatimes.co.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 79892,
+				"friends_count": 197,
+				"listed_count": 3162,
+				"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+				"favourites_count": 3153,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 256380,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1532426909",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 362,
+			"favorite_count": 444,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 362,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Aug 13 02:26:20 +0000 2018",
+		"id": 1028830078614962200,
+		"id_str": "1028830078614962177",
+		"text": "RT @BARANEKO0409: 翁長知事「追悼」関連記事\n琉球新報\n③ https://t.co/iDU0lFE101",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BARANEKO0409",
+					"name": "BARANEKO",
+					"id": 976478731026890800,
+					"id_str": "976478731026890752",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1028828975450058800,
+					"id_str": "1028828975450058753",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DkcigJBUcAEjPo6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkcigJBUcAEjPo6.jpg",
+					"url": "https://t.co/iDU0lFE101",
+					"display_url": "pic.twitter.com/iDU0lFE101",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1028829246532141056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 300,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 529,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 1670,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1028829246532141000,
+					"source_status_id_str": "1028829246532141056",
+					"source_user_id": 976478731026890800,
+					"source_user_id_str": "976478731026890752"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1028828975450058800,
+					"id_str": "1028828975450058753",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DkcigJBUcAEjPo6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkcigJBUcAEjPo6.jpg",
+					"url": "https://t.co/iDU0lFE101",
+					"display_url": "pic.twitter.com/iDU0lFE101",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1028829246532141056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 300,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 529,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 1670,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1028829246532141000,
+					"source_status_id_str": "1028829246532141056",
+					"source_user_id": 976478731026890800,
+					"source_user_id_str": "976478731026890752"
+				},
+				{
+					"id": 1028829159202517000,
+					"id_str": "1028829159202516992",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Dkciq1jUcAATnCk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dkciq1jUcAATnCk.jpg",
+					"url": "https://t.co/iDU0lFE101",
+					"display_url": "pic.twitter.com/iDU0lFE101",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1028829246532141056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 364,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 984,
+							"h": 1836,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 643,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1028829246532141000,
+					"source_status_id_str": "1028829246532141056",
+					"source_user_id": 976478731026890800,
+					"source_user_id_str": "976478731026890752"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 591,
+			"friends_count": 490,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16831,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 13 02:23:01 +0000 2018",
+			"id": 1028829246532141000,
+			"id_str": "1028829246532141056",
+			"text": "翁長知事「追悼」関連記事\n琉球新報\n③ https://t.co/iDU0lFE101",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1028828975450058800,
+						"id_str": "1028828975450058753",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DkcigJBUcAEjPo6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkcigJBUcAEjPo6.jpg",
+						"url": "https://t.co/iDU0lFE101",
+						"display_url": "pic.twitter.com/iDU0lFE101",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/1028829246532141056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 300,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 529,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 736,
+								"h": 1670,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1028828975450058800,
+						"id_str": "1028828975450058753",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DkcigJBUcAEjPo6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkcigJBUcAEjPo6.jpg",
+						"url": "https://t.co/iDU0lFE101",
+						"display_url": "pic.twitter.com/iDU0lFE101",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/1028829246532141056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 300,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 529,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 736,
+								"h": 1670,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1028829159202517000,
+						"id_str": "1028829159202516992",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/Dkciq1jUcAATnCk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dkciq1jUcAATnCk.jpg",
+						"url": "https://t.co/iDU0lFE101",
+						"display_url": "pic.twitter.com/iDU0lFE101",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/1028829246532141056/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 364,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 984,
+								"h": 1836,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 643,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1028828811213717500,
+			"in_reply_to_status_id_str": "1028828811213717504",
+			"in_reply_to_user_id": 976478731026890800,
+			"in_reply_to_user_id_str": "976478731026890752",
+			"in_reply_to_screen_name": "BARANEKO0409",
+			"user": {
+				"id": 976478731026890800,
+				"id_str": "976478731026890752",
+				"name": "BARANEKO",
+				"screen_name": "BARANEKO0409",
+				"location": "",
+				"description": "前期高齢者の 戯れ言、タワゴト、世迷いごと。（みたいなもの） アイコンはムンクの「吸血鬼」。天皇制・死刑・オリンピックに反対しないリベラルや左派は信用しない。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 672,
+				"friends_count": 377,
+				"listed_count": 14,
+				"created_at": "Wed Mar 21 15:20:46 +0000 2018",
+				"favourites_count": 926,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8371,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1018975507205902336/oMc504bj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1018975507205902336/oMc504bj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/976478731026890752/1534066750",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Aug 13 02:26:17 +0000 2018",
+		"id": 1028830066438942700,
+		"id_str": "1028830066438942722",
+		"text": "RT @BARANEKO0409: 翁長知事「追悼」関連記事\n琉球新報\n② https://t.co/umuCLZgH1y",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BARANEKO0409",
+					"name": "BARANEKO",
+					"id": 976478731026890800,
+					"id_str": "976478731026890752",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1028828596054286300,
+					"id_str": "1028828596054286336",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DkciKDqUYAAyVD_.png",
+					"media_url_https": "https://pbs.twimg.com/media/DkciKDqUYAAyVD_.png",
+					"url": "https://t.co/umuCLZgH1y",
+					"display_url": "pic.twitter.com/umuCLZgH1y",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828811213717504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 592,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1596,
+							"h": 1834,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1044,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 1028828811213717500,
+					"source_status_id_str": "1028828811213717504",
+					"source_user_id": 976478731026890800,
+					"source_user_id_str": "976478731026890752"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1028828596054286300,
+					"id_str": "1028828596054286336",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DkciKDqUYAAyVD_.png",
+					"media_url_https": "https://pbs.twimg.com/media/DkciKDqUYAAyVD_.png",
+					"url": "https://t.co/umuCLZgH1y",
+					"display_url": "pic.twitter.com/umuCLZgH1y",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828811213717504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 592,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1596,
+							"h": 1834,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1044,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 1028828811213717500,
+					"source_status_id_str": "1028828811213717504",
+					"source_user_id": 976478731026890800,
+					"source_user_id_str": "976478731026890752"
+				},
+				{
+					"id": 1028828726505558000,
+					"id_str": "1028828726505558016",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DkciRpoU0AAJtoE.png",
+					"media_url_https": "https://pbs.twimg.com/media/DkciRpoU0AAJtoE.png",
+					"url": "https://t.co/umuCLZgH1y",
+					"display_url": "pic.twitter.com/umuCLZgH1y",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828811213717504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1166,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1568,
+							"h": 1524,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 661,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1028828811213717500,
+					"source_status_id_str": "1028828811213717504",
+					"source_user_id": 976478731026890800,
+					"source_user_id_str": "976478731026890752"
+				},
+				{
+					"id": 1028828775214067700,
+					"id_str": "1028828775214067712",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DkciUfFVsAABFDN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkciUfFVsAABFDN.jpg",
+					"url": "https://t.co/umuCLZgH1y",
+					"display_url": "pic.twitter.com/umuCLZgH1y",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828811213717504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1460,
+							"h": 1820,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 963,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1028828811213717500,
+					"source_status_id_str": "1028828811213717504",
+					"source_user_id": 976478731026890800,
+					"source_user_id_str": "976478731026890752"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 591,
+			"friends_count": 490,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16831,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 13 02:21:17 +0000 2018",
+			"id": 1028828811213717500,
+			"id_str": "1028828811213717504",
+			"text": "翁長知事「追悼」関連記事\n琉球新報\n② https://t.co/umuCLZgH1y",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1028828596054286300,
+						"id_str": "1028828596054286336",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DkciKDqUYAAyVD_.png",
+						"media_url_https": "https://pbs.twimg.com/media/DkciKDqUYAAyVD_.png",
+						"url": "https://t.co/umuCLZgH1y",
+						"display_url": "pic.twitter.com/umuCLZgH1y",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828811213717504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 592,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1596,
+								"h": 1834,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1044,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1028828596054286300,
+						"id_str": "1028828596054286336",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DkciKDqUYAAyVD_.png",
+						"media_url_https": "https://pbs.twimg.com/media/DkciKDqUYAAyVD_.png",
+						"url": "https://t.co/umuCLZgH1y",
+						"display_url": "pic.twitter.com/umuCLZgH1y",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828811213717504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 592,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1596,
+								"h": 1834,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1044,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1028828726505558000,
+						"id_str": "1028828726505558016",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DkciRpoU0AAJtoE.png",
+						"media_url_https": "https://pbs.twimg.com/media/DkciRpoU0AAJtoE.png",
+						"url": "https://t.co/umuCLZgH1y",
+						"display_url": "pic.twitter.com/umuCLZgH1y",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828811213717504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1166,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1568,
+								"h": 1524,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 661,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1028828775214067700,
+						"id_str": "1028828775214067712",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DkciUfFVsAABFDN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkciUfFVsAABFDN.jpg",
+						"url": "https://t.co/umuCLZgH1y",
+						"display_url": "pic.twitter.com/umuCLZgH1y",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828811213717504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 545,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1460,
+								"h": 1820,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 963,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1028828366017679400,
+			"in_reply_to_status_id_str": "1028828366017679361",
+			"in_reply_to_user_id": 976478731026890800,
+			"in_reply_to_user_id_str": "976478731026890752",
+			"in_reply_to_screen_name": "BARANEKO0409",
+			"user": {
+				"id": 976478731026890800,
+				"id_str": "976478731026890752",
+				"name": "BARANEKO",
+				"screen_name": "BARANEKO0409",
+				"location": "",
+				"description": "前期高齢者の 戯れ言、タワゴト、世迷いごと。（みたいなもの） アイコンはムンクの「吸血鬼」。天皇制・死刑・オリンピックに反対しないリベラルや左派は信用しない。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 672,
+				"friends_count": 377,
+				"listed_count": 14,
+				"created_at": "Wed Mar 21 15:20:46 +0000 2018",
+				"favourites_count": 926,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8371,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1018975507205902336/oMc504bj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1018975507205902336/oMc504bj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/976478731026890752/1534066750",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Mon Aug 13 02:26:14 +0000 2018",
+		"id": 1028830054199873500,
+		"id_str": "1028830054199873536",
+		"text": "RT @BARANEKO0409: 翁長知事「追悼」関連記事\n琉球新報\n① https://t.co/p6IVD8oZMq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BARANEKO0409",
+					"name": "BARANEKO",
+					"id": 976478731026890800,
+					"id_str": "976478731026890752",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1028828047674236900,
+					"id_str": "1028828047674236929",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DkchqIyU4AEsgj-.png",
+					"media_url_https": "https://pbs.twimg.com/media/DkchqIyU4AEsgj-.png",
+					"url": "https://t.co/p6IVD8oZMq",
+					"display_url": "pic.twitter.com/p6IVD8oZMq",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828366017679361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 621,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 918,
+							"h": 1774,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 352,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 1028828366017679400,
+					"source_status_id_str": "1028828366017679361",
+					"source_user_id": 976478731026890800,
+					"source_user_id_str": "976478731026890752"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1028828047674236900,
+					"id_str": "1028828047674236929",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DkchqIyU4AEsgj-.png",
+					"media_url_https": "https://pbs.twimg.com/media/DkchqIyU4AEsgj-.png",
+					"url": "https://t.co/p6IVD8oZMq",
+					"display_url": "pic.twitter.com/p6IVD8oZMq",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828366017679361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 621,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 918,
+							"h": 1774,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 352,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 1028828366017679400,
+					"source_status_id_str": "1028828366017679361",
+					"source_user_id": 976478731026890800,
+					"source_user_id_str": "976478731026890752"
+				},
+				{
+					"id": 1028828079127285800,
+					"id_str": "1028828079127285760",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Dkchr99UUAAtHjS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dkchr99UUAAtHjS.jpg",
+					"url": "https://t.co/p6IVD8oZMq",
+					"display_url": "pic.twitter.com/p6IVD8oZMq",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828366017679361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1936,
+							"h": 728,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 451,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1028828366017679400,
+					"source_status_id_str": "1028828366017679361",
+					"source_user_id": 976478731026890800,
+					"source_user_id_str": "976478731026890752"
+				},
+				{
+					"id": 1028828152770904000,
+					"id_str": "1028828152770904064",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/DkchwQTUwAAjjkR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DkchwQTUwAAjjkR.jpg",
+					"url": "https://t.co/p6IVD8oZMq",
+					"display_url": "pic.twitter.com/p6IVD8oZMq",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828366017679361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 492,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1008,
+							"h": 1392,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 869,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1028828366017679400,
+					"source_status_id_str": "1028828366017679361",
+					"source_user_id": 976478731026890800,
+					"source_user_id_str": "976478731026890752"
+				},
+				{
+					"id": 1028828328793321500,
+					"id_str": "1028828328793321472",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/Dkch6gCVsAAcT_H.png",
+					"media_url_https": "https://pbs.twimg.com/media/Dkch6gCVsAAcT_H.png",
+					"url": "https://t.co/p6IVD8oZMq",
+					"display_url": "pic.twitter.com/p6IVD8oZMq",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828366017679361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1788,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 594,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1028828366017679400,
+					"source_status_id_str": "1028828366017679361",
+					"source_user_id": 976478731026890800,
+					"source_user_id_str": "976478731026890752"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 591,
+			"friends_count": 490,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16831,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 13 02:19:31 +0000 2018",
+			"id": 1028828366017679400,
+			"id_str": "1028828366017679361",
+			"text": "翁長知事「追悼」関連記事\n琉球新報\n① https://t.co/p6IVD8oZMq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1028828047674236900,
+						"id_str": "1028828047674236929",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DkchqIyU4AEsgj-.png",
+						"media_url_https": "https://pbs.twimg.com/media/DkchqIyU4AEsgj-.png",
+						"url": "https://t.co/p6IVD8oZMq",
+						"display_url": "pic.twitter.com/p6IVD8oZMq",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828366017679361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 621,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 918,
+								"h": 1774,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 352,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1028828047674236900,
+						"id_str": "1028828047674236929",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DkchqIyU4AEsgj-.png",
+						"media_url_https": "https://pbs.twimg.com/media/DkchqIyU4AEsgj-.png",
+						"url": "https://t.co/p6IVD8oZMq",
+						"display_url": "pic.twitter.com/p6IVD8oZMq",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828366017679361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 621,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 918,
+								"h": 1774,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 352,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1028828079127285800,
+						"id_str": "1028828079127285760",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/Dkchr99UUAAtHjS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dkchr99UUAAtHjS.jpg",
+						"url": "https://t.co/p6IVD8oZMq",
+						"display_url": "pic.twitter.com/p6IVD8oZMq",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828366017679361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1936,
+								"h": 728,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 256,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 451,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1028828152770904000,
+						"id_str": "1028828152770904064",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/DkchwQTUwAAjjkR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DkchwQTUwAAjjkR.jpg",
+						"url": "https://t.co/p6IVD8oZMq",
+						"display_url": "pic.twitter.com/p6IVD8oZMq",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828366017679361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 492,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1008,
+								"h": 1392,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 869,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1028828328793321500,
+						"id_str": "1028828328793321472",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/media/Dkch6gCVsAAcT_H.png",
+						"media_url_https": "https://pbs.twimg.com/media/Dkch6gCVsAAcT_H.png",
+						"url": "https://t.co/p6IVD8oZMq",
+						"display_url": "pic.twitter.com/p6IVD8oZMq",
+						"expanded_url": "https://twitter.com/BARANEKO0409/status/1028828366017679361/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1788,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 594,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 976478731026890800,
+				"id_str": "976478731026890752",
+				"name": "BARANEKO",
+				"screen_name": "BARANEKO0409",
+				"location": "",
+				"description": "前期高齢者の 戯れ言、タワゴト、世迷いごと。（みたいなもの） アイコンはムンクの「吸血鬼」。天皇制・死刑・オリンピックに反対しないリベラルや左派は信用しない。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 672,
+				"friends_count": 377,
+				"listed_count": 14,
+				"created_at": "Wed Mar 21 15:20:46 +0000 2018",
+				"favourites_count": 926,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8371,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1018975507205902336/oMc504bj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1018975507205902336/oMc504bj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/976478731026890752/1534066750",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Sat Aug 11 13:19:14 +0000 2018",
 		"id": 1028269613375615000,
 		"id_str": "1028269613375614979",
