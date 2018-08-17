@@ -1,6 +1,1004 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Thu Aug 16 05:36:21 +0000 2018",
+		"id": 1029965064017567700,
+		"id_str": "1029965064017567744",
+		"text": "RT @Taka800Taka: #翁長知事告別式\n#EXILE の #TAKAHIRO さんの供花\n\n彼は沖縄空手の有段者で\n沖縄空手会館に自らの書を寄贈しています\n\nその際、翁長知事と除幕式を行った経緯があり\n供花を行ったのでしょう\n\n芸能界のしがらみの中\n人としての道理を…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "翁長知事告別式",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"text": "EXILE",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "TAKAHIRO",
+					"indices": [
+						35,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Taka800Taka",
+					"name": "taka",
+					"id": 3590166380,
+					"id_str": "3590166380",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 592,
+			"friends_count": 492,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16833,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 14 00:49:50 +0000 2018",
+			"id": 1029168183293308900,
+			"id_str": "1029168183293308928",
+			"text": "#翁長知事告別式\n#EXILE の #TAKAHIRO さんの供花\n\n彼は沖縄空手の有段者で\n沖縄空手会館に自らの書を寄贈しています\n\nその際、翁長知事と除幕式を行った経緯があり\n供花を行ったのでしょう\n\n芸能界のしがらみの中\n人… https://t.co/JBDRCcpUmT",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "翁長知事告別式",
+						"indices": [
+							0,
+							8
+						]
+					},
+					{
+						"text": "EXILE",
+						"indices": [
+							9,
+							15
+						]
+					},
+					{
+						"text": "TAKAHIRO",
+						"indices": [
+							18,
+							27
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JBDRCcpUmT",
+						"expanded_url": "https://twitter.com/i/web/status/1029168183293308928",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3590166380,
+				"id_str": "3590166380",
+				"name": "taka",
+				"screen_name": "Taka800Taka",
+				"location": "日本",
+				"description": "あふれる情報 、何が正しく、何が間違っているのか、\n正しいものなど、あるのだろうか、\n　この先、\nどのように判断し、\nどのように行動すれば、\nよいのだろうか、",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 496,
+				"friends_count": 833,
+				"listed_count": 14,
+				"created_at": "Thu Sep 17 04:37:17 +0000 2015",
+				"favourites_count": 14936,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2699,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/676307942061113344/bnqQNfrr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/676307942061113344/bnqQNfrr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3590166380/1450078672",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1028919212427829200,
+			"quoted_status_id_str": "1028919212427829248",
+			"quoted_status": {
+				"created_at": "Mon Aug 13 08:20:31 +0000 2018",
+				"id": 1028919212427829200,
+				"id_str": "1028919212427829248",
+				"text": "翁長知事の告別式に #EXILE の #TAKAHIRO さんの供花が届いてた。 https://t.co/wA2Sw384H6",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "EXILE",
+							"indices": [
+								10,
+								16
+							]
+						},
+						{
+							"text": "TAKAHIRO",
+							"indices": [
+								19,
+								28
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 1028919196401291300,
+							"id_str": "1028919196401291264",
+							"indices": [
+								41,
+								64
+							],
+							"media_url": "http://pbs.twimg.com/media/Dkd0jsQUUAA9n8L.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Dkd0jsQUUAA9n8L.jpg",
+							"url": "https://t.co/wA2Sw384H6",
+							"display_url": "pic.twitter.com/wA2Sw384H6",
+							"expanded_url": "https://twitter.com/atsushi_mic/status/1028919212427829248/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1024,
+									"h": 768,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 768,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1028919196401291300,
+							"id_str": "1028919196401291264",
+							"indices": [
+								41,
+								64
+							],
+							"media_url": "http://pbs.twimg.com/media/Dkd0jsQUUAA9n8L.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/Dkd0jsQUUAA9n8L.jpg",
+							"url": "https://t.co/wA2Sw384H6",
+							"display_url": "pic.twitter.com/wA2Sw384H6",
+							"expanded_url": "https://twitter.com/atsushi_mic/status/1028919212427829248/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 1024,
+									"h": 768,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 680,
+									"h": 510,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1024,
+									"h": 768,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1290793536,
+					"id_str": "1290793536",
+					"name": "仁尾淳史(note始めました)",
+					"screen_name": "atsushi_mic",
+					"location": "日本 沖縄県",
+					"description": "ツイキャス配信してます。 @atsushi_mic 人気急上昇中の全視聴者参加型番組！！『ATSUSHI THE MIC TV』をよかったら観てください #ATSUSHI THE MIC TV https://t.co/glgu018YZI",
+					"url": "https://t.co/FiXcC7tcuk",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/FiXcC7tcuk",
+									"expanded_url": "https://m.youtube.com/channel/UC2dqmTRBl7RrY3_q66obJ9w",
+									"display_url": "m.youtube.com/channel/UC2dqm…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/glgu018YZI",
+									"expanded_url": "http://twitcasting.tv/atsushi_mic",
+									"display_url": "twitcasting.tv/atsushi_mic",
+									"indices": [
+										97,
+										120
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 5482,
+					"friends_count": 717,
+					"listed_count": 166,
+					"created_at": "Sat Mar 23 08:11:50 +0000 2013",
+					"favourites_count": 379,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 21059,
+					"lang": "ja",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/763359009155928064/DS1M5Ym4_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/763359009155928064/DS1M5Ym4_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1290793536/1498651141",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 508,
+				"favorite_count": 633,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ja"
+			},
+			"retweet_count": 7,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1028919212427829200,
+		"quoted_status_id_str": "1028919212427829248",
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Thu Aug 16 05:35:31 +0000 2018",
+		"id": 1029964852712722400,
+		"id_str": "1029964852712722432",
+		"text": "RT @Taka800Taka: @atsushi_mic 彼は沖縄空手の有段者で\n昨年、沖縄空手会館に自らの書を寄贈しています\n\nその際、翁長知事と除幕式を行った経緯があり、そのため供花を行ったのだと思います\n\n芸能界のしがらみの中\n人としての道理を通した彼の行為は\n告別式当…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Taka800Taka",
+					"name": "taka",
+					"id": 3590166380,
+					"id_str": "3590166380",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "atsushi_mic",
+					"name": "仁尾淳史(note始めました)",
+					"id": 1290793536,
+					"id_str": "1290793536",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 592,
+			"friends_count": 492,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16833,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Aug 14 03:29:03 +0000 2018",
+			"id": 1029208250682564600,
+			"id_str": "1029208250682564608",
+			"text": "@atsushi_mic 彼は沖縄空手の有段者で\n昨年、沖縄空手会館に自らの書を寄贈しています\n\nその際、翁長知事と除幕式を行った経緯があり、そのため供花を行ったのだと思います\n\n芸能界のしがらみの中\n人としての道理を通した彼の行… https://t.co/JEZoeQJ0lr",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "atsushi_mic",
+						"name": "仁尾淳史(note始めました)",
+						"id": 1290793536,
+						"id_str": "1290793536",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JEZoeQJ0lr",
+						"expanded_url": "https://twitter.com/i/web/status/1029208250682564608",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1028919212427829200,
+			"in_reply_to_status_id_str": "1028919212427829248",
+			"in_reply_to_user_id": 1290793536,
+			"in_reply_to_user_id_str": "1290793536",
+			"in_reply_to_screen_name": "atsushi_mic",
+			"user": {
+				"id": 3590166380,
+				"id_str": "3590166380",
+				"name": "taka",
+				"screen_name": "Taka800Taka",
+				"location": "日本",
+				"description": "あふれる情報 、何が正しく、何が間違っているのか、\n正しいものなど、あるのだろうか、\n　この先、\nどのように判断し、\nどのように行動すれば、\nよいのだろうか、",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 496,
+				"friends_count": 833,
+				"listed_count": 14,
+				"created_at": "Thu Sep 17 04:37:17 +0000 2015",
+				"favourites_count": 14936,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2699,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/676307942061113344/bnqQNfrr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/676307942061113344/bnqQNfrr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3590166380/1450078672",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
+		"created_at": "Thu Aug 16 05:35:28 +0000 2018",
+		"id": 1029964840800944100,
+		"id_str": "1029964840800944129",
+		"text": "RT @atsushi_mic: 翁長知事の告別式に #EXILE の #TAKAHIRO さんの供花が届いてた。 https://t.co/wA2Sw384H6",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EXILE",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "TAKAHIRO",
+					"indices": [
+						36,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "atsushi_mic",
+					"name": "仁尾淳史(note始めました)",
+					"id": 1290793536,
+					"id_str": "1290793536",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1028919196401291300,
+					"id_str": "1028919196401291264",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Dkd0jsQUUAA9n8L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dkd0jsQUUAA9n8L.jpg",
+					"url": "https://t.co/wA2Sw384H6",
+					"display_url": "pic.twitter.com/wA2Sw384H6",
+					"expanded_url": "https://twitter.com/atsushi_mic/status/1028919212427829248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1028919212427829200,
+					"source_status_id_str": "1028919212427829248",
+					"source_user_id": 1290793536,
+					"source_user_id_str": "1290793536"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1028919196401291300,
+					"id_str": "1028919196401291264",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/Dkd0jsQUUAA9n8L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dkd0jsQUUAA9n8L.jpg",
+					"url": "https://t.co/wA2Sw384H6",
+					"display_url": "pic.twitter.com/wA2Sw384H6",
+					"expanded_url": "https://twitter.com/atsushi_mic/status/1028919212427829248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1028919212427829200,
+					"source_status_id_str": "1028919212427829248",
+					"source_user_id": 1290793536,
+					"source_user_id_str": "1290793536"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 592,
+			"friends_count": 492,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16833,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 13 08:20:31 +0000 2018",
+			"id": 1028919212427829200,
+			"id_str": "1028919212427829248",
+			"text": "翁長知事の告別式に #EXILE の #TAKAHIRO さんの供花が届いてた。 https://t.co/wA2Sw384H6",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EXILE",
+						"indices": [
+							10,
+							16
+						]
+					},
+					{
+						"text": "TAKAHIRO",
+						"indices": [
+							19,
+							28
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1028919196401291300,
+						"id_str": "1028919196401291264",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/Dkd0jsQUUAA9n8L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dkd0jsQUUAA9n8L.jpg",
+						"url": "https://t.co/wA2Sw384H6",
+						"display_url": "pic.twitter.com/wA2Sw384H6",
+						"expanded_url": "https://twitter.com/atsushi_mic/status/1028919212427829248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1028919196401291300,
+						"id_str": "1028919196401291264",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/Dkd0jsQUUAA9n8L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dkd0jsQUUAA9n8L.jpg",
+						"url": "https://t.co/wA2Sw384H6",
+						"display_url": "pic.twitter.com/wA2Sw384H6",
+						"expanded_url": "https://twitter.com/atsushi_mic/status/1028919212427829248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1290793536,
+				"id_str": "1290793536",
+				"name": "仁尾淳史(note始めました)",
+				"screen_name": "atsushi_mic",
+				"location": "日本 沖縄県",
+				"description": "ツイキャス配信してます。 @atsushi_mic 人気急上昇中の全視聴者参加型番組！！『ATSUSHI THE MIC TV』をよかったら観てください #ATSUSHI THE MIC TV https://t.co/glgu018YZI",
+				"url": "https://t.co/FiXcC7tcuk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FiXcC7tcuk",
+								"expanded_url": "https://m.youtube.com/channel/UC2dqmTRBl7RrY3_q66obJ9w",
+								"display_url": "m.youtube.com/channel/UC2dqm…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/glgu018YZI",
+								"expanded_url": "http://twitcasting.tv/atsushi_mic",
+								"display_url": "twitcasting.tv/atsushi_mic",
+								"indices": [
+									97,
+									120
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5482,
+				"friends_count": 717,
+				"listed_count": 166,
+				"created_at": "Sat Mar 23 08:11:50 +0000 2013",
+				"favourites_count": 379,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21059,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/763359009155928064/DS1M5Ym4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/763359009155928064/DS1M5Ym4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1290793536/1498651141",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 508,
+			"favorite_count": 633,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 508,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Mon Aug 13 06:09:38 +0000 2018",
 		"id": 1028886275271491600,
 		"id_str": "1028886275271491584",
