@@ -1,6 +1,565 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 17 06:05:52 +0000 2018",
+		"id": 1030334880893136900,
+		"id_str": "1030334880893136897",
+		"text": "RT @takashi91mile: 今日の沖縄🌺北谷で。\n久しぶりの晴れ..いい景色🌈 https://t.co/gYf8OPpsxe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "takashi91mile",
+					"name": "いけむらたかし",
+					"id": 1440845558,
+					"id_str": "1440845558",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1030334117248782300,
+					"id_str": "1030334117248782336",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Dkx7a7KUUAA_K2a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dkx7a7KUUAA_K2a.jpg",
+					"url": "https://t.co/gYf8OPpsxe",
+					"display_url": "pic.twitter.com/gYf8OPpsxe",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1030334220047081472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030334220047081500,
+					"source_status_id_str": "1030334220047081472",
+					"source_user_id": 1440845558,
+					"source_user_id_str": "1440845558"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1030334117248782300,
+					"id_str": "1030334117248782336",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Dkx7a7KUUAA_K2a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dkx7a7KUUAA_K2a.jpg",
+					"url": "https://t.co/gYf8OPpsxe",
+					"display_url": "pic.twitter.com/gYf8OPpsxe",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1030334220047081472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030334220047081500,
+					"source_status_id_str": "1030334220047081472",
+					"source_user_id": 1440845558,
+					"source_user_id_str": "1440845558"
+				},
+				{
+					"id": 1030334148152442900,
+					"id_str": "1030334148152442880",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Dkx7cuSUwAAiJWJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dkx7cuSUwAAiJWJ.jpg",
+					"url": "https://t.co/gYf8OPpsxe",
+					"display_url": "pic.twitter.com/gYf8OPpsxe",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1030334220047081472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030334220047081500,
+					"source_status_id_str": "1030334220047081472",
+					"source_user_id": 1440845558,
+					"source_user_id_str": "1440845558"
+				},
+				{
+					"id": 1030334177244151800,
+					"id_str": "1030334177244151809",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Dkx7eaqVAAE12Aq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dkx7eaqVAAE12Aq.jpg",
+					"url": "https://t.co/gYf8OPpsxe",
+					"display_url": "pic.twitter.com/gYf8OPpsxe",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1030334220047081472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030334220047081500,
+					"source_status_id_str": "1030334220047081472",
+					"source_user_id": 1440845558,
+					"source_user_id_str": "1440845558"
+				},
+				{
+					"id": 1030334201965424600,
+					"id_str": "1030334201965424641",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/Dkx7f2wVsAEeYp8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dkx7f2wVsAEeYp8.jpg",
+					"url": "https://t.co/gYf8OPpsxe",
+					"display_url": "pic.twitter.com/gYf8OPpsxe",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1030334220047081472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1030334220047081500,
+					"source_status_id_str": "1030334220047081472",
+					"source_user_id": 1440845558,
+					"source_user_id_str": "1440845558"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 592,
+			"friends_count": 492,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16834,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 17 06:03:15 +0000 2018",
+			"id": 1030334220047081500,
+			"id_str": "1030334220047081472",
+			"text": "今日の沖縄🌺北谷で。\n久しぶりの晴れ..いい景色🌈 https://t.co/gYf8OPpsxe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1030334117248782300,
+						"id_str": "1030334117248782336",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/Dkx7a7KUUAA_K2a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dkx7a7KUUAA_K2a.jpg",
+						"url": "https://t.co/gYf8OPpsxe",
+						"display_url": "pic.twitter.com/gYf8OPpsxe",
+						"expanded_url": "https://twitter.com/takashi91mile/status/1030334220047081472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1030334117248782300,
+						"id_str": "1030334117248782336",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/Dkx7a7KUUAA_K2a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dkx7a7KUUAA_K2a.jpg",
+						"url": "https://t.co/gYf8OPpsxe",
+						"display_url": "pic.twitter.com/gYf8OPpsxe",
+						"expanded_url": "https://twitter.com/takashi91mile/status/1030334220047081472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1030334148152442900,
+						"id_str": "1030334148152442880",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/Dkx7cuSUwAAiJWJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dkx7cuSUwAAiJWJ.jpg",
+						"url": "https://t.co/gYf8OPpsxe",
+						"display_url": "pic.twitter.com/gYf8OPpsxe",
+						"expanded_url": "https://twitter.com/takashi91mile/status/1030334220047081472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1030334177244151800,
+						"id_str": "1030334177244151809",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/Dkx7eaqVAAE12Aq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dkx7eaqVAAE12Aq.jpg",
+						"url": "https://t.co/gYf8OPpsxe",
+						"display_url": "pic.twitter.com/gYf8OPpsxe",
+						"expanded_url": "https://twitter.com/takashi91mile/status/1030334220047081472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1030334201965424600,
+						"id_str": "1030334201965424641",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/media/Dkx7f2wVsAEeYp8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dkx7f2wVsAEeYp8.jpg",
+						"url": "https://t.co/gYf8OPpsxe",
+						"display_url": "pic.twitter.com/gYf8OPpsxe",
+						"expanded_url": "https://twitter.com/takashi91mile/status/1030334220047081472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1365,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1440845558,
+				"id_str": "1440845558",
+				"name": "いけむらたかし",
+				"screen_name": "takashi91mile",
+				"location": "沖縄県❂okinawa-japan",
+				"description": "沖縄の景色を色んな人と楽しめて嬉しいです。沖縄の景色が好き過ぎてたまらない日々。よろしくお願いします🌈",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23966,
+				"friends_count": 20916,
+				"listed_count": 226,
+				"created_at": "Sun May 19 10:43:57 +0000 2013",
+				"favourites_count": 41448,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3847,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1440845558/1531228218",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 140,
+			"favorite_count": 826,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 140,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Thu Aug 16 05:36:21 +0000 2018",
 		"id": 1029965064017567700,
 		"id_str": "1029965064017567744",
