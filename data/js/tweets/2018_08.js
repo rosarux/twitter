@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sat Aug 18 11:33:37 +0000 2018",
+		"id": 1030779745800048600,
+		"id_str": "1030779745800048640",
+		"text": "RT @nakano0316: 自民党新憲法案　4つのポイント https://t.co/YQ9kaREpNB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nakano0316",
+					"name": "中野昌宏 Masahiro Nakano",
+					"id": 141229879,
+					"id_str": "141229879",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1022808765853122600,
+					"id_str": "1022808765853122560",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DjG_J0nUwAAazJC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjG_J0nUwAAazJC.jpg",
+					"url": "https://t.co/YQ9kaREpNB",
+					"display_url": "pic.twitter.com/YQ9kaREpNB",
+					"expanded_url": "https://twitter.com/nakano0316/status/1022808849747664898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 573,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 573,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1022808849747664900,
+					"source_status_id_str": "1022808849747664898",
+					"source_user_id": 141229879,
+					"source_user_id_str": "141229879"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022808765853122600,
+					"id_str": "1022808765853122560",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/DjG_J0nUwAAazJC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjG_J0nUwAAazJC.jpg",
+					"url": "https://t.co/YQ9kaREpNB",
+					"display_url": "pic.twitter.com/YQ9kaREpNB",
+					"expanded_url": "https://twitter.com/nakano0316/status/1022808849747664898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 573,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 573,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1022808849747664900,
+					"source_status_id_str": "1022808849747664898",
+					"source_user_id": 141229879,
+					"source_user_id_str": "141229879"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 592,
+			"friends_count": 492,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2045,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16835,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 27 11:40:07 +0000 2018",
+			"id": 1022808849747664900,
+			"id_str": "1022808849747664898",
+			"text": "自民党新憲法案　4つのポイント https://t.co/YQ9kaREpNB",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1022808765853122600,
+						"id_str": "1022808765853122560",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/DjG_J0nUwAAazJC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjG_J0nUwAAazJC.jpg",
+						"url": "https://t.co/YQ9kaREpNB",
+						"display_url": "pic.twitter.com/YQ9kaREpNB",
+						"expanded_url": "https://twitter.com/nakano0316/status/1022808849747664898/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1023,
+								"h": 573,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1023,
+								"h": 573,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1022808765853122600,
+						"id_str": "1022808765853122560",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/DjG_J0nUwAAazJC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjG_J0nUwAAazJC.jpg",
+						"url": "https://t.co/YQ9kaREpNB",
+						"display_url": "pic.twitter.com/YQ9kaREpNB",
+						"expanded_url": "https://twitter.com/nakano0316/status/1022808849747664898/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1023,
+								"h": 573,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1023,
+								"h": 573,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 141229879,
+				"id_str": "141229879",
+				"name": "中野昌宏 Masahiro Nakano",
+				"screen_name": "nakano0316",
+				"location": "Kingdom of Mori-Kake",
+				"description": "青山学院大学総合文化政策学部。社会思想→精神分析→認知哲学まで手広く。夢は日本の民主化。敬虔な憲法教徒。寛容には寛容を。不寛容には不寛容を。#RegaindemocracyJP",
+				"url": "https://t.co/w8PK4S1YRP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/w8PK4S1YRP",
+								"expanded_url": "https://www.academia.edu/14187828/%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%86%B2%E6%B3%95%E3%81%AE%E6%80%9D%E6",
+								"display_url": "academia.edu/14187828/%E6%9…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11290,
+				"friends_count": 3000,
+				"listed_count": 301,
+				"created_at": "Fri May 07 14:16:20 +0000 2010",
+				"favourites_count": 4882,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 147787,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/910151705207070720/6uvrNSUH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/910151705207070720/6uvrNSUH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/141229879/1467862419",
+				"profile_link_color": "006D4D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 459,
+			"favorite_count": 242,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 459,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Fri Aug 17 06:05:52 +0000 2018",
 		"id": 1030334880893136900,
 		"id_str": "1030334880893136897",
