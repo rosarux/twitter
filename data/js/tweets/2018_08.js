@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Fri Aug 24 08:25:19 +0000 2018",
+		"id": 1032906686216826900,
+		"id_str": "1032906686216826881",
+		"text": "RT @corwin1129: 좋은 회사를 다니는 사람들의 소득이 최저임금인상으로 증가 했다는 논리가 어떻게 하면 성립 할 수 있는 것인가. 그렇다면 좋은 회사란 딱 최저임금만큼 임금을 주는 회사였단 말인가. \nhttps://t.co/ER65T1aWpY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "corwin1129",
+					"name": "일기통관",
+					"id": 42567931,
+					"id_str": "42567931",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ER65T1aWpY",
+					"expanded_url": "https://twitter.com/hubris2020/status/1032514669645201409",
+					"display_url": "twitter.com/hubris2020/sta…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 593,
+			"friends_count": 492,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16838,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Aug 24 07:25:14 +0000 2018",
+			"id": 1032891566614966300,
+			"id_str": "1032891566614966272",
+			"text": "좋은 회사를 다니는 사람들의 소득이 최저임금인상으로 증가 했다는 논리가 어떻게 하면 성립 할 수 있는 것인가. 그렇다면 좋은 회사란 딱 최저임금만큼 임금을 주는 회사였단 말인가. \nhttps://t.co/ER65T1aWpY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ER65T1aWpY",
+						"expanded_url": "https://twitter.com/hubris2020/status/1032514669645201409",
+						"display_url": "twitter.com/hubris2020/sta…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42567931,
+				"id_str": "42567931",
+				"name": "일기통관",
+				"screen_name": "corwin1129",
+				"location": "Seoul",
+				"description": "Mistborn 붐은 온다!",
+				"url": "https://t.co/8U3n76Lk4F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8U3n76Lk4F",
+								"expanded_url": "http://blog.naver.com/corwin77",
+								"display_url": "blog.naver.com/corwin77",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2781,
+				"friends_count": 1175,
+				"listed_count": 85,
+				"created_at": "Tue May 26 04:55:02 +0000 2009",
+				"favourites_count": 3540,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 86618,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1480131241",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1032514669645201400,
+			"quoted_status_id_str": "1032514669645201409",
+			"quoted_status": {
+				"created_at": "Thu Aug 23 06:27:35 +0000 2018",
+				"id": 1032514669645201400,
+				"id_str": "1032514669645201409",
+				"text": "웃기지만 웃을 수 없는 2분기 가계동향 조사결과. 최저임금의 급격한 인상 여파로 좋은 회사에 다니는 상위 소득자들은 소득이 인상되었지만 중산층과 이하 사업자는 비용급등으로 사업소득이 줄고, 가난한 노동자들은… https://t.co/0PK243ZKrO",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/0PK243ZKrO",
+							"expanded_url": "https://twitter.com/i/web/status/1032514669645201409",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 459811305,
+					"id_str": "459811305",
+					"name": "김동조",
+					"screen_name": "hubris2020",
+					"location": "",
+					"description": "Hubris would anger the Genie _Barton Biggs",
+					"url": "http://t.co/ubRDvpXNLl",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/ubRDvpXNLl",
+									"expanded_url": "http://kimdongjo.com",
+									"display_url": "kimdongjo.com",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 172190,
+					"friends_count": 0,
+					"listed_count": 623,
+					"created_at": "Tue Jan 10 02:37:56 +0000 2012",
+					"favourites_count": 2151,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 13369,
+					"lang": "ko",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/583514319691751424/gMf9A2sh_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/583514319691751424/gMf9A2sh_normal.jpg",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 150,
+				"favorite_count": 143,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "ko"
+			},
+			"retweet_count": 103,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1032514669645201400,
+		"quoted_status_id_str": "1032514669645201409",
+		"retweet_count": 103,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Aug 23 07:31:08 +0000 2018",
 		"id": 1032530662534799400,
 		"id_str": "1032530662534799360",
