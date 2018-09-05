@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Tue Sep 04 11:28:26 +0000 2018",
+		"id": 1036939038383460400,
+		"id_str": "1036939038383460352",
+		"text": "헉 간사이공항이 침수된 듯 https://t.co/fsLo466uy1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fsLo466uy1",
+					"expanded_url": "https://twitter.com/zagimu/status/1036852888289431552",
+					"display_url": "twitter.com/zagimu/status/…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 592,
+			"friends_count": 492,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16839,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1036852888289431600,
+		"quoted_status_id_str": "1036852888289431552",
+		"quoted_status": {
+			"created_at": "Tue Sep 04 05:46:07 +0000 2018",
+			"id": 1036852888289431600,
+			"id_str": "1036852888289431552",
+			"text": "【関空水没】台風21号による大雨及び高潮の影響で関西空港が水没・冠水 現地の様子https://t.co/UXny4x5RZ5 https://t.co/2GQpSnR3Gt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UXny4x5RZ5",
+						"expanded_url": "http://ow.ly/GPim30lFG2k",
+						"display_url": "ow.ly/GPim30lFG2k",
+						"indices": [
+							40,
+							63
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1036852817699323900,
+						"id_str": "1036852817699323904",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DmOkJOtUwAAx7Rg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmOkJOtUwAAx7Rg.jpg",
+						"url": "https://t.co/2GQpSnR3Gt",
+						"display_url": "pic.twitter.com/2GQpSnR3Gt",
+						"expanded_url": "https://twitter.com/zagimu/status/1036852888289431552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1036852817699323900,
+						"id_str": "1036852817699323904",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DmOkJOtUwAAx7Rg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmOkJOtUwAAx7Rg.jpg",
+						"url": "https://t.co/2GQpSnR3Gt",
+						"display_url": "pic.twitter.com/2GQpSnR3Gt",
+						"expanded_url": "https://twitter.com/zagimu/status/1036852888289431552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1036852850901405700,
+						"id_str": "1036852850901405697",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DmOkLKZUUAEvHlj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmOkLKZUUAEvHlj.jpg",
+						"url": "https://t.co/2GQpSnR3Gt",
+						"display_url": "pic.twitter.com/2GQpSnR3Gt",
+						"expanded_url": "https://twitter.com/zagimu/status/1036852888289431552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 593,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1047,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1047,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1036852857591324700,
+						"id_str": "1036852857591324672",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DmOkLjUUYAA6Pgf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmOkLjUUYAA6Pgf.jpg",
+						"url": "https://t.co/2GQpSnR3Gt",
+						"display_url": "pic.twitter.com/2GQpSnR3Gt",
+						"expanded_url": "https://twitter.com/zagimu/status/1036852888289431552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1036852874498605000,
+						"id_str": "1036852874498605056",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/DmOkMiTVAAApyg3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmOkMiTVAAApyg3.jpg",
+						"url": "https://t.co/2GQpSnR3Gt",
+						"display_url": "pic.twitter.com/2GQpSnR3Gt",
+						"expanded_url": "https://twitter.com/zagimu/status/1036852888289431552/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 373,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 658,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 658,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 304466446,
+				"id_str": "304466446",
+				"name": "災害ニュース",
+				"screen_name": "zagimu",
+				"location": "",
+				"description": "事件事故・火災・遅延情報などをお届け。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24619,
+				"friends_count": 18342,
+				"listed_count": 360,
+				"created_at": "Tue May 24 15:22:14 +0000 2011",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 105751,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744737965495066624/wTHmv4bH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744737965495066624/wTHmv4bH_normal.jpg",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21664,
+			"favorite_count": 11400,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Mon Sep 03 03:39:36 +0000 2018",
 		"id": 1036458664813424600,
 		"id_str": "1036458664813424640",
