@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 04 23:38:08 +0000 2018",
+		"id": 1047994309906030600,
+		"id_str": "1047994309906030592",
+		"text": "RT @kinostore: 泣く泣く情報を更新しました。このままだと明日もお店オープンできないぞー！\n\n金曜日→電気あり\n土曜日→停電\n日曜日→停電\n月曜日→停電\n火曜日→停電\n水曜日→電気あり\n木曜日→停電\n金曜日→停電（NEW!）",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kinostore",
+					"name": "sakura",
+					"id": 151138086,
+					"id_str": "151138086",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 592,
+			"friends_count": 490,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16860,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 04 23:27:52 +0000 2018",
+			"id": 1047991724335718400,
+			"id_str": "1047991724335718400",
+			"text": "泣く泣く情報を更新しました。このままだと明日もお店オープンできないぞー！\n\n金曜日→電気あり\n土曜日→停電\n日曜日→停電\n月曜日→停電\n火曜日→停電\n水曜日→電気あり\n木曜日→停電\n金曜日→停電（NEW!）",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1047818028270870500,
+			"in_reply_to_status_id_str": "1047818028270870528",
+			"in_reply_to_user_id": 151138086,
+			"in_reply_to_user_id_str": "151138086",
+			"in_reply_to_screen_name": "kinostore",
+			"user": {
+				"id": 151138086,
+				"id_str": "151138086",
+				"name": "sakura",
+				"screen_name": "kinostore",
+				"location": "okinawa",
+				"description": "千葉県出身。2005年東京から父の故郷・沖縄に移住。夫とふたりのこどもと暮らしています。2012年10月に小さなベイクショップ「きのストアー」をオープン。唯一の趣味は、旅。",
+				"url": "https://t.co/nqB6RHs2Ng",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nqB6RHs2Ng",
+								"expanded_url": "http://www.kino-store.com",
+								"display_url": "kino-store.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1126,
+				"friends_count": 239,
+				"listed_count": 25,
+				"created_at": "Wed Jun 02 18:05:12 +0000 2010",
+				"favourites_count": 835,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14741,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5E4B3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/953860355/2010.05.29_042_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/953860355/2010.05.29_042_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/151138086/1411820525",
+				"profile_link_color": "C2A825",
+				"profile_sidebar_border_color": "FFFCFF",
+				"profile_sidebar_fill_color": "F5D3C9",
+				"profile_text_color": "735F3C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "ja"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja"
+	},
+	{
 		"created_at": "Tue Oct 02 07:02:58 +0000 2018",
 		"id": 1047019088533426200,
 		"id_str": "1047019088533426176",
