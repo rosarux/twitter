@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sun Jun 17 07:13:24 +0000 2018",
+		"id": 1008246212737134600,
+		"id_str": "1008246212737134593",
+		"full_text": "(남자)청년들의 여성혐오를 보고 요즘 (남자)청년들의 삶이 얼마나 피폐해졌는지만 읽어냈던 남자 어른들보다는 나은 일을 해야 한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 167779084,
+			"id_str": "167779084",
+			"name": "쉭릯(트랜스남성)",
+			"screen_name": "chiclix",
+			"location": "무신론수도원 수면실",
+			"description": "잠자는 비덕의 잠자는 정치계정",
+			"url": "https://t.co/66Ufi5Bhp3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/66Ufi5Bhp3",
+							"expanded_url": "http://chiclix.wordpress.com",
+							"display_url": "chiclix.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3074,
+			"friends_count": 163,
+			"listed_count": 68,
+			"created_at": "Sat Jul 17 13:49:55 +0000 2010",
+			"favourites_count": 3809,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63164,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1010034008976076800/n6IgbhXR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010034008976076800/n6IgbhXR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/167779084/1491471149",
+			"profile_link_color": "7FCFDF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "(남자)청년들의 여성혐오를 보고 요즘 (남자)청년들의 삶이 얼마나 피폐해졌는지만 읽어냈던 남자 어른들보다는 나은 일을 해야 한다."
+	},
+	{
+		"created_at": "Tue Nov 06 03:25:00 +0000 2018",
+		"id": 1059647813754118100,
+		"id_str": "1059647813754118144",
+		"full_text": "@toshipiko1 海は海のままがいい。 https://t.co/kWQXXjxRoJ",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "toshipiko1",
+					"name": "平和への道＠彡トシピコ彡",
+					"id": 859421100,
+					"id_str": "859421100",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1059647796339339300,
+					"id_str": "1059647796339339265",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/DrSgDnfU8AE-tv2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrSgDnfU8AE-tv2.jpg",
+					"url": "https://t.co/kWQXXjxRoJ",
+					"display_url": "pic.twitter.com/kWQXXjxRoJ",
+					"expanded_url": "https://twitter.com/tetsulove5566/status/1059647813754118144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059647796339339300,
+					"id_str": "1059647796339339265",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/DrSgDnfU8AE-tv2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrSgDnfU8AE-tv2.jpg",
+					"url": "https://t.co/kWQXXjxRoJ",
+					"display_url": "pic.twitter.com/kWQXXjxRoJ",
+					"expanded_url": "https://twitter.com/tetsulove5566/status/1059647813754118144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1059642941486985200,
+		"in_reply_to_status_id_str": "1059642941486985216",
+		"in_reply_to_user_id": 859421100,
+		"in_reply_to_user_id_str": "859421100",
+		"in_reply_to_screen_name": "toshipiko1",
+		"user": {
+			"id": 3163540214,
+			"id_str": "3163540214",
+			"name": "竹内  徹  私は原発を拒否します。",
+			"screen_name": "tetsulove5566",
+			"location": "",
+			"description": "私は原発を拒否します。平和憲法は大切な日本の宝物です。呟くの慣れてないもんで上手く呟けませんが出来るだけ自分の言葉で呟きます。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3703,
+			"friends_count": 4104,
+			"listed_count": 24,
+			"created_at": "Sun Apr 19 07:31:07 +0000 2015",
+			"favourites_count": 7256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18551,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/626668369022857216/-SGi0eB9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/626668369022857216/-SGi0eB9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3163540214/1444739030",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "@toshipiko1 海は海のままがいい。 https://t.co/kWQXXjxRoJ"
+	},
+	{
 		"created_at": "Sun Nov 04 11:13:50 +0000 2018",
 		"id": 1059041022515195900,
 		"id_str": "1059041022515195904",
