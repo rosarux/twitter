@@ -127,16 +127,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 127188,
+			"followers_count": 128236,
 			"friends_count": 1988,
-			"listed_count": 1469,
+			"listed_count": 1475,
 			"created_at": "Tue May 17 19:09:04 +0000 2016",
-			"favourites_count": 14072,
+			"favourites_count": 14138,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14389,
+			"statuses_count": 14541,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -166,878 +166,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1151,
-		"favorite_count": 2945,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Happy Sunday, comrades ! https://t.co/lWWOiudBL7"
-	},
-	{
-		"created_at": "Sun Oct 28 07:04:15 +0000 2018",
-		"id": 1056441495878881300,
-		"id_str": "1056441495878881281",
-		"full_text": "Happy Sunday, comrades ! https://t.co/lWWOiudBL7",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			24
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1056441479202267100,
-					"id_str": "1056441479202267136",
-					"indices": [
-						25,
-						48
-					],
-					"media_url": "http://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"url": "https://t.co/lWWOiudBL7",
-					"display_url": "pic.twitter.com/lWWOiudBL7",
-					"expanded_url": "https://twitter.com/sovietvisuals/status/1056441495878881281/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1056441479202267100,
-					"id_str": "1056441479202267136",
-					"indices": [
-						25,
-						48
-					],
-					"media_url": "http://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"url": "https://t.co/lWWOiudBL7",
-					"display_url": "pic.twitter.com/lWWOiudBL7",
-					"expanded_url": "https://twitter.com/sovietvisuals/status/1056441495878881281/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 732649152807469000,
-			"id_str": "732649152807469056",
-			"name": "Soviet Visuals",
-			"screen_name": "sovietvisuals",
-			"location": "USSR",
-			"description": "Visuals from behind the Iron Curtain. Soviet (and bits of pre/post-Soviet) photography, architecture & design. USSR propaganda art. team@sovietvisuals.com",
-			"url": "https://t.co/YL8SdrzDB0",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/YL8SdrzDB0",
-							"expanded_url": "http://shop.sovietvisuals.com",
-							"display_url": "shop.sovietvisuals.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 126983,
-			"friends_count": 1988,
-			"listed_count": 1472,
-			"created_at": "Tue May 17 19:09:04 +0000 2016",
-			"favourites_count": 14050,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14364,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/936362985399955462/V3oOaiq9_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936362985399955462/V3oOaiq9_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732649152807469056/1522358981",
-			"profile_link_color": "E81C4F",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1150,
-		"favorite_count": 2944,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Happy Sunday, comrades ! https://t.co/lWWOiudBL7"
-	},
-	{
-		"created_at": "Sun Oct 28 07:04:15 +0000 2018",
-		"id": 1056441495878881300,
-		"id_str": "1056441495878881281",
-		"full_text": "Happy Sunday, comrades ! https://t.co/lWWOiudBL7",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			24
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1056441479202267100,
-					"id_str": "1056441479202267136",
-					"indices": [
-						25,
-						48
-					],
-					"media_url": "http://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"url": "https://t.co/lWWOiudBL7",
-					"display_url": "pic.twitter.com/lWWOiudBL7",
-					"expanded_url": "https://twitter.com/sovietvisuals/status/1056441495878881281/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1056441479202267100,
-					"id_str": "1056441479202267136",
-					"indices": [
-						25,
-						48
-					],
-					"media_url": "http://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"url": "https://t.co/lWWOiudBL7",
-					"display_url": "pic.twitter.com/lWWOiudBL7",
-					"expanded_url": "https://twitter.com/sovietvisuals/status/1056441495878881281/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 732649152807469000,
-			"id_str": "732649152807469056",
-			"name": "Soviet Visuals",
-			"screen_name": "sovietvisuals",
-			"location": "USSR",
-			"description": "Visuals from behind the Iron Curtain. Soviet (and bits of pre/post-Soviet) photography, architecture & design. USSR propaganda art. team@sovietvisuals.com",
-			"url": "https://t.co/YL8SdrzDB0",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/YL8SdrzDB0",
-							"expanded_url": "http://shop.sovietvisuals.com",
-							"display_url": "shop.sovietvisuals.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 126830,
-			"friends_count": 1988,
-			"listed_count": 1469,
-			"created_at": "Tue May 17 19:09:04 +0000 2016",
-			"favourites_count": 14034,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14331,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/936362985399955462/V3oOaiq9_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936362985399955462/V3oOaiq9_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732649152807469056/1522358981",
-			"profile_link_color": "E81C4F",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1149,
-		"favorite_count": 2942,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Happy Sunday, comrades ! https://t.co/lWWOiudBL7"
-	},
-	{
-		"created_at": "Sun Oct 28 07:04:15 +0000 2018",
-		"id": 1056441495878881300,
-		"id_str": "1056441495878881281",
-		"full_text": "Happy Sunday, comrades ! https://t.co/lWWOiudBL7",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			24
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1056441479202267100,
-					"id_str": "1056441479202267136",
-					"indices": [
-						25,
-						48
-					],
-					"media_url": "http://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"url": "https://t.co/lWWOiudBL7",
-					"display_url": "pic.twitter.com/lWWOiudBL7",
-					"expanded_url": "https://twitter.com/sovietvisuals/status/1056441495878881281/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1056441479202267100,
-					"id_str": "1056441479202267136",
-					"indices": [
-						25,
-						48
-					],
-					"media_url": "http://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"url": "https://t.co/lWWOiudBL7",
-					"display_url": "pic.twitter.com/lWWOiudBL7",
-					"expanded_url": "https://twitter.com/sovietvisuals/status/1056441495878881281/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 732649152807469000,
-			"id_str": "732649152807469056",
-			"name": "Soviet Visuals",
-			"screen_name": "sovietvisuals",
-			"location": "USSR",
-			"description": "Visuals from behind the Iron Curtain. Soviet (and bits of pre/post-Soviet) photography, architecture & design. USSR propaganda art. team@sovietvisuals.com",
-			"url": "https://t.co/YL8SdrzDB0",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/YL8SdrzDB0",
-							"expanded_url": "http://shop.sovietvisuals.com",
-							"display_url": "shop.sovietvisuals.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 126702,
-			"friends_count": 1987,
-			"listed_count": 1461,
-			"created_at": "Tue May 17 19:09:04 +0000 2016",
-			"favourites_count": 14029,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14318,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/936362985399955462/V3oOaiq9_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936362985399955462/V3oOaiq9_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732649152807469056/1522358981",
-			"profile_link_color": "E81C4F",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1144,
-		"favorite_count": 2931,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Happy Sunday, comrades ! https://t.co/lWWOiudBL7"
-	},
-	{
-		"created_at": "Sun Oct 28 07:04:15 +0000 2018",
-		"id": 1056441495878881300,
-		"id_str": "1056441495878881281",
-		"full_text": "Happy Sunday, comrades ! https://t.co/lWWOiudBL7",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			24
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1056441479202267100,
-					"id_str": "1056441479202267136",
-					"indices": [
-						25,
-						48
-					],
-					"media_url": "http://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"url": "https://t.co/lWWOiudBL7",
-					"display_url": "pic.twitter.com/lWWOiudBL7",
-					"expanded_url": "https://twitter.com/sovietvisuals/status/1056441495878881281/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1056441479202267100,
-					"id_str": "1056441479202267136",
-					"indices": [
-						25,
-						48
-					],
-					"media_url": "http://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"url": "https://t.co/lWWOiudBL7",
-					"display_url": "pic.twitter.com/lWWOiudBL7",
-					"expanded_url": "https://twitter.com/sovietvisuals/status/1056441495878881281/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 732649152807469000,
-			"id_str": "732649152807469056",
-			"name": "Soviet Visuals",
-			"screen_name": "sovietvisuals",
-			"location": "USSR",
-			"description": "Visuals from behind the Iron Curtain. Soviet (and bits of pre/post-Soviet) photography, architecture & design. USSR propaganda art. team@sovietvisuals.com",
-			"url": "https://t.co/YL8SdrzDB0",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/YL8SdrzDB0",
-							"expanded_url": "http://shop.sovietvisuals.com",
-							"display_url": "shop.sovietvisuals.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 126614,
-			"friends_count": 1987,
-			"listed_count": 1463,
-			"created_at": "Tue May 17 19:09:04 +0000 2016",
-			"favourites_count": 14012,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14296,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/936362985399955462/V3oOaiq9_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936362985399955462/V3oOaiq9_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732649152807469056/1522358981",
-			"profile_link_color": "E81C4F",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1136,
-		"favorite_count": 2915,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Happy Sunday, comrades ! https://t.co/lWWOiudBL7"
-	},
-	{
-		"created_at": "Sun Oct 28 07:04:15 +0000 2018",
-		"id": 1056441495878881300,
-		"id_str": "1056441495878881281",
-		"full_text": "Happy Sunday, comrades ! https://t.co/lWWOiudBL7",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			24
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1056441479202267100,
-					"id_str": "1056441479202267136",
-					"indices": [
-						25,
-						48
-					],
-					"media_url": "http://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"url": "https://t.co/lWWOiudBL7",
-					"display_url": "pic.twitter.com/lWWOiudBL7",
-					"expanded_url": "https://twitter.com/sovietvisuals/status/1056441495878881281/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1056441479202267100,
-					"id_str": "1056441479202267136",
-					"indices": [
-						25,
-						48
-					],
-					"media_url": "http://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Dqk77ZXW4AAoJ2u.jpg",
-					"url": "https://t.co/lWWOiudBL7",
-					"display_url": "pic.twitter.com/lWWOiudBL7",
-					"expanded_url": "https://twitter.com/sovietvisuals/status/1056441495878881281/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 639,
-							"h": 476,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 732649152807469000,
-			"id_str": "732649152807469056",
-			"name": "Soviet Visuals",
-			"screen_name": "sovietvisuals",
-			"location": "USSR",
-			"description": "Visuals from behind the Iron Curtain. Soviet (and bits of pre/post-Soviet) photography, architecture & design. USSR propaganda art. team@sovietvisuals.com",
-			"url": "https://t.co/YL8SdrzDB0",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/YL8SdrzDB0",
-							"expanded_url": "http://shop.sovietvisuals.com",
-							"display_url": "shop.sovietvisuals.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 126391,
-			"friends_count": 1987,
-			"listed_count": 1462,
-			"created_at": "Tue May 17 19:09:04 +0000 2016",
-			"favourites_count": 13983,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14259,
-			"lang": "en",
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/936362985399955462/V3oOaiq9_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936362985399955462/V3oOaiq9_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/732649152807469056/1522358981",
-			"profile_link_color": "E81C4F",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1008,
-		"favorite_count": 2599,
+		"retweet_count": 1153,
+		"favorite_count": 2946,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1084,12 +214,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 490,
 			"listed_count": 22,
 			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
-			"favourites_count": 2056,
+			"favourites_count": 2057,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16872,
+			"statuses_count": 16883,
 			"lang": "ja",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1244,12 +374,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 490,
 			"listed_count": 22,
 			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
-			"favourites_count": 2056,
+			"favourites_count": 2057,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16872,
+			"statuses_count": 16883,
 			"lang": "ja",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1303,7 +433,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "macmorning01",
-					"name": "루리루리🏳️🌈",
+					"name": "루리루리🏳️‍🌈",
 					"id": 335767073,
 					"id_str": "335767073",
 					"indices": [
@@ -1338,12 +468,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 490,
 			"listed_count": 22,
 			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
-			"favourites_count": 2056,
+			"favourites_count": 2057,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16872,
+			"statuses_count": 16883,
 			"lang": "ja",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1396,7 +526,7 @@ Grailbird.data.tweets_2018_10 =
 			"user_mentions": [
 				{
 					"screen_name": "macmorning01",
-					"name": "루리루리🏳️🌈",
+					"name": "루리루리🏳️‍🌈",
 					"id": 335767073,
 					"id_str": "335767073",
 					"indices": [
@@ -1431,12 +561,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 490,
 			"listed_count": 22,
 			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
-			"favourites_count": 2056,
+			"favourites_count": 2057,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16872,
+			"statuses_count": 16883,
 			"lang": "ja",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1513,12 +643,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 490,
 			"listed_count": 22,
 			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
-			"favourites_count": 2056,
+			"favourites_count": 2057,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16872,
+			"statuses_count": 16883,
 			"lang": "ja",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1595,12 +725,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 490,
 			"listed_count": 22,
 			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
-			"favourites_count": 2056,
+			"favourites_count": 2057,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16867,
+			"statuses_count": 16883,
 			"lang": "ja",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1687,12 +817,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 490,
 			"listed_count": 22,
 			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
-			"favourites_count": 2056,
+			"favourites_count": 2057,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16866,
+			"statuses_count": 16883,
 			"lang": "ja",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1731,41 +861,151 @@ Grailbird.data.tweets_2018_10 =
 		"text": "https://t.co/pfddibc26S"
 	},
 	{
-		"created_at": "Wed Oct 10 12:10:21 +0000 2018",
-		"id": 1049995549435260900,
-		"id_str": "1049995549435260928",
-		"text": "RT @100_govote: 沖縄県民総に参列した菅官房長官。\n彼がぬけ抜けと「県民の気持ちに寄り添いながら沖縄の振興・発展に全力を尽くす」と読み上げた後、「うそつき」「帰れ」の声が会場から上がった。\n報道ステーション以外であまりこの辺りを取り上げていないようなんで、その部分…",
+		"created_at": "Wed Oct 10 11:43:29 +0000 2018",
+		"id": 1049988786950627300,
+		"id_str": "1049988786950627328",
+		"full_text": "沖縄県民総に参列した菅官房長官。\n彼がぬけ抜けと「県民の気持ちに寄り添いながら沖縄の振興・発展に全力を尽くす」と読み上げた後、「うそつき」「帰れ」の声が会場から上がった。\n報道ステーション以外であまりこの辺りを取り上げていないようなんで、その部分のみのカットです。\n#がんばれ報ステ https://t.co/gxfLayFIQp",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
 		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
+			"hashtags": [
 				{
-					"screen_name": "100_govote",
-					"name": "100%GOVOTE ALL Japan",
-					"id": 744011098207068200,
-					"id_str": "744011098207068160",
+					"text": "がんばれ報ステ",
 					"indices": [
-						3,
-						14
+						133,
+						141
 					]
 				}
 			],
-			"urls": []
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1049988183952318500,
+					"id_str": "1049988183952318464",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049988183952318464/pu/img/SM_-_Is0OsrWRs3Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049988183952318464/pu/img/SM_-_Is0OsrWRs3Y.jpg",
+					"url": "https://t.co/gxfLayFIQp",
+					"display_url": "pic.twitter.com/gxfLayFIQp",
+					"expanded_url": "https://twitter.com/100_govote/status/1049988786950627328/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
 		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1049988183952318500,
+					"id_str": "1049988183952318464",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1049988183952318464/pu/img/SM_-_Is0OsrWRs3Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1049988183952318464/pu/img/SM_-_Is0OsrWRs3Y.jpg",
+					"url": "https://t.co/gxfLayFIQp",
+					"display_url": "pic.twitter.com/gxfLayFIQp",
+					"expanded_url": "https://twitter.com/100_govote/status/1049988786950627328/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45967,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1049988183952318464/pu/pl/g9cQDjKGR1pIIMTD.m3u8?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1049988183952318464/pu/vid/320x180/B4dh2oP_ghVXfe9f.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1049988183952318464/pu/vid/1280x720/u4SAm5tXjplz-523.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1049988183952318464/pu/vid/640x360/1LkuXC7ZcnxSCeIX.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 94077994,
-			"id_str": "94077994",
-			"name": "縄",
-			"screen_name": "kawanoboru",
-			"location": "마음 만은 언제나 오키나와",
-			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"id": 744011098207068200,
+			"id_str": "744011098207068160",
+			"name": "100%GOVOTE ALL Japan",
+			"screen_name": "100_govote",
+			"location": "",
+			"description": "“your VOTE is your VOICE ! ” 日本全国…ALL JAPAN！ 全国の有志・勝手連、市民団体の皆様で選挙投票率を上げられる事、切に祈ります。それが今の日本を健全化する一番の方法と考えます。",
 			"url": null,
 			"entities": {
 				"description": {
@@ -1773,34 +1013,34 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 594,
-			"friends_count": 490,
-			"listed_count": 22,
-			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
-			"favourites_count": 2055,
+			"followers_count": 4592,
+			"friends_count": 2304,
+			"listed_count": 66,
+			"created_at": "Sat Jun 18 03:37:23 +0000 2016",
+			"favourites_count": 9085,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": true,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 16865,
+			"statuses_count": 4378,
 			"lang": "ja",
 			"contributors_enabled": false,
 			"is_translator": false,
-			"is_translation_enabled": true,
-			"profile_background_color": "B2DFDA",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
-			"profile_link_color": "93A644",
-			"profile_sidebar_border_color": "EEEEEE",
-			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/745128220681371648/jHJqzSjy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/745128220681371648/jHJqzSjy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744011098207068160/1466487387",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
 			"profile_text_color": "333333",
 			"profile_use_background_image": true,
 			"has_extended_profile": false,
-			"default_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
 			"following": false,
 			"follow_request_sent": false,
@@ -1811,184 +1051,123 @@ Grailbird.data.tweets_2018_10 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Wed Oct 10 11:43:29 +0000 2018",
-			"id": 1049988786950627300,
-			"id_str": "1049988786950627328",
-			"text": "沖縄県民総に参列した菅官房長官。\n彼がぬけ抜けと「県民の気持ちに寄り添いながら沖縄の振興・発展に全力を尽くす」と読み上げた後、「うそつき」「帰れ」の声が会場から上がった。\n報道ステーション以外であまりこの辺りを取り上げていないよう… https://t.co/J5IBsc2HDC",
-			"truncated": true,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/J5IBsc2HDC",
-						"expanded_url": "https://twitter.com/i/web/status/1049988786950627328",
-						"display_url": "twitter.com/i/web/status/1…",
-						"indices": [
-							117,
-							140
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 744011098207068200,
-				"id_str": "744011098207068160",
-				"name": "100%GOVOTE ALL Japan",
-				"screen_name": "100_govote",
-				"location": "",
-				"description": "“your VOTE is your VOICE ! ” 日本全国…ALL JAPAN！ 全国の有志・勝手連、市民団体の皆様で選挙投票率を上げられる事、切に祈ります。それが今の日本を健全化する一番の方法と考えます。",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 4447,
-				"friends_count": 2305,
-				"listed_count": 67,
-				"created_at": "Sat Jun 18 03:37:23 +0000 2016",
-				"favourites_count": 8819,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 4235,
-				"lang": "ja",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "F5F8FA",
-				"profile_background_image_url": null,
-				"profile_background_image_url_https": null,
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/745128220681371648/jHJqzSjy_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/745128220681371648/jHJqzSjy_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744011098207068160/1466487387",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 155,
-			"favorite_count": 147,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "ja"
-		},
 		"is_quote_status": false,
-		"retweet_count": 155,
-		"favorite_count": 0,
+		"retweet_count": 216,
+		"favorite_count": 201,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "ja"
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "沖縄県民総に参列した菅官房長官。\n彼がぬけ抜けと「県民の気持ちに寄り添いながら沖縄の振興・発展に全力を尽くす」と読み上げた後、「うそつき」「帰れ」の声が会場から上がった。\n報道ステーション以外であまりこの辺りを取り上げていないようなんで、その部分のみのカットです。\n#がんばれ報ステ https://t.co/gxfLayFIQp"
 	},
 	{
-		"created_at": "Tue Oct 09 02:46:51 +0000 2018",
-		"id": 1049491353338400800,
-		"id_str": "1049491353338400769",
-		"text": "RT @ryukyushimpo: きょう２時から翁長前知事の県民葬　新報HPで中継https://t.co/r7KsHmpfcl",
+		"created_at": "Tue Oct 09 01:51:21 +0000 2018",
+		"id": 1049477383294775300,
+		"id_str": "1049477383294775296",
+		"full_text": "きょう２時から翁長前知事の県民葬　新報HPで中継https://t.co/r7KsHmpfcl",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "ryukyushimpo",
-					"name": "琉球新報",
-					"id": 15746839,
-					"id_str": "15746839",
-					"indices": [
-						3,
-						16
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [
 				{
 					"url": "https://t.co/r7KsHmpfcl",
 					"expanded_url": "https://ift.tt/2yq9M5J",
 					"display_url": "ift.tt/2yq9M5J",
 					"indices": [
-						42,
-						65
+						24,
+						47
 					]
 				}
 			]
 		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 94077994,
-			"id_str": "94077994",
-			"name": "縄",
-			"screen_name": "kawanoboru",
-			"location": "마음 만은 언제나 오키나와",
-			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
-			"url": null,
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
 			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
 				"description": {
-					"urls": []
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
 				}
 			},
 			"protected": false,
-			"followers_count": 594,
-			"friends_count": 490,
-			"listed_count": 22,
-			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
-			"favourites_count": 2054,
+			"followers_count": 54489,
+			"friends_count": 6638,
+			"listed_count": 2703,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8145,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 16864,
+			"verified": true,
+			"statuses_count": 104943,
 			"lang": "ja",
 			"contributors_enabled": false,
 			"is_translator": false,
-			"is_translation_enabled": true,
-			"profile_background_color": "B2DFDA",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
-			"profile_link_color": "93A644",
-			"profile_sidebar_border_color": "EEEEEE",
-			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
 			"profile_text_color": "333333",
 			"profile_use_background_image": true,
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -1997,140 +1176,25 @@ Grailbird.data.tweets_2018_10 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Tue Oct 09 01:51:21 +0000 2018",
-			"id": 1049477383294775300,
-			"id_str": "1049477383294775296",
-			"text": "きょう２時から翁長前知事の県民葬　新報HPで中継https://t.co/r7KsHmpfcl",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/r7KsHmpfcl",
-						"expanded_url": "https://ift.tt/2yq9M5J",
-						"display_url": "ift.tt/2yq9M5J",
-						"indices": [
-							24,
-							47
-						]
-					}
-				]
-			},
-			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 15746839,
-				"id_str": "15746839",
-				"name": "琉球新報",
-				"screen_name": "ryukyushimpo",
-				"location": "沖縄県那覇市",
-				"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
-				"url": "http://t.co/YUTPJoUc1k",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "http://t.co/YUTPJoUc1k",
-								"expanded_url": "http://ryukyushimpo.jp",
-								"display_url": "ryukyushimpo.jp",
-								"indices": [
-									0,
-									22
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": [
-							{
-								"url": "https://t.co/nFmlmocCxo",
-								"expanded_url": "https://www.facebook.com/ryukyushimpo/",
-								"display_url": "facebook.com/ryukyushimpo/",
-								"indices": [
-									25,
-									48
-								]
-							},
-							{
-								"url": "https://t.co/6ry90YboVK",
-								"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
-								"display_url": "line.me/R/ti/p/%40oa-r…",
-								"indices": [
-									64,
-									87
-								]
-							}
-						]
-					}
-				},
-				"protected": false,
-				"followers_count": 54096,
-				"friends_count": 6675,
-				"listed_count": 2702,
-				"created_at": "Wed Aug 06 06:12:19 +0000 2008",
-				"favourites_count": 8152,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 104238,
-				"lang": "ja",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "FFFCCC",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
-				"profile_link_color": "0084B4",
-				"profile_sidebar_border_color": "D3D920",
-				"profile_sidebar_fill_color": "FAFCC2",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 235,
-			"favorite_count": 208,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "ja"
-		},
 		"is_quote_status": false,
-		"retweet_count": 235,
-		"favorite_count": 0,
+		"retweet_count": 236,
+		"favorite_count": 212,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "ja"
+		"lang": "ja",
+		"text": "きょう２時から翁長前知事の県民葬　新報HPで中継https://t.co/r7KsHmpfcl"
 	},
 	{
 		"created_at": "Sat Oct 06 14:02:23 +0000 2018",
 		"id": 1048574192759726100,
 		"id_str": "1048574192759726082",
-		"text": "이 대표 노망 났나",
+		"full_text": "이 대표 노망 났나",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2157,16 +1221,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 592,
+			"followers_count": 593,
 			"friends_count": 490,
 			"listed_count": 22,
 			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
-			"favourites_count": 2053,
+			"favourites_count": 2057,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16863,
+			"statuses_count": 16883,
 			"lang": "ja",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2200,14 +1264,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "이 대표 노망 났나"
 	},
 	{
 		"created_at": "Sat Oct 06 09:42:41 +0000 2018",
 		"id": 1048508834728144900,
 		"id_str": "1048508834728144896",
-		"text": "양평 모 카페에서 뜬금없이 만난 시사 https://t.co/BfQZe07zyx",
+		"full_text": "양평 모 카페에서 뜬금없이 만난 시사 https://t.co/BfQZe07zyx",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2312,16 +1381,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 592,
+			"followers_count": 593,
 			"friends_count": 490,
 			"listed_count": 22,
 			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
-			"favourites_count": 2053,
+			"favourites_count": 2057,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16863,
+			"statuses_count": 16883,
 			"lang": "ja",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2356,14 +1425,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "양평 모 카페에서 뜬금없이 만난 시사 https://t.co/BfQZe07zyx"
 	},
 	{
 		"created_at": "Fri Oct 05 01:13:50 +0000 2018",
 		"id": 1048018391796084700,
 		"id_str": "1048018391796084736",
-		"text": "유민이가 요즘 네코아츠메에 빠짐 https://t.co/QHVyQoPSiG",
+		"full_text": "유민이가 요즘 네코아츠메에 빠짐 https://t.co/QHVyQoPSiG",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2468,16 +1542,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 591,
+			"followers_count": 593,
 			"friends_count": 490,
 			"listed_count": 22,
 			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
-			"favourites_count": 2053,
+			"favourites_count": 2057,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16861,
+			"statuses_count": 16883,
 			"lang": "ja",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2512,14 +1586,19 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "유민이가 요즘 네코아츠메에 빠짐 https://t.co/QHVyQoPSiG"
 	},
 	{
 		"created_at": "Fri Oct 05 01:13:34 +0000 2018",
 		"id": 1048018326142644200,
 		"id_str": "1048018326142644224",
-		"text": "유민이가 요즘 네코아츠메에 빠짐 https://t.co/5xoCAZESbO",
+		"full_text": "유민이가 요즘 네코아츠메에 빠짐 https://t.co/5xoCAZESbO",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
@@ -2624,16 +1703,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 591,
+			"followers_count": 593,
 			"friends_count": 490,
 			"listed_count": 22,
 			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
-			"favourites_count": 2053,
+			"favourites_count": 2057,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 16861,
+			"statuses_count": 16883,
 			"lang": "ja",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2668,81 +1747,88 @@ Grailbird.data.tweets_2018_10 =
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "유민이가 요즘 네코아츠메에 빠짐 https://t.co/5xoCAZESbO"
 	},
 	{
-		"created_at": "Thu Oct 04 23:38:08 +0000 2018",
-		"id": 1047994309906030600,
-		"id_str": "1047994309906030592",
-		"text": "RT @kinostore: 泣く泣く情報を更新しました。このままだと明日もお店オープンできないぞー！\n\n金曜日→電気あり\n土曜日→停電\n日曜日→停電\n月曜日→停電\n火曜日→停電\n水曜日→電気あり\n木曜日→停電\n金曜日→停電（NEW!）",
+		"created_at": "Thu Oct 04 23:27:52 +0000 2018",
+		"id": 1047991724335718400,
+		"id_str": "1047991724335718400",
+		"full_text": "泣く泣く情報を更新しました。このままだと明日もお店オープンできないぞー！\n\n金曜日→電気あり\n土曜日→停電\n日曜日→停電\n月曜日→停電\n火曜日→停電\n水曜日→電気あり\n木曜日→停電\n金曜日→停電（NEW!）",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "kinostore",
-					"name": "sakura",
-					"id": 151138086,
-					"id_str": "151138086",
-					"indices": [
-						3,
-						13
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": []
 		},
 		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
+		"in_reply_to_status_id": 1047818028270870500,
+		"in_reply_to_status_id_str": "1047818028270870528",
+		"in_reply_to_user_id": 151138086,
+		"in_reply_to_user_id_str": "151138086",
+		"in_reply_to_screen_name": "kinostore",
 		"user": {
-			"id": 94077994,
-			"id_str": "94077994",
-			"name": "縄",
-			"screen_name": "kawanoboru",
-			"location": "마음 만은 언제나 오키나와",
-			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
-			"url": null,
+			"id": 151138086,
+			"id_str": "151138086",
+			"name": "sakura",
+			"screen_name": "kinostore",
+			"location": "okinawa",
+			"description": "千葉県出身。2005年東京から父の故郷・沖縄に移住。夫とふたりのこどもと暮らしています。2012年10月に小さなベイクショップ「きのストアー」をオープン。唯一の趣味は、旅。",
+			"url": "https://t.co/nqB6RHs2Ng",
 			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nqB6RHs2Ng",
+							"expanded_url": "http://www.kino-store.com",
+							"display_url": "kino-store.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
 				"description": {
 					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 592,
-			"friends_count": 490,
-			"listed_count": 22,
-			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
-			"favourites_count": 2055,
+			"followers_count": 1125,
+			"friends_count": 239,
+			"listed_count": 26,
+			"created_at": "Wed Jun 02 18:05:12 +0000 2010",
+			"favourites_count": 837,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": true,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 16860,
+			"statuses_count": 14821,
 			"lang": "ja",
 			"contributors_enabled": false,
 			"is_translator": false,
-			"is_translation_enabled": true,
-			"profile_background_color": "B2DFDA",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"is_translation_enabled": false,
+			"profile_background_color": "F5E4B3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
-			"profile_link_color": "93A644",
-			"profile_sidebar_border_color": "EEEEEE",
-			"profile_sidebar_fill_color": "FFFFFF",
-			"profile_text_color": "333333",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/953860355/2010.05.29_042_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/953860355/2010.05.29_042_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151138086/1411820525",
+			"profile_link_color": "C2A825",
+			"profile_sidebar_border_color": "FFFCFF",
+			"profile_sidebar_fill_color": "F5D3C9",
+			"profile_text_color": "735F3C",
 			"profile_use_background_image": true,
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"following": false,
+			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
 			"translator_type": "none"
@@ -2751,132 +1837,36 @@ Grailbird.data.tweets_2018_10 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Thu Oct 04 23:27:52 +0000 2018",
-			"id": 1047991724335718400,
-			"id_str": "1047991724335718400",
-			"text": "泣く泣く情報を更新しました。このままだと明日もお店オープンできないぞー！\n\n金曜日→電気あり\n土曜日→停電\n日曜日→停電\n月曜日→停電\n火曜日→停電\n水曜日→電気あり\n木曜日→停電\n金曜日→停電（NEW!）",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": 1047818028270870500,
-			"in_reply_to_status_id_str": "1047818028270870528",
-			"in_reply_to_user_id": 151138086,
-			"in_reply_to_user_id_str": "151138086",
-			"in_reply_to_screen_name": "kinostore",
-			"user": {
-				"id": 151138086,
-				"id_str": "151138086",
-				"name": "sakura",
-				"screen_name": "kinostore",
-				"location": "okinawa",
-				"description": "千葉県出身。2005年東京から父の故郷・沖縄に移住。夫とふたりのこどもと暮らしています。2012年10月に小さなベイクショップ「きのストアー」をオープン。唯一の趣味は、旅。",
-				"url": "https://t.co/nqB6RHs2Ng",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/nqB6RHs2Ng",
-								"expanded_url": "http://www.kino-store.com",
-								"display_url": "kino-store.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 1126,
-				"friends_count": 239,
-				"listed_count": 25,
-				"created_at": "Wed Jun 02 18:05:12 +0000 2010",
-				"favourites_count": 835,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 14741,
-				"lang": "ja",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "F5E4B3",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/953860355/2010.05.29_042_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/953860355/2010.05.29_042_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/151138086/1411820525",
-				"profile_link_color": "C2A825",
-				"profile_sidebar_border_color": "FFFCFF",
-				"profile_sidebar_fill_color": "F5D3C9",
-				"profile_text_color": "735F3C",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 1,
-			"favorited": false,
-			"retweeted": true,
-			"lang": "ja"
-		},
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": true,
-		"lang": "ja"
+		"lang": "ja",
+		"text": "泣く泣く情報を更新しました。このままだと明日もお店オープンできないぞー！\n\n金曜日→電気あり\n土曜日→停電\n日曜日→停電\n月曜日→停電\n火曜日→停電\n水曜日→電気あり\n木曜日→停電\n金曜日→停電（NEW!）"
 	},
 	{
-		"created_at": "Tue Oct 02 07:02:58 +0000 2018",
-		"id": 1047019088533426200,
-		"id_str": "1047019088533426176",
-		"text": "RT @koktwt: 오늘도 민주노총 두컷 만화ㅋㅋㅋㅋ https://t.co/vvrZkAFgaQ",
+		"created_at": "Tue Oct 02 04:26:19 +0000 2018",
+		"id": 1046979669340426200,
+		"id_str": "1046979669340426240",
+		"full_text": "오늘도 민주노총 두컷 만화ㅋㅋㅋㅋ https://t.co/vvrZkAFgaQ",
 		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "koktwt",
-					"name": "ⓚⓞⓚⓐⓖⓔ",
-					"id": 96069720,
-					"id_str": "96069720",
-					"indices": [
-						3,
-						10
-					]
-				}
-			],
+			"user_mentions": [],
 			"urls": [],
 			"media": [
 				{
 					"id": 1046979661627101200,
 					"id_str": "1046979661627101185",
 					"indices": [
-						31,
-						54
+						19,
+						42
 					],
 					"media_url": "http://pbs.twimg.com/media/DoeedIJXkAEQMaa.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DoeedIJXkAEQMaa.jpg",
@@ -2905,11 +1895,7 @@ Grailbird.data.tweets_2018_10 =
 							"h": 680,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1046979669340426200,
-					"source_status_id_str": "1046979669340426240",
-					"source_user_id": 96069720,
-					"source_user_id_str": "96069720"
+					}
 				}
 			]
 		},
@@ -2919,8 +1905,8 @@ Grailbird.data.tweets_2018_10 =
 					"id": 1046979661627101200,
 					"id_str": "1046979661627101185",
 					"indices": [
-						31,
-						54
+						19,
+						42
 					],
 					"media_url": "http://pbs.twimg.com/media/DoeedIJXkAEQMaa.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DoeedIJXkAEQMaa.jpg",
@@ -2949,18 +1935,14 @@ Grailbird.data.tweets_2018_10 =
 							"h": 680,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1046979669340426200,
-					"source_status_id_str": "1046979669340426240",
-					"source_user_id": 96069720,
-					"source_user_id_str": "96069720"
+					}
 				},
 				{
 					"id": 1046979661580968000,
 					"id_str": "1046979661580967941",
 					"indices": [
-						31,
-						54
+						19,
+						42
 					],
 					"media_url": "http://pbs.twimg.com/media/DoeedH-XoAU9Z-e.jpg",
 					"media_url_https": "https://pbs.twimg.com/media/DoeedH-XoAU9Z-e.jpg",
@@ -2989,11 +1971,7 @@ Grailbird.data.tweets_2018_10 =
 							"h": 1014,
 							"resize": "fit"
 						}
-					},
-					"source_status_id": 1046979669340426200,
-					"source_status_id_str": "1046979669340426240",
-					"source_user_id": 96069720,
-					"source_user_id_str": "96069720"
+					}
 				}
 			]
 		},
@@ -3004,12 +1982,12 @@ Grailbird.data.tweets_2018_10 =
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 94077994,
-			"id_str": "94077994",
-			"name": "縄",
-			"screen_name": "kawanoboru",
-			"location": "마음 만은 언제나 오키나와",
-			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"id": 96069720,
+			"id_str": "96069720",
+			"name": "ⓚⓞⓚⓐⓖⓔ",
+			"screen_name": "koktwt",
+			"location": "",
+			"description": "니 생활이 얼마나 불행하면 내 트윗을 사찰하니^^ LG TWINS, 아이허브 추천인 코드 BOK818",
 			"url": null,
 			"entities": {
 				"description": {
@@ -3017,33 +1995,33 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 592,
-			"friends_count": 490,
-			"listed_count": 22,
-			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
-			"favourites_count": 2053,
+			"followers_count": 1946,
+			"friends_count": 341,
+			"listed_count": 62,
+			"created_at": "Fri Dec 11 06:03:57 +0000 2009",
+			"favourites_count": 2885,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": true,
+			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 16859,
-			"lang": "ja",
+			"statuses_count": 138472,
+			"lang": "ko",
 			"contributors_enabled": false,
 			"is_translator": false,
-			"is_translation_enabled": true,
-			"profile_background_color": "B2DFDA",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
-			"profile_link_color": "93A644",
-			"profile_sidebar_border_color": "EEEEEE",
-			"profile_sidebar_fill_color": "FFFFFF",
-			"profile_text_color": "333333",
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/996591899531096066/ZMJOQ2Jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/996591899531096066/ZMJOQ2Jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/96069720/1533538196",
+			"profile_link_color": "757C9A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D3CFD9",
+			"profile_text_color": "787FBF",
 			"profile_use_background_image": true,
-			"has_extended_profile": false,
+			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
 			"following": false,
@@ -3055,204 +2033,13 @@ Grailbird.data.tweets_2018_10 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"retweeted_status": {
-			"created_at": "Tue Oct 02 04:26:19 +0000 2018",
-			"id": 1046979669340426200,
-			"id_str": "1046979669340426240",
-			"text": "오늘도 민주노총 두컷 만화ㅋㅋㅋㅋ https://t.co/vvrZkAFgaQ",
-			"truncated": false,
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 1046979661627101200,
-						"id_str": "1046979661627101185",
-						"indices": [
-							19,
-							42
-						],
-						"media_url": "http://pbs.twimg.com/media/DoeedIJXkAEQMaa.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DoeedIJXkAEQMaa.jpg",
-						"url": "https://t.co/vvrZkAFgaQ",
-						"display_url": "pic.twitter.com/vvrZkAFgaQ",
-						"expanded_url": "https://twitter.com/koktwt/status/1046979669340426240/photo/1",
-						"type": "photo",
-						"sizes": {
-							"large": {
-								"w": 750,
-								"h": 754,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 750,
-								"h": 754,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 676,
-								"h": 680,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 1046979661627101200,
-						"id_str": "1046979661627101185",
-						"indices": [
-							19,
-							42
-						],
-						"media_url": "http://pbs.twimg.com/media/DoeedIJXkAEQMaa.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DoeedIJXkAEQMaa.jpg",
-						"url": "https://t.co/vvrZkAFgaQ",
-						"display_url": "pic.twitter.com/vvrZkAFgaQ",
-						"expanded_url": "https://twitter.com/koktwt/status/1046979669340426240/photo/1",
-						"type": "photo",
-						"sizes": {
-							"large": {
-								"w": 750,
-								"h": 754,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 750,
-								"h": 754,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 676,
-								"h": 680,
-								"resize": "fit"
-							}
-						}
-					},
-					{
-						"id": 1046979661580968000,
-						"id_str": "1046979661580967941",
-						"indices": [
-							19,
-							42
-						],
-						"media_url": "http://pbs.twimg.com/media/DoeedH-XoAU9Z-e.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DoeedH-XoAU9Z-e.jpg",
-						"url": "https://t.co/vvrZkAFgaQ",
-						"display_url": "pic.twitter.com/vvrZkAFgaQ",
-						"expanded_url": "https://twitter.com/koktwt/status/1046979669340426240/photo/1",
-						"type": "photo",
-						"sizes": {
-							"small": {
-								"w": 503,
-								"h": 680,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 750,
-								"h": 1014,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 750,
-								"h": 1014,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 96069720,
-				"id_str": "96069720",
-				"name": "ⓚⓞⓚⓐⓖⓔ",
-				"screen_name": "koktwt",
-				"location": "",
-				"description": "니 생활이 얼마나 불행하면 내 트윗을 사찰하니^^ LG TWINS, 아이허브 추천인 코드 BOK818",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 1934,
-				"friends_count": 341,
-				"listed_count": 62,
-				"created_at": "Fri Dec 11 06:03:57 +0000 2009",
-				"favourites_count": 2852,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 136976,
-				"lang": "ko",
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "FFFFFF",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/996591899531096066/ZMJOQ2Jv_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/996591899531096066/ZMJOQ2Jv_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/96069720/1533538196",
-				"profile_link_color": "757C9A",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "D3CFD9",
-				"profile_text_color": "787FBF",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 690,
-			"favorite_count": 153,
-			"favorited": false,
-			"retweeted": true,
-			"possibly_sensitive": false,
-			"lang": "ko"
-		},
 		"is_quote_status": false,
-		"retweet_count": 690,
-		"favorite_count": 0,
+		"retweet_count": 880,
+		"favorite_count": 205,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
-		"lang": "ko"
+		"lang": "ko",
+		"text": "오늘도 민주노총 두컷 만화ㅋㅋㅋㅋ https://t.co/vvrZkAFgaQ"
 	}
 ]
