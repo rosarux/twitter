@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 20 16:00:55 +0000 2018",
+		"id": 1064911475653804000,
+		"id_str": "1064911475653804032",
+		"full_text": "이런 사진 볼때마다 습기 + 곰팡이 + 벌레 생각 뿐... https://t.co/H0nFdIhCn8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1064911465688100900,
+					"id_str": "1064911465688100865",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DsdTVf2UcAEqR6Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsdTVf2UcAEqR6Z.jpg",
+					"url": "https://t.co/H0nFdIhCn8",
+					"display_url": "pic.twitter.com/H0nFdIhCn8",
+					"expanded_url": "https://twitter.com/lessislessxx/status/1064911475653804032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1073,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1073,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1064911465688100900,
+					"id_str": "1064911465688100865",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DsdTVf2UcAEqR6Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsdTVf2UcAEqR6Z.jpg",
+					"url": "https://t.co/H0nFdIhCn8",
+					"display_url": "pic.twitter.com/H0nFdIhCn8",
+					"expanded_url": "https://twitter.com/lessislessxx/status/1064911475653804032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1073,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1073,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1114251007,
+			"id_str": "1114251007",
+			"name": "less",
+			"screen_name": "lessislessxx",
+			"location": "나의 친절은 너를 위한게 아니란다",
+			"description": "無人島 | 내가 그걸 모를까요? 내가 그걸 알고 싶을까요? | 일본에서 오래살고 한국생활 적응중 | 노동자 | 人生の半分は日本で | 비팔:알림x 디엠 답x | #소비생활백과",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2781,
+			"friends_count": 448,
+			"listed_count": 18,
+			"created_at": "Wed Jan 23 12:20:24 +0000 2013",
+			"favourites_count": 4253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21846,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1029009284275658753/qdCGP_wz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029009284275658753/qdCGP_wz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1114251007/1534169892",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1726,
+		"favorite_count": 865,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이런 사진 볼때마다 습기 + 곰팡이 + 벌레 생각 뿐... https://t.co/H0nFdIhCn8"
+	},
+	{
 		"created_at": "Mon Nov 19 06:01:35 +0000 2018",
 		"id": 1064398262445080600,
 		"id_str": "1064398262445080578",
