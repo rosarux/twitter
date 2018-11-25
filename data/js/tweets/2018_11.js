@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 24 02:58:48 +0000 2018",
+		"id": 1066164200756543500,
+		"id_str": "1066164200756543488",
+		"full_text": "양팔이 부러진 중학생(남, 13세) https://t.co/e19Ms0lLvt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1066164192674164700,
+					"id_str": "1066164192674164737",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DsvGrziVsAENYYN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsvGrziVsAENYYN.jpg",
+					"url": "https://t.co/e19Ms0lLvt",
+					"display_url": "pic.twitter.com/e19Ms0lLvt",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1066164200756543488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 546,
+							"h": 557,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 546,
+							"h": 557,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 546,
+							"h": 557,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1066164192674164700,
+					"id_str": "1066164192674164737",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DsvGrziVsAENYYN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsvGrziVsAENYYN.jpg",
+					"url": "https://t.co/e19Ms0lLvt",
+					"display_url": "pic.twitter.com/e19Ms0lLvt",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1066164200756543488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 546,
+							"h": 557,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 546,
+							"h": 557,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 546,
+							"h": 557,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1066164192674107400,
+					"id_str": "1066164192674107393",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DsvGrziU0AEvJlt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsvGrziU0AEvJlt.jpg",
+					"url": "https://t.co/e19Ms0lLvt",
+					"display_url": "pic.twitter.com/e19Ms0lLvt",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1066164200756543488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 544,
+							"h": 762,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 544,
+							"h": 762,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1065573732406648800,
+		"in_reply_to_status_id_str": "1065573732406648832",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 581,
+			"friends_count": 491,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16899,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "양팔이 부러진 중학생(남, 13세) https://t.co/e19Ms0lLvt"
+	},
+	{
 		"created_at": "Fri Nov 23 14:25:24 +0000 2018",
 		"id": 1065974601799221200,
 		"id_str": "1065974601799221248",
