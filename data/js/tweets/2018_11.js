@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 26 08:20:27 +0000 2018",
+		"id": 1066969923086299100,
+		"id_str": "1066969923086299136",
+		"full_text": "【お知らせ】\n10月号に寄稿していただいた政治学者の白井聡さんの講演会を開催します。テーマは「国体と憲法と沖縄」。沖縄が犠牲となる根本にあるものを解説します。\n\n日時：12/10(月)　19時～\n場所：文京シビックホール小ホール（シビックセンター2Ｆ）\n\n詳細はこちら　https://t.co/4nbI2vsDv8 https://t.co/HPNehlDLFK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4nbI2vsDv8",
+					"expanded_url": "http://ur0.work/NRtr",
+					"display_url": "ur0.work/NRtr",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1066963296211718100,
+					"id_str": "1066963296211718145",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Ds6ddwMUUAEG8Vy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ds6ddwMUUAEG8Vy.jpg",
+					"url": "https://t.co/HPNehlDLFK",
+					"display_url": "pic.twitter.com/HPNehlDLFK",
+					"expanded_url": "https://twitter.com/DAYS_JAPAN/status/1066969923086299136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 863,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1473,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1066963296211718100,
+					"id_str": "1066963296211718145",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Ds6ddwMUUAEG8Vy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ds6ddwMUUAEG8Vy.jpg",
+					"url": "https://t.co/HPNehlDLFK",
+					"display_url": "pic.twitter.com/HPNehlDLFK",
+					"expanded_url": "https://twitter.com/DAYS_JAPAN/status/1066969923086299136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 863,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1473,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56344725,
+			"id_str": "56344725",
+			"name": "DAYS JAPAN",
+			"screen_name": "DAYS_JAPAN",
+			"location": "東京・明大前駅",
+			"description": "フォトジャーナリズム月刊誌「DAYS JAPAN」毎月20日発売。「一枚の写真が国家を動かすこともある」「人々の意志が戦争を止める日が必ず来る」DAYS国際フォトジャーナリズム大賞、写真展『地球の上に生きる』を開催\n〈Facebookページ〉http://t.co/iEOX9Fb3n4",
+			"url": "http://t.co/6Sr8LxyYEv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6Sr8LxyYEv",
+							"expanded_url": "http://www.daysjapan.net",
+							"display_url": "daysjapan.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/iEOX9Fb3n4",
+							"expanded_url": "http://www.facebook.com/daysjapan.net",
+							"display_url": "facebook.com/daysjapan.net",
+							"indices": [
+								121,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21291,
+			"friends_count": 157,
+			"listed_count": 1398,
+			"created_at": "Mon Jul 13 11:02:50 +0000 2009",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17927,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AD0712",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396723104/144_144_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396723104/144_144_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56344725/1441272868",
+			"profile_link_color": "AD0712",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【お知らせ】\n10月号に寄稿していただいた政治学者の白井聡さんの講演会を開催します。テーマは「国体と憲法と沖縄」。沖縄が犠牲となる根本にあるものを解説します。\n\n日時：12/10(月)　19時～\n場所：文京シビックホール小ホール（シビックセンター2Ｆ）\n\n詳細はこちら　https://t.co/4nbI2vsDv8 https://t.co/HPNehlDLFK"
+	},
+	{
 		"created_at": "Sun Nov 25 23:14:19 +0000 2018",
 		"id": 1066832483818266600,
 		"id_str": "1066832483818266624",
