@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 27 23:54:41 +0000 2018",
+		"id": 1067567418367569900,
+		"id_str": "1067567418367569920",
+		"full_text": "스펀지밥의 원작자가 돌아가셨다는 소식을 출근길 지하철에서 졸고 있다가 깜짝 놀라 받은 와이프의 다급한 전화로 알게 됨",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 580,
+			"friends_count": 490,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16904,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "스펀지밥의 원작자가 돌아가셨다는 소식을 출근길 지하철에서 졸고 있다가 깜짝 놀라 받은 와이프의 다급한 전화로 알게 됨"
+	},
+	{
+		"created_at": "Tue Nov 27 10:42:32 +0000 2018",
+		"id": 1067368066311381000,
+		"id_str": "1067368066311380993",
+		"full_text": "「この文書がなければもっと執拗に最低でも県外を追及していたと思う」と述べ、結論が変わっていた可能性を示唆\n\n#辺野古 回帰「外務省の虚偽文書に引きずられた」　鳩山元首相が説明\nhttps://t.co/Dtijb7rwia @theokinawatimesより",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "辺野古",
+					"indices": [
+						54,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theokinawatimes",
+					"name": "沖縄タイムス",
+					"id": 118600653,
+					"id_str": "118600653",
+					"indices": [
+						112,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Dtijb7rwia",
+					"expanded_url": "https://www.okinawatimes.co.jp/articles/-/348988",
+					"display_url": "okinawatimes.co.jp/articles/-/348…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1479886140,
+			"id_str": "1479886140",
+			"name": "YUTAKA #ANTIFA",
+			"screen_name": "yutakatheblues",
+			"location": "ryukyu",
+			"description": "Uchinanchu.Tweeting in English & Japanese From Okinawa.Let's Talk About Various Things together,「情けは味方、讎は敵」琉球保守派",
+			"url": "https://t.co/hmhtkAJZqC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hmhtkAJZqC",
+							"expanded_url": "http://english.ryukyushimpo.jp",
+							"display_url": "english.ryukyushimpo.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2007,
+			"friends_count": 4409,
+			"listed_count": 97,
+			"created_at": "Mon Jun 03 15:00:27 +0000 2013",
+			"favourites_count": 15869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 136935,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/417687100947828736/1V3j0KgI_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/417687100947828736/1V3j0KgI_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1479886140/1509598276",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「この文書がなければもっと執拗に最低でも県外を追及していたと思う」と述べ、結論が変わっていた可能性を示唆\n\n#辺野古 回帰「外務省の虚偽文書に引きずられた」　鳩山元首相が説明\nhttps://t.co/Dtijb7rwia @theokinawatimesより"
+	},
+	{
+		"created_at": "Mon Nov 26 08:20:27 +0000 2018",
+		"id": 1066969923086299100,
+		"id_str": "1066969923086299136",
+		"full_text": "【お知らせ】\n10月号に寄稿していただいた政治学者の白井聡さんの講演会を開催します。テーマは「国体と憲法と沖縄」。沖縄が犠牲となる根本にあるものを解説します。\n\n日時：12/10(月)　19時～\n場所：文京シビックホール小ホール（シビックセンター2Ｆ）\n\n詳細はこちら　https://t.co/4nbI2vsDv8 https://t.co/HPNehlDLFK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4nbI2vsDv8",
+					"expanded_url": "http://ur0.work/NRtr",
+					"display_url": "ur0.work/NRtr",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1066963296211718100,
+					"id_str": "1066963296211718145",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Ds6ddwMUUAEG8Vy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ds6ddwMUUAEG8Vy.jpg",
+					"url": "https://t.co/HPNehlDLFK",
+					"display_url": "pic.twitter.com/HPNehlDLFK",
+					"expanded_url": "https://twitter.com/DAYS_JAPAN/status/1066969923086299136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 863,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1473,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1066963296211718100,
+					"id_str": "1066963296211718145",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Ds6ddwMUUAEG8Vy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ds6ddwMUUAEG8Vy.jpg",
+					"url": "https://t.co/HPNehlDLFK",
+					"display_url": "pic.twitter.com/HPNehlDLFK",
+					"expanded_url": "https://twitter.com/DAYS_JAPAN/status/1066969923086299136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 863,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1473,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56344725,
+			"id_str": "56344725",
+			"name": "DAYS JAPAN",
+			"screen_name": "DAYS_JAPAN",
+			"location": "東京・明大前駅",
+			"description": "フォトジャーナリズム月刊誌「DAYS JAPAN」毎月20日発売。「一枚の写真が国家を動かすこともある」「人々の意志が戦争を止める日が必ず来る」DAYS国際フォトジャーナリズム大賞、写真展『地球の上に生きる』を開催\n〈Facebookページ〉http://t.co/iEOX9Fb3n4",
+			"url": "http://t.co/6Sr8LxyYEv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6Sr8LxyYEv",
+							"expanded_url": "http://www.daysjapan.net",
+							"display_url": "daysjapan.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/iEOX9Fb3n4",
+							"expanded_url": "http://www.facebook.com/daysjapan.net",
+							"display_url": "facebook.com/daysjapan.net",
+							"indices": [
+								121,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21292,
+			"friends_count": 157,
+			"listed_count": 1398,
+			"created_at": "Mon Jul 13 11:02:50 +0000 2009",
+			"favourites_count": 258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17928,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AD0712",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396723104/144_144_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396723104/144_144_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56344725/1441272868",
+			"profile_link_color": "AD0712",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【お知らせ】\n10月号に寄稿していただいた政治学者の白井聡さんの講演会を開催します。テーマは「国体と憲法と沖縄」。沖縄が犠牲となる根本にあるものを解説します。\n\n日時：12/10(月)　19時～\n場所：文京シビックホール小ホール（シビックセンター2Ｆ）\n\n詳細はこちら　https://t.co/4nbI2vsDv8 https://t.co/HPNehlDLFK"
+	},
+	{
 		"created_at": "Mon Nov 26 08:20:27 +0000 2018",
 		"id": 1066969923086299100,
 		"id_str": "1066969923086299136",
