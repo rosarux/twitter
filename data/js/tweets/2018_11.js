@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 28 23:52:23 +0000 2018",
+		"id": 1067929226215534600,
+		"id_str": "1067929226215534592",
+		"full_text": "유민이가 타블렛으로 그린 4컷 만화 https://t.co/Qo3tJl1uZr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1067929219714375700,
+					"id_str": "1067929219714375680",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DtIL95pV4AA73Au.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtIL95pV4AA73Au.jpg",
+					"url": "https://t.co/Qo3tJl1uZr",
+					"display_url": "pic.twitter.com/Qo3tJl1uZr",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1067929226215534592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 863,
+							"h": 1222,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1067929219714375700,
+					"id_str": "1067929219714375680",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DtIL95pV4AA73Au.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtIL95pV4AA73Au.jpg",
+					"url": "https://t.co/Qo3tJl1uZr",
+					"display_url": "pic.twitter.com/Qo3tJl1uZr",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1067929226215534592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 863,
+							"h": 1222,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 580,
+			"friends_count": 490,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16907,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유민이가 타블렛으로 그린 4컷 만화 https://t.co/Qo3tJl1uZr"
+	},
+	{
+		"created_at": "Wed Nov 28 08:47:41 +0000 2018",
+		"id": 1067701553451098100,
+		"id_str": "1067701553451098113",
+		"full_text": "米軍普天間飛行場（沖縄県宜野湾市）の移設先とされる同県名護市辺野古で暮らし、「基地を止めない限り死ねない」と抗議活動を続ける島袋文子さん（８９）。昨年８月公開の映像を新連載「VOICES」として再編集しました。（賢）オリジナル版（約９０秒）は→https://t.co/JbeLdixxnF https://t.co/gmN7eBICmy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JbeLdixxnF",
+					"expanded_url": "https://bit.ly/2r7XAn7",
+					"display_url": "bit.ly/2r7XAn7",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1067699601065406500,
+					"id_str": "1067699601065406464",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DtE9X7eU0AA_NRe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtE9X7eU0AA_NRe.jpg",
+					"url": "https://t.co/gmN7eBICmy",
+					"display_url": "pic.twitter.com/gmN7eBICmy",
+					"expanded_url": "https://twitter.com/eizo_desk/status/1067701553451098113/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1067699601065406500,
+					"id_str": "1067699601065406464",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DtE9X7eU0AA_NRe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DtE9X7eU0AA_NRe.jpg",
+					"url": "https://t.co/gmN7eBICmy",
+					"display_url": "pic.twitter.com/gmN7eBICmy",
+					"expanded_url": "https://twitter.com/eizo_desk/status/1067701553451098113/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 62729,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1067699601065406464/pu/vid/480x480/bbmXycP5YBJhOLJr.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1067699601065406464/pu/vid/240x240/i9owjH6GEcD3En7j.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1067699601065406464/pu/pl/_00Q4ok58cbPGZk5.m3u8?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1067699601065406464/pu/vid/720x720/2hSDvoIHzKK296fR.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "ＶＯＩＣＥＳ：「基地止めるまで死ねない」沖縄戦経験の８９歳",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://video.mainichi.jp/detail/videos/voices/video/5972489213001?"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3191925858,
+			"id_str": "3191925858",
+			"name": "毎日新聞映像グループ",
+			"screen_name": "eizo_desk",
+			"location": "東京都 千代田区一ツ橋1－1－1",
+			"description": "毎日新聞映像グループの公式アカウントです。「毎日動画」にアップした動画ニュースを紹介します。よろしくお願いします。 https://t.co/IjIkiRy50f\nhttps://t.co/6C4KTz5EDh…",
+			"url": "https://t.co/IjIkiRy50f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IjIkiRy50f",
+							"expanded_url": "http://mainichi.jp/movie/",
+							"display_url": "mainichi.jp/movie/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IjIkiRy50f",
+							"expanded_url": "http://mainichi.jp/movie/",
+							"display_url": "mainichi.jp/movie/",
+							"indices": [
+								58,
+								81
+							]
+						},
+						{
+							"url": "https://t.co/6C4KTz5EDh",
+							"expanded_url": "http://youtube.com/channel/UCI4mt",
+							"display_url": "youtube.com/channel/UCI4mt",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 15221,
+			"friends_count": 80,
+			"listed_count": 492,
+			"created_at": "Mon May 11 10:35:14 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3491,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3191925858/1436243230",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 454,
+		"favorite_count": 458,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "米軍普天間飛行場（沖縄県宜野湾市）の移設先とされる同県名護市辺野古で暮らし、「基地を止めない限り死ねない」と抗議活動を続ける島袋文子さん（８９）。昨年８月公開の映像を新連載「VOICES」として再編集しました。（賢）オリジナル版（約９０秒）は→https://t.co/JbeLdixxnF https://t.co/gmN7eBICmy"
+	},
+	{
+		"created_at": "Wed Nov 28 09:00:43 +0000 2018",
+		"id": 1067704831828123600,
+		"id_str": "1067704831828123649",
+		"full_text": "【29日夜・再】これまで1万枚を超すゴッホの複製画を描いてきたシャオヨン。自分の自信作がオランダでは土産品として扱われている現実を知り、本物を見るための旅に出る。\nBS世界のドキュメンタリー「中国のゴッホ　本物への旅」は29日(木)午後11時から再放送予定です。[BS1]\nhttps://t.co/nc0cqQGvBt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nc0cqQGvBt",
+					"expanded_url": "https://www.nhk.or.jp/docudocu/program/253/2145575/",
+					"display_url": "nhk.or.jp/docudocu/progr…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.nhk.or.jp/\" rel=\"nofollow\">NHK</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3022192682,
+			"id_str": "3022192682",
+			"name": "NHKドキュメンタリー",
+			"screen_name": "nhk_docudocu",
+			"location": "",
+			"description": "NHK公式サイト「もっとNHKドキュメンタリー」より最新情報をツイート。再放送決定もいち早くお知らせします！▽利用にあたってhttps://t.co/Q11WanxIUh ▽NHK公式ツイッターのフォローの考え方　https://t.co/8lVsvM27YP",
+			"url": "https://t.co/MCu4sUoKz5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MCu4sUoKz5",
+							"expanded_url": "http://www.nhk.or.jp/docudocu/",
+							"display_url": "nhk.or.jp/docudocu/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Q11WanxIUh",
+							"expanded_url": "http://nhk.jp/rules",
+							"display_url": "nhk.jp/rules",
+							"indices": [
+								62,
+								85
+							]
+						},
+						{
+							"url": "https://t.co/8lVsvM27YP",
+							"expanded_url": "http://nhk.jp/tw_f",
+							"display_url": "nhk.jp/tw_f",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27334,
+			"friends_count": 0,
+			"listed_count": 641,
+			"created_at": "Mon Feb 16 09:02:09 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23462,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846968166337122306/Y8T9pzQT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846968166337122306/Y8T9pzQT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3022192682/1543205336",
+			"profile_link_color": "5484ED",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 227,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【29日夜・再】これまで1万枚を超すゴッホの複製画を描いてきたシャオヨン。自分の自信作がオランダでは土産品として扱われている現実を知り、本物を見るための旅に出る。\nBS世界のドキュメンタリー「中国のゴッホ　本物への旅」は29日(木)午後11時から再放送予定です。[BS1]\nhttps://t.co/nc0cqQGvBt"
+	},
+	{
 		"created_at": "Tue Nov 27 23:54:41 +0000 2018",
 		"id": 1067567418367569900,
 		"id_str": "1067567418367569920",
