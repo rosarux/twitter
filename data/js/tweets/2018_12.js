@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 13 22:51:33 +0000 2018",
+		"id": 1073349736105558000,
+		"id_str": "1073349736105558016",
+		"full_text": "이런 기사 문제다. 위험을 예상했다가 그 일이 벌어지지 않으면 다행인 것이지 왜 허탈한가. 이런 생각을 하니 예방하는 일이 돈을 안 쓴다. 위험하다고 해도 일이 안 터졌으니 돈을 안 쓴다. 그러고 온수관이 터지고, 사람이 죽는다. 안전 관리, 사고 예방이라는 게 없다. https://t.co/Wo1TpiqV9P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wo1TpiqV9P",
+					"expanded_url": "https://news.v.daum.net/v/20181213081445089",
+					"display_url": "news.v.daum.net/v/201812130814…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1684827582,
+			"id_str": "1684827582",
+			"name": "앨리",
+			"screen_name": "alley_in_forest",
+			"location": "",
+			"description": "페미니스트, 빨갱이, 언어학자, I’m Dr. Alley #GirlsCanDoAnything",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5262,
+			"friends_count": 414,
+			"listed_count": 51,
+			"created_at": "Tue Aug 20 04:33:52 +0000 2013",
+			"favourites_count": 16224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 96066,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865532015084322817/9N4fgYJM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865532015084322817/9N4fgYJM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1684827582/1376976088",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 377,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이런 기사 문제다. 위험을 예상했다가 그 일이 벌어지지 않으면 다행인 것이지 왜 허탈한가. 이런 생각을 하니 예방하는 일이 돈을 안 쓴다. 위험하다고 해도 일이 안 터졌으니 돈을 안 쓴다. 그러고 온수관이 터지고, 사람이 죽는다. 안전 관리, 사고 예방이라는 게 없다. https://t.co/Wo1TpiqV9P"
+	},
+	{
+		"created_at": "Wed Dec 12 08:15:15 +0000 2018",
+		"id": 1072766819067252700,
+		"id_str": "1072766819067252736",
+		"full_text": "今年の漢字は「災」 | NHKニュース https://t.co/Iqsr3oW2CH #今年の漢字 #災 この1年、国民にとって一番の「災」は安倍内閣の存在だわな。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "今年の漢字",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "災",
+					"indices": [
+						51,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Iqsr3oW2CH",
+					"expanded_url": "https://www3.nhk.or.jp/news/html/20181212/k10011744331000.htm",
+					"display_url": "www3.nhk.or.jp/news/html/2018…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 595494083,
+			"id_str": "595494083",
+			"name": "川上芳明",
+			"screen_name": "Only1Yori",
+			"location": "東京都",
+			"description": "話し合っただけで罪になる、現代の治安維持法=共謀罪（テロ等準備罪）絶対反対！安倍9条改憲は絶対に阻止！市民と野党の共闘に全力！",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5456,
+			"friends_count": 1338,
+			"listed_count": 120,
+			"created_at": "Thu May 31 13:41:26 +0000 2012",
+			"favourites_count": 11264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91255,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897810714680713217/jE97bYgF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897810714680713217/jE97bYgF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/595494083/1486201349",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今年の漢字は「災」 | NHKニュース https://t.co/Iqsr3oW2CH #今年の漢字 #災 この1年、国民にとって一番の「災」は安倍内閣の存在だわな。"
+	},
+	{
 		"created_at": "Wed Dec 12 08:15:15 +0000 2018",
 		"id": 1072766819067252700,
 		"id_str": "1072766819067252736",
