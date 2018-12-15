@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 14 01:31:05 +0000 2018",
+		"id": 1073389883496980500,
+		"id_str": "1073389883496980480",
+		"full_text": "相次ぐ台風にも耐え抜いた庭のバナナの木。\n半分以上倒れかかっていて、他のバナナの木の陰で見えなくなっていました。\n気が付いたら、こんなに丸々と太って熟し始めていてビックリ！\n我家だけでは食べ切れないので、お客様にも手伝って頂き、後は学童の子供達に食べてもらおうかな～ https://t.co/nhRpiMl42V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1073389699006226400,
+					"id_str": "1073389699006226433",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/DuVyPoLUYAEn5tt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuVyPoLUYAEn5tt.jpg",
+					"url": "https://t.co/nhRpiMl42V",
+					"display_url": "pic.twitter.com/nhRpiMl42V",
+					"expanded_url": "https://twitter.com/furaisou/status/1073389883496980480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073389699006226400,
+					"id_str": "1073389699006226433",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/DuVyPoLUYAEn5tt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuVyPoLUYAEn5tt.jpg",
+					"url": "https://t.co/nhRpiMl42V",
+					"display_url": "pic.twitter.com/nhRpiMl42V",
+					"expanded_url": "https://twitter.com/furaisou/status/1073389883496980480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 207791068,
+			"id_str": "207791068",
+			"name": "風来荘",
+			"screen_name": "furaisou",
+			"location": "沖縄県　今帰仁村",
+			"description": "13年前に鎌倉から沖縄へ。  。。                                           海のそばで『風来荘　fu-rai-sou』 と言う名の宿を営んでおります.朝食には国産小麦を使って焼き上げる自家製天然酵母パンとスープでほっこりと。。ゆったりとした沖縄時間をお楽しみ下さい。。",
+			"url": "http://t.co/q1DVIfauZK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/q1DVIfauZK",
+							"expanded_url": "http://www7.plala.or.jp/fu-rai-sou/",
+							"display_url": "www7.plala.or.jp/fu-rai-sou/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606,
+			"friends_count": 271,
+			"listed_count": 14,
+			"created_at": "Tue Oct 26 01:28:07 +0000 2010",
+			"favourites_count": 1323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1046,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439958135634001921/P1j1yf6a_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439958135634001921/P1j1yf6a_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/207791068/1398257915",
+			"profile_link_color": "256DD9",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "052e049119fd8da1",
+			"url": "https://api.twitter.com/1.1/geo/id/052e049119fd8da1.json",
+			"place_type": "admin",
+			"name": "沖縄",
+			"full_name": "日本 沖縄",
+			"country_code": "JP",
+			"country": "日本",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							122.933784,
+							24.045669
+						],
+						[
+							131.332071,
+							24.045669
+						],
+						[
+							131.332071,
+							27.095384
+						],
+						[
+							122.933784,
+							27.095384
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "相次ぐ台風にも耐え抜いた庭のバナナの木。\n半分以上倒れかかっていて、他のバナナの木の陰で見えなくなっていました。\n気が付いたら、こんなに丸々と太って熟し始めていてビックリ！\n我家だけでは食べ切れないので、お客様にも手伝って頂き、後は学童の子供達に食べてもらおうかな～ https://t.co/nhRpiMl42V"
+	},
+	{
+		"created_at": "Thu Dec 13 22:51:33 +0000 2018",
+		"id": 1073349736105558000,
+		"id_str": "1073349736105558016",
+		"full_text": "이런 기사 문제다. 위험을 예상했다가 그 일이 벌어지지 않으면 다행인 것이지 왜 허탈한가. 이런 생각을 하니 예방하는 일이 돈을 안 쓴다. 위험하다고 해도 일이 안 터졌으니 돈을 안 쓴다. 그러고 온수관이 터지고, 사람이 죽는다. 안전 관리, 사고 예방이라는 게 없다. https://t.co/Wo1TpiqV9P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wo1TpiqV9P",
+					"expanded_url": "https://news.v.daum.net/v/20181213081445089",
+					"display_url": "news.v.daum.net/v/201812130814…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1684827582,
+			"id_str": "1684827582",
+			"name": "앨리",
+			"screen_name": "alley_in_forest",
+			"location": "",
+			"description": "페미니스트, 빨갱이, 언어학자, I’m Dr. Alley #GirlsCanDoAnything",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5270,
+			"friends_count": 414,
+			"listed_count": 53,
+			"created_at": "Tue Aug 20 04:33:52 +0000 2013",
+			"favourites_count": 16228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 96087,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865532015084322817/9N4fgYJM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865532015084322817/9N4fgYJM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1684827582/1376976088",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2229,
+		"favorite_count": 364,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이런 기사 문제다. 위험을 예상했다가 그 일이 벌어지지 않으면 다행인 것이지 왜 허탈한가. 이런 생각을 하니 예방하는 일이 돈을 안 쓴다. 위험하다고 해도 일이 안 터졌으니 돈을 안 쓴다. 그러고 온수관이 터지고, 사람이 죽는다. 안전 관리, 사고 예방이라는 게 없다. https://t.co/Wo1TpiqV9P"
+	},
+	{
 		"created_at": "Thu Dec 13 22:51:33 +0000 2018",
 		"id": 1073349736105558000,
 		"id_str": "1073349736105558016",
