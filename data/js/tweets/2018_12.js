@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 20 21:55:17 +0000 2018",
+		"id": 1075872289697067000,
+		"id_str": "1075872289697067008",
+		"full_text": "대체 왜 남자/한국남자 같은 말이 멸칭으로 들리지 않을 만큼 반듯하고 정숙하게 살겠다는 개념 충전한 남자는 안 보이고, 이년 저년 김치녀 된장녀도 아닌 그저 남자/한국남자라는 말에 저렇게 난리인지...... 그냥 자신이 한국남자를 대표한다고 생각하고 좀 점잖고 단정히 살면 안되는가.....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47231687,
+			"id_str": "47231687",
+			"name": "수면이 부족한 해망재님",
+			"screen_name": "heyjinism",
+			"location": "",
+			"description": "순정만화와 SF 소설을 씁니다 / 최근 인체연성에 성공했습니다",
+			"url": "https://t.co/EVlYH9eUIo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EVlYH9eUIo",
+							"expanded_url": "http://www.heyjinism.com",
+							"display_url": "heyjinism.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7073,
+			"friends_count": 2262,
+			"listed_count": 164,
+			"created_at": "Mon Jun 15 02:01:25 +0000 2009",
+			"favourites_count": 16221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 362337,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980241639301005313/beUWR8Vx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980241639301005313/beUWR8Vx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47231687/1522542953",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 512,
+		"favorite_count": 188,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "대체 왜 남자/한국남자 같은 말이 멸칭으로 들리지 않을 만큼 반듯하고 정숙하게 살겠다는 개념 충전한 남자는 안 보이고, 이년 저년 김치녀 된장녀도 아닌 그저 남자/한국남자라는 말에 저렇게 난리인지...... 그냥 자신이 한국남자를 대표한다고 생각하고 좀 점잖고 단정히 살면 안되는가....."
+	},
+	{
 		"created_at": "Tue Dec 18 13:50:51 +0000 2018",
 		"id": 1075025601528922100,
 		"id_str": "1075025601528922114",
