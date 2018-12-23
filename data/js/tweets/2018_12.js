@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sat Dec 22 00:24:06 +0000 2018",
+		"id": 1076272127592951800,
+		"id_str": "1076272127592951808",
+		"full_text": "@kojongsoo8318 아이고 부끄럽습니다. 잘 지내시죠?",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kojongsoo8318",
+					"name": "고정수高井修(翻訳家번역가)",
+					"id": 562986011,
+					"id_str": "562986011",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1076138587488378900,
+		"in_reply_to_status_id_str": "1076138587488378881",
+		"in_reply_to_user_id": 562986011,
+		"in_reply_to_user_id_str": "562986011",
+		"in_reply_to_screen_name": "kojongsoo8318",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 488,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16938,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@kojongsoo8318 아이고 부끄럽습니다. 잘 지내시죠?"
+	},
+	{
+		"created_at": "Thu Dec 20 21:55:17 +0000 2018",
+		"id": 1075872289697067000,
+		"id_str": "1075872289697067008",
+		"full_text": "대체 왜 남자/한국남자 같은 말이 멸칭으로 들리지 않을 만큼 반듯하고 정숙하게 살겠다는 개념 충전한 남자는 안 보이고, 이년 저년 김치녀 된장녀도 아닌 그저 남자/한국남자라는 말에 저렇게 난리인지...... 그냥 자신이 한국남자를 대표한다고 생각하고 좀 점잖고 단정히 살면 안되는가.....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47231687,
+			"id_str": "47231687",
+			"name": "수면이 부족한 해망재님",
+			"screen_name": "heyjinism",
+			"location": "",
+			"description": "순정만화와 SF 소설을 씁니다 / 최근 인체연성에 성공했습니다 / Writer & Worker",
+			"url": "https://t.co/EVlYH9eUIo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EVlYH9eUIo",
+							"expanded_url": "http://www.heyjinism.com",
+							"display_url": "heyjinism.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7072,
+			"friends_count": 2263,
+			"listed_count": 164,
+			"created_at": "Mon Jun 15 02:01:25 +0000 2009",
+			"favourites_count": 16246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 362485,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980241639301005313/beUWR8Vx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980241639301005313/beUWR8Vx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47231687/1522542953",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 592,
+		"favorite_count": 216,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "대체 왜 남자/한국남자 같은 말이 멸칭으로 들리지 않을 만큼 반듯하고 정숙하게 살겠다는 개념 충전한 남자는 안 보이고, 이년 저년 김치녀 된장녀도 아닌 그저 남자/한국남자라는 말에 저렇게 난리인지...... 그냥 자신이 한국남자를 대표한다고 생각하고 좀 점잖고 단정히 살면 안되는가....."
+	},
+	{
 		"created_at": "Thu Dec 20 21:55:17 +0000 2018",
 		"id": 1075872289697067000,
 		"id_str": "1075872289697067008",
