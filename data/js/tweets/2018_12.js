@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 25 11:57:49 +0000 2018",
+		"id": 1077533874140385300,
+		"id_str": "1077533874140385280",
+		"full_text": "Dec 25 1831 – The Great Jamaican Slave Revolt (sometimes called the Christmas Rebellion) begins as a strike involving 60,000 slaves turns into insurrection; up to 20% of the island's slaves are involved. Brutal repression follows with around 500 killed, often for minor \"offenses\" https://t.co/lc76eGRpAT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077533645106282500,
+					"id_str": "1077533645106282502",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DvQrJCYXgAYDdsT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvQrJCYXgAYDdsT.jpg",
+					"url": "https://t.co/lc76eGRpAT",
+					"display_url": "pic.twitter.com/lc76eGRpAT",
+					"expanded_url": "https://twitter.com/radicaldaily/status/1077533874140385280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 830,
+							"h": 445,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 365,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 830,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077533645106282500,
+					"id_str": "1077533645106282502",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DvQrJCYXgAYDdsT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvQrJCYXgAYDdsT.jpg",
+					"url": "https://t.co/lc76eGRpAT",
+					"display_url": "pic.twitter.com/lc76eGRpAT",
+					"expanded_url": "https://twitter.com/radicaldaily/status/1077533874140385280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 830,
+							"h": 445,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 365,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 830,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 998143742,
+			"id_str": "998143742",
+			"name": "DailyRadical History",
+			"screen_name": "radicaldaily",
+			"location": "Petrograd",
+			"description": "Tweeting daily doses of radical & revolutionary history. Important anniversaries from the struggle for justice, peace, democracy and freedom.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40111,
+			"friends_count": 50,
+			"listed_count": 527,
+			"created_at": "Sat Dec 08 22:44:19 +0000 2012",
+			"favourites_count": 117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12251,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2949681557/03f420475563804216181535611cd385_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2949681557/03f420475563804216181535611cd385_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/998143742/1355007288",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 387,
+		"favorite_count": 487,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dec 25 1831 – The Great Jamaican Slave Revolt (sometimes called the Christmas Rebellion) begins as a strike involving 60,000 slaves turns into insurrection; up to 20% of the island's slaves are involved. Brutal repression follows with around 500 killed, often for minor \"offenses\" https://t.co/lc76eGRpAT"
+	},
+	{
+		"created_at": "Tue Dec 25 07:14:30 +0000 2018",
+		"id": 1077462572146794500,
+		"id_str": "1077462572146794496",
+		"full_text": "알티에 덫붙여, 유학은 이십대에 하는 것도 좋지만, 난 30대에 시작했다. 한국에서 십년동안 쌓아올린 커리어를 뒤로 하는 것이 힘들었지만,  참 해보고 싶었던 유학생활이라 재미있었다. 결과 보다는 과정을 즐기려 했다. 미래는 미래에게 맡기고, 난 현재를 사는 것이 좋다.언제나결과가좋지는않아.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112436695,
+			"id_str": "112436695",
+			"name": "요리조리도리미돌이",
+			"screen_name": "mimicompany",
+			"location": "Deutschland",
+			"description": "꿈이 뭐예요? 서울, 베를린, 취리히, 쌩 갈렌, 로이틀링엔. 노마드. 열심히 살려고 하는데 생각보다 게을러요. #생각나면바로하기운동실천본부",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5193,
+			"friends_count": 791,
+			"listed_count": 42,
+			"created_at": "Mon Feb 08 14:01:37 +0000 2010",
+			"favourites_count": 10310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41631,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071219265326469120/NegIlpsU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071219265326469120/NegIlpsU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112436695/1422221240",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 316,
+		"favorite_count": 596,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "알티에 덫붙여, 유학은 이십대에 하는 것도 좋지만, 난 30대에 시작했다. 한국에서 십년동안 쌓아올린 커리어를 뒤로 하는 것이 힘들었지만,  참 해보고 싶었던 유학생활이라 재미있었다. 결과 보다는 과정을 즐기려 했다. 미래는 미래에게 맡기고, 난 현재를 사는 것이 좋다.언제나결과가좋지는않아."
+	},
+	{
 		"created_at": "Sun Dec 23 05:44:00 +0000 2018",
 		"id": 1076715021734797300,
 		"id_str": "1076715021734797312",
