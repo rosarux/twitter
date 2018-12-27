@@ -1,6 +1,602 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 26 10:59:46 +0000 2018",
+		"id": 1077881653773721600,
+		"id_str": "1077881653773721601",
+		"full_text": "Dec 26 1825 – A liberal anti-monarchy rebellion, known as the Decembrist Revolt begins against Czar Nicholas I in Russia, but is suppressed. https://t.co/EcgoqAwMXe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077881642524573700,
+					"id_str": "1077881642524573696",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/DvVnpJyXgAA_qED.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvVnpJyXgAA_qED.jpg",
+					"url": "https://t.co/EcgoqAwMXe",
+					"display_url": "pic.twitter.com/EcgoqAwMXe",
+					"expanded_url": "https://twitter.com/radicaldaily/status/1077881653773721601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 633,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077881642524573700,
+					"id_str": "1077881642524573696",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/DvVnpJyXgAA_qED.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvVnpJyXgAA_qED.jpg",
+					"url": "https://t.co/EcgoqAwMXe",
+					"display_url": "pic.twitter.com/EcgoqAwMXe",
+					"expanded_url": "https://twitter.com/radicaldaily/status/1077881653773721601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 633,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 998143742,
+			"id_str": "998143742",
+			"name": "DailyRadical History",
+			"screen_name": "radicaldaily",
+			"location": "Petrograd",
+			"description": "Tweeting daily doses of radical & revolutionary history. Important anniversaries from the struggle for justice, peace, democracy and freedom.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40169,
+			"friends_count": 50,
+			"listed_count": 528,
+			"created_at": "Sat Dec 08 22:44:19 +0000 2012",
+			"favourites_count": 117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12252,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2949681557/03f420475563804216181535611cd385_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2949681557/03f420475563804216181535611cd385_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/998143742/1355007288",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dec 26 1825 – A liberal anti-monarchy rebellion, known as the Decembrist Revolt begins against Czar Nicholas I in Russia, but is suppressed. https://t.co/EcgoqAwMXe"
+	},
+	{
+		"created_at": "Fri Dec 21 15:21:28 +0000 2018",
+		"id": 1076135571750215700,
+		"id_str": "1076135571750215680",
+		"full_text": "イルカ様「邪魔だどけぇ！」 https://t.co/UfyfA1k2Hk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1076135521640800300,
+					"id_str": "1076135521640800256",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1076135521640800256/pu/img/JW6ex8Qc72nTrF2-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1076135521640800256/pu/img/JW6ex8Qc72nTrF2-.jpg",
+					"url": "https://t.co/UfyfA1k2Hk",
+					"display_url": "pic.twitter.com/UfyfA1k2Hk",
+					"expanded_url": "https://twitter.com/animalchinema/status/1076135571750215680/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076135521640800300,
+					"id_str": "1076135521640800256",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1076135521640800256/pu/img/JW6ex8Qc72nTrF2-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1076135521640800256/pu/img/JW6ex8Qc72nTrF2-.jpg",
+					"url": "https://t.co/UfyfA1k2Hk",
+					"display_url": "pic.twitter.com/UfyfA1k2Hk",
+					"expanded_url": "https://twitter.com/animalchinema/status/1076135571750215680/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3933,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1076135521640800256/pu/vid/480x480/MCqMeSveKgxRzCAd.mp4?tag=6"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1076135521640800256/pu/vid/320x320/z0f2AqXOZWJ2fGu-.mp4?tag=6"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1076135521640800256/pu/vid/720x720/LHe31uRntX_BNpVP.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1076135521640800256/pu/pl/GFFjKEDFWs_26nnP.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com/animalchinema\" rel=\"nofollow\">animalchinema</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1075781284025299000,
+			"id_str": "1075781284025298944",
+			"name": "🐾動物シネマ 🐾",
+			"screen_name": "animalchinema",
+			"location": "",
+			"description": "🐾 世界中の可愛い動物たちの動画を集めました💗沢山の愛らしい映像をお楽しみください🐤気に入ったらフォロー＆RTお願いします🐖",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 471,
+			"listed_count": 8,
+			"created_at": "Thu Dec 20 15:53:39 +0000 2018",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 118,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075781745486761985/gtmDhGoN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075781745486761985/gtmDhGoN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1075781284025298944/1545321372",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37394,
+		"favorite_count": 93364,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "イルカ様「邪魔だどけぇ！」 https://t.co/UfyfA1k2Hk"
+	},
+	{
+		"created_at": "Tue Dec 25 11:57:49 +0000 2018",
+		"id": 1077533874140385300,
+		"id_str": "1077533874140385280",
+		"full_text": "Dec 25 1831 – The Great Jamaican Slave Revolt (sometimes called the Christmas Rebellion) begins as a strike involving 60,000 slaves turns into insurrection; up to 20% of the island's slaves are involved. Brutal repression follows with around 500 killed, often for minor \"offenses\" https://t.co/lc76eGRpAT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077533645106282500,
+					"id_str": "1077533645106282502",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DvQrJCYXgAYDdsT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvQrJCYXgAYDdsT.jpg",
+					"url": "https://t.co/lc76eGRpAT",
+					"display_url": "pic.twitter.com/lc76eGRpAT",
+					"expanded_url": "https://twitter.com/radicaldaily/status/1077533874140385280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 830,
+							"h": 445,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 365,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 830,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077533645106282500,
+					"id_str": "1077533645106282502",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DvQrJCYXgAYDdsT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvQrJCYXgAYDdsT.jpg",
+					"url": "https://t.co/lc76eGRpAT",
+					"display_url": "pic.twitter.com/lc76eGRpAT",
+					"expanded_url": "https://twitter.com/radicaldaily/status/1077533874140385280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 830,
+							"h": 445,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 365,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 830,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 998143742,
+			"id_str": "998143742",
+			"name": "DailyRadical History",
+			"screen_name": "radicaldaily",
+			"location": "Petrograd",
+			"description": "Tweeting daily doses of radical & revolutionary history. Important anniversaries from the struggle for justice, peace, democracy and freedom.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40169,
+			"friends_count": 50,
+			"listed_count": 528,
+			"created_at": "Sat Dec 08 22:44:19 +0000 2012",
+			"favourites_count": 117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12252,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2949681557/03f420475563804216181535611cd385_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2949681557/03f420475563804216181535611cd385_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/998143742/1355007288",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 452,
+		"favorite_count": 571,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dec 25 1831 – The Great Jamaican Slave Revolt (sometimes called the Christmas Rebellion) begins as a strike involving 60,000 slaves turns into insurrection; up to 20% of the island's slaves are involved. Brutal repression follows with around 500 killed, often for minor \"offenses\" https://t.co/lc76eGRpAT"
+	},
+	{
+		"created_at": "Tue Dec 25 07:14:30 +0000 2018",
+		"id": 1077462572146794500,
+		"id_str": "1077462572146794496",
+		"full_text": "알티에 덫붙여, 유학은 이십대에 하는 것도 좋지만, 난 30대에 시작했다. 한국에서 십년동안 쌓아올린 커리어를 뒤로 하는 것이 힘들었지만,  참 해보고 싶었던 유학생활이라 재미있었다. 결과 보다는 과정을 즐기려 했다. 미래는 미래에게 맡기고, 난 현재를 사는 것이 좋다.언제나결과가좋지는않아.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112436695,
+			"id_str": "112436695",
+			"name": "요리조리도리미돌이",
+			"screen_name": "mimicompany",
+			"location": "Deutschland",
+			"description": "꿈이 뭐예요? 서울, 베를린, 취리히, 쌩 갈렌, 로이틀링엔. 노마드. 열심히 살려고 하는데 생각보다 게을러요. #생각나면바로하기운동실천본부",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5222,
+			"friends_count": 792,
+			"listed_count": 42,
+			"created_at": "Mon Feb 08 14:01:37 +0000 2010",
+			"favourites_count": 10400,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41769,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071219265326469120/NegIlpsU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071219265326469120/NegIlpsU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112436695/1422221240",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 615,
+		"favorite_count": 884,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "알티에 덫붙여, 유학은 이십대에 하는 것도 좋지만, 난 30대에 시작했다. 한국에서 십년동안 쌓아올린 커리어를 뒤로 하는 것이 힘들었지만,  참 해보고 싶었던 유학생활이라 재미있었다. 결과 보다는 과정을 즐기려 했다. 미래는 미래에게 맡기고, 난 현재를 사는 것이 좋다.언제나결과가좋지는않아."
+	},
+	{
 		"created_at": "Tue Dec 25 11:57:49 +0000 2018",
 		"id": 1077533874140385300,
 		"id_str": "1077533874140385280",
