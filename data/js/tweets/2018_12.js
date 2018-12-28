@@ -1,6 +1,1677 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Dec 28 00:08:03 +0000 2018",
+		"id": 1078442416653258800,
+		"id_str": "1078442416653258752",
+		"full_text": "• 가장 힘들었던 일 1) 오전 11시에 요로결석 파쇄술을 받고 1시에 남북정상회담 취재차 온 오키나와 언론 기자분들과 만나 &lt;을지면옥&gt;에서 평냉을 먹고 ㅠㅠ 오후 내내 종로에서 광화문 일대를 돌아다니며 태극기 집회 취재 지원. 집에 갈 때 거의 울면서 기어서 들어감.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1075025601528922100,
+		"in_reply_to_status_id_str": "1075025601528922114",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 489,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16954,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "• 가장 힘들었던 일 1) 오전 11시에 요로결석 파쇄술을 받고 1시에 남북정상회담 취재차 온 오키나와 언론 기자분들과 만나 &lt;을지면옥&gt;에서 평냉을 먹고 ㅠㅠ 오후 내내 종로에서 광화문 일대를 돌아다니며 태극기 집회 취재 지원. 집에 갈 때 거의 울면서 기어서 들어감."
+	},
+	{
+		"created_at": "Thu Dec 27 23:42:03 +0000 2018",
+		"id": 1078435873371254800,
+		"id_str": "1078435873371254785",
+		"full_text": "귀족노조라는 말도 참.  귀족이 노조를 와 만드나 (답답)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 489,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16954,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "귀족노조라는 말도 참.  귀족이 노조를 와 만드나 (답답)"
+	},
+	{
+		"created_at": "Thu Dec 27 23:36:21 +0000 2018",
+		"id": 1078434440869687300,
+		"id_str": "1078434440869687296",
+		"full_text": "28년 동안 평행세계 건너편에서 살 다 문재인 정부와 함께 이쪽 세계로 건너온 분들이 참 많은 듯(답답)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 489,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16954,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "28년 동안 평행세계 건너편에서 살 다 문재인 정부와 함께 이쪽 세계로 건너온 분들이 참 많은 듯(답답)"
+	},
+	{
+		"created_at": "Thu Dec 27 13:50:03 +0000 2018",
+		"id": 1078286894536872000,
+		"id_str": "1078286894536871937",
+		"full_text": "@ekctu 별 난리를 다 부리시느라 고생 많으셨습니다. 그런데 28년동안 민노총은 머하셨어요?",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ekctu",
+					"name": "민주노총",
+					"id": 119629477,
+					"id_str": "119629477",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1078220172597506000,
+		"in_reply_to_status_id_str": "1078220172597506049",
+		"in_reply_to_user_id": 119629477,
+		"in_reply_to_user_id_str": "119629477",
+		"in_reply_to_screen_name": "ekctu",
+		"user": {
+			"id": 388732244,
+			"id_str": "388732244",
+			"name": "임윤경 #바보가꿈꾸는세상",
+			"screen_name": "djaak2002",
+			"location": "제주 #박근혜당선무효",
+			"description": "민주주의는 절대 공짜로 얻어지는 것이 아니며, 어느 역사를 보나 민주화를 위해서는 희생과 땀이 필요하다!!\n민주주의 최후의 보루는 깨어있는 시민의 조직된 힘입니다\n역사청산이 나라살리는 길\n\nKBS수신료거부 전화: 1588-1801\n종편도 안봐요",
+			"url": "https://t.co/kpHKa9MY0p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kpHKa9MY0p",
+							"expanded_url": "http://twtkr.com/djaak2002",
+							"display_url": "twtkr.com/djaak2002",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73928,
+			"friends_count": 31849,
+			"listed_count": 432,
+			"created_at": "Tue Oct 11 07:48:29 +0000 2011",
+			"favourites_count": 360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 170687,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0A0A09",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/833946099882803201/q5Z_uuV9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/833946099882803201/q5Z_uuV9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/388732244/1479108224",
+			"profile_link_color": "0A0A09",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EDB0C4",
+			"profile_text_color": "050505",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@ekctu 별 난리를 다 부리시느라 고생 많으셨습니다. 그런데 28년동안 민노총은 머하셨어요?"
+	},
+	{
+		"created_at": "Thu Dec 27 14:35:38 +0000 2018",
+		"id": 1078298365220147200,
+		"id_str": "1078298365220147203",
+		"full_text": "@djaak2002 안녕하세요 선생님, 이 기회에 노동안전보건 투쟁의 역사를 함께 살펴보았으면 합니다. 1988년 수은중독으로 숨진 15세 노동자 문송면을 아십니까. 이황화탄소에 중독되었던 원진레이온 노동자를 아시는지요. 노동자들은 죽음의 일터를 바꾸기 위해 수십년간 투쟁해왔습니다.\n\nhttps://t.co/Y3lqRznM1B",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djaak2002",
+					"name": "임윤경 #바보가꿈꾸는세상",
+					"id": 388732244,
+					"id_str": "388732244",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y3lqRznM1B",
+					"expanded_url": "https://twitter.com/ekctu/status/1003433611142430720?s=19",
+					"display_url": "twitter.com/ekctu/status/1…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1078286894536872000,
+		"in_reply_to_status_id_str": "1078286894536871937",
+		"in_reply_to_user_id": 388732244,
+		"in_reply_to_user_id_str": "388732244",
+		"in_reply_to_screen_name": "djaak2002",
+		"user": {
+			"id": 119629477,
+			"id_str": "119629477",
+			"name": "민주노총",
+			"screen_name": "ekctu",
+			"location": "대한민국 서울",
+			"description": "일하는 사람들의 든든한 우산, 노동조합! 전국민주노동조합총연맹 공식 트위터입니다. / Korean Confederation of Trade Union Official tweets (https://t.co/1RCxuxfA4J)",
+			"url": "https://t.co/YYdC4LzCPl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YYdC4LzCPl",
+							"expanded_url": "http://nodong.org",
+							"display_url": "nodong.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1RCxuxfA4J",
+							"expanded_url": "http://kctu.org",
+							"display_url": "kctu.org",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25298,
+			"friends_count": 16308,
+			"listed_count": 681,
+			"created_at": "Thu Mar 04 05:27:19 +0000 2010",
+			"favourites_count": 2511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16820,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054220590104465408/dj8hRTYt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054220590104465408/dj8hRTYt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119629477/1531371036",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1003433611142430700,
+		"quoted_status_id_str": "1003433611142430720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Y3lqRznM1B",
+			"expanded": "https://twitter.com/ekctu/status/1003433611142430720?s=19",
+			"display": "twitter.com/ekctu/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 04 00:29:50 +0000 2018",
+			"id": 1003433611142430700,
+			"id_str": "1003433611142430720",
+			"full_text": "\"낮에는 일하고 밤에는 학교에 다닐 수 있어\" 1987년 12월 중학교 졸업을 앞둔 소년 문송면은 이 말을 듣고 충남 서산에서 서울로 취업을 하러 올라옵니다. 소년은 온도계 압력계 제조업체에서 수은 주입, 신나 작업을 하다가 쓰러졌습니다. https://t.co/2Zx0t19k7d",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1003430500067782700,
+						"id_str": "1003430500067782656",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/DezmuTFVMAArswE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DezmuTFVMAArswE.jpg",
+						"url": "https://t.co/2Zx0t19k7d",
+						"display_url": "pic.twitter.com/2Zx0t19k7d",
+						"expanded_url": "https://twitter.com/ekctu/status/1003433611142430720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 945,
+								"h": 945,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 945,
+								"h": 945,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1003430500067782700,
+						"id_str": "1003430500067782656",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/DezmuTFVMAArswE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DezmuTFVMAArswE.jpg",
+						"url": "https://t.co/2Zx0t19k7d",
+						"display_url": "pic.twitter.com/2Zx0t19k7d",
+						"expanded_url": "https://twitter.com/ekctu/status/1003433611142430720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 945,
+								"h": 945,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 945,
+								"h": 945,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1003430500281643000,
+						"id_str": "1003430500281643009",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/DezmuT4UcAEQmMe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DezmuT4UcAEQmMe.jpg",
+						"url": "https://t.co/2Zx0t19k7d",
+						"display_url": "pic.twitter.com/2Zx0t19k7d",
+						"expanded_url": "https://twitter.com/ekctu/status/1003433611142430720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 945,
+								"h": 945,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 945,
+								"h": 945,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1003430535459307500,
+						"id_str": "1003430535459307520",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/DezmwW7VAAAAnsg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DezmwW7VAAAAnsg.jpg",
+						"url": "https://t.co/2Zx0t19k7d",
+						"display_url": "pic.twitter.com/2Zx0t19k7d",
+						"expanded_url": "https://twitter.com/ekctu/status/1003433611142430720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 945,
+								"h": 945,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 945,
+								"h": 945,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1003430545101951000,
+						"id_str": "1003430545101950976",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/Dezmw62UEAAy_ZC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dezmw62UEAAy_ZC.jpg",
+						"url": "https://t.co/2Zx0t19k7d",
+						"display_url": "pic.twitter.com/2Zx0t19k7d",
+						"expanded_url": "https://twitter.com/ekctu/status/1003433611142430720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 945,
+								"h": 945,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 945,
+								"h": 945,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 119629477,
+				"id_str": "119629477",
+				"name": "민주노총",
+				"screen_name": "ekctu",
+				"location": "대한민국 서울",
+				"description": "일하는 사람들의 든든한 우산, 노동조합! 전국민주노동조합총연맹 공식 트위터입니다. / Korean Confederation of Trade Union Official tweets (https://t.co/1RCxuxfA4J)",
+				"url": "https://t.co/YYdC4LzCPl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YYdC4LzCPl",
+								"expanded_url": "http://nodong.org",
+								"display_url": "nodong.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1RCxuxfA4J",
+								"expanded_url": "http://kctu.org",
+								"display_url": "kctu.org",
+								"indices": [
+									101,
+									124
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 25298,
+				"friends_count": 16308,
+				"listed_count": 681,
+				"created_at": "Thu Mar 04 05:27:19 +0000 2010",
+				"favourites_count": 2511,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16820,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1054220590104465408/dj8hRTYt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054220590104465408/dj8hRTYt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/119629477/1531371036",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 83,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 65,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@djaak2002 안녕하세요 선생님, 이 기회에 노동안전보건 투쟁의 역사를 함께 살펴보았으면 합니다. 1988년 수은중독으로 숨진 15세 노동자 문송면을 아십니까. 이황화탄소에 중독되었던 원진레이온 노동자를 아시는지요. 노동자들은 죽음의 일터를 바꾸기 위해 수십년간 투쟁해왔습니다.\n\nhttps://t.co/Y3lqRznM1B"
+	},
+	{
+		"created_at": "Thu Dec 27 14:08:23 +0000 2018",
+		"id": 1078291504806776800,
+		"id_str": "1078291504806776832",
+		"full_text": "소위 문빠들의 이데올로기적 정체성이 문득 궁금해졌으나,",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 489,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16954,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "소위 문빠들의 이데올로기적 정체성이 문득 궁금해졌으나,"
+	},
+	{
+		"created_at": "Thu Dec 27 13:57:39 +0000 2018",
+		"id": 1078288803654062100,
+		"id_str": "1078288803654062080",
+		"full_text": "임금 인상 같은 것도 아니고 산업안전보건법 개정 투쟁에 이런 비난을 퍼붓는 건 기업주나 할 일인데, 트위터에 기업주들이 그렇게 많은가? 아니면 자아분열 환자들이 많은 건가? 너무 비현실적이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1078285675944800300,
+		"in_reply_to_status_id_str": "1078285675944800258",
+		"in_reply_to_user_id": 133255001,
+		"in_reply_to_user_id_str": "133255001",
+		"in_reply_to_screen_name": "TorSean",
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 929,
+			"friends_count": 352,
+			"listed_count": 26,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15740,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "임금 인상 같은 것도 아니고 산업안전보건법 개정 투쟁에 이런 비난을 퍼붓는 건 기업주나 할 일인데, 트위터에 기업주들이 그렇게 많은가? 아니면 자아분열 환자들이 많은 건가? 너무 비현실적이다."
+	},
+	{
+		"created_at": "Thu Dec 27 09:24:56 +0000 2018",
+		"id": 1078220172597506000,
+		"id_str": "1078220172597506049",
+		"full_text": "선생님 말씀대로,\n\n\"민주노총이 문재인 정부가 김용균 군에 대해서 신경 안 쓴다고 별 난리를 다\" 부리고서야, 산업안전보건법 개정안이 '28년 만에' 통과될 듯 합니다.\n\n안타까운 죽음이 더는 없도록\n민주노총은 법안 문구 하나하나 꼼꼼히 살펴 대응하겠습니다. https://t.co/lA1Pdv3FXa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lA1Pdv3FXa",
+					"expanded_url": "https://twitter.com/silence97/status/1078211000652840960",
+					"display_url": "twitter.com/silence97/stat…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119629477,
+			"id_str": "119629477",
+			"name": "민주노총",
+			"screen_name": "ekctu",
+			"location": "대한민국 서울",
+			"description": "일하는 사람들의 든든한 우산, 노동조합! 전국민주노동조합총연맹 공식 트위터입니다. / Korean Confederation of Trade Union Official tweets (https://t.co/1RCxuxfA4J)",
+			"url": "https://t.co/YYdC4LzCPl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YYdC4LzCPl",
+							"expanded_url": "http://nodong.org",
+							"display_url": "nodong.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1RCxuxfA4J",
+							"expanded_url": "http://kctu.org",
+							"display_url": "kctu.org",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25298,
+			"friends_count": 16308,
+			"listed_count": 681,
+			"created_at": "Thu Mar 04 05:27:19 +0000 2010",
+			"favourites_count": 2511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16820,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054220590104465408/dj8hRTYt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054220590104465408/dj8hRTYt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119629477/1531371036",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1078211000652841000,
+		"quoted_status_id_str": "1078211000652840960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lA1Pdv3FXa",
+			"expanded": "https://twitter.com/silence97/status/1078211000652840960",
+			"display": "twitter.com/silence97/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 27 08:48:29 +0000 2018",
+			"id": 1078211000652841000,
+			"id_str": "1078211000652840960",
+			"full_text": "민주노총이 문재인 정부가 김용균 군에 대해서 신경 안 쓴다고 별 난리를 다 쳤는데, 정작 문 대통령은 조국 민정수석이 국회 운영위에 참석해서 김용균법이 연내 통과될 수 있다면 그렇게 하라고 지시하심. 대통령은 온갖 비난 받으면서도 고심에 고심을 거듭하셨고, 결국 민심에 맞는 지시를 하심.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 110930262,
+				"id_str": "110930262",
+				"name": "다시,봄 🌱",
+				"screen_name": "silence97",
+				"location": "파도에 흔들릴지라도 가라앉지 않습니다.",
+				"description": "노 대통령과 나는 아주 작은 지천에서 만나, 험하고 먼 물길을 흘러왔다. 바다로 갈수록 물과 물은 만나는 법이다. 혹은 물과 물이 만나 바다를 이루는 법이다. 이 땅의 사람들도 그랬으면 좋겠다. 역사의 큰 물줄기를 이뤄 함께 흘렀으면 좋겠다. - 제19대 대통령 문재인의 '운명' 중 -",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17441,
+				"friends_count": 3472,
+				"listed_count": 31,
+				"created_at": "Wed Feb 03 07:11:22 +0000 2010",
+				"favourites_count": 882,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30386,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1069488497977843713/_qr6t1B7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069488497977843713/_qr6t1B7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930262/1502621339",
+				"profile_link_color": "D02B55",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 812,
+			"favorite_count": 720,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 311,
+		"favorite_count": 185,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "선생님 말씀대로,\n\n\"민주노총이 문재인 정부가 김용균 군에 대해서 신경 안 쓴다고 별 난리를 다\" 부리고서야, 산업안전보건법 개정안이 '28년 만에' 통과될 듯 합니다.\n\n안타까운 죽음이 더는 없도록\n민주노총은 법안 문구 하나하나 꼼꼼히 살펴 대응하겠습니다. https://t.co/lA1Pdv3FXa"
+	},
+	{
+		"created_at": "Thu Dec 27 05:17:17 +0000 2018",
+		"id": 1078157852915585000,
+		"id_str": "1078157852915585024",
+		"full_text": "@TorSean 성미상마을에서도, 오키나와의 작은 외딴섬에서도 저런 억압을 느끼는 사람들을 많이 봤네요. 확실히.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TorSean",
+					"name": "Tor Sean",
+					"id": 133255001,
+					"id_str": "133255001",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1078100675320377300,
+		"in_reply_to_status_id_str": "1078100675320377345",
+		"in_reply_to_user_id": 133255001,
+		"in_reply_to_user_id_str": "133255001",
+		"in_reply_to_screen_name": "TorSean",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 489,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16954,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@TorSean 성미상마을에서도, 오키나와의 작은 외딴섬에서도 저런 억압을 느끼는 사람들을 많이 봤네요. 확실히."
+	},
+	{
+		"created_at": "Thu Dec 27 01:30:05 +0000 2018",
+		"id": 1078100675320377300,
+		"id_str": "1078100675320377345",
+		"full_text": "마음 맞는 사람끼리 모여 사는 작은 공동체를 꿈꾸는 것은 농촌을 낭만화한 이들의 병적 증상 아닐까 싶다. ‘옆집 숟가락이 몇개인지까지 아는 농촌’은 간섭과 상호억압의 공동체일 뿐. 소규모 주택 단지에 함께 들어갔다가 관계 어긋나고 탈출도 못해, 은퇴생활이 악몽이 된 사람들 하나둘이 아니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 929,
+			"friends_count": 352,
+			"listed_count": 26,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15740,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 597,
+		"favorite_count": 200,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "마음 맞는 사람끼리 모여 사는 작은 공동체를 꿈꾸는 것은 농촌을 낭만화한 이들의 병적 증상 아닐까 싶다. ‘옆집 숟가락이 몇개인지까지 아는 농촌’은 간섭과 상호억압의 공동체일 뿐. 소규모 주택 단지에 함께 들어갔다가 관계 어긋나고 탈출도 못해, 은퇴생활이 악몽이 된 사람들 하나둘이 아니다."
+	},
+	{
+		"created_at": "Wed Dec 26 10:59:46 +0000 2018",
+		"id": 1077881653773721600,
+		"id_str": "1077881653773721601",
+		"full_text": "Dec 26 1825 – A liberal anti-monarchy rebellion, known as the Decembrist Revolt begins against Czar Nicholas I in Russia, but is suppressed. https://t.co/EcgoqAwMXe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1077881642524573700,
+					"id_str": "1077881642524573696",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/DvVnpJyXgAA_qED.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvVnpJyXgAA_qED.jpg",
+					"url": "https://t.co/EcgoqAwMXe",
+					"display_url": "pic.twitter.com/EcgoqAwMXe",
+					"expanded_url": "https://twitter.com/radicaldaily/status/1077881653773721601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 633,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1077881642524573700,
+					"id_str": "1077881642524573696",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/DvVnpJyXgAA_qED.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvVnpJyXgAA_qED.jpg",
+					"url": "https://t.co/EcgoqAwMXe",
+					"display_url": "pic.twitter.com/EcgoqAwMXe",
+					"expanded_url": "https://twitter.com/radicaldaily/status/1077881653773721601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 633,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 998143742,
+			"id_str": "998143742",
+			"name": "DailyRadical History",
+			"screen_name": "radicaldaily",
+			"location": "Petrograd",
+			"description": "Tweeting daily doses of radical & revolutionary history. Important anniversaries from the struggle for justice, peace, democracy and freedom.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40217,
+			"friends_count": 50,
+			"listed_count": 528,
+			"created_at": "Sat Dec 08 22:44:19 +0000 2012",
+			"favourites_count": 117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12255,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2949681557/03f420475563804216181535611cd385_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2949681557/03f420475563804216181535611cd385_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/998143742/1355007288",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dec 26 1825 – A liberal anti-monarchy rebellion, known as the Decembrist Revolt begins against Czar Nicholas I in Russia, but is suppressed. https://t.co/EcgoqAwMXe"
+	},
+	{
+		"created_at": "Fri Dec 21 15:21:28 +0000 2018",
+		"id": 1076135571750215700,
+		"id_str": "1076135571750215680",
+		"full_text": "イルカ様「邪魔だどけぇ！」 https://t.co/UfyfA1k2Hk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1076135521640800300,
+					"id_str": "1076135521640800256",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1076135521640800256/pu/img/JW6ex8Qc72nTrF2-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1076135521640800256/pu/img/JW6ex8Qc72nTrF2-.jpg",
+					"url": "https://t.co/UfyfA1k2Hk",
+					"display_url": "pic.twitter.com/UfyfA1k2Hk",
+					"expanded_url": "https://twitter.com/animalchinema/status/1076135571750215680/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076135521640800300,
+					"id_str": "1076135521640800256",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1076135521640800256/pu/img/JW6ex8Qc72nTrF2-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1076135521640800256/pu/img/JW6ex8Qc72nTrF2-.jpg",
+					"url": "https://t.co/UfyfA1k2Hk",
+					"display_url": "pic.twitter.com/UfyfA1k2Hk",
+					"expanded_url": "https://twitter.com/animalchinema/status/1076135571750215680/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3933,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1076135521640800256/pu/vid/480x480/MCqMeSveKgxRzCAd.mp4?tag=6"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1076135521640800256/pu/vid/320x320/z0f2AqXOZWJ2fGu-.mp4?tag=6"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1076135521640800256/pu/vid/720x720/LHe31uRntX_BNpVP.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1076135521640800256/pu/pl/GFFjKEDFWs_26nnP.m3u8?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com/animalchinema\" rel=\"nofollow\">animalchinema</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1075781284025299000,
+			"id_str": "1075781284025298944",
+			"name": "🐾動物シネマ 🐾",
+			"screen_name": "animalchinema",
+			"location": "",
+			"description": "🐾 世界中の可愛い動物たちの動画を集めました💗沢山の愛らしい映像をお楽しみください🐤気に入ったらフォロー＆RTお願いします🐖",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 835,
+			"friends_count": 565,
+			"listed_count": 9,
+			"created_at": "Thu Dec 20 15:53:39 +0000 2018",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 143,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075781745486761985/gtmDhGoN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075781745486761985/gtmDhGoN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1075781284025298944/1545321372",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37478,
+		"favorite_count": 93564,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "イルカ様「邪魔だどけぇ！」 https://t.co/UfyfA1k2Hk"
+	},
+	{
 		"created_at": "Wed Dec 26 10:59:46 +0000 2018",
 		"id": 1077881653773721600,
 		"id_str": "1077881653773721601",
