@@ -1,6 +1,471 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Wed Dec 26 01:38:41 +0000 2018",
+		"id": 1077740451317215200,
+		"id_str": "1077740451317215232",
+		"full_text": "전태일 열사의 어머니 이소선 여사는 평생을 현장에서 노동자들의 어머니로 살았다. 이제 고 김용균씨의 어머니인 김미숙씨가 이소선 여사의 뒤를 대신할 거 같다. 1970년과 2018년. 48년이나 지났는데 왜 노동자는 여전히 일터에서 죽고 그 어머니는 투사가 되는가. \n\n https://t.co/9qyNJDZ3I5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9qyNJDZ3I5",
+					"expanded_url": "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002497000",
+					"display_url": "ohmynews.com/NWS_Web/View/a…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 327555321,
+			"id_str": "327555321",
+			"name": "잠이안오면",
+			"screen_name": "storyofme31",
+			"location": "안 가르쳐주지",
+			"description": "역사학자를 꿈꾸는 역사학도 / 그는주먹으로기둥을낑낑밀면서유령이보인다고박박우긴다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 326,
+			"friends_count": 316,
+			"listed_count": 3,
+			"created_at": "Fri Jul 01 19:18:32 +0000 2011",
+			"favourites_count": 771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3810,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/885535692733825024/IPkDnTTL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/885535692733825024/IPkDnTTL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/327555321/1519648901",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 585,
+		"favorite_count": 237,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전태일 열사의 어머니 이소선 여사는 평생을 현장에서 노동자들의 어머니로 살았다. 이제 고 김용균씨의 어머니인 김미숙씨가 이소선 여사의 뒤를 대신할 거 같다. 1970년과 2018년. 48년이나 지났는데 왜 노동자는 여전히 일터에서 죽고 그 어머니는 투사가 되는가. \n\n https://t.co/9qyNJDZ3I5"
+	},
+	{
+		"created_at": "Thu Dec 27 15:46:18 +0000 2018",
+		"id": 1078316147273957400,
+		"id_str": "1078316147273957376",
+		"full_text": "공동체 얘기 계속 올라와서 음 내가 너무 근거없이 거부감을 느끼고 있는건가도 돌아봤는데.. 저 '소액의 금액을 받고 음식을 만들어주는 (내부고용된) 언니' 가 있다는 말이 너무 쎄하다 공동체 안에서도 가사노동은 정당한 댓가를 못 받는다는 말이잖아 저 규모면 일반 가사노동 수준도 아닐거같은데 https://t.co/5S8Ww0YY0g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1078316111685251100,
+					"id_str": "1078316111685251073",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/DvbyyliUcAEXuiU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvbyyliUcAEXuiU.jpg",
+					"url": "https://t.co/5S8Ww0YY0g",
+					"display_url": "pic.twitter.com/5S8Ww0YY0g",
+					"expanded_url": "https://twitter.com/mococo_Ah/status/1078316147273957376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 656,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 787,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1078316111685251100,
+					"id_str": "1078316111685251073",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/DvbyyliUcAEXuiU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvbyyliUcAEXuiU.jpg",
+					"url": "https://t.co/5S8Ww0YY0g",
+					"display_url": "pic.twitter.com/5S8Ww0YY0g",
+					"expanded_url": "https://twitter.com/mococo_Ah/status/1078316147273957376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 656,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 787,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1078316119683780600,
+					"id_str": "1078316119683780608",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/DvbyzDVUUAA69Iy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvbyzDVUUAA69Iy.jpg",
+					"url": "https://t.co/5S8Ww0YY0g",
+					"display_url": "pic.twitter.com/5S8Ww0YY0g",
+					"expanded_url": "https://twitter.com/mococo_Ah/status/1078316147273957376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 650,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 780,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1078316128537989100,
+					"id_str": "1078316128537989120",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/DvbyzkUU0AAs38Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvbyzkUU0AAs38Z.jpg",
+					"url": "https://t.co/5S8Ww0YY0g",
+					"display_url": "pic.twitter.com/5S8Ww0YY0g",
+					"expanded_url": "https://twitter.com/mococo_Ah/status/1078316147273957376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 668,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1078316137211867100,
+					"id_str": "1078316137211867136",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/Dvby0EoVsAAq-6x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dvby0EoVsAAq-6x.jpg",
+					"url": "https://t.co/5S8Ww0YY0g",
+					"display_url": "pic.twitter.com/5S8Ww0YY0g",
+					"expanded_url": "https://twitter.com/mococo_Ah/status/1078316147273957376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 795,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 663,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1051154367649263600,
+			"id_str": "1051154367649263619",
+			"name": "모코코아",
+			"screen_name": "mococo_Ah",
+			"location": "",
+			"description": "Welcome to the hell I'm living",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6,
+			"friends_count": 112,
+			"listed_count": 0,
+			"created_at": "Sat Oct 13 16:55:05 +0000 2018",
+			"favourites_count": 202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 355,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066376549933318145/mOjrV3wv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066376549933318145/mOjrV3wv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1051154367649263619/1544281698",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2108,
+		"favorite_count": 367,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공동체 얘기 계속 올라와서 음 내가 너무 근거없이 거부감을 느끼고 있는건가도 돌아봤는데.. 저 '소액의 금액을 받고 음식을 만들어주는 (내부고용된) 언니' 가 있다는 말이 너무 쎄하다 공동체 안에서도 가사노동은 정당한 댓가를 못 받는다는 말이잖아 저 규모면 일반 가사노동 수준도 아닐거같은데 https://t.co/5S8Ww0YY0g"
+	},
+	{
+		"created_at": "Fri Dec 28 01:43:37 +0000 2018",
+		"id": 1078466466440040400,
+		"id_str": "1078466466440040448",
+		"full_text": "현재 정세에 대한 비관적이지만 매우 정확한 진단이다. 우리가 직면한 시궁창이 이것.\n\n\"개혁을 표방한 정부의 실패, 위기에 대처하는 자본가의 무능, 대안이 되지 못한 채 호소만 반복하는 노동자운동. 바로 이것이 마르크스가 말한 “투쟁하는 계급들의 공멸”이다.\"\n\nhttps://t.co/9TJxkrSUHY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9TJxkrSUHY",
+					"expanded_url": "http://www.labortoday.co.kr/news/articleView.html?idxno=155867",
+					"display_url": "labortoday.co.kr/news/articleVi…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144092619,
+			"id_str": "144092619",
+			"name": "겨울철쭉__박준형",
+			"screen_name": "191710",
+			"location": "글쎄,지금 있고싶은곳에 있겠지",
+			"description": "노동자운동으로 대안세계를! 플픽은 플루토의 아톰 :) 애국자가 없는 세상(권정생) https://t.co/EgUFIxL8Ip",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/EgUFIxL8Ip",
+							"expanded_url": "http://bit.ly/J0aF3i",
+							"display_url": "bit.ly/J0aF3i",
+							"indices": [
+								46,
+								69
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4537,
+			"friends_count": 1845,
+			"listed_count": 110,
+			"created_at": "Sat May 15 08:12:38 +0000 2010",
+			"favourites_count": 2402,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17205,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144092619/1351336150",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현재 정세에 대한 비관적이지만 매우 정확한 진단이다. 우리가 직면한 시궁창이 이것.\n\n\"개혁을 표방한 정부의 실패, 위기에 대처하는 자본가의 무능, 대안이 되지 못한 채 호소만 반복하는 노동자운동. 바로 이것이 마르크스가 말한 “투쟁하는 계급들의 공멸”이다.\"\n\nhttps://t.co/9TJxkrSUHY"
+	},
+	{
 		"created_at": "Fri Dec 28 00:08:03 +0000 2018",
 		"id": 1078442416653258800,
 		"id_str": "1078442416653258752",
