@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 06 08:13:50 +0000 2019",
+		"id": 1081826158977605600,
+		"id_str": "1081826158977605633",
+		"full_text": "https://t.co/DQ9FdsoWgK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1081826143261454300,
+					"id_str": "1081826143261454336",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DwNrJUHUcAAqnT6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwNrJUHUcAAqnT6.jpg",
+					"url": "https://t.co/DQ9FdsoWgK",
+					"display_url": "pic.twitter.com/DQ9FdsoWgK",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1081826158977605633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 775,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1323,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1081826143261454300,
+					"id_str": "1081826143261454336",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/DwNrJUHUcAAqnT6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwNrJUHUcAAqnT6.jpg",
+					"url": "https://t.co/DQ9FdsoWgK",
+					"display_url": "pic.twitter.com/DQ9FdsoWgK",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1081826158977605633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 775,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1323,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 489,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16980,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/DQ9FdsoWgK"
+	},
+	{
+		"created_at": "Sun Jan 06 00:04:27 +0000 2019",
+		"id": 1081703003088871400,
+		"id_str": "1081703003088871425",
+		"full_text": "“기생과 축첩 문화는 오랜 시간 ‘풍류’로 포장되고 ‘사랑’으로 각색되었지만 여성에 대한 성적 착취와 폭력의 범주에서 결코 벗어날 수 없기 때문입니다.” https://t.co/UA8gUyssDJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UA8gUyssDJ",
+					"expanded_url": "https://news.v.daum.net/v/20190105100023155",
+					"display_url": "news.v.daum.net/v/201901051000…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2318464052,
+			"id_str": "2318464052",
+			"name": "최민영",
+			"screen_name": "antilope30",
+			"location": "대한민국 서울",
+			"description": "'아무튼, 발레'를 썼습니다 🙂",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19181,
+			"friends_count": 371,
+			"listed_count": 209,
+			"created_at": "Thu Jan 30 07:44:10 +0000 2014",
+			"favourites_count": 2413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24249,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069224790920114177/vMrs-8gM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069224790920114177/vMrs-8gM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2318464052/1542895877",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1589,
+		"favorite_count": 350,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“기생과 축첩 문화는 오랜 시간 ‘풍류’로 포장되고 ‘사랑’으로 각색되었지만 여성에 대한 성적 착취와 폭력의 범주에서 결코 벗어날 수 없기 때문입니다.” https://t.co/UA8gUyssDJ"
+	},
+	{
 		"created_at": "Sat Jan 05 12:48:17 +0000 2019",
 		"id": 1081532838665572400,
 		"id_str": "1081532838665572353",
