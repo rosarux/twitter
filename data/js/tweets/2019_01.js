@@ -59,6 +59,334 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
+			"followers_count": 849151,
+			"friends_count": 501,
+			"listed_count": 3183,
+			"created_at": "Fri Oct 05 17:30:36 +0000 2012",
+			"favourites_count": 10326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17900,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2684024563/9660a122cc7fa5a3d348e16614ebb7a7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2684024563/9660a122cc7fa5a3d348e16614ebb7a7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/863405239/1489020350",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6771,
+		"favorite_count": 10005,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "URGENT ! Last chance to sign a petition to stop the destruction of an irreplaceable coral reef in Okinawa.… https://t.co/Z6HQocbTF8"
+	},
+	{
+		"created_at": "Mon Jan 07 02:59:05 +0000 2019",
+		"id": 1082109339677057000,
+		"id_str": "1082109339677057024",
+		"full_text": "遅くなりましたが、明けましておめでとうございます。\n今年も、よろしくお願い致します。\n少し遅めの、お正月休みを頂き、本日からお仕事再会です！\n久し振りにのんびりと出来て、心も体もリフレッシュ出来ました。\nさぁ、お仕事頑張るぞ～\n＃イマソラ　＃沖縄 https://t.co/GGD4Ganz4t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "イマソラ",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						120,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082109277685243900,
+					"id_str": "1082109277685243904",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/DwRsp6CVYAA22rR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwRsp6CVYAA22rR.jpg",
+					"url": "https://t.co/GGD4Ganz4t",
+					"display_url": "pic.twitter.com/GGD4Ganz4t",
+					"expanded_url": "https://twitter.com/furaisou/status/1082109339677057024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082109277685243900,
+					"id_str": "1082109277685243904",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/DwRsp6CVYAA22rR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwRsp6CVYAA22rR.jpg",
+					"url": "https://t.co/GGD4Ganz4t",
+					"display_url": "pic.twitter.com/GGD4Ganz4t",
+					"expanded_url": "https://twitter.com/furaisou/status/1082109339677057024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 207791068,
+			"id_str": "207791068",
+			"name": "風来荘",
+			"screen_name": "furaisou",
+			"location": "沖縄県　今帰仁村",
+			"description": "13年前に鎌倉から沖縄へ。  。。                                           海のそばで『風来荘　fu-rai-sou』 と言う名の宿を営んでおります.朝食には国産小麦を使って焼き上げる自家製天然酵母パンとスープでほっこりと。。ゆったりとした沖縄時間をお楽しみ下さい。。",
+			"url": "http://t.co/q1DVIfauZK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/q1DVIfauZK",
+							"expanded_url": "http://www7.plala.or.jp/fu-rai-sou/",
+							"display_url": "www7.plala.or.jp/fu-rai-sou/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606,
+			"friends_count": 273,
+			"listed_count": 14,
+			"created_at": "Tue Oct 26 01:28:07 +0000 2010",
+			"favourites_count": 1427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1053,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439958135634001921/P1j1yf6a_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439958135634001921/P1j1yf6a_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/207791068/1398257915",
+			"profile_link_color": "256DD9",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "052e049119fd8da1",
+			"url": "https://api.twitter.com/1.1/geo/id/052e049119fd8da1.json",
+			"place_type": "admin",
+			"name": "沖縄",
+			"full_name": "日本 沖縄",
+			"country_code": "JP",
+			"country": "日本",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							122.933784,
+							24.045669
+						],
+						[
+							131.332071,
+							24.045669
+						],
+						[
+							131.332071,
+							27.095384
+						],
+						[
+							122.933784,
+							27.095384
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "遅くなりましたが、明けましておめでとうございます。\n今年も、よろしくお願い致します。\n少し遅めの、お正月休みを頂き、本日からお仕事再会です！\n久し振りにのんびりと出来て、心も体もリフレッシュ出来ました。\nさぁ、お仕事頑張るぞ～\n＃イマソラ　＃沖縄 https://t.co/GGD4Ganz4t"
+	},
+	{
+		"created_at": "Sun Jan 06 17:32:42 +0000 2019",
+		"id": 1081966802605928400,
+		"id_str": "1081966802605928449",
+		"full_text": "URGENT ! Last chance to sign a petition to stop the destruction of an irreplaceable coral reef in Okinawa.… https://t.co/Z6HQocbTF8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z6HQocbTF8",
+					"expanded_url": "https://www.instagram.com/p/BsTTZESBXmh/?utm_source=ig_twitter_share&igshid=mn7t0h6ja1p7",
+					"display_url": "instagram.com/p/BsTTZESBXmh/…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 863405239,
+			"id_str": "863405239",
+			"name": "Dr. Brian May",
+			"screen_name": "DrBrianMay",
+			"location": "",
+			"description": "Rocket Ship Builder 🚀🚀🚀🚀🚀",
+			"url": "https://t.co/lnLsKpPSbx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lnLsKpPSbx",
+							"expanded_url": "http://www.brianmay.com",
+							"display_url": "brianmay.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 846051,
 			"friends_count": 501,
 			"listed_count": 3173,
