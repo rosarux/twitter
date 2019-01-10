@@ -1,6 +1,683 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 09 13:29:47 +0000 2019",
+		"id": 1082992836021121000,
+		"id_str": "1082992836021121024",
+		"full_text": "사장도 최저임금만 주고 싶겠냐 독일제 리스차 리스값내고 자식 유학비에 어디 땅산거 모기지 갚으려면 돈이 없는거지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1510642711,
+			"id_str": "1510642711",
+			"name": "Zenken Nana",
+			"screen_name": "zenken182",
+			"location": "水原室內體育館南側自由席",
+			"description": "182 프로덕션 전권 프로듀서 / 경기도둠가이즈FC 구단주 / 5337MeKA보급정비대 서무계원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4391,
+			"friends_count": 2733,
+			"listed_count": 104,
+			"created_at": "Wed Jun 12 14:05:18 +0000 2013",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38123,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081966583868645377/wqdjM-xF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081966583868645377/wqdjM-xF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1510642711/1546103986",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사장도 최저임금만 주고 싶겠냐 독일제 리스차 리스값내고 자식 유학비에 어디 땅산거 모기지 갚으려면 돈이 없는거지"
+	},
+	{
+		"created_at": "Wed Jan 09 17:54:06 +0000 2019",
+		"id": 1083059353186295800,
+		"id_str": "1083059353186295808",
+		"full_text": "뉴욕타임스 - 사람들의 인식과 달리 한국 경제는 세계경제 상황의 악화에서 기인. 세계적으로 드문 문재인 대통령의 소득주도성장 정책 실험은 수 년이 지나야 그 결과를 제대로 보여줄 것.\nSouth Korea Runs an Economic Experiment With Global Relevance \nhttps://t.co/AqQNbHQXw2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AqQNbHQXw2",
+					"expanded_url": "https://nyti.ms/2RJB02O",
+					"display_url": "nyti.ms/2RJB02O",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 129399452,
+			"id_str": "129399452",
+			"name": "Byungho Lee",
+			"screen_name": "NoWisdomTeeth",
+			"location": "Seattle",
+			"description": "Little did he know...",
+			"url": "https://t.co/xZZGw3eEM8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xZZGw3eEM8",
+							"expanded_url": "http://Instagram.com/nowisdomteeth",
+							"display_url": "Instagram.com/nowisdomteeth",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3558,
+			"friends_count": 289,
+			"listed_count": 79,
+			"created_at": "Sun Apr 04 04:56:31 +0000 2010",
+			"favourites_count": 3592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65331,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1000262834184323073/n237tmTs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000262834184323073/n237tmTs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/129399452/1545664454",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뉴욕타임스 - 사람들의 인식과 달리 한국 경제는 세계경제 상황의 악화에서 기인. 세계적으로 드문 문재인 대통령의 소득주도성장 정책 실험은 수 년이 지나야 그 결과를 제대로 보여줄 것.\nSouth Korea Runs an Economic Experiment With Global Relevance \nhttps://t.co/AqQNbHQXw2"
+	},
+	{
+		"created_at": "Wed Jan 09 06:07:56 +0000 2019",
+		"id": 1082881640399945700,
+		"id_str": "1082881640399945728",
+		"full_text": "트위터 감성 ㅋㅋㅋ\n트위터 선생님들이 말하는 '진짜'는 항상 근본을 바꿔야 한다 말함 ㅋㅋ\n\n교수가 농촌의 근본을 무슨수로 바꿉니까?\n\n열쇠관리 규칙을 변경해 자살유인을 차단한게 아무 의미 없는거라면\n밤길 가로등 설치도 의미 없고 경찰 순찰도 의미 없고 순찰차 사이렌도 의미 없는 일임 https://t.co/SvpBK9bHya",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082881626428731400,
+					"id_str": "1082881626428731392",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/DwcrGhUU8AA34sI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwcrGhUU8AA34sI.jpg",
+					"url": "https://t.co/SvpBK9bHya",
+					"display_url": "pic.twitter.com/SvpBK9bHya",
+					"expanded_url": "https://twitter.com/pigori/status/1082881640399945728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1767,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 733,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082881626428731400,
+					"id_str": "1082881626428731392",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/DwcrGhUU8AA34sI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwcrGhUU8AA34sI.jpg",
+					"url": "https://t.co/SvpBK9bHya",
+					"display_url": "pic.twitter.com/SvpBK9bHya",
+					"expanded_url": "https://twitter.com/pigori/status/1082881640399945728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1767,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 733,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109544160,
+			"id_str": "109544160",
+			"name": "ピゴリ",
+			"screen_name": "pigori",
+			"location": "",
+			"description": "안경은 신이닷!!!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 103,
+			"listed_count": 15,
+			"created_at": "Fri Jan 29 12:14:55 +0000 2010",
+			"favourites_count": 7810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25087,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053348890680864768/CtsPOQGB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053348890680864768/CtsPOQGB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109544160/1540016887",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 186,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터 감성 ㅋㅋㅋ\n트위터 선생님들이 말하는 '진짜'는 항상 근본을 바꿔야 한다 말함 ㅋㅋ\n\n교수가 농촌의 근본을 무슨수로 바꿉니까?\n\n열쇠관리 규칙을 변경해 자살유인을 차단한게 아무 의미 없는거라면\n밤길 가로등 설치도 의미 없고 경찰 순찰도 의미 없고 순찰차 사이렌도 의미 없는 일임 https://t.co/SvpBK9bHya"
+	},
+	{
+		"created_at": "Sun Jan 06 17:32:42 +0000 2019",
+		"id": 1081966802605928400,
+		"id_str": "1081966802605928449",
+		"full_text": "URGENT ! Last chance to sign a petition to stop the destruction of an irreplaceable coral reef in Okinawa.… https://t.co/Z6HQocbTF8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z6HQocbTF8",
+					"expanded_url": "https://www.instagram.com/p/BsTTZESBXmh/?utm_source=ig_twitter_share&igshid=mn7t0h6ja1p7",
+					"display_url": "instagram.com/p/BsTTZESBXmh/…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 863405239,
+			"id_str": "863405239",
+			"name": "Dr. Brian May",
+			"screen_name": "DrBrianMay",
+			"location": "",
+			"description": "Rocket Ship Builder 🚀🚀🚀🚀🚀",
+			"url": "https://t.co/lnLsKpPSbx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lnLsKpPSbx",
+							"expanded_url": "http://www.brianmay.com",
+							"display_url": "brianmay.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 851037,
+			"friends_count": 501,
+			"listed_count": 3193,
+			"created_at": "Fri Oct 05 17:30:36 +0000 2012",
+			"favourites_count": 10326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17904,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2684024563/9660a122cc7fa5a3d348e16614ebb7a7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2684024563/9660a122cc7fa5a3d348e16614ebb7a7_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/863405239/1489020350",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6855,
+		"favorite_count": 10146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "URGENT ! Last chance to sign a petition to stop the destruction of an irreplaceable coral reef in Okinawa.… https://t.co/Z6HQocbTF8"
+	},
+	{
+		"created_at": "Mon Jan 07 02:59:05 +0000 2019",
+		"id": 1082109339677057000,
+		"id_str": "1082109339677057024",
+		"full_text": "遅くなりましたが、明けましておめでとうございます。\n今年も、よろしくお願い致します。\n少し遅めの、お正月休みを頂き、本日からお仕事再会です！\n久し振りにのんびりと出来て、心も体もリフレッシュ出来ました。\nさぁ、お仕事頑張るぞ～\n＃イマソラ　＃沖縄 https://t.co/GGD4Ganz4t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "イマソラ",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						120,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082109277685243900,
+					"id_str": "1082109277685243904",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/DwRsp6CVYAA22rR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwRsp6CVYAA22rR.jpg",
+					"url": "https://t.co/GGD4Ganz4t",
+					"display_url": "pic.twitter.com/GGD4Ganz4t",
+					"expanded_url": "https://twitter.com/furaisou/status/1082109339677057024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082109277685243900,
+					"id_str": "1082109277685243904",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/DwRsp6CVYAA22rR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwRsp6CVYAA22rR.jpg",
+					"url": "https://t.co/GGD4Ganz4t",
+					"display_url": "pic.twitter.com/GGD4Ganz4t",
+					"expanded_url": "https://twitter.com/furaisou/status/1082109339677057024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 207791068,
+			"id_str": "207791068",
+			"name": "風来荘",
+			"screen_name": "furaisou",
+			"location": "沖縄県　今帰仁村",
+			"description": "13年前に鎌倉から沖縄へ。  。。                                           海のそばで『風来荘　fu-rai-sou』 と言う名の宿を営んでおります.朝食には国産小麦を使って焼き上げる自家製天然酵母パンとスープでほっこりと。。ゆったりとした沖縄時間をお楽しみ下さい。。",
+			"url": "http://t.co/q1DVIfauZK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/q1DVIfauZK",
+							"expanded_url": "http://www7.plala.or.jp/fu-rai-sou/",
+							"display_url": "www7.plala.or.jp/fu-rai-sou/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606,
+			"friends_count": 273,
+			"listed_count": 14,
+			"created_at": "Tue Oct 26 01:28:07 +0000 2010",
+			"favourites_count": 1428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1053,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439958135634001921/P1j1yf6a_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439958135634001921/P1j1yf6a_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/207791068/1398257915",
+			"profile_link_color": "256DD9",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "052e049119fd8da1",
+			"url": "https://api.twitter.com/1.1/geo/id/052e049119fd8da1.json",
+			"place_type": "admin",
+			"name": "沖縄",
+			"full_name": "日本 沖縄",
+			"country_code": "JP",
+			"country": "日本",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							122.933784,
+							24.045669
+						],
+						[
+							131.332071,
+							24.045669
+						],
+						[
+							131.332071,
+							27.095384
+						],
+						[
+							122.933784,
+							27.095384
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "遅くなりましたが、明けましておめでとうございます。\n今年も、よろしくお願い致します。\n少し遅めの、お正月休みを頂き、本日からお仕事再会です！\n久し振りにのんびりと出来て、心も体もリフレッシュ出来ました。\nさぁ、お仕事頑張るぞ～\n＃イマソラ　＃沖縄 https://t.co/GGD4Ganz4t"
+	},
+	{
 		"created_at": "Sun Jan 06 17:32:42 +0000 2019",
 		"id": 1081966802605928400,
 		"id_str": "1081966802605928449",
