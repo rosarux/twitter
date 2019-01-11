@@ -1,6 +1,529 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 10 14:39:11 +0000 2019",
+		"id": 1083372687714508800,
+		"id_str": "1083372687714508800",
+		"full_text": "박근혜 정부 지지율은 20대 남성에서, 심상정 후보 지지율은 20대 여성에서 높았으며 “문재인 정부에 대한 20대 여성 지지율은 정부를 좋아해서가 아니라, 문재인 정부를 상대적으로 ‘민주주의’에 대한 진전으로 평가하고 지지하는 연장선에 있다.”는 분석, 정확하다. https://t.co/7plCmCWhjk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7plCmCWhjk",
+					"expanded_url": "http://www.womennews.co.kr/news/articleView.html?idxno=184204",
+					"display_url": "womennews.co.kr/news/articleVi…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968886505203617800,
+			"id_str": "968886505203617792",
+			"name": "dolere",
+			"screen_name": "dolessi",
+			"location": "",
+			"description": "여성주의자이고 메갈입니다. 여성 성소수자인 것 같습니다. 불안정노동자입니다. 좌익입니다. 팔로잉은 비공개 리스트로 합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 335,
+			"friends_count": 0,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 16:31:58 +0000 2018",
+			"favourites_count": 213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 431,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077080142260752390/1ZNDuL7N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077080142260752390/1ZNDuL7N_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 639,
+		"favorite_count": 176,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "박근혜 정부 지지율은 20대 남성에서, 심상정 후보 지지율은 20대 여성에서 높았으며 “문재인 정부에 대한 20대 여성 지지율은 정부를 좋아해서가 아니라, 문재인 정부를 상대적으로 ‘민주주의’에 대한 진전으로 평가하고 지지하는 연장선에 있다.”는 분석, 정확하다. https://t.co/7plCmCWhjk"
+	},
+	{
+		"created_at": "Thu Jan 10 08:57:31 +0000 2019",
+		"id": 1083286704348229600,
+		"id_str": "1083286704348229633",
+		"full_text": "이토카즈 의원이 이번 여름 선거 출마를 포기했구나.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 489,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16986,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이토카즈 의원이 이번 여름 선거 출마를 포기했구나."
+	},
+	{
+		"created_at": "Wed Jan 09 13:29:47 +0000 2019",
+		"id": 1082992836021121000,
+		"id_str": "1082992836021121024",
+		"full_text": "사장도 최저임금만 주고 싶겠냐 독일제 리스차 리스값내고 자식 유학비에 어디 땅산거 모기지 갚으려면 돈이 없는거지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1510642711,
+			"id_str": "1510642711",
+			"name": "Zenken Nana",
+			"screen_name": "zenken182",
+			"location": "水原室內體育館南側自由席",
+			"description": "182 프로덕션 전권 프로듀서 / 경기도둠가이즈FC 구단주 / 5337MeKA보급정비대 서무계원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4400,
+			"friends_count": 2734,
+			"listed_count": 104,
+			"created_at": "Wed Jun 12 14:05:18 +0000 2013",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38241,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081966583868645377/wqdjM-xF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081966583868645377/wqdjM-xF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1510642711/1546103986",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사장도 최저임금만 주고 싶겠냐 독일제 리스차 리스값내고 자식 유학비에 어디 땅산거 모기지 갚으려면 돈이 없는거지"
+	},
+	{
+		"created_at": "Wed Jan 09 17:54:06 +0000 2019",
+		"id": 1083059353186295800,
+		"id_str": "1083059353186295808",
+		"full_text": "뉴욕타임스 - 사람들의 인식과 달리 한국 경제는 세계경제 상황의 악화에서 기인. 세계적으로 드문 문재인 대통령의 소득주도성장 정책 실험은 수 년이 지나야 그 결과를 제대로 보여줄 것.\nSouth Korea Runs an Economic Experiment With Global Relevance \nhttps://t.co/AqQNbHQXw2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AqQNbHQXw2",
+					"expanded_url": "https://nyti.ms/2RJB02O",
+					"display_url": "nyti.ms/2RJB02O",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 129399452,
+			"id_str": "129399452",
+			"name": "Byungho Lee",
+			"screen_name": "NoWisdomTeeth",
+			"location": "Seattle",
+			"description": "Little did he know...",
+			"url": "https://t.co/xZZGw3eEM8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xZZGw3eEM8",
+							"expanded_url": "http://Instagram.com/nowisdomteeth",
+							"display_url": "Instagram.com/nowisdomteeth",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3561,
+			"friends_count": 289,
+			"listed_count": 79,
+			"created_at": "Sun Apr 04 04:56:31 +0000 2010",
+			"favourites_count": 3593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1000262834184323073/n237tmTs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000262834184323073/n237tmTs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/129399452/1545664454",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 524,
+		"favorite_count": 294,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뉴욕타임스 - 사람들의 인식과 달리 한국 경제는 세계경제 상황의 악화에서 기인. 세계적으로 드문 문재인 대통령의 소득주도성장 정책 실험은 수 년이 지나야 그 결과를 제대로 보여줄 것.\nSouth Korea Runs an Economic Experiment With Global Relevance \nhttps://t.co/AqQNbHQXw2"
+	},
+	{
+		"created_at": "Wed Jan 09 06:07:56 +0000 2019",
+		"id": 1082881640399945700,
+		"id_str": "1082881640399945728",
+		"full_text": "트위터 감성 ㅋㅋㅋ\n트위터 선생님들이 말하는 '진짜'는 항상 근본을 바꿔야 한다 말함 ㅋㅋ\n\n교수가 농촌의 근본을 무슨수로 바꿉니까?\n\n열쇠관리 규칙을 변경해 자살유인을 차단한게 아무 의미 없는거라면\n밤길 가로등 설치도 의미 없고 경찰 순찰도 의미 없고 순찰차 사이렌도 의미 없는 일임 https://t.co/SvpBK9bHya",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082881626428731400,
+					"id_str": "1082881626428731392",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/DwcrGhUU8AA34sI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwcrGhUU8AA34sI.jpg",
+					"url": "https://t.co/SvpBK9bHya",
+					"display_url": "pic.twitter.com/SvpBK9bHya",
+					"expanded_url": "https://twitter.com/pigori/status/1082881640399945728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1767,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 733,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082881626428731400,
+					"id_str": "1082881626428731392",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/DwcrGhUU8AA34sI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwcrGhUU8AA34sI.jpg",
+					"url": "https://t.co/SvpBK9bHya",
+					"display_url": "pic.twitter.com/SvpBK9bHya",
+					"expanded_url": "https://twitter.com/pigori/status/1082881640399945728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 416,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1767,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 733,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 109544160,
+			"id_str": "109544160",
+			"name": "ピゴリ",
+			"screen_name": "pigori",
+			"location": "",
+			"description": "안경은 신이닷!!!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297,
+			"friends_count": 103,
+			"listed_count": 16,
+			"created_at": "Fri Jan 29 12:14:55 +0000 2010",
+			"favourites_count": 7815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25169,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1053348890680864768/CtsPOQGB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053348890680864768/CtsPOQGB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/109544160/1540016887",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 366,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터 감성 ㅋㅋㅋ\n트위터 선생님들이 말하는 '진짜'는 항상 근본을 바꿔야 한다 말함 ㅋㅋ\n\n교수가 농촌의 근본을 무슨수로 바꿉니까?\n\n열쇠관리 규칙을 변경해 자살유인을 차단한게 아무 의미 없는거라면\n밤길 가로등 설치도 의미 없고 경찰 순찰도 의미 없고 순찰차 사이렌도 의미 없는 일임 https://t.co/SvpBK9bHya"
+	},
+	{
 		"created_at": "Wed Jan 09 13:29:47 +0000 2019",
 		"id": 1082992836021121000,
 		"id_str": "1082992836021121024",
