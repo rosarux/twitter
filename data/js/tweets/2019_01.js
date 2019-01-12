@@ -1,6 +1,807 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 10 23:12:02 +0000 2019",
+		"id": 1083501750294696000,
+		"id_str": "1083775798740283393",
+		"full_text": "김동조 선생에게서 노정태가 보인다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2708,
+			"friends_count": 1210,
+			"listed_count": 84,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89493,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1480131241",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "김동조 선생에게서 노정태가 보인다"
+	},
+	{
+		"created_at": "Fri Jan 11 03:30:40 +0000 2019",
+		"id": 1083566837374148600,
+		"id_str": "1083721854039126017",
+		"full_text": "糸数慶子さん、参議院選出馬を辞退 https://t.co/B2w9SUEAX1 #Qプラス",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Qプラス",
+					"indices": [
+						41,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B2w9SUEAX1",
+					"expanded_url": "https://www.qab.co.jp/news/20190111110145.html",
+					"display_url": "qab.co.jp/news/201901111…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 954227532764610600,
+			"id_str": "954227532764610560",
+			"name": "QAB琉球朝日放送Qプラス",
+			"screen_name": "QAB_QPlus",
+			"location": "",
+			"description": "QAB琉球朝日放送の夕方ニュースワイド「Qプラス」の公式Twitterです。私たちの暮らしの中の話題や気になる問題を、様々な目線でお伝えします。もちろんお天気も！どうぞご覧ください。※個別のご要望、ご質問、出演リクエスト、DMにはお答えできません。ご了承ください。https://t.co/6SrKprfIuE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6SrKprfIuE",
+							"expanded_url": "https://goo.gl/Nrirrk",
+							"display_url": "goo.gl/Nrirrk",
+							"indices": [
+								132,
+								155
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 509,
+			"friends_count": 0,
+			"listed_count": 30,
+			"created_at": "Fri Jan 19 05:42:27 +0000 2018",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2838,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/955344698167607296/yWZwrpcq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/955344698167607296/yWZwrpcq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/954227532764610560/1530747181",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "糸数慶子さん、参議院選出馬を辞退 https://t.co/B2w9SUEAX1 #Qプラス"
+	},
+	{
+		"created_at": "Fri Jan 11 06:56:18 +0000 2019",
+		"id": 1083618588068438000,
+		"id_str": "1083650428854624257",
+		"full_text": "今日からジュンク堂那覇店での『新春古書展』が始まりました。テープカットやテレビの取材、ミニ競り市が終わって、追加納品も済み棚が落ち着いた頃に写真を撮りました。会場はこんな感じです。古書店店主が交代でお店番をしますので、本のお問い合わせなどは会場にいるスタッフにおたずねください。 https://t.co/I1puzrOa4I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083618553633243100,
+					"id_str": "1083618553633243136",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/DwnJVVFVAAApwK3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwnJVVFVAAApwK3.jpg",
+					"url": "https://t.co/I1puzrOa4I",
+					"display_url": "pic.twitter.com/I1puzrOa4I",
+					"expanded_url": "https://twitter.com/cotocotomiki/status/1083618588068438016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083618553633243100,
+					"id_str": "1083618553633243136",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/DwnJVVFVAAApwK3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwnJVVFVAAApwK3.jpg",
+					"url": "https://t.co/I1puzrOa4I",
+					"display_url": "pic.twitter.com/I1puzrOa4I",
+					"expanded_url": "https://twitter.com/cotocotomiki/status/1083618588068438016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1530,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 98538763,
+			"id_str": "98538763",
+			"name": "古書の店　言事堂",
+			"screen_name": "cotocotomiki",
+			"location": "Naha, Okinawa, Japan",
+			"description": "那覇にある芸術書の古書店「言事堂（ことことどう）」＋ギャラリー。那覇市松尾2-21-1 火-金11時-18時、土は19時まで（日・月定休）2007年開店。bookcafeゆかるひ本棚担当📚",
+			"url": "https://t.co/acoq7FqDLO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/acoq7FqDLO",
+							"expanded_url": "http://books-cotocoto.com",
+							"display_url": "books-cotocoto.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2545,
+			"friends_count": 1096,
+			"listed_count": 162,
+			"created_at": "Tue Dec 22 03:37:24 +0000 2009",
+			"favourites_count": 3123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12200,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3046617401/598c3bd2b8730c85d50e0ae4fec7d9db_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3046617401/598c3bd2b8730c85d50e0ae4fec7d9db_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/98538763/1375471250",
+			"profile_link_color": "005B98",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今日からジュンク堂那覇店での『新春古書展』が始まりました。テープカットやテレビの取材、ミニ競り市が終わって、追加納品も済み棚が落ち着いた頃に写真を撮りました。会場はこんな感じです。古書店店主が交代でお店番をしますので、本のお問い合わせなどは会場にいるスタッフにおたずねください。 https://t.co/I1puzrOa4I"
+	},
+	{
+		"created_at": "Fri Jan 11 05:48:47 +0000 2019",
+		"id": 1083601595990822900,
+		"id_str": "1083650090428817410",
+		"full_text": "ジュンク堂那覇店での新春古書展始まった。ジュンク堂の森本店長のはからいで式典も。森本店長、榕樹書林の武石さん、古書ウララの宇田さんが代表してテープカット。そのあとブックスじのんの天久さんがオークションを。テレビの取材もあったので夕方のニュースに出るはず。みなさんいらしてね。 https://t.co/P2yOPErRRI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083601584167149600,
+					"id_str": "1083601584167149569",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwm55k5VYAE4zMg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwm55k5VYAE4zMg.jpg",
+					"url": "https://t.co/P2yOPErRRI",
+					"display_url": "pic.twitter.com/P2yOPErRRI",
+					"expanded_url": "https://twitter.com/damdambooks/status/1083601595990822913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083601584167149600,
+					"id_str": "1083601584167149569",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwm55k5VYAE4zMg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwm55k5VYAE4zMg.jpg",
+					"url": "https://t.co/P2yOPErRRI",
+					"display_url": "pic.twitter.com/P2yOPErRRI",
+					"expanded_url": "https://twitter.com/damdambooks/status/1083601595990822913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1083601584167080000,
+					"id_str": "1083601584167079936",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwm55k5UUAAlpl2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwm55k5UUAAlpl2.jpg",
+					"url": "https://t.co/P2yOPErRRI",
+					"display_url": "pic.twitter.com/P2yOPErRRI",
+					"expanded_url": "https://twitter.com/damdambooks/status/1083601595990822913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1083601584196444200,
+					"id_str": "1083601584196444160",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwm55lAUYAAV8Qh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwm55lAUYAAV8Qh.jpg",
+					"url": "https://t.co/P2yOPErRRI",
+					"display_url": "pic.twitter.com/P2yOPErRRI",
+					"expanded_url": "https://twitter.com/damdambooks/status/1083601595990822913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 219490147,
+			"id_str": "219490147",
+			"name": "小原猛　takeshi kohara",
+			"screen_name": "damdambooks",
+			"location": "沖縄県島尻郡",
+			"description": "物書き。沖縄在住。最新刊は『琉球奇譚/シマクサラシの夜』（竹書房文庫） 著書『琉球怪談』『七つ橋を渡って』『キリキザワイの怪』『沖縄の怖い話・弌〜参』『琉球妖怪大図鑑（上下）』など。琉球新報小中学生新聞「りゅうPON」にて「ふしぎうちなーショートショート」連載中。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2348,
+			"friends_count": 1648,
+			"listed_count": 76,
+			"created_at": "Thu Nov 25 00:45:38 +0000 2010",
+			"favourites_count": 532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14077,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/819240726584115201/8TLUe1MO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/819240726584115201/8TLUe1MO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/219490147/1459090613",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ジュンク堂那覇店での新春古書展始まった。ジュンク堂の森本店長のはからいで式典も。森本店長、榕樹書林の武石さん、古書ウララの宇田さんが代表してテープカット。そのあとブックスじのんの天久さんがオークションを。テレビの取材もあったので夕方のニュースに出るはず。みなさんいらしてね。 https://t.co/P2yOPErRRI"
+	},
+	{
+		"created_at": "Fri Jan 11 06:33:15 +0000 2019",
+		"id": 1083612784804253700,
+		"id_str": "1083649759489847296",
+		"full_text": "한국남성들도 책을 불매할 수 있다는 것을 보여주기 위해 페미니즘 라노벨을 쓰겠습니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1585695722,
+			"id_str": "1585695722",
+			"name": "두부러버",
+			"screen_name": "aprism_null",
+			"location": "Questioned Belief",
+			"description": "인생은 자동전투모드",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3245,
+			"friends_count": 498,
+			"listed_count": 30,
+			"created_at": "Thu Jul 11 12:02:30 +0000 2013",
+			"favourites_count": 66505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 107486,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081192371918843904/gK_eIuuA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081192371918843904/gK_eIuuA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1585695722/1546619539",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 140,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국남성들도 책을 불매할 수 있다는 것을 보여주기 위해 페미니즘 라노벨을 쓰겠습니다"
+	},
+	{
+		"created_at": "Thu Jan 10 05:05:06 +0000 2019",
+		"id": 1083228216007974900,
+		"id_str": "1083647810086424581",
+		"full_text": "\"진보개혁진영은 수년째 최저임금 1만원을 주장하고 있는데, 최저임금 인상만큼 고생산성-고임금 부분에서 일자리를 늘릴 방안은 내놓지 않는다. 정부가 모조리 알아서 해결하란 식이다. 노동조합도 고임금 부분의 연대임금-연대고용에 대해서는 침묵한다.\" https://t.co/EpoPjYjqSZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EpoPjYjqSZ",
+					"expanded_url": "http://www.labortoday.co.kr/news/articleView.html?idxno=156157",
+					"display_url": "labortoday.co.kr/news/articleVi…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2708,
+			"friends_count": 1210,
+			"listed_count": 84,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3635,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89493,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1480131241",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"진보개혁진영은 수년째 최저임금 1만원을 주장하고 있는데, 최저임금 인상만큼 고생산성-고임금 부분에서 일자리를 늘릴 방안은 내놓지 않는다. 정부가 모조리 알아서 해결하란 식이다. 노동조합도 고임금 부분의 연대임금-연대고용에 대해서는 침묵한다.\" https://t.co/EpoPjYjqSZ"
+	},
+	{
 		"created_at": "Thu Jan 10 14:39:11 +0000 2019",
 		"id": 1083372687714508800,
 		"id_str": "1083372687714508800",
