@@ -1,6 +1,746 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 12 20:12:45 +0000 2019",
+		"id": 1084181407235096600,
+		"id_str": "1084181407235096576",
+		"full_text": "일본은 올림픽위원장도 세습이군",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 489,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16998,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "일본은 올림픽위원장도 세습이군"
+	},
+	{
+		"created_at": "Fri Jan 11 09:40:37 +0000 2019",
+		"id": 1083659939636105200,
+		"id_str": "1084180644060487680",
+		"full_text": "父は731部隊の参謀、かつ沖縄に師団を送らせなかった竹田宮恒徳（1964五輪のJOC会長）。本人は2020五輪JOC会長の竹田恒和。息子はご存知ネトウヨの竹田恒泰。 【速報】東京五輪めぐる汚職　仏当局、JOC竹田会長を起訴https://t.co/Tv0bjTmteX … #FNN https://t.co/WqNPeLHhCc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FNN",
+					"indices": [
+						137,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tv0bjTmteX",
+					"expanded_url": "https://www.fnn.jp/posts/00409531CX",
+					"display_url": "fnn.jp/posts/00409531…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1083659820572393500,
+					"id_str": "1083659820572393472",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwnu3YaUwAAvPsb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwnu3YaUwAAvPsb.jpg",
+					"url": "https://t.co/WqNPeLHhCc",
+					"display_url": "pic.twitter.com/WqNPeLHhCc",
+					"expanded_url": "https://twitter.com/ni0615/status/1083659939636105216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 270,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 270,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 270,
+							"h": 378,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083659820572393500,
+					"id_str": "1083659820572393472",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwnu3YaUwAAvPsb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwnu3YaUwAAvPsb.jpg",
+					"url": "https://t.co/WqNPeLHhCc",
+					"display_url": "pic.twitter.com/WqNPeLHhCc",
+					"expanded_url": "https://twitter.com/ni0615/status/1083659939636105216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 270,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 270,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 270,
+							"h": 378,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1083659887379243000,
+					"id_str": "1083659887379243008",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwnu7RSUYAAHthe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwnu7RSUYAAHthe.jpg",
+					"url": "https://t.co/WqNPeLHhCc",
+					"display_url": "pic.twitter.com/WqNPeLHhCc",
+					"expanded_url": "https://twitter.com/ni0615/status/1083659939636105216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 220,
+							"h": 331,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 220,
+							"h": 331,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 331,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1083659923324457000,
+					"id_str": "1083659923324456960",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Dwnu9XMU0AAbGui.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dwnu9XMU0AAbGui.jpg",
+					"url": "https://t.co/WqNPeLHhCc",
+					"display_url": "pic.twitter.com/WqNPeLHhCc",
+					"expanded_url": "https://twitter.com/ni0615/status/1083659939636105216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 620,
+							"h": 413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 620,
+							"h": 413,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 413,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 156834814,
+			"id_str": "156834814",
+			"name": "田島なおき（被ばく受忍返上）",
+			"screen_name": "ni0615",
+			"location": "",
+			"description": "除染では被曝増加率が下がるだけです。2011年度Cs被曝量の4.3倍が10年間の、5.2倍が20年間の被曝量です。http://t.co/bE8wxBUEKP／放射線被ばくを学習する会https://t.co/bsjLBhMXht／資料庫http://t.co/jDvY0PsF",
+			"url": "http://t.co/t3mpFOowR3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/t3mpFOowR3",
+							"expanded_url": "http://www59.atwiki.jp/2011311/",
+							"display_url": "www59.atwiki.jp/2011311/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/bE8wxBUEKP",
+							"expanded_url": "http://twilog.org/ni0615",
+							"display_url": "twilog.org/ni0615",
+							"indices": [
+								57,
+								79
+							]
+						},
+						{
+							"url": "https://t.co/bsjLBhMXht",
+							"expanded_url": "https://www.facebook.com/antihibaku",
+							"display_url": "facebook.com/antihibaku",
+							"indices": [
+								92,
+								115
+							]
+						},
+						{
+							"url": "http://t.co/jDvY0PsF",
+							"expanded_url": "http://www16.atwiki.jp/pipopipo555jp/",
+							"display_url": "www16.atwiki.jp/pipopipo555jp/",
+							"indices": [
+								119,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1997,
+			"friends_count": 3027,
+			"listed_count": 129,
+			"created_at": "Fri Jun 18 02:17:57 +0000 2010",
+			"favourites_count": 4179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37332,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/516282908105928704/n75Q7LdG_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/516282908105928704/n75Q7LdG_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/156834814/1423454737",
+			"profile_link_color": "1D91CF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 956,
+		"favorite_count": 691,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "父は731部隊の参謀、かつ沖縄に師団を送らせなかった竹田宮恒徳（1964五輪のJOC会長）。本人は2020五輪JOC会長の竹田恒和。息子はご存知ネトウヨの竹田恒泰。 【速報】東京五輪めぐる汚職　仏当局、JOC竹田会長を起訴https://t.co/Tv0bjTmteX … #FNN https://t.co/WqNPeLHhCc"
+	},
+	{
+		"created_at": "Fri Jan 11 12:46:20 +0000 2019",
+		"id": 1083706676119711700,
+		"id_str": "1084155421563056129",
+		"full_text": "全員逮捕してほしい。 https://t.co/nmKCWWZJMc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083706670444728300,
+					"id_str": "1083706670444728320",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DwoZeZyUUAAkN1r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwoZeZyUUAAkN1r.jpg",
+					"url": "https://t.co/nmKCWWZJMc",
+					"display_url": "pic.twitter.com/nmKCWWZJMc",
+					"expanded_url": "https://twitter.com/poem_japan/status/1083706676119711746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083706670444728300,
+					"id_str": "1083706670444728320",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/DwoZeZyUUAAkN1r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwoZeZyUUAAkN1r.jpg",
+					"url": "https://t.co/nmKCWWZJMc",
+					"display_url": "pic.twitter.com/nmKCWWZJMc",
+					"expanded_url": "https://twitter.com/poem_japan/status/1083706676119711746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60882946,
+			"id_str": "60882946",
+			"name": "ぽ☆え☆む JAPAN🐝🐝",
+			"screen_name": "poem_japan",
+			"location": "tokio",
+			"description": "2MUCH CREW とか☆☆☆ https://t.co/pq5n2BeDdY https://t.co/akNIpkBBRZ https://t.co/8Oh8FpeJE1",
+			"url": "https://t.co/pq5n2BeDdY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pq5n2BeDdY",
+							"expanded_url": "https://soundcloud.com/poem_japan",
+							"display_url": "soundcloud.com/poem_japan",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/pq5n2BeDdY",
+							"expanded_url": "https://soundcloud.com/poem_japan",
+							"display_url": "soundcloud.com/poem_japan",
+							"indices": [
+								17,
+								40
+							]
+						},
+						{
+							"url": "https://t.co/akNIpkBBRZ",
+							"expanded_url": "http://ja-jp.facebook.com/pages/2MUCH-CREW/193160170736952",
+							"display_url": "ja-jp.facebook.com/pages/2MUCH-CR…",
+							"indices": [
+								41,
+								64
+							]
+						},
+						{
+							"url": "https://t.co/8Oh8FpeJE1",
+							"expanded_url": "http://d.hatena.ne.jp/poem65/",
+							"display_url": "d.hatena.ne.jp/poem65/",
+							"indices": [
+								65,
+								88
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3496,
+			"friends_count": 2450,
+			"listed_count": 113,
+			"created_at": "Tue Jul 28 11:51:29 +0000 2009",
+			"favourites_count": 30064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 147709,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF002F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865797598174519296/48y14TRb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865797598174519296/48y14TRb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60882946/1528445493",
+			"profile_link_color": "B800AC",
+			"profile_sidebar_border_color": "FC036F",
+			"profile_sidebar_fill_color": "26FF05",
+			"profile_text_color": "6E3801",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 167,
+		"favorite_count": 294,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "全員逮捕してほしい。 https://t.co/nmKCWWZJMc"
+	},
+	{
+		"created_at": "Sat Jan 12 01:09:05 +0000 2019",
+		"id": 1083893593528459300,
+		"id_str": "1084091316298895360",
+		"full_text": "한국인들 다 똑같아. 남이 애를 안 낳는 이유를 납득해야겠다는 사람이나 남이 애를 낳는 이유를 납득해야겠다는 사람이나. 이쪽이나 저쪽이나 아무 관계도 없는 자신을 납득시켜야 괴롭힘을 멈추겠단다. 아 그냥 좀 냅둬유...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 90572375,
+			"id_str": "90572375",
+			"name": "🐰",
+			"screen_name": "pixelbunny_",
+			"location": "🔥🌈👩🏻‍💻🌷🔥",
+			"description": "책 사놓고 안 읽는 사람. 우리는 김지은씨를 지지합니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1356,
+			"friends_count": 548,
+			"listed_count": 33,
+			"created_at": "Tue Nov 17 05:49:59 +0000 2009",
+			"favourites_count": 6257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5870,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060832219306967040/Tg9Y8jBS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060832219306967040/Tg9Y8jBS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/90572375/1524656164",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 779,
+		"favorite_count": 269,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국인들 다 똑같아. 남이 애를 안 낳는 이유를 납득해야겠다는 사람이나 남이 애를 낳는 이유를 납득해야겠다는 사람이나. 이쪽이나 저쪽이나 아무 관계도 없는 자신을 납득시켜야 괴롭힘을 멈추겠단다. 아 그냥 좀 냅둬유..."
+	},
+	{
+		"created_at": "Sat Jan 12 11:06:00 +0000 2019",
+		"id": 1084043815135043600,
+		"id_str": "1084043815135043585",
+		"full_text": "모 공공기관에서 블라인드 채용을 했더니 서울대연고대 출신이 예전의 배 이상 뽑혔다는;;;;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 489,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16998,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "모 공공기관에서 블라인드 채용을 했더니 서울대연고대 출신이 예전의 배 이상 뽑혔다는;;;;"
+	},
+	{
 		"created_at": "Thu Jan 10 23:12:02 +0000 2019",
 		"id": 1083501750294696000,
 		"id_str": "1083775798740283393",
