@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 14 13:57:20 +0000 2019",
+		"id": 1084811707191504900,
+		"id_str": "1084958893912907776",
+		"full_text": "어디어디 한달 살기 당연히 즐겁지, 출근안하고 여행하듯 살면 그냥 우리집에 살아도 즐겁다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 161221767,
+			"id_str": "161221767",
+			"name": "아스타잔틴",
+			"screen_name": "najya_",
+			"location": "",
+			"description": "안티에이징+5",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95,
+			"friends_count": 213,
+			"listed_count": 2,
+			"created_at": "Wed Jun 30 08:34:39 +0000 2010",
+			"favourites_count": 1516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28036,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/970171619338477568/HUwIHsef_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/970171619338477568/HUwIHsef_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/161221767/1419257074",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 242,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "어디어디 한달 살기 당연히 즐겁지, 출근안하고 여행하듯 살면 그냥 우리집에 살아도 즐겁다"
+	},
+	{
+		"created_at": "Sun Jan 13 13:48:13 +0000 2019",
+		"id": 1084447024680820700,
+		"id_str": "1084750335728447488",
+		"full_text": "KBS 최경영 \"해외언론의 경우 시장 같은 무형물, 예를 들어 대기업이나 중소기업이 불안이 떤다거나 움츠려 든다거나 공포에 질린다거나 이런 표현이 일단 헤드라인에 나오지 않는다. 무형물에 감정을 집어넣지 말라는 게 원칙이다. 하지만 한국언론의 헤드라인만 보면 모두 공포에 떨고 있다.\" https://t.co/33XuvBjwXl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/33XuvBjwXl",
+					"expanded_url": "https://twitter.com/hankyungmedia/status/1084427930409754624",
+					"display_url": "twitter.com/hankyungmedia/…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 707605147061321700,
+			"id_str": "707605147061321729",
+			"name": "고양이형 카고",
+			"screen_name": "cat_cargo",
+			"location": "",
+			"description": "맞다 이 악마야",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4697,
+			"friends_count": 75,
+			"listed_count": 73,
+			"created_at": "Wed Mar 09 16:33:08 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2548,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848025237019078658/7qn9GPQe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848025237019078658/7qn9GPQe_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1084427930409754600,
+		"quoted_status_id_str": "1084427930409754624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/33XuvBjwXl",
+			"expanded": "https://twitter.com/hankyungmedia/status/1084427930409754624",
+			"display": "twitter.com/hankyungmedia/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 13 12:32:20 +0000 2019",
+			"id": 1084427930409754600,
+			"id_str": "1084427930409754624",
+			"full_text": "금융위기 때도 없던 '초유의 현상' 5대 그룹까지 '신용등급 하락' 공포 https://t.co/5ykS2HeHTY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5ykS2HeHTY",
+						"expanded_url": "http://news.hankyung.com/article/2019011395951",
+						"display_url": "news.hankyung.com/article/201901…",
+						"indices": [
+							41,
+							64
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 180664850,
+				"id_str": "180664850",
+				"name": "한국경제신문",
+				"screen_name": "hankyungmedia",
+				"location": "",
+				"description": "한국경제신문 공식 트위터 계정입니다. 따뜻이 소통하면서 좋은 정보를 공유하는데 최선을 다하겠습니다. 제보, 의견 기다립니다. The Korea Economic Daily 02-360-4114 https://t.co/b99nT8fJAg",
+				"url": "https://t.co/Gak4jZnfaU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gak4jZnfaU",
+								"expanded_url": "http://www.facebook.com/hankyungmedia",
+								"display_url": "facebook.com/hankyungmedia",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/b99nT8fJAg",
+								"expanded_url": "http://www.hankyung.com",
+								"display_url": "hankyung.com",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 68622,
+				"friends_count": 65677,
+				"listed_count": 1536,
+				"created_at": "Fri Aug 20 04:54:38 +0000 2010",
+				"favourites_count": 56,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 104268,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1047035252705828865/caGM_yMy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047035252705828865/caGM_yMy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/180664850/1536211410",
+				"profile_link_color": "080808",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 691,
+		"favorite_count": 180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KBS 최경영 \"해외언론의 경우 시장 같은 무형물, 예를 들어 대기업이나 중소기업이 불안이 떤다거나 움츠려 든다거나 공포에 질린다거나 이런 표현이 일단 헤드라인에 나오지 않는다. 무형물에 감정을 집어넣지 말라는 게 원칙이다. 하지만 한국언론의 헤드라인만 보면 모두 공포에 떨고 있다.\" https://t.co/33XuvBjwXl"
+	},
+	{
 		"created_at": "Sun Jan 06 00:29:03 +0000 2019",
 		"id": 1081709193550164000,
 		"id_str": "1084494035652292609",
