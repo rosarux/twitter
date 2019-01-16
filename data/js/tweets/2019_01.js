@@ -1,6 +1,580 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 14:10:00 +0000 2019",
+		"id": 1085177283147636700,
+		"id_str": "1085187024514994177",
+		"full_text": "If completed, an inter-Korean railway could be integrated into a rail network spanning the Eurasian continent through China and Russia. This would be a significant diplomatic and geopolitical accomplishment.\n\nRead the new @BeyondCSISKorea report here: https://t.co/RkYnOw4VQG https://t.co/Awsv2iAi9C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BeyondCSISKorea",
+					"name": "CSIS Beyond Parallel",
+					"id": 747514110087204900,
+					"id_str": "747514110087204864",
+					"indices": [
+						222,
+						238
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RkYnOw4VQG",
+					"expanded_url": "https://cs.is/2Qx1fVI",
+					"display_url": "cs.is/2Qx1fVI",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082406583643066400,
+					"id_str": "1082406583643066368",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DwV7DZCW0AACK5d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwV7DZCW0AACK5d.jpg",
+					"url": "https://t.co/Awsv2iAi9C",
+					"display_url": "pic.twitter.com/Awsv2iAi9C",
+					"expanded_url": "https://twitter.com/CSIS/status/1085177283147636736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2044,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082406583643066400,
+					"id_str": "1082406583643066368",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/DwV7DZCW0AACK5d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwV7DZCW0AACK5d.jpg",
+					"url": "https://t.co/Awsv2iAi9C",
+					"display_url": "pic.twitter.com/Awsv2iAi9C",
+					"expanded_url": "https://twitter.com/CSIS/status/1085177283147636736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2044,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 272019676,
+			"id_str": "272019676",
+			"name": "CSIS",
+			"screen_name": "CSIS",
+			"location": "Washington, DC",
+			"description": "A bipartisan institution founded in 1962, CSIS is the world's #1 defense & national security think tank. Subscribe to The Evening: https://t.co/Xa0a5LKJsg",
+			"url": "http://t.co/wDuetgXntZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wDuetgXntZ",
+							"expanded_url": "http://csis.org",
+							"display_url": "csis.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Xa0a5LKJsg",
+							"expanded_url": "http://bit.ly/ecs1s",
+							"display_url": "bit.ly/ecs1s",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 264201,
+			"friends_count": 110,
+			"listed_count": 4808,
+			"created_at": "Fri Mar 25 17:09:55 +0000 2011",
+			"favourites_count": 761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 55056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "003E63",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/955825177417351168/Fzn91mio_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/955825177417351168/Fzn91mio_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/272019676/1398267587",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If completed, an inter-Korean railway could be integrated into a rail network spanning the Eurasian continent through China and Russia. This would be a significant diplomatic and geopolitical accomplishment.\n\nRead the new @BeyondCSISKorea report here: https://t.co/RkYnOw4VQG https://t.co/Awsv2iAi9C"
+	},
+	{
+		"created_at": "Tue Jan 15 02:12:15 +0000 2019",
+		"id": 1084996656599167000,
+		"id_str": "1085099444297621504",
+		"full_text": "'민심에 의한 브렉시트' 라고 하면 민심은 어리석은 선택을 한다는 의미로 읽히니 '브렉시트를 국민투표로 내던진 엘리트정치' 라고 정확히 놀려주는 게 좋읍니다 https://t.co/zTduRA6Guy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zTduRA6Guy",
+					"expanded_url": "https://twitter.com/humanjissou/status/1084992717615034368",
+					"display_url": "twitter.com/humanjissou/st…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1698407180,
+			"id_str": "1698407180",
+			"name": "rtspmd",
+			"screen_name": "_4835979",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427,
+			"friends_count": 117,
+			"listed_count": 14,
+			"created_at": "Sun Aug 25 07:03:38 +0000 2013",
+			"favourites_count": 272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9718,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028301106084896768/nj1Vs9FY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028301106084896768/nj1Vs9FY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1698407180/1534001062",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1084992717615034400,
+		"quoted_status_id_str": "1084992717615034368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zTduRA6Guy",
+			"expanded": "https://twitter.com/humanjissou/status/1084992717615034368",
+			"display": "twitter.com/humanjissou/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 15 01:56:36 +0000 2019",
+			"id": 1084992717615034400,
+			"id_str": "1084992717615034368",
+			"full_text": "민심에 의한 브렉시트는 어찌 생각하는 지 궁금한데스.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1084992640209150000,
+			"in_reply_to_status_id_str": "1084992640209149952",
+			"in_reply_to_user_id": 1057137504984358900,
+			"in_reply_to_user_id_str": "1057137504984358914",
+			"in_reply_to_screen_name": "humanjissou",
+			"user": {
+				"id": 1057137504984358900,
+				"id_str": "1057137504984358914",
+				"name": "(월동중) 에메랄드",
+				"screen_name": "humanjissou",
+				"location": "파랑새 공원",
+				"description": "데프프프프프...",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 617,
+				"friends_count": 129,
+				"listed_count": 3,
+				"created_at": "Tue Oct 30 05:09:56 +0000 2018",
+				"favourites_count": 1288,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5739,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1057137712916946945/1ZZIcnIG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057137712916946945/1ZZIcnIG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1057137504984358914/1543038579",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 92,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 206,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'민심에 의한 브렉시트' 라고 하면 민심은 어리석은 선택을 한다는 의미로 읽히니 '브렉시트를 국민투표로 내던진 엘리트정치' 라고 정확히 놀려주는 게 좋읍니다 https://t.co/zTduRA6Guy"
+	},
+	{
+		"created_at": "Tue Jan 15 06:00:10 +0000 2019",
+		"id": 1085054013773627400,
+		"id_str": "1085062387982454785",
+		"full_text": "@shinhh ㅋㅋㅋㅋ 37년간 한국생활 했는데 할 줄 아는 단어가 민심뿐이란 말입니까!!!",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shinhh",
+					"name": "Hyun-Ho Shin",
+					"id": 53305769,
+					"id_str": "53305769",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1085053109938851800,
+		"in_reply_to_status_id_str": "1085053109938851840",
+		"in_reply_to_user_id": 53305769,
+		"in_reply_to_user_id_str": "53305769",
+		"in_reply_to_screen_name": "shinhh",
+		"user": {
+			"id": 22048564,
+			"id_str": "22048564",
+			"name": "옛살나비",
+			"screen_name": "bannygipsa",
+			"location": "Louisville, KY",
+			"description": "반이 집사 #GirlsCanDoAnything",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1438,
+			"friends_count": 923,
+			"listed_count": 32,
+			"created_at": "Thu Feb 26 19:22:11 +0000 2009",
+			"favourites_count": 10866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 79944,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785588349171961858/K7RQNwOU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785588349171961858/K7RQNwOU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22048564/1435354896",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@shinhh ㅋㅋㅋㅋ 37년간 한국생활 했는데 할 줄 아는 단어가 민심뿐이란 말입니까!!!"
+	},
+	{
+		"created_at": "Tue Jan 15 04:18:18 +0000 2019",
+		"id": 1085028374949486600,
+		"id_str": "1085061918778408967",
+		"full_text": "35년 전의 한국은 외신기자가 한국어를 한마디도 못해도 별 문제가 없는 그런 나라였던 것은 사실이지만, 그렇다고 35년 동안 한국에서 살면서 한국어를 못한다는 것을 자랑하는 외신기자가 있을 거라고는 상상도 못했다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101148636,
+			"id_str": "101148636",
+			"name": "까날(오승택)",
+			"screen_name": "kcanari",
+			"location": "KOREA Sungnam",
+			"description": "'홋카이도에 먹으러가자' 글쓴이. 일본 식도락 여행 전문 블로그 운영중. 우리음식, 일본음식, 우리술, 일본술에 관심이 많은 사람.",
+			"url": "http://t.co/F8qV04Ob9y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/F8qV04Ob9y",
+							"expanded_url": "http://kcanari.egloos.com",
+							"display_url": "kcanari.egloos.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50338,
+			"friends_count": 266,
+			"listed_count": 231,
+			"created_at": "Sat Jan 02 05:42:27 +0000 2010",
+			"favourites_count": 450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 105979,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101148636/1365251288",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 870,
+		"favorite_count": 219,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "35년 전의 한국은 외신기자가 한국어를 한마디도 못해도 별 문제가 없는 그런 나라였던 것은 사실이지만, 그렇다고 35년 동안 한국에서 살면서 한국어를 못한다는 것을 자랑하는 외신기자가 있을 거라고는 상상도 못했다."
+	},
+	{
 		"created_at": "Mon Jan 14 13:57:20 +0000 2019",
 		"id": 1084811707191504900,
 		"id_str": "1084958893912907776",
