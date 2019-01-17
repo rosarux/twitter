@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 14 16:31:34 +0000 2019",
+		"id": 1084850521196900400,
+		"id_str": "1085544621311049728",
+		"full_text": "“Boys will be boys”? Isn’t it time we stopped excusing bad behavior? Re-think and take action by joining us at https://t.co/giHuGDEvlT. #TheBestMenCanBe https://t.co/hhBL1XjFVo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheBestMenCanBe",
+					"indices": [
+						136,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/giHuGDEvlT",
+					"expanded_url": "http://TheBestMenCanBe.org",
+					"display_url": "TheBestMenCanBe.org",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1084850171689779200,
+					"id_str": "1084850171689779200",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1084850171689779200/img/4ZoDDEvSdLyMyn00.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1084850171689779200/img/4ZoDDEvSdLyMyn00.jpg",
+					"url": "https://t.co/hhBL1XjFVo",
+					"display_url": "pic.twitter.com/hhBL1XjFVo",
+					"expanded_url": "https://twitter.com/Gillette/status/1084850521196900352/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084850171689779200,
+					"id_str": "1084850171689779200",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1084850171689779200/img/4ZoDDEvSdLyMyn00.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1084850171689779200/img/4ZoDDEvSdLyMyn00.jpg",
+					"url": "https://t.co/hhBL1XjFVo",
+					"display_url": "pic.twitter.com/hhBL1XjFVo",
+					"expanded_url": "https://twitter.com/Gillette/status/1084850521196900352/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 108760,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1084850171689779200/vid/1280x720/s4OxgPHI7vPxip4W.mp4?tag=11"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1084850171689779200/pl/Zy5OgxUl1Wsn9g9T.m3u8?tag=11"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1084850171689779200/vid/640x360/M-IdIR47taXEBu1X.mp4?tag=11"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1084850171689779200/vid/320x180/j8wC-1RsFJU1dw9s.mp4?tag=11"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33522196,
+			"id_str": "33522196",
+			"name": "Gillette",
+			"screen_name": "Gillette",
+			"location": "Boston, MA",
+			"description": "The Best a Man Can Get.",
+			"url": "https://t.co/fZ3iIvXyy9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fZ3iIvXyy9",
+							"expanded_url": "https://ondemand.gillette.com/en-us/starttoday",
+							"display_url": "ondemand.gillette.com/en-us/starttod…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 124384,
+			"friends_count": 658,
+			"listed_count": 725,
+			"created_at": "Mon Apr 20 14:07:06 +0000 2009",
+			"favourites_count": 9520,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26317,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "010103",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2726313129/bad2b44647d8321cd90f65ef162975a5_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2726313129/bad2b44647d8321cd90f65ef162975a5_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33522196/1547464863",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 194068,
+		"favorite_count": 471205,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Boys will be boys”? Isn’t it time we stopped excusing bad behavior? Re-think and take action by joining us at https://t.co/giHuGDEvlT. #TheBestMenCanBe https://t.co/hhBL1XjFVo"
+	},
+	{
+		"created_at": "Wed Jan 16 00:26:43 +0000 2019",
+		"id": 1085332484751933400,
+		"id_str": "1085470265163698176",
+		"full_text": "대법원이 바뀐 효과가 슬슬 나타나고 있는 건가. 역시 대선을 이겨야 한다.\nhttps://t.co/Yfa6UB81aV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yfa6UB81aV",
+					"expanded_url": "https://www.lawtimes.co.kr/Legal-News/Legal-News-View?serial=147576",
+					"display_url": "lawtimes.co.kr/Legal-News/Leg…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2705,
+			"friends_count": 1222,
+			"listed_count": 82,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89712,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1480131241",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대법원이 바뀐 효과가 슬슬 나타나고 있는 건가. 역시 대선을 이겨야 한다.\nhttps://t.co/Yfa6UB81aV"
+	},
+	{
 		"created_at": "Tue Jan 15 14:10:00 +0000 2019",
 		"id": 1085177283147636700,
 		"id_str": "1085187024514994177",
