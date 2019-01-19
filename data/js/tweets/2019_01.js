@@ -1,6 +1,1178 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 17 11:13:02 +0000 2019",
+		"id": 1085857521800114200,
+		"id_str": "1086288586083729408",
+		"full_text": "なんなんだよこの「芸術鑑賞に1ミクロンの興味もない人」の結晶化みたいな写真うまく出来過ぎだろ https://t.co/psHKRnG9v8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085857517106679800,
+					"id_str": "1085857517106679808",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DxG9qJ_U0AAkd1y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxG9qJ_U0AAkd1y.jpg",
+					"url": "https://t.co/psHKRnG9v8",
+					"display_url": "pic.twitter.com/psHKRnG9v8",
+					"expanded_url": "https://twitter.com/quadroanger/status/1085857521800114178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 659,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 659,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 438,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085857517106679800,
+					"id_str": "1085857517106679808",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/DxG9qJ_U0AAkd1y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxG9qJ_U0AAkd1y.jpg",
+					"url": "https://t.co/psHKRnG9v8",
+					"display_url": "pic.twitter.com/psHKRnG9v8",
+					"expanded_url": "https://twitter.com/quadroanger/status/1085857521800114178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 659,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 659,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 438,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3725073810,
+			"id_str": "3725073810",
+			"name": "anaako",
+			"screen_name": "quadroanger",
+			"location": "",
+			"description": "眠れ〜っアキラ眠れ〜眠れ〜っ！アキラ眠れ〜っ！",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83,
+			"friends_count": 192,
+			"listed_count": 6,
+			"created_at": "Tue Sep 29 11:16:59 +0000 2015",
+			"favourites_count": 685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5985,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085602221964779520/Jin0tovF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085602221964779520/Jin0tovF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3725073810/1510477254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 750,
+		"favorite_count": 1527,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "なんなんだよこの「芸術鑑賞に1ミクロンの興味もない人」の結晶化みたいな写真うまく出来過ぎだろ https://t.co/psHKRnG9v8"
+	},
+	{
+		"created_at": "Fri Jan 18 13:11:52 +0000 2019",
+		"id": 1086249815300685800,
+		"id_str": "1086249815300685824",
+		"full_text": "뭐 정밀한 분석이 필요하고 시간도 더 지나봐야겠지만 분명 유의미한 상관관계가 있을 것 같다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1086198663074918400,
+		"in_reply_to_status_id_str": "1086198663074918400",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 491,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17016,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "뭐 정밀한 분석이 필요하고 시간도 더 지나봐야겠지만 분명 유의미한 상관관계가 있을 것 같다."
+	},
+	{
+		"created_at": "Fri Jan 18 03:28:42 +0000 2019",
+		"id": 1086103059183284200,
+		"id_str": "1086243739989733376",
+		"full_text": "내 땅 앞에 지하철 역이 생기면 땅값은 상상을 초월하게 오름.\n그럼 그 수익을 땅주인인 내가 다 먹는게 옳으냐에 대해 생각해봐야 함.\n세금으로 놓은 지하철로부터 파생되는 편익을 개인이 다 먹는게 옳으냐의 문제.\n결국 토지 공개념으로 이어지는 문제.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 191029347,
+			"id_str": "191029347",
+			"name": "수영과동주",
+			"screen_name": "poppinbw",
+			"location": "경기도 의왕시",
+			"description": "그러나 겨울이 지나고 나의 별에도 봄이 오면 무덤 위에 파란 잔디가 피어나듯이 내 이름자 묻힌 언덕위에도 자랑처럼 풀이 무성할거외다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4922,
+			"friends_count": 120,
+			"listed_count": 37,
+			"created_at": "Wed Sep 15 12:58:19 +0000 2010",
+			"favourites_count": 2004,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72238,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1078291687825321986/k5qjS_9V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078291687825321986/k5qjS_9V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/191029347/1504510397",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 153,
+		"favorite_count": 141,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "내 땅 앞에 지하철 역이 생기면 땅값은 상상을 초월하게 오름.\n그럼 그 수익을 땅주인인 내가 다 먹는게 옳으냐에 대해 생각해봐야 함.\n세금으로 놓은 지하철로부터 파생되는 편익을 개인이 다 먹는게 옳으냐의 문제.\n결국 토지 공개념으로 이어지는 문제."
+	},
+	{
+		"created_at": "Thu Jan 17 05:39:33 +0000 2019",
+		"id": 1085773600395677700,
+		"id_str": "1086243468530221062",
+		"full_text": "バンクシーってあなたみたいな権力者を風刺するアーティストなんだが。 https://t.co/189b8egA2V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/189b8egA2V",
+					"expanded_url": "https://twitter.com/ecoyuri/status/1085767968959561729",
+					"display_url": "twitter.com/ecoyuri/status…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 735028747,
+			"id_str": "735028747",
+			"name": "mold",
+			"screen_name": "lautream",
+			"location": "Paris, France",
+			"description": "「青春は崇拝し軽蔑する。しかも人生の至上の収穫たるニュアンスの巧みを知らない。かくて人間と事物とを肯定と否定をもって強襲したことを当然のことながら後になって厳しく償わねばならない」 -ニーチェ「善悪の彼岸」より-",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4208,
+			"friends_count": 680,
+			"listed_count": 72,
+			"created_at": "Fri Aug 03 15:04:41 +0000 2012",
+			"favourites_count": 15752,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 170564,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958096581198098432/2Dm1-us7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958096581198098432/2Dm1-us7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/735028747/1523122998",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1085767968959561700,
+		"quoted_status_id_str": "1085767968959561729",
+		"quoted_status_permalink": {
+			"url": "https://t.co/189b8egA2V",
+			"expanded": "https://twitter.com/ecoyuri/status/1085767968959561729",
+			"display": "twitter.com/ecoyuri/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 17 05:17:11 +0000 2019",
+			"id": 1085767968959561700,
+			"id_str": "1085767968959561729",
+			"full_text": "あのバンクシーの作品かもしれないカワイイねずみの絵が都内にありました！  東京への贈り物かも？ カバンを持っているようです。 https://t.co/aPBVAq3GG3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				62
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1085767962009587700,
+						"id_str": "1085767962009587712",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DxFsNXQU0AAQcof.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxFsNXQU0AAQcof.jpg",
+						"url": "https://t.co/aPBVAq3GG3",
+						"display_url": "pic.twitter.com/aPBVAq3GG3",
+						"expanded_url": "https://twitter.com/ecoyuri/status/1085767968959561729/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1085767962009587700,
+						"id_str": "1085767962009587712",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DxFsNXQU0AAQcof.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxFsNXQU0AAQcof.jpg",
+						"url": "https://t.co/aPBVAq3GG3",
+						"display_url": "pic.twitter.com/aPBVAq3GG3",
+						"expanded_url": "https://twitter.com/ecoyuri/status/1085767968959561729/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1085767962013757400,
+						"id_str": "1085767962013757440",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DxFsNXRUcAA-bjb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxFsNXRUcAA-bjb.jpg",
+						"url": "https://t.co/aPBVAq3GG3",
+						"display_url": "pic.twitter.com/aPBVAq3GG3",
+						"expanded_url": "https://twitter.com/ecoyuri/status/1085767968959561729/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89631948,
+				"id_str": "89631948",
+				"name": "小池百合子",
+				"screen_name": "ecoyuri",
+				"location": "",
+				"description": "Yuriko Koike Governor of Tokyo. Former Minister of Defence, Minister of the Environment, Member, House of Representatives. Japan 東京都知事。元衆議院議員。環境大臣、防衛大臣。",
+				"url": "https://t.co/xJVcaAMfA2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xJVcaAMfA2",
+								"expanded_url": "http://www.yuriko.or.jp",
+								"display_url": "yuriko.or.jp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 566284,
+				"friends_count": 591,
+				"listed_count": 13597,
+				"created_at": "Fri Nov 13 05:12:02 +0000 2009",
+				"favourites_count": 417,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3572,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/754526746716676099/CjjisH33_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/754526746716676099/CjjisH33_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89631948/1415942542",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6183,
+			"favorite_count": 14703,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 2032,
+		"favorite_count": 4128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "バンクシーってあなたみたいな権力者を風刺するアーティストなんだが。 https://t.co/189b8egA2V"
+	},
+	{
+		"created_at": "Fri Jan 18 09:48:36 +0000 2019",
+		"id": 1086198663074918400,
+		"id_str": "1086198663074918400",
+		"full_text": "대기업 중소기업 임금격차는 2016년 이후 소폭이긴 하나마 줄어들고 있음. 2012년 64.1%에서 2015연 62%까지 떨어졌다 지난해 65.1%까지 올랐음. 분명 최저임금 인상 영향임",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 491,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17016,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "대기업 중소기업 임금격차는 2016년 이후 소폭이긴 하나마 줄어들고 있음. 2012년 64.1%에서 2015연 62%까지 떨어졌다 지난해 65.1%까지 올랐음. 분명 최저임금 인상 영향임"
+	},
+	{
+		"created_at": "Fri Jan 18 09:26:09 +0000 2019",
+		"id": 1086193013523546100,
+		"id_str": "1086193013523546112",
+		"full_text": "@macmorning01 많이 덥게 느껴지실거에요. 현지사람들은 꽁꽁 싸매고 다니지만. ㅎㅎ",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "macmorning01",
+					"name": "루리루리🏳️‍🌈",
+					"id": 335767073,
+					"id_str": "335767073",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1086191397940559900,
+		"in_reply_to_status_id_str": "1086191397940559873",
+		"in_reply_to_user_id": 335767073,
+		"in_reply_to_user_id_str": "335767073",
+		"in_reply_to_screen_name": "macmorning01",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 491,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17016,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@macmorning01 많이 덥게 느껴지실거에요. 현지사람들은 꽁꽁 싸매고 다니지만. ㅎㅎ"
+	},
+	{
+		"created_at": "Fri Jan 18 09:16:01 +0000 2019",
+		"id": 1086190461713170400,
+		"id_str": "1086190461713170432",
+		"full_text": "@macmorning01 엇 한달 살기 실행하시나 보네요. (부럽 ㅠㅠ)",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "macmorning01",
+					"name": "루리루리🏳️‍🌈",
+					"id": 335767073,
+					"id_str": "335767073",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1086173534827606000,
+		"in_reply_to_status_id_str": "1086173534827606016",
+		"in_reply_to_user_id": 335767073,
+		"in_reply_to_user_id_str": "335767073",
+		"in_reply_to_screen_name": "macmorning01",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 491,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17016,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@macmorning01 엇 한달 살기 실행하시나 보네요. (부럽 ㅠㅠ)"
+	},
+	{
+		"created_at": "Fri Jan 18 08:36:09 +0000 2019",
+		"id": 1086180430557077500,
+		"id_str": "1086189974775459840",
+		"full_text": "다들 가운데부터 찍고 시작하실거라고 믿습니다 #빙고 #밀덕 https://t.co/BvktP6ZOmJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빙고",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "밀덕",
+					"indices": [
+						29,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086180367688581100,
+					"id_str": "1086180367688581120",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DxLjSiIUwAAwIyo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxLjSiIUwAAwIyo.jpg",
+					"url": "https://t.co/BvktP6ZOmJ",
+					"display_url": "pic.twitter.com/BvktP6ZOmJ",
+					"expanded_url": "https://twitter.com/milframe/status/1086180430557077506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 511,
+							"h": 482,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 511,
+							"h": 482,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 511,
+							"h": 482,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086180367688581100,
+					"id_str": "1086180367688581120",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/DxLjSiIUwAAwIyo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxLjSiIUwAAwIyo.jpg",
+					"url": "https://t.co/BvktP6ZOmJ",
+					"display_url": "pic.twitter.com/BvktP6ZOmJ",
+					"expanded_url": "https://twitter.com/milframe/status/1086180430557077506/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 511,
+							"h": 482,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 511,
+							"h": 482,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 511,
+							"h": 482,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1637948371,
+			"id_str": "1637948371",
+			"name": "밀리터리프레임",
+			"screen_name": "milframe",
+			"location": "",
+			"description": "도서출판 길찾기의 밀리터리 브랜드 밀리터리 프레임입니다.",
+			"url": "http://t.co/92bj9uvkuh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/92bj9uvkuh",
+							"expanded_url": "http://mframe.co.kr",
+							"display_url": "mframe.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1012,
+			"friends_count": 994,
+			"listed_count": 14,
+			"created_at": "Thu Aug 01 12:54:44 +0000 2013",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6150,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999940496653926400/gfSWpYgy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999940496653926400/gfSWpYgy_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다들 가운데부터 찍고 시작하실거라고 믿습니다 #빙고 #밀덕 https://t.co/BvktP6ZOmJ"
+	},
+	{
+		"created_at": "Fri Jan 18 02:17:59 +0000 2019",
+		"id": 1086085261098766300,
+		"id_str": "1086130297278586880",
+		"full_text": "안보주의자들의 정파적 사기성은 '방기 위협'을 다루는 데에서 드러나는데:\n\n보수가 집권했을 때: 미국의 방기위협은 입지적 상수이고 그러나 북한이 원하는 협상상대는 결국 미국이기에 끊임없이 도발을 할 것\n\n보수가 안 집권했을 때: 이게 다 한국 대통령이 미국의 의심을 산 탓이다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1086082622432759800,
+		"in_reply_to_status_id_str": "1086082622432759808",
+		"in_reply_to_user_id": 1698407180,
+		"in_reply_to_user_id_str": "1698407180",
+		"in_reply_to_screen_name": "_4835979",
+		"user": {
+			"id": 1698407180,
+			"id_str": "1698407180",
+			"name": "rtspmd",
+			"screen_name": "_4835979",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 436,
+			"friends_count": 118,
+			"listed_count": 13,
+			"created_at": "Sun Aug 25 07:03:38 +0000 2013",
+			"favourites_count": 282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10089,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028301106084896768/nj1Vs9FY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028301106084896768/nj1Vs9FY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1698407180/1534001062",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "안보주의자들의 정파적 사기성은 '방기 위협'을 다루는 데에서 드러나는데:\n\n보수가 집권했을 때: 미국의 방기위협은 입지적 상수이고 그러나 북한이 원하는 협상상대는 결국 미국이기에 끊임없이 도발을 할 것\n\n보수가 안 집권했을 때: 이게 다 한국 대통령이 미국의 의심을 산 탓이다"
+	},
+	{
 		"created_at": "Thu Jan 17 06:54:42 +0000 2019",
 		"id": 1085792512894066700,
 		"id_str": "1085800785537974272",
