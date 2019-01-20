@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 19 13:29:19 +0000 2019",
+		"id": 1086616594116010000,
+		"id_str": "1086616594116009987",
+		"full_text": "@sldn1206 오키나ㅇㅗ....",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sldn1206",
+					"name": "보리적 쁘티 오소리 담륜",
+					"id": 2572908468,
+					"id_str": "2572908468",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1086570281500471300,
+		"in_reply_to_status_id_str": "1086570281500471296",
+		"in_reply_to_user_id": 2572908468,
+		"in_reply_to_user_id_str": "2572908468",
+		"in_reply_to_screen_name": "sldn1206",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 492,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17017,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sldn1206 오키나ㅇㅗ...."
+	},
+	{
 		"created_at": "Thu Jan 17 11:13:02 +0000 2019",
 		"id": 1085857521800114200,
 		"id_str": "1086288586083729408",
@@ -732,7 +825,7 @@ Grailbird.data.tweets_2019_01 =
 			"user_mentions": [
 				{
 					"screen_name": "macmorning01",
-					"name": "루리루리🏳️‍🌈",
+					"name": "루리루리🏳️🌈",
 					"id": 335767073,
 					"id_str": "335767073",
 					"indices": [
@@ -825,7 +918,7 @@ Grailbird.data.tweets_2019_01 =
 			"user_mentions": [
 				{
 					"screen_name": "macmorning01",
-					"name": "루리루리🏳️‍🌈",
+					"name": "루리루리🏳️🌈",
 					"id": 335767073,
 					"id_str": "335767073",
 					"indices": [
