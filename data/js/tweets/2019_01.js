@@ -1,6 +1,970 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 22 12:38:00 +0000 2019",
+		"id": 1087690843572527100,
+		"id_str": "1087690843572527109",
+		"full_text": "@nilstrav 많이 컸네요. 😍",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nilstrav",
+					"name": "닐스",
+					"id": 372817078,
+					"id_str": "372817078",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1087678129714344000,
+		"in_reply_to_status_id_str": "1087678129714343936",
+		"in_reply_to_user_id": 372817078,
+		"in_reply_to_user_id_str": "372817078",
+		"in_reply_to_screen_name": "nilstrav",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 492,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17028,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@nilstrav 많이 컸네요. 😍"
+	},
+	{
+		"created_at": "Tue Jan 22 12:16:09 +0000 2019",
+		"id": 1087685347872391200,
+		"id_str": "1087690058910429184",
+		"full_text": "@kawanoboru 피치 못할 때만 타지요.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kawanoboru",
+					"name": "縄",
+					"id": 94077994,
+					"id_str": "94077994",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1087645665348350000,
+		"in_reply_to_status_id_str": "1087645665348349952",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 22887121,
+			"id_str": "22887121",
+			"name": "소바라능",
+			"screen_name": "shhong",
+			"location": "Okinawa, Japan",
+			"description": "오키나와 소바도 소바라능",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 388,
+			"listed_count": 25,
+			"created_at": "Thu Mar 05 05:49:34 +0000 2009",
+			"favourites_count": 8741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14707,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060837328686526464/kvbPJHxR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060837328686526464/kvbPJHxR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22887121/1541758198",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@kawanoboru 피치 못할 때만 타지요."
+	},
+	{
+		"created_at": "Tue Jan 22 11:32:11 +0000 2019",
+		"id": 1087674281918492700,
+		"id_str": "1087674281918492673",
+		"full_text": "https://t.co/3fum1c5UTa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3fum1c5UTa",
+					"expanded_url": "https://youtu.be/vFuIYyXiD5w",
+					"display_url": "youtu.be/vFuIYyXiD5w",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1087634809168392200,
+		"in_reply_to_status_id_str": "1087634809168392192",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 492,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17028,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/3fum1c5UTa"
+	},
+	{
+		"created_at": "Tue Jan 22 10:59:48 +0000 2019",
+		"id": 1087666131169566700,
+		"id_str": "1087666131169566720",
+		"full_text": "@anzinne 티비 없애는 건 소용이 없습니다 -_-;",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anzinne",
+					"name": "Ан",
+					"id": 254293448,
+					"id_str": "254293448",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1087664450377642000,
+		"in_reply_to_status_id_str": "1087664450377641990",
+		"in_reply_to_user_id": 254293448,
+		"in_reply_to_user_id_str": "254293448",
+		"in_reply_to_screen_name": "anzinne",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 492,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17028,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@anzinne 티비 없애는 건 소용이 없습니다 -_-;"
+	},
+	{
+		"created_at": "Tue Jan 22 10:38:09 +0000 2019",
+		"id": 1087660682718244900,
+		"id_str": "1087660682718244864",
+		"full_text": "rt&gt; 한번 보기 시작하면 눈을 뗄 수 없음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 492,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17028,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "rt&gt; 한번 보기 시작하면 눈을 뗄 수 없음"
+	},
+	{
+		"created_at": "Tue Jan 22 10:20:06 +0000 2019",
+		"id": 1087656143126593500,
+		"id_str": "1087660346892988416",
+		"full_text": "手毬の消しゴムはんこを押しているところです。\n（動画、もうちょっと上達できるよう頑張ります！）\n\n#消しゴムはんこ #押し動画 #田口奈津子 #手毬 https://t.co/3Txb1ohpqW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "消しゴムはんこ",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"text": "押し動画",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "田口奈津子",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "手毬",
+					"indices": [
+						71,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087654956914466800,
+					"id_str": "1087654956914466817",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1087654956914466817/pu/img/j4izeR8btUUzaXL2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1087654956914466817/pu/img/j4izeR8btUUzaXL2.jpg",
+					"url": "https://t.co/3Txb1ohpqW",
+					"display_url": "pic.twitter.com/3Txb1ohpqW",
+					"expanded_url": "https://twitter.com/naco_hinata/status/1087656143126593536/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087654956914466800,
+					"id_str": "1087654956914466817",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1087654956914466817/pu/img/j4izeR8btUUzaXL2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1087654956914466817/pu/img/j4izeR8btUUzaXL2.jpg",
+					"url": "https://t.co/3Txb1ohpqW",
+					"display_url": "pic.twitter.com/3Txb1ohpqW",
+					"expanded_url": "https://twitter.com/naco_hinata/status/1087656143126593536/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 134640,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1087654956914466817/pu/vid/480x480/usW6C2NtpabMYTvu.mp4?tag=6"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1087654956914466817/pu/vid/320x320/Sg4xFad9BunKNEtl.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1087654956914466817/pu/pl/5xeifhz1tlIgJx35.m3u8?tag=6"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1087654956914466817/pu/vid/720x720/d5jVIrbuTiBaXQBm.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 167352803,
+			"id_str": "167352803",
+			"name": "田口奈津子＊消しゴムはんこ",
+			"screen_name": "naco_hinata",
+			"location": "Atelier*Naco",
+			"description": "消しゴムはんこ画家。テレビ番組「プレバト」で消しゴムはんこコーナー担当。著書多数。https://t.co/474hgtDOUQ\nhttps://t.co/woavav2iGt",
+			"url": "https://t.co/woavav2iGt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woavav2iGt",
+							"expanded_url": "http://atelier-naco.seesaa.net/",
+							"display_url": "atelier-naco.seesaa.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/474hgtDOUQ",
+							"expanded_url": "http://amzn.asia/d/3iJvXjv",
+							"display_url": "amzn.asia/d/3iJvXjv",
+							"indices": [
+								41,
+								64
+							]
+						},
+						{
+							"url": "https://t.co/woavav2iGt",
+							"expanded_url": "http://atelier-naco.seesaa.net/",
+							"display_url": "atelier-naco.seesaa.net",
+							"indices": [
+								65,
+								88
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16334,
+			"friends_count": 304,
+			"listed_count": 146,
+			"created_at": "Fri Jul 16 10:56:11 +0000 2010",
+			"favourites_count": 1751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8896,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/974283135247527937/fTwhdYA__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/974283135247527937/fTwhdYA__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/167352803/1519051714",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FAE7DF",
+			"profile_text_color": "E05365",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6047,
+		"favorite_count": 13767,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "手毬の消しゴムはんこを押しているところです。\n（動画、もうちょっと上達できるよう頑張ります！）\n\n#消しゴムはんこ #押し動画 #田口奈津子 #手毬 https://t.co/3Txb1ohpqW"
+	},
+	{
+		"created_at": "Tue Jan 22 10:18:27 +0000 2019",
+		"id": 1087655727336833000,
+		"id_str": "1087655727336833029",
+		"full_text": "@sldn1206 그래도 타면 안돼요. 저는 안가고 맙니다 ㅠ",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sldn1206",
+					"name": "보리적 쁘티 오소리 담륜",
+					"id": 2572908468,
+					"id_str": "2572908468",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1087654695919730700,
+		"in_reply_to_status_id_str": "1087654695919730688",
+		"in_reply_to_user_id": 2572908468,
+		"in_reply_to_user_id_str": "2572908468",
+		"in_reply_to_screen_name": "sldn1206",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 492,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17028,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sldn1206 그래도 타면 안돼요. 저는 안가고 맙니다 ㅠ"
+	},
+	{
+		"created_at": "Tue Jan 22 09:38:28 +0000 2019",
+		"id": 1087645665348350000,
+		"id_str": "1087645665348349952",
+		"full_text": "피치는 타는 게 아닌데...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 492,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17028,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "피치는 타는 게 아닌데..."
+	},
+	{
+		"created_at": "Tue Jan 22 08:55:20 +0000 2019",
+		"id": 1087634809168392200,
+		"id_str": "1087634809168392192",
+		"full_text": "결성 이후 피터 가브리엘의 이탈 전까지의 제네시스는 얼마나 아름다운지!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 492,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17028,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "결성 이후 피터 가브리엘의 이탈 전까지의 제네시스는 얼마나 아름다운지!"
+	},
+	{
 		"created_at": "Mon Jan 21 00:55:15 +0000 2019",
 		"id": 1087151605990928400,
 		"id_str": "1087491886456008704",
