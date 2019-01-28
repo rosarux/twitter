@@ -1,6 +1,571 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 26 08:58:13 +0000 2019",
+		"id": 1089085088426389500,
+		"id_str": "1089440497750355970",
+		"full_text": "우리나라의 공교육 혐오는 이공계 엘리트 진영에서 특히 심한 것 같다. 물론 지금 우리의 교육에 해결해야 할 문제가 많기는 하지만, 적어도 이런 저열한 일반화로 가치가 부정당할 만큼 추락하진 않았다고 생각한다. 자기 경험만을 근거로 학교 교육이 무의미하다고 성토하는 건 자의식 과잉이다. https://t.co/rp2lXZeN6L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rp2lXZeN6L",
+					"expanded_url": "https://twitter.com/ppsskr/status/1088783546850766849",
+					"display_url": "twitter.com/ppsskr/status/…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1033743229852606500,
+			"id_str": "1033743229852606466",
+			"name": "희립(나는야 머저리)",
+			"screen_name": "Pabl20107164",
+			"location": "몰라요",
+			"description": "굴종의 삶을 떨쳐 반교육의 벽 부수고\n침묵의 교단을 딛고서 참교육 외치니",
+			"url": "https://t.co/4JHf6TvtTx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4JHf6TvtTx",
+							"expanded_url": "http://ask.fm/pabl20107164",
+							"display_url": "ask.fm/pabl20107164",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166,
+			"friends_count": 635,
+			"listed_count": 0,
+			"created_at": "Sun Aug 26 15:49:26 +0000 2018",
+			"favourites_count": 8046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5461,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089352528813121539/oHBhFcBL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089352528813121539/oHBhFcBL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1033743229852606466/1548397048",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1088783546850766800,
+		"quoted_status_id_str": "1088783546850766849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rp2lXZeN6L",
+			"expanded": "https://twitter.com/ppsskr/status/1088783546850766849",
+			"display": "twitter.com/ppsskr/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 25 13:00:00 +0000 2019",
+			"id": 1088783546850766800,
+			"id_str": "1088783546850766849",
+			"full_text": "아이들을 학교에 보내기 싫은 이유\nhttps://t.co/Lyvif0S90J\n\n그때는 그 고통의 시간들이 당연하다고 생각했다. 그러나 지금 생각해보면, 쓸데없는 시간 낭비였다는 것을 깨달았다. https://t.co/WnMrROqfGr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Lyvif0S90J",
+						"expanded_url": "http://ppss.kr/archives/150630",
+						"display_url": "ppss.kr/archives/150630",
+						"indices": [
+							19,
+							42
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1088716573777395700,
+						"id_str": "1088716573777395712",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/Dxvl9KEVAAAxex-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dxvl9KEVAAAxex-.jpg",
+						"url": "https://t.co/WnMrROqfGr",
+						"display_url": "pic.twitter.com/WnMrROqfGr",
+						"expanded_url": "https://twitter.com/ppsskr/status/1088783546850766849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 375,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 375,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 354,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1088716573777395700,
+						"id_str": "1088716573777395712",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/Dxvl9KEVAAAxex-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dxvl9KEVAAAxex-.jpg",
+						"url": "https://t.co/WnMrROqfGr",
+						"display_url": "pic.twitter.com/WnMrROqfGr",
+						"expanded_url": "https://twitter.com/ppsskr/status/1088783546850766849/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 375,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 375,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 354,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 992831082,
+				"id_str": "992831082",
+				"name": "ㅍㅍㅅㅅ",
+				"screen_name": "ppsskr",
+				"location": "",
+				"description": "필자와 독자의 경계가 없는 이슈 큐레이팅 매거진",
+				"url": "http://t.co/22eKl3pLgd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/22eKl3pLgd",
+								"expanded_url": "http://ppss.kr",
+								"display_url": "ppss.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 251818,
+				"friends_count": 111,
+				"listed_count": 509,
+				"created_at": "Thu Dec 06 10:57:58 +0000 2012",
+				"favourites_count": 1836,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 16146,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000431637256/33258d9a72e6b874135816cfa6d5c100_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000431637256/33258d9a72e6b874135816cfa6d5c100_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/992831082/1531144326",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 98,
+			"favorite_count": 62,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 224,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리나라의 공교육 혐오는 이공계 엘리트 진영에서 특히 심한 것 같다. 물론 지금 우리의 교육에 해결해야 할 문제가 많기는 하지만, 적어도 이런 저열한 일반화로 가치가 부정당할 만큼 추락하진 않았다고 생각한다. 자기 경험만을 근거로 학교 교육이 무의미하다고 성토하는 건 자의식 과잉이다. https://t.co/rp2lXZeN6L"
+	},
+	{
+		"created_at": "Sun Jan 27 03:47:25 +0000 2019",
+		"id": 1089369260395089900,
+		"id_str": "1089386463551082496",
+		"full_text": "今日の沖縄🌺いい空いい海。 https://t.co/O2kzZ4E5VF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089369175775035400,
+					"id_str": "1089369175775035392",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx43fl9UwAAruwX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx43fl9UwAAruwX.jpg",
+					"url": "https://t.co/O2kzZ4E5VF",
+					"display_url": "pic.twitter.com/O2kzZ4E5VF",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1089369260395089920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089369175775035400,
+					"id_str": "1089369175775035392",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx43fl9UwAAruwX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx43fl9UwAAruwX.jpg",
+					"url": "https://t.co/O2kzZ4E5VF",
+					"display_url": "pic.twitter.com/O2kzZ4E5VF",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1089369260395089920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1089369200370413600,
+					"id_str": "1089369200370413570",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx43hBlUcAITjb4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx43hBlUcAITjb4.jpg",
+					"url": "https://t.co/O2kzZ4E5VF",
+					"display_url": "pic.twitter.com/O2kzZ4E5VF",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1089369260395089920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1089369223762047000,
+					"id_str": "1089369223762046977",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx43iYuUcAED2lg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx43iYuUcAED2lg.jpg",
+					"url": "https://t.co/O2kzZ4E5VF",
+					"display_url": "pic.twitter.com/O2kzZ4E5VF",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1089369260395089920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1089369248164499500,
+					"id_str": "1089369248164499456",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx43jzoUUAACKAV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx43jzoUUAACKAV.jpg",
+					"url": "https://t.co/O2kzZ4E5VF",
+					"display_url": "pic.twitter.com/O2kzZ4E5VF",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1089369260395089920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1440845558,
+			"id_str": "1440845558",
+			"name": "いけむらたかし",
+			"screen_name": "takashi91mile",
+			"location": "沖縄県❂okinawa-japan",
+			"description": "沖縄の景色を色んな人と楽しめて嬉しいです。沖縄の素晴らしい景色を色んな人に伝えたい。よろしくお願いします🌈【趣味】音楽･野球･読書",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23943,
+			"friends_count": 20587,
+			"listed_count": 225,
+			"created_at": "Sun May 19 10:43:57 +0000 2013",
+			"favourites_count": 42938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4101,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1440845558/1531228218",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 110,
+		"favorite_count": 610,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今日の沖縄🌺いい空いい海。 https://t.co/O2kzZ4E5VF"
+	},
+	{
 		"created_at": "Sat Jan 26 11:29:47 +0000 2019",
 		"id": 1089123230042906600,
 		"id_str": "1089123230042906624",
