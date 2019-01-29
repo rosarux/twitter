@@ -1,6 +1,549 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 28 14:08:19 +0000 2019",
+		"id": 1089887900345364500,
+		"id_str": "1089887900345364482",
+		"full_text": "@macmorning01 @wow7875 감사합니다! 원래 1월은 우기처럼 비가 자주 오는데 계시는 동안 날이 좋아서 다행이에요",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "macmorning01",
+					"name": "루리루리🏳️‍🌈",
+					"id": 335767073,
+					"id_str": "335767073",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "wow7875",
+					"name": "wow",
+					"id": 234631312,
+					"id_str": "234631312",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1089886732818890800,
+		"in_reply_to_status_id_str": "1089886732818890752",
+		"in_reply_to_user_id": 335767073,
+		"in_reply_to_user_id_str": "335767073",
+		"in_reply_to_screen_name": "macmorning01",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 491,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17044,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@macmorning01 @wow7875 감사합니다! 원래 1월은 우기처럼 비가 자주 오는데 계시는 동안 날이 좋아서 다행이에요"
+	},
+	{
+		"created_at": "Mon Jan 28 12:20:27 +0000 2019",
+		"id": 1089860755514482700,
+		"id_str": "1089860755514482688",
+		"full_text": "짠 https://t.co/UfwLMUFdY1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089860741337821200,
+					"id_str": "1089860741337821185",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx_2keYVsAEWY8K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx_2keYVsAEWY8K.jpg",
+					"url": "https://t.co/UfwLMUFdY1",
+					"display_url": "pic.twitter.com/UfwLMUFdY1",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1089860755514482688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089860741337821200,
+					"id_str": "1089860741337821185",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx_2keYVsAEWY8K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx_2keYVsAEWY8K.jpg",
+					"url": "https://t.co/UfwLMUFdY1",
+					"display_url": "pic.twitter.com/UfwLMUFdY1",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1089860755514482688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1089860741337800700,
+					"id_str": "1089860741337800704",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx_2keYVYAAoArn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx_2keYVYAAoArn.jpg",
+					"url": "https://t.co/UfwLMUFdY1",
+					"display_url": "pic.twitter.com/UfwLMUFdY1",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1089860755514482688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1089860741329444900,
+					"id_str": "1089860741329444864",
+					"indices": [
+						2,
+						25
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx_2keWV4AAaYcS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx_2keWV4AAaYcS.jpg",
+					"url": "https://t.co/UfwLMUFdY1",
+					"display_url": "pic.twitter.com/UfwLMUFdY1",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1089860755514482688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 491,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17044,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "짠 https://t.co/UfwLMUFdY1"
+	},
+	{
+		"created_at": "Mon Jan 28 06:39:54 +0000 2019",
+		"id": 1089775053338685400,
+		"id_str": "1089775935430238209",
+		"full_text": "北風が久し振りぶに止み、気持ちの良いお天気になった沖縄。\nビーチで砂遊びをしたがっていたお子様達。良かったね～\n今日は、ミジュンの群れも近くにいて、投網をもったおじ様が頑張っていました。結果は、残念でしたけど。。。\nそんな光景をボーっと眺めているだけでも、幸せに感じる一日でした。 https://t.co/akIsqHwbOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089774903631335400,
+					"id_str": "1089774903631335426",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx-ogEAU0AINILm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx-ogEAU0AINILm.jpg",
+					"url": "https://t.co/akIsqHwbOW",
+					"display_url": "pic.twitter.com/akIsqHwbOW",
+					"expanded_url": "https://twitter.com/furaisou/status/1089775053338685440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089774903631335400,
+					"id_str": "1089774903631335426",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx-ogEAU0AINILm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx-ogEAU0AINILm.jpg",
+					"url": "https://t.co/akIsqHwbOW",
+					"display_url": "pic.twitter.com/akIsqHwbOW",
+					"expanded_url": "https://twitter.com/furaisou/status/1089775053338685440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 207791068,
+			"id_str": "207791068",
+			"name": "風来荘",
+			"screen_name": "furaisou",
+			"location": "沖縄県　今帰仁村",
+			"description": "13年前に鎌倉から沖縄へ。  。。                                           海のそばで『風来荘　fu-rai-sou』 と言う名の宿を営んでおります.朝食には国産小麦を使って焼き上げる自家製天然酵母パンとスープでほっこりと。。ゆったりとした沖縄時間をお楽しみ下さい。。",
+			"url": "http://t.co/q1DVIfauZK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/q1DVIfauZK",
+							"expanded_url": "http://www7.plala.or.jp/fu-rai-sou/",
+							"display_url": "www7.plala.or.jp/fu-rai-sou/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 608,
+			"friends_count": 274,
+			"listed_count": 14,
+			"created_at": "Tue Oct 26 01:28:07 +0000 2010",
+			"favourites_count": 1460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1056,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439958135634001921/P1j1yf6a_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439958135634001921/P1j1yf6a_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/207791068/1398257915",
+			"profile_link_color": "256DD9",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "052e049119fd8da1",
+			"url": "https://api.twitter.com/1.1/geo/id/052e049119fd8da1.json",
+			"place_type": "admin",
+			"name": "沖縄",
+			"full_name": "日本 沖縄",
+			"country_code": "JP",
+			"country": "日本",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							122.933784,
+							24.045669
+						],
+						[
+							131.332071,
+							24.045669
+						],
+						[
+							131.332071,
+							27.095384
+						],
+						[
+							122.933784,
+							27.095384
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "北風が久し振りぶに止み、気持ちの良いお天気になった沖縄。\nビーチで砂遊びをしたがっていたお子様達。良かったね～\n今日は、ミジュンの群れも近くにいて、投網をもったおじ様が頑張っていました。結果は、残念でしたけど。。。\nそんな光景をボーっと眺めているだけでも、幸せに感じる一日でした。 https://t.co/akIsqHwbOW"
+	},
+	{
 		"created_at": "Sat Jan 26 08:58:13 +0000 2019",
 		"id": 1089085088426389500,
 		"id_str": "1089440497750355970",
