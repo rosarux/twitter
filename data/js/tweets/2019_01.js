@@ -1,6 +1,649 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 29 22:28:09 +0000 2019",
+		"id": 1090376075392118800,
+		"id_str": "1090376075392118784",
+		"full_text": "@macmorning01 한국인이 안정적 일자리 잡기가 본토보다 쉽지 않아서...결국은 한국인 광관객 상대로 뭔가 장사를 하는(사업비자) 선택지 밖에 안남더군요. 저는 처음에 갈 때는 현지 대학원에 입학해서 유학비자 받고 가족들은 동반비자를 받는 편법을 -_-;",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "macmorning01",
+					"name": "루리루리🏳️‍🌈",
+					"id": 335767073,
+					"id_str": "335767073",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1090263737653551100,
+		"in_reply_to_status_id_str": "1090263737653551104",
+		"in_reply_to_user_id": 335767073,
+		"in_reply_to_user_id_str": "335767073",
+		"in_reply_to_screen_name": "macmorning01",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 491,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17052,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@macmorning01 한국인이 안정적 일자리 잡기가 본토보다 쉽지 않아서...결국은 한국인 광관객 상대로 뭔가 장사를 하는(사업비자) 선택지 밖에 안남더군요. 저는 처음에 갈 때는 현지 대학원에 입학해서 유학비자 받고 가족들은 동반비자를 받는 편법을 -_-;"
+	},
+	{
+		"created_at": "Mon Jan 28 07:29:11 +0000 2019",
+		"id": 1089787455761334300,
+		"id_str": "1090196263545401344",
+		"full_text": "경향신문 [새책] 코너에 &lt;어느 아이누 이야기&gt;가 소개되었습니다. \n\n처음 이 책을 번역하기 시작했을 때 주변에서 가장 많이 들었던 질문이 \"아이누는 아직도 있냐\"라는 질문이었습니다. \n그 질문에 답할 수 있는 책이 되길 바랍니다.\n\nhttps://t.co/pR2i2lnjue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pR2i2lnjue",
+					"expanded_url": "https://m.news.naver.com/read.nhn?mode=LSD&mid=sec&sid1=103&oid=032&aid=0002919338",
+					"display_url": "m.news.naver.com/read.nhn?mode=…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1086913583068328000,
+			"id_str": "1086913583068327936",
+			"name": "어느아이누이야기",
+			"screen_name": "tellaboutainu",
+			"location": "",
+			"description": "서적「어느 아이누 이야기」•징용조선인과 사이에서 태어난 오가와 류키치의 일생•서적 정보 및 아이누 관련 내용 기재•번역자 직접 운영•日本語投稿あり\n#アイヌ #おれのウチャシクマ #어느아이누이야기 #아이누",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55,
+			"friends_count": 85,
+			"listed_count": 0,
+			"created_at": "Sun Jan 20 09:09:26 +0000 2019",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086915491371802624/g1-uH59q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086915491371802624/g1-uH59q_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "경향신문 [새책] 코너에 &lt;어느 아이누 이야기&gt;가 소개되었습니다. \n\n처음 이 책을 번역하기 시작했을 때 주변에서 가장 많이 들었던 질문이 \"아이누는 아직도 있냐\"라는 질문이었습니다. \n그 질문에 답할 수 있는 책이 되길 바랍니다.\n\nhttps://t.co/pR2i2lnjue"
+	},
+	{
+		"created_at": "Tue Jan 29 06:54:46 +0000 2019",
+		"id": 1090141182624071700,
+		"id_str": "1090142513871052800",
+		"full_text": "\"작년 수출이 잘된 것까지 문재인 정부의 공으로 돌리기는 어렵다. 그렇지만 고용문제 등 악조건 속에서 민간소비가 크게 늘어난 것은 언론의 비관론에도 불구하고 시장은 문재인 정부의 소득주도성장에 반응하고 있다는 사실을 부정할 수 없음을 의미한다. \"\nhttps://t.co/YtaPlthtgX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YtaPlthtgX",
+					"expanded_url": "http://www.mediaus.co.kr/news/articleView.html?idxno=144437",
+					"display_url": "mediaus.co.kr/news/articleVi…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2699,
+			"friends_count": 1216,
+			"listed_count": 84,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 90318,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1480131241",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"작년 수출이 잘된 것까지 문재인 정부의 공으로 돌리기는 어렵다. 그렇지만 고용문제 등 악조건 속에서 민간소비가 크게 늘어난 것은 언론의 비관론에도 불구하고 시장은 문재인 정부의 소득주도성장에 반응하고 있다는 사실을 부정할 수 없음을 의미한다. \"\nhttps://t.co/YtaPlthtgX"
+	},
+	{
+		"created_at": "Mon Jan 28 23:01:03 +0000 2019",
+		"id": 1090021967074230300,
+		"id_str": "1090130254926995456",
+		"full_text": "도쿄바나나 논란의 본질은 해외여행가서 굳이 살 이유도 없는데 최소한 예의를 생각해서 선물 사왔더니 품질 따지면서 이딴 건 싸구려니까 사지말라고 하면서 ‘내가 너보다 더 잘 안다.’라고 사사건건 선민의식을 티못내서 안 달인 인간이 우리 주위에 있다는 거겠죠.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 139679652,
+			"id_str": "139679652",
+			"name": "THE HANBIN",
+			"screen_name": "HANBINIZM",
+			"location": "",
+			"description": "트위터는 내가 뭐라도 된 것같은 기분으로 합니다.",
+			"url": "https://t.co/vjNo8DdrHI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vjNo8DdrHI",
+							"expanded_url": "http://hanbinism.egloos.com/m/",
+							"display_url": "hanbinism.egloos.com/m/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1554,
+			"friends_count": 373,
+			"listed_count": 32,
+			"created_at": "Mon May 03 10:35:31 +0000 2010",
+			"favourites_count": 9884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 110688,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980460722747355136/aQTC65zM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980460722747355136/aQTC65zM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/139679652/1433600561",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3639,
+		"favorite_count": 651,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "도쿄바나나 논란의 본질은 해외여행가서 굳이 살 이유도 없는데 최소한 예의를 생각해서 선물 사왔더니 품질 따지면서 이딴 건 싸구려니까 사지말라고 하면서 ‘내가 너보다 더 잘 안다.’라고 사사건건 선민의식을 티못내서 안 달인 인간이 우리 주위에 있다는 거겠죠."
+	},
+	{
+		"created_at": "Tue Jan 29 05:32:17 +0000 2019",
+		"id": 1090120425508548600,
+		"id_str": "1090120425508548609",
+		"full_text": "@macmorning01 아이고 귀여워라. 지금 만 4살 정도인가요.  저희 오키나와 있었을 때 큰 애가 딱 저 무렵이었는데. 지금은 중1ㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "macmorning01",
+					"name": "루리루리🏳️‍🌈",
+					"id": 335767073,
+					"id_str": "335767073",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1090077360274038800,
+		"in_reply_to_status_id_str": "1090077360274038784",
+		"in_reply_to_user_id": 335767073,
+		"in_reply_to_user_id_str": "335767073",
+		"in_reply_to_screen_name": "macmorning01",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 491,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17052,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@macmorning01 아이고 귀여워라. 지금 만 4살 정도인가요.  저희 오키나와 있었을 때 큰 애가 딱 저 무렵이었는데. 지금은 중1ㅠㅠ"
+	},
+	{
+		"created_at": "Tue Jan 29 04:03:05 +0000 2019",
+		"id": 1090097978881142800,
+		"id_str": "1090097978881142784",
+		"full_text": "저기요... 제 큰 애가 얼마 전에 양쪽 팔이  부러졌는데요.. 이러면 다들 ええええええええっ(ﾟ∀ﾟ) 이런 표정으로 귀를 쫑긋...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1090096764986712000,
+		"in_reply_to_status_id_str": "1090096764986712064",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 491,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17052,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ja",
+		"text": "저기요... 제 큰 애가 얼마 전에 양쪽 팔이  부러졌는데요.. 이러면 다들 ええええええええっ(ﾟ∀ﾟ) 이런 표정으로 귀를 쫑긋..."
+	},
+	{
+		"created_at": "Tue Jan 29 03:58:16 +0000 2019",
+		"id": 1090096764986712000,
+		"id_str": "1090096764986712064",
+		"full_text": "어느 자리에서든 분위기가 썰렁해지고 어색해졌을때 지민이 양쪽팔 부러진 얘기 꺼내면 분위기가 확 살아남.  미안하다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 491,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17052,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어느 자리에서든 분위기가 썰렁해지고 어색해졌을때 지민이 양쪽팔 부러진 얘기 꺼내면 분위기가 확 살아남.  미안하다."
+	},
+	{
 		"created_at": "Mon Jan 28 14:08:19 +0000 2019",
 		"id": 1089887900345364500,
 		"id_str": "1089887900345364482",
@@ -16,7 +659,7 @@ Grailbird.data.tweets_2019_01 =
 			"user_mentions": [
 				{
 					"screen_name": "macmorning01",
-					"name": "루리루리🏳️‍🌈",
+					"name": "루리루리🏳️🌈",
 					"id": 335767073,
 					"id_str": "335767073",
 					"indices": [
