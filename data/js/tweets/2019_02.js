@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 03 11:46:31 +0000 2019",
+		"id": 1092026545101692900,
+		"id_str": "1092413751695794176",
+		"full_text": "#0203熊本ヘイトデモを許すな https://t.co/MRyuwb8RRi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "0203熊本ヘイトデモを許すな",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092026132675752000,
+					"id_str": "1092026132675751936",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1092026132675751936/pu/img/dpb-kFNjig6GJyAo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1092026132675751936/pu/img/dpb-kFNjig6GJyAo.jpg",
+					"url": "https://t.co/MRyuwb8RRi",
+					"display_url": "pic.twitter.com/MRyuwb8RRi",
+					"expanded_url": "https://twitter.com/Connectens_manu/status/1092026545101692928/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092026132675752000,
+					"id_str": "1092026132675751936",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1092026132675751936/pu/img/dpb-kFNjig6GJyAo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1092026132675751936/pu/img/dpb-kFNjig6GJyAo.jpg",
+					"url": "https://t.co/MRyuwb8RRi",
+					"display_url": "pic.twitter.com/MRyuwb8RRi",
+					"expanded_url": "https://twitter.com/Connectens_manu/status/1092026545101692928/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140014,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1092026132675751936/pu/vid/1280x720/nAWxINPSOW-eQHey.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1092026132675751936/pu/pl/SdN4q-hqgGX8G3pa.m3u8?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1092026132675751936/pu/vid/640x360/B4CK5ieiyr15fQnm.mp4?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1092026132675751936/pu/vid/320x180/hqrZ_8zfYXHQVUi4.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 931001763431198700,
+			"id_str": "931001763431198720",
+			"name": "α",
+			"screen_name": "Connectens_manu",
+			"location": "fukuoka",
+			"description": "あるアカウントの別アカ。アンチレイシズム、安倍政権不支持。/Anti-establishment faction. against Discrimination and Racism.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 164,
+			"friends_count": 331,
+			"listed_count": 1,
+			"created_at": "Thu Nov 16 03:31:32 +0000 2017",
+			"favourites_count": 517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1096,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995076448909062145/471X7Fbm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995076448909062145/471X7Fbm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/931001763431198720/1549066134",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 221,
+		"favorite_count": 216,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#0203熊本ヘイトデモを許すな https://t.co/MRyuwb8RRi"
+	},
+	{
 		"created_at": "Sun Feb 03 03:05:02 +0000 2019",
 		"id": 1091895306763984900,
 		"id_str": "1091950329975820294",
