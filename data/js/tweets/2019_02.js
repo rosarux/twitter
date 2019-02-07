@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 06 07:13:52 +0000 2019",
+		"id": 1093045094284836900,
+		"id_str": "1093091518674493443",
+		"full_text": "오키나와는 왜 온거야? \n\n\"대한민국 성우회가 일본의 극우 단체로부터 지원을 받아 수년전부터 한일 군사교류협력 사업을 진행해 온 것으로 드러났다... 실제로 성우회는 안전보장간화회로부터 초청을 받아 2016년 3박4일 일정으로 일본 도쿄와 오키나와를 방문했다.\" https://t.co/gBP5bxOWhS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gBP5bxOWhS",
+					"expanded_url": "https://newstapa.org/43861",
+					"display_url": "newstapa.org/43861",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22887121,
+			"id_str": "22887121",
+			"name": "소바라능",
+			"screen_name": "shhong",
+			"location": "Okinawa, Japan",
+			"description": "오키나와 소바도 소바라능",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 268,
+			"friends_count": 392,
+			"listed_count": 25,
+			"created_at": "Thu Mar 05 05:49:34 +0000 2009",
+			"favourites_count": 8846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14788,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060837328686526464/kvbPJHxR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060837328686526464/kvbPJHxR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22887121/1541758198",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오키나와는 왜 온거야? \n\n\"대한민국 성우회가 일본의 극우 단체로부터 지원을 받아 수년전부터 한일 군사교류협력 사업을 진행해 온 것으로 드러났다... 실제로 성우회는 안전보장간화회로부터 초청을 받아 2016년 3박4일 일정으로 일본 도쿄와 오키나와를 방문했다.\" https://t.co/gBP5bxOWhS"
+	},
+	{
+		"created_at": "Wed Feb 06 03:24:21 +0000 2019",
+		"id": 1092987332066607100,
+		"id_str": "1092987332066607104",
+		"full_text": "최근 가데나에서 U2가 트러블이 났나보구나.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 490,
+			"listed_count": 0,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17068,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "최근 가데나에서 U2가 트러블이 났나보구나."
+	},
+	{
+		"created_at": "Mon Feb 04 01:59:29 +0000 2019",
+		"id": 1092241200898203600,
+		"id_str": "1092959978862784512",
+		"full_text": "2月24日の県民投票のTVスポットCM、さらっといい感じ。 https://t.co/5hQdoo8csT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092241136125505500,
+					"id_str": "1092241136125505537",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1092241136125505537/pu/img/p29oY491kQhcV4eD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1092241136125505537/pu/img/p29oY491kQhcV4eD.jpg",
+					"url": "https://t.co/5hQdoo8csT",
+					"display_url": "pic.twitter.com/5hQdoo8csT",
+					"expanded_url": "https://twitter.com/orpheonesque/status/1092241200898203648/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 416,
+							"h": 232,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 416,
+							"h": 232,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 416,
+							"h": 232,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092241136125505500,
+					"id_str": "1092241136125505537",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1092241136125505537/pu/img/p29oY491kQhcV4eD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1092241136125505537/pu/img/p29oY491kQhcV4eD.jpg",
+					"url": "https://t.co/5hQdoo8csT",
+					"display_url": "pic.twitter.com/5hQdoo8csT",
+					"expanded_url": "https://twitter.com/orpheonesque/status/1092241200898203648/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 416,
+							"h": 232,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 416,
+							"h": 232,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 416,
+							"h": 232,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							52,
+							29
+						],
+						"duration_millis": 29565,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1092241136125505537/pu/pl/B_juxH3tw1gzfoK6.m3u8?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1092241136125505537/pu/vid/416x232/UFR7FvwtGwEvVF42.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128356027,
+			"id_str": "128356027",
+			"name": "Osamu Tomori",
+			"screen_name": "orpheonesque",
+			"location": "玉川上水",
+			"description": "友利修 音楽について研究したり教えたりしています。とくい分野は19世紀西洋音楽史。宮古島産。",
+			"url": "http://t.co/Cmwb9K3Afr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Cmwb9K3Afr",
+							"expanded_url": "http://albumblaetter.com/ot/",
+							"display_url": "albumblaetter.com/ot/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4728,
+			"friends_count": 3241,
+			"listed_count": 199,
+			"created_at": "Wed Mar 31 22:05:01 +0000 2010",
+			"favourites_count": 6433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18574,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0C0C0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/789017657/Osamu_GQ_cropped_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/789017657/Osamu_GQ_cropped_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128356027/1431783814",
+			"profile_link_color": "909080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "2月24日の県民投票のTVスポットCM、さらっといい感じ。 https://t.co/5hQdoo8csT"
+	},
+	{
 		"created_at": "Tue Feb 05 06:38:39 +0000 2019",
 		"id": 1092673843238326300,
 		"id_str": "1092710597328654336",
