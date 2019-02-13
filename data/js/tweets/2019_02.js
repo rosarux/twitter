@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 09:57:36 +0000 2019",
+		"id": 1095260624915857400,
+		"id_str": "1095263254870253568",
+		"full_text": "패킷 감청 심각한 문제이긴 한데, 만약 “야동 싸이트 제외”라고만 하면 지금 떠들고 있는 검열이니 자유니 떠드는 목소리의 99퍼는 사그라들꺼란 생각이 들며 썩소가 나오는 것이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 242256083,
+			"id_str": "242256083",
+			"name": "Violet.P",
+			"screen_name": "peer_rage",
+			"location": "wirett island",
+			"description": "🏳️‍🌈Buridan's ass",
+			"url": "https://t.co/hjkXTh3q8T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hjkXTh3q8T",
+							"expanded_url": "http://ask.fm/peer_rage1",
+							"display_url": "ask.fm/peer_rage1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1468,
+			"friends_count": 893,
+			"listed_count": 27,
+			"created_at": "Mon Jan 24 10:12:23 +0000 2011",
+			"favourites_count": 13421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92102,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/950796419304079360/kx4a6Idl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/950796419304079360/kx4a6Idl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/242256083/1522201549",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "패킷 감청 심각한 문제이긴 한데, 만약 “야동 싸이트 제외”라고만 하면 지금 떠들고 있는 검열이니 자유니 떠드는 목소리의 99퍼는 사그라들꺼란 생각이 들며 썩소가 나오는 것이다."
+	},
+	{
 		"created_at": "Sun Feb 10 21:01:03 +0000 2019",
 		"id": 1094702810858442800,
 		"id_str": "1094900941805899776",
