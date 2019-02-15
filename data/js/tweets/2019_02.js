@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 14 05:51:13 +0000 2019",
+		"id": 1095923395244449800,
+		"id_str": "1095926858984546304",
+		"full_text": "하지만 복지에 더 많은 예산을 투입해야 한다는 신지예씨의 주장에는 동의. 그런데 남조선은 SOC도 부족하고 복지도 부족하고 다 부족한 곳이라 어느 쪽에 돈을 쓰느냐보다는 어느 쪽에건 돈을 쓸 때 어떻게 해야 그 효과를 제대로 낼 수 있는지를 고민해야 하는게 아닌가 싶다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2695,
+			"friends_count": 1220,
+			"listed_count": 83,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91069,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1480131241",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "하지만 복지에 더 많은 예산을 투입해야 한다는 신지예씨의 주장에는 동의. 그런데 남조선은 SOC도 부족하고 복지도 부족하고 다 부족한 곳이라 어느 쪽에 돈을 쓰느냐보다는 어느 쪽에건 돈을 쓸 때 어떻게 해야 그 효과를 제대로 낼 수 있는지를 고민해야 하는게 아닌가 싶다."
+	},
+	{
 		"created_at": "Tue Feb 12 09:57:36 +0000 2019",
 		"id": 1095260624915857400,
 		"id_str": "1095263254870253568",
@@ -28,7 +123,7 @@ Grailbird.data.tweets_2019_02 =
 			"name": "Violet.P",
 			"screen_name": "peer_rage",
 			"location": "wirett island",
-			"description": "🏳️‍🌈Buridan's ass",
+			"description": "🏳️🌈Buridan's ass",
 			"url": "https://t.co/hjkXTh3q8T",
 			"entities": {
 				"url": {
