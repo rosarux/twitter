@@ -1,6 +1,482 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 11:00:05 +0000 2019",
+		"id": 1096363511423234000,
+		"id_str": "1096564777114001408",
+		"full_text": "禁断の言葉。 https://t.co/Kb0PCyC2Bc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096363509317652500,
+					"id_str": "1096363509317652480",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/DzcQzY2UUAAOhsk.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzcQzY2UUAAOhsk.png",
+					"url": "https://t.co/Kb0PCyC2Bc",
+					"display_url": "pic.twitter.com/Kb0PCyC2Bc",
+					"expanded_url": "https://twitter.com/mou_kaeru/status/1096363511423234048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 562,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 562,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096363509317652500,
+					"id_str": "1096363509317652480",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/DzcQzY2UUAAOhsk.png",
+					"media_url_https": "https://pbs.twimg.com/media/DzcQzY2UUAAOhsk.png",
+					"url": "https://t.co/Kb0PCyC2Bc",
+					"display_url": "pic.twitter.com/Kb0PCyC2Bc",
+					"expanded_url": "https://twitter.com/mou_kaeru/status/1096363511423234048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 562,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 562,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com/iwbkfendo\" rel=\"nofollow\">shimons</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2896551950,
+			"id_str": "2896551950",
+			"name": "全日本もう帰りたい協会",
+			"screen_name": "mou_kaeru",
+			"location": "オフトゥン",
+			"description": "もう・・・・帰ろうよ・・・・。  ご依頼に関する連絡先はこちら⇒kaeritaikyokai@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 537342,
+			"friends_count": 491,
+			"listed_count": 1915,
+			"created_at": "Tue Nov 11 13:22:59 +0000 2014",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7237,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966273096255598598/v3sdWlX7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966273096255598598/v3sdWlX7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2896551950/1519212515",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2118,
+		"favorite_count": 4726,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "禁断の言葉。 https://t.co/Kb0PCyC2Bc"
+	},
+	{
+		"created_at": "Fri Feb 15 06:05:39 +0000 2019",
+		"id": 1096289415373058000,
+		"id_str": "1096303037394505730",
+		"full_text": "“혼밥과 육체적 외로움” 기억해야할 워딩. 정확히 바로 그 이유 때문에 여성들은 절대 결혼하지 않을 것. 남자에게 여자의 쓰임새가 “식모+성노예”라고 저렇게 대놓고 말하기도 쉽지는 않은데... https://t.co/pLxyLJiKNb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pLxyLJiKNb",
+					"expanded_url": "https://news.v.daum.net/v/20190214132708249",
+					"display_url": "news.v.daum.net/v/201902141327…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 760570924206817300,
+			"id_str": "760570924206817284",
+			"name": "puu",
+			"screen_name": "aigoaig",
+			"location": "",
+			"description": "취미는 독서",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 729,
+			"friends_count": 165,
+			"listed_count": 11,
+			"created_at": "Tue Aug 02 20:20:13 +0000 2016",
+			"favourites_count": 496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 325,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1092043722324230145/b6hP3mWU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1092043722324230145/b6hP3mWU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/760570924206817284/1549199008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10809,
+		"favorite_count": 1731,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“혼밥과 육체적 외로움” 기억해야할 워딩. 정확히 바로 그 이유 때문에 여성들은 절대 결혼하지 않을 것. 남자에게 여자의 쓰임새가 “식모+성노예”라고 저렇게 대놓고 말하기도 쉽지는 않은데... https://t.co/pLxyLJiKNb"
+	},
+	{
+		"created_at": "Fri Feb 15 02:53:31 +0000 2019",
+		"id": 1096241063017078800,
+		"id_str": "1096241314713133056",
+		"full_text": "お天気の方は、なかなかスッキリとしませんが、暖かな沖縄。気温も24℃まで上がるみたい。\n太陽も、少しだけ顔を出してくれました。気持ちが良いなぁ。。。\n県民投票の期日前投票もそろそろ。\nこの様な機会は、滅多にありません。絶対に投票をして、意思を示しましょう！\n＃沖縄　＃イマソラ https://t.co/6r74G2wnBO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "沖縄",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "イマソラ",
+					"indices": [
+						133,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096240828677156900,
+					"id_str": "1096240828677156864",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/DzahOb2U8AAKOwy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzahOb2U8AAKOwy.jpg",
+					"url": "https://t.co/6r74G2wnBO",
+					"display_url": "pic.twitter.com/6r74G2wnBO",
+					"expanded_url": "https://twitter.com/furaisou/status/1096241063017078785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096240828677156900,
+					"id_str": "1096240828677156864",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/DzahOb2U8AAKOwy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzahOb2U8AAKOwy.jpg",
+					"url": "https://t.co/6r74G2wnBO",
+					"display_url": "pic.twitter.com/6r74G2wnBO",
+					"expanded_url": "https://twitter.com/furaisou/status/1096241063017078785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 207791068,
+			"id_str": "207791068",
+			"name": "風来荘",
+			"screen_name": "furaisou",
+			"location": "沖縄県　今帰仁村",
+			"description": "13年前に鎌倉から沖縄へ。  。。                                           海のそばで『風来荘　fu-rai-sou』 と言う名の宿を営んでおります.朝食には国産小麦を使って焼き上げる自家製天然酵母パンとスープでほっこりと。。ゆったりとした沖縄時間をお楽しみ下さい。。",
+			"url": "http://t.co/q1DVIfauZK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/q1DVIfauZK",
+							"expanded_url": "http://www7.plala.or.jp/fu-rai-sou/",
+							"display_url": "www7.plala.or.jp/fu-rai-sou/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606,
+			"friends_count": 275,
+			"listed_count": 14,
+			"created_at": "Tue Oct 26 01:28:07 +0000 2010",
+			"favourites_count": 1473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1057,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439958135634001921/P1j1yf6a_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439958135634001921/P1j1yf6a_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/207791068/1398257915",
+			"profile_link_color": "256DD9",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "052e049119fd8da1",
+			"url": "https://api.twitter.com/1.1/geo/id/052e049119fd8da1.json",
+			"place_type": "admin",
+			"name": "沖縄",
+			"full_name": "日本 沖縄",
+			"country_code": "JP",
+			"country": "日本",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							122.933784,
+							24.045669
+						],
+						[
+							131.332071,
+							24.045669
+						],
+						[
+							131.332071,
+							27.095384
+						],
+						[
+							122.933784,
+							27.095384
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "お天気の方は、なかなかスッキリとしませんが、暖かな沖縄。気温も24℃まで上がるみたい。\n太陽も、少しだけ顔を出してくれました。気持ちが良いなぁ。。。\n県民投票の期日前投票もそろそろ。\nこの様な機会は、滅多にありません。絶対に投票をして、意思を示しましょう！\n＃沖縄　＃イマソラ https://t.co/6r74G2wnBO"
+	},
+	{
 		"created_at": "Thu Feb 14 05:51:13 +0000 2019",
 		"id": 1095923395244449800,
 		"id_str": "1095926858984546304",
