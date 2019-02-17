@@ -1,6 +1,651 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 16 09:17:07 +0000 2019",
+		"id": 1096699986526400500,
+		"id_str": "1096707752078979072",
+		"full_text": "介護職です。前に利用者の男性から、15歳で志願し横須賀から出征したと聞いたことがあります。任務は主に食糧補給で、「友達はみんな死んだんですよ」とさらっと言われたことに絶句したことを思い出しました。こんな少年たちだったんですね… https://t.co/lbkmVPJ1Ci",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lbkmVPJ1Ci",
+					"expanded_url": "https://twitter.com/hwtnv/status/1096343912732516352",
+					"display_url": "twitter.com/hwtnv/status/1…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 975343975128170500,
+			"id_str": "975343975128170496",
+			"name": "薫spearman大坪",
+			"screen_name": "spearmanotsubo",
+			"location": "",
+			"description": "公式リプと感想・取引アカウント、ごくたまに呟き。お仲間のFBはこちらのアカウントではいたしません。雑多気ままに観たい舞台･映画･イベントに出掛けます。今井雅之さん、spiさんファン。『THE WINDS OF GOD』のミュージカル化熱望。働く主婦。ゆうちょ利用/都内手渡し可(限定あり)。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17,
+			"friends_count": 207,
+			"listed_count": 0,
+			"created_at": "Sun Mar 18 12:11:39 +0000 2018",
+			"favourites_count": 5331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2976,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975351629896589312/wS8XFM1H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975351629896589312/wS8XFM1H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/975343975128170496/1521376923",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1096343912732516400,
+		"quoted_status_id_str": "1096343912732516352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lbkmVPJ1Ci",
+			"expanded": "https://twitter.com/hwtnv/status/1096343912732516352",
+			"display": "twitter.com/hwtnv/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 15 09:42:12 +0000 2019",
+			"id": 1096343912732516400,
+			"id_str": "1096343912732516352",
+			"full_text": "戦前の水兵たち。1938年に横須賀で撮影されたもの。ニューラルネットワークによる自動色付け＋手動補正。Vintage Japan-esqueより。（CC BY-NC-SA 2.0） https://t.co/n0II4fXkSr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1096343586042331100,
+						"id_str": "1096343586042331136",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/Dzb-rs3UwAAlbA9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dzb-rs3UwAAlbA9.jpg",
+						"url": "https://t.co/n0II4fXkSr",
+						"display_url": "pic.twitter.com/n0II4fXkSr",
+						"expanded_url": "https://twitter.com/hwtnv/status/1096343912732516352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 762,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 432,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1301,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1096343586042331100,
+						"id_str": "1096343586042331136",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/Dzb-rs3UwAAlbA9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dzb-rs3UwAAlbA9.jpg",
+						"url": "https://t.co/n0II4fXkSr",
+						"display_url": "pic.twitter.com/n0II4fXkSr",
+						"expanded_url": "https://twitter.com/hwtnv/status/1096343912732516352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 762,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 432,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1301,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2236711,
+				"id_str": "2236711",
+				"name": "渡邉英徳",
+				"screen_name": "hwtnv",
+				"location": "Bunkyo-ku, Tokyo",
+				"description": "Hidenori Watanave, Ph.D. 東京大学 大学院情報学環・学際情報学府 教授 Professor at The University of Tokyo III / GSII",
+				"url": "https://t.co/7pMPaEx0VH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7pMPaEx0VH",
+								"expanded_url": "https://researchmap.jp/hwtnv/",
+								"display_url": "researchmap.jp/hwtnv/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27808,
+				"friends_count": 599,
+				"listed_count": 838,
+				"created_at": "Mon Mar 26 01:54:31 +0000 2007",
+				"favourites_count": 30382,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 115590,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1077715617510092800/J871oGc4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077715617510092800/J871oGc4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2236711/1530514262",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 141,
+			"favorite_count": 373,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 86,
+		"favorite_count": 205,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "介護職です。前に利用者の男性から、15歳で志願し横須賀から出征したと聞いたことがあります。任務は主に食糧補給で、「友達はみんな死んだんですよ」とさらっと言われたことに絶句したことを思い出しました。こんな少年たちだったんですね… https://t.co/lbkmVPJ1Ci"
+	},
+	{
+		"created_at": "Sat Feb 16 07:16:34 +0000 2019",
+		"id": 1096669652434903000,
+		"id_str": "1096669652434903040",
+		"full_text": "@maasaru_tamanaa 그러나—&gt; 다만",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maasaru_tamanaa",
+					"name": "타마나",
+					"id": 4859655125,
+					"id_str": "4859655125",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1096669487414181900,
+		"in_reply_to_status_id_str": "1096669487414181893",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 490,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17085,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@maasaru_tamanaa 그러나—&gt; 다만"
+	},
+	{
+		"created_at": "Sat Feb 16 07:15:55 +0000 2019",
+		"id": 1096669487414181900,
+		"id_str": "1096669487414181893",
+		"full_text": "@maasaru_tamanaa 그러나 수백년간 지속된 일지양속이라는 특이한 상황은 다른 사례들과 직접적인 비교가 쉽지만은 않은 것 같습니다.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maasaru_tamanaa",
+					"name": "타마나",
+					"id": 4859655125,
+					"id_str": "4859655125",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1096669037042389000,
+		"in_reply_to_status_id_str": "1096669037042388992",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 490,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17085,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@maasaru_tamanaa 그러나 수백년간 지속된 일지양속이라는 특이한 상황은 다른 사례들과 직접적인 비교가 쉽지만은 않은 것 같습니다."
+	},
+	{
+		"created_at": "Sat Feb 16 07:14:08 +0000 2019",
+		"id": 1096669037042389000,
+		"id_str": "1096669037042388992",
+		"full_text": "@maasaru_tamanaa 트윗 올리신 거 보고 반사적으로, 기계적으로 예전에 근대사 배웠던 내용을 읊은 거라...다른 사례들하고 비교는 생각지도 못하고 있었네요. 올리신 말씀에 대해서는 저도 보다 근본적인 고민을 해봐야겠습니다.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maasaru_tamanaa",
+					"name": "타마나",
+					"id": 4859655125,
+					"id_str": "4859655125",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1096667867175501800,
+		"in_reply_to_status_id_str": "1096667867175501825",
+		"in_reply_to_user_id": 4859655125,
+		"in_reply_to_user_id_str": "4859655125",
+		"in_reply_to_screen_name": "maasaru_tamanaa",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 490,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17085,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@maasaru_tamanaa 트윗 올리신 거 보고 반사적으로, 기계적으로 예전에 근대사 배웠던 내용을 읊은 거라...다른 사례들하고 비교는 생각지도 못하고 있었네요. 올리신 말씀에 대해서는 저도 보다 근본적인 고민을 해봐야겠습니다."
+	},
+	{
+		"created_at": "Sat Feb 16 07:03:34 +0000 2019",
+		"id": 1096666379174916100,
+		"id_str": "1096666379174916097",
+		"full_text": "@maasaru_tamanaa 그리고 류큐의 경우 사츠마 하이리 이후 실질적으로 본토 세력의 지배 하에 있었다는 점도 들 수 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maasaru_tamanaa",
+					"name": "타마나",
+					"id": 4859655125,
+					"id_str": "4859655125",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1096664694889230300,
+		"in_reply_to_status_id_str": "1096664694889230336",
+		"in_reply_to_user_id": 4859655125,
+		"in_reply_to_user_id_str": "4859655125",
+		"in_reply_to_screen_name": "maasaru_tamanaa",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 490,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17085,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@maasaru_tamanaa 그리고 류큐의 경우 사츠마 하이리 이후 실질적으로 본토 세력의 지배 하에 있었다는 점도 들 수 있습니다."
+	},
+	{
 		"created_at": "Fri Feb 15 11:00:05 +0000 2019",
 		"id": 1096363511423234000,
 		"id_str": "1096564777114001408",
