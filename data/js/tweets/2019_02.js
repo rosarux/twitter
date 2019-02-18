@@ -1,6 +1,158 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 17 09:45:14 +0000 2019",
+		"id": 1097069450010886100,
+		"id_str": "1097076732874477571",
+		"full_text": "【速報】県民投票で情勢調査　「政府は結果を尊重すべき」86.3％　「反対に投票」は67.6％ https://t.co/o0Jx97wnI3 #辺野古新基地・普天間移設問題と沖縄の民意 #県民投票 #安倍政権 #okinawa #沖縄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "辺野古新基地・普天間移設問題と沖縄の民意",
+					"indices": [
+						71,
+						92
+					]
+				},
+				{
+					"text": "県民投票",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "安倍政権",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "okinawa",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						114,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o0Jx97wnI3",
+					"expanded_url": "https://goo.gl/LZ6NSu",
+					"display_url": "goo.gl/LZ6NSu",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.okinawatimes.co.jp\" rel=\"nofollow\">沖縄タイムス社TweetBot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118600653,
+			"id_str": "118600653",
+			"name": "沖縄タイムス",
+			"screen_name": "theokinawatimes",
+			"location": "沖縄県那覇市",
+			"description": "「沖縄タイムス」の公式アカウントです。沖縄のニュースを紹介します。情報提供はこちら↓↓\nhttps://t.co/dRtcewdzWi\n\n辺野古・高江@times_henoko\n「幻想のメディア」取材班@gensoutimes",
+			"url": "http://t.co/MNvzHef3vO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MNvzHef3vO",
+							"expanded_url": "http://www.okinawatimes.co.jp",
+							"display_url": "okinawatimes.co.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dRtcewdzWi",
+							"expanded_url": "https://app.okinawatimes.co.jp/contact/info_form.php",
+							"display_url": "app.okinawatimes.co.jp/contact/info_f…",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 83889,
+			"friends_count": 101,
+			"listed_count": 3218,
+			"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+			"favourites_count": 3139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 283444,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1543972220",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 307,
+		"favorite_count": 265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【速報】県民投票で情勢調査　「政府は結果を尊重すべき」86.3％　「反対に投票」は67.6％ https://t.co/o0Jx97wnI3 #辺野古新基地・普天間移設問題と沖縄の民意 #県民投票 #安倍政権 #okinawa #沖縄"
+	},
+	{
 		"created_at": "Sat Feb 16 09:17:07 +0000 2019",
 		"id": 1096699986526400500,
 		"id_str": "1096707752078979072",
