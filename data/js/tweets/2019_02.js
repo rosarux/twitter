@@ -1,6 +1,1738 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 24 15:01:51 +0000 2019",
+		"id": 1099685844573511700,
+		"id_str": "1099700925935960064",
+		"full_text": "県民投票・辺野古埋め立て「反対」の得票率（％）\n\n　1位　大宜味村　80.37\n　2位　今帰仁村　77.69\n　3位　八重瀬町　75.21\n　4位　西原町　　75.20\n　5位　那覇市　　75.08 https://t.co/9Lr6WaWaP1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099685032233332700,
+					"id_str": "1099685032233332736",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/D0Ldtd8U8AAUU7C.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0Ldtd8U8AAUU7C.png",
+					"url": "https://t.co/9Lr6WaWaP1",
+					"display_url": "pic.twitter.com/9Lr6WaWaP1",
+					"expanded_url": "https://twitter.com/miraisyakai/status/1099685844573511680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 959,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1223,
+							"h": 977,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099685032233332700,
+					"id_str": "1099685032233332736",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/D0Ldtd8U8AAUU7C.png",
+					"media_url_https": "https://pbs.twimg.com/media/D0Ldtd8U8AAUU7C.png",
+					"url": "https://t.co/9Lr6WaWaP1",
+					"display_url": "pic.twitter.com/9Lr6WaWaP1",
+					"expanded_url": "https://twitter.com/miraisyakai/status/1099685844573511680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 959,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1223,
+							"h": 977,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2357816610,
+			"id_str": "2357816610",
+			"name": "三春充希(はる)⭐みらい選挙Project",
+			"screen_name": "miraisyakai",
+			"location": "",
+			"description": "社会を変革する手段としての正確な情勢分析を探求しています。主な関心は選挙地理学・世論調査・情勢報道・内閣支持率・政党支持率など。連絡の際はフェイスブックが確実です。東京大学大学院理学系研究科出身。牽制的無党派。2017年にみらい選挙プロジェクトを開始。分析ノート https://t.co/vqBVMnScGW",
+			"url": "https://t.co/JyrudBUoP9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JyrudBUoP9",
+							"expanded_url": "https://www.facebook.com/miraisyakai",
+							"display_url": "facebook.com/miraisyakai",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vqBVMnScGW",
+							"expanded_url": "https://note.mu/miraisyakai",
+							"display_url": "note.mu/miraisyakai",
+							"indices": [
+								132,
+								155
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 148126,
+			"friends_count": 11263,
+			"listed_count": 890,
+			"created_at": "Sun Feb 23 10:42:09 +0000 2014",
+			"favourites_count": 10871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30799,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097374728099061760/463q3wEF_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097374728099061760/463q3wEF_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2357816610/1544089528",
+			"profile_link_color": "00DDFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 279,
+		"favorite_count": 254,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "県民投票・辺野古埋め立て「反対」の得票率（％）\n\n　1位　大宜味村　80.37\n　2位　今帰仁村　77.69\n　3位　八重瀬町　75.21\n　4位　西原町　　75.20\n　5位　那覇市　　75.08 https://t.co/9Lr6WaWaP1"
+	},
+	{
+		"created_at": "Sun Feb 24 16:01:09 +0000 2019",
+		"id": 1099700769245225000,
+		"id_str": "1099700769245224960",
+		"full_text": "https://t.co/zI0glzJecZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099700763490582500,
+					"id_str": "1099700763490582529",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D0LsBJcVAAEChgf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0LsBJcVAAEChgf.jpg",
+					"url": "https://t.co/zI0glzJecZ",
+					"display_url": "pic.twitter.com/zI0glzJecZ",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1099700769245224960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099700763490582500,
+					"id_str": "1099700763490582529",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D0LsBJcVAAEChgf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0LsBJcVAAEChgf.jpg",
+					"url": "https://t.co/zI0glzJecZ",
+					"display_url": "pic.twitter.com/zI0glzJecZ",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1099700769245224960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 490,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17107,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/zI0glzJecZ"
+	},
+	{
+		"created_at": "Sun Feb 24 16:01:01 +0000 2019",
+		"id": 1099700736038862800,
+		"id_str": "1099700736038862848",
+		"full_text": "https://t.co/8fpWco82fe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099700728245870600,
+					"id_str": "1099700728245870594",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D0Lr_GJVYAI9-f_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0Lr_GJVYAI9-f_.jpg",
+					"url": "https://t.co/8fpWco82fe",
+					"display_url": "pic.twitter.com/8fpWco82fe",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1099700736038862848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099700728245870600,
+					"id_str": "1099700728245870594",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D0Lr_GJVYAI9-f_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0Lr_GJVYAI9-f_.jpg",
+					"url": "https://t.co/8fpWco82fe",
+					"display_url": "pic.twitter.com/8fpWco82fe",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1099700736038862848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 490,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17107,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/8fpWco82fe"
+	},
+	{
+		"created_at": "Sun Feb 24 15:05:02 +0000 2019",
+		"id": 1099686648827146200,
+		"id_str": "1099700403938021376",
+		"full_text": "RBCのサイトを見たら、開票率100％になっていた。\n賛成　114,933\n反対　434,273\nどちらでもない　52,682\n「反対」の票は、翁長知事やデニー知事の得票数を大きく超えている。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 725740536,
+			"id_str": "725740536",
+			"name": "murata koji",
+			"screen_name": "murataquang",
+			"location": "那覇市",
+			"description": "零細企業の従業員です。ベトナムの貧困家庭の生徒たちに奨学金を送る活動の事務局を細々とやっていますが、ツイートは個人の見解です。辺野古新基地建設反対。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1214,
+			"friends_count": 940,
+			"listed_count": 39,
+			"created_at": "Mon Jul 30 09:55:35 +0000 2012",
+			"favourites_count": 15067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23874,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2548466546/br2glp9lv1ix99dgcsg8_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2548466546/br2glp9lv1ix99dgcsg8_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/725740536/1398782549",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "RBCのサイトを見たら、開票率100％になっていた。\n賛成　114,933\n反対　434,273\nどちらでもない　52,682\n「反対」の票は、翁長知事やデニー知事の得票数を大きく超えている。"
+	},
+	{
+		"created_at": "Sun Feb 24 13:31:07 +0000 2019",
+		"id": 1099663010505715700,
+		"id_str": "1099664608346820608",
+		"full_text": "18歳19歳が圧倒的に反対多数て凄いな https://t.co/GBVY0BpARm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099663004201713700,
+					"id_str": "1099663004201713664",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D0LJrRIVAAApho1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0LJrRIVAAApho1.jpg",
+					"url": "https://t.co/GBVY0BpARm",
+					"display_url": "pic.twitter.com/GBVY0BpARm",
+					"expanded_url": "https://twitter.com/PehpQGzTC29qGP4/status/1099663010505715713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099663004201713700,
+					"id_str": "1099663004201713664",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D0LJrRIVAAApho1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0LJrRIVAAApho1.jpg",
+					"url": "https://t.co/GBVY0BpARm",
+					"display_url": "pic.twitter.com/GBVY0BpARm",
+					"expanded_url": "https://twitter.com/PehpQGzTC29qGP4/status/1099663010505715713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1099639876939468800,
+		"in_reply_to_status_id_str": "1099639876939468801",
+		"in_reply_to_user_id": 1090220598368694300,
+		"in_reply_to_user_id_str": "1090220598368694272",
+		"in_reply_to_screen_name": "PehpQGzTC29qGP4",
+		"user": {
+			"id": 1090220598368694300,
+			"id_str": "1090220598368694272",
+			"name": "ウチナーベン",
+			"screen_name": "PehpQGzTC29qGP4",
+			"location": "沖縄 北部",
+			"description": "政治についてモノ申します。沖縄北部在住墓が基地の中にあり、昔接収され今だに帰ってきてません。国のジレンマに悩まされる私たち一族です。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38,
+			"friends_count": 41,
+			"listed_count": 1,
+			"created_at": "Tue Jan 29 12:10:20 +0000 2019",
+			"favourites_count": 137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 152,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1099240748837265408/eAqryBDU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099240748837265408/eAqryBDU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1810,
+		"favorite_count": 2290,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "18歳19歳が圧倒的に反対多数て凄いな https://t.co/GBVY0BpARm"
+	},
+	{
+		"created_at": "Sun Feb 24 13:35:29 +0000 2019",
+		"id": 1099664110667460600,
+		"id_str": "1099664110667460614",
+		"full_text": "https://t.co/UrM7QSWVQm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099664102014636000,
+					"id_str": "1099664102014636033",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D0LKrKzU0AExkri.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0LKrKzU0AExkri.jpg",
+					"url": "https://t.co/UrM7QSWVQm",
+					"display_url": "pic.twitter.com/UrM7QSWVQm",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1099664110667460614/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 663,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1132,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099664102014636000,
+					"id_str": "1099664102014636033",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D0LKrKzU0AExkri.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0LKrKzU0AExkri.jpg",
+					"url": "https://t.co/UrM7QSWVQm",
+					"display_url": "pic.twitter.com/UrM7QSWVQm",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1099664110667460614/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 663,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1132,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 490,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17107,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/UrM7QSWVQm"
+	},
+	{
+		"created_at": "Sun Feb 24 13:34:58 +0000 2019",
+		"id": 1099663981101248500,
+		"id_str": "1099663981101248512",
+		"full_text": "https://t.co/GMMJ7Y3DvT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099663972393922600,
+					"id_str": "1099663972393922561",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D0LKjn7VsAE0DXx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0LKjn7VsAE0DXx.jpg",
+					"url": "https://t.co/GMMJ7Y3DvT",
+					"display_url": "pic.twitter.com/GMMJ7Y3DvT",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1099663981101248512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099663972393922600,
+					"id_str": "1099663972393922561",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D0LKjn7VsAE0DXx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0LKjn7VsAE0DXx.jpg",
+					"url": "https://t.co/GMMJ7Y3DvT",
+					"display_url": "pic.twitter.com/GMMJ7Y3DvT",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1099663981101248512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 490,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17107,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/GMMJ7Y3DvT"
+	},
+	{
+		"created_at": "Sun Feb 24 07:50:56 +0000 2019",
+		"id": 1099577404102594600,
+		"id_str": "1099663470566334465",
+		"full_text": "世界が見ている\n\nOkinawa referendum: everything you need to know https://t.co/3gCYlbiEJi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3gCYlbiEJi",
+					"expanded_url": "https://www.theguardian.com/world/2019/feb/22/okinawa-referendum-everything-you-need-to-know?CMP=share_btn_tw",
+					"display_url": "theguardian.com/world/2019/feb…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128356027,
+			"id_str": "128356027",
+			"name": "Osamu Tomori",
+			"screen_name": "orpheonesque",
+			"location": "玉川上水",
+			"description": "友利修 音楽について研究したり教えたりしています。とくい分野は19世紀西洋音楽史。宮古島産。",
+			"url": "http://t.co/Cmwb9K3Afr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Cmwb9K3Afr",
+							"expanded_url": "http://albumblaetter.com/ot/",
+							"display_url": "albumblaetter.com/ot/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4726,
+			"friends_count": 3252,
+			"listed_count": 199,
+			"created_at": "Wed Mar 31 22:05:01 +0000 2010",
+			"favourites_count": 6498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18626,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0C0C0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/789017657/Osamu_GQ_cropped_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/789017657/Osamu_GQ_cropped_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128356027/1431783814",
+			"profile_link_color": "909080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "世界が見ている\n\nOkinawa referendum: everything you need to know https://t.co/3gCYlbiEJi"
+	},
+	{
+		"created_at": "Sun Feb 24 11:47:29 +0000 2019",
+		"id": 1099636933817294800,
+		"id_str": "1099663355738910724",
+		"full_text": "沖縄県民投票、投票日出口調査。\n\nNHK20:45のニュースより。 https://t.co/VFnByeaVkH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099636917392429000,
+					"id_str": "1099636917392429061",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D0Kx80MU0AUFTSL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0Kx80MU0AUFTSL.jpg",
+					"url": "https://t.co/VFnByeaVkH",
+					"display_url": "pic.twitter.com/VFnByeaVkH",
+					"expanded_url": "https://twitter.com/YK49150270/status/1099636933817294853/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 663,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1132,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099636917392429000,
+					"id_str": "1099636917392429061",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/D0Kx80MU0AUFTSL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0Kx80MU0AUFTSL.jpg",
+					"url": "https://t.co/VFnByeaVkH",
+					"display_url": "pic.twitter.com/VFnByeaVkH",
+					"expanded_url": "https://twitter.com/YK49150270/status/1099636933817294853/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 663,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1132,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2916453350,
+			"id_str": "2916453350",
+			"name": "YK🌈#パイナップルとーさん🍍#横浜市議選",
+			"screen_name": "YK49150270",
+			"location": "",
+			"description": "ぼちぼち生きてま…？ 護犬（憲）派。#暇人党、#肉球新党、#冬毛連合、#やんか、#選挙は楽しめ、#メータのブルックナー、#いっとくでいっとく、#カラフル教育クラブ、#ハマ弁、#パイナップルにーさん、#チャレテ、#脱カスタマー、#スエコシンカー、#デニってる、#ケンケンを探せ、#脱ださい選挙",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4161,
+			"friends_count": 3062,
+			"listed_count": 68,
+			"created_at": "Tue Dec 02 09:54:29 +0000 2014",
+			"favourites_count": 18886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 273619,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/997148540949282816/4Tz4BVi2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/997148540949282816/4Tz4BVi2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2916453350/1542469231",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2054,
+		"favorite_count": 2529,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "沖縄県民投票、投票日出口調査。\n\nNHK20:45のニュースより。 https://t.co/VFnByeaVkH"
+	},
+	{
+		"created_at": "Sun Feb 24 12:07:34 +0000 2019",
+		"id": 1099641986087145500,
+		"id_str": "1099641986087145473",
+		"full_text": "https://t.co/hLvLJtUcus",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099641970908049400,
+					"id_str": "1099641970908049408",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D0K2i-AVsAAEVAH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0K2i-AVsAAEVAH.jpg",
+					"url": "https://t.co/hLvLJtUcus",
+					"display_url": "pic.twitter.com/hLvLJtUcus",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1099641986087145473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099641970908049400,
+					"id_str": "1099641970908049408",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D0K2i-AVsAAEVAH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0K2i-AVsAAEVAH.jpg",
+					"url": "https://t.co/hLvLJtUcus",
+					"display_url": "pic.twitter.com/hLvLJtUcus",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1099641986087145473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 490,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17107,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/hLvLJtUcus"
+	},
+	{
+		"created_at": "Sun Feb 24 01:30:27 +0000 2019",
+		"id": 1099481649631322100,
+		"id_str": "1099524694913343489",
+		"full_text": "「全国民に意思示そう」　玉城デニー知事、県民投票の意義強調 https://t.co/q1OsLL3CdV #県民投票 #辺野古新基地・普天間移設問題と沖縄の民意 #玉城デニー #okinawa #沖縄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "県民投票",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "辺野古新基地・普天間移設問題と沖縄の民意",
+					"indices": [
+						60,
+						81
+					]
+				},
+				{
+					"text": "玉城デニー",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "okinawa",
+					"indices": [
+						89,
+						97
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						98,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q1OsLL3CdV",
+					"expanded_url": "https://goo.gl/dL15EW",
+					"display_url": "goo.gl/dL15EW",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.okinawatimes.co.jp\" rel=\"nofollow\">沖縄タイムス社TweetBot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118600653,
+			"id_str": "118600653",
+			"name": "沖縄タイムス",
+			"screen_name": "theokinawatimes",
+			"location": "沖縄県那覇市",
+			"description": "「沖縄タイムス」の公式アカウントです。沖縄のニュースを紹介します。情報提供はこちら↓↓\nhttps://t.co/dRtcewdzWi\n\n辺野古・高江@times_henoko\n「幻想のメディア」取材班@gensoutimes",
+			"url": "http://t.co/MNvzHef3vO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MNvzHef3vO",
+							"expanded_url": "http://www.okinawatimes.co.jp",
+							"display_url": "okinawatimes.co.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dRtcewdzWi",
+							"expanded_url": "https://app.okinawatimes.co.jp/contact/info_form.php",
+							"display_url": "app.okinawatimes.co.jp/contact/info_f…",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 84141,
+			"friends_count": 102,
+			"listed_count": 3219,
+			"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+			"favourites_count": 3140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 283733,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1543972220",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 190,
+		"favorite_count": 179,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「全国民に意思示そう」　玉城デニー知事、県民投票の意義強調 https://t.co/q1OsLL3CdV #県民投票 #辺野古新基地・普天間移設問題と沖縄の民意 #玉城デニー #okinawa #沖縄"
+	},
+	{
+		"created_at": "Sun Feb 24 02:38:07 +0000 2019",
+		"id": 1099498680036450300,
+		"id_str": "1099498680036450304",
+		"full_text": "의미심장한데",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 490,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17107,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "의미심장한데"
+	},
+	{
 		"created_at": "Sat Feb 23 23:18:51 +0000 2019",
 		"id": 1099448530937102300,
 		"id_str": "1099448530937102337",
