@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 24 22:15:24 +0000 2019",
+		"id": 1099794950269460500,
+		"id_str": "1099848678632640512",
+		"full_text": "こういう時は、新聞の色がでます https://t.co/qvDsQ7ACjF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1099794948646293500,
+					"id_str": "1099794948646293504",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D0NBrcfU0AA0XrN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0NBrcfU0AA0XrN.jpg",
+					"url": "https://t.co/qvDsQ7ACjF",
+					"display_url": "pic.twitter.com/qvDsQ7ACjF",
+					"expanded_url": "https://twitter.com/miyamototooru/status/1099794950269460481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1099794948646293500,
+					"id_str": "1099794948646293504",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/D0NBrcfU0AA0XrN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0NBrcfU0AA0XrN.jpg",
+					"url": "https://t.co/qvDsQ7ACjF",
+					"display_url": "pic.twitter.com/qvDsQ7ACjF",
+					"expanded_url": "https://twitter.com/miyamototooru/status/1099794950269460481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 341296862,
+			"id_str": "341296862",
+			"name": "宮本徹",
+			"screen_name": "miyamototooru",
+			"location": "東京",
+			"description": "衆議院議員（東村山、清瀬、東久留米、東大和、武蔵村山/東京）２期。日本共産党。人生に影響をあたえたのはブルーハーツ、灰谷健次郎、本多勝一、宮沢賢治。",
+			"url": "https://t.co/ghAUzZgjjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ghAUzZgjjE",
+							"expanded_url": "http://miyamototooru.info",
+							"display_url": "miyamototooru.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14503,
+			"friends_count": 129,
+			"listed_count": 593,
+			"created_at": "Sun Jul 24 04:13:49 +0000 2011",
+			"favourites_count": 119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 7919,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/903111918423912448/muretERt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/903111918423912448/muretERt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/341296862/1397550411",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10908,
+		"favorite_count": 17915,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "こういう時は、新聞の色がでます https://t.co/qvDsQ7ACjF"
+	},
+	{
 		"created_at": "Sun Feb 24 15:01:51 +0000 2019",
 		"id": 1099685844573511700,
 		"id_str": "1099700925935960064",
