@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 04:59:11 +0000 2019",
+		"id": 1097722241645715500,
+		"id_str": "1100595132359880704",
+		"full_text": "\"전후 일본은 ‘민주적 주체를 만들지 않는 민주주의’를 지속해왔다. 자립된 시민이 아니라 이익을 좇는 서민이 사회를 구성했다. 민주주의를 위한 사회적 기반이 약하다는 게 본질적 문제\" 일본 정치의 현주소를 잘 보여주는 기사. - 일본 민주주의는 어떻게 망가졌을까 https://t.co/JIw1KmDVIx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JIw1KmDVIx",
+					"expanded_url": "https://news.v.daum.net/v/20190219134145366",
+					"display_url": "news.v.daum.net/v/201902191341…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113328790,
+			"id_str": "113328790",
+			"name": "Mafinacc",
+			"screen_name": "Mafinacc",
+			"location": "A-Town",
+			"description": "It's what you do in the dark, that puts you in the light.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1320,
+			"friends_count": 297,
+			"listed_count": 42,
+			"created_at": "Thu Feb 11 12:08:47 +0000 2010",
+			"favourites_count": 684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 198272,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/860504527652265984/P9vv2ANd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/860504527652265984/P9vv2ANd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113328790/1477667884",
+			"profile_link_color": "921110",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 34,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"전후 일본은 ‘민주적 주체를 만들지 않는 민주주의’를 지속해왔다. 자립된 시민이 아니라 이익을 좇는 서민이 사회를 구성했다. 민주주의를 위한 사회적 기반이 약하다는 게 본질적 문제\" 일본 정치의 현주소를 잘 보여주는 기사. - 일본 민주주의는 어떻게 망가졌을까 https://t.co/JIw1KmDVIx"
+	},
+	{
 		"created_at": "Tue Feb 26 13:03:43 +0000 2019",
 		"id": 1100380894315958300,
 		"id_str": "1100515554543120385",
