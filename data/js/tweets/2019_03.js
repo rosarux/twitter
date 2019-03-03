@@ -1,6 +1,675 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 02 11:08:15 +0000 2019",
+		"id": 1101527521831444500,
+		"id_str": "1101801385375367168",
+		"full_text": "You have to see this rescue 💚🐢 https://t.co/K4gdcadHEN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1100862859200860200,
+					"id_str": "1100862859200860172",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D0cOYpIWkAEUFXp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0cOYpIWkAEUFXp.jpg",
+					"url": "https://t.co/K4gdcadHEN",
+					"display_url": "pic.twitter.com/K4gdcadHEN",
+					"expanded_url": "https://twitter.com/dodo/status/1101527521831444482/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100862859200860200,
+					"id_str": "1100862859200860172",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D0cOYpIWkAEUFXp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0cOYpIWkAEUFXp.jpg",
+					"url": "https://t.co/K4gdcadHEN",
+					"display_url": "pic.twitter.com/K4gdcadHEN",
+					"expanded_url": "https://twitter.com/dodo/status/1101527521831444482/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 214448,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1100862859200860172/vid/720x720/NHnhlwEv56ptD7dg.mp4?tag=9"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1100862859200860172/vid/320x320/e7Vl44cXx_H4WcuD.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1100862859200860172/pl/R7tFKXoUz1on1opI.m3u8?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1100862859200860172/vid/480x480/Hx8aKomT5bN7-L7p.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Guy Jumps Off His Boat To Save Sea Turtles Tangled In Net ",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1604444052,
+			"id_str": "1604444052",
+			"name": "The Dodo",
+			"screen_name": "dodo",
+			"location": "New York, NY",
+			"description": "For animal people.",
+			"url": "http://t.co/8OI8fYm7h2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/8OI8fYm7h2",
+							"expanded_url": "http://thedodo.com",
+							"display_url": "thedodo.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1449358,
+			"friends_count": 4327,
+			"listed_count": 7192,
+			"created_at": "Thu Jul 18 22:19:02 +0000 2013",
+			"favourites_count": 19615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 55577,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "A0E6F9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1096410516564643840/PynpGNvd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096410516564643840/PynpGNvd_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1604444052/1541013988",
+			"profile_link_color": "FA0011",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3666,
+		"favorite_count": 10087,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You have to see this rescue 💚🐢 https://t.co/K4gdcadHEN"
+	},
+	{
+		"created_at": "Sat Mar 02 09:38:17 +0000 2019",
+		"id": 1101426096879202300,
+		"id_str": "1101778742941110277",
+		"full_text": "3・1朝鮮独立運動100周年キャンドル集会！\n右翼なんか圧倒してしまうほどの市民が集まっています！ https://t.co/GWknEcTqOQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1101426012934398000,
+					"id_str": "1101426012934397952",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101426012934397952/pu/img/mbeFPPrv6y4OoMJX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101426012934397952/pu/img/mbeFPPrv6y4OoMJX.jpg",
+					"url": "https://t.co/GWknEcTqOQ",
+					"display_url": "pic.twitter.com/GWknEcTqOQ",
+					"expanded_url": "https://twitter.com/nahokohishiyama/status/1101426096879202304/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101426012934398000,
+					"id_str": "1101426012934397952",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101426012934397952/pu/img/mbeFPPrv6y4OoMJX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101426012934397952/pu/img/mbeFPPrv6y4OoMJX.jpg",
+					"url": "https://t.co/GWknEcTqOQ",
+					"display_url": "pic.twitter.com/GWknEcTqOQ",
+					"expanded_url": "https://twitter.com/nahokohishiyama/status/1101426096879202304/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 9900,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1101426012934397952/pu/vid/1280x720/h7xP5HBbKMzNRxwV.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1101426012934397952/pu/pl/GpByi6VIC7huqh8X.m3u8?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1101426012934397952/pu/vid/640x360/eL1xghbhrc9nRNCb.mp4?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1101426012934397952/pu/vid/320x180/Fn0T6-TBGaMV7m4e.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2515119283,
+			"id_str": "2515119283",
+			"name": "菱山南帆子",
+			"screen_name": "nahokohishiyama",
+			"location": "",
+			"description": "1989年八王子生まれ。許すな！憲法改悪 市民連絡会事務局次長。憲法９条を壊すな！実行委員会。戦争させない・9条壊すな！総がかり行動実行委員会。安倍9条改憲NO！全国市民アクション実行委員会。街頭宣伝を企画。単著:「嵐を呼ぶ少女とよばれて〜市民運動という生きかた〜」はるか書房",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10275,
+			"friends_count": 1570,
+			"listed_count": 222,
+			"created_at": "Thu May 22 10:38:45 +0000 2014",
+			"favourites_count": 3947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16602,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553114502653157376/v36c8C6z_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553114502653157376/v36c8C6z_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2515119283/1441176684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 914,
+		"favorite_count": 1388,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "3・1朝鮮独立運動100周年キャンドル集会！\n右翼なんか圧倒してしまうほどの市民が集まっています！ https://t.co/GWknEcTqOQ"
+	},
+	{
+		"created_at": "Sat Mar 02 07:15:07 +0000 2019",
+		"id": 1101726196943867900,
+		"id_str": "1101742714020814848",
+		"full_text": "今日の沖縄✨快晴で暖かい。 https://t.co/W6Bic58wo4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1101726112667729900,
+					"id_str": "1101726112667729920",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D0oeD_FVAAARi8r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0oeD_FVAAARi8r.jpg",
+					"url": "https://t.co/W6Bic58wo4",
+					"display_url": "pic.twitter.com/W6Bic58wo4",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1101726196943867905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101726112667729900,
+					"id_str": "1101726112667729920",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D0oeD_FVAAARi8r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0oeD_FVAAARi8r.jpg",
+					"url": "https://t.co/W6Bic58wo4",
+					"display_url": "pic.twitter.com/W6Bic58wo4",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1101726196943867905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1101726142082367500,
+					"id_str": "1101726142082367488",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D0oeFsqUwAATqBj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0oeFsqUwAATqBj.jpg",
+					"url": "https://t.co/W6Bic58wo4",
+					"display_url": "pic.twitter.com/W6Bic58wo4",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1101726196943867905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1101726163334914000,
+					"id_str": "1101726163334914050",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D0oeG71U4AI341S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0oeG71U4AI341S.jpg",
+					"url": "https://t.co/W6Bic58wo4",
+					"display_url": "pic.twitter.com/W6Bic58wo4",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1101726196943867905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1101726182662271000,
+					"id_str": "1101726182662270976",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D0oeID1U8AAHZWp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0oeID1U8AAHZWp.jpg",
+					"url": "https://t.co/W6Bic58wo4",
+					"display_url": "pic.twitter.com/W6Bic58wo4",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1101726196943867905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1440845558,
+			"id_str": "1440845558",
+			"name": "いけむらたかし",
+			"screen_name": "takashi91mile",
+			"location": "沖縄県❂okinawa-japan",
+			"description": "沖縄の景色を色んな人と楽しめて嬉しいです。沖縄の素晴らしい景色を色んな人に伝えたい。よろしくお願いします🌈【趣味】音楽･野球･読書",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23845,
+			"friends_count": 20506,
+			"listed_count": 224,
+			"created_at": "Sun May 19 10:43:57 +0000 2013",
+			"favourites_count": 43176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4149,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1440845558/1550065457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 651,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今日の沖縄✨快晴で暖かい。 https://t.co/W6Bic58wo4"
+	},
+	{
 		"created_at": "Fri Mar 01 14:45:00 +0000 2019",
 		"id": 1101493544471081000,
 		"id_str": "1101538724779683840",
