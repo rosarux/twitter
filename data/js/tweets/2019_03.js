@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 01:36:09 +0000 2019",
+		"id": 1101762444509175800,
+		"id_str": "1102019799909978113",
+		"full_text": "沖縄県うるま市の海中道路、本島→平安座島→浜比嘉島まで運転した光景です https://t.co/JOQf7Ti7Pr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1101762414893195300,
+					"id_str": "1101762414893195265",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D0o_FDaV4AEJIYY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0o_FDaV4AEJIYY.jpg",
+					"url": "https://t.co/JOQf7Ti7Pr",
+					"display_url": "pic.twitter.com/JOQf7Ti7Pr",
+					"expanded_url": "https://twitter.com/KurodaGen/status/1101762444509175809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101762414893195300,
+					"id_str": "1101762414893195265",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D0o_FDaV4AEJIYY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0o_FDaV4AEJIYY.jpg",
+					"url": "https://t.co/JOQf7Ti7Pr",
+					"display_url": "pic.twitter.com/JOQf7Ti7Pr",
+					"expanded_url": "https://twitter.com/KurodaGen/status/1101762444509175809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1101762421729841200,
+					"id_str": "1101762421729841152",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D0o_Fc4U0AAB67E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0o_Fc4U0AAB67E.jpg",
+					"url": "https://t.co/JOQf7Ti7Pr",
+					"display_url": "pic.twitter.com/JOQf7Ti7Pr",
+					"expanded_url": "https://twitter.com/KurodaGen/status/1101762444509175809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1101762429023805400,
+					"id_str": "1101762429023805440",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D0o_F4DV4AATVE4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0o_F4DV4AATVE4.jpg",
+					"url": "https://t.co/JOQf7Ti7Pr",
+					"display_url": "pic.twitter.com/JOQf7Ti7Pr",
+					"expanded_url": "https://twitter.com/KurodaGen/status/1101762444509175809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1101762436690960400,
+					"id_str": "1101762436690960384",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/D0o_GUnVYAACFXd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0o_GUnVYAACFXd.jpg",
+					"url": "https://t.co/JOQf7Ti7Pr",
+					"display_url": "pic.twitter.com/JOQf7Ti7Pr",
+					"expanded_url": "https://twitter.com/KurodaGen/status/1101762444509175809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1101761185135833100,
+		"in_reply_to_status_id_str": "1101761185135833088",
+		"in_reply_to_user_id": 886805677640831000,
+		"in_reply_to_user_id_str": "886805677640830977",
+		"in_reply_to_screen_name": "KurodaGen",
+		"user": {
+			"id": 886805677640831000,
+			"id_str": "886805677640830977",
+			"name": "黒田玄",
+			"screen_name": "KurodaGen",
+			"location": "",
+			"description": "柏市/KS/UT(Law)/阪神/柏レイソル/旅行/地図/動画製作/マンホールカード/世界遺産検定2級\n\n新旅行記：https://t.co/Ve6yxRBHCw\n暫定旅行記：https://t.co/iezzNNaXdI",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Ve6yxRBHCw",
+							"expanded_url": "https://note.mu/kurodagen",
+							"display_url": "note.mu/kurodagen",
+							"indices": [
+								58,
+								81
+							]
+						},
+						{
+							"url": "https://t.co/iezzNNaXdI",
+							"expanded_url": "http://kurogen.seesaa.net/",
+							"display_url": "kurogen.seesaa.net",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 133,
+			"listed_count": 1,
+			"created_at": "Mon Jul 17 04:32:04 +0000 2017",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2390,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/919911633886908418/IpfD8fKJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/919911633886908418/IpfD8fKJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/886805677640830977/1508117160",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "沖縄県うるま市の海中道路、本島→平安座島→浜比嘉島まで運転した光景です https://t.co/JOQf7Ti7Pr"
+	},
+	{
 		"created_at": "Sat Mar 02 11:08:15 +0000 2019",
 		"id": 1101527521831444500,
 		"id_str": "1101801385375367168",
