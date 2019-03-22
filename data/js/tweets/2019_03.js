@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 21 03:01:52 +0000 2019",
+		"id": 1108493290993840100,
+		"id_str": "1108564352150335489",
+		"full_text": "시리아 입국해 쿠르드 민병대에 가담, IS 격퇴전에 참전한 한국인 남성이 확인됐습니다. 첫 사례입니다. https://t.co/vXhC0ryHRI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vXhC0ryHRI",
+					"expanded_url": "https://www.facebook.com/newscaravan/posts/10156625940667017",
+					"display_url": "facebook.com/newscaravan/po…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4452841,
+			"id_str": "4452841",
+			"name": "노석조 stonebird",
+			"screen_name": "sToneBirD",
+			"location": "Seoul, Republic of Korea",
+			"description": "Correspondent of Chosun ilbo for Two Koreas",
+			"url": "https://t.co/zv69cN2gyS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zv69cN2gyS",
+							"expanded_url": "http://www.stonebird.kr",
+							"display_url": "stonebird.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 363,
+			"friends_count": 827,
+			"listed_count": 19,
+			"created_at": "Fri Apr 13 04:33:54 +0000 2007",
+			"favourites_count": 55,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4020,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/634963570267062272/YSzL74ZX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/634963570267062272/YSzL74ZX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4452841/1407128455",
+			"profile_link_color": "12C73C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "시리아 입국해 쿠르드 민병대에 가담, IS 격퇴전에 참전한 한국인 남성이 확인됐습니다. 첫 사례입니다. https://t.co/vXhC0ryHRI"
+	},
+	{
 		"created_at": "Wed Mar 20 08:36:53 +0000 2019",
 		"id": 1108156931368087600,
 		"id_str": "1108286274278817792",
