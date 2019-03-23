@@ -1,6 +1,874 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 22 09:45:47 +0000 2019",
+		"id": 1108989023022792700,
+		"id_str": "1109028388725907457",
+		"full_text": "737MAX 설계결함을 人災로 부르는 건 책임을 흐리는 명명이다. '원가절감재앙' 또는 '재무합리화재앙' 으로 정확히 명명함이 마땅하다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1698407180,
+			"id_str": "1698407180",
+			"name": "rtspmd",
+			"screen_name": "_4835979",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 516,
+			"friends_count": 126,
+			"listed_count": 18,
+			"created_at": "Sun Aug 25 07:03:38 +0000 2013",
+			"favourites_count": 619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14735,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028301106084896768/nj1Vs9FY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028301106084896768/nj1Vs9FY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1698407180/1534001062",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 226,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "737MAX 설계결함을 人災로 부르는 건 책임을 흐리는 명명이다. '원가절감재앙' 또는 '재무합리화재앙' 으로 정확히 명명함이 마땅하다."
+	},
+	{
+		"created_at": "Fri Mar 22 05:16:07 +0000 2019",
+		"id": 1108328385841782800,
+		"id_str": "1108960525960896513",
+		"full_text": "｢眼科で見るアレ｣のブローチを作ったよ https://t.co/b8Nf80h510",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108328378895982600,
+					"id_str": "1108328378895982592",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D2GSydaUYAAKASI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2GSydaUYAAKASI.jpg",
+					"url": "https://t.co/b8Nf80h510",
+					"display_url": "pic.twitter.com/b8Nf80h510",
+					"expanded_url": "https://twitter.com/ezonegigear/status/1108328385841782784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108328378895982600,
+					"id_str": "1108328378895982592",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D2GSydaUYAAKASI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2GSydaUYAAKASI.jpg",
+					"url": "https://t.co/b8Nf80h510",
+					"display_url": "pic.twitter.com/b8Nf80h510",
+					"expanded_url": "https://twitter.com/ezonegigear/status/1108328385841782784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1108328378900201500,
+					"id_str": "1108328378900201472",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D2GSydbUwAA9ztd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2GSydbUwAA9ztd.jpg",
+					"url": "https://t.co/b8Nf80h510",
+					"display_url": "pic.twitter.com/b8Nf80h510",
+					"expanded_url": "https://twitter.com/ezonegigear/status/1108328385841782784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3219104119,
+			"id_str": "3219104119",
+			"name": "ezonegi",
+			"screen_name": "ezonegigear",
+			"location": "イベント会場",
+			"description": "スチームパンク小娘 えぞねぎと申す ガジェット勉強中 好物は無機物  時空維持装置が故障中なので様々な界隈に出没する",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 563,
+			"friends_count": 385,
+			"listed_count": 21,
+			"created_at": "Mon May 18 07:03:21 +0000 2015",
+			"favourites_count": 14268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14516,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107634081955610624/vRWiJK_3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107634081955610624/vRWiJK_3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3219104119/1441661914",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20196,
+		"favorite_count": 80926,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "｢眼科で見るアレ｣のブローチを作ったよ https://t.co/b8Nf80h510"
+	},
+	{
+		"created_at": "Fri Mar 22 03:48:37 +0000 2019",
+		"id": 1108938503734194200,
+		"id_str": "1108938503734194178",
+		"full_text": "트위터를 잠시(?) 봉인해야 될 듯🤔",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 491,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17152,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터를 잠시(?) 봉인해야 될 듯🤔"
+	},
+	{
+		"created_at": "Fri Mar 22 03:47:59 +0000 2019",
+		"id": 1108738828670390300,
+		"id_str": "1108938345449611267",
+		"full_text": "外務省の、韓国に行っちゃダメだ、危ないから！ってのは日本人が危ないことするからってことなのね。わかりやすい。 https://t.co/qhXAucaX9o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qhXAucaX9o",
+					"expanded_url": "https://twitter.com/cybershottad/status/1108580446311309313",
+					"display_url": "twitter.com/cybershottad/s…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 157597834,
+			"id_str": "157597834",
+			"name": "村本大輔(ウーマンラッシュアワー)",
+			"screen_name": "WRHMURAMOTO",
+			"location": "東京",
+			"description": "ひっそりと聴ける会員制ラジオ始めました「THE SECRET COMEDY SHOW」毎週日曜深夜０時開演 https://t.co/8OMxlZetlP英語勉強してます。発音の先生探し中。",
+			"url": "https://t.co/xZF9wN4mNC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xZF9wN4mNC",
+							"expanded_url": "https://www.instagram.com/p/BfxLFnNFQ_Y/",
+							"display_url": "instagram.com/p/BfxLFnNFQ_Y/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8OMxlZetlP",
+							"expanded_url": "https://bookstand.webdoku.jp/melma_box/page.php?k=wrhmuramoto",
+							"display_url": "bookstand.webdoku.jp/melma_box/page…",
+							"indices": [
+								54,
+								77
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 385737,
+			"friends_count": 753,
+			"listed_count": 3291,
+			"created_at": "Sun Jun 20 08:25:23 +0000 2010",
+			"favourites_count": 4036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 76837,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF1300",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105394018853171200/T1t5cI1g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105394018853171200/T1t5cI1g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/157597834/1553052889",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1108580446311309300,
+		"quoted_status_id_str": "1108580446311309313",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qhXAucaX9o",
+			"expanded": "https://twitter.com/cybershottad/status/1108580446311309313",
+			"display": "twitter.com/cybershottad/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 21 04:05:49 +0000 2019",
+			"id": 1108580446311309300,
+			"id_str": "1108580446311309313",
+			"full_text": "いまの本邦をよく表してると思う。 https://t.co/Nb5iUOtPsN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				16
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1108577192424804400,
+						"id_str": "1108577192424804352",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/D2J1FUCUkAAbNLS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2J1FUCUkAAbNLS.jpg",
+						"url": "https://t.co/Nb5iUOtPsN",
+						"display_url": "pic.twitter.com/Nb5iUOtPsN",
+						"expanded_url": "https://twitter.com/CybershotTad/status/1108580446311309313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1067,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1067,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1108577192424804400,
+						"id_str": "1108577192424804352",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/D2J1FUCUkAAbNLS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2J1FUCUkAAbNLS.jpg",
+						"url": "https://t.co/Nb5iUOtPsN",
+						"display_url": "pic.twitter.com/Nb5iUOtPsN",
+						"expanded_url": "https://twitter.com/CybershotTad/status/1108580446311309313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1067,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1067,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1108577214281347100,
+						"id_str": "1108577214281347072",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/D2J1GldU8AAlv_x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2J1GldU8AAlv_x.jpg",
+						"url": "https://t.co/Nb5iUOtPsN",
+						"display_url": "pic.twitter.com/Nb5iUOtPsN",
+						"expanded_url": "https://twitter.com/CybershotTad/status/1108580446311309313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1076,
+								"h": 605,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1076,
+								"h": 605,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 207687483,
+				"id_str": "207687483",
+				"name": "Tad",
+				"screen_name": "CybershotTad",
+				"location": "",
+				"description": "宮城県。ラジオ、写真、山、相棒、コーヒーが好き。 ヘッダー画像は2016年11月に訪れた銀山温泉",
+				"url": "https://t.co/JOJGd6ES8e",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JOJGd6ES8e",
+								"expanded_url": "https://note.mu/cybershottad",
+								"display_url": "note.mu/cybershottad",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14644,
+				"friends_count": 592,
+				"listed_count": 282,
+				"created_at": "Mon Oct 25 21:00:14 +0000 2010",
+				"favourites_count": 2640,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 38286,
+				"lang": "ja",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/848507470016241664/qkSThxik_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/848507470016241664/qkSThxik_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/207687483/1481103885",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 854,
+			"favorite_count": 1050,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 1321,
+		"favorite_count": 2601,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ja",
+		"text": "外務省の、韓国に行っちゃダメだ、危ないから！ってのは日本人が危ないことするからってことなのね。わかりやすい。 https://t.co/qhXAucaX9o"
+	},
+	{
+		"created_at": "Fri Mar 22 02:22:30 +0000 2019",
+		"id": 1108916831757074400,
+		"id_str": "1108916831757074432",
+		"full_text": "어제 우리 앵무새3호(유리앵무, 만 3개월) 사고로 수술까지 받았다. 다른 것보다도 너무 작아서 마취를 견뎌낼까 걱정했는데 다행히 회복중.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 491,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17152,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어제 우리 앵무새3호(유리앵무, 만 3개월) 사고로 수술까지 받았다. 다른 것보다도 너무 작아서 마취를 견뎌낼까 걱정했는데 다행히 회복중."
+	},
+	{
+		"created_at": "Fri Mar 22 01:33:01 +0000 2019",
+		"id": 1108904382857240600,
+		"id_str": "1108904382857240576",
+		"full_text": "@TorSean 사실 지하철이나 공공장소에서 공격적인 노인들의 대부분이 남성이다보니 권력이라는 표현을 사용하게 되는 것 아닐까 싶기도 합니다.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TorSean",
+					"name": "Tor Sean",
+					"id": 133255001,
+					"id_str": "133255001",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1108898051039494100,
+		"in_reply_to_status_id_str": "1108898051039494144",
+		"in_reply_to_user_id": 133255001,
+		"in_reply_to_user_id_str": "133255001",
+		"in_reply_to_screen_name": "TorSean",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 491,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17152,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@TorSean 사실 지하철이나 공공장소에서 공격적인 노인들의 대부분이 남성이다보니 권력이라는 표현을 사용하게 되는 것 아닐까 싶기도 합니다."
+	},
+	{
 		"created_at": "Thu Mar 21 03:01:52 +0000 2019",
 		"id": 1108493290993840100,
 		"id_str": "1108564352150335489",
