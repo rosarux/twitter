@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 24 12:52:53 +0000 2019",
+		"id": 1109789492724916200,
+		"id_str": "1109800249512517633",
+		"full_text": "今日も一日お疲れ様でした🌈 https://t.co/bQIkyv6avV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109789472638427100,
+					"id_str": "1109789472638427137",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D2bDpTwU4AETHla.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2bDpTwU4AETHla.jpg",
+					"url": "https://t.co/bQIkyv6avV",
+					"display_url": "pic.twitter.com/bQIkyv6avV",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1109789492724916224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109789472638427100,
+					"id_str": "1109789472638427137",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D2bDpTwU4AETHla.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2bDpTwU4AETHla.jpg",
+					"url": "https://t.co/bQIkyv6avV",
+					"display_url": "pic.twitter.com/bQIkyv6avV",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1109789492724916224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1440845558,
+			"id_str": "1440845558",
+			"name": "いけむらたかし",
+			"screen_name": "takashi91mile",
+			"location": "沖縄県❂okinawa-japan",
+			"description": "沖縄の景色を色んな人と楽しめて嬉しいです。沖縄の素晴らしい景色を色んな人に伝えたい。よろしくお願いします🌈【趣味】音楽･野球･読書",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23781,
+			"friends_count": 20458,
+			"listed_count": 221,
+			"created_at": "Sun May 19 10:43:57 +0000 2013",
+			"favourites_count": 43329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4174,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1440845558/1550065457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 274,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今日も一日お疲れ様でした🌈 https://t.co/bQIkyv6avV"
+	},
+	{
+		"created_at": "Sun Mar 24 11:51:09 +0000 2019",
+		"id": 1108955862876323800,
+		"id_str": "1109784716469661696",
+		"full_text": "イチローのおもしろTシャツ集めてみた。 https://t.co/m19zcbGs9C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108955851501371400,
+					"id_str": "1108955851501371392",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D2PNeLBUgAAGy6Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2PNeLBUgAAGy6Y.jpg",
+					"url": "https://t.co/m19zcbGs9C",
+					"display_url": "pic.twitter.com/m19zcbGs9C",
+					"expanded_url": "https://twitter.com/umiuminemui/status/1108955862876323840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108955851501371400,
+					"id_str": "1108955851501371392",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D2PNeLBUgAAGy6Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2PNeLBUgAAGy6Y.jpg",
+					"url": "https://t.co/m19zcbGs9C",
+					"display_url": "pic.twitter.com/m19zcbGs9C",
+					"expanded_url": "https://twitter.com/umiuminemui/status/1108955862876323840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1108955851539177500,
+					"id_str": "1108955851539177472",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D2PNeLKVYAAJPFi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2PNeLKVYAAJPFi.jpg",
+					"url": "https://t.co/m19zcbGs9C",
+					"display_url": "pic.twitter.com/m19zcbGs9C",
+					"expanded_url": "https://twitter.com/umiuminemui/status/1108955862876323840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1108955851505598500,
+					"id_str": "1108955851505598464",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D2PNeLCVAAA6DEI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2PNeLCVAAA6DEI.jpg",
+					"url": "https://t.co/m19zcbGs9C",
+					"display_url": "pic.twitter.com/m19zcbGs9C",
+					"expanded_url": "https://twitter.com/umiuminemui/status/1108955862876323840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1108955851530764300,
+					"id_str": "1108955851530764289",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D2PNeLIVAAEWOb4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2PNeLIVAAEWOb4.jpg",
+					"url": "https://t.co/m19zcbGs9C",
+					"display_url": "pic.twitter.com/m19zcbGs9C",
+					"expanded_url": "https://twitter.com/umiuminemui/status/1108955862876323840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 956754817040334800,
+			"id_str": "956754817040334849",
+			"name": "うみちゃん",
+			"screen_name": "umiuminemui",
+			"location": "",
+			"description": "初めましてからやり直そ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15696,
+			"friends_count": 84,
+			"listed_count": 63,
+			"created_at": "Fri Jan 26 05:04:58 +0000 2018",
+			"favourites_count": 7807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1472,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1109120799485521920/qFpZofun_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1109120799485521920/qFpZofun_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/956754817040334849/1551760830",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32186,
+		"favorite_count": 101455,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "イチローのおもしろTシャツ集めてみた。 https://t.co/m19zcbGs9C"
+	},
+	{
+		"created_at": "Sun Mar 24 11:41:29 +0000 2019",
+		"id": 1109778996181397500,
+		"id_str": "1109782283534233601",
+		"full_text": "1950년대생과 1960년대생의 역전이 조금 빠른 건 사실인데, 이는 1990년대말 외환위기 여파로 1950년대생이 가장 타격을 봤기 때문. 외환 위기가 온 건 1960년대생 탓이 아니잖은가? 이른바 ‘386’을 미워하는 사람들은 흔히 소득 불평등을 세대로 나누는데, 진짜 문제 삼을 건 ‘외환위기 체제’.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1109767708554387500,
+		"in_reply_to_status_id_str": "1109767708554387457",
+		"in_reply_to_user_id": 133255001,
+		"in_reply_to_user_id_str": "133255001",
+		"in_reply_to_screen_name": "TorSean",
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 994,
+			"friends_count": 354,
+			"listed_count": 23,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16337,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "1950년대생과 1960년대생의 역전이 조금 빠른 건 사실인데, 이는 1990년대말 외환위기 여파로 1950년대생이 가장 타격을 봤기 때문. 외환 위기가 온 건 1960년대생 탓이 아니잖은가? 이른바 ‘386’을 미워하는 사람들은 흔히 소득 불평등을 세대로 나누는데, 진짜 문제 삼을 건 ‘외환위기 체제’."
+	},
+	{
 		"created_at": "Fri Mar 22 09:45:47 +0000 2019",
 		"id": 1108989023022792700,
 		"id_str": "1109028388725907457",
