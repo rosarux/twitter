@@ -1,6 +1,567 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 11:56:24 +0000 2019",
+		"id": 1114133594983759900,
+		"id_str": "1114134690154209281",
+		"full_text": "SPECIAL FEATURE: Dark Tourism and the History of Imperial and Contemporary Japan\n\nFrom “Convict” to “Victim”: Commemorating Laborers on Hokkaido’s Central Road\n\nJesús Solís \n\nhttps://t.co/Bui8lMjaWw\n\nCc: @HistoryPolicy \n\n#網走 https://t.co/hV6uc4Giak",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "網走",
+					"indices": [
+						221,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HistoryPolicy",
+					"name": "History & Policy",
+					"id": 77254582,
+					"id_str": "77254582",
+					"indices": [
+						204,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Bui8lMjaWw",
+					"expanded_url": "https://apjjf.org/2019/06/Solis.html",
+					"display_url": "apjjf.org/2019/06/Solis.…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1114133592832139300,
+					"id_str": "1114133592832139265",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/D3YymYkW4AEG1lk.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3YymYkW4AEG1lk.png",
+					"url": "https://t.co/hV6uc4Giak",
+					"display_url": "pic.twitter.com/hV6uc4Giak",
+					"expanded_url": "https://twitter.com/apjjf/status/1114133594983759872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 599,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 599,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114133592832139300,
+					"id_str": "1114133592832139265",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/D3YymYkW4AEG1lk.png",
+					"media_url_https": "https://pbs.twimg.com/media/D3YymYkW4AEG1lk.png",
+					"url": "https://t.co/hV6uc4Giak",
+					"display_url": "pic.twitter.com/hV6uc4Giak",
+					"expanded_url": "https://twitter.com/apjjf/status/1114133594983759872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 599,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 599,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105521430,
+			"id_str": "105521430",
+			"name": "Asia-Pacific Journal",
+			"screen_name": "apjjf",
+			"location": "Global",
+			"description": "In-depth critical analysis of the forces shaping the Asia-Pacific region & the world.　RTs, follows, mentions, listing, etc. are not endorsements.",
+			"url": "https://t.co/GRfPGHSEb4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GRfPGHSEb4",
+							"expanded_url": "http://www.apjjf.org",
+							"display_url": "apjjf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7202,
+			"friends_count": 796,
+			"listed_count": 525,
+			"created_at": "Sat Jan 16 16:11:14 +0000 2010",
+			"favourites_count": 13681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13660,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F1DF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105521430/1538965210",
+			"profile_link_color": "572E4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EE0B5B",
+			"profile_text_color": "027B7F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SPECIAL FEATURE: Dark Tourism and the History of Imperial and Contemporary Japan\n\nFrom “Convict” to “Victim”: Commemorating Laborers on Hokkaido’s Central Road\n\nJesús Solís \n\nhttps://t.co/Bui8lMjaWw\n\nCc: @HistoryPolicy \n\n#網走 https://t.co/hV6uc4Giak"
+	},
+	{
+		"created_at": "Fri Apr 05 11:32:17 +0000 2019",
+		"id": 1114128622707589100,
+		"id_str": "1114128622707589120",
+		"full_text": "https://t.co/veY7XvKeUG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114128608937664500,
+					"id_str": "1114128608937664512",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D3YuESHUYAA8ERT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3YuESHUYAA8ERT.jpg",
+					"url": "https://t.co/veY7XvKeUG",
+					"display_url": "pic.twitter.com/veY7XvKeUG",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1114128622707589120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114128608937664500,
+					"id_str": "1114128608937664512",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D3YuESHUYAA8ERT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3YuESHUYAA8ERT.jpg",
+					"url": "https://t.co/veY7XvKeUG",
+					"display_url": "pic.twitter.com/veY7XvKeUG",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1114128622707589120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577,
+			"friends_count": 489,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17169,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/veY7XvKeUG"
+	},
+	{
+		"created_at": "Fri Apr 05 08:16:38 +0000 2019",
+		"id": 1113726976320131100,
+		"id_str": "1114079383344386048",
+		"full_text": "入社式、すげえな日本…\n普通年が逆だろう https://t.co/r4z8bnApMi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113726971827982300,
+					"id_str": "1113726971827982336",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D3TAx7SUEAAdpJN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3TAx7SUEAAdpJN.jpg",
+					"url": "https://t.co/r4z8bnApMi",
+					"display_url": "pic.twitter.com/r4z8bnApMi",
+					"expanded_url": "https://twitter.com/tokkuns1917/status/1113726976320131072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 616,
+							"h": 852,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 616,
+							"h": 852,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113726971827982300,
+					"id_str": "1113726971827982336",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D3TAx7SUEAAdpJN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3TAx7SUEAAdpJN.jpg",
+					"url": "https://t.co/r4z8bnApMi",
+					"display_url": "pic.twitter.com/r4z8bnApMi",
+					"expanded_url": "https://twitter.com/tokkuns1917/status/1113726976320131072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 616,
+							"h": 852,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 616,
+							"h": 852,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1113726971823837200,
+					"id_str": "1113726971823837184",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/D3TAx7RU0AApLVb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3TAx7RU0AApLVb.jpg",
+					"url": "https://t.co/r4z8bnApMi",
+					"display_url": "pic.twitter.com/r4z8bnApMi",
+					"expanded_url": "https://twitter.com/tokkuns1917/status/1113726976320131072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 646,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 646,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 414794043,
+			"id_str": "414794043",
+			"name": "Tokkuns",
+			"screen_name": "tokkuns1917",
+			"location": "",
+			"description": "Anti Racism！ No Nuclear！ 環境派、生き物の権利を守ろう！小説、評論、短歌、車とバイク、幾つになってもバイクは下りない。ギターとドラムやってます。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 881,
+			"friends_count": 999,
+			"listed_count": 9,
+			"created_at": "Thu Nov 17 14:03:01 +0000 2011",
+			"favourites_count": 5395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52835,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113994915845791745/a5xien7d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113994915845791745/a5xien7d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/414794043/1554432123",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10313,
+		"favorite_count": 24254,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ja",
+		"text": "入社式、すげえな日本…\n普通年が逆だろう https://t.co/r4z8bnApMi"
+	},
+	{
 		"created_at": "Wed Apr 03 09:43:28 +0000 2019",
 		"id": 1113352170240303100,
 		"id_str": "1113376460637474816",
