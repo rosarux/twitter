@@ -1,6 +1,564 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 18:07:49 +0000 2019",
+		"id": 1115192735235862500,
+		"id_str": "1115315324872581126",
+		"full_text": "陽光 https://t.co/5B2oCqmC2Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115192721621151700,
+					"id_str": "1115192721621151746",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/D3n13yxUcAIL4cp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3n13yxUcAIL4cp.jpg",
+					"url": "https://t.co/5B2oCqmC2Q",
+					"display_url": "pic.twitter.com/5B2oCqmC2Q",
+					"expanded_url": "https://twitter.com/F_M_U/status/1115192735235862528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 709,
+							"h": 362,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 347,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 709,
+							"h": 362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115192721621151700,
+					"id_str": "1115192721621151746",
+					"indices": [
+						3,
+						26
+					],
+					"media_url": "http://pbs.twimg.com/media/D3n13yxUcAIL4cp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3n13yxUcAIL4cp.jpg",
+					"url": "https://t.co/5B2oCqmC2Q",
+					"display_url": "pic.twitter.com/5B2oCqmC2Q",
+					"expanded_url": "https://twitter.com/F_M_U/status/1115192735235862528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 709,
+							"h": 362,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 347,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 709,
+							"h": 362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 96928584,
+			"id_str": "96928584",
+			"name": "中村豪志",
+			"screen_name": "F_M_U",
+			"location": "東京都練馬区",
+			"description": "書籍や玩具用などにメカ系の絵を描くイラストレーター。たまにグループ展などにも参加します。いただいたコメントにレスするのがニガテ。  お仕事のご依頼は chronosolar@gmail.com よりお願い致します。  インスタゆるゆる構築中 https://t.co/u1nTuqctin",
+			"url": "https://t.co/y91k4LYUIz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y91k4LYUIz",
+							"expanded_url": "http://www1.wisnet.ne.jp/~daydream/",
+							"display_url": "www1.wisnet.ne.jp/~daydream/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/u1nTuqctin",
+							"expanded_url": "https://www.instagram.com/chronosolar/",
+							"display_url": "instagram.com/chronosolar/",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10389,
+			"friends_count": 330,
+			"listed_count": 319,
+			"created_at": "Tue Dec 15 06:36:20 +0000 2009",
+			"favourites_count": 2508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3832,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876076375399989249/JKamcgCD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876076375399989249/JKamcgCD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/96928584/1506875341",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1153,
+		"favorite_count": 3006,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "陽光 https://t.co/5B2oCqmC2Q"
+	},
+	{
+		"created_at": "Mon Apr 08 14:42:40 +0000 2019",
+		"id": 1115198094793166800,
+		"id_str": "1115263697457274880",
+		"full_text": "これは必見。鳥肌が立ってしまった。\n\n南スーダンの少年兵がある日突然誘拐され、3年後に組織を脱退するまでのアニメーション。\n\n「銃の引き金を引く時、いつも目を瞑っていた。同じ村の人たちを殺したくなかった」\n\n全てが実話。未だに19,000人以上の子どもが戦わされている。https://t.co/hf8743dJ5p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093551501153312800,
+					"id_str": "1093551501153312769",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy0VFsAWsAAQgWY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy0VFsAWsAAQgWY.jpg",
+					"url": "https://t.co/hf8743dJ5p",
+					"display_url": "pic.twitter.com/hf8743dJ5p",
+					"expanded_url": "https://twitter.com/UNICEF/status/1095324142717554689/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1095324142717554700,
+					"source_status_id_str": "1095324142717554689",
+					"source_user_id": 33933259,
+					"source_user_id_str": "33933259"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093551501153312800,
+					"id_str": "1093551501153312769",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy0VFsAWsAAQgWY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy0VFsAWsAAQgWY.jpg",
+					"url": "https://t.co/hf8743dJ5p",
+					"display_url": "pic.twitter.com/hf8743dJ5p",
+					"expanded_url": "https://twitter.com/UNICEF/status/1095324142717554689/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1095324142717554700,
+					"source_status_id_str": "1095324142717554689",
+					"source_user_id": 33933259,
+					"source_user_id_str": "33933259",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 160720,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1093551501153312769/vid/320x320/2rUBQ5bxCOI3klgT.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1093551501153312769/vid/480x480/9I4bNe_Xxscd5ksq.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1093551501153312769/pl/DDDPjoqD8aeyKJsS.m3u8?tag=9"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1093551501153312769/vid/720x720/EtL7d1V3IhSAho_8.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "A soldier at 14",
+						"description": "UNICEF is calling for the release of over 19,000 children used by armed groups and forces in South Sudan.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://uni.cf/HAC19"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 33933259,
+							"id_str": "33933259",
+							"name": "UNICEF",
+							"screen_name": "UNICEF",
+							"location": "",
+							"description": "1 million children are affected by Cyclone Idai. You can help:",
+							"url": "https://t.co/V86i9XqAkS",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/V86i9XqAkS",
+											"expanded_url": "https://uni.cf/2FpyEPG",
+											"display_url": "uni.cf/2FpyEPG",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 7498250,
+							"friends_count": 24429,
+							"listed_count": 27253,
+							"created_at": "Tue Apr 21 15:16:12 +0000 2009",
+							"favourites_count": 9738,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 41934,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "141414",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/808330362417979392/AdiQ86lk_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/808330362417979392/AdiQ86lk_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/33933259/1549658321",
+							"profile_link_color": "1CABE2",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "E0E0E0",
+							"profile_text_color": "666666",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1616729371,
+			"id_str": "1616729371",
+			"name": "原貫太 / フリーランス国際協力師",
+			"screen_name": "kantahara",
+			"location": "Uganda",
+			"description": "自由に働きながら世界を変える「新しい国際協力」を追求しています。在学中にNGOを起業しアフリカ支援に携わるも卒業後うつ病を発症。2019年からフリーランスに転向し、ウガンダで草の根支援に携わりながらYouTubeやブログで情報発信中です【著書】世界を無視しない大人になるためにhttps://t.co/JcTNtI9ddO",
+			"url": "https://t.co/iQzTS4e9nP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iQzTS4e9nP",
+							"expanded_url": "https://www.kantahara.com/entry/contact",
+							"display_url": "kantahara.com/entry/contact",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JcTNtI9ddO",
+							"expanded_url": "http://amzn.to/2inri69",
+							"display_url": "amzn.to/2inri69",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7122,
+			"friends_count": 326,
+			"listed_count": 90,
+			"created_at": "Wed Jul 24 03:22:58 +0000 2013",
+			"favourites_count": 7487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16218,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/922689034752638976/qosQGd61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/922689034752638976/qosQGd61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1616729371/1547203389",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1615,
+		"favorite_count": 2614,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "これは必見。鳥肌が立ってしまった。\n\n南スーダンの少年兵がある日突然誘拐され、3年後に組織を脱退するまでのアニメーション。\n\n「銃の引き金を引く時、いつも目を瞑っていた。同じ村の人たちを殺したくなかった」\n\n全てが実話。未だに19,000人以上の子どもが戦わされている。https://t.co/hf8743dJ5p"
+	},
+	{
+		"created_at": "Mon Apr 08 12:19:18 +0000 2019",
+		"id": 1115227618750550000,
+		"id_str": "1115227618750550016",
+		"full_text": "작년에 아라사키 센세가 돌아가시고...이제 한분, 두분...😢",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1115227378354012200,
+		"in_reply_to_status_id_str": "1115227378354012160",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 578,
+			"friends_count": 488,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17177,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "작년에 아라사키 센세가 돌아가시고...이제 한분, 두분...😢"
+	},
+	{
 		"created_at": "Sun Apr 07 05:36:22 +0000 2019",
 		"id": 1114758856834338800,
 		"id_str": "1114763825801093121",
