@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 10 00:07:01 +0000 2019",
+		"id": 1115768109716004900,
+		"id_str": "1115768109716004864",
+		"full_text": "여의도 떠난 지 10일째",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 578,
+			"friends_count": 489,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17181,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "여의도 떠난 지 10일째"
+	},
+	{
+		"created_at": "Tue Apr 09 21:43:24 +0000 2019",
+		"id": 1115641140881924100,
+		"id_str": "1115731964512751617",
+		"full_text": "空自によると、消息を絶ったのは、空自三沢基地の第３航空団第３０２飛行隊に所属するＦ３５Ａで、三菱重工業が組み立てを担当した国内製造の初号機。 https://t.co/qCyavUo4uU @jijicomさんから",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jijicom",
+					"name": "時事ドットコム（時事通信ニュース）",
+					"id": 143383314,
+					"id_str": "143383314",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qCyavUo4uU",
+					"expanded_url": "https://www.jiji.com/jc/article?k=2019040901145&g=soc",
+					"display_url": "jiji.com/jc/article?k=2…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1186987604,
+			"id_str": "1186987604",
+			"name": "Chota Takamine 高嶺　朝太",
+			"screen_name": "tctnews",
+			"location": "Okinawa",
+			"description": "翻訳者、ジャーナリスト  T&CT Office  編集責任者  Translator, editor and journalist.  「調査報道実践マニュアル 」（旬報社）共訳、「中国・北朝鮮脅威論を超えて」（耕文社 ）共著。",
+			"url": "http://t.co/dsi9KwOW1a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/dsi9KwOW1a",
+							"expanded_url": "http://english.ryukyushimpo.jp/",
+							"display_url": "english.ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 197,
+			"listed_count": 79,
+			"created_at": "Sat Feb 16 18:02:15 +0000 2013",
+			"favourites_count": 406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10322,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762248809514536961/LLdQMYAs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762248809514536961/LLdQMYAs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1186987604/1525591151",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "空自によると、消息を絶ったのは、空自三沢基地の第３航空団第３０２飛行隊に所属するＦ３５Ａで、三菱重工業が組み立てを担当した国内製造の初号機。 https://t.co/qCyavUo4uU @jijicomさんから"
+	},
+	{
+		"created_at": "Tue Apr 09 12:07:45 +0000 2019",
+		"id": 1115490102715641900,
+		"id_str": "1115587099577597953",
+		"full_text": "점심을 먹기도 전에 기안84에 대한 비판은 노동계급에 대한 혐오라는 주장과 5.18 북한군 개입 음모론을 주장한 김순례 의원에 대한 비판은 여성에 대한 도덕적 검열을 공고히 한다는 주장을 들었는데 제발 오늘 하루 동안 겪을 고통은 이것이 전부였으면 한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 315583544,
+			"id_str": "315583544",
+			"name": "피어스 호th론",
+			"screen_name": "sub_plot",
+			"location": "",
+			"description": "답은 헤러시다 은하계를 불태워라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12444,
+			"friends_count": 11674,
+			"listed_count": 159,
+			"created_at": "Sun Jun 12 03:34:43 +0000 2011",
+			"favourites_count": 815565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12105,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/543864389233692672/Iv92TTlQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/543864389233692672/Iv92TTlQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/315583544/1356864547",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 169,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "점심을 먹기도 전에 기안84에 대한 비판은 노동계급에 대한 혐오라는 주장과 5.18 북한군 개입 음모론을 주장한 김순례 의원에 대한 비판은 여성에 대한 도덕적 검열을 공고히 한다는 주장을 들었는데 제발 오늘 하루 동안 겪을 고통은 이것이 전부였으면 한다."
+	},
+	{
 		"created_at": "Mon Apr 08 18:07:49 +0000 2019",
 		"id": 1115192735235862500,
 		"id_str": "1115315324872581126",
