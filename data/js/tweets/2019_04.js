@@ -1,6 +1,1442 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 13 13:03:09 +0000 2019",
+		"id": 1117041288061173800,
+		"id_str": "1117050592436690944",
+		"full_text": "전기가오리가 매달 오면 뿌듯하지만 읽지는 않는 사람들의 모임",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104698624120840200,
+			"id_str": "1104698624120840193",
+			"name": "브리또녀",
+			"screen_name": "imbrieto",
+			"location": "브라자(브리라슨을 사랑하는 자)",
+			"description": "\"K팝 좋아하듯 브리라슨 좋아했다\"",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 818,
+			"friends_count": 69,
+			"listed_count": 4,
+			"created_at": "Sun Mar 10 11:00:51 +0000 2019",
+			"favourites_count": 888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2244,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116505166134439937/hMMUq0xZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116505166134439937/hMMUq0xZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104698624120840193/1552720856",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "전기가오리가 매달 오면 뿌듯하지만 읽지는 않는 사람들의 모임"
+	},
+	{
+		"created_at": "Sat Apr 13 11:58:31 +0000 2019",
+		"id": 1117034324656713700,
+		"id_str": "1117034324656713728",
+		"full_text": "https://t.co/h5dIwGqpvl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h5dIwGqpvl",
+					"expanded_url": "https://twitter.com/i/moments/1044560421926068224",
+					"display_url": "twitter.com/i/moments/1044…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577,
+			"friends_count": 493,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17193,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/h5dIwGqpvl"
+	},
+	{
+		"created_at": "Sat Apr 13 11:48:46 +0000 2019",
+		"id": 1117031871907426300,
+		"id_str": "1117031871907426304",
+		"full_text": "https://t.co/eliGy7adas",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eliGy7adas",
+					"expanded_url": "https://twitter.com/i/moments/1117025851206291456",
+					"display_url": "twitter.com/i/moments/1117…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577,
+			"friends_count": 493,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17193,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/eliGy7adas"
+	},
+	{
+		"created_at": "Sat Apr 13 10:06:08 +0000 2019",
+		"id": 1116999200984617000,
+		"id_str": "1117006042016047105",
+		"full_text": "「よみがえる沖縄1935」シリーズの再カラー化は，これでひと段落です。また来年の春，試みます。またお会いしましょう。 https://t.co/XP3ZepT2wo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XP3ZepT2wo",
+					"expanded_url": "https://twitter.com/hwtnv/status/1116849155781976064",
+					"display_url": "twitter.com/hwtnv/status/1…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2236711,
+			"id_str": "2236711",
+			"name": "渡邉英徳",
+			"screen_name": "hwtnv",
+			"location": "Bunkyo-ku, Tokyo",
+			"description": "Hidenori Watanave, Ph.D. 東京大学 大学院情報学環・学際情報学府 教授 Professor at The University of Tokyo III / GSII",
+			"url": "https://t.co/7pMPaEx0VH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pMPaEx0VH",
+							"expanded_url": "https://researchmap.jp/hwtnv/",
+							"display_url": "researchmap.jp/hwtnv/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28881,
+			"friends_count": 372,
+			"listed_count": 860,
+			"created_at": "Mon Mar 26 01:54:31 +0000 2007",
+			"favourites_count": 33017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 116222,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113579750142791680/toXlXuJc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113579750142791680/toXlXuJc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2236711/1554867081",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1116849155781976000,
+		"quoted_status_id_str": "1116849155781976064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XP3ZepT2wo",
+			"expanded": "https://twitter.com/hwtnv/status/1116849155781976064",
+			"display": "twitter.com/hwtnv/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 12 23:42:43 +0000 2019",
+			"id": 1116849155781976000,
+			"id_str": "1116849155781976064",
+			"full_text": "戦前の沖縄・糸満の女性。1935年に朝日新聞社のカメラマンが撮影した写真。こちらも一年ぶりに再カラー化してみました。 https://t.co/xtulx2yQ19",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1116849089361014800,
+						"id_str": "1116849089361014785",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/D3_YVFcU8AEExr5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3_YVFcU8AEExr5.jpg",
+						"url": "https://t.co/xtulx2yQ19",
+						"display_url": "pic.twitter.com/xtulx2yQ19",
+						"expanded_url": "https://twitter.com/hwtnv/status/1116849155781976064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 449,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1353,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 793,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1116849089361014800,
+						"id_str": "1116849089361014785",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/D3_YVFcU8AEExr5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3_YVFcU8AEExr5.jpg",
+						"url": "https://t.co/xtulx2yQ19",
+						"display_url": "pic.twitter.com/xtulx2yQ19",
+						"expanded_url": "https://twitter.com/hwtnv/status/1116849155781976064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 449,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1353,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 793,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2236711,
+				"id_str": "2236711",
+				"name": "渡邉英徳",
+				"screen_name": "hwtnv",
+				"location": "Bunkyo-ku, Tokyo",
+				"description": "Hidenori Watanave, Ph.D. 東京大学 大学院情報学環・学際情報学府 教授 Professor at The University of Tokyo III / GSII",
+				"url": "https://t.co/7pMPaEx0VH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7pMPaEx0VH",
+								"expanded_url": "https://researchmap.jp/hwtnv/",
+								"display_url": "researchmap.jp/hwtnv/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28881,
+				"friends_count": 372,
+				"listed_count": 860,
+				"created_at": "Mon Mar 26 01:54:31 +0000 2007",
+				"favourites_count": 33017,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 116222,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1113579750142791680/toXlXuJc_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113579750142791680/toXlXuJc_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2236711/1554867081",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 328,
+			"favorite_count": 990,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 33,
+		"favorite_count": 156,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「よみがえる沖縄1935」シリーズの再カラー化は，これでひと段落です。また来年の春，試みます。またお会いしましょう。 https://t.co/XP3ZepT2wo"
+	},
+	{
+		"created_at": "Sat Apr 13 09:29:01 +0000 2019",
+		"id": 1116974543665426400,
+		"id_str": "1116996704966811648",
+		"full_text": "戦前の沖縄の人々。1935年に朝日新聞社のカメラマンが撮影した写真。1年ぶりに再カラー化してみました。 https://t.co/81iNOS3uNl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116974534450503700,
+					"id_str": "1116974534450503680",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/D4BKa80UYAA5MLm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4BKa80UYAA5MLm.jpg",
+					"url": "https://t.co/81iNOS3uNl",
+					"display_url": "pic.twitter.com/81iNOS3uNl",
+					"expanded_url": "https://twitter.com/hwtnv/status/1116974543665426432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1353,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116974534450503700,
+					"id_str": "1116974534450503680",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/D4BKa80UYAA5MLm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4BKa80UYAA5MLm.jpg",
+					"url": "https://t.co/81iNOS3uNl",
+					"display_url": "pic.twitter.com/81iNOS3uNl",
+					"expanded_url": "https://twitter.com/hwtnv/status/1116974543665426432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1353,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2236711,
+			"id_str": "2236711",
+			"name": "渡邉英徳",
+			"screen_name": "hwtnv",
+			"location": "Bunkyo-ku, Tokyo",
+			"description": "Hidenori Watanave, Ph.D. 東京大学 大学院情報学環・学際情報学府 教授 Professor at The University of Tokyo III / GSII",
+			"url": "https://t.co/7pMPaEx0VH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pMPaEx0VH",
+							"expanded_url": "https://researchmap.jp/hwtnv/",
+							"display_url": "researchmap.jp/hwtnv/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28881,
+			"friends_count": 372,
+			"listed_count": 860,
+			"created_at": "Mon Mar 26 01:54:31 +0000 2007",
+			"favourites_count": 33017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 116222,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113579750142791680/toXlXuJc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113579750142791680/toXlXuJc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2236711/1554867081",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 158,
+		"favorite_count": 453,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "戦前の沖縄の人々。1935年に朝日新聞社のカメラマンが撮影した写真。1年ぶりに再カラー化してみました。 https://t.co/81iNOS3uNl"
+	},
+	{
+		"created_at": "Sat Apr 13 08:56:20 +0000 2019",
+		"id": 1116953533943697400,
+		"id_str": "1116988477747253248",
+		"full_text": "戦前の沖縄の街並み。1935年に朝日新聞社のカメラマンが撮影した写真。1年ぶりに再カラー化してみました。 https://t.co/OUE6qtEwcW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116953524766556200,
+					"id_str": "1116953524766556161",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/D4A3UBpUwAESsuw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4A3UBpUwAESsuw.jpg",
+					"url": "https://t.co/OUE6qtEwcW",
+					"display_url": "pic.twitter.com/OUE6qtEwcW",
+					"expanded_url": "https://twitter.com/hwtnv/status/1116953533943697408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1353,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116953524766556200,
+					"id_str": "1116953524766556161",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/D4A3UBpUwAESsuw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4A3UBpUwAESsuw.jpg",
+					"url": "https://t.co/OUE6qtEwcW",
+					"display_url": "pic.twitter.com/OUE6qtEwcW",
+					"expanded_url": "https://twitter.com/hwtnv/status/1116953533943697408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 793,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1353,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2236711,
+			"id_str": "2236711",
+			"name": "渡邉英徳",
+			"screen_name": "hwtnv",
+			"location": "Bunkyo-ku, Tokyo",
+			"description": "Hidenori Watanave, Ph.D. 東京大学 大学院情報学環・学際情報学府 教授 Professor at The University of Tokyo III / GSII",
+			"url": "https://t.co/7pMPaEx0VH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pMPaEx0VH",
+							"expanded_url": "https://researchmap.jp/hwtnv/",
+							"display_url": "researchmap.jp/hwtnv/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28881,
+			"friends_count": 372,
+			"listed_count": 860,
+			"created_at": "Mon Mar 26 01:54:31 +0000 2007",
+			"favourites_count": 33017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 116222,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113579750142791680/toXlXuJc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113579750142791680/toXlXuJc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2236711/1554867081",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 171,
+		"favorite_count": 424,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "戦前の沖縄の街並み。1935年に朝日新聞社のカメラマンが撮影した写真。1年ぶりに再カラー化してみました。 https://t.co/OUE6qtEwcW"
+	},
+	{
+		"created_at": "Sat Apr 13 08:52:23 +0000 2019",
+		"id": 1116958496912597000,
+		"id_str": "1116987484779323392",
+		"full_text": "戦前の沖縄の女学生たち。ぬかるみを裸足で歩いている。1935年に朝日新聞社のカメラマンが撮影した写真を，1年ぶりに再カラー化してみました。 https://t.co/RBObkUGi8X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116958485994856400,
+					"id_str": "1116958485994856449",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D4A70zqU4AEZNfd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4A70zqU4AEZNfd.jpg",
+					"url": "https://t.co/RBObkUGi8X",
+					"display_url": "pic.twitter.com/RBObkUGi8X",
+					"expanded_url": "https://twitter.com/hwtnv/status/1116958496912596992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1345,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116958485994856400,
+					"id_str": "1116958485994856449",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/D4A70zqU4AEZNfd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4A70zqU4AEZNfd.jpg",
+					"url": "https://t.co/RBObkUGi8X",
+					"display_url": "pic.twitter.com/RBObkUGi8X",
+					"expanded_url": "https://twitter.com/hwtnv/status/1116958496912596992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1345,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2236711,
+			"id_str": "2236711",
+			"name": "渡邉英徳",
+			"screen_name": "hwtnv",
+			"location": "Bunkyo-ku, Tokyo",
+			"description": "Hidenori Watanave, Ph.D. 東京大学 大学院情報学環・学際情報学府 教授 Professor at The University of Tokyo III / GSII",
+			"url": "https://t.co/7pMPaEx0VH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pMPaEx0VH",
+							"expanded_url": "https://researchmap.jp/hwtnv/",
+							"display_url": "researchmap.jp/hwtnv/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28881,
+			"friends_count": 372,
+			"listed_count": 860,
+			"created_at": "Mon Mar 26 01:54:31 +0000 2007",
+			"favourites_count": 33017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 116222,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113579750142791680/toXlXuJc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113579750142791680/toXlXuJc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2236711/1554867081",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 251,
+		"favorite_count": 666,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "戦前の沖縄の女学生たち。ぬかるみを裸足で歩いている。1935年に朝日新聞社のカメラマンが撮影した写真を，1年ぶりに再カラー化してみました。 https://t.co/RBObkUGi8X"
+	},
+	{
+		"created_at": "Sat Apr 13 04:31:59 +0000 2019",
+		"id": 1116879446076604400,
+		"id_str": "1116921953237868545",
+		"full_text": "\"여성학을 탄생시킨 것은 페미니즘이라는 여성운동입니다만, 페미니즘은 결코 남자처럼 행동하거나 약자가 강자가 되겠다는 사상이 아닙니다. 페미니즘은 약자가 그저 있는 그대로 존중받을 수 있도록 요구하는 사상입니다.\" 이 말 너무 좋다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 777391994,
+			"id_str": "777391994",
+			"name": "낙태죄 폐지🥳 이엔 🏳️‍🌈",
+			"screen_name": "misosmisogyny",
+			"location": "",
+			"description": "#Girlscandoanything 🙆🏻‍♀️ 만성 페미니스트/ 극심한 내향 인간/ 실수하고 반성하며 지속적으로 업데이트하려고 노력 중/ 챙김받을 생각 없으니 안 맞는다 싶으면 블락 추천/ 믿는페미",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2741,
+			"friends_count": 293,
+			"listed_count": 29,
+			"created_at": "Fri Aug 24 04:26:05 +0000 2012",
+			"favourites_count": 1320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 110285,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079745977626447874/bnlZXsIf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079745977626447874/bnlZXsIf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/777391994/1510662985",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 462,
+		"favorite_count": 300,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"여성학을 탄생시킨 것은 페미니즘이라는 여성운동입니다만, 페미니즘은 결코 남자처럼 행동하거나 약자가 강자가 되겠다는 사상이 아닙니다. 페미니즘은 약자가 그저 있는 그대로 존중받을 수 있도록 요구하는 사상입니다.\" 이 말 너무 좋다."
+	},
+	{
+		"created_at": "Sat Apr 13 00:48:56 +0000 2019",
+		"id": 1116699539467931600,
+		"id_str": "1116865820645150720",
+		"full_text": "「がんばっても報われない社会が待っている」東大の入学式での上野千鶴子さんの講演全文がここで読めます。素晴らしい講演です。 https://t.co/3uR1oqEzE7 @ciaoliviaさんから",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ciaolivia",
+					"name": "伊吹早織 Saori Ibuki",
+					"id": 122891225,
+					"id_str": "122891225",
+					"indices": [
+						85,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3uR1oqEzE7",
+					"expanded_url": "https://www.buzzfeed.com/jp/saoriibuki/tokyo-uni?utm_source=dynamic&utm_campaign=bfsharetwitter",
+					"display_url": "buzzfeed.com/jp/saoriibuki/…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104393476,
+			"id_str": "104393476",
+			"name": "大友良英　otomo yoshihide",
+			"screen_name": "otomojamjam",
+			"location": "呼ばれればどこへでも",
+			"description": "よくフライングします。普段は映画やTVの音楽をつくったり、展示できる音楽をつくったり、即興演奏したり。なによりギター弾くのが好きです。最近、物忘れ、どんどんひどくなってます。ボケていくのかなあ。",
+			"url": "http://t.co/wvXqaXtoDe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wvXqaXtoDe",
+							"expanded_url": "http://otomoyoshihide.com",
+							"display_url": "otomoyoshihide.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60021,
+			"friends_count": 6933,
+			"listed_count": 2684,
+			"created_at": "Wed Jan 13 05:40:43 +0000 2010",
+			"favourites_count": 43,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15809,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ADC8FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/628929614/_______ABERCOMBIE_FITCH_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/628929614/_______ABERCOMBIE_FITCH_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104393476/1529211134",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 916,
+		"favorite_count": 3023,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「がんばっても報われない社会が待っている」東大の入学式での上野千鶴子さんの講演全文がここで読めます。素晴らしい講演です。 https://t.co/3uR1oqEzE7 @ciaoliviaさんから"
+	},
+	{
+		"created_at": "Sat Apr 13 00:42:42 +0000 2019",
+		"id": 1116863115499458600,
+		"id_str": "1116864250452905987",
+		"full_text": "辺野古新基地建設と\n生態系「異変」\n\nタムムス https://t.co/igJZs6MtXC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116863082632847400,
+					"id_str": "1116863082632847360",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/D3_lDmcUIAAbJdp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3_lDmcUIAAbJdp.jpg",
+					"url": "https://t.co/igJZs6MtXC",
+					"display_url": "pic.twitter.com/igJZs6MtXC",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1116863115499458561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 651,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1962,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116863082632847400,
+					"id_str": "1116863082632847360",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/D3_lDmcUIAAbJdp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3_lDmcUIAAbJdp.jpg",
+					"url": "https://t.co/igJZs6MtXC",
+					"display_url": "pic.twitter.com/igJZs6MtXC",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1116863115499458561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 651,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1962,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 976478731026890800,
+			"id_str": "976478731026890752",
+			"name": "BARANEKO",
+			"screen_name": "BARANEKO0409",
+			"location": "",
+			"description": "天皇制を廃絶させたい。 「真の愛国者」などと呼ばれるくらいなら「売国奴」と呼ばれたい",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1245,
+			"friends_count": 490,
+			"listed_count": 31,
+			"created_at": "Wed Mar 21 15:20:46 +0000 2018",
+			"favourites_count": 2782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23977,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035183513962569728/bZB5QjPy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035183513962569728/bZB5QjPy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/976478731026890752/1554570305",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "辺野古新基地建設と\n生態系「異変」\n\nタムムス https://t.co/igJZs6MtXC"
+	},
+	{
 		"created_at": "Fri Apr 12 20:05:32 +0000 2019",
 		"id": 1116793559024148500,
 		"id_str": "1116794500683141120",
