@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 15 12:40:07 +0000 2019",
+		"id": 1117734488908292100,
+		"id_str": "1117769570796752897",
+		"full_text": "블랙홀의 존재를 확인한게 어째서 반 낭만적이지? 우주와 별의 크기 거리 이런게 달 속의 토끼보다 덜 낭만적인가? 뭐 깊게 볼 것도 없이 우주에 적용되는 거리와 시간에 비해 거의 존재한다고도 할 수 없는 인간이 그걸 예측하고 실체를 확인한다는 자체가 아찔하게 낭만적인 일 아닌가? https://t.co/fgu8Gd1KTS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1117734481006186500,
+					"id_str": "1117734481006186496",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/D4L9lqWUUAALLI5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4L9lqWUUAALLI5.jpg",
+					"url": "https://t.co/fgu8Gd1KTS",
+					"display_url": "pic.twitter.com/fgu8Gd1KTS",
+					"expanded_url": "https://twitter.com/hadess1138/status/1117734488908292096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1455,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 387,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1117734481006186500,
+					"id_str": "1117734481006186496",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/D4L9lqWUUAALLI5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4L9lqWUUAALLI5.jpg",
+					"url": "https://t.co/fgu8Gd1KTS",
+					"display_url": "pic.twitter.com/fgu8Gd1KTS",
+					"expanded_url": "https://twitter.com/hadess1138/status/1117734488908292096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1455,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 387,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 198826020,
+			"id_str": "198826020",
+			"name": "PLUTO",
+			"screen_name": "hadess1138",
+			"location": "",
+			"description": "어느날 무릎에 화살을 맞기 전까진",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59859,
+			"friends_count": 126,
+			"listed_count": 306,
+			"created_at": "Tue Oct 05 10:39:30 +0000 2010",
+			"favourites_count": 3031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122310,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/996106102176530434/Cm8iQzd4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/996106102176530434/Cm8iQzd4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/198826020/1526325244",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 834,
+		"favorite_count": 299,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블랙홀의 존재를 확인한게 어째서 반 낭만적이지? 우주와 별의 크기 거리 이런게 달 속의 토끼보다 덜 낭만적인가? 뭐 깊게 볼 것도 없이 우주에 적용되는 거리와 시간에 비해 거의 존재한다고도 할 수 없는 인간이 그걸 예측하고 실체를 확인한다는 자체가 아찔하게 낭만적인 일 아닌가? https://t.co/fgu8Gd1KTS"
+	},
+	{
+		"created_at": "Mon Apr 15 11:04:49 +0000 2019",
+		"id": 1117745589213524000,
+		"id_str": "1117745589213523968",
+		"full_text": "아. 너무 많이 먹으면 안되는데 ㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1117745349488070700,
+		"in_reply_to_status_id_str": "1117745349488070662",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 575,
+			"friends_count": 493,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17198,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아. 너무 많이 먹으면 안되는데 ㅠㅠ"
+	},
+	{
 		"created_at": "Sun Apr 14 09:32:27 +0000 2019",
 		"id": 1117359955823083500,
 		"id_str": "1117359955823083520",
