@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Thu Apr 18 12:30:14 +0000 2019",
+		"id": 1118832142585188400,
+		"id_str": "1118854248165298176",
+		"full_text": "お待たせ致しました❤️\n本日、#いーどぅしサーサー MV公開されました！\n2人の大ゲンカの夜に泣きながら書いた曲です笑\n初心の気持ちと、夢への気持ちが混ざり合ったあの日にしか書けなかった曲だと思っています😊\n\nみんなで私たちを沢山広めて下さい🥺💕全力RT待ってます🙇🏻‍♀️\n\nhttps://t.co/A7JCDroV8q https://t.co/lEfgxgoST1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "いーどぅしサーサー",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A7JCDroV8q",
+					"expanded_url": "https://youtu.be/kDk6GL_OiL0",
+					"display_url": "youtu.be/kDk6GL_OiL0",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1118832070216654800,
+					"id_str": "1118832070216654850",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118832070216654850/pu/img/HihRnlAOlAoiNLSl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118832070216654850/pu/img/HihRnlAOlAoiNLSl.jpg",
+					"url": "https://t.co/lEfgxgoST1",
+					"display_url": "pic.twitter.com/lEfgxgoST1",
+					"expanded_url": "https://twitter.com/cana_singer/status/1118832142585188357/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1118832070216654800,
+					"id_str": "1118832070216654850",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118832070216654850/pu/img/HihRnlAOlAoiNLSl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118832070216654850/pu/img/HihRnlAOlAoiNLSl.jpg",
+					"url": "https://t.co/lEfgxgoST1",
+					"display_url": "pic.twitter.com/lEfgxgoST1",
+					"expanded_url": "https://twitter.com/cana_singer/status/1118832142585188357/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21647,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1118832070216654850/pu/pl/yH2TwDSpJAq_beFd.m3u8?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1118832070216654850/pu/vid/320x180/ikevRBWc_MSMKIH-.mp4?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1118832070216654850/pu/vid/640x360/EnpGgxQOfLl9jJZd.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1118832070216654850/pu/vid/960x540/DcUbwXm-C3Augzrs.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1191882884,
+			"id_str": "1191882884",
+			"name": "かーなー #いーどぅし 🌺🤙🏼",
+			"screen_name": "cana_singer",
+			"location": "沖縄/東京",
+			"description": "作詞作曲/歌/たまにモデル沖縄県産娘。温故知新で生きてます。お仕事の依頼は、メールにて💌cana@i-dushi.com",
+			"url": "https://t.co/882LA1Wul8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/882LA1Wul8",
+							"expanded_url": "https://i-dushi.jimdosite.com/",
+							"display_url": "i-dushi.jimdosite.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13678,
+			"friends_count": 524,
+			"listed_count": 39,
+			"created_at": "Mon Feb 18 03:11:04 +0000 2013",
+			"favourites_count": 10062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19582,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075985012430753794/OJWzFXws_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075985012430753794/OJWzFXws_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1191882884/1513094202",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 184,
+		"favorite_count": 504,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "お待たせ致しました❤️\n本日、#いーどぅしサーサー MV公開されました！\n2人の大ゲンカの夜に泣きながら書いた曲です笑\n初心の気持ちと、夢への気持ちが混ざり合ったあの日にしか書けなかった曲だと思っています😊\n\nみんなで私たちを沢山広めて下さい🥺💕全力RT待ってます🙇🏻‍♀️\n\nhttps://t.co/A7JCDroV8q https://t.co/lEfgxgoST1"
+	},
+	{
 		"created_at": "Mon Apr 15 12:40:07 +0000 2019",
 		"id": 1117734488908292100,
 		"id_str": "1117769570796752897",
