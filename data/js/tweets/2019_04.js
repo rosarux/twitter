@@ -1,10 +1,103 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 19 09:50:30 +0000 2019",
+		"id": 1119143779066245100,
+		"id_str": "1119176438303735808",
+		"full_text": "그 아베노믹스가 후생성 날조로 실질임금 하락을 상승으로 뻥쳐가며 유지해 온 데다 날조 규모가 너무 커서 재조사는 아예 꿈도 못 꾸고 그 지경인데도 정권이 흔들리지 않는데 그게 부럽다고? 님 도랏?\n[송호근 칼럼] 동경에서 묻다 https://t.co/oeJLQnqABh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oeJLQnqABh",
+					"expanded_url": "https://mnews.joins.com/article/23442976",
+					"display_url": "mnews.joins.com/article/234429…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4043241074,
+			"id_str": "4043241074",
+			"name": "𝕜𝕪𝕝𝕚𝕟🦒",
+			"screen_name": "kylin_paul",
+			"location": "東京 文京区",
+			"description": "예쁘고 긴 다리를 가진 도쿄도 납세자이며 종합출판사(의 그 어딘가)에 있지만 편집은 몰라요. 그리고 오타와 같이 삽니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 892,
+			"friends_count": 110,
+			"listed_count": 9,
+			"created_at": "Wed Oct 28 05:31:54 +0000 2015",
+			"favourites_count": 891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9610,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/904564477739155456/vR-DoOB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/904564477739155456/vR-DoOB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4043241074/1494488523",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 123,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그 아베노믹스가 후생성 날조로 실질임금 하락을 상승으로 뻥쳐가며 유지해 온 데다 날조 규모가 너무 커서 재조사는 아예 꿈도 못 꾸고 그 지경인데도 정권이 흔들리지 않는데 그게 부럽다고? 님 도랏?\n[송호근 칼럼] 동경에서 묻다 https://t.co/oeJLQnqABh"
+	},
+	{
 		"created_at": "Thu Apr 18 12:30:14 +0000 2019",
 		"id": 1118832142585188400,
 		"id_str": "1118854248165298176",
-		"full_text": "お待たせ致しました❤️\n本日、#いーどぅしサーサー MV公開されました！\n2人の大ゲンカの夜に泣きながら書いた曲です笑\n初心の気持ちと、夢への気持ちが混ざり合ったあの日にしか書けなかった曲だと思っています😊\n\nみんなで私たちを沢山広めて下さい🥺💕全力RT待ってます🙇🏻‍♀️\n\nhttps://t.co/A7JCDroV8q https://t.co/lEfgxgoST1",
+		"full_text": "お待たせ致しました❤️\n本日、#いーどぅしサーサー MV公開されました！\n2人の大ゲンカの夜に泣きながら書いた曲です笑\n初心の気持ちと、夢への気持ちが混ざり合ったあの日にしか書けなかった曲だと思っています😊\n\nみんなで私たちを沢山広めて下さい🥺💕全力RT待ってます🙇🏻♀️\n\nhttps://t.co/A7JCDroV8q https://t.co/lEfgxgoST1",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -221,7 +314,7 @@ Grailbird.data.tweets_2019_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "お待たせ致しました❤️\n本日、#いーどぅしサーサー MV公開されました！\n2人の大ゲンカの夜に泣きながら書いた曲です笑\n初心の気持ちと、夢への気持ちが混ざり合ったあの日にしか書けなかった曲だと思っています😊\n\nみんなで私たちを沢山広めて下さい🥺💕全力RT待ってます🙇🏻‍♀️\n\nhttps://t.co/A7JCDroV8q https://t.co/lEfgxgoST1"
+		"text": "お待たせ致しました❤️\n本日、#いーどぅしサーサー MV公開されました！\n2人の大ゲンカの夜に泣きながら書いた曲です笑\n初心の気持ちと、夢への気持ちが混ざり合ったあの日にしか書けなかった曲だと思っています😊\n\nみんなで私たちを沢山広めて下さい🥺💕全力RT待ってます🙇🏻♀️\n\nhttps://t.co/A7JCDroV8q https://t.co/lEfgxgoST1"
 	},
 	{
 		"created_at": "Mon Apr 15 12:40:07 +0000 2019",
