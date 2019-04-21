@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 12:57:46 +0000 2019",
+		"id": 1119450920167731200,
+		"id_str": "1119585950672113666",
+		"full_text": "남자들의 결혼하면 헬게이트, 아내의 샤워소리 무섭다 같은 농담 1도 재미없다. 결혼으로 얻는 이득때문에 본인들이 원해서 해놓고 동시에 가정과 아내에 대해 조롱하는 비열함~ https://t.co/fz6YI5WfEl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fz6YI5WfEl",
+					"expanded_url": "https://twitter.com/groundmass_/status/1119383290882822145",
+					"display_url": "twitter.com/groundmass_/st…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2437113068,
+			"id_str": "2437113068",
+			"name": "웅이",
+			"screen_name": "Bedtimeee",
+			"location": "",
+			"description": "멘션 알림 꺼놨습니다. 필요한 것은 디엠으로",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3031,
+			"friends_count": 100,
+			"listed_count": 31,
+			"created_at": "Thu Apr 10 14:42:43 +0000 2014",
+			"favourites_count": 364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 118,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119616437784432641/P4PVSgH4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119616437784432641/P4PVSgH4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2437113068/1511133445",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1119383290882822100,
+		"quoted_status_id_str": "1119383290882822145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fz6YI5WfEl",
+			"expanded": "https://twitter.com/groundmass_/status/1119383290882822145",
+			"display": "twitter.com/groundmass_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 19 23:32:28 +0000 2019",
+			"id": 1119383290882822100,
+			"id_str": "1119383290882822145",
+			"full_text": "결혼이란?  https://t.co/0rT9hPUeDK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				30
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1043272674720530400,
+						"id_str": "1043272674720530439",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1043272674720530439/pu/img/TZLfoDVcbgPoo_Kw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1043272674720530439/pu/img/TZLfoDVcbgPoo_Kw.jpg",
+						"url": "https://t.co/0rT9hPUeDK",
+						"display_url": "pic.twitter.com/0rT9hPUeDK",
+						"expanded_url": "https://twitter.com/Mens_Corner_/status/1043273962745221120/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1043273962745221100,
+						"source_status_id_str": "1043273962745221120",
+						"source_user_id": 212942638,
+						"source_user_id_str": "212942638"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1043272674720530400,
+						"id_str": "1043272674720530439",
+						"indices": [
+							7,
+							30
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1043272674720530439/pu/img/TZLfoDVcbgPoo_Kw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1043272674720530439/pu/img/TZLfoDVcbgPoo_Kw.jpg",
+						"url": "https://t.co/0rT9hPUeDK",
+						"display_url": "pic.twitter.com/0rT9hPUeDK",
+						"expanded_url": "https://twitter.com/Mens_Corner_/status/1043273962745221120/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1043273962745221100,
+						"source_status_id_str": "1043273962745221120",
+						"source_user_id": 212942638,
+						"source_user_id_str": "212942638",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 22000,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1043272674720530439/pu/vid/720x720/3WrTXQW5fo_gI1lv.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1043272674720530439/pu/vid/240x240/z27eUBVAMIk3rqfb.mp4?tag=5"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1043272674720530439/pu/vid/480x480/e8CyZqx4Cg9AADZ0.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1043272674720530439/pu/pl/aUpm4uC_c14--Z5S.m3u8?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 212942638,
+								"id_str": "212942638",
+								"name": "Men's Corner",
+								"screen_name": "Mens_Corner_",
+								"location": "",
+								"description": "",
+								"url": "http://t.co/QrfCdxvIDX",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "http://t.co/QrfCdxvIDX",
+												"expanded_url": "http://www.mens-corner.net",
+												"display_url": "mens-corner.net",
+												"indices": [
+													0,
+													22
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 88927,
+								"friends_count": 2994,
+								"listed_count": 251,
+								"created_at": "Sun Nov 07 14:19:49 +0000 2010",
+								"favourites_count": 61,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 10097,
+								"lang": "en",
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/3077498527/5c4f3b7c0c41ea64ecd6ea6fb758a7f8_normal.jpeg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/3077498527/5c4f3b7c0c41ea64ecd6ea6fb758a7f8_normal.jpeg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/212942638/1357661154",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4129610292,
+				"id_str": "4129610292",
+				"name": "農德",
+				"screen_name": "groundmass_",
+				"location": "",
+				"description": "Ψυχή로 가득한 낯가리는 灰色分子이다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3062,
+				"friends_count": 834,
+				"listed_count": 79,
+				"created_at": "Thu Nov 05 01:06:43 +0000 2015",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 49611,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1105675025590308865/Na4IY0mV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105675025590308865/Na4IY0mV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4129610292/1553916555",
+				"profile_link_color": "5F5F5F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 74,
+			"favorite_count": 63,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 5086,
+		"favorite_count": 1008,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "남자들의 결혼하면 헬게이트, 아내의 샤워소리 무섭다 같은 농담 1도 재미없다. 결혼으로 얻는 이득때문에 본인들이 원해서 해놓고 동시에 가정과 아내에 대해 조롱하는 비열함~ https://t.co/fz6YI5WfEl"
+	},
+	{
 		"created_at": "Fri Apr 19 09:50:30 +0000 2019",
 		"id": 1119143779066245100,
 		"id_str": "1119176438303735808",
