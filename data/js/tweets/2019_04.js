@@ -1,6 +1,874 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 21 13:45:59 +0000 2019",
+		"id": 1119960475217866800,
+		"id_str": "1119960475217866752",
+		"full_text": "확실히 보이는 어떤 경향성 https://t.co/3VmulAC7IF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119960463599493100,
+					"id_str": "1119960463599493120",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D4rmG5tUYAAZoh3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4rmG5tUYAAZoh3.jpg",
+					"url": "https://t.co/3VmulAC7IF",
+					"display_url": "pic.twitter.com/3VmulAC7IF",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1119960475217866752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1094,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 363,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 641,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119960463599493100,
+					"id_str": "1119960463599493120",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D4rmG5tUYAAZoh3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4rmG5tUYAAZoh3.jpg",
+					"url": "https://t.co/3VmulAC7IF",
+					"display_url": "pic.twitter.com/3VmulAC7IF",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1119960475217866752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1094,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 363,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 641,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 492,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17206,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "확실히 보이는 어떤 경향성 https://t.co/3VmulAC7IF"
+	},
+	{
+		"created_at": "Sun Apr 21 12:42:05 +0000 2019",
+		"id": 1119903621095673900,
+		"id_str": "1119944392704270336",
+		"full_text": "冷静に考えてほしい。 https://t.co/0PwIVJAeyr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119903619698974700,
+					"id_str": "1119903619698974720",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D4qyaJrU4AAYGMH.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4qyaJrU4AAYGMH.png",
+					"url": "https://t.co/0PwIVJAeyr",
+					"display_url": "pic.twitter.com/0PwIVJAeyr",
+					"expanded_url": "https://twitter.com/mou_kaeru/status/1119903621095673856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 760,
+							"h": 522,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 760,
+							"h": 522,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119903619698974700,
+					"id_str": "1119903619698974720",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/D4qyaJrU4AAYGMH.png",
+					"media_url_https": "https://pbs.twimg.com/media/D4qyaJrU4AAYGMH.png",
+					"url": "https://t.co/0PwIVJAeyr",
+					"display_url": "pic.twitter.com/0PwIVJAeyr",
+					"expanded_url": "https://twitter.com/mou_kaeru/status/1119903621095673856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 760,
+							"h": 522,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 760,
+							"h": 522,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com/iwbkfendo\" rel=\"nofollow\">shimons</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2896551950,
+			"id_str": "2896551950",
+			"name": "全日本もう帰りたい協会",
+			"screen_name": "mou_kaeru",
+			"location": "オフトゥン",
+			"description": "もう・・・・帰ろうよ・・・・。  ご依頼に関する連絡先はこちら⇒kaeritaikyokai@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 530379,
+			"friends_count": 487,
+			"listed_count": 1922,
+			"created_at": "Tue Nov 11 13:22:59 +0000 2014",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7257,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966273096255598598/v3sdWlX7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966273096255598598/v3sdWlX7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2896551950/1519212515",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8026,
+		"favorite_count": 18517,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "冷静に考えてほしい。 https://t.co/0PwIVJAeyr"
+	},
+	{
+		"created_at": "Sun Apr 21 11:09:50 +0000 2019",
+		"id": 1119919070680367100,
+		"id_str": "1119921175637848065",
+		"full_text": "屋良朝博氏が当選確実　衆院沖縄３区補選　辺野古新基地に反対訴え\n\n沖縄県知事に転出した玉城デニー氏の衆院議員失職に伴う衆院沖縄３区補欠選挙は２１日投開票され、「オール沖縄」勢力が推すフリージャーナリストの屋良朝博氏（５６）＝無所属、新人＝の当選が確実となった。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118600653,
+			"id_str": "118600653",
+			"name": "沖縄タイムス",
+			"screen_name": "theokinawatimes",
+			"location": "沖縄県那覇市",
+			"description": "「沖縄タイムス」の公式アカウントです。沖縄のニュースを紹介します。情報提供はこちら↓↓\nhttps://t.co/dRtcewdzWi\n\n辺野古・高江@times_henoko\n「幻想のメディア」取材班@gensoutimes",
+			"url": "http://t.co/MNvzHef3vO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MNvzHef3vO",
+							"expanded_url": "http://www.okinawatimes.co.jp",
+							"display_url": "okinawatimes.co.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dRtcewdzWi",
+							"expanded_url": "https://app.okinawatimes.co.jp/contact/info_form.php",
+							"display_url": "app.okinawatimes.co.jp/contact/info_f…",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 85468,
+			"friends_count": 102,
+			"listed_count": 3215,
+			"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+			"favourites_count": 3134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 285567,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1554698014",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1546,
+		"favorite_count": 2444,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "屋良朝博氏が当選確実　衆院沖縄３区補選　辺野古新基地に反対訴え\n\n沖縄県知事に転出した玉城デニー氏の衆院議員失職に伴う衆院沖縄３区補欠選挙は２１日投開票され、「オール沖縄」勢力が推すフリージャーナリストの屋良朝博氏（５６）＝無所属、新人＝の当選が確実となった。"
+	},
+	{
+		"created_at": "Sun Apr 21 11:09:42 +0000 2019",
+		"id": 1119919415615574000,
+		"id_str": "1119921142632857602",
+		"full_text": "ヤラともひろ国会議員誕生😭😭😭 https://t.co/aMis5rOLWh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119919276754788400,
+					"id_str": "1119919276754788352",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1119919276754788352/pu/img/bEGGHMGHq8keGNgQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1119919276754788352/pu/img/bEGGHMGHq8keGNgQ.jpg",
+					"url": "https://t.co/aMis5rOLWh",
+					"display_url": "pic.twitter.com/aMis5rOLWh",
+					"expanded_url": "https://twitter.com/shimagurumi/status/1119919415615574016/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119919276754788400,
+					"id_str": "1119919276754788352",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1119919276754788352/pu/img/bEGGHMGHq8keGNgQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1119919276754788352/pu/img/bEGGHMGHq8keGNgQ.jpg",
+					"url": "https://t.co/aMis5rOLWh",
+					"display_url": "pic.twitter.com/aMis5rOLWh",
+					"expanded_url": "https://twitter.com/shimagurumi/status/1119919415615574016/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 44305,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1119919276754788352/pu/vid/320x180/J-6ne3DBDp_2e4Vn.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1119919276754788352/pu/pl/lXZ10WLXn1kqGR-Z.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1119919276754788352/pu/vid/640x360/LtqWiTEs5jeDPKdj.mp4?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1119919276754788352/pu/vid/1280x720/YZejdOn8ZENhJxCV.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2981714581,
+			"id_str": "2981714581",
+			"name": "島ぐるみ会議✨🌈",
+			"screen_name": "shimagurumi",
+			"location": "日本 沖縄",
+			"description": "島ぐるみ会議の公式アカウント🌺沖縄の未来は私たちが決める✨2019年2月24日辺野古新基地建設反対の意思が「県民投票」で示されました✊🏻みんなでデニー知事を支え、平和と歴史文化を大切に、誇りある新しい沖縄を一緒につくっていきましょう✨",
+			"url": "https://t.co/rVXC1DGop0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rVXC1DGop0",
+							"expanded_url": "https://www.facebook.com/shimagurumi/",
+							"display_url": "facebook.com/shimagurumi/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9959,
+			"friends_count": 767,
+			"listed_count": 159,
+			"created_at": "Wed Jan 14 05:16:39 +0000 2015",
+			"favourites_count": 5300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6699,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101752420923727873/tk4aXUqo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101752420923727873/tk4aXUqo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2981714581/1551513223",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "78927df221b9e22c",
+			"url": "https://api.twitter.com/1.1/geo/id/78927df221b9e22c.json",
+			"place_type": "city",
+			"name": "沖縄市",
+			"full_name": "沖縄 沖縄市",
+			"country_code": "JP",
+			"country": "日本",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.771919,
+							26.303966
+						],
+						[
+							127.855617,
+							26.303966
+						],
+						[
+							127.855617,
+							26.421535
+						],
+						[
+							127.771919,
+							26.421535
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1547,
+		"favorite_count": 2893,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ヤラともひろ国会議員誕生😭😭😭 https://t.co/aMis5rOLWh"
+	},
+	{
+		"created_at": "Sun Apr 21 03:39:17 +0000 2019",
+		"id": 1119800678031999000,
+		"id_str": "1119807793727324160",
+		"full_text": "NEW: The Mutual Gaze of Okinawans and Zainichi Koreans in Post-War Japan: From 1945 to the 1972 Okinawa Reversion\n\nLim Kyounghwa\n\nhttps://t.co/xy0ng01GDT \n\nCc: @myHNN #twitterstorians https://t.co/uXcQKAJFT9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "twitterstorians",
+					"indices": [
+						167,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "myHNN",
+					"name": "History News Network",
+					"id": 28639448,
+					"id_str": "28639448",
+					"indices": [
+						160,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xy0ng01GDT",
+					"expanded_url": "https://apjjf.org/2019/08/Lim.html",
+					"display_url": "apjjf.org/2019/08/Lim.ht…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1119800676828233700,
+					"id_str": "1119800676828233728",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/D4pUyFmWwAA2FDD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4pUyFmWwAA2FDD.jpg",
+					"url": "https://t.co/uXcQKAJFT9",
+					"display_url": "pic.twitter.com/uXcQKAJFT9",
+					"expanded_url": "https://twitter.com/apjjf/status/1119800678031998976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 290,
+							"h": 196,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 290,
+							"h": 196,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 290,
+							"h": 196,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119800676828233700,
+					"id_str": "1119800676828233728",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/D4pUyFmWwAA2FDD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4pUyFmWwAA2FDD.jpg",
+					"url": "https://t.co/uXcQKAJFT9",
+					"display_url": "pic.twitter.com/uXcQKAJFT9",
+					"expanded_url": "https://twitter.com/apjjf/status/1119800678031998976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 290,
+							"h": 196,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 290,
+							"h": 196,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 290,
+							"h": 196,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105521430,
+			"id_str": "105521430",
+			"name": "Asia-Pacific Journal",
+			"screen_name": "apjjf",
+			"location": "Global",
+			"description": "In-depth critical analysis of the forces shaping the Asia-Pacific region & the world.　RTs, follows, mentions, listing, etc. are not endorsements.",
+			"url": "https://t.co/GRfPGHSEb4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GRfPGHSEb4",
+							"expanded_url": "http://www.apjjf.org",
+							"display_url": "apjjf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7199,
+			"friends_count": 795,
+			"listed_count": 523,
+			"created_at": "Sat Jan 16 16:11:14 +0000 2010",
+			"favourites_count": 13687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13697,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F1DF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105521430/1555430110",
+			"profile_link_color": "572E4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EE0B5B",
+			"profile_text_color": "027B7F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW: The Mutual Gaze of Okinawans and Zainichi Koreans in Post-War Japan: From 1945 to the 1972 Okinawa Reversion\n\nLim Kyounghwa\n\nhttps://t.co/xy0ng01GDT \n\nCc: @myHNN #twitterstorians https://t.co/uXcQKAJFT9"
+	},
+	{
 		"created_at": "Sat Apr 20 12:57:46 +0000 2019",
 		"id": 1119450920167731200,
 		"id_str": "1119585950672113666",
