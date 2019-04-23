@@ -1,6 +1,987 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 22 13:42:28 +0000 2019",
+		"id": 1120321194027126800,
+		"id_str": "1120321975899942912",
+		"full_text": "今日も一日お疲れ様でした🌈 https://t.co/3FxC1WlNCb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1120321173504634900,
+					"id_str": "1120321173504634880",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D4wuK-0XsAAbeP1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4wuK-0XsAAbeP1.jpg",
+					"url": "https://t.co/3FxC1WlNCb",
+					"display_url": "pic.twitter.com/3FxC1WlNCb",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1120321194027126785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120321173504634900,
+					"id_str": "1120321173504634880",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D4wuK-0XsAAbeP1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4wuK-0XsAAbeP1.jpg",
+					"url": "https://t.co/3FxC1WlNCb",
+					"display_url": "pic.twitter.com/3FxC1WlNCb",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1120321194027126785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1440845558,
+			"id_str": "1440845558",
+			"name": "いけむらたかし",
+			"screen_name": "takashi91mile",
+			"location": "沖縄県❂okinawa-japan",
+			"description": "沖縄の景色を色んな人と楽しめて嬉しいです。沖縄の素晴らしい景色を色んな人に伝えたい。よろしくお願いします🌈【趣味】音楽･野球･読書",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23730,
+			"friends_count": 20403,
+			"listed_count": 222,
+			"created_at": "Sun May 19 10:43:57 +0000 2013",
+			"favourites_count": 42951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4213,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1440845558/1550065457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 312,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今日も一日お疲れ様でした🌈 https://t.co/3FxC1WlNCb"
+	},
+	{
+		"created_at": "Mon Apr 22 12:55:21 +0000 2019",
+		"id": 1120112371953832000,
+		"id_str": "1120310117872726022",
+		"full_text": "よぎさん、インドの三大新聞の一つに掲載！\nhttps://t.co/pwLYSiDBKT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pwLYSiDBKT",
+					"expanded_url": "https://m.indiatimes.com/trending/human-interest/meet-this-41-year-old-pune-man-who-is-probably-the-first-indian-to-contest-elections-in-japan-365847.html",
+					"display_url": "m.indiatimes.com/trending/human…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1117448034810351600,
+			"id_str": "1117448034810351616",
+			"name": "team よぎ since190414",
+			"screen_name": "TYogi0421",
+			"location": "",
+			"description": "team よぎ は、立憲民主党公認で江戸川区議会議員になっちゃった！よぎさんの勝手連。 日本に来て20年、西葛西に住んで15年、帰化して7年。 江戸川区をよくしたい！外国人と日本人の架け橋になってともに楽しく暮らしたい！よぎさんを応援。金融関係、IT関係に強く、お茶目なよぎさん、みんな大好きです💕",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1295,
+			"friends_count": 154,
+			"listed_count": 12,
+			"created_at": "Sun Apr 14 15:22:27 +0000 2019",
+			"favourites_count": 289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120323911055335424/B_pCnb_Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120323911055335424/B_pCnb_Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1117448034810351616/1555941011",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 597,
+		"favorite_count": 1217,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "よぎさん、インドの三大新聞の一つに掲載！\nhttps://t.co/pwLYSiDBKT"
+	},
+	{
+		"created_at": "Mon Apr 22 10:49:43 +0000 2019",
+		"id": 1120278501620195300,
+		"id_str": "1120278501620195328",
+		"full_text": "저건 광고도 아니고 그냥 프로파간다자나.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 492,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17214,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "저건 광고도 아니고 그냥 프로파간다자나."
+	},
+	{
+		"created_at": "Mon Apr 22 10:48:17 +0000 2019",
+		"id": 1120151161917493200,
+		"id_str": "1120278141795127296",
+		"full_text": "杉並区議選ほらぐちさん当選か。革命の狼煙が上がったぜ…🔥 https://t.co/ieq7kDNFEF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1120151145660309500,
+					"id_str": "1120151145660309504",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/D4uTiDvUYAAkCBK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4uTiDvUYAAkCBK.jpg",
+					"url": "https://t.co/ieq7kDNFEF",
+					"display_url": "pic.twitter.com/ieq7kDNFEF",
+					"expanded_url": "https://twitter.com/kafuka_tan/status/1120151161917493250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 479,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 479,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120151145660309500,
+					"id_str": "1120151145660309504",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/D4uTiDvUYAAkCBK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4uTiDvUYAAkCBK.jpg",
+					"url": "https://t.co/ieq7kDNFEF",
+					"display_url": "pic.twitter.com/ieq7kDNFEF",
+					"expanded_url": "https://twitter.com/kafuka_tan/status/1120151161917493250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 479,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 479,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1120151145643565000,
+					"id_str": "1120151145643565057",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/D4uTiDrU4AEc7zX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4uTiDrU4AEc7zX.jpg",
+					"url": "https://t.co/ieq7kDNFEF",
+					"display_url": "pic.twitter.com/ieq7kDNFEF",
+					"expanded_url": "https://twitter.com/kafuka_tan/status/1120151161917493250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 702,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 702,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 143138863,
+			"id_str": "143138863",
+			"name": "かふお",
+			"screen_name": "kafuka_tan",
+			"location": "",
+			"description": "人妻で料理研究家。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3167,
+			"friends_count": 398,
+			"listed_count": 131,
+			"created_at": "Wed May 12 18:00:55 +0000 2010",
+			"favourites_count": 78840,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 137867,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/941552823010869248/Iug5YkvE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/941552823010869248/Iug5YkvE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/143138863/1526184974",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6287,
+		"favorite_count": 7059,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "杉並区議選ほらぐちさん当選か。革命の狼煙が上がったぜ…🔥 https://t.co/ieq7kDNFEF"
+	},
+	{
+		"created_at": "Mon Apr 22 09:52:56 +0000 2019",
+		"id": 1120264212670869500,
+		"id_str": "1120264212670869504",
+		"full_text": "중핵파 구의원(...)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 492,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17214,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "중핵파 구의원(...)"
+	},
+	{
+		"created_at": "Mon Apr 22 09:35:57 +0000 2019",
+		"id": 1120156200169951200,
+		"id_str": "1120259938310246402",
+		"full_text": "ほらぐちともこ杉並区議の誕生です！ https://t.co/J0MjMbLIWH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1120156184290287600,
+					"id_str": "1120156184290287616",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D4uYHWGUYAAUGwV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4uYHWGUYAAUGwV.jpg",
+					"url": "https://t.co/J0MjMbLIWH",
+					"display_url": "pic.twitter.com/J0MjMbLIWH",
+					"expanded_url": "https://twitter.com/Zengakuren/status/1120156200169951232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120156184290287600,
+					"id_str": "1120156184290287616",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/D4uYHWGUYAAUGwV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4uYHWGUYAAUGwV.jpg",
+					"url": "https://t.co/J0MjMbLIWH",
+					"display_url": "pic.twitter.com/J0MjMbLIWH",
+					"expanded_url": "https://twitter.com/Zengakuren/status/1120156200169951232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104088066,
+			"id_str": "104088066",
+			"name": "全学連:ほらぐちともこ杉並区議",
+			"screen_name": "Zengakuren",
+			"location": "全国各地",
+			"description": "私たち全学連（全日本学生自治会総連合）は、全国で学生運動に取り組む団体です。新自由主義大学を打ち倒し、真の学問確立へ。そのために、改憲阻止、京大学生運動を全国へ！ ぜひ革命的youtubeアカウント登録お願いします→https://t.co/HbL3X9AEPT",
+			"url": "https://t.co/LMx87AYZez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LMx87AYZez",
+							"expanded_url": "http://www.zengakuren.jp",
+							"display_url": "zengakuren.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/HbL3X9AEPT",
+							"expanded_url": "http://bit.ly/2rhQkCJ",
+							"display_url": "bit.ly/2rhQkCJ",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1923,
+			"friends_count": 168,
+			"listed_count": 102,
+			"created_at": "Tue Jan 12 06:19:06 +0000 2010",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8511,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1037536678557011968/q__5MTaH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037536678557011968/q__5MTaH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104088066/1555202597",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 338,
+		"favorite_count": 456,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ほらぐちともこ杉並区議の誕生です！ https://t.co/J0MjMbLIWH"
+	},
+	{
+		"created_at": "Mon Apr 22 09:35:40 +0000 2019",
+		"id": 1120160047693066200,
+		"id_str": "1120259867376111617",
+		"full_text": "ほらぐちともこ3200票17位(開票率95.57%)です。多くご支援のおかげです。 #杉並区議選 https://t.co/8IVcfvJGm2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "杉並区議選",
+					"indices": [
+						42,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1120160040218873900,
+					"id_str": "1120160040218873856",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/D4ubnyjVUAATNtY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4ubnyjVUAATNtY.jpg",
+					"url": "https://t.co/8IVcfvJGm2",
+					"display_url": "pic.twitter.com/8IVcfvJGm2",
+					"expanded_url": "https://twitter.com/HoraguchiTomoko/status/1120160047693066240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120160040218873900,
+					"id_str": "1120160040218873856",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/D4ubnyjVUAATNtY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4ubnyjVUAATNtY.jpg",
+					"url": "https://t.co/8IVcfvJGm2",
+					"display_url": "pic.twitter.com/8IVcfvJGm2",
+					"expanded_url": "https://twitter.com/HoraguchiTomoko/status/1120160047693066240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1042014200942321700,
+			"id_str": "1042014200942321664",
+			"name": "ほらぐちともこ 杉並",
+			"screen_name": "HoraguchiTomoko",
+			"location": "東京 杉並区",
+			"description": "洞口朋子 / #杉並区議選 / 宮城県仙台市出身 / 法政大学で学生運動 / YouTube「前進チャンネル」(@ZenshinC) / 若者の声を杉並から！ / 改憲・戦争とめよう / 原発反対 / オリンピックいらない / 貧困・過労死のない社会を！ / 街を壊す再開発の白紙撤回を！",
+			"url": "https://t.co/H6Dt998XU4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6Dt998XU4",
+							"expanded_url": "http://horaguchitomoko.jp",
+							"display_url": "horaguchitomoko.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2517,
+			"friends_count": 61,
+			"listed_count": 74,
+			"created_at": "Tue Sep 18 11:35:19 +0000 2018",
+			"favourites_count": 1013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1546,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107236552487239681/H8f6DwGI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107236552487239681/H8f6DwGI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1042014200942321664/1555943190",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 231,
+		"favorite_count": 279,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ほらぐちともこ3200票17位(開票率95.57%)です。多くご支援のおかげです。 #杉並区議選 https://t.co/8IVcfvJGm2"
+	},
+	{
 		"created_at": "Sun Apr 21 13:45:59 +0000 2019",
 		"id": 1119960475217866800,
 		"id_str": "1119960475217866752",
