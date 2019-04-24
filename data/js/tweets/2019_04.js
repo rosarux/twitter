@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 13:48:17 +0000 2019",
+		"id": 1120685829112774700,
+		"id_str": "1120685829112774656",
+		"full_text": "나하 쥰쿠도가 오픈 10년이면.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 492,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17218,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "나하 쥰쿠도가 오픈 10년이면."
+	},
+	{
+		"created_at": "Tue Apr 23 13:47:46 +0000 2019",
+		"id": 1120623623713083400,
+		"id_str": "1120685697789153281",
+		"full_text": "今日の沖縄タイムス社会面、「県産本推し続け10年／ジュンク堂那覇店／本好きの県民性　掘り起こす」の記事が掲載。「一番の特徴は…「本のイベント化」を実践したこと」との新城和博さんのコメントも。\n\n写真はオープン前の店内を視察する工藤恭孝社長、翁長雄志那覇市長（当時） https://t.co/r5mlO7dbfe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1120623257424498700,
+					"id_str": "1120623257424498689",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/D41A6lHUEAEbIQf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D41A6lHUEAEbIQf.jpg",
+					"url": "https://t.co/r5mlO7dbfe",
+					"display_url": "pic.twitter.com/r5mlO7dbfe",
+					"expanded_url": "https://twitter.com/tomori_hitoshi/status/1120623623713083394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120623257424498700,
+					"id_str": "1120623257424498689",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/D41A6lHUEAEbIQf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D41A6lHUEAEbIQf.jpg",
+					"url": "https://t.co/r5mlO7dbfe",
+					"display_url": "pic.twitter.com/r5mlO7dbfe",
+					"expanded_url": "https://twitter.com/tomori_hitoshi/status/1120623623713083394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 146643799,
+			"id_str": "146643799",
+			"name": "友利仁",
+			"screen_name": "tomori_hitoshi",
+			"location": "沖縄県那覇市",
+			"description": "沖縄タイムス出版部所属。沖縄県産本ネットワークの事務局長も務めています。沖縄の出版情報を発信していきます。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 620,
+			"friends_count": 407,
+			"listed_count": 33,
+			"created_at": "Sat May 22 00:16:43 +0000 2010",
+			"favourites_count": 1528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9045,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111858517529362432/GASmgeje_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111858517529362432/GASmgeje_normal.png",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今日の沖縄タイムス社会面、「県産本推し続け10年／ジュンク堂那覇店／本好きの県民性　掘り起こす」の記事が掲載。「一番の特徴は…「本のイベント化」を実践したこと」との新城和博さんのコメントも。\n\n写真はオープン前の店内を視察する工藤恭孝社長、翁長雄志那覇市長（当時） https://t.co/r5mlO7dbfe"
+	},
+	{
+		"created_at": "Tue Apr 23 13:42:40 +0000 2019",
+		"id": 1120640851858694100,
+		"id_str": "1120684413677752320",
+		"full_text": "前進チャンネルの洞口さん、杉並区の議員になったのwww https://t.co/nrAyjwwApA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1120640842627108900,
+					"id_str": "1120640842627108864",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/D41Q6LGVUAAbZ54.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D41Q6LGVUAAbZ54.jpg",
+					"url": "https://t.co/nrAyjwwApA",
+					"display_url": "pic.twitter.com/nrAyjwwApA",
+					"expanded_url": "https://twitter.com/mochaaaaan/status/1120640851858694146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 718,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 718,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1120640842627108900,
+					"id_str": "1120640842627108864",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/D41Q6LGVUAAbZ54.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D41Q6LGVUAAbZ54.jpg",
+					"url": "https://t.co/nrAyjwwApA",
+					"display_url": "pic.twitter.com/nrAyjwwApA",
+					"expanded_url": "https://twitter.com/mochaaaaan/status/1120640851858694146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 718,
+							"h": 394,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 718,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1120640842656469000,
+					"id_str": "1120640842656468993",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/D41Q6LNVUAEC8e4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D41Q6LNVUAEC8e4.jpg",
+					"url": "https://t.co/nrAyjwwApA",
+					"display_url": "pic.twitter.com/nrAyjwwApA",
+					"expanded_url": "https://twitter.com/mochaaaaan/status/1120640851858694146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1120640842664775700,
+					"id_str": "1120640842664775682",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/D41Q6LPUEAITos5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D41Q6LPUEAITos5.jpg",
+					"url": "https://t.co/nrAyjwwApA",
+					"display_url": "pic.twitter.com/nrAyjwwApA",
+					"expanded_url": "https://twitter.com/mochaaaaan/status/1120640851858694146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 840,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1120640842656469000,
+					"id_str": "1120640842656468994",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/D41Q6LNVUAI2Z0u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D41Q6LNVUAI2Z0u.jpg",
+					"url": "https://t.co/nrAyjwwApA",
+					"display_url": "pic.twitter.com/nrAyjwwApA",
+					"expanded_url": "https://twitter.com/mochaaaaan/status/1120640851858694146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60326575,
+			"id_str": "60326575",
+			"name": "もっちゃん",
+			"screen_name": "mochaaaaan",
+			"location": "金沢から東京に出稼ぎ中",
+			"description": "遺骨は金沢競馬場のダートに撒いてください。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 695,
+			"friends_count": 891,
+			"listed_count": 42,
+			"created_at": "Sun Jul 26 15:29:51 +0000 2009",
+			"favourites_count": 59297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 105679,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/808432570010476544/xo-hNaKp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/808432570010476544/xo-hNaKp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60326575/1474465012",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "前進チャンネルの洞口さん、杉並区の議員になったのwww https://t.co/nrAyjwwApA"
+	},
+	{
 		"created_at": "Mon Apr 22 13:42:28 +0000 2019",
 		"id": 1120321194027126800,
 		"id_str": "1120321975899942912",
