@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 24 11:33:19 +0000 2019",
+		"id": 1121006071387058200,
+		"id_str": "1121014252867702785",
+		"full_text": "今日の夕空✨宜野湾で。 https://t.co/OsTIRxVXkK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121005992186003500,
+					"id_str": "1121005992186003456",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D46dArNUwAAigbX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D46dArNUwAAigbX.jpg",
+					"url": "https://t.co/OsTIRxVXkK",
+					"display_url": "pic.twitter.com/OsTIRxVXkK",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1121006071387058176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121005992186003500,
+					"id_str": "1121005992186003456",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D46dArNUwAAigbX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D46dArNUwAAigbX.jpg",
+					"url": "https://t.co/OsTIRxVXkK",
+					"display_url": "pic.twitter.com/OsTIRxVXkK",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1121006071387058176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1121006014004731900,
+					"id_str": "1121006014004731906",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D46dB8fUIAIray3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D46dB8fUIAIray3.jpg",
+					"url": "https://t.co/OsTIRxVXkK",
+					"display_url": "pic.twitter.com/OsTIRxVXkK",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1121006071387058176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1121006034888183800,
+					"id_str": "1121006034888183808",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D46dDKSUUAAkpEc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D46dDKSUUAAkpEc.jpg",
+					"url": "https://t.co/OsTIRxVXkK",
+					"display_url": "pic.twitter.com/OsTIRxVXkK",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1121006071387058176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1121006060305649700,
+					"id_str": "1121006060305649664",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/media/D46dEo-UEAAd5l0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D46dEo-UEAAd5l0.jpg",
+					"url": "https://t.co/OsTIRxVXkK",
+					"display_url": "pic.twitter.com/OsTIRxVXkK",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1121006071387058176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1440845558,
+			"id_str": "1440845558",
+			"name": "いけむらたかし",
+			"screen_name": "takashi91mile",
+			"location": "沖縄県❂okinawa-japan",
+			"description": "沖縄の景色を色んな人と楽しめて嬉しいです。沖縄の素晴らしい景色を色んな人に伝えたい。よろしくお願いします🌈【趣味】音楽･野球･読書",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23729,
+			"friends_count": 20399,
+			"listed_count": 221,
+			"created_at": "Sun May 19 10:43:57 +0000 2013",
+			"favourites_count": 42965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4214,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1440845558/1550065457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 448,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今日の夕空✨宜野湾で。 https://t.co/OsTIRxVXkK"
+	},
+	{
 		"created_at": "Tue Apr 23 13:48:17 +0000 2019",
 		"id": 1120685829112774700,
 		"id_str": "1120685829112774656",
