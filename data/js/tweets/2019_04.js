@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 27 14:20:41 +0000 2019",
+		"id": 1121821824822595600,
+		"id_str": "1122143534474092545",
+		"full_text": "早くナショナリティに内面を支配されない存在になりたい。 https://t.co/Spe6QQInKv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1121821822654136300,
+					"id_str": "1121821822654136320",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/D5GDAQiUwAAdDOu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5GDAQiUwAAdDOu.jpg",
+					"url": "https://t.co/Spe6QQInKv",
+					"display_url": "pic.twitter.com/Spe6QQInKv",
+					"expanded_url": "https://twitter.com/jobasu_namenna/status/1121821824822595585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 739,
+							"h": 415,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 739,
+							"h": 415,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1121821822654136300,
+					"id_str": "1121821822654136320",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/D5GDAQiUwAAdDOu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5GDAQiUwAAdDOu.jpg",
+					"url": "https://t.co/Spe6QQInKv",
+					"display_url": "pic.twitter.com/Spe6QQInKv",
+					"expanded_url": "https://twitter.com/jobasu_namenna/status/1121821824822595585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 739,
+							"h": 415,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 739,
+							"h": 415,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 949345792556331000,
+			"id_str": "949345792556331008",
+			"name": "⛹️‍♀️",
+			"screen_name": "jobasu_namenna",
+			"location": "鬼門",
+			"description": "※DMは監督が管理しています",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104,
+			"friends_count": 696,
+			"listed_count": 1,
+			"created_at": "Fri Jan 05 18:24:09 +0000 2018",
+			"favourites_count": 51939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 608,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120320987520622594/e_zzhnq3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120320987520622594/e_zzhnq3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/949345792556331008/1555204858",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2119,
+		"favorite_count": 7026,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "早くナショナリティに内面を支配されない存在になりたい。 https://t.co/Spe6QQInKv"
+	},
+	{
+		"created_at": "Sat Apr 27 04:22:35 +0000 2019",
+		"id": 1121991164935032800,
+		"id_str": "1121993017856942081",
+		"full_text": "ＧＷ、10連休スタート！　県外から、海外から、観光客続々 https://t.co/dX5xoav4Sq #ゴールデンウィーク #okinawa #沖縄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ゴールデンウィーク",
+					"indices": [
+						53,
+						63
+					]
+				},
+				{
+					"text": "okinawa",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						73,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dX5xoav4Sq",
+					"expanded_url": "https://www.okinawatimes.co.jp/articles/-/414253",
+					"display_url": "okinawatimes.co.jp/articles/-/414…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.okinawatimes.co.jp\" rel=\"nofollow\">沖縄タイムス社TweetBot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118600653,
+			"id_str": "118600653",
+			"name": "沖縄タイムス",
+			"screen_name": "theokinawatimes",
+			"location": "沖縄県那覇市",
+			"description": "「沖縄タイムス」の公式アカウントです。沖縄のニュースを紹介します。情報提供はこちら↓↓\nhttps://t.co/dRtcewdzWi\n\n辺野古・高江@times_henoko\n「幻想のメディア」取材班@gensoutimes",
+			"url": "http://t.co/MNvzHef3vO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MNvzHef3vO",
+							"expanded_url": "http://www.okinawatimes.co.jp",
+							"display_url": "okinawatimes.co.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dRtcewdzWi",
+							"expanded_url": "https://app.okinawatimes.co.jp/contact/info_form.php",
+							"display_url": "app.okinawatimes.co.jp/contact/info_f…",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 85598,
+			"friends_count": 102,
+			"listed_count": 3213,
+			"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+			"favourites_count": 3133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 285713,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1554698014",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ＧＷ、10連休スタート！　県外から、海外から、観光客続々 https://t.co/dX5xoav4Sq #ゴールデンウィーク #okinawa #沖縄"
+	},
+	{
 		"created_at": "Wed Apr 24 11:33:19 +0000 2019",
 		"id": 1121006071387058200,
 		"id_str": "1121014252867702785",
