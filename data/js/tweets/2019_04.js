@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 30 23:17:13 +0000 2019",
+		"id": 1123361669910949900,
+		"id_str": "1123365719893090304",
+		"full_text": "＜あのころ＞血のメーデー事件 － 皇居前広場で衝突\nhttps://t.co/vodkj7QdF3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vodkj7QdF3",
+					"expanded_url": "https://this.kiji.is/496094169597609057?c=39550187727945729",
+					"display_url": "this.kiji.is/49609416959760…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.kyodonews.jp\" rel=\"nofollow\">NewspackPost</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1240672056,
+			"id_str": "1240672056",
+			"name": "共同通信公式",
+			"screen_name": "kyodo_official",
+			"location": "東京都港区東新橋1-7-1",
+			"description": "共同通信が運営する公式アカウントです。ニュースを配信しながら、時々つぶやきます。\r\n全国のニュースは47newsへ\r\n→http://t.co/BqAAr8ExTG\r\n\r\n※情報提供をお願いすることがあります。つぶやきは管理人の個人的意見であり、フォローおよびRTは賛意とは限りません。",
+			"url": "http://t.co/Io4WpRid4e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Io4WpRid4e",
+							"expanded_url": "http://www.kyodonews.jp/",
+							"display_url": "kyodonews.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/BqAAr8ExTG",
+							"expanded_url": "http://www.47news.jp/",
+							"display_url": "47news.jp",
+							"indices": [
+								60,
+								82
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 161757,
+			"friends_count": 91,
+			"listed_count": 4282,
+			"created_at": "Mon Mar 04 06:41:52 +0000 2013",
+			"favourites_count": 808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 274181,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/954321542577405952/Hoc3Ph5V_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/954321542577405952/Hoc3Ph5V_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1240672056/1363066979",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "＜あのころ＞血のメーデー事件 － 皇居前広場で衝突\nhttps://t.co/vodkj7QdF3"
+	},
+	{
+		"created_at": "Tue Apr 30 13:34:06 +0000 2019",
+		"id": 1123197286249484300,
+		"id_str": "1123218973531590656",
+		"full_text": "꾸준히 하는 이야기지만 저는 \"덴노\" 표기안을 꾸준히 지지하는 파입니다.\n1. 원문을 굳이 손상하지 않음\n2. 원뜻을 굳이 의식하지 않음\n3. 그나라 말 그대로라 국제적 통용 OK\n4. 외국어라 한국인에게 황제로서의 격상 의미가 잘 전달 안됨\n5. 유사 전례 있음: 술탄, 파라오, 칼리프, 샤 등",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 353097742,
+			"id_str": "353097742",
+			"name": "[통판중] 시아란/아란시스토르",
+			"screen_name": "aransistore",
+			"location": "복실이 연구소",
+			"description": "PhD Engr / 스토리텔러 / 설덕후 / 만화, 애니메이션, 라이트노벨, 철도, 봉제인형, 귀여운 것 / 덕 아닌 분 팔로우 안받습니다.",
+			"url": "https://t.co/YdD6I0GJRn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YdD6I0GJRn",
+							"expanded_url": "http://www.siaran.kr",
+							"display_url": "siaran.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1974,
+			"friends_count": 234,
+			"listed_count": 48,
+			"created_at": "Thu Aug 11 15:02:56 +0000 2011",
+			"favourites_count": 14551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 299039,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/353097742/1459516574",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 688,
+		"favorite_count": 201,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "꾸준히 하는 이야기지만 저는 \"덴노\" 표기안을 꾸준히 지지하는 파입니다.\n1. 원문을 굳이 손상하지 않음\n2. 원뜻을 굳이 의식하지 않음\n3. 그나라 말 그대로라 국제적 통용 OK\n4. 외국어라 한국인에게 황제로서의 격상 의미가 잘 전달 안됨\n5. 유사 전례 있음: 술탄, 파라오, 칼리프, 샤 등"
+	},
+	{
 		"created_at": "Mon Apr 29 09:38:09 +0000 2019",
 		"id": 1122796743978917900,
 		"id_str": "1122797209320185856",
