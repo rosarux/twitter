@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 11 05:20:25 +0000 2019",
+		"id": 1126862450505084900,
+		"id_str": "1127080999542648832",
+		"full_text": "'임금이 적어서 초과근로를 해서라도 돈을 더 벌어야 하는' 것을 '자발적'인 걸로 퉁쳐온 결과, 개새끼들이 이런 개소리를 당당하게 싸지르는 상황까지 왔다. https://t.co/LuIA2bVLdM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LuIA2bVLdM",
+					"expanded_url": "https://twitter.com/hankyungmedia/status/1126857510395101184",
+					"display_url": "twitter.com/hankyungmedia/…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 707605147061321700,
+			"id_str": "707605147061321729",
+			"name": "고양이형 카고",
+			"screen_name": "cat_cargo",
+			"location": "",
+			"description": "맞다 이 악마야",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4762,
+			"friends_count": 75,
+			"listed_count": 71,
+			"created_at": "Wed Mar 09 16:33:08 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 633,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848025237019078658/7qn9GPQe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848025237019078658/7qn9GPQe_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1126857510395101200,
+		"quoted_status_id_str": "1126857510395101184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LuIA2bVLdM",
+			"expanded": "https://twitter.com/hankyungmedia/status/1126857510395101184",
+			"display": "twitter.com/hankyungmedia/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 10 14:32:21 +0000 2019",
+			"id": 1126857510395101200,
+			"id_str": "1126857510395101184",
+			"full_text": "근로자들이 스스로 늦게 퇴근하겠다는데… 한국에만 있는 '징벌적 규제'에 외국계 기업 CEO들은 어리둥절 https://t.co/YwgqR2ECOy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YwgqR2ECOy",
+						"expanded_url": "https://www.hankyung.com/economy/article/2019051034371",
+						"display_url": "hankyung.com/economy/articl…",
+						"indices": [
+							58,
+							81
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 180664850,
+				"id_str": "180664850",
+				"name": "한국경제신문",
+				"screen_name": "hankyungmedia",
+				"location": "",
+				"description": "한국경제신문 공식 트위터 계정입니다. 따뜻이 소통하면서 좋은 정보를 공유하는데 최선을 다하겠습니다. 제보, 의견 기다립니다. The Korea Economic Daily 02-360-4114 https://t.co/b99nT8fJAg",
+				"url": "https://t.co/Gak4jZnfaU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gak4jZnfaU",
+								"expanded_url": "http://www.facebook.com/hankyungmedia",
+								"display_url": "facebook.com/hankyungmedia",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/b99nT8fJAg",
+								"expanded_url": "http://www.hankyung.com",
+								"display_url": "hankyung.com",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 66450,
+				"friends_count": 64779,
+				"listed_count": 1537,
+				"created_at": "Fri Aug 20 04:54:38 +0000 2010",
+				"favourites_count": 56,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 106959,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1047035252705828865/caGM_yMy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047035252705828865/caGM_yMy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/180664850/1552550687",
+				"profile_link_color": "080808",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 99,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2364,
+		"favorite_count": 363,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'임금이 적어서 초과근로를 해서라도 돈을 더 벌어야 하는' 것을 '자발적'인 걸로 퉁쳐온 결과, 개새끼들이 이런 개소리를 당당하게 싸지르는 상황까지 왔다. https://t.co/LuIA2bVLdM"
+	},
+	{
 		"created_at": "Thu May 09 23:32:47 +0000 2019",
 		"id": 1126631129342038000,
 		"id_str": "1126631129342038016",
