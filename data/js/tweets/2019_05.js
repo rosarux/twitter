@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 14 22:47:19 +0000 2019",
+		"id": 1128256401107603500,
+		"id_str": "1128431627569209344",
+		"full_text": "世界外国人韓国語スピーチ大会　日本人が大賞 https://t.co/tXeQhAVplY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tXeQhAVplY",
+					"expanded_url": "http://yna.kr/AJP20190514004600882",
+					"display_url": "yna.kr/AJP20190514004…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://japanese.yonhapnews.co.kr\" rel=\"nofollow\">YonhapNewsJapanese</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116351829,
+			"id_str": "116351829",
+			"name": "yonhapnews",
+			"screen_name": "yonhapjp",
+			"location": "Seoul Korea",
+			"description": "聯合ニュースは１年３６５日、１日２４時間、ひと時も休まず国内外の取材網をフル稼働して最新のニュースを入手し、韓国の新聞・放送メディアや政府機関、主要企業などはもちろん、海外の契約会社にも幅広く提供している韓国最大の通信社です。",
+			"url": "http://t.co/qrrtl27hMK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/qrrtl27hMK",
+							"expanded_url": "http://japanese.yonhapnews.co.kr/",
+							"display_url": "japanese.yonhapnews.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10188,
+			"friends_count": 0,
+			"listed_count": 1062,
+			"created_at": "Mon Feb 22 04:24:54 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73173,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/750861004393762816/NRxovWsp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/750861004393762816/NRxovWsp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116351829/1555056273",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 143,
+		"favorite_count": 239,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "世界外国人韓国語スピーチ大会　日本人が大賞 https://t.co/tXeQhAVplY"
+	},
+	{
 		"created_at": "Mon May 13 06:19:51 +0000 2019",
 		"id": 1127820731935383600,
 		"id_str": "1127820731935383552",
