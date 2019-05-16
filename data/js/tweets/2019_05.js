@@ -1,6 +1,655 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 15 13:42:52 +0000 2019",
+		"id": 1128319154233139200,
+		"id_str": "1128656998059298818",
+		"full_text": "難しい質問に対するキアヌの答えが、最高に美しいと皆が感動。\n\n「僕たち死んだらどうなるのかな、キアヌ？」\n「そうだね.....僕たちのことを愛する人たちが、僕たちを想ってくれる」\n\n思いがけない答えにコルベアが珍しく一瞬言葉を失う。家族に様々な不幸があったから2人だから、なおさら胸にくる。 https://t.co/mM7xpU9f23",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mM7xpU9f23",
+					"expanded_url": "https://twitter.com/misslaneym/status/1127281519951863809",
+					"display_url": "twitter.com/misslaneym/sta…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 891102994715951100,
+			"id_str": "891102994715951105",
+			"name": "Summer",
+			"screen_name": "Summer500la",
+			"location": "日本→アメリカ→日本",
+			"description": "既婚、子供2人のワーママ。気になるツイート(主に人権関連)を自分の勉強を兼ねて翻訳/意訳します(特に長いスレッドが好き)。間違いの可能性もありますので、疑問点はオリジナルのツイートをご確認ください。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2965,
+			"friends_count": 382,
+			"listed_count": 45,
+			"created_at": "Sat Jul 29 01:08:04 +0000 2017",
+			"favourites_count": 4733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4246,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/894973252484816896/FfdWhocI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/894973252484816896/FfdWhocI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/891102994715951105/1502212759",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1127281519951863800,
+		"quoted_status_id_str": "1127281519951863809",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mM7xpU9f23",
+			"expanded": "https://twitter.com/misslaneym/status/1127281519951863809",
+			"display": "twitter.com/misslaneym/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 11 18:37:12 +0000 2019",
+			"id": 1127281519951863800,
+			"id_str": "1127281519951863809",
+			"full_text": "Keanu Reeves gives the right answer to an impossible question. https://t.co/hQAgaaGSEY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				62
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1127281493037002800,
+						"id_str": "1127281493037002753",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1127281493037002753/pu/img/i0GkTP7L5wEMAn6F.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1127281493037002753/pu/img/i0GkTP7L5wEMAn6F.jpg",
+						"url": "https://t.co/hQAgaaGSEY",
+						"display_url": "pic.twitter.com/hQAgaaGSEY",
+						"expanded_url": "https://twitter.com/misslaneym/status/1127281519951863809/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 460,
+								"h": 816,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 460,
+								"h": 816,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1127281493037002800,
+						"id_str": "1127281493037002753",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1127281493037002753/pu/img/i0GkTP7L5wEMAn6F.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1127281493037002753/pu/img/i0GkTP7L5wEMAn6F.jpg",
+						"url": "https://t.co/hQAgaaGSEY",
+						"display_url": "pic.twitter.com/hQAgaaGSEY",
+						"expanded_url": "https://twitter.com/misslaneym/status/1127281519951863809/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 460,
+								"h": 816,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 460,
+								"h": 816,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								115,
+								204
+							],
+							"duration_millis": 17608,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1127281493037002753/pu/pl/mN13_bmt-nBd-Zly.m3u8?tag=9"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1127281493037002753/pu/vid/320x566/tTjZzM6qYvENct2Z.mp4?tag=9"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1127281493037002753/pu/vid/460x816/gNuZDvJI7iDu579v.mp4?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2318676669,
+				"id_str": "2318676669",
+				"name": "laney",
+				"screen_name": "misslaneym",
+				"location": "New York, USA",
+				"description": "Tom is the only petty I like.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14084,
+				"friends_count": 5074,
+				"listed_count": 210,
+				"created_at": "Sat Feb 01 19:58:12 +0000 2014",
+				"favourites_count": 55258,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32180,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1106321116975562755/JnKb4tQH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106321116975562755/JnKb4tQH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2318676669/1543895388",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 102205,
+			"favorite_count": 339058,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2303,
+		"favorite_count": 5749,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "難しい質問に対するキアヌの答えが、最高に美しいと皆が感動。\n\n「僕たち死んだらどうなるのかな、キアヌ？」\n「そうだね.....僕たちのことを愛する人たちが、僕たちを想ってくれる」\n\n思いがけない答えにコルベアが珍しく一瞬言葉を失う。家族に様々な不幸があったから2人だから、なおさら胸にくる。 https://t.co/mM7xpU9f23"
+	},
+	{
+		"created_at": "Wed May 15 13:31:09 +0000 2019",
+		"id": 1128438020707717100,
+		"id_str": "1128654049673277442",
+		"full_text": "버닝선대인이라 이름 짓고 낄낄거리는 게 한남들이 딴지감성이라고 하는 하끕 저끕 문화다. 저런 게 마치 기성세대를 비판하는 신세대의 발랄함으로 포장한 것이 90년대 한국사회와 김어준. 그때 20대가 4,50대가 되었으면 여전히 저러고 있는. 정신 좀 차려야 할 텐데, 아마 죽을 때까지 저럴 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1684827582,
+			"id_str": "1684827582",
+			"name": "앨리",
+			"screen_name": "alley_in_forest",
+			"location": "",
+			"description": "페미니스트, 빨갱이, 언어학자, I’m Dr. Alley #GirlsCanDoAnything",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6131,
+			"friends_count": 432,
+			"listed_count": 59,
+			"created_at": "Tue Aug 20 04:33:52 +0000 2013",
+			"favourites_count": 20703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 106540,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073859328921071617/WO7aT88Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073859328921071617/WO7aT88Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1684827582/1376976088",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 635,
+		"favorite_count": 174,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "버닝선대인이라 이름 짓고 낄낄거리는 게 한남들이 딴지감성이라고 하는 하끕 저끕 문화다. 저런 게 마치 기성세대를 비판하는 신세대의 발랄함으로 포장한 것이 90년대 한국사회와 김어준. 그때 20대가 4,50대가 되었으면 여전히 저러고 있는. 정신 좀 차려야 할 텐데, 아마 죽을 때까지 저럴 것."
+	},
+	{
+		"created_at": "Wed May 15 13:01:25 +0000 2019",
+		"id": 1128221633905287200,
+		"id_str": "1128646565231337473",
+		"full_text": "『戦前不敬発言大全』と『戦前反戦発言大全』が、Amazonで予約できるようになってます。　https://t.co/YcBNjbEzSU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YcBNjbEzSU",
+					"expanded_url": "https://www.amazon.co.jp/dp/4908468354/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&qid=1557823944&refinements=p_45%3A0%2Cp_46%3Abefore%2Cp_47%3A2020%2Cp_30%3A%E3%83%91%E3%83%96%E3%83%AA%E3%83%96&s=books&sr=1-2&unfiltered=1",
+					"display_url": "amazon.co.jp/dp/4908468354/…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 152275555,
+			"id_str": "152275555",
+			"name": "ハマザキカク",
+			"screen_name": "hamazakikaku",
+			"location": "",
+			"description": "近刊『戦前不敬発言大全』『戦前反戦発言大全』。『亡命ハンガリー人列伝』『ブレイクコア・ガイドブック上下』『東欧ブラックメタルガイドブック2』『ソ連歌謡』『超高層ビビル5 韓国編』『共産テクノ 東欧編』『デスメタルコリア』『デプレッシヴ・スイサイダル・ブラックメタル・ガイドブック』『中国遊園地大図鑑』パブリブ編集者",
+			"url": "https://t.co/ouJXKDKEO7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ouJXKDKEO7",
+							"expanded_url": "http://publibjp.com/",
+							"display_url": "publibjp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8766,
+			"friends_count": 9642,
+			"listed_count": 380,
+			"created_at": "Sat Jun 05 14:32:30 +0000 2010",
+			"favourites_count": 14703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51333,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "47BFE3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108298983749742592/y64AcoBo_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108298983749742592/y64AcoBo_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/152275555/1557811573",
+			"profile_link_color": "47BFE3",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "『戦前不敬発言大全』と『戦前反戦発言大全』が、Amazonで予約できるようになってます。　https://t.co/YcBNjbEzSU"
+	},
+	{
+		"created_at": "Wed May 15 11:00:22 +0000 2019",
+		"id": 1128616104471871500,
+		"id_str": "1128616104471871497",
+		"full_text": "아버지랑 동갑이던 대학원 동기분의 奥様가 돌아가셨다고 ㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 492,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17241,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아버지랑 동갑이던 대학원 동기분의 奥様가 돌아가셨다고 ㅠ"
+	},
+	{
+		"created_at": "Wed May 15 08:42:38 +0000 2019",
+		"id": 1128506738011820000,
+		"id_str": "1128581443796459520",
+		"full_text": "이낙연 총리 \"최저임금 때문에 경제 나빠진다는 말 조심해야\"\nhttps://t.co/CkMeYl1Yf9\n“우리사회에서 가장 낮은 임금 받는 사람들 때문에 우리 사회·경제가 나빠진다는 말을 조심하자”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CkMeYl1Yf9",
+					"expanded_url": "http://naver.me/x8T6lkWV",
+					"display_url": "naver.me/x8T6lkWV",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 340911679,
+			"id_str": "340911679",
+			"name": "기억해 🌱",
+			"screen_name": "dareto_tell",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13639,
+			"friends_count": 8960,
+			"listed_count": 66,
+			"created_at": "Sat Jul 23 13:55:38 +0000 2011",
+			"favourites_count": 12554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 90645,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077523809182208000/DaDmgCU6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077523809182208000/DaDmgCU6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/340911679/1537420106",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 182,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이낙연 총리 \"최저임금 때문에 경제 나빠진다는 말 조심해야\"\nhttps://t.co/CkMeYl1Yf9\n“우리사회에서 가장 낮은 임금 받는 사람들 때문에 우리 사회·경제가 나빠진다는 말을 조심하자”"
+	},
+	{
 		"created_at": "Tue May 14 22:47:19 +0000 2019",
 		"id": 1128256401107603500,
 		"id_str": "1128431627569209344",
