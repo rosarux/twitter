@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 16 22:44:06 +0000 2019",
+		"id": 1129063845706625000,
+		"id_str": "1129155591866204160",
+		"full_text": "賛同よろしくお願いします🙏\n\nhttps://t.co/6SsBGJvckR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6SsBGJvckR",
+					"expanded_url": "http://chng.it/hnNkcbkqsD",
+					"display_url": "chng.it/hnNkcbkqsD",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 303244602,
+			"id_str": "303244602",
+			"name": "かな",
+			"screen_name": "KanaTeach",
+			"location": "沖縄 名護市",
+			"description": "反原発！反改憲！大弾圧糾弾！辺野古新基地建設阻止！反核反戦平和！反差別！反貧困！権力の暴挙に屈しない！  ＦＢ：Tomonari Kanateach",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2791,
+			"friends_count": 2397,
+			"listed_count": 84,
+			"created_at": "Sun May 22 14:52:44 +0000 2011",
+			"favourites_count": 4904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89765,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/772441378886262784/P5vYNZ9L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/772441378886262784/P5vYNZ9L_normal.jpg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "ddb61e1317166938",
+			"url": "https://api.twitter.com/1.1/geo/id/ddb61e1317166938.json",
+			"place_type": "city",
+			"name": "名護市",
+			"full_name": "沖縄 名護市",
+			"country_code": "JP",
+			"country": "日本",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.89829,
+							26.505356
+						],
+						[
+							128.151096,
+							26.505356
+						],
+						[
+							128.151096,
+							26.687086
+						],
+						[
+							127.89829,
+							26.687086
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "賛同よろしくお願いします🙏\n\nhttps://t.co/6SsBGJvckR"
+	},
+	{
 		"created_at": "Wed May 15 13:42:52 +0000 2019",
 		"id": 1128319154233139200,
 		"id_str": "1128656998059298818",
