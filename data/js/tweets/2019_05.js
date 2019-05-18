@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 00:01:37 +0000 2019",
+		"id": 1129477921779769300,
+		"id_str": "1129537488303734786",
+		"full_text": "정치인이 한 말 중 이보다 더 품격있는 말이 또 있었을까? https://t.co/6QuOXV9Jjs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129477914708176900,
+					"id_str": "1129477914708176897",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D6y2Ld_UcAERRBP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6y2Ld_UcAERRBP.jpg",
+					"url": "https://t.co/6QuOXV9Jjs",
+					"display_url": "pic.twitter.com/6QuOXV9Jjs",
+					"expanded_url": "https://twitter.com/etgbok/status/1129477921779769345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 721,
+							"h": 378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 721,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129477914708176900,
+					"id_str": "1129477914708176897",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D6y2Ld_UcAERRBP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6y2Ld_UcAERRBP.jpg",
+					"url": "https://t.co/6QuOXV9Jjs",
+					"display_url": "pic.twitter.com/6QuOXV9Jjs",
+					"expanded_url": "https://twitter.com/etgbok/status/1129477921779769345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 721,
+							"h": 378,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 721,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 457523377,
+			"id_str": "457523377",
+			"name": "A. Smith",
+			"screen_name": "etgbok",
+			"location": "마음은 야구장에 두고 왔어요.",
+			"description": "운동부족에 시달리는 자발적비정규직노동자. (Between Romain Gary and Emile Ajar)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1433,
+			"friends_count": 561,
+			"listed_count": 25,
+			"created_at": "Sat Jan 07 14:24:19 +0000 2012",
+			"favourites_count": 2812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 87005,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125326122080559104/8aSlOZ9R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125326122080559104/8aSlOZ9R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/457523377/1362319625",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정치인이 한 말 중 이보다 더 품격있는 말이 또 있었을까? https://t.co/6QuOXV9Jjs"
+	},
+	{
 		"created_at": "Thu May 16 22:44:06 +0000 2019",
 		"id": 1129063845706625000,
 		"id_str": "1129155591866204160",
