@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 13:48:50 +0000 2019",
+		"id": 1129729359659638800,
+		"id_str": "1129745661577105410",
+		"full_text": "今日も一日お疲れ様でした🌈 https://t.co/WAkGQci6Ff",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129729298737389600,
+					"id_str": "1129729298737389571",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D62az8eX4AMrca7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D62az8eX4AMrca7.jpg",
+					"url": "https://t.co/WAkGQci6Ff",
+					"display_url": "pic.twitter.com/WAkGQci6Ff",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1129729359659638785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129729298737389600,
+					"id_str": "1129729298737389571",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D62az8eX4AMrca7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D62az8eX4AMrca7.jpg",
+					"url": "https://t.co/WAkGQci6Ff",
+					"display_url": "pic.twitter.com/WAkGQci6Ff",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1129729359659638785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1129729335592738800,
+					"id_str": "1129729335592738816",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D62a2FxX4AAeixQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D62a2FxX4AAeixQ.jpg",
+					"url": "https://t.co/WAkGQci6Ff",
+					"display_url": "pic.twitter.com/WAkGQci6Ff",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1129729359659638785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1440845558,
+			"id_str": "1440845558",
+			"name": "いけむらたかし",
+			"screen_name": "takashi91mile",
+			"location": "沖縄県❂okinawa-japan",
+			"description": "沖縄の景色を色んな人と楽しめて嬉しいです。沖縄の素晴らしい景色を色んな人に伝えたい。よろしくお願いします🌈【趣味】音楽･野球･読書",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23671,
+			"friends_count": 20355,
+			"listed_count": 221,
+			"created_at": "Sun May 19 10:43:57 +0000 2013",
+			"favourites_count": 42341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4234,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1440845558/1550065457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 351,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今日も一日お疲れ様でした🌈 https://t.co/WAkGQci6Ff"
+	},
+	{
+		"created_at": "Sat May 18 10:48:33 +0000 2019",
+		"id": 1129218112346312700,
+		"id_str": "1129700293342400512",
+		"full_text": "미국 공공기관에서 일 처리하는 걸 보면 왜 주토피아에서 나무늘보 캐릭터를 썼는지 이해가 감. 한국인들이 미국 공공기관에서 일하면 일자리가 반으로 줄겠다고 불평했더니, 옆에 있던 지인 왈, 한국인들이 유럽 공공기관에서 일하면 일자리의 3분의 2는 없어질거라고. 참 열심히 사는 한국민들.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17175512,
+			"id_str": "17175512",
+			"name": "YJ Sohn",
+			"screen_name": "syjkorea",
+			"location": "Florida",
+			"description": "Dreamer. Loves books, photography, classical/jazz/hip-hop, traveling, my cartoon-like life. Tweeting = Herstory-building.",
+			"url": "https://t.co/j5hDwoeJgq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j5hDwoeJgq",
+							"expanded_url": "https://www.instagram.com/syjkorea/",
+							"display_url": "instagram.com/syjkorea/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9031,
+			"friends_count": 1464,
+			"listed_count": 110,
+			"created_at": "Wed Nov 05 01:10:20 +0000 2008",
+			"favourites_count": 5897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/546097007077908480/79WaI9Dj_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/546097007077908480/79WaI9Dj_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17175512/1512960190",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1A3F57",
+			"profile_text_color": "72B9BF",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2235,
+		"favorite_count": 676,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "미국 공공기관에서 일 처리하는 걸 보면 왜 주토피아에서 나무늘보 캐릭터를 썼는지 이해가 감. 한국인들이 미국 공공기관에서 일하면 일자리가 반으로 줄겠다고 불평했더니, 옆에 있던 지인 왈, 한국인들이 유럽 공공기관에서 일하면 일자리의 3분의 2는 없어질거라고. 참 열심히 사는 한국민들."
+	},
+	{
 		"created_at": "Sat May 18 00:01:37 +0000 2019",
 		"id": 1129477921779769300,
 		"id_str": "1129537488303734786",
