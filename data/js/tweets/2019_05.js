@@ -1,6 +1,774 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 19 12:09:26 +0000 2019",
+		"id": 1130080305119785000,
+		"id_str": "1130083038270959617",
+		"full_text": "沖縄の本土復帰（1972年5月15日）から47年を記念し、平和を願いながら歩く「5・15平和行進」最終日の19日、沖縄県宜野湾市で「平和とくらしを守る県民大会」が開かれました。オリジナル版は→https://t.co/5aNYQdx4Ou https://t.co/2SWIDcd0bz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5aNYQdx4Ou",
+					"expanded_url": "http://bit.ly/2VvIc0w",
+					"display_url": "bit.ly/2VvIc0w",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1130079287770460200,
+					"id_str": "1130079287770460160",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/D67Zq4GVUAADQVW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D67Zq4GVUAADQVW.jpg",
+					"url": "https://t.co/2SWIDcd0bz",
+					"display_url": "pic.twitter.com/2SWIDcd0bz",
+					"expanded_url": "https://twitter.com/eizo_desk/status/1130080305119784960/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130079287770460200,
+					"id_str": "1130079287770460160",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/D67Zq4GVUAADQVW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D67Zq4GVUAADQVW.jpg",
+					"url": "https://t.co/2SWIDcd0bz",
+					"display_url": "pic.twitter.com/2SWIDcd0bz",
+					"expanded_url": "https://twitter.com/eizo_desk/status/1130080305119784960/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 27861,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1130079287770460160/vid/480x480/Gd8lBA1GCp2EaHWS.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1130079287770460160/pl/7DB1Hj5x2uoVYPRT.m3u8?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1130079287770460160/vid/720x720/yUIHreH6nbbMjEWX.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1130079287770460160/vid/320x320/R9S8Y_QjwLi_q14_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://bit.ly/2VvIc0w"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3191925858,
+			"id_str": "3191925858",
+			"name": "毎日新聞映像グループ",
+			"screen_name": "eizo_desk",
+			"location": "東京都 千代田区一ツ橋1－1－1",
+			"description": "毎日新聞映像グループの公式アカウントです。「毎日動画」にアップした動画ニュースを紹介します。よろしくお願いします。 https://t.co/IjIkiRy50f \nhttps://t.co/uEWjbZmOXg",
+			"url": "https://t.co/IjIkiRy50f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IjIkiRy50f",
+							"expanded_url": "http://mainichi.jp/movie/",
+							"display_url": "mainichi.jp/movie/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IjIkiRy50f",
+							"expanded_url": "http://mainichi.jp/movie/",
+							"display_url": "mainichi.jp/movie/",
+							"indices": [
+								58,
+								81
+							]
+						},
+						{
+							"url": "https://t.co/uEWjbZmOXg",
+							"expanded_url": "https://www.facebook.com/mainichimovie/",
+							"display_url": "facebook.com/mainichimovie/",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17060,
+			"friends_count": 81,
+			"listed_count": 540,
+			"created_at": "Mon May 11 10:35:14 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4248,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3191925858/1436243230",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "沖縄の本土復帰（1972年5月15日）から47年を記念し、平和を願いながら歩く「5・15平和行進」最終日の19日、沖縄県宜野湾市で「平和とくらしを守る県民大会」が開かれました。オリジナル版は→https://t.co/5aNYQdx4Ou https://t.co/2SWIDcd0bz"
+	},
+	{
+		"created_at": "Sun May 19 11:23:20 +0000 2019",
+		"id": 1130069747612053500,
+		"id_str": "1130071433336373249",
+		"full_text": "内地行ったらホームシック。 #あるあると思ったらRT  #沖縄あるある",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "あるあると思ったらRT",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"text": "沖縄あるある",
+					"indices": [
+						28,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 621651382,
+			"id_str": "621651382",
+			"name": "沖縄あるある",
+			"screen_name": "okiaru",
+			"location": "沖縄(Okinawa)",
+			"description": "沖縄あるあるをまとめたbot★約2時間ごとにあるある発信(0～7時の間はつぶやきません)★あるあると思ったらRT★流しても良い沖縄あるあるを思いついたら教えてください★返事は気まぐれ★ ※100%全ての沖縄県民、地域にあてはまるということではないのでご了承ください",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44450,
+			"friends_count": 2,
+			"listed_count": 181,
+			"created_at": "Fri Jun 29 06:56:06 +0000 2012",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20355,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2351508598/hngr7mdgdsdcz1fbvepy_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2351508598/hngr7mdgdsdcz1fbvepy_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/621651382/1439522650",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "内地行ったらホームシック。 #あるあると思ったらRT  #沖縄あるある"
+	},
+	{
+		"created_at": "Sun May 19 08:16:36 +0000 2019",
+		"id": 1129994222990270500,
+		"id_str": "1130024443181273088",
+		"full_text": "달을 보라고 했는데 손가락을 보는 전형적인 예. https://t.co/TPZ6QYRrE7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TPZ6QYRrE7",
+					"expanded_url": "https://twitter.com/shaindtwt/status/1129737676339449857",
+					"display_url": "twitter.com/shaindtwt/stat…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2688,
+			"friends_count": 1258,
+			"listed_count": 80,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 95418,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1480131241",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1129737676339449900,
+		"quoted_status_id_str": "1129737676339449857",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TPZ6QYRrE7",
+			"expanded": "https://twitter.com/shaindtwt/status/1129737676339449857",
+			"display": "twitter.com/shaindtwt/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 18 13:17:06 +0000 2019",
+			"id": 1129737676339449900,
+			"id_str": "1129737676339449857",
+			"full_text": "월남전에서 베트콩 한 명을 죽이기 위해 소총탄 5만발이 사용된 것을 한강이 알았다면 기절초풍하지 않았을까. https://t.co/g1x1mbJRZ7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/g1x1mbJRZ7",
+						"expanded_url": "https://twitter.com/write_for_you_/status/1129551799315124225",
+						"display_url": "twitter.com/write_for_you_…",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1027717303,
+				"id_str": "1027717303",
+				"name": "shaind",
+				"screen_name": "shaindtwt",
+				"location": "ROK",
+				"description": "Sicut Lilium inter Spinas sic Amica mea inter Filias.\n\n플텍기간 : ~ 19년 8월",
+				"url": "https://t.co/D7FksZZC6m",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/D7FksZZC6m",
+								"expanded_url": "http://shaind.egloos.com",
+								"display_url": "shaind.egloos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 308,
+				"friends_count": 537,
+				"listed_count": 14,
+				"created_at": "Sat Dec 22 04:03:08 +0000 2012",
+				"favourites_count": 19503,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 46730,
+				"lang": "ko",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/748429213623934976/fUxkZSZt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/748429213623934976/fUxkZSZt_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1129551799315124200,
+			"quoted_status_id_str": "1129551799315124225",
+			"quoted_status_permalink": {
+				"url": "https://t.co/g1x1mbJRZ7",
+				"expanded": "https://twitter.com/write_for_you_/status/1129551799315124225",
+				"display": "twitter.com/write_for_you_…"
+			},
+			"retweet_count": 111,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 104,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "달을 보라고 했는데 손가락을 보는 전형적인 예. https://t.co/TPZ6QYRrE7"
+	},
+	{
+		"created_at": "Sun May 19 02:07:49 +0000 2019",
+		"id": 1129209278114422800,
+		"id_str": "1129931634868858880",
+		"full_text": "Here’s a video of a guy putting a camera on a sushi conveyer belt. It’s wonderful. Every table has a little story! https://t.co/6mwKsTHJ0e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129208360136454100,
+					"id_str": "1129208360136454144",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1129208360136454144/pu/img/DMAqPw3PjnJjqIPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1129208360136454144/pu/img/DMAqPw3PjnJjqIPV.jpg",
+					"url": "https://t.co/6mwKsTHJ0e",
+					"display_url": "pic.twitter.com/6mwKsTHJ0e",
+					"expanded_url": "https://twitter.com/DrewCoffman/status/1129209278114422784/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129208360136454100,
+					"id_str": "1129208360136454144",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1129208360136454144/pu/img/DMAqPw3PjnJjqIPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1129208360136454144/pu/img/DMAqPw3PjnJjqIPV.jpg",
+					"url": "https://t.co/6mwKsTHJ0e",
+					"display_url": "pic.twitter.com/6mwKsTHJ0e",
+					"expanded_url": "https://twitter.com/DrewCoffman/status/1129209278114422784/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129208360136454144/pu/vid/1280x720/elRYVKYY3u78LP_z.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1129208360136454144/pu/pl/An-5RdN6BFbcxiHs.m3u8?tag=9"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129208360136454144/pu/vid/320x180/uVysOmzmPQ-X-h4U.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1129208360136454144/pu/vid/640x360/PcAqoOuHcW7SuSzH.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14355836,
+			"id_str": "14355836",
+			"name": "Drew Coffman",
+			"screen_name": "DrewCoffman",
+			"location": "Redding, CA",
+			"description": "Keyhouse. Talking with others at @_NetFriends and @BDYSTFM. Never settling. (I also bought a coffee shop.)",
+			"url": "https://t.co/kCT56tQSre",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kCT56tQSre",
+							"expanded_url": "http://keyhou.se",
+							"display_url": "keyhou.se",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2158,
+			"friends_count": 161,
+			"listed_count": 59,
+			"created_at": "Thu Apr 10 22:11:05 +0000 2008",
+			"favourites_count": 20795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18366,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/833513152113319936/jZ6at662_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/833513152113319936/jZ6at662_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14355836/1491077995",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "557824",
+			"profile_sidebar_fill_color": "338AB8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 144852,
+		"favorite_count": 435222,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s a video of a guy putting a camera on a sushi conveyer belt. It’s wonderful. Every table has a little story! https://t.co/6mwKsTHJ0e"
+	},
+	{
 		"created_at": "Sat May 18 13:48:50 +0000 2019",
 		"id": 1129729359659638800,
 		"id_str": "1129745661577105410",
