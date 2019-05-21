@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 20 22:49:44 +0000 2019",
+		"id": 1130423380820148200,
+		"id_str": "1130606561888354305",
+		"full_text": "今日は議長や副議長、委員会などを決める臨時会でした。私は都市環境委員、災害対策・防犯等特別委員、そして区議会だよりの広報委員になりました。初めてのことだらけですが、応援してくださる区民のみなさんと力を合わせて頑張ります！ https://t.co/GwiqcdiYsc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130423376290304000,
+					"id_str": "1130423376290304001",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/D7ASEk2U0AEL3Am.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7ASEk2U0AEL3Am.jpg",
+					"url": "https://t.co/GwiqcdiYsc",
+					"display_url": "pic.twitter.com/GwiqcdiYsc",
+					"expanded_url": "https://twitter.com/HoraguchiTomoko/status/1130423380820148224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130423376290304000,
+					"id_str": "1130423376290304001",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/D7ASEk2U0AEL3Am.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7ASEk2U0AEL3Am.jpg",
+					"url": "https://t.co/GwiqcdiYsc",
+					"display_url": "pic.twitter.com/GwiqcdiYsc",
+					"expanded_url": "https://twitter.com/HoraguchiTomoko/status/1130423380820148224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1042014200942321700,
+			"id_str": "1042014200942321664",
+			"name": "ほらぐちともこ 杉並",
+			"screen_name": "HoraguchiTomoko",
+			"location": "東京 杉並区",
+			"description": "洞口朋子 / 杉並区議会議員 / 仙台市出身 / 法政大学で学生運動 / YouTube「前進チャンネル」(@ZenshinC) / 若者の声を杉並から！ / 改憲・戦争とめよう / 原発反対 / オリンピックいらない / 貧困・過労死のない社会を / 街を壊す再開発は白紙撤回！",
+			"url": "https://t.co/H6Dt998XU4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H6Dt998XU4",
+							"expanded_url": "http://horaguchitomoko.jp",
+							"display_url": "horaguchitomoko.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3612,
+			"friends_count": 76,
+			"listed_count": 105,
+			"created_at": "Tue Sep 18 11:35:19 +0000 2018",
+			"favourites_count": 1191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1744,
+			"lang": "ja",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1107236552487239681/H8f6DwGI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107236552487239681/H8f6DwGI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1042014200942321664/1555943190",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 124,
+		"favorite_count": 204,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今日は議長や副議長、委員会などを決める臨時会でした。私は都市環境委員、災害対策・防犯等特別委員、そして区議会だよりの広報委員になりました。初めてのことだらけですが、応援してくださる区民のみなさんと力を合わせて頑張ります！ https://t.co/GwiqcdiYsc"
+	},
+	{
 		"created_at": "Sun May 19 12:09:26 +0000 2019",
 		"id": 1130080305119785000,
 		"id_str": "1130083038270959617",
