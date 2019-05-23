@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 22:09:16 +0000 2019",
+		"id": 1131319323107049500,
+		"id_str": "1131321152788287488",
+		"full_text": "立憲民主、沖縄で糸数氏擁立へ　衆参同日選の想定　衆院沖縄４区　 | 沖縄タイムス＋プラス　ニュース | 沖縄タイムス＋プラス https://t.co/FrHc26Q9dq @theokinawatimesさんから",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theokinawatimes",
+					"name": "沖縄タイムス",
+					"id": 118600653,
+					"id_str": "118600653",
+					"indices": [
+						87,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FrHc26Q9dq",
+					"expanded_url": "https://www.okinawatimes.co.jp/articles/-/423126",
+					"display_url": "okinawatimes.co.jp/articles/-/423…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4462691420,
+			"id_str": "4462691420",
+			"name": "Azami",
+			"screen_name": "AzamiZ5",
+			"location": "沖縄 辺野古",
+			"description": "辺野古新基地建設に反対して、一昨年のボーリング調査開始から辺野古に通ってます。ツイキャス”集まれ！辺野古ゲート前座り込み” https://t.co/dk2WNa0zwf配信してます。観て下さいね。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dk2WNa0zwf",
+							"expanded_url": "http://ja.twitcasting.tv/azamiz5",
+							"display_url": "ja.twitcasting.tv/azamiz5",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 765,
+			"friends_count": 441,
+			"listed_count": 18,
+			"created_at": "Sat Dec 05 09:52:18 +0000 2015",
+			"favourites_count": 121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/680072524420362240/aLGw31O1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/680072524420362240/aLGw31O1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4462691420/1450977417",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "立憲民主、沖縄で糸数氏擁立へ　衆参同日選の想定　衆院沖縄４区　 | 沖縄タイムス＋プラス　ニュース | 沖縄タイムス＋プラス https://t.co/FrHc26Q9dq @theokinawatimesさんから"
+	},
+	{
+		"created_at": "Wed May 22 10:57:08 +0000 2019",
+		"id": 1130816645725687800,
+		"id_str": "1131152004321910784",
+		"full_text": "【速報】\n西武 山川穂高、沖縄で２０号ホームラン‼️\nこのホームランではやくも５０打点‼️\n\n沖縄出身者の沖縄での公式戦ホームランはプロ野球史上初\n\n#seibulions https://t.co/w2s9ETSd5t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "seibulions",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1130816550099800000,
+					"id_str": "1130816550099800064",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1130816550099800064/pu/img/Yy8d8YCWUeoQnzoF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1130816550099800064/pu/img/Yy8d8YCWUeoQnzoF.jpg",
+					"url": "https://t.co/w2s9ETSd5t",
+					"display_url": "pic.twitter.com/w2s9ETSd5t",
+					"expanded_url": "https://twitter.com/baseballchosoku/status/1130816645725687808/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1130816550099800000,
+					"id_str": "1130816550099800064",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1130816550099800064/pu/img/Yy8d8YCWUeoQnzoF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1130816550099800064/pu/img/Yy8d8YCWUeoQnzoF.jpg",
+					"url": "https://t.co/w2s9ETSd5t",
+					"display_url": "pic.twitter.com/w2s9ETSd5t",
+					"expanded_url": "https://twitter.com/baseballchosoku/status/1130816645725687808/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45505,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1130816550099800064/pu/vid/320x180/xPfR81fu7pIlJ2op.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1130816550099800064/pu/vid/640x360/rkIvmf7Cu_hippZx.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1130816550099800064/pu/pl/HFA5WIT6aaU-94-l.m3u8?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1130816550099800064/pu/vid/1280x720/rQZpOP-zcshVUS6E.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 788153560634568700,
+			"id_str": "788153560634568705",
+			"name": "プロ野球おもしろ超速報",
+			"screen_name": "baseballchosoku",
+			"location": "",
+			"description": "野球の人気が低下している現代の日本。この垢を通して野球を好きになる人が少しでも増える事を願っています。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85027,
+			"friends_count": 0,
+			"listed_count": 173,
+			"created_at": "Mon Oct 17 23:03:46 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/989074264656695298/LW4cxVA3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/989074264656695298/LW4cxVA3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/788153560634568705/1553172888",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2409,
+		"favorite_count": 11177,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【速報】\n西武 山川穂高、沖縄で２０号ホームラン‼️\nこのホームランではやくも５０打点‼️\n\n沖縄出身者の沖縄での公式戦ホームランはプロ野球史上初\n\n#seibulions https://t.co/w2s9ETSd5t"
+	},
+	{
+		"created_at": "Wed May 22 10:13:04 +0000 2019",
+		"id": 1131080173078569000,
+		"id_str": "1131140914905141248",
+		"full_text": "지금 올린 &lt;걸캅스&gt; 이야기도 그렇지만, 그냥 단순히 여성이 뭐 하려고만 하면 등장하는 여러 이야기를 보면서 \"왜 이렇게까지 미워하지?\"라는 생각을 하곤 한다. 왜 이렇게까지 미워? 열과 성을 다해서 할 일이 남 미워하는거 밖에 없어? 왜 이렇게까지 열성이야...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 351514953,
+			"id_str": "351514953",
+			"name": "이다혜 ᓚᘏᗢ",
+			"screen_name": "d_alicante",
+			"location": "seoul, s.korea",
+			"description": "[처음부터 잘 쓰는 사람은 없습니다] [교토의 밤 산책자] 취미는 독서 ٩(๑❛ᴗ❛๑)۶ - 아무래도 약간의 독서는 하고 있으니까요. 알람은 꺼놓았답니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20381,
+			"friends_count": 600,
+			"listed_count": 162,
+			"created_at": "Tue Aug 09 10:45:22 +0000 2011",
+			"favourites_count": 22067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982875849962668032/ghNNZyzf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982875849962668032/ghNNZyzf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/351514953/1495456680",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 386,
+		"favorite_count": 171,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지금 올린 &lt;걸캅스&gt; 이야기도 그렇지만, 그냥 단순히 여성이 뭐 하려고만 하면 등장하는 여러 이야기를 보면서 \"왜 이렇게까지 미워하지?\"라는 생각을 하곤 한다. 왜 이렇게까지 미워? 열과 성을 다해서 할 일이 남 미워하는거 밖에 없어? 왜 이렇게까지 열성이야..."
+	},
+	{
+		"created_at": "Wed May 22 09:45:44 +0000 2019",
+		"id": 1131134036460490800,
+		"id_str": "1131134036460490752",
+		"full_text": "홈버튼을 돌려내라!😡",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 491,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "홈버튼을 돌려내라!😡"
+	},
+	{
 		"created_at": "Tue May 21 05:01:30 +0000 2019",
 		"id": 1130700121111326700,
 		"id_str": "1130700121111326720",
