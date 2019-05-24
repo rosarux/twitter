@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 23 14:04:23 +0000 2019",
+		"id": 1131218262610522100,
+		"id_str": "1131561516207968256",
+		"full_text": "안타깝지만 이게 바로 부모들이 게임을 제제하려는 가장 큰 원인이 됨. 게임 보다도, 그걸 향유하는 집단의 폭력적이고 무례한 언사들을 부모가 통제할 수 없는 시간과 공간에서 무비판적으로 수용하게 된다는 것.\n패키지 게임이면 몰라도, 온라인 게임에선 필연적으로 발생함. https://t.co/BLfGgbH1fv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BLfGgbH1fv",
+					"expanded_url": "https://twitter.com/penettanonymous/status/1131065540124917761",
+					"display_url": "twitter.com/penettanonymou…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45861455,
+			"id_str": "45861455",
+			"name": "피두언냐",
+			"screen_name": "silphyd",
+			"location": "",
+			"description": "게임 시나리오, 컨셉 기획 월급쟁이입니다. 게임, 애니 덕토크와 잡담 위주로 떠듭니다. 자체 컨텐츠보단  RT가 많은 계정이니, 팔로우 시 참고 바랍니다. 먀오당원~",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 488,
+			"listed_count": 13,
+			"created_at": "Tue Jun 09 15:29:59 +0000 2009",
+			"favourites_count": 4309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112869075724623872/8luOEIK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112869075724623872/8luOEIK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45861455/1551359636",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1131065540124917800,
+		"quoted_status_id_str": "1131065540124917761",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BLfGgbH1fv",
+			"expanded": "https://twitter.com/penettanonymous/status/1131065540124917761",
+			"display": "twitter.com/penettanonymou…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 22 05:13:33 +0000 2019",
+			"id": 1131065540124917800,
+			"id_str": "1131065540124917761",
+			"full_text": "게임이 유저를 폭력적으로 만드는 것 보단 게이머 동류집단 문화가 폭력적으로 만듦",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				44
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4179764664,
+				"id_str": "4179764664",
+				"name": "탄산수빌런 페넷",
+				"screen_name": "penettanonymous",
+				"location": "",
+				"description": "부서진 꿈의 파편 위에 올라서서 아픈 발바닥 움켜쥐는 사람",
+				"url": "https://t.co/DAL4zP18JX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DAL4zP18JX",
+								"expanded_url": "https://www.artstation.com/penett",
+								"display_url": "artstation.com/penett",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1348,
+				"friends_count": 222,
+				"listed_count": 22,
+				"created_at": "Mon Nov 09 13:57:05 +0000 2015",
+				"favourites_count": 13156,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24337,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1131584571663798274/A9YSXL14_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131584571663798274/A9YSXL14_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4179764664/1522737711",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1555,
+			"favorite_count": 387,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4838,
+		"favorite_count": 803,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안타깝지만 이게 바로 부모들이 게임을 제제하려는 가장 큰 원인이 됨. 게임 보다도, 그걸 향유하는 집단의 폭력적이고 무례한 언사들을 부모가 통제할 수 없는 시간과 공간에서 무비판적으로 수용하게 된다는 것.\n패키지 게임이면 몰라도, 온라인 게임에선 필연적으로 발생함. https://t.co/BLfGgbH1fv"
+	},
+	{
 		"created_at": "Wed May 22 22:09:16 +0000 2019",
 		"id": 1131319323107049500,
 		"id_str": "1131321152788287488",
