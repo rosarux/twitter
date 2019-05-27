@@ -1,6 +1,716 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 26 11:20:40 +0000 2019",
+		"id": 1132607477642453000,
+		"id_str": "1132607477642452992",
+		"full_text": "아.. 오키나와대 학생자치회도 중핵파 계열이었다는...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 491,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아.. 오키나와대 학생자치회도 중핵파 계열이었다는..."
+	},
+	{
+		"created_at": "Sun May 26 00:57:50 +0000 2019",
+		"id": 1132360095696805900,
+		"id_str": "1132450737437286400",
+		"full_text": "그래도 표준근로계약서 받은 영화가 인정받았다는건 산업적으로 좋은 현상이라고 생각합니다....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40153122,
+			"id_str": "40153122",
+			"name": "G. Shadekeys",
+			"screen_name": "giantroot",
+			"location": "",
+			"description": "boy from art school. music,movie,animation,game,book,comic. 韓国語ツイットですが、日本語おしゃべりもできます。多分。 *덕드립이 넘쳐납니다. オタクネタが溢れます。",
+			"url": "https://t.co/H7kA27ZQx7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H7kA27ZQx7",
+							"expanded_url": "http://giantroot.pe.kr",
+							"display_url": "giantroot.pe.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 806,
+			"friends_count": 341,
+			"listed_count": 48,
+			"created_at": "Fri May 15 02:24:12 +0000 2009",
+			"favourites_count": 1119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 220487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112543116374896640/3h3zmNSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112543116374896640/3h3zmNSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40153122/1505812442",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCD",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 534,
+		"favorite_count": 275,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그래도 표준근로계약서 받은 영화가 인정받았다는건 산업적으로 좋은 현상이라고 생각합니다...."
+	},
+	{
+		"created_at": "Sat May 25 15:00:32 +0000 2019",
+		"id": 1132223244159791100,
+		"id_str": "1132300422993944576",
+		"full_text": "お待たせしました。前進チャンネル特別編「沖縄闘争2019」です。 https://t.co/K9zB4NOQ2o https://t.co/0cgYZ1tDBy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K9zB4NOQ2o",
+					"expanded_url": "https://youtu.be/uuvrFlW-Mo8",
+					"display_url": "youtu.be/uuvrFlW-Mo8",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1132223203806367700,
+					"id_str": "1132223203806367744",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Z3AU1VUAAm3V7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Z3AU1VUAAm3V7.jpg",
+					"url": "https://t.co/0cgYZ1tDBy",
+					"display_url": "pic.twitter.com/0cgYZ1tDBy",
+					"expanded_url": "https://twitter.com/ZenshinC/status/1132223244159791104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132223203806367700,
+					"id_str": "1132223203806367744",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Z3AU1VUAAm3V7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Z3AU1VUAAm3V7.jpg",
+					"url": "https://t.co/0cgYZ1tDBy",
+					"display_url": "pic.twitter.com/0cgYZ1tDBy",
+					"expanded_url": "https://twitter.com/ZenshinC/status/1132223244159791104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 969462008788631600,
+			"id_str": "969462008788631552",
+			"name": "前進チャンネル",
+			"screen_name": "ZenshinC",
+			"location": "👇チャンネル登録お願いします",
+			"description": "YouTubeで中核派の機関紙「前進」(週２回発行)の紙面を紹介しています。Instagramもよろしく！",
+			"url": "https://t.co/ca4HZi46LB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ca4HZi46LB",
+							"expanded_url": "https://m.youtube.com/channel/UCy4QO9DkKIximR3EmIMy0gg",
+							"display_url": "m.youtube.com/channel/UCy4QO…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2061,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Fri Mar 02 06:38:49 +0000 2018",
+			"favourites_count": 728,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969463389402554368/LSZHp5aE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969463389402554368/LSZHp5aE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/969462008788631552/1529928810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "お待たせしました。前進チャンネル特別編「沖縄闘争2019」です。 https://t.co/K9zB4NOQ2o https://t.co/0cgYZ1tDBy"
+	},
+	{
+		"created_at": "Sat May 25 14:51:56 +0000 2019",
+		"id": 1132083298883129300,
+		"id_str": "1132298257055399937",
+		"full_text": "의대 정원의 20%가 여자고 그중 대다수가 성적 상위 20%에 그대로 들어가고 이미 통계로도 여자의사한테 진료받은 환자의 사망률이 유의미하게 낮았다고 나와있는데도 여자가 너무 미운 나머지 여자의사는 일을 안한다는 거짓말까지 지어내서 스스로의 건강조차 위협하는 사람들... 뭐라 할말도 없다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729947161719251000,
+			"id_str": "729947161719250945",
+			"name": "염세걸",
+			"screen_name": "whothepessimist",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1550,
+			"friends_count": 179,
+			"listed_count": 11,
+			"created_at": "Tue May 10 08:12:19 +0000 2016",
+			"favourites_count": 11312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131541052689543169/E2RtpJOD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131541052689543169/E2RtpJOD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729947161719250945/1558615385",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6276,
+		"favorite_count": 1535,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "의대 정원의 20%가 여자고 그중 대다수가 성적 상위 20%에 그대로 들어가고 이미 통계로도 여자의사한테 진료받은 환자의 사망률이 유의미하게 낮았다고 나와있는데도 여자가 너무 미운 나머지 여자의사는 일을 안한다는 거짓말까지 지어내서 스스로의 건강조차 위협하는 사람들... 뭐라 할말도 없다"
+	},
+	{
+		"created_at": "Sat May 25 11:21:29 +0000 2019",
+		"id": 1132102797459988500,
+		"id_str": "1132245295838793728",
+		"full_text": "【ZARD坂井さん 歌詞への思い】\nhttps://t.co/mUlDPrNQDq\n\nZARDのボーカル・坂井泉水さんが亡くなって今年の5月27日で12年になる。代表曲「負けないで」などは今もカラオケの定番ソングとして親しまれている。彼女の素顔、今も歌い継がれる理由を探った。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mUlDPrNQDq",
+					"expanded_url": "https://yahoo.jp/cp43eX",
+					"display_url": "yahoo.jp/cp43eX",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://dailynews.yahoo.co.jp/fc/\" rel=\"nofollow\">ヤフトピbot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 88846085,
+			"id_str": "88846085",
+			"name": "Yahoo!ニュース",
+			"screen_name": "YahooNewsTopics",
+			"location": "",
+			"description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。",
+			"url": "https://t.co/PORT0VCtyG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PORT0VCtyG",
+							"expanded_url": "https://news.yahoo.co.jp/",
+							"display_url": "news.yahoo.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 523251,
+			"friends_count": 11,
+			"listed_count": 14703,
+			"created_at": "Tue Nov 10 03:59:51 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 332438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DFD7C7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/88846085/1557715365",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A1A33B",
+			"profile_sidebar_fill_color": "FFFCDE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 480,
+		"favorite_count": 886,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【ZARD坂井さん 歌詞への思い】\nhttps://t.co/mUlDPrNQDq\n\nZARDのボーカル・坂井泉水さんが亡くなって今年の5月27日で12年になる。代表曲「負けないで」などは今もカラオケの定番ソングとして親しまれている。彼女の素顔、今も歌い継がれる理由を探った。"
+	},
+	{
+		"created_at": "Sat May 25 11:02:20 +0000 2019",
+		"id": 1132216714039398400,
+		"id_str": "1132240476336091137",
+		"full_text": "경찰이 멋있어보여서 경찰이 되고싶은 여성에게 무슨 문제가 있습니까? 영웅의 역할이란게 원래 그런 것 아닌가? 엑스파일 이후에 의학과 법집행 영역에 여성의 진출이 눈에 띄게 늘어난 현상에는 ‘스컬리 효과’라는 이름이 붙어있다. https://t.co/EyNdojSBNY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132216708444217300,
+					"id_str": "1132216708444217345",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D7ZxGPuUYAE7XEO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7ZxGPuUYAE7XEO.jpg",
+					"url": "https://t.co/EyNdojSBNY",
+					"display_url": "pic.twitter.com/EyNdojSBNY",
+					"expanded_url": "https://twitter.com/hadess1138/status/1132216714039398401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 342,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 342,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 342,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132216708444217300,
+					"id_str": "1132216708444217345",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D7ZxGPuUYAE7XEO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7ZxGPuUYAE7XEO.jpg",
+					"url": "https://t.co/EyNdojSBNY",
+					"display_url": "pic.twitter.com/EyNdojSBNY",
+					"expanded_url": "https://twitter.com/hadess1138/status/1132216714039398401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 342,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 342,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 342,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 198826020,
+			"id_str": "198826020",
+			"name": "PLUTO",
+			"screen_name": "hadess1138",
+			"location": "",
+			"description": "어느날 무릎에 화살을 맞기 전까진",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59834,
+			"friends_count": 127,
+			"listed_count": 312,
+			"created_at": "Tue Oct 05 10:39:30 +0000 2010",
+			"favourites_count": 3056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 123458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/996106102176530434/Cm8iQzd4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/996106102176530434/Cm8iQzd4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/198826020/1526325244",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5071,
+		"favorite_count": 2000,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "경찰이 멋있어보여서 경찰이 되고싶은 여성에게 무슨 문제가 있습니까? 영웅의 역할이란게 원래 그런 것 아닌가? 엑스파일 이후에 의학과 법집행 영역에 여성의 진출이 눈에 띄게 늘어난 현상에는 ‘스컬리 효과’라는 이름이 붙어있다. https://t.co/EyNdojSBNY"
+	},
+	{
 		"created_at": "Fri May 24 11:48:07 +0000 2019",
 		"id": 1131884202314518500,
 		"id_str": "1131889613436477440",
