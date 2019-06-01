@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 31 13:51:37 +0000 2019",
+		"id": 1134399000285667300,
+		"id_str": "1134457407508140033",
+		"full_text": "古謝美佐子、コジャミー登場^ ^\n沁みる^ ^ https://t.co/GOiO4SWhae",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134398819704008700,
+					"id_str": "1134398819704008704",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1134398819704008704/pu/img/pdSjs1npSDledq4H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1134398819704008704/pu/img/pdSjs1npSDledq4H.jpg",
+					"url": "https://t.co/GOiO4SWhae",
+					"display_url": "pic.twitter.com/GOiO4SWhae",
+					"expanded_url": "https://twitter.com/ujizo/status/1134399000285667328/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134398819704008700,
+					"id_str": "1134398819704008704",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1134398819704008704/pu/img/pdSjs1npSDledq4H.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1134398819704008704/pu/img/pdSjs1npSDledq4H.jpg",
+					"url": "https://t.co/GOiO4SWhae",
+					"display_url": "pic.twitter.com/GOiO4SWhae",
+					"expanded_url": "https://twitter.com/ujizo/status/1134399000285667328/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1134398819704008704/pu/pl/t3VxA-baX0-1jUY5.m3u8?tag=9"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134398819704008704/pu/vid/320x568/lTcH5M3iRInaxC8k.mp4?tag=9"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134398819704008704/pu/vid/720x1280/Ga2ONzEczYK5Wpf0.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1134398819704008704/pu/vid/360x640/udYT98AAwZB7OFsl.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 157157025,
+			"id_str": "157157025",
+			"name": "うじきつよし JICK",
+			"screen_name": "ujizo",
+			"location": "TOKYO JAPAN",
+			"description": "子供ばんど（Photo by 平間 至）",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16816,
+			"friends_count": 933,
+			"listed_count": 867,
+			"created_at": "Sat Jun 19 01:07:14 +0000 2010",
+			"favourites_count": 10129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/785475623833645057/SIQfr4PS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/785475623833645057/SIQfr4PS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/157157025/1401950313",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "125373",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "古謝美佐子、コジャミー登場^ ^\n沁みる^ ^ https://t.co/GOiO4SWhae"
+	},
+	{
 		"created_at": "Thu May 30 12:48:32 +0000 2019",
 		"id": 1134079143010656300,
 		"id_str": "1134079143010656256",
