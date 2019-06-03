@@ -1,6 +1,1123 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 02 15:43:13 +0000 2019",
+		"id": 1135209311699738600,
+		"id_str": "1135210269108424704",
+		"full_text": "タモさんのツイートをRTする日が来るとは…恐るべし安倍政権。 https://t.co/FFkyb1QeV1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FFkyb1QeV1",
+					"expanded_url": "https://twitter.com/toshio_tamogami/status/1134105920315699201",
+					"display_url": "twitter.com/toshio_tamogam…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 51894123,
+			"id_str": "51894123",
+			"name": "志葉玲",
+			"screen_name": "reishiva",
+			"location": "神出鬼没",
+			"description": "いわゆる戦場ジャーナリスト。環境(原発問題も)、人権、反貧困なども取材執筆。Yahoo!ニュース個人オーサー（オフィシャルライター）。 イラク戦争検証を求める活動も。  https://t.co/87VjlWe8dS 講演、原稿等のご依頼は公式ウェブサイトのメールフォームから。",
+			"url": "https://t.co/ABAPNqrGGj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ABAPNqrGGj",
+							"expanded_url": "https://www.reishiva.net/",
+							"display_url": "reishiva.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/87VjlWe8dS",
+							"expanded_url": "https://news.yahoo.co.jp/byline/shivarei/",
+							"display_url": "news.yahoo.co.jp/byline/shivare…",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 48183,
+			"friends_count": 2450,
+			"listed_count": 2145,
+			"created_at": "Mon Jun 29 00:21:14 +0000 2009",
+			"favourites_count": 18623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 44073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001851416024039424/X5o64HSr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001851416024039424/X5o64HSr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/51894123/1425634325",
+			"profile_link_color": "0D07B3",
+			"profile_sidebar_border_color": "0051E8",
+			"profile_sidebar_fill_color": "FFA600",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1134105920315699200,
+		"quoted_status_id_str": "1134105920315699201",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FFkyb1QeV1",
+			"expanded": "https://twitter.com/toshio_tamogami/status/1134105920315699201",
+			"display": "twitter.com/toshio_tamogam…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 30 14:34:56 +0000 2019",
+			"id": 1134105920315699200,
+			"id_str": "1134105920315699201",
+			"full_text": "F35を100機以上も購入するという。問題はその購入の仕方だ。これまではライセンス国産という方式でアメリカから図面を買って我が国が国産で製造していた。しかしF35はFMSと呼ばれるほぼ完成品輸入の形で取得する。国内産業には予算がほとんど回らないし戦闘機開発製造技術も失われていく。",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 102388128,
+				"id_str": "102388128",
+				"name": "田母神俊雄",
+				"screen_name": "toshio_tamogami",
+				"location": "",
+				"description": "第29代航空幕僚長 田母神俊雄です。私は明るくユーモアがあるいい人です。食事は好き嫌いなし。お酒はビールを少し飲んでそのあとは大吟醸です。ゴルフが大好きで、結構上手ですよ。カラオケも好きです。",
+				"url": "http://t.co/2q2mRvD34y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2q2mRvD34y",
+								"expanded_url": "http://www.tamogami-toshio.jp/",
+								"display_url": "tamogami-toshio.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 264047,
+				"friends_count": 0,
+				"listed_count": 8741,
+				"created_at": "Wed Jan 06 14:42:44 +0000 2010",
+				"favourites_count": 15,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4721,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2614544548/tbty1fu0p2ttveeie97h_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2614544548/tbty1fu0p2ttveeie97h_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/102388128/1388576325",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1239,
+			"favorite_count": 3371,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ja"
+		},
+		"retweet_count": 146,
+		"favorite_count": 168,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "タモさんのツイートをRTする日が来るとは…恐るべし安倍政権。 https://t.co/FFkyb1QeV1"
+	},
+	{
+		"created_at": "Sun Jun 02 14:59:45 +0000 2019",
+		"id": 1135198185406619600,
+		"id_str": "1135199328568373248",
+		"full_text": "「米海軍兵による女性殺害緊急追悼・抗議集会」\n日本国憲法の元に復帰して47年。\n沖縄に憲法が生かされているといえるのか。\n米軍基地があるが故に起こる事件事故の犠牲者がまた出た。\nこの沖縄の現実を、次世代のために変えなければならない。 https://t.co/RLx5bObGYj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135198168721678300,
+					"id_str": "1135198168721678336",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D8EIuExUYAA_1jY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8EIuExUYAA_1jY.jpg",
+					"url": "https://t.co/RLx5bObGYj",
+					"display_url": "pic.twitter.com/RLx5bObGYj",
+					"expanded_url": "https://twitter.com/takaratetsumi19/status/1135198185406619649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1568,
+							"h": 1044,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135198168721678300,
+					"id_str": "1135198168721678336",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D8EIuExUYAA_1jY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8EIuExUYAA_1jY.jpg",
+					"url": "https://t.co/RLx5bObGYj",
+					"display_url": "pic.twitter.com/RLx5bObGYj",
+					"expanded_url": "https://twitter.com/takaratetsumi19/status/1135198185406619649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1568,
+							"h": 1044,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135198168721678300,
+					"id_str": "1135198168721678338",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D8EIuExUYAIY4Xc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8EIuExUYAIY4Xc.jpg",
+					"url": "https://t.co/RLx5bObGYj",
+					"display_url": "pic.twitter.com/RLx5bObGYj",
+					"expanded_url": "https://twitter.com/takaratetsumi19/status/1135198185406619649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1568,
+							"h": 1044,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135198168721707000,
+					"id_str": "1135198168721707008",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D8EIuExU0AAwFv6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8EIuExU0AAwFv6.jpg",
+					"url": "https://t.co/RLx5bObGYj",
+					"display_url": "pic.twitter.com/RLx5bObGYj",
+					"expanded_url": "https://twitter.com/takaratetsumi19/status/1135198185406619649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1568,
+							"h": 1044,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135198168767877100,
+					"id_str": "1135198168767877122",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/D8EIuE8VUAIvJTN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8EIuE8VUAIvJTN.jpg",
+					"url": "https://t.co/RLx5bObGYj",
+					"display_url": "pic.twitter.com/RLx5bObGYj",
+					"expanded_url": "https://twitter.com/takaratetsumi19/status/1135198185406619649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1568,
+							"h": 1044,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1128542589831995400,
+			"id_str": "1128542589831995392",
+			"name": "タカラ鉄美",
+			"screen_name": "takaratetsumi19",
+			"location": "沖縄県",
+			"description": "はいさい！高良鉄美です。憲法学者として日本国憲法を45年研究してきた経験を活かし、平和憲法を守り、活かすことを国会で取り組みます。琉球大学名誉教授、沖縄県憲法普及協議会会長、オール沖縄会議共同代表。命どぅタカラ。",
+			"url": "https://t.co/VYHoklFRIY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VYHoklFRIY",
+							"expanded_url": "https://www.facebook.com/profile.php?id=100036597470991",
+							"display_url": "facebook.com/profile.php?id…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1199,
+			"friends_count": 629,
+			"listed_count": 27,
+			"created_at": "Wed May 15 06:08:15 +0000 2019",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128543310253920266/BAOcKxAS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128543310253920266/BAOcKxAS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1128542589831995392/1557910228",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "dca44b78dcf8336d",
+			"url": "https://api.twitter.com/1.1/geo/id/dca44b78dcf8336d.json",
+			"place_type": "city",
+			"name": "北谷町",
+			"full_name": "沖縄 北谷町",
+			"country_code": "JP",
+			"country": "日本",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.742612,
+							26.293036
+						],
+						[
+							127.786207,
+							26.293036
+						],
+						[
+							127.786207,
+							26.346393
+						],
+						[
+							127.742612,
+							26.346393
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「米海軍兵による女性殺害緊急追悼・抗議集会」\n日本国憲法の元に復帰して47年。\n沖縄に憲法が生かされているといえるのか。\n米軍基地があるが故に起こる事件事故の犠牲者がまた出た。\nこの沖縄の現実を、次世代のために変えなければならない。 https://t.co/RLx5bObGYj"
+	},
+	{
+		"created_at": "Sun Jun 02 13:03:11 +0000 2019",
+		"id": 1135169504466464800,
+		"id_str": "1135169994759606274",
+		"full_text": "滑走路が見える空港４階では、「友人を迎えに来たが、滑走路の封鎖で飛行機が着陸できずにいる」という男性など、２０人ほどが復旧作業を見守っていました。\n\n那覇空港で大韓航空機が離陸取りやめ　エンジンの不具合：朝日新聞デジタル https://t.co/QGLMUECMRO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QGLMUECMRO",
+					"expanded_url": "https://www.asahi.com/articles/ASM626WV1M62TIPE01N.html",
+					"display_url": "asahi.com/articles/ASM62…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2202469422,
+			"id_str": "2202469422",
+			"name": "朝日新聞那覇総局",
+			"screen_name": "asahi_okinawa",
+			"location": "",
+			"description": "沖縄のニュースをつぶやきます。RTは必ずしも賛意を表すものではありません。【沖縄はいま】https://t.co/wiKuBjmcJU　【辺野古特集】https://t.co/fcTtK9uPvf　 【地域ニュース】https://t.co/AXL2V1F1B8　【沖縄戦】https://t.co/C5BuxxSZfI",
+			"url": "https://t.co/ZYbBnTHg5F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZYbBnTHg5F",
+							"expanded_url": "http://www.asahi.com/",
+							"display_url": "asahi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wiKuBjmcJU",
+							"expanded_url": "http://bit.ly/28PaLOh",
+							"display_url": "bit.ly/28PaLOh",
+							"indices": [
+								44,
+								67
+							]
+						},
+						{
+							"url": "https://t.co/fcTtK9uPvf",
+							"expanded_url": "http://bit.ly/2pC9i6q",
+							"display_url": "bit.ly/2pC9i6q",
+							"indices": [
+								75,
+								98
+							]
+						},
+						{
+							"url": "https://t.co/AXL2V1F1B8",
+							"expanded_url": "http://bit.ly/2pLBAhL",
+							"display_url": "bit.ly/2pLBAhL",
+							"indices": [
+								108,
+								131
+							]
+						},
+						{
+							"url": "https://t.co/C5BuxxSZfI",
+							"expanded_url": "http://bit.ly/2pEpl57",
+							"display_url": "bit.ly/2pEpl57",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3022,
+			"friends_count": 98,
+			"listed_count": 239,
+			"created_at": "Tue Nov 19 04:21:00 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5006,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "98D1E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000760066481/f9825dc6987f19c7fbdd83a5caf8b57e_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000760066481/f9825dc6987f19c7fbdd83a5caf8b57e_normal.jpeg",
+			"profile_link_color": "0D15A9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "滑走路が見える空港４階では、「友人を迎えに来たが、滑走路の封鎖で飛行機が着陸できずにいる」という男性など、２０人ほどが復旧作業を見守っていました。\n\n那覇空港で大韓航空機が離陸取りやめ　エンジンの不具合：朝日新聞デジタル https://t.co/QGLMUECMRO"
+	},
+	{
+		"created_at": "Sun Jun 02 12:49:13 +0000 2019",
+		"id": 1135099258623840300,
+		"id_str": "1135166477969944577",
+		"full_text": "『アカバナーの向こうの沖縄の海』\n#星野文昭 https://t.co/x2J4yJ9bbg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "星野文昭",
+					"indices": [
+						17,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135099254668529700,
+					"id_str": "1135099254668529664",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D8CuwhNUEAACyFl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8CuwhNUEAACyFl.jpg",
+					"url": "https://t.co/x2J4yJ9bbg",
+					"display_url": "pic.twitter.com/x2J4yJ9bbg",
+					"expanded_url": "https://twitter.com/FreeHoshino/status/1135099258623840257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 713,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 713,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135099254668529700,
+					"id_str": "1135099254668529664",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/D8CuwhNUEAACyFl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8CuwhNUEAACyFl.jpg",
+					"url": "https://t.co/x2J4yJ9bbg",
+					"display_url": "pic.twitter.com/x2J4yJ9bbg",
+					"expanded_url": "https://twitter.com/FreeHoshino/status/1135099258623840257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 713,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 713,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1134812776709251100,
+			"id_str": "1134812776709251072",
+			"name": "星野絵画展",
+			"screen_name": "FreeHoshino",
+			"location": "",
+			"description": "2019年5月30日に亡くなった無実の政治犯・星野文昭さんが獄中で描いた絵画を紹介します。詩はお連れ合いの星野暁子さんです。暁子さんの面会日記も紹介します。アイコンは星野文昭さんの自画像です。",
+			"url": "https://t.co/OHFE4Sge3S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OHFE4Sge3S",
+							"expanded_url": "http://fhoshino.u.cnet-ta.ne.jp",
+							"display_url": "fhoshino.u.cnet-ta.ne.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Sat Jun 01 13:23:44 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134813332655861760/kN7Er3-O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134813332655861760/kN7Er3-O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1134812776709251072/1559395890",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "『アカバナーの向こうの沖縄の海』\n#星野文昭 https://t.co/x2J4yJ9bbg"
+	},
+	{
+		"created_at": "Sun Jun 02 12:44:21 +0000 2019",
+		"id": 1135161998893654000,
+		"id_str": "1135165254856429568",
+		"full_text": "那覇空港で滑走路閉鎖　大韓航空機トラブル\nhttps://t.co/GhBD8GpEBE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GhBD8GpEBE",
+					"expanded_url": "https://www.okinawatimes.co.jp/articles/-/427646",
+					"display_url": "okinawatimes.co.jp/articles/-/427…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118600653,
+			"id_str": "118600653",
+			"name": "沖縄タイムス",
+			"screen_name": "theokinawatimes",
+			"location": "沖縄県那覇市",
+			"description": "「沖縄タイムス」の公式アカウントです。沖縄のニュースをつぶやきます。情報提供はこちら↓↓ https://t.co/dRtcewvbkS",
+			"url": "http://t.co/MNvzHef3vO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MNvzHef3vO",
+							"expanded_url": "http://www.okinawatimes.co.jp",
+							"display_url": "okinawatimes.co.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dRtcewvbkS",
+							"expanded_url": "https://app.okinawatimes.co.jp/contact/info_form.php",
+							"display_url": "app.okinawatimes.co.jp/contact/info_f…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 86650,
+			"friends_count": 105,
+			"listed_count": 3210,
+			"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+			"favourites_count": 3134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 286584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1554698014",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "那覇空港で滑走路閉鎖　大韓航空機トラブル\nhttps://t.co/GhBD8GpEBE"
+	},
+	{
+		"created_at": "Sun Jun 02 05:18:44 +0000 2019",
+		"id": 1135052290614632400,
+		"id_str": "1135053109355458561",
+		"full_text": "海の神秘！赤く漂う新しい生命　沖縄の島でサンゴの産卵 https://t.co/iONR2lKiU0 #サンゴ #伊是名村 #okinawa #沖縄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "サンゴ",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "伊是名村",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "okinawa",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						71,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iONR2lKiU0",
+					"expanded_url": "https://www.okinawatimes.co.jp/articles/-/427554",
+					"display_url": "okinawatimes.co.jp/articles/-/427…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.okinawatimes.co.jp\" rel=\"nofollow\">沖縄タイムス社TweetBot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118600653,
+			"id_str": "118600653",
+			"name": "沖縄タイムス",
+			"screen_name": "theokinawatimes",
+			"location": "沖縄県那覇市",
+			"description": "「沖縄タイムス」の公式アカウントです。沖縄のニュースをつぶやきます。情報提供はこちら↓↓ https://t.co/dRtcewvbkS",
+			"url": "http://t.co/MNvzHef3vO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MNvzHef3vO",
+							"expanded_url": "http://www.okinawatimes.co.jp",
+							"display_url": "okinawatimes.co.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dRtcewvbkS",
+							"expanded_url": "https://app.okinawatimes.co.jp/contact/info_form.php",
+							"display_url": "app.okinawatimes.co.jp/contact/info_f…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 86650,
+			"friends_count": 105,
+			"listed_count": 3210,
+			"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+			"favourites_count": 3134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 286584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1554698014",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "海の神秘！赤く漂う新しい生命　沖縄の島でサンゴの産卵 https://t.co/iONR2lKiU0 #サンゴ #伊是名村 #okinawa #沖縄"
+	},
+	{
 		"created_at": "Sat Jun 01 13:41:50 +0000 2019",
 		"id": 1134658454063161300,
 		"id_str": "1134817332868419584",
