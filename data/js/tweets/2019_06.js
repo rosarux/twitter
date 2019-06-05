@@ -1,6 +1,447 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 04 12:42:03 +0000 2019",
+		"id": 1135741745470165000,
+		"id_str": "1135889452054843392",
+		"full_text": "おまえら、かりゆし着る資格ないだろ💢 https://t.co/lsc3q9jjfY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135741562049032200,
+					"id_str": "1135741562049032193",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D8L27uqUcAEanN_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8L27uqUcAEanN_.jpg",
+					"url": "https://t.co/lsc3q9jjfY",
+					"display_url": "pic.twitter.com/lsc3q9jjfY",
+					"expanded_url": "https://twitter.com/I_hate_camp/status/1135741745470164992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1088,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135741562049032200,
+					"id_str": "1135741562049032193",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D8L27uqUcAEanN_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8L27uqUcAEanN_.jpg",
+					"url": "https://t.co/lsc3q9jjfY",
+					"display_url": "pic.twitter.com/lsc3q9jjfY",
+					"expanded_url": "https://twitter.com/I_hate_camp/status/1135741745470164992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1088,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135741685172846600,
+					"id_str": "1135741685172846592",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D8L3C5VUwAAD80u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8L3C5VUwAAD80u.jpg",
+					"url": "https://t.co/lsc3q9jjfY",
+					"display_url": "pic.twitter.com/lsc3q9jjfY",
+					"expanded_url": "https://twitter.com/I_hate_camp/status/1135741745470164992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1088,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1135741736465027100,
+					"id_str": "1135741736465027072",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/D8L3F4aVUAAnlHr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8L3F4aVUAAnlHr.jpg",
+					"url": "https://t.co/lsc3q9jjfY",
+					"display_url": "pic.twitter.com/lsc3q9jjfY",
+					"expanded_url": "https://twitter.com/I_hate_camp/status/1135741745470164992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1088,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2985999224,
+			"id_str": "2985999224",
+			"name": "🏕インドア派キャンパー 📣ⒻⒸⓀⓁⒹⓅ🔥",
+			"screen_name": "I_hate_camp",
+			"location": "室内",
+			"description": "キャンプは嫌いだ！",
+			"url": "http://t.co/AwdYBIcpVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/AwdYBIcpVn",
+							"expanded_url": "http://democracy.minibird.jp/",
+							"display_url": "democracy.minibird.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14866,
+			"friends_count": 1280,
+			"listed_count": 281,
+			"created_at": "Fri Jan 16 18:13:47 +0000 2015",
+			"favourites_count": 59065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 175396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/867211434597507074/x0sVErEB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/867211434597507074/x0sVErEB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2985999224/1487351095",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1682,
+		"favorite_count": 3231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "おまえら、かりゆし着る資格ないだろ💢 https://t.co/lsc3q9jjfY"
+	},
+	{
+		"created_at": "Tue Jun 04 12:41:24 +0000 2019",
+		"id": 1135369104267702300,
+		"id_str": "1135889287948333056",
+		"full_text": "うるま市 ホワイトビーチ\n強襲揚陸艦ワスプ停泊\n#OHアラート https://t.co/5p49Kubmhu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OHアラート",
+					"indices": [
+						24,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1135368986839793700,
+					"id_str": "1135368986839793665",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1135368986839793665/pu/img/wr-c8rqr9sS9_eKk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1135368986839793665/pu/img/wr-c8rqr9sS9_eKk.jpg",
+					"url": "https://t.co/5p49Kubmhu",
+					"display_url": "pic.twitter.com/5p49Kubmhu",
+					"expanded_url": "https://twitter.com/shimakazi/status/1135369104267702272/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1135368986839793700,
+					"id_str": "1135368986839793665",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1135368986839793665/pu/img/wr-c8rqr9sS9_eKk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1135368986839793665/pu/img/wr-c8rqr9sS9_eKk.jpg",
+					"url": "https://t.co/5p49Kubmhu",
+					"display_url": "pic.twitter.com/5p49Kubmhu",
+					"expanded_url": "https://twitter.com/shimakazi/status/1135369104267702272/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15015,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1135368986839793665/pu/vid/320x180/ukd_rYPgOvse-Zdb.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1135368986839793665/pu/vid/640x360/0H-UjvBKiXYlilCg.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1135368986839793665/pu/pl/uUOxTLwDjIQ2aR91.m3u8?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147023766,
+			"id_str": "147023766",
+			"name": "島守島風☆ 高良鉄美🐥",
+			"screen_name": "shimakazi",
+			"location": "okinawa japan ",
+			"description": "うちなーんちゅ！2016.9.17に初めてゲート前座り込み。それから活動開始！日米安保、日米地位協定の抜本的改定を！\nこれ以上の基地は沖縄に要らない。肉球新党 にくきゅー琉球 中立非武装 積極的平和を！RT多め！RT非表示を！\n自動翻訳で発信中w",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2371,
+			"friends_count": 2421,
+			"listed_count": 46,
+			"created_at": "Sun May 23 01:04:47 +0000 2010",
+			"favourites_count": 35921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131175892657426432/zDH6x8b8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131175892657426432/zDH6x8b8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147023766/1536557848",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "うるま市 ホワイトビーチ\n強襲揚陸艦ワスプ停泊\n#OHアラート https://t.co/5p49Kubmhu"
+	},
+	{
 		"created_at": "Sun Jun 02 15:43:13 +0000 2019",
 		"id": 1135209311699738600,
 		"id_str": "1135210269108424704",
