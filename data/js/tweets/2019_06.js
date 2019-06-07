@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 17:21:05 +0000 2019",
+		"id": 1136660776817745900,
+		"id_str": "1136684445333778432",
+		"full_text": "NEW: When Women Perform Hate Speech: Gender, Patriotism, and Social Empowerment in Japan\n\nJackie Kim-Wachutka\n\nhttps://t.co/2kXd3AhYaK\n\nCc: @PeacePhilosophy https://t.co/OWSL5SEKyM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeacePhilosophy",
+					"name": "Satoko Oka Norimatsu",
+					"id": 86745451,
+					"id_str": "86745451",
+					"indices": [
+						140,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2kXd3AhYaK",
+					"expanded_url": "https://apjjf.org/2019/11/Kim-Wachutka.html",
+					"display_url": "apjjf.org/2019/11/Kim-Wa…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136660774213050400,
+					"id_str": "1136660774213050370",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Y6860W4AIHR_V.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8Y6860W4AIHR_V.png",
+					"url": "https://t.co/OWSL5SEKyM",
+					"display_url": "pic.twitter.com/OWSL5SEKyM",
+					"expanded_url": "https://twitter.com/apjjf/status/1136660776817745923/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 878,
+							"h": 591,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 878,
+							"h": 591,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136660774213050400,
+					"id_str": "1136660774213050370",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/D8Y6860W4AIHR_V.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8Y6860W4AIHR_V.png",
+					"url": "https://t.co/OWSL5SEKyM",
+					"display_url": "pic.twitter.com/OWSL5SEKyM",
+					"expanded_url": "https://twitter.com/apjjf/status/1136660776817745923/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 878,
+							"h": 591,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 878,
+							"h": 591,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105521430,
+			"id_str": "105521430",
+			"name": "Asia-Pacific Journal",
+			"screen_name": "apjjf",
+			"location": "Global",
+			"description": "In-depth critical analysis of the forces shaping the Asia-Pacific region & the world.　RTs, follows, mentions, listing, etc. are not endorsements.",
+			"url": "https://t.co/GRfPGHSEb4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GRfPGHSEb4",
+							"expanded_url": "http://www.apjjf.org",
+							"display_url": "apjjf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7212,
+			"friends_count": 796,
+			"listed_count": 522,
+			"created_at": "Sat Jan 16 16:11:14 +0000 2010",
+			"favourites_count": 13432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F1DF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105521430/1555430110",
+			"profile_link_color": "572E4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EE0B5B",
+			"profile_text_color": "027B7F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW: When Women Perform Hate Speech: Gender, Patriotism, and Social Empowerment in Japan\n\nJackie Kim-Wachutka\n\nhttps://t.co/2kXd3AhYaK\n\nCc: @PeacePhilosophy https://t.co/OWSL5SEKyM"
+	},
+	{
 		"created_at": "Wed Jun 05 21:10:48 +0000 2019",
 		"id": 1136378236093509600,
 		"id_str": "1136379871184150528",
