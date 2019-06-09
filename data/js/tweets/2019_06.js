@@ -1,6 +1,495 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 08 16:30:32 +0000 2019",
+		"id": 1137156148459479000,
+		"id_str": "1137396499912876033",
+		"full_text": "辺野古海上。市民らは先日オープンした船上カフェでコーヒータイム。ほっと一息つきながらしなやかに抗議行動を続けています。#辺野古 #henoko #沖縄  #okinawa #船上カフェ https://t.co/W7vWos5pLM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "辺野古",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "henoko",
+					"indices": [
+						64,
+						71
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "okinawa",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "船上カフェ",
+					"indices": [
+						86,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137156140582621200,
+					"id_str": "1137156140582621184",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D8f9fCWU0AAlXme.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8f9fCWU0AAlXme.jpg",
+					"url": "https://t.co/W7vWos5pLM",
+					"display_url": "pic.twitter.com/W7vWos5pLM",
+					"expanded_url": "https://twitter.com/henokonow/status/1137156148459479040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137156140582621200,
+					"id_str": "1137156140582621184",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/D8f9fCWU0AAlXme.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8f9fCWU0AAlXme.jpg",
+					"url": "https://t.co/W7vWos5pLM",
+					"display_url": "pic.twitter.com/W7vWos5pLM",
+					"expanded_url": "https://twitter.com/henokonow/status/1137156148459479040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3023191412,
+			"id_str": "3023191412",
+			"name": "琉球新報辺野古・ヘリパッド取材班（沖縄）",
+			"screen_name": "henokonow",
+			"location": "Henoko, Nago-shi, Okinawa,",
+			"description": "沖縄県の地方紙・琉球新報の辺野古問題取材班です。紙面におさめきれない現地の状況をこまめにお伝えします。#henokonow",
+			"url": "http://t.co/O5qFJJTDMI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/O5qFJJTDMI",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14160,
+			"friends_count": 0,
+			"listed_count": 492,
+			"created_at": "Tue Feb 17 02:40:33 +0000 2015",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/567569066890514432/1cEWF7tf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/567569066890514432/1cEWF7tf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3023191412/1424152056",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "辺野古海上。市民らは先日オープンした船上カフェでコーヒータイム。ほっと一息つきながらしなやかに抗議行動を続けています。#辺野古 #henoko #沖縄  #okinawa #船上カフェ https://t.co/W7vWos5pLM"
+	},
+	{
+		"created_at": "Sat Jun 08 14:26:47 +0000 2019",
+		"id": 1137365004653490200,
+		"id_str": "1137365360238157826",
+		"full_text": "이거 KBS에서 황금시간대에 한번만 틀어줘도 한국에서 원전을 더 지어야 한다는 개소리는 확실하게 줄어들 것 같다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1137364827477749800,
+		"in_reply_to_status_id_str": "1137364827477749760",
+		"in_reply_to_user_id": 2587698871,
+		"in_reply_to_user_id_str": "2587698871",
+		"in_reply_to_screen_name": "dichrous",
+		"user": {
+			"id": 2587698871,
+			"id_str": "2587698871",
+			"name": "pitohui",
+			"screen_name": "dichrous",
+			"location": "",
+			"description": "초원의 제품 분석가",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 792,
+			"friends_count": 607,
+			"listed_count": 13,
+			"created_at": "Wed Jun 25 15:03:52 +0000 2014",
+			"favourites_count": 5681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/615181067176153088/VO52_bd5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/615181067176153088/VO52_bd5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2587698871/1549307816",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이거 KBS에서 황금시간대에 한번만 틀어줘도 한국에서 원전을 더 지어야 한다는 개소리는 확실하게 줄어들 것 같다..."
+	},
+	{
+		"created_at": "Sat Jun 08 13:21:18 +0000 2019",
+		"id": 1137347829301571600,
+		"id_str": "1137348881136508928",
+		"full_text": "今日も一日お疲れ様でした🌈 https://t.co/yZuE8Y8qoo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137347799824003100,
+					"id_str": "1137347799824003073",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D8irzEqU8AEtdk5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8irzEqU8AEtdk5.jpg",
+					"url": "https://t.co/yZuE8Y8qoo",
+					"display_url": "pic.twitter.com/yZuE8Y8qoo",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1137347829301571584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137347799824003100,
+					"id_str": "1137347799824003073",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D8irzEqU8AEtdk5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8irzEqU8AEtdk5.jpg",
+					"url": "https://t.co/yZuE8Y8qoo",
+					"display_url": "pic.twitter.com/yZuE8Y8qoo",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1137347829301571584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1137347817721065500,
+					"id_str": "1137347817721065473",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/D8ir0HVUcAE0hMD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8ir0HVUcAE0hMD.jpg",
+					"url": "https://t.co/yZuE8Y8qoo",
+					"display_url": "pic.twitter.com/yZuE8Y8qoo",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1137347829301571584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1440845558,
+			"id_str": "1440845558",
+			"name": "いけむらたかし",
+			"screen_name": "takashi91mile",
+			"location": "沖縄県❂okinawa-japan",
+			"description": "沖縄の景色を色んな人と楽しめて嬉しいです。沖縄の素晴らしい景色を色んな人に伝えたい。よろしくお願いします🌈【趣味】音楽･野球･読書",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23652,
+			"friends_count": 20313,
+			"listed_count": 225,
+			"created_at": "Sun May 19 10:43:57 +0000 2013",
+			"favourites_count": 42311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1440845558/1550065457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 330,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今日も一日お疲れ様でした🌈 https://t.co/yZuE8Y8qoo"
+	},
+	{
 		"created_at": "Thu Jun 06 17:21:05 +0000 2019",
 		"id": 1136660776817745900,
 		"id_str": "1136684445333778432",
