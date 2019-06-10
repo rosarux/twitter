@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 09 04:35:29 +0000 2019",
+		"id": 1137259537960820700,
+		"id_str": "1137578943232454656",
+		"full_text": "この季節になって参りました。 https://t.co/yqYwx4dPsD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1137259499272589300,
+					"id_str": "1137259499272589312",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1137259499272589312/pu/img/4rq_rIYxlnmA9fh3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1137259499272589312/pu/img/4rq_rIYxlnmA9fh3.jpg",
+					"url": "https://t.co/yqYwx4dPsD",
+					"display_url": "pic.twitter.com/yqYwx4dPsD",
+					"expanded_url": "https://twitter.com/taiju3xc/status/1137259537960820737/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137259499272589300,
+					"id_str": "1137259499272589312",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1137259499272589312/pu/img/4rq_rIYxlnmA9fh3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1137259499272589312/pu/img/4rq_rIYxlnmA9fh3.jpg",
+					"url": "https://t.co/yqYwx4dPsD",
+					"display_url": "pic.twitter.com/yqYwx4dPsD",
+					"expanded_url": "https://twitter.com/taiju3xc/status/1137259537960820737/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 7665,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1137259499272589312/pu/vid/640x360/-7g-2dP84oDU94TA.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1137259499272589312/pu/vid/480x270/1LKm2TQjHGac-IZv.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1137259499272589312/pu/vid/1280x720/0yT-bY1qXp3Ieo8l.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1137259499272589312/pu/pl/9-p3ZPCFekyKReHm.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 157347310,
+			"id_str": "157347310",
+			"name": "どらむすこ@抱きつき中",
+			"screen_name": "taiju3xc",
+			"location": "横浜のハズレ",
+			"description": "四児(女2.男2)のチチだす。無言フォロー失礼します(￣^￣)ゞ バイクネタばかりですが、よしなに〜 バイク歴ジャイロX→YSR50→R1-Z→GS250FW→R1-Z/GPX750R/WR250R/Vino",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 763,
+			"friends_count": 644,
+			"listed_count": 11,
+			"created_at": "Sat Jun 19 14:53:07 +0000 2010",
+			"favourites_count": 37526,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004906007/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004906007/image_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/157347310/1558938088",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 110079,
+		"favorite_count": 341043,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "この季節になって参りました。 https://t.co/yqYwx4dPsD"
+	},
+	{
 		"created_at": "Sat Jun 08 16:30:32 +0000 2019",
 		"id": 1137156148459479000,
 		"id_str": "1137396499912876033",
