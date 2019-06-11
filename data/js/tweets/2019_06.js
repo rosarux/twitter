@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 23:18:13 +0000 2019",
+		"id": 1138107819440271400,
+		"id_str": "1138223875022622720",
+		"full_text": "이희호 선생님의 명복을 빕니다.\n\n\"고인은(이희호 선생님) 생전 &lt;한겨레&gt;와 한 인터뷰에서 “내 양심에 비추어 일생을 부끄럽지 않게 살았다고 생각합니다. 여성운동가·민주화운동가로 기억되기를 바랍니다”라고 밝힌 바 있다.\"\n\n원문보기: \nhttps://t.co/TY4grh2OIC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TY4grh2OIC",
+					"expanded_url": "http://www.hani.co.kr/arti/politics/assembly/897362.html?fbclid=IwAR2iXW7Bg42gRuPjKhKbiPIX2D5mJhRf4-C4JNmUnMIiCVYBeBDtskS18Zo#csidx8d4d54ee4a4bd7ba0e5def43e462820",
+					"display_url": "hani.co.kr/arti/politics/…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 149830678,
+			"id_str": "149830678",
+			"name": "lux securitatis",
+			"screen_name": "luxsecuritatis",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Bta4X9o7OC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bta4X9o7OC",
+							"expanded_url": "https://blogluxsecuritatis.wordpress.com",
+							"display_url": "blogluxsecuritatis.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2241,
+			"friends_count": 578,
+			"listed_count": 40,
+			"created_at": "Sun May 30 10:06:22 +0000 2010",
+			"favourites_count": 31007,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856036743178354688/B4p_M38v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856036743178354688/B4p_M38v_normal.jpg",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 958,
+		"favorite_count": 363,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이희호 선생님의 명복을 빕니다.\n\n\"고인은(이희호 선생님) 생전 &lt;한겨레&gt;와 한 인터뷰에서 “내 양심에 비추어 일생을 부끄럽지 않게 살았다고 생각합니다. 여성운동가·민주화운동가로 기억되기를 바랍니다”라고 밝힌 바 있다.\"\n\n원문보기: \nhttps://t.co/TY4grh2OIC"
+	},
+	{
 		"created_at": "Sun Jun 09 04:35:29 +0000 2019",
 		"id": 1137259537960820700,
 		"id_str": "1137578943232454656",
