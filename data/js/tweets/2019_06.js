@@ -1,6 +1,466 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 14 00:06:47 +0000 2019",
+		"id": 1139319812939604000,
+		"id_str": "1139323260078710784",
+		"full_text": "‘아시아적 가치’? 웃긴다. ‘아시아’를 누가 명명했는지만 생각해봐도 형용모순임이 분명하지 않나? ㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1096,
+			"friends_count": 355,
+			"listed_count": 27,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘아시아적 가치’? 웃긴다. ‘아시아’를 누가 명명했는지만 생각해봐도 형용모순임이 분명하지 않나? ㅋㅋㅋ"
+	},
+	{
+		"created_at": "Thu Jun 13 13:40:05 +0000 2019",
+		"id": 1139105842962133000,
+		"id_str": "1139165547352821760",
+		"full_text": "わー😳「シンゾーくん、君がマジで良かれと思って来たのはわかるけど、わたしがトランプをまともな交渉相手と思ってると思うかい？ 君に返事を託すと思うかい？」て感じ？ https://t.co/mrR04YJawU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mrR04YJawU",
+					"expanded_url": "https://twitter.com/khamenei_ir/status/1139098803024347136",
+					"display_url": "twitter.com/khamenei_ir/st…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 271984287,
+			"id_str": "271984287",
+			"name": "加藤郁美",
+			"screen_name": "katoikumi",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2835,
+			"friends_count": 379,
+			"listed_count": 87,
+			"created_at": "Fri Mar 25 15:42:15 +0000 2011",
+			"favourites_count": 12596,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 251400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1287064559/176b_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1287064559/176b_normal.gif",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/271984287/1391946648",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1139098803024347100,
+		"quoted_status_id_str": "1139098803024347136",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mrR04YJawU",
+			"expanded": "https://twitter.com/khamenei_ir/status/1139098803024347136",
+			"display": "twitter.com/khamenei_ir/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 13 09:14:52 +0000 2019",
+			"id": 1139098803024347100,
+			"id_str": "1139098803024347136",
+			"full_text": "We have no doubt in @abeshinzo’s goodwill and seriousness; but regarding what you mentioned from U.S. president, I don’t consider Trump as a person deserving to exchange messages with; I have no response for him &amp; will not answer him. https://t.co/YisBpoYlGO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AbeShinzo",
+						"name": "安倍晋三",
+						"id": 468122115,
+						"id_str": "468122115",
+						"indices": [
+							20,
+							30
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1139098681725136900,
+						"id_str": "1139098681725136897",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/D87kN0BXsAE9Sb3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D87kN0BXsAE9Sb3.jpg",
+						"url": "https://t.co/YisBpoYlGO",
+						"display_url": "pic.twitter.com/YisBpoYlGO",
+						"expanded_url": "https://twitter.com/khamenei_ir/status/1139098803024347136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1139098681725136900,
+						"id_str": "1139098681725136897",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/D87kN0BXsAE9Sb3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D87kN0BXsAE9Sb3.jpg",
+						"url": "https://t.co/YisBpoYlGO",
+						"display_url": "pic.twitter.com/YisBpoYlGO",
+						"expanded_url": "https://twitter.com/khamenei_ir/status/1139098803024347136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27966935,
+				"id_str": "27966935",
+				"name": "Khamenei.ir",
+				"screen_name": "khamenei_ir",
+				"location": "Tehran",
+				"description": "Follow for regular updates and news about Ayatollah Seyed Ali Khamenei, Iran's Supreme Leader --- Arabic Account: @ar_khamenei",
+				"url": "https://t.co/w5HnDLNc3z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/w5HnDLNc3z",
+								"expanded_url": "http://english.khamenei.ir",
+								"display_url": "english.khamenei.ir",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 553197,
+				"friends_count": 6,
+				"listed_count": 2295,
+				"created_at": "Tue Mar 31 21:25:18 +0000 2009",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9678,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "103B7F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/931740056104120320/nJolN7Wi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/931740056104120320/nJolN7Wi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27966935/1542540022",
+				"profile_link_color": "007694",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D8E1F2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2656,
+			"favorite_count": 3268,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 234,
+		"favorite_count": 192,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "わー😳「シンゾーくん、君がマジで良かれと思って来たのはわかるけど、わたしがトランプをまともな交渉相手と思ってると思うかい？ 君に返事を託すと思うかい？」て感じ？ https://t.co/mrR04YJawU"
+	},
+	{
+		"created_at": "Thu Jun 13 10:06:46 +0000 2019",
+		"id": 1138711407560519700,
+		"id_str": "1139111862019059712",
+		"full_text": "아직 두툼 이불 덮는 사람만이 이 트윗을 알티할 수 있습니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1090135036580352000,
+			"id_str": "1090135036580352001",
+			"name": "표지를 만들고있다 피루",
+			"screen_name": "o121011",
+			"location": "",
+			"description": "진정하고 정진하세요 / 실망하라지",
+			"url": "https://t.co/shfX6pIbwv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/shfX6pIbwv",
+							"expanded_url": "https://www.metmuseum.org/toah/works-of-art/98.8.30/",
+							"display_url": "metmuseum.org/toah/works-of-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82,
+			"friends_count": 72,
+			"listed_count": 1,
+			"created_at": "Tue Jan 29 06:30:21 +0000 2019",
+			"favourites_count": 1717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137673533612470272/6St7-GpV_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137673533612470272/6St7-GpV_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1090135036580352001/1552972087",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29632,
+		"favorite_count": 3998,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아직 두툼 이불 덮는 사람만이 이 트윗을 알티할 수 있습니다"
+	},
+	{
 		"created_at": "Wed Jun 12 22:59:18 +0000 2019",
 		"id": 1138835108088111100,
 		"id_str": "1138943890948362241",
