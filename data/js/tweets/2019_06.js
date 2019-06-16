@@ -1,6 +1,727 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 15 23:58:36 +0000 2019",
+		"id": 1140030627359514600,
+		"id_str": "1140045977211949057",
+		"full_text": "今日、沖縄の食を支えた那覇市第一牧志公設市場が移転のため幕を閉じます。この場所での市場の最後の日を記者たちがリポートしていきます。ハッシュタグ、リツイートでの拡散大歓迎です。市場を愛する人たちの思いを共有していきたいです。よろしくお願いします！ #牧志公設市場 #ありがとう #沖縄 https://t.co/oK8bqJZtUX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "牧志公設市場",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "ありがとう",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						138,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140030616039129100,
+					"id_str": "1140030616039129088",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Izzh4VAAAHvxD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Izzh4VAAAHvxD.jpg",
+					"url": "https://t.co/oK8bqJZtUX",
+					"display_url": "pic.twitter.com/oK8bqJZtUX",
+					"expanded_url": "https://twitter.com/theokinawatimes/status/1140030627359514624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140030616039129100,
+					"id_str": "1140030616039129088",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Izzh4VAAAHvxD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Izzh4VAAAHvxD.jpg",
+					"url": "https://t.co/oK8bqJZtUX",
+					"display_url": "pic.twitter.com/oK8bqJZtUX",
+					"expanded_url": "https://twitter.com/theokinawatimes/status/1140030627359514624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118600653,
+			"id_str": "118600653",
+			"name": "沖縄タイムス",
+			"screen_name": "theokinawatimes",
+			"location": "沖縄県那覇市",
+			"description": "「沖縄タイムス」の公式アカウントです。沖縄のニュースをつぶやきます。情報提供はこちら↓↓ https://t.co/dRtcewvbkS",
+			"url": "http://t.co/MNvzHef3vO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MNvzHef3vO",
+							"expanded_url": "http://www.okinawatimes.co.jp",
+							"display_url": "okinawatimes.co.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dRtcewvbkS",
+							"expanded_url": "https://app.okinawatimes.co.jp/contact/info_form.php",
+							"display_url": "app.okinawatimes.co.jp/contact/info_f…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 87045,
+			"friends_count": 106,
+			"listed_count": 3217,
+			"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+			"favourites_count": 3132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 286899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1554698014",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 160,
+		"favorite_count": 145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今日、沖縄の食を支えた那覇市第一牧志公設市場が移転のため幕を閉じます。この場所での市場の最後の日を記者たちがリポートしていきます。ハッシュタグ、リツイートでの拡散大歓迎です。市場を愛する人たちの思いを共有していきたいです。よろしくお願いします！ #牧志公設市場 #ありがとう #沖縄 https://t.co/oK8bqJZtUX"
+	},
+	{
+		"created_at": "Sat Jun 15 14:13:22 +0000 2019",
+		"id": 1139592458831106000,
+		"id_str": "1139898697632718848",
+		"full_text": "국가의 외교적 입장상 문재인 대통령이 공적으로 “홍콩 시민 지지한다 응원한다” 따위 말 하는건 절대 불가능할거 뻔히 알면서 왜 홍콩에 대해 아무 말 안하냐고 조롱하기나 하는 점에서 이들이 진짜 홍콩 시민들과 그들의 절박함에 대해서는 눈꼽만큼도 관심 없는 건 이미 잘 알겠다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1139591727755538400,
+		"in_reply_to_status_id_str": "1139591727755538433",
+		"in_reply_to_user_id": 983420781085581300,
+		"in_reply_to_user_id_str": "983420781085581312",
+		"in_reply_to_screen_name": "demobjectified",
+		"user": {
+			"id": 983420781085581300,
+			"id_str": "983420781085581312",
+			"name": "IGAM",
+			"screen_name": "demobjectified",
+			"location": "Atlanta, Georgia, USA",
+			"description": "Yes I play Video Games",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 235,
+			"listed_count": 1,
+			"created_at": "Mon Apr 09 19:06:00 +0000 2018",
+			"favourites_count": 4014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132098594138447873/5MvRKr9a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132098594138447873/5MvRKr9a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/983420781085581312/1554124999",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "국가의 외교적 입장상 문재인 대통령이 공적으로 “홍콩 시민 지지한다 응원한다” 따위 말 하는건 절대 불가능할거 뻔히 알면서 왜 홍콩에 대해 아무 말 안하냐고 조롱하기나 하는 점에서 이들이 진짜 홍콩 시민들과 그들의 절박함에 대해서는 눈꼽만큼도 관심 없는 건 이미 잘 알겠다"
+	},
+	{
+		"created_at": "Sat Jun 15 09:35:33 +0000 2019",
+		"id": 1139745167341211600,
+		"id_str": "1139828781684674560",
+		"full_text": "겨울전쟁만 알고.. 계속전쟁을 모르면 이런 칼럼을 쓰게 됩니다.. 45년에 핀란드군이 독일이랑 소련사이에서 진짜 눈물의 쑈를 해야 했는데... https://t.co/SqKMKneZ9L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SqKMKneZ9L",
+					"expanded_url": "https://twitter.com/wondergoms/status/1139678333975715840",
+					"display_url": "twitter.com/wondergoms/sta…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40862564,
+			"id_str": "40862564",
+			"name": "JW Kim",
+			"screen_name": "mipeng",
+			"location": "",
+			"description": "평범한 직장인",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 391,
+			"friends_count": 225,
+			"listed_count": 18,
+			"created_at": "Mon May 18 12:22:36 +0000 2009",
+			"favourites_count": 1063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101482605160083461/R2qFV6tv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101482605160083461/R2qFV6tv_normal.jpg",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1139678333975715800,
+		"quoted_status_id_str": "1139678333975715840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SqKMKneZ9L",
+			"expanded": "https://twitter.com/wondergoms/status/1139678333975715840",
+			"display": "twitter.com/wondergoms/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 14 23:37:43 +0000 2019",
+			"id": 1139678333975715800,
+			"id_str": "1139678333975715840",
+			"full_text": "대통령이 핀란드서 꼭 봐야 했던 것 https://t.co/C7vZCC7gle \"핀란드·소련 간 겨울전쟁… 핀란드軍 1명, 蘇軍 8명꼴 전사. 소련은 그 후 핀란드를 건드리지 않았다.\" \"소국이 대국을 이기긴 어렵다. 그러나 큰 나라가 멋대로 굴지 못하게 할 수는 있다. 우리는 거꾸로다. 조선 말기에도 그랬다.\"",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/C7vZCC7gle",
+						"expanded_url": "http://news.chosun.com/tw/?id=2019061500013",
+						"display_url": "news.chosun.com/tw/?id=2019061…",
+						"indices": [
+							20,
+							43
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118591925,
+				"id_str": "118591925",
+				"name": "K.",
+				"screen_name": "wondergoms",
+				"location": "Seoul, South Korea",
+				"description": "Hedge fund manager / Futures trading / Engineering / RT != endorsement",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 692,
+				"friends_count": 1514,
+				"listed_count": 22,
+				"created_at": "Mon Mar 01 04:44:39 +0000 2010",
+				"favourites_count": 7205,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3458,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/806418351/1209749514_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/806418351/1209749514_normal.jpg",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 328,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "겨울전쟁만 알고.. 계속전쟁을 모르면 이런 칼럼을 쓰게 됩니다.. 45년에 핀란드군이 독일이랑 소련사이에서 진짜 눈물의 쑈를 해야 했는데... https://t.co/SqKMKneZ9L"
+	},
+	{
+		"created_at": "Sat Jun 15 04:40:00 +0000 2019",
+		"id": 1139734751273607200,
+		"id_str": "1139754404901351424",
+		"full_text": "사소하지만 저런 사람들의 표현 중 탄핵으로 ‘탄생한 정부’라는 표현도 거슬린다. 중요한 건 ‘탄핵으로 정부를 바꾼 국민’이고, 그래서 잘못하면 또 국민이 바꿀 ‘정부’이지. 주체는 국민. 그 주체가 홍콩 시위를 지지하는 것도 자연스럽고. 물론 수단도 있고, 카자흐도 있고…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1139724871288516600,
+		"in_reply_to_status_id_str": "1139724871288516608",
+		"in_reply_to_user_id": 133255001,
+		"in_reply_to_user_id_str": "133255001",
+		"in_reply_to_screen_name": "TorSean",
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1095,
+			"friends_count": 355,
+			"listed_count": 27,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사소하지만 저런 사람들의 표현 중 탄핵으로 ‘탄생한 정부’라는 표현도 거슬린다. 중요한 건 ‘탄핵으로 정부를 바꾼 국민’이고, 그래서 잘못하면 또 국민이 바꿀 ‘정부’이지. 주체는 국민. 그 주체가 홍콩 시위를 지지하는 것도 자연스럽고. 물론 수단도 있고, 카자흐도 있고…"
+	},
+	{
+		"created_at": "Sat Jun 15 04:39:45 +0000 2019",
+		"id": 1139724871288516600,
+		"id_str": "1139754342896898048",
+		"full_text": "민주주의 내세운 내정간섭(또는 외교적 압박)은 미국의 종특. 그것도 언제나 선별적으로 하지. (그게 부러우면 미국 시민권 취득 추천. ㅎ) 물론 이와 별개로 시민들의 연대와 응원은 큰 힘이 된다. ‘당신들의 싸움을 주목하는 이들이 여기 있다’는 신호를 보내는 일이니.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1139721093957029900,
+		"in_reply_to_status_id_str": "1139721093957029889",
+		"in_reply_to_user_id": 133255001,
+		"in_reply_to_user_id_str": "133255001",
+		"in_reply_to_screen_name": "TorSean",
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1095,
+			"friends_count": 355,
+			"listed_count": 27,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "민주주의 내세운 내정간섭(또는 외교적 압박)은 미국의 종특. 그것도 언제나 선별적으로 하지. (그게 부러우면 미국 시민권 취득 추천. ㅎ) 물론 이와 별개로 시민들의 연대와 응원은 큰 힘이 된다. ‘당신들의 싸움을 주목하는 이들이 여기 있다’는 신호를 보내는 일이니."
+	},
+	{
+		"created_at": "Sat Jun 15 04:39:22 +0000 2019",
+		"id": 1139721093957029900,
+		"id_str": "1139754244087504896",
+		"full_text": "좌파건 우파건 소아병 환자들 많구나. 한국 정부가 왜 지금 홍콩 시위 지지 선언을 하나? 국제 관계에서 이런 행위는 십중팔구 내정간섭으로 비난받을텐데, 그러면서도 외교적 압박 효과를 발휘하면 모르겠으나 압박 효과도 없을 게 뻔하다. 정부를 대신해 당신들이 트위터에서 지지 선언 열심히 하셔.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1095,
+			"friends_count": 355,
+			"listed_count": 27,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "좌파건 우파건 소아병 환자들 많구나. 한국 정부가 왜 지금 홍콩 시위 지지 선언을 하나? 국제 관계에서 이런 행위는 십중팔구 내정간섭으로 비난받을텐데, 그러면서도 외교적 압박 효과를 발휘하면 모르겠으나 압박 효과도 없을 게 뻔하다. 정부를 대신해 당신들이 트위터에서 지지 선언 열심히 하셔."
+	},
+	{
 		"created_at": "Fri Jun 14 00:06:47 +0000 2019",
 		"id": 1139319812939604000,
 		"id_str": "1139323260078710784",
