@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 16 13:51:14 +0000 2019",
+		"id": 1140209336259473400,
+		"id_str": "1140255514175012864",
+		"full_text": "那覇市第一牧志公設市場、47年の歴史に幕を閉じました。沖縄、最後はやっぱりこうなります！店も客も入り乱れてのカチャーシーです。#牧志公設市場 #またね #ありがとう https://t.co/EvBYGPRBz7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "牧志公設市場",
+					"indices": [
+						63,
+						70
+					]
+				},
+				{
+					"text": "またね",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "ありがとう",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140209254093090800,
+					"id_str": "1140209254093090816",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1140209254093090816/pu/img/eYEMs7KYd9wvdZWV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1140209254093090816/pu/img/eYEMs7KYd9wvdZWV.jpg",
+					"url": "https://t.co/EvBYGPRBz7",
+					"display_url": "pic.twitter.com/EvBYGPRBz7",
+					"expanded_url": "https://twitter.com/theokinawatimes/status/1140209336259473408/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140209254093090800,
+					"id_str": "1140209254093090816",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1140209254093090816/pu/img/eYEMs7KYd9wvdZWV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1140209254093090816/pu/img/eYEMs7KYd9wvdZWV.jpg",
+					"url": "https://t.co/EvBYGPRBz7",
+					"display_url": "pic.twitter.com/EvBYGPRBz7",
+					"expanded_url": "https://twitter.com/theokinawatimes/status/1140209336259473408/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21867,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1140209254093090816/pu/vid/480x270/UGo33h9EIQPtDMF_.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1140209254093090816/pu/pl/dv3L453kBseN2QFX.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1140209254093090816/pu/vid/1280x720/pZWPvLa-eKb8-DGJ.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1140209254093090816/pu/vid/640x360/aitibZ-fnz-CX1hd.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118600653,
+			"id_str": "118600653",
+			"name": "沖縄タイムス",
+			"screen_name": "theokinawatimes",
+			"location": "沖縄県那覇市",
+			"description": "「沖縄タイムス」の公式アカウントです。沖縄のニュースをつぶやきます。情報提供はこちら↓↓ https://t.co/dRtcewvbkS",
+			"url": "http://t.co/MNvzHef3vO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MNvzHef3vO",
+							"expanded_url": "http://www.okinawatimes.co.jp",
+							"display_url": "okinawatimes.co.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dRtcewvbkS",
+							"expanded_url": "https://app.okinawatimes.co.jp/contact/info_form.php",
+							"display_url": "app.okinawatimes.co.jp/contact/info_f…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 87236,
+			"friends_count": 106,
+			"listed_count": 3217,
+			"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+			"favourites_count": 3132,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 286946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1554698014",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2833,
+		"favorite_count": 6153,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "那覇市第一牧志公設市場、47年の歴史に幕を閉じました。沖縄、最後はやっぱりこうなります！店も客も入り乱れてのカチャーシーです。#牧志公設市場 #またね #ありがとう https://t.co/EvBYGPRBz7"
+	},
+	{
 		"created_at": "Sat Jun 15 23:58:36 +0000 2019",
 		"id": 1140030627359514600,
 		"id_str": "1140045977211949057",
