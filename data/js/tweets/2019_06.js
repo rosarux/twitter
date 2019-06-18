@@ -1,6 +1,455 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 17 22:23:57 +0000 2019",
+		"id": 1140513161537212400,
+		"id_str": "1140746931762679809",
+		"full_text": "令和になってもイオンのことを「ジャスコ」と呼ぶ人が3割近くいることが判明｜BIGLOBEニュース https://t.co/arThrMke4h https://t.co/U8evR0tbul",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/arThrMke4h",
+					"expanded_url": "https://news.biglobe.ne.jp/trend/0617/srb_190617_0243487698.html",
+					"display_url": "news.biglobe.ne.jp/trend/0617/srb…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1140513000857538600,
+					"id_str": "1140513000857538560",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/D9PqiBXUEAAL8Vh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9PqiBXUEAAL8Vh.jpg",
+					"url": "https://t.co/U8evR0tbul",
+					"display_url": "pic.twitter.com/U8evR0tbul",
+					"expanded_url": "https://twitter.com/shunkannews/status/1140513161537212416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140513000857538600,
+					"id_str": "1140513000857538560",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/D9PqiBXUEAAL8Vh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9PqiBXUEAAL8Vh.jpg",
+					"url": "https://t.co/U8evR0tbul",
+					"display_url": "pic.twitter.com/U8evR0tbul",
+					"expanded_url": "https://twitter.com/shunkannews/status/1140513161537212416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 540715539,
+			"id_str": "540715539",
+			"name": "BIGLOBEニュース",
+			"screen_name": "shunkannews",
+			"location": "東京都品川区",
+			"description": "月間1500万人が利用しているBIGLOBEニュースの≪公式アカウント≫です。ネットで話題の”旬”で”ゆるめ”なニュースを発信しています！Facebookページはこちらhttps://t.co/p37VcK3HVc",
+			"url": "http://t.co/hsNuWE5P0e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/hsNuWE5P0e",
+							"expanded_url": "http://news.biglobe.ne.jp",
+							"display_url": "news.biglobe.ne.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/p37VcK3HVc",
+							"expanded_url": "https://www.facebook.com/shunkannews",
+							"display_url": "facebook.com/shunkannews",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21642,
+			"friends_count": 2627,
+			"listed_count": 452,
+			"created_at": "Fri Mar 30 08:01:12 +0000 2012",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/913214210003238914/hhyNvUSJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/913214210003238914/hhyNvUSJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/540715539/1506562200",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14777,
+		"favorite_count": 15754,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "令和になってもイオンのことを「ジャスコ」と呼ぶ人が3割近くいることが判明｜BIGLOBEニュース https://t.co/arThrMke4h https://t.co/U8evR0tbul"
+	},
+	{
+		"created_at": "Mon Jun 17 22:20:36 +0000 2019",
+		"id": 1140725842483515400,
+		"id_str": "1140746090834063360",
+		"full_text": "74年前の今日。1945年6月18日，沖縄戦にて「ひめゆり学徒隊」に解散命令が出された。翌日から約1週間の間に8割の生徒が死亡した。写真は前年春に撮影された，沖縄師範女子部の生徒たち。ニューラルネットワークによる自動色付け＋手動補正。 https://t.co/4cljXMySqD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140725835130740700,
+					"id_str": "1140725835130740736",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/D9SsGm0UIAAVU9F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9SsGm0UIAAVU9F.jpg",
+					"url": "https://t.co/4cljXMySqD",
+					"display_url": "pic.twitter.com/4cljXMySqD",
+					"expanded_url": "https://twitter.com/hwtnv/status/1140725842483515394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 812,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1386,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140725835130740700,
+					"id_str": "1140725835130740736",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/D9SsGm0UIAAVU9F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9SsGm0UIAAVU9F.jpg",
+					"url": "https://t.co/4cljXMySqD",
+					"display_url": "pic.twitter.com/4cljXMySqD",
+					"expanded_url": "https://twitter.com/hwtnv/status/1140725842483515394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 812,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1386,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://social-dog.net/\" rel=\"nofollow\">SocialDog for Twitter</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2236711,
+			"id_str": "2236711",
+			"name": "渡邉英徳",
+			"screen_name": "hwtnv",
+			"location": "Bunkyo-ku, Tokyo",
+			"description": "東京大学 大学院情報学環・学際情報学府 教授 Professor at The University of Tokyo III / GSII",
+			"url": "https://t.co/7pMPaEx0VH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7pMPaEx0VH",
+							"expanded_url": "https://researchmap.jp/hwtnv/",
+							"display_url": "researchmap.jp/hwtnv/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31079,
+			"friends_count": 393,
+			"listed_count": 876,
+			"created_at": "Mon Mar 26 01:54:31 +0000 2007",
+			"favourites_count": 37306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 117159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124190976266756096/bCIS-QLc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124190976266756096/bCIS-QLc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2236711/1554867081",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 260,
+		"favorite_count": 340,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "74年前の今日。1945年6月18日，沖縄戦にて「ひめゆり学徒隊」に解散命令が出された。翌日から約1週間の間に8割の生徒が死亡した。写真は前年春に撮影された，沖縄師範女子部の生徒たち。ニューラルネットワークによる自動色付け＋手動補正。 https://t.co/4cljXMySqD"
+	},
+	{
+		"created_at": "Mon Jun 17 15:33:55 +0000 2019",
+		"id": 1140475259323158500,
+		"id_str": "1140643743319523333",
+		"full_text": "“각국의 운동 경험들을 서로 배워나가고 처지에 맞게 적용하는 것이지 한국 민주화 과정을 그대로 이행할 것이라거나 무슨 자랑스러운 수출품으로 느끼는 자부심에는 동의하기 어렵다”고 지적했다. 이어 “대륙 활동가들 이야기를 들어보면 정말로 임을 위한 행진곡의 멜로디가 좋다고 한다”고 덧붙였다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1140475180323442700,
+		"in_reply_to_status_id_str": "1140475180323442688",
+		"in_reply_to_user_id": 3612089892,
+		"in_reply_to_user_id_str": "3612089892",
+		"in_reply_to_screen_name": "_ninabuschmann",
+		"user": {
+			"id": 3612089892,
+			"id_str": "3612089892",
+			"name": "올리브나무",
+			"screen_name": "_ninabuschmann",
+			"location": "",
+			"description": "우리는 기회주의를 일체 배격한다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46,
+			"friends_count": 276,
+			"listed_count": 1,
+			"created_at": "Sat Sep 19 04:17:55 +0000 2015",
+			"favourites_count": 2252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/705299265703116800/5Ran9pem_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/705299265703116800/5Ran9pem_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 212,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "“각국의 운동 경험들을 서로 배워나가고 처지에 맞게 적용하는 것이지 한국 민주화 과정을 그대로 이행할 것이라거나 무슨 자랑스러운 수출품으로 느끼는 자부심에는 동의하기 어렵다”고 지적했다. 이어 “대륙 활동가들 이야기를 들어보면 정말로 임을 위한 행진곡의 멜로디가 좋다고 한다”고 덧붙였다"
+	},
+	{
 		"created_at": "Sun Jun 16 13:51:14 +0000 2019",
 		"id": 1140209336259473400,
 		"id_str": "1140255514175012864",
