@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 20 23:03:10 +0000 2019",
+		"id": 1141714923635925000,
+		"id_str": "1141843965823504384",
+		"full_text": "法廷でまさかの再会\n\n https://t.co/eLEL6n0BIb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 886775958652334100,
+					"id_str": "886775958652334080",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/886775958652334080/pu/img/MLRbbakK1z-uefM6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/886775958652334080/pu/img/MLRbbakK1z-uefM6.jpg",
+					"url": "https://t.co/eLEL6n0BIb",
+					"display_url": "pic.twitter.com/eLEL6n0BIb",
+					"expanded_url": "https://twitter.com/ippohumidasu1/status/886776091385278464/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 886776091385278500,
+					"source_status_id_str": "886776091385278464",
+					"source_user_id": 775026905577758700,
+					"source_user_id_str": "775026905577758720"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 886775958652334100,
+					"id_str": "886775958652334080",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/886775958652334080/pu/img/MLRbbakK1z-uefM6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/886775958652334080/pu/img/MLRbbakK1z-uefM6.jpg",
+					"url": "https://t.co/eLEL6n0BIb",
+					"display_url": "pic.twitter.com/eLEL6n0BIb",
+					"expanded_url": "https://twitter.com/ippohumidasu1/status/886776091385278464/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 886776091385278500,
+					"source_status_id_str": "886776091385278464",
+					"source_user_id": 775026905577758700,
+					"source_user_id_str": "775026905577758720",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59483,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/886775958652334080/pu/vid/320x180/1AYUzVTa4n936vWT.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/886775958652334080/pu/vid/640x360/v0h8R16yML4BDIB8.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/886775958652334080/pu/pl/73yrqstLAMq2GigL.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 775026905577758700,
+							"id_str": "775026905577758720",
+							"name": "一歩踏み出す感動動画",
+							"screen_name": "ippohumidasu1",
+							"location": "",
+							"description": "やらなくちゃ、言わなくちゃ、優しくしなくちゃ、と分かっていてもできないことってある。一歩踏み出す勇気があれば人生変わるかもしれないのに。背中をちょっと押してくれる感動・涙・勇気・元気の動画になれば嬉しいです。",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 15922,
+							"friends_count": 2950,
+							"listed_count": 27,
+							"created_at": "Sun Sep 11 17:43:08 +0000 2016",
+							"favourites_count": 40,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 523,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/775537552551927809/v3gnVF9y_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/775537552551927809/v3gnVF9y_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/775026905577758720/1473782362",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 862326702898200600,
+			"id_str": "862326702898200576",
+			"name": "みんなの動画",
+			"screen_name": "minnano_dougaww",
+			"location": "あなたのスマホ",
+			"description": "いつ見ても飽きない暇潰し専用のアカウント！話題のみんなの動画をどんどん紹介するで！みんなで一緒にTwitterを盛り上げちゃおう！特に人気のあった動画はいいねにあるで😘【Twitterの利用規約に従いスパムツイートは一切せず、引用したツイートをします。情報提供、削除依頼等はDMでお願いします】",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322712,
+			"friends_count": 8162,
+			"listed_count": 977,
+			"created_at": "Wed May 10 15:21:22 +0000 2017",
+			"favourites_count": 854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/914398356260110336/IOvuG8NO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/914398356260110336/IOvuG8NO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/862326702898200576/1497161703",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2469,
+		"favorite_count": 9439,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "法廷でまさかの再会\n\n https://t.co/eLEL6n0BIb"
+	},
+	{
+		"created_at": "Thu Jun 20 14:56:53 +0000 2019",
+		"id": 1141643932071317500,
+		"id_str": "1141721589261557763",
+		"full_text": "#YellowVests protests, #GiletsJaunes protests:\n\n✔️ 11 dead\n✔️ 76 seriously injured\n✔️ 2500 injured\n✔️ 23 protesters have lost an eye\n✔️ 5 protesters have lost a hand\n✔️ thousands arrested\n✔️ almost no mainstream media coverage \n\nhttps://t.co/Hju3tIrwHt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YellowVests",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "GiletsJaunes",
+					"indices": [
+						23,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1141343451017044000,
+					"id_str": "1141343451017043970",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1141343451017043970/pu/img/l-8jadHxrnPSYg2g.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1141343451017043970/pu/img/l-8jadHxrnPSYg2g.jpg",
+					"url": "https://t.co/Hju3tIrwHt",
+					"display_url": "pic.twitter.com/Hju3tIrwHt",
+					"expanded_url": "https://twitter.com/D_MoS_Kr_A_Tos/status/1141344638399373313/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1141344638399373300,
+					"source_status_id_str": "1141344638399373313",
+					"source_user_id": 1055257777,
+					"source_user_id_str": "1055257777"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141343451017044000,
+					"id_str": "1141343451017043970",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1141343451017043970/pu/img/l-8jadHxrnPSYg2g.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1141343451017043970/pu/img/l-8jadHxrnPSYg2g.jpg",
+					"url": "https://t.co/Hju3tIrwHt",
+					"display_url": "pic.twitter.com/Hju3tIrwHt",
+					"expanded_url": "https://twitter.com/D_MoS_Kr_A_Tos/status/1141344638399373313/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1141344638399373300,
+					"source_status_id_str": "1141344638399373313",
+					"source_user_id": 1055257777,
+					"source_user_id_str": "1055257777",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29187,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1141343451017043970/pu/vid/1280x720/jlWzsuvq11NHqXxe.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1141343451017043970/pu/pl/5SCJdKFfj4j36F15.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1141343451017043970/pu/vid/480x270/E6n1UcV4Azy8diNr.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1141343451017043970/pu/vid/640x360/uNyfZSdtpJ_6WQsp.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1055257777,
+							"id_str": "1055257777",
+							"name": "LaVéritéVaincra#RemiFraisse💛✊#StopMacron",
+							"screen_name": "D_MoS_Kr_A_Tos",
+							"location": "All around the world",
+							"description": "NWO-incompatible Humain-compatible | Le mouvement est le principe de toute vie. Les trolls, les inutiles : blocage sans sommation.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2314,
+							"friends_count": 2966,
+							"listed_count": 20,
+							"created_at": "Wed Jan 02 14:33:30 +0000 2013",
+							"favourites_count": 3806,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 3610,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1087851375525011458/DhYswY_9_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087851375525011458/DhYswY_9_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1055257777/1554676107",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 210556794,
+			"id_str": "210556794",
+			"name": "Oh boy what a shot",
+			"screen_name": "ohboywhatashot",
+			"location": "",
+			"description": "90% of the people world wide are lovely people, who do not want war or terror.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53106,
+			"friends_count": 45556,
+			"listed_count": 643,
+			"created_at": "Sun Oct 31 18:33:03 +0000 2010",
+			"favourites_count": 27459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3677811051/8c4259531e16ce358ed463771d0c5c3e_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3677811051/8c4259531e16ce358ed463771d0c5c3e_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/210556794/1432203838",
+			"profile_link_color": "1427A3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "1A2C3C",
+			"profile_text_color": "828282",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 261,
+		"favorite_count": 180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "#YellowVests protests, #GiletsJaunes protests:\n\n✔️ 11 dead\n✔️ 76 seriously injured\n✔️ 2500 injured\n✔️ 23 protesters have lost an eye\n✔️ 5 protesters have lost a hand\n✔️ thousands arrested\n✔️ almost no mainstream media coverage \n\nhttps://t.co/Hju3tIrwHt"
+	},
+	{
 		"created_at": "Wed Jun 19 13:20:21 +0000 2019",
 		"id": 1141331337296531500,
 		"id_str": "1141334908570234880",
