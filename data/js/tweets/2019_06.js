@@ -1,6 +1,1620 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 22 23:22:18 +0000 2019",
+		"id": 1142539530383138800,
+		"id_str": "1142573555508342785",
+		"full_text": "沖縄は23日、太平洋戦争末期の沖縄戦の犠牲者らを追悼する「慰霊の日」を迎えました。\nhttps://t.co/b79QZSQKJO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b79QZSQKJO",
+					"expanded_url": "https://mainichi.jp/articles/20190622/k00/00m/040/287000c",
+					"display_url": "mainichi.jp/articles/20190…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49540955,
+			"id_str": "49540955",
+			"name": "毎日新聞",
+			"screen_name": "mainichi",
+			"location": "東京都千代田区",
+			"description": "毎日新聞のニュースサイトからおすすめ記事などをツイートします。FBページ https://t.co/waY2ry2PVG もあります。",
+			"url": "https://t.co/t3fGg5YbYZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t3fGg5YbYZ",
+							"expanded_url": "http://mainichi.jp/",
+							"display_url": "mainichi.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/waY2ry2PVG",
+							"expanded_url": "https://www.facebook.com/mainichishimbun/",
+							"display_url": "facebook.com/mainichishimbu…",
+							"indices": [
+								37,
+								60
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 836616,
+			"friends_count": 212,
+			"listed_count": 30779,
+			"created_at": "Mon Jun 22 04:53:27 +0000 2009",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 240697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875582156399026176/nvKfbCrk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875582156399026176/nvKfbCrk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49540955/1509087950",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DFDFDF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "沖縄は23日、太平洋戦争末期の沖縄戦の犠牲者らを追悼する「慰霊の日」を迎えました。\nhttps://t.co/b79QZSQKJO"
+	},
+	{
+		"created_at": "Sat Jun 22 23:17:15 +0000 2019",
+		"id": 1142569424827760600,
+		"id_str": "1142572286496497664",
+		"full_text": "パラパラと小雨が落ちてきました。#平和祈念公園  #慰霊の日 https://t.co/A0cBAqfSIu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "平和祈念公園",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"text": "慰霊の日",
+					"indices": [
+						25,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142569416569212900,
+					"id_str": "1142569416569212930",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D9s41K3VUAIp9p6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9s41K3VUAIp9p6.jpg",
+					"url": "https://t.co/A0cBAqfSIu",
+					"display_url": "pic.twitter.com/A0cBAqfSIu",
+					"expanded_url": "https://twitter.com/ryukyushimpo/status/1142569424827760640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142569416569212900,
+					"id_str": "1142569416569212930",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/D9s41K3VUAIp9p6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9s41K3VUAIp9p6.jpg",
+					"url": "https://t.co/A0cBAqfSIu",
+					"display_url": "pic.twitter.com/A0cBAqfSIu",
+					"expanded_url": "https://twitter.com/ryukyushimpo/status/1142569424827760640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 59832,
+			"friends_count": 6589,
+			"listed_count": 2779,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "09efe5b441172000",
+			"url": "https://api.twitter.com/1.1/geo/id/09efe5b441172000.json",
+			"place_type": "poi",
+			"name": "平和祈念公園",
+			"full_name": "平和祈念公園",
+			"country_code": "JP",
+			"country": "日本",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.723292,
+							26.094077
+						],
+						[
+							127.723292,
+							26.094077
+						],
+						[
+							127.723292,
+							26.094077
+						],
+						[
+							127.723292,
+							26.094077
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "パラパラと小雨が落ちてきました。#平和祈念公園  #慰霊の日 https://t.co/A0cBAqfSIu"
+	},
+	{
+		"created_at": "Sat Jun 22 23:05:23 +0000 2019",
+		"id": 1142558276422230000,
+		"id_str": "1142569298684080128",
+		"full_text": "今日は慰霊の日。沖縄戦とは何か？動画にまとめています。#慰霊の日 #平和祈念公園 #沖縄戦\n３分で知る沖縄戦 - 琉球新報 - 沖縄の新聞、地域のニュース https://t.co/8GdOcQ8kV1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "慰霊の日",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "平和祈念公園",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"text": "沖縄戦",
+					"indices": [
+						41,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8GdOcQ8kV1",
+					"expanded_url": "https://ryukyushimpo.jp/news/entry-519092.html",
+					"display_url": "ryukyushimpo.jp/news/entry-519…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 59832,
+			"friends_count": 6589,
+			"listed_count": 2779,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 481,
+		"favorite_count": 361,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今日は慰霊の日。沖縄戦とは何か？動画にまとめています。#慰霊の日 #平和祈念公園 #沖縄戦\n３分で知る沖縄戦 - 琉球新報 - 沖縄の新聞、地域のニュース https://t.co/8GdOcQ8kV1"
+	},
+	{
+		"created_at": "Sat Jun 22 20:38:14 +0000 2019",
+		"id": 1142524997258436600,
+		"id_str": "1142532268675592193",
+		"full_text": "沖縄、きょう慰霊の日　糸満市摩文仁で戦没者追悼式https://t.co/xD7vzgBVSz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xD7vzgBVSz",
+					"expanded_url": "http://bit.ly/2X2v1Fe",
+					"display_url": "bit.ly/2X2v1Fe",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 59832,
+			"friends_count": 6589,
+			"listed_count": 2779,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 351,
+		"favorite_count": 275,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "沖縄、きょう慰霊の日　糸満市摩文仁で戦没者追悼式https://t.co/xD7vzgBVSz"
+	},
+	{
+		"created_at": "Sat Jun 22 15:05:52 +0000 2019",
+		"id": 1142386628423348200,
+		"id_str": "1142448625642921986",
+		"full_text": "2年前の #慰霊の日\n(ツイートは6月24日) https://t.co/SG0rK3z2cC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "慰霊の日",
+					"indices": [
+						5,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SG0rK3z2cC",
+					"expanded_url": "https://twitter.com/tokyoshashinbu/status/878553372395044864",
+					"display_url": "twitter.com/tokyoshashinbu…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3100657141,
+			"id_str": "3100657141",
+			"name": "𝗬𝗔𝗖𝗛𝗜✨",
+			"screen_name": "yamchiOK",
+			"location": "Okinawa",
+			"description": "Natural born Okinawan loving cats and hoping peace on our islands. 沖縄産の猫好き🌺絡みの無い方からのリプは通知が来ないっぽい✋鍵アカの方はひと言お声掛けください🦋",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1721,
+			"friends_count": 833,
+			"listed_count": 65,
+			"created_at": "Sat Mar 21 01:36:33 +0000 2015",
+			"favourites_count": 69643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1041459362550538241/8LTiE4m1_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041459362550538241/8LTiE4m1_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3100657141/1540528827",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 878553372395044900,
+		"quoted_status_id_str": "878553372395044864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SG0rK3z2cC",
+			"expanded": "https://twitter.com/tokyoshashinbu/status/878553372395044864",
+			"display": "twitter.com/tokyoshashinbu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 24 10:00:21 +0000 2017",
+			"id": 878553372395044900,
+			"id_str": "878553372395044864",
+			"full_text": "今朝の #中日新聞 朝刊と中日ＷＥＢに掲載した写真です。献花に向かう安倍首相を見る沖縄県の翁長知事の厳しい目が印象的です。東京から出張した部員が撮影しました。#東京新聞 ではこの写真は掲載しませんでしたが、特報面に「#沖縄慰霊の日」に沖縄で聞いた声を掲載しました。 https://t.co/bdonnBiTQT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "中日新聞",
+						"indices": [
+							4,
+							9
+						]
+					},
+					{
+						"text": "東京新聞",
+						"indices": [
+							79,
+							84
+						]
+					},
+					{
+						"text": "沖縄慰霊の日",
+						"indices": [
+							108,
+							115
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 878552209369190400,
+						"id_str": "878552209369190400",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/media/DDE-lGQV0AAZU7x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDE-lGQV0AAZU7x.jpg",
+						"url": "https://t.co/bdonnBiTQT",
+						"display_url": "pic.twitter.com/bdonnBiTQT",
+						"expanded_url": "https://twitter.com/tokyoshashinbu/status/878553372395044864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 506,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 521,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 521,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 878552209369190400,
+						"id_str": "878552209369190400",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/media/DDE-lGQV0AAZU7x.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDE-lGQV0AAZU7x.jpg",
+						"url": "https://t.co/bdonnBiTQT",
+						"display_url": "pic.twitter.com/bdonnBiTQT",
+						"expanded_url": "https://twitter.com/tokyoshashinbu/status/878553372395044864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 506,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 700,
+								"h": 521,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 700,
+								"h": 521,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1859155158,
+				"id_str": "1859155158",
+				"name": "東京新聞写真部",
+				"screen_name": "tokyoshashinbu",
+				"location": "東京都千代田区",
+				"description": "東京新聞写真部の公式アカウントです。折りに触れて、本紙に掲載された写真やちょっとしたこぼれ話をつぶやきます。つぶやきは、東京新聞の公式見解ではありません。  　 #東京新聞 #写真部 #写真",
+				"url": "https://t.co/O1rTKcPbZp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/O1rTKcPbZp",
+								"expanded_url": "http://www.tokyo-np.co.jp",
+								"display_url": "tokyo-np.co.jp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20300,
+				"friends_count": 88,
+				"listed_count": 804,
+				"created_at": "Fri Sep 13 02:12:16 +0000 2013",
+				"favourites_count": 180,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 5123,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000449708987/d733c40aab8f5ca26344c80f801bd416_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000449708987/d733c40aab8f5ca26344c80f801bd416_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1859155158/1560441108",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1172,
+			"favorite_count": 830,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 36,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "2年前の #慰霊の日\n(ツイートは6月24日) https://t.co/SG0rK3z2cC"
+	},
+	{
+		"created_at": "Sat Jun 22 15:05:13 +0000 2019",
+		"id": 1142442130125668400,
+		"id_str": "1142448462845206531",
+		"full_text": "ひめゆり平和祈念資料館30年　高齢化する元学徒、若い職員が戦争体験語り継ぎ https://t.co/kdxbwGcqf1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kdxbwGcqf1",
+					"expanded_url": "http://bit.ly/31QDvCE",
+					"display_url": "bit.ly/31QDvCE",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mainichi.jp/\" rel=\"nofollow\">mainichi_featured_news</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49540955,
+			"id_str": "49540955",
+			"name": "毎日新聞",
+			"screen_name": "mainichi",
+			"location": "東京都千代田区",
+			"description": "毎日新聞のニュースサイトからおすすめ記事などをツイートします。FBページ https://t.co/waY2ry2PVG もあります。",
+			"url": "https://t.co/t3fGg5YbYZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t3fGg5YbYZ",
+							"expanded_url": "http://mainichi.jp/",
+							"display_url": "mainichi.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/waY2ry2PVG",
+							"expanded_url": "https://www.facebook.com/mainichishimbun/",
+							"display_url": "facebook.com/mainichishimbu…",
+							"indices": [
+								37,
+								60
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 836616,
+			"friends_count": 212,
+			"listed_count": 30779,
+			"created_at": "Mon Jun 22 04:53:27 +0000 2009",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 240697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875582156399026176/nvKfbCrk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875582156399026176/nvKfbCrk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49540955/1509087950",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DFDFDF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ひめゆり平和祈念資料館30年　高齢化する元学徒、若い職員が戦争体験語り継ぎ https://t.co/kdxbwGcqf1"
+	},
+	{
+		"created_at": "Sat Jun 22 13:06:28 +0000 2019",
+		"id": 1142261323566178300,
+		"id_str": "1142418575308673025",
+		"full_text": "は？道の駅くらい教えろよ https://t.co/viF7Z6JgYo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142261319132831700,
+					"id_str": "1142261319132831745",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D9ognieU4AEB7P0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9ognieU4AEB7P0.jpg",
+					"url": "https://t.co/viF7Z6JgYo",
+					"display_url": "pic.twitter.com/viF7Z6JgYo",
+					"expanded_url": "https://twitter.com/nru_ta/status/1142261323566178305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 535,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 535,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142261319132831700,
+					"id_str": "1142261319132831745",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/D9ognieU4AEB7P0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9ognieU4AEB7P0.jpg",
+					"url": "https://t.co/viF7Z6JgYo",
+					"display_url": "pic.twitter.com/viF7Z6JgYo",
+					"expanded_url": "https://twitter.com/nru_ta/status/1142261323566178305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 535,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 535,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113858202892787700,
+			"id_str": "1113858202892787712",
+			"name": "な お る",
+			"screen_name": "nru_ta",
+			"location": "ちば",
+			"description": "戸山香澄ちゃんと猫とゆるキャンがすき☺︎￤ 親友▹@takisan_1104",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 825,
+			"friends_count": 767,
+			"listed_count": 35,
+			"created_at": "Thu Apr 04 17:37:44 +0000 2019",
+			"favourites_count": 13333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140310045306974208/JBM9LK_4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140310045306974208/JBM9LK_4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113858202892787712/1561184199",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7771,
+		"favorite_count": 28972,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "は？道の駅くらい教えろよ https://t.co/viF7Z6JgYo"
+	},
+	{
+		"created_at": "Sat Jun 22 10:42:13 +0000 2019",
+		"id": 1142380032406351900,
+		"id_str": "1142382276551929856",
+		"full_text": "明日6/23は沖縄慰霊の日。#屋嘉節 歌いました。屋嘉の捕虜収容所でカンカラ三線で歌われた歌です。 https://t.co/FQPHY9cqT6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "屋嘉節",
+					"indices": [
+						14,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142379770102947800,
+					"id_str": "1142379770102947840",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142379770102947840/pu/img/5Ht_EsQ7f1asN0cL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142379770102947840/pu/img/5Ht_EsQ7f1asN0cL.jpg",
+					"url": "https://t.co/FQPHY9cqT6",
+					"display_url": "pic.twitter.com/FQPHY9cqT6",
+					"expanded_url": "https://twitter.com/TOYOsanshin/status/1142380032406351872/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142379770102947800,
+					"id_str": "1142379770102947840",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142379770102947840/pu/img/5Ht_EsQ7f1asN0cL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142379770102947840/pu/img/5Ht_EsQ7f1asN0cL.jpg",
+					"url": "https://t.co/FQPHY9cqT6",
+					"display_url": "pic.twitter.com/FQPHY9cqT6",
+					"expanded_url": "https://twitter.com/TOYOsanshin/status/1142380032406351872/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 69694,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142379770102947840/pu/vid/480x270/yKiy6t0FSnKPtuxl.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142379770102947840/pu/pl/2jn6KeLI3RSEat1s.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142379770102947840/pu/vid/1280x720/rVmWsiSqe9tVM3sm.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142379770102947840/pu/vid/640x360/5z0XuBIXZMv0JCjV.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 280534792,
+			"id_str": "280534792",
+			"name": "TOYO",
+			"screen_name": "TOYOsanshin",
+			"location": "",
+			"description": "okinawan sanshin player　沖縄への祈りを込めて。ご先祖様の苦難と平和の想いを受け継ぎ未来へ。たとえ自分が無力だとしても平和の礎の中の一つの石ころでありたい。宮古島生まれ首里育ち東京在住三線ミュージシャンでアーティスト。  ↓翁長知事追悼、StopHenoko琉球人魚　玉城デニー応援",
+			"url": "https://t.co/3qG8cNRfZQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3qG8cNRfZQ",
+							"expanded_url": "https://www.youtube.com/user/toyobox",
+							"display_url": "youtube.com/user/toyobox",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2047,
+			"friends_count": 1092,
+			"listed_count": 24,
+			"created_at": "Mon Apr 11 14:32:13 +0000 2011",
+			"favourites_count": 8565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824813581677891585/PQq68C5u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824813581677891585/PQq68C5u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/280534792/1497117665",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 91,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "明日6/23は沖縄慰霊の日。#屋嘉節 歌いました。屋嘉の捕虜収容所でカンカラ三線で歌われた歌です。 https://t.co/FQPHY9cqT6"
+	},
+	{
+		"created_at": "Sat Jun 22 04:43:48 +0000 2019",
+		"id": 1141576785303199700,
+		"id_str": "1142292076425408512",
+		"full_text": "朝から衝撃をありがとう。\n心臓に悪い、 https://t.co/fDlOGiumD6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1141576747898429400,
+					"id_str": "1141576747898429440",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1141576747898429440/pu/img/NjTgsUSt4xQwww_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1141576747898429440/pu/img/NjTgsUSt4xQwww_Y.jpg",
+					"url": "https://t.co/fDlOGiumD6",
+					"display_url": "pic.twitter.com/fDlOGiumD6",
+					"expanded_url": "https://twitter.com/keita_simpson/status/1141576785303199745/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141576747898429400,
+					"id_str": "1141576747898429440",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1141576747898429440/pu/img/NjTgsUSt4xQwww_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1141576747898429440/pu/img/NjTgsUSt4xQwww_Y.jpg",
+					"url": "https://t.co/fDlOGiumD6",
+					"display_url": "pic.twitter.com/fDlOGiumD6",
+					"expanded_url": "https://twitter.com/keita_simpson/status/1141576785303199745/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 7300,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1141576747898429440/pu/vid/320x568/PtTT5-2wlNc9xzR7.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1141576747898429440/pu/pl/Y2S4Hu-V6-Yxu7bz.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1141576747898429440/pu/vid/360x640/4iWEHZVe7IlYaGuO.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1141576747898429440/pu/vid/720x1280/4ovDlbndh-qD_2Ps.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 162018972,
+			"id_str": "162018972",
+			"name": "LIWJATAN",
+			"screen_name": "keita_simpson",
+			"location": "Meet me in Montauk.",
+			"description": "林檎班 1995",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 800,
+			"friends_count": 187,
+			"listed_count": 11,
+			"created_at": "Fri Jul 02 11:46:38 +0000 2010",
+			"favourites_count": 5779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31883,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135528290284793856/hNzHqPre_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135528290284793856/hNzHqPre_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/162018972/1557152807",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89105,
+		"favorite_count": 193576,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "朝から衝撃をありがとう。\n心臓に悪い、 https://t.co/fDlOGiumD6"
+	},
+	{
 		"created_at": "Fri Jun 21 09:19:28 +0000 2019",
 		"id": 1141909919647457300,
 		"id_str": "1141999062549295106",
