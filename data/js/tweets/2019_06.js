@@ -1,6 +1,7382 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 23 23:23:20 +0000 2019",
+		"id": 1142714266807443500,
+		"id_str": "1142936203634679809",
+		"full_text": "#慰霊の日\n#私の慰霊の日の過ごし方\n安倍さんのスピーチ\n去年よりもヤジが多かった印象。 https://t.co/tvLGDdinOh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "慰霊の日",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "私の慰霊の日の過ごし方",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142713846257213400,
+					"id_str": "1142713846257213446",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142713846257213446/pu/img/EKdbmxp90KGgB972.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142713846257213446/pu/img/EKdbmxp90KGgB972.jpg",
+					"url": "https://t.co/tvLGDdinOh",
+					"display_url": "pic.twitter.com/tvLGDdinOh",
+					"expanded_url": "https://twitter.com/sdicerkk_kk/status/1142714266807443456/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142713846257213400,
+					"id_str": "1142713846257213446",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142713846257213446/pu/img/EKdbmxp90KGgB972.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142713846257213446/pu/img/EKdbmxp90KGgB972.jpg",
+					"url": "https://t.co/tvLGDdinOh",
+					"display_url": "pic.twitter.com/tvLGDdinOh",
+					"expanded_url": "https://twitter.com/sdicerkk_kk/status/1142714266807443456/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 99515,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142713846257213446/pu/pl/N-2RWTabKBgLSUeu.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142713846257213446/pu/vid/480x270/c1tHeVmsjsleY4my.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142713846257213446/pu/vid/1280x720/yve3QzMy7v5gv84M.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142713846257213446/pu/vid/640x360/ca-DJ087a8GvExdE.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2304644718,
+			"id_str": "2304644718",
+			"name": "りょうた",
+			"screen_name": "sdicerkk_kk",
+			"location": "",
+			"description": "#多様性アタリマエオキナワ 目指して、 #いっしょにいっぽ 踏み出しましょう！薬科37期 琉大 政国卒 LGBT's(SOGI)に関するワークショップや講演をしています。非言語で「◯◯×セクシュアリティ」を表現、楽しく性を知る/学ぶ場を作る。◯◯１つ目はカラーセラピー。今年の目標:自分で自分の価値をつける",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 520,
+			"friends_count": 522,
+			"listed_count": 4,
+			"created_at": "Wed Jan 22 10:55:00 +0000 2014",
+			"favourites_count": 3342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1000298435600265216/TWM_j3Sl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000298435600265216/TWM_j3Sl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2304644718/1436725385",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 148,
+		"favorite_count": 207,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#慰霊の日\n#私の慰霊の日の過ごし方\n安倍さんのスピーチ\n去年よりもヤジが多かった印象。 https://t.co/tvLGDdinOh"
+	},
+	{
+		"created_at": "Sun Jun 23 22:54:58 +0000 2019",
+		"id": 1142824094280196100,
+		"id_str": "1142929064199458816",
+		"full_text": "追悼式に出席した県議は「首相のあいさつは毎年ほぼ同じ。\n\n本来は厳粛に過ごしたいが、声を上げざるをえないという沖縄の状況がある」と語る。\n\n「うそだ」「言葉は要らない」　沖縄慰霊の日・首相あいさつに厳しい抗議\n https://t.co/wOHD9oypLB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wOHD9oypLB",
+					"expanded_url": "https://mainichi.jp/articles/20190623/k00/00m/040/159000c",
+					"display_url": "mainichi.jp/articles/20190…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 461999811,
+			"id_str": "461999811",
+			"name": "昭和おやじ 【安倍政権を打倒せよ】",
+			"screen_name": "syouwaoyaji",
+			"location": "東京都",
+			"description": "流通外食のシステム屋。 昭和が終わる頃、既におやじだった昭和おやじです。 私の妻はフィリピン人。 アイコンは姪っ子(Asia)です。 ベトナム戦争に従軍し、地獄を見てきたおじいちゃんが、アジアの平和を願ってつけた名前です。 最近、知らない人からパヨクと言われます。 #反原発、#反TPP、#反戦、#反改憲、#反民族差別",
+			"url": "https://t.co/nt3n1FTzYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nt3n1FTzYI",
+							"expanded_url": "https://syouwaoyaji.hatenablog.jp",
+							"display_url": "syouwaoyaji.hatenablog.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26125,
+			"friends_count": 19425,
+			"listed_count": 385,
+			"created_at": "Thu Jan 12 13:00:24 +0000 2012",
+			"favourites_count": 181945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 271889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/449759446156070912/reY05HLE_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/449759446156070912/reY05HLE_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/461999811/1452174240",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 124,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ja",
+		"text": "追悼式に出席した県議は「首相のあいさつは毎年ほぼ同じ。\n\n本来は厳粛に過ごしたいが、声を上げざるをえないという沖縄の状況がある」と語る。\n\n「うそだ」「言葉は要らない」　沖縄慰霊の日・首相あいさつに厳しい抗議\n https://t.co/wOHD9oypLB"
+	},
+	{
+		"created_at": "Sun Jun 23 22:53:03 +0000 2019",
+		"id": 1142667837145669600,
+		"id_str": "1142928581770616833",
+		"full_text": "【ノーカット版】沖縄全戦没者追悼式で糸満市立兼城小学校6年の山内玲奈さん（11）が「平和の詩」を朗読しました。「平和の詩」全文は→https://t.co/1yiTX6bNtL https://t.co/qq0lIGJbxQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1yiTX6bNtL",
+					"expanded_url": "https://bit.ly/2IAtfan",
+					"display_url": "bit.ly/2IAtfan",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1142666267293130800,
+					"id_str": "1142666267293130752",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/D9uRm_GVUAA6ewS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9uRm_GVUAA6ewS.jpg",
+					"url": "https://t.co/qq0lIGJbxQ",
+					"display_url": "pic.twitter.com/qq0lIGJbxQ",
+					"expanded_url": "https://twitter.com/eizo_desk/status/1142667837145669632/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142666267293130800,
+					"id_str": "1142666267293130752",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/D9uRm_GVUAA6ewS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9uRm_GVUAA6ewS.jpg",
+					"url": "https://t.co/qq0lIGJbxQ",
+					"display_url": "pic.twitter.com/qq0lIGJbxQ",
+					"expanded_url": "https://twitter.com/eizo_desk/status/1142667837145669632/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 255388,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1142666267293130752/vid/640x360/-H7364ueQpQspDOw.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1142666267293130752/pl/1u8qy2Pytpg5LP9S.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1142666267293130752/vid/480x270/pmj5Lg6ccAWj6sK2.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1142666267293130752/vid/1280x720/_h7rggBVDG9SCewl.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "沖縄慰霊の日　平和の詩「本当の幸せ」（ノーカット版）",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://video.mainichi.jp/detail/videos/%E3%82%BB%E3%83%AC%E3%82%AF%E3%83%88/video/6051253080001?autoStart=true"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3191925858,
+			"id_str": "3191925858",
+			"name": "毎日新聞映像グループ",
+			"screen_name": "eizo_desk",
+			"location": "東京都 千代田区一ツ橋1－1－1",
+			"description": "毎日新聞映像グループの公式アカウントです。「毎日動画」にアップした動画ニュースを紹介します。よろしくお願いします。 https://t.co/IjIkiRy50f \nhttps://t.co/uEWjbZmOXg",
+			"url": "https://t.co/IjIkiRy50f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IjIkiRy50f",
+							"expanded_url": "http://mainichi.jp/movie/",
+							"display_url": "mainichi.jp/movie/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IjIkiRy50f",
+							"expanded_url": "http://mainichi.jp/movie/",
+							"display_url": "mainichi.jp/movie/",
+							"indices": [
+								58,
+								81
+							]
+						},
+						{
+							"url": "https://t.co/uEWjbZmOXg",
+							"expanded_url": "https://www.facebook.com/mainichimovie/",
+							"display_url": "facebook.com/mainichimovie/",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17586,
+			"friends_count": 80,
+			"listed_count": 551,
+			"created_at": "Mon May 11 10:35:14 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3191925858/1436243230",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 901,
+		"favorite_count": 1367,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【ノーカット版】沖縄全戦没者追悼式で糸満市立兼城小学校6年の山内玲奈さん（11）が「平和の詩」を朗読しました。「平和の詩」全文は→https://t.co/1yiTX6bNtL https://t.co/qq0lIGJbxQ"
+	},
+	{
+		"created_at": "Sun Jun 23 22:52:38 +0000 2019",
+		"id": 1142791258814857200,
+		"id_str": "1142928479274409989",
+		"full_text": "＃沖縄 ＃慰霊の日\n安部総理が式場から出る時去年は翁長前知事の前で一旦立ち止まり目線を合わせて頭を下げていたが今年はデニー知事の前を急ぎ早やに頭だけ下げ立ち去った。\nその後那覇空港では安部総理が利用するからと一時空港が閉鎖されたのだとか https://t.co/7Em8etyNkg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "沖縄",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "慰霊の日",
+					"indices": [
+						4,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142791178300952600,
+					"id_str": "1142791178300952577",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142791178300952577/pu/img/zFKlwlTEuBdZJp-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142791178300952577/pu/img/zFKlwlTEuBdZJp-l.jpg",
+					"url": "https://t.co/7Em8etyNkg",
+					"display_url": "pic.twitter.com/7Em8etyNkg",
+					"expanded_url": "https://twitter.com/atsushi_mic/status/1142791258814857216/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142791178300952600,
+					"id_str": "1142791178300952577",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142791178300952577/pu/img/zFKlwlTEuBdZJp-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142791178300952577/pu/img/zFKlwlTEuBdZJp-l.jpg",
+					"url": "https://t.co/7Em8etyNkg",
+					"display_url": "pic.twitter.com/7Em8etyNkg",
+					"expanded_url": "https://twitter.com/atsushi_mic/status/1142791258814857216/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16016,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142791178300952577/pu/vid/640x360/qKhl0Fe6wVg4FmeT.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142791178300952577/pu/vid/1280x720/yYfcsoO5cnvjVJSD.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142791178300952577/pu/pl/QMhj3P2yJM025Kkg.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142791178300952577/pu/vid/480x270/ZYpiCgIEO05XThCT.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1290793536,
+			"id_str": "1290793536",
+			"name": "仁尾淳史(note始めました)",
+			"screen_name": "atsushi_mic",
+			"location": "日本 沖縄県",
+			"description": "ツイキャス配信してます。 よかったら観てください https://t.co/glgu018YZI 【7月までにほしい物リスト】 https://t.co/0B4596sMnR",
+			"url": "https://t.co/FiXcC7tcuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FiXcC7tcuk",
+							"expanded_url": "https://m.youtube.com/channel/UC2dqmTRBl7RrY3_q66obJ9w",
+							"display_url": "m.youtube.com/channel/UC2dqm…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/glgu018YZI",
+							"expanded_url": "http://twitcasting.tv/atsushi_mic",
+							"display_url": "twitcasting.tv/atsushi_mic",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/0B4596sMnR",
+							"expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1G78SC0CYBJ6U?ref_=wl_share",
+							"display_url": "amazon.jp/hz/wishlist/ls…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6429,
+			"friends_count": 761,
+			"listed_count": 172,
+			"created_at": "Sat Mar 23 08:11:50 +0000 2013",
+			"favourites_count": 651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763359009155928064/DS1M5Ym4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763359009155928064/DS1M5Ym4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1290793536/1498651141",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 300,
+		"favorite_count": 182,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "＃沖縄 ＃慰霊の日\n安部総理が式場から出る時去年は翁長前知事の前で一旦立ち止まり目線を合わせて頭を下げていたが今年はデニー知事の前を急ぎ早やに頭だけ下げ立ち去った。\nその後那覇空港では安部総理が利用するからと一時空港が閉鎖されたのだとか https://t.co/7Em8etyNkg"
+	},
+	{
+		"created_at": "Sun Jun 23 22:31:32 +0000 2019",
+		"id": 1142673078847074300,
+		"id_str": "1142923167414906880",
+		"full_text": "慰霊の日の挨拶で安倍首相が「私が先頭に立って沖縄の振興策を〜」とか言ってるけど、案の定沖縄県民から「安倍辞めろ！」と言われてる。\n\nそりゃそうだろう。\nだって安倍首相が先頭に立って行ったのが、民意を無視した辺野古埋め立ての強行なんだから。\n https://t.co/mzYsuT5nCC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142642434569990100,
+					"id_str": "1142642434569990144",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142642434569990144/pu/img/OCPD2uxzbLS87QtR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142642434569990144/pu/img/OCPD2uxzbLS87QtR.jpg",
+					"url": "https://t.co/mzYsuT5nCC",
+					"display_url": "pic.twitter.com/mzYsuT5nCC",
+					"expanded_url": "https://twitter.com/7XTQMoXpTsuwOQ0/status/1142642461346426881/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1142642461346426900,
+					"source_status_id_str": "1142642461346426881",
+					"source_user_id": 866163226945364000,
+					"source_user_id_str": "866163226945363969"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142642434569990100,
+					"id_str": "1142642434569990144",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142642434569990144/pu/img/OCPD2uxzbLS87QtR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142642434569990144/pu/img/OCPD2uxzbLS87QtR.jpg",
+					"url": "https://t.co/mzYsuT5nCC",
+					"display_url": "pic.twitter.com/mzYsuT5nCC",
+					"expanded_url": "https://twitter.com/7XTQMoXpTsuwOQ0/status/1142642461346426881/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1142642461346426900,
+					"source_status_id_str": "1142642461346426881",
+					"source_user_id": 866163226945364000,
+					"source_user_id_str": "866163226945363969",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 3838,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142642434569990144/pu/pl/2fpn_RlwRg6KBadN.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142642434569990144/pu/vid/640x360/R1znZD6kI50F3bLV.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142642434569990144/pu/vid/1280x720/nfdvie4JBSBkoz_N.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142642434569990144/pu/vid/480x270/-z_zID4_SzaiQQ1B.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 866163226945364000,
+							"id_str": "866163226945363969",
+							"name": "たま",
+							"screen_name": "7XTQMoXpTsuwOQ0",
+							"location": "",
+							"description": "",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 858,
+							"friends_count": 291,
+							"listed_count": 8,
+							"created_at": "Sun May 21 05:26:20 +0000 2017",
+							"favourites_count": 13052,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 22694,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1127103350825029633/KOcZITYy_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127103350825029633/KOcZITYy_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/866163226945363969/1561290601",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2250245898,
+			"id_str": "2250245898",
+			"name": "大神ひろし",
+			"screen_name": "ppsh41_1945",
+			"location": "",
+			"description": "ツイートとRTで、どんな人かは察して下さい #肉球新党",
+			"url": "https://t.co/pek8s3ohJy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pek8s3ohJy",
+							"expanded_url": "https://blocktogether.org/show-blocks/OnuAPj8RyZbvjuxrnVBdupqODGDwxOXf-vlMr9rX",
+							"display_url": "blocktogether.org/show-blocks/On…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10402,
+			"friends_count": 7895,
+			"listed_count": 166,
+			"created_at": "Tue Dec 17 11:16:10 +0000 2013",
+			"favourites_count": 1957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142477503618932736/lx70WbFj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142477503618932736/lx70WbFj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2250245898/1561209254",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1341,
+		"favorite_count": 2068,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "慰霊の日の挨拶で安倍首相が「私が先頭に立って沖縄の振興策を〜」とか言ってるけど、案の定沖縄県民から「安倍辞めろ！」と言われてる。\n\nそりゃそうだろう。\nだって安倍首相が先頭に立って行ったのが、民意を無視した辺野古埋め立ての強行なんだから。\n https://t.co/mzYsuT5nCC"
+	},
+	{
+		"created_at": "Sun Jun 23 22:08:41 +0000 2019",
+		"id": 1142885794983661600,
+		"id_str": "1142917419301662720",
+		"full_text": "涙雨ぬぐい祈る　世代超え戦没者悼む　沖縄・慰霊の日https://t.co/JjxYVLepPF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JjxYVLepPF",
+					"expanded_url": "http://bit.ly/2LbVNbU",
+					"display_url": "bit.ly/2LbVNbU",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60008,
+			"friends_count": 6588,
+			"listed_count": 2779,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "涙雨ぬぐい祈る　世代超え戦没者悼む　沖縄・慰霊の日https://t.co/JjxYVLepPF"
+	},
+	{
+		"created_at": "Sun Jun 23 22:07:22 +0000 2019",
+		"id": 1142760363361837000,
+		"id_str": "1142917085338558464",
+		"full_text": "沖縄県民と同じく「嘘をつけ！」と思った人はRT↓\n\n安倍首相「沖縄の方々には長きに渡り、米軍基地の集中による大きな負担を担って頂いております。この現状を何としても変えていかなければなりません。沖縄の基地負担軽減に全力を尽くして参ります」\n\n沖縄県民「嘘をつけ！」\nhttps://t.co/UKcwRIdEcH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142683713072840700,
+					"id_str": "1142683713072840704",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/D9uhbHXVAAAXG60.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9uhbHXVAAAXG60.jpg",
+					"url": "https://t.co/UKcwRIdEcH",
+					"display_url": "pic.twitter.com/UKcwRIdEcH",
+					"expanded_url": "https://twitter.com/eizo_desk/status/1142684573446238208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1142684573446238200,
+					"source_status_id_str": "1142684573446238208",
+					"source_user_id": 3191925858,
+					"source_user_id_str": "3191925858"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142683713072840700,
+					"id_str": "1142683713072840704",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/D9uhbHXVAAAXG60.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9uhbHXVAAAXG60.jpg",
+					"url": "https://t.co/UKcwRIdEcH",
+					"display_url": "pic.twitter.com/UKcwRIdEcH",
+					"expanded_url": "https://twitter.com/eizo_desk/status/1142684573446238208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1142684573446238200,
+					"source_status_id_str": "1142684573446238208",
+					"source_user_id": 3191925858,
+					"source_user_id_str": "3191925858",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 34368,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1142683713072840704/vid/480x480/R_oLruit2lplshLq.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1142683713072840704/vid/720x720/0BnJltQUmG3-vIg9.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1142683713072840704/pl/6HlnYq7ZysVK9nAm.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1142683713072840704/vid/320x320/9-DU9bMQY78eNUYj.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "沖縄慰霊の日　安倍首相があいさつ",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://bit.ly/2X2La23"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true,
+						"source_user": {
+							"id": 3191925858,
+							"id_str": "3191925858",
+							"name": "毎日新聞映像グループ",
+							"screen_name": "eizo_desk",
+							"location": "東京都 千代田区一ツ橋1－1－1",
+							"description": "毎日新聞映像グループの公式アカウントです。「毎日動画」にアップした動画ニュースを紹介します。よろしくお願いします。 https://t.co/IjIkiRy50f \nhttps://t.co/uEWjbZmOXg",
+							"url": "https://t.co/IjIkiRy50f",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/IjIkiRy50f",
+											"expanded_url": "http://mainichi.jp/movie/",
+											"display_url": "mainichi.jp/movie/",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/IjIkiRy50f",
+											"expanded_url": "http://mainichi.jp/movie/",
+											"display_url": "mainichi.jp/movie/",
+											"indices": [
+												58,
+												81
+											]
+										},
+										{
+											"url": "https://t.co/uEWjbZmOXg",
+											"expanded_url": "https://www.facebook.com/mainichimovie/",
+											"display_url": "facebook.com/mainichimovie/",
+											"indices": [
+												83,
+												106
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 17586,
+							"friends_count": 80,
+							"listed_count": 551,
+							"created_at": "Mon May 11 10:35:14 +0000 2015",
+							"favourites_count": 0,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 4462,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3191925858/1436243230",
+							"profile_link_color": "1B95E0",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2250245898,
+			"id_str": "2250245898",
+			"name": "大神ひろし",
+			"screen_name": "ppsh41_1945",
+			"location": "",
+			"description": "ツイートとRTで、どんな人かは察して下さい #肉球新党",
+			"url": "https://t.co/pek8s3ohJy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pek8s3ohJy",
+							"expanded_url": "https://blocktogether.org/show-blocks/OnuAPj8RyZbvjuxrnVBdupqODGDwxOXf-vlMr9rX",
+							"display_url": "blocktogether.org/show-blocks/On…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10402,
+			"friends_count": 7895,
+			"listed_count": 166,
+			"created_at": "Tue Dec 17 11:16:10 +0000 2013",
+			"favourites_count": 1957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142477503618932736/lx70WbFj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142477503618932736/lx70WbFj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2250245898/1561209254",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3823,
+		"favorite_count": 2597,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "沖縄県民と同じく「嘘をつけ！」と思った人はRT↓\n\n安倍首相「沖縄の方々には長きに渡り、米軍基地の集中による大きな負担を担って頂いております。この現状を何としても変えていかなければなりません。沖縄の基地負担軽減に全力を尽くして参ります」\n\n沖縄県民「嘘をつけ！」\nhttps://t.co/UKcwRIdEcH"
+	},
+	{
+		"created_at": "Sun Jun 23 22:00:09 +0000 2019",
+		"id": 1142755452028981200,
+		"id_str": "1142915270991724544",
+		"full_text": "後ろの方で慰霊の日の式典を見ていたが、安倍首相のあいさつのときにはここ数年にないくらいヤジがとんでいた。「帰れ」など。ヤジへ拍手が起きることも。慰霊の場でのヤジには賛否あるが、県民が安倍首相に直接意思表示できるのは年に一度、この場だけなのかもしれない。\n\nhttps://t.co/xt6BCjtKev https://t.co/pR9eP5KdiD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xt6BCjtKev",
+					"expanded_url": "https://ryukyushimpo.jp/news/entry-941603.html",
+					"display_url": "ryukyushimpo.jp/news/entry-941…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1142753567150764000,
+					"id_str": "1142753567150764032",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142753567150764032/pu/img/MQRTDq7bAM3WIXEk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142753567150764032/pu/img/MQRTDq7bAM3WIXEk.jpg",
+					"url": "https://t.co/pR9eP5KdiD",
+					"display_url": "pic.twitter.com/pR9eP5KdiD",
+					"expanded_url": "https://twitter.com/dicamai/status/1142755452028981248/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142753567150764000,
+					"id_str": "1142753567150764032",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142753567150764032/pu/img/MQRTDq7bAM3WIXEk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142753567150764032/pu/img/MQRTDq7bAM3WIXEk.jpg",
+					"url": "https://t.co/pR9eP5KdiD",
+					"display_url": "pic.twitter.com/pR9eP5KdiD",
+					"expanded_url": "https://twitter.com/dicamai/status/1142755452028981248/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 92499,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142753567150764032/pu/vid/480x270/qutuPoT6py-nKDf0.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142753567150764032/pu/pl/xx1Fv2UwOjTpTBkw.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142753567150764032/pu/vid/1280x720/jCCJ4rUeep8ZEJzV.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142753567150764032/pu/vid/640x360/hspSJxo6fzVeZnh5.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 137989634,
+			"id_str": "137989634",
+			"name": "でぃかまい@沖縄記者",
+			"screen_name": "dicamai",
+			"location": "Japan",
+			"description": "激動の時代に沖縄で過ごした記者。所謂ナイチャーですが、沖縄のことを考え続けたい。沖縄のこと、記者のことについてつぶやきます／国際感覚を持ち、地域に根ざすグローカリズムを／ブログ『夜回りなう』（https://t.co/byApQmIRvz）。正直者が馬鹿を見ない世界を。",
+			"url": "https://t.co/UTIwlIHPB5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UTIwlIHPB5",
+							"expanded_url": "http://kaliwa.blog46.fc2.com/",
+							"display_url": "kaliwa.blog46.fc2.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/byApQmIRvz",
+							"expanded_url": "http://kaliwa.blog46.fc2.com",
+							"display_url": "kaliwa.blog46.fc2.com",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1321,
+			"friends_count": 635,
+			"listed_count": 108,
+			"created_at": "Wed Apr 28 09:40:11 +0000 2010",
+			"favourites_count": 623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084014910604861441/LuieVqGU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084014910604861441/LuieVqGU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/137989634/1547284375",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 299,
+		"favorite_count": 337,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "後ろの方で慰霊の日の式典を見ていたが、安倍首相のあいさつのときにはここ数年にないくらいヤジがとんでいた。「帰れ」など。ヤジへ拍手が起きることも。慰霊の場でのヤジには賛否あるが、県民が安倍首相に直接意思表示できるのは年に一度、この場だけなのかもしれない。\n\nhttps://t.co/xt6BCjtKev https://t.co/pR9eP5KdiD"
+	},
+	{
+		"created_at": "Sun Jun 23 22:00:02 +0000 2019",
+		"id": 1142894387413835800,
+		"id_str": "1142915242344665088",
+		"full_text": "参列者「心に響かない」　沖縄全戦没者追悼式・首相あいさつhttps://t.co/NLh3yV8y4Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NLh3yV8y4Y",
+					"expanded_url": "http://bit.ly/2ZIrpto",
+					"display_url": "bit.ly/2ZIrpto",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60008,
+			"friends_count": 6588,
+			"listed_count": 2779,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 219,
+		"favorite_count": 319,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "参列者「心に響かない」　沖縄全戦没者追悼式・首相あいさつhttps://t.co/NLh3yV8y4Y"
+	},
+	{
+		"created_at": "Sun Jun 23 14:11:58 +0000 2019",
+		"id": 1142791429887971300,
+		"id_str": "1142797449167138818",
+		"full_text": "@mainichijpnews https://t.co/hpfKLQKip1",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mainichijpnews",
+					"name": "毎日新聞ニュース速報",
+					"id": 46282367,
+					"id_str": "46282367",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142642499824934900,
+					"id_str": "1142642499824934912",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142642499824934912/pu/img/3XKE7WmAFzNAh7pt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142642499824934912/pu/img/3XKE7WmAFzNAh7pt.jpg",
+					"url": "https://t.co/hpfKLQKip1",
+					"display_url": "pic.twitter.com/hpfKLQKip1",
+					"expanded_url": "https://twitter.com/yzjps/status/1142643347254722560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1142643347254722600,
+					"source_status_id_str": "1142643347254722560",
+					"source_user_id": 112722693,
+					"source_user_id_str": "112722693"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142642499824934900,
+					"id_str": "1142642499824934912",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142642499824934912/pu/img/3XKE7WmAFzNAh7pt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142642499824934912/pu/img/3XKE7WmAFzNAh7pt.jpg",
+					"url": "https://t.co/hpfKLQKip1",
+					"display_url": "pic.twitter.com/hpfKLQKip1",
+					"expanded_url": "https://twitter.com/yzjps/status/1142643347254722560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1142643347254722600,
+					"source_status_id_str": "1142643347254722560",
+					"source_user_id": 112722693,
+					"source_user_id_str": "112722693",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139139,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142642499824934912/pu/vid/480x270/4f9da8h0gnOYk9Uz.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142642499824934912/pu/vid/640x360/q9hfQZ5W9y0P3wYw.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142642499824934912/pu/pl/WEDzGAoaw9P9xcPJ.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 112722693,
+							"id_str": "112722693",
+							"name": "参院選",
+							"screen_name": "yzjps",
+							"location": "スガって滅亡、の場所におります",
+							"description": "参院選追っかけ：キャス小世界での配信を「拡声」させて下さい！配信を「切り取って」使ってもいいよ～という方は、フォローして下さると幸いです。基本キャスへのリンク、録画の場合は撮影者@クレジットつけてます　☆311前からモリカケ一年目までのビデオは https://t.co/QpqJwt1IT8　に",
+							"url": "https://t.co/uQZMp1HAAa",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/uQZMp1HAAa",
+											"expanded_url": "https://www.youtube.com/c/yzjps",
+											"display_url": "youtube.com/c/yzjps",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/QpqJwt1IT8",
+											"expanded_url": "https://www.youtube.com/c/iss2012",
+											"display_url": "youtube.com/c/iss2012",
+											"indices": [
+												123,
+												146
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 19291,
+							"friends_count": 10751,
+							"listed_count": 274,
+							"created_at": "Tue Feb 09 13:58:49 +0000 2010",
+							"favourites_count": 1914,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 43018,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FF6699",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+							"profile_background_tile": true,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1137104369269104640/duwRSVXW_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137104369269104640/duwRSVXW_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/112722693/1513639606",
+							"profile_link_color": "F58EA8",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "E5507E",
+							"profile_text_color": "362720",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.softama.com/\" rel=\"nofollow\">ツイタマ for Android</a>",
+		"in_reply_to_status_id": 1142764260788883500,
+		"in_reply_to_status_id_str": "1142764260788883457",
+		"in_reply_to_user_id": 46282367,
+		"in_reply_to_user_id_str": "46282367",
+		"in_reply_to_screen_name": "mainichijpnews",
+		"user": {
+			"id": 15617333,
+			"id_str": "15617333",
+			"name": "w : [ -Q-o-Q- ] : n",
+			"screen_name": "wQQn",
+			"location": "Japan",
+			"description": "Information Hub.",
+			"url": "http://t.co/pxhUq94LKb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/pxhUq94LKb",
+							"expanded_url": "http://twitpic.com/photos/wQQn",
+							"display_url": "twitpic.com/photos/wQQn",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2082,
+			"friends_count": 1895,
+			"listed_count": 211,
+			"created_at": "Sun Jul 27 04:00:05 +0000 2008",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 830207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3A111C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/822697009/twitterProfilePhoto_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/822697009/twitterProfilePhoto_normal.jpg",
+			"profile_link_color": "83988E",
+			"profile_sidebar_border_color": "F0F9BC",
+			"profile_sidebar_fill_color": "FFF8F8",
+			"profile_text_color": "574951",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@mainichijpnews https://t.co/hpfKLQKip1"
+	},
+	{
+		"created_at": "Sun Jun 23 14:11:53 +0000 2019",
+		"id": 1142764260788883500,
+		"id_str": "1142797426324983810",
+		"full_text": "「うそだ」「言葉は要らない」　沖縄慰霊の日・首相あいさつにヤジ飛ぶ https://t.co/A0pFHEFSvV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A0pFHEFSvV",
+					"expanded_url": "http://bit.ly/31Ova2m",
+					"display_url": "bit.ly/31Ova2m",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mainichi.jp\" rel=\"nofollow\">毎日jp</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46282367,
+			"id_str": "46282367",
+			"name": "毎日新聞ニュース速報",
+			"screen_name": "mainichijpnews",
+			"location": "東京都千代田区一ツ橋",
+			"description": "毎日新聞ニュースサイトの主な速報を掲載しています",
+			"url": "http://t.co/B1NiDANk4R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/B1NiDANk4R",
+							"expanded_url": "http://mainichi.jp/",
+							"display_url": "mainichi.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 356257,
+			"friends_count": 2,
+			"listed_count": 20181,
+			"created_at": "Thu Jun 11 01:39:32 +0000 2009",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 241308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/323987547/mdnmini_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/323987547/mdnmini_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「うそだ」「言葉は要らない」　沖縄慰霊の日・首相あいさつにヤジ飛ぶ https://t.co/A0pFHEFSvV"
+	},
+	{
+		"created_at": "Sun Jun 23 14:09:15 +0000 2019",
+		"id": 1142784369574027300,
+		"id_str": "1142796766070263808",
+		"full_text": "【ノーカット動画】沖縄全戦没者追悼式：玉城デニー沖縄県知事 平和宣言\n\n▽追悼式の模様を全編視聴\nhttps://t.co/XVQ9A2rg8E\n\nきょう6月23日は、第二次世界大戦末期の沖縄戦の犠牲者を追悼する #慰霊の日 です。沖縄県糸満市摩文仁の平和祈念公園で沖縄全戦没者追悼式が行われました。 https://t.co/TY0cCVWWoh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "慰霊の日",
+					"indices": [
+						107,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XVQ9A2rg8E",
+					"expanded_url": "https://live.nicovideo.jp/watch/lv320619817",
+					"display_url": "live.nicovideo.jp/watch/lv320619…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1142774890296033300,
+					"id_str": "1142774890296033281",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1142774890296033281/img/sBQcw8YCotov5kPA.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1142774890296033281/img/sBQcw8YCotov5kPA.jpg",
+					"url": "https://t.co/TY0cCVWWoh",
+					"display_url": "pic.twitter.com/TY0cCVWWoh",
+					"expanded_url": "https://twitter.com/nico_nico_news/status/1142784369574027265/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142774890296033300,
+					"id_str": "1142774890296033281",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1142774890296033281/img/sBQcw8YCotov5kPA.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1142774890296033281/img/sBQcw8YCotov5kPA.jpg",
+					"url": "https://t.co/TY0cCVWWoh",
+					"display_url": "pic.twitter.com/TY0cCVWWoh",
+					"expanded_url": "https://twitter.com/nico_nico_news/status/1142784369574027265/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 453854,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1142774890296033281/vid/1280x720/lBkzeAXuWNE4fHiU.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1142774890296033281/pl/L_5ZiiS-CfPp_W7p.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1142774890296033281/vid/480x270/vHyuZ0Ge_qmzoukZ.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1142774890296033281/vid/640x360/aUcrLMiRUjo8MbLN.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "玉城デニー沖縄県知事 平和宣言：令和元年 沖縄全戦没者追悼式",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://live.nicovideo.jp/watch/lv320619817?ref=mediast"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 202998073,
+			"id_str": "202998073",
+			"name": "ニコニコニュース",
+			"screen_name": "nico_nico_news",
+			"location": "ニコニコニュースTOP",
+			"description": "niconicoのニュース系サービス・コンテンツを発信する公式アカウントです。  　#速報 #アニメ👯#ゲーム🎮#エンタメ🎧#配信者🗣️#国会中継🎥#世論調査📈",
+			"url": "https://t.co/FPTxCNZtU8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FPTxCNZtU8",
+							"expanded_url": "http://news.nicovideo.jp/",
+							"display_url": "news.nicovideo.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148924,
+			"friends_count": 4,
+			"listed_count": 2804,
+			"created_at": "Fri Oct 15 09:01:10 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 55210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875589414323224576/sZYb5xyG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875589414323224576/sZYb5xyG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/202998073/1548325498",
+			"profile_link_color": "FF8000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【ノーカット動画】沖縄全戦没者追悼式：玉城デニー沖縄県知事 平和宣言\n\n▽追悼式の模様を全編視聴\nhttps://t.co/XVQ9A2rg8E\n\nきょう6月23日は、第二次世界大戦末期の沖縄戦の犠牲者を追悼する #慰霊の日 です。沖縄県糸満市摩文仁の平和祈念公園で沖縄全戦没者追悼式が行われました。 https://t.co/TY0cCVWWoh"
+	},
+	{
+		"created_at": "Sun Jun 23 14:06:10 +0000 2019",
+		"id": 1142789402717872100,
+		"id_str": "1142795986915303424",
+		"full_text": "「沖縄全戦没者追悼式」に参列した安倍首相はあいさつで「米軍基地負担の軽減に全力を尽くす」と強調しましたが、参列者からは「うそだ」「言葉は要らない」などと激しいやじが飛びました。やじや怒号が飛ぶのは、2015年から続いています。\nhttps://t.co/mgeyhne1DP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mgeyhne1DP",
+					"expanded_url": "https://mainichi.jp/articles/20190623/k00/00m/040/159000c",
+					"display_url": "mainichi.jp/articles/20190…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49540955,
+			"id_str": "49540955",
+			"name": "毎日新聞",
+			"screen_name": "mainichi",
+			"location": "東京都千代田区",
+			"description": "毎日新聞のニュースサイトからおすすめ記事などをツイートします。FBページ https://t.co/waY2ry2PVG もあります。",
+			"url": "https://t.co/t3fGg5YbYZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t3fGg5YbYZ",
+							"expanded_url": "http://mainichi.jp/",
+							"display_url": "mainichi.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/waY2ry2PVG",
+							"expanded_url": "https://www.facebook.com/mainichishimbun/",
+							"display_url": "facebook.com/mainichishimbu…",
+							"indices": [
+								37,
+								60
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 836650,
+			"friends_count": 212,
+			"listed_count": 30777,
+			"created_at": "Mon Jun 22 04:53:27 +0000 2009",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 240903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875582156399026176/nvKfbCrk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875582156399026176/nvKfbCrk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49540955/1509087950",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DFDFDF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 225,
+		"favorite_count": 269,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「沖縄全戦没者追悼式」に参列した安倍首相はあいさつで「米軍基地負担の軽減に全力を尽くす」と強調しましたが、参列者からは「うそだ」「言葉は要らない」などと激しいやじが飛びました。やじや怒号が飛ぶのは、2015年から続いています。\nhttps://t.co/mgeyhne1DP"
+	},
+	{
+		"created_at": "Sun Jun 23 14:06:05 +0000 2019",
+		"id": 1142791919447289900,
+		"id_str": "1142795967814488066",
+		"full_text": "沖縄ひめゆり、白梅之塔で慰霊祭　「人が起こす戦争　大声で止めて」\nhttps://t.co/jDVQx7SQve",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jDVQx7SQve",
+					"expanded_url": "https://mainichi.jp/articles/20190623/k00/00m/040/155000c",
+					"display_url": "mainichi.jp/articles/20190…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49540955,
+			"id_str": "49540955",
+			"name": "毎日新聞",
+			"screen_name": "mainichi",
+			"location": "東京都千代田区",
+			"description": "毎日新聞のニュースサイトからおすすめ記事などをツイートします。FBページ https://t.co/waY2ry2PVG もあります。",
+			"url": "https://t.co/t3fGg5YbYZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t3fGg5YbYZ",
+							"expanded_url": "http://mainichi.jp/",
+							"display_url": "mainichi.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/waY2ry2PVG",
+							"expanded_url": "https://www.facebook.com/mainichishimbun/",
+							"display_url": "facebook.com/mainichishimbu…",
+							"indices": [
+								37,
+								60
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 836650,
+			"friends_count": 212,
+			"listed_count": 30777,
+			"created_at": "Mon Jun 22 04:53:27 +0000 2009",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 240903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875582156399026176/nvKfbCrk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875582156399026176/nvKfbCrk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49540955/1509087950",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DFDFDF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "沖縄ひめゆり、白梅之塔で慰霊祭　「人が起こす戦争　大声で止めて」\nhttps://t.co/jDVQx7SQve"
+	},
+	{
+		"created_at": "Sun Jun 23 13:55:39 +0000 2019",
+		"id": 1142717258193498100,
+		"id_str": "1142793343723720704",
+		"full_text": "沖縄全戦没者追悼式の安倍さんの今日、今年（2019年）分を含めて、過去三年の原稿（2017・2018・2019年）。\n表現の多少のいじりはあるものの、基本的なパーツや順番は同じ。 https://t.co/KIFImPW15A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142716834640064500,
+					"id_str": "1142716834640064513",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/D9u-6B-UcAECpda.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9u-6B-UcAECpda.jpg",
+					"url": "https://t.co/KIFImPW15A",
+					"display_url": "pic.twitter.com/KIFImPW15A",
+					"expanded_url": "https://twitter.com/toubennbenn/status/1142717258193498112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1187,
+							"h": 745,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1187,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142716834640064500,
+					"id_str": "1142716834640064513",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/D9u-6B-UcAECpda.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9u-6B-UcAECpda.jpg",
+					"url": "https://t.co/KIFImPW15A",
+					"display_url": "pic.twitter.com/KIFImPW15A",
+					"expanded_url": "https://twitter.com/toubennbenn/status/1142717258193498112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1187,
+							"h": 745,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1187,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 850043768841437200,
+			"id_str": "850043768841437184",
+			"name": "尾張おっぺけぺー ㊗️自民115連休🎉",
+			"screen_name": "toubennbenn",
+			"location": "",
+			"description": "資料ブログ「森友・加計問題安倍答弁」 https://t.co/hRboopWNit 森友問題、加計問題を扱ったもののうちの国会での安倍答弁や質問主意書・答弁書等の資料。 資料をなるべく整理して提供。考えるのはあなた。　　　※動画だけ表示する引用RTをされるのは愉快ではありません。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hRboopWNit",
+							"expanded_url": "http://inorimashow.blog.fc2.com/",
+							"display_url": "inorimashow.blog.fc2.com",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9897,
+			"friends_count": 213,
+			"listed_count": 124,
+			"created_at": "Thu Apr 06 17:53:22 +0000 2017",
+			"favourites_count": 13401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/850047526304530432/v1Yrd7ro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/850047526304530432/v1Yrd7ro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/850043768841437184/1537925477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1512,
+		"favorite_count": 1396,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "沖縄全戦没者追悼式の安倍さんの今日、今年（2019年）分を含めて、過去三年の原稿（2017・2018・2019年）。\n表現の多少のいじりはあるものの、基本的なパーツや順番は同じ。 https://t.co/KIFImPW15A"
+	},
+	{
+		"created_at": "Sun Jun 23 13:51:43 +0000 2019",
+		"id": 1142770245003694100,
+		"id_str": "1142792350835462144",
+		"full_text": "【全文】玉城デニー知事の平和宣言（2019年慰霊の日） - 琉球新報 - 沖縄の新聞、地域のニュース https://t.co/epDAkZ9BDH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/epDAkZ9BDH",
+					"expanded_url": "https://ryukyushimpo.jp/news/entry-941524.html?fbclid=IwAR085TpLjRG870JkNYf1k0TLqREAomZDEElMa4bitah_QukKG0dx8dREZQ0",
+					"display_url": "ryukyushimpo.jp/news/entry-941…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 259260779,
+			"id_str": "259260779",
+			"name": "山福朱実",
+			"screen_name": "kinomikoubou",
+			"location": "福岡 北九州市 若松区",
+			"description": "主に木版画で絵を描くことが生業。書籍、雑誌、絵本など。  2017年夏に北九州 若松へUターン移住。  Facebook中心でTwitter反応鈍いデス。",
+			"url": "https://t.co/ZlYBIMkVMp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZlYBIMkVMp",
+							"expanded_url": "http://nekoyanagioffice.wix.com/kinomikoubou",
+							"display_url": "nekoyanagioffice.wix.com/kinomikoubou",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 985,
+			"friends_count": 368,
+			"listed_count": 27,
+			"created_at": "Tue Mar 01 13:57:53 +0000 2011",
+			"favourites_count": 349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F57454",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/452698939460816896/gzPryQ-U_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/452698939460816896/gzPryQ-U_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/259260779/1397024727",
+			"profile_link_color": "512F0A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D5E082",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 34,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【全文】玉城デニー知事の平和宣言（2019年慰霊の日） - 琉球新報 - 沖縄の新聞、地域のニュース https://t.co/epDAkZ9BDH"
+	},
+	{
+		"created_at": "Sun Jun 23 13:50:17 +0000 2019",
+		"id": 1142752369030996000,
+		"id_str": "1142791992222470149",
+		"full_text": "#NHK #NEWS7\n“沖縄 慰霊の日”\n\n安倍首相にヤジが❗️\n\n「沖縄の基地負担軽減に全力を尽くす」\n\nって、やってることと真逆だもの。ヤジられるのも当然だ。\n\nしかも玉城知事が対話を呼びかけたすぐ後なのに、\n\n安倍首相『移設工事を進める考えを示す』って酷いな😡 https://t.co/ywnQFckm1z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NHK",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "NEWS7",
+					"indices": [
+						5,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142752272025178100,
+					"id_str": "1142752272025178112",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142752272025178112/pu/img/n9vpp2X3BR2dVGlj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142752272025178112/pu/img/n9vpp2X3BR2dVGlj.jpg",
+					"url": "https://t.co/ywnQFckm1z",
+					"display_url": "pic.twitter.com/ywnQFckm1z",
+					"expanded_url": "https://twitter.com/wanpakutenshi/status/1142752369030995970/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142752272025178100,
+					"id_str": "1142752272025178112",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142752272025178112/pu/img/n9vpp2X3BR2dVGlj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142752272025178112/pu/img/n9vpp2X3BR2dVGlj.jpg",
+					"url": "https://t.co/ywnQFckm1z",
+					"display_url": "pic.twitter.com/ywnQFckm1z",
+					"expanded_url": "https://twitter.com/wanpakutenshi/status/1142752369030995970/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 76957,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142752272025178112/pu/vid/640x360/RsIxtk_GRYpbGwQu.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142752272025178112/pu/pl/30aQqd6_AEAtCjHb.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142752272025178112/pu/vid/1280x720/EryJRGEajQcg7QMG.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142752272025178112/pu/vid/480x270/SzZatBS_pEFRgN25.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 129184305,
+			"id_str": "129184305",
+			"name": "但馬問屋",
+			"screen_name": "wanpakutenshi",
+			"location": "限りなくフィクションに近い国、アベポン",
+			"description": "いえいえ、だんな、あっしはただの愛国者でございます。それも戦後民主主義の日本国憲法を土台にした国のね。そりゃあもう立憲主義憲法は神様みたいなものでして、わたしなんぞを守っていただけると。権力者も従えば神の子、抗う権力者は悪魔でございましょう…。音楽☆RCサクセション、K ダブシャイン 文学☆ガルシアマルケス、大江健三郎",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32633,
+			"friends_count": 20742,
+			"listed_count": 355,
+			"created_at": "Sat Apr 03 13:02:39 +0000 2010",
+			"favourites_count": 257624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 134268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863775670484189184/RZJt6Tg4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863775670484189184/RZJt6Tg4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/129184305/1497802772",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 918,
+		"favorite_count": 1314,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#NHK #NEWS7\n“沖縄 慰霊の日”\n\n安倍首相にヤジが❗️\n\n「沖縄の基地負担軽減に全力を尽くす」\n\nって、やってることと真逆だもの。ヤジられるのも当然だ。\n\nしかも玉城知事が対話を呼びかけたすぐ後なのに、\n\n安倍首相『移設工事を進める考えを示す』って酷いな😡 https://t.co/ywnQFckm1z"
+	},
+	{
+		"created_at": "Sun Jun 23 13:41:56 +0000 2019",
+		"id": 1142712741330747400,
+		"id_str": "1142789890104385536",
+		"full_text": "6月23日\n今日は慰霊の日です。\n二度と戦争が起きないことを願います。 https://t.co/oxsCdN8RaJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142712630361989100,
+					"id_str": "1142712630361989120",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142712630361989120/pu/img/CYxkvTc6TcpCVQvz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142712630361989120/pu/img/CYxkvTc6TcpCVQvz.jpg",
+					"url": "https://t.co/oxsCdN8RaJ",
+					"display_url": "pic.twitter.com/oxsCdN8RaJ",
+					"expanded_url": "https://twitter.com/s10n29aina/status/1142712741330747393/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142712630361989100,
+					"id_str": "1142712630361989120",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142712630361989120/pu/img/CYxkvTc6TcpCVQvz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142712630361989120/pu/img/CYxkvTc6TcpCVQvz.jpg",
+					"url": "https://t.co/oxsCdN8RaJ",
+					"display_url": "pic.twitter.com/oxsCdN8RaJ",
+					"expanded_url": "https://twitter.com/s10n29aina/status/1142712741330747393/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							4
+						],
+						"duration_millis": 39292,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142712630361989120/pu/vid/320x426/M8rzlys5XWJle-J2.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142712630361989120/pu/pl/9kK7WfEs5ebvNDTV.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142712630361989120/pu/vid/360x480/QpYo0M4xzjRoia6y.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142712630361989120/pu/vid/540x720/lraVQtHp81HFIKXq.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2878425708,
+			"id_str": "2878425708",
+			"name": "知念愛奈",
+			"screen_name": "s10n29aina",
+			"location": "沖縄 南大東村",
+			"description": "南大東出身 野球love⚾️💕大東人です😊",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1529,
+			"friends_count": 935,
+			"listed_count": 0,
+			"created_at": "Sun Oct 26 15:45:59 +0000 2014",
+			"favourites_count": 2250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1029003440586813440/u9uQYQqC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029003440586813440/u9uQYQqC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2878425708/1536319279",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 199,
+		"favorite_count": 888,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "6月23日\n今日は慰霊の日です。\n二度と戦争が起きないことを願います。 https://t.co/oxsCdN8RaJ"
+	},
+	{
+		"created_at": "Sun Jun 23 13:36:45 +0000 2019",
+		"id": 1142683532835184600,
+		"id_str": "1142788586082668544",
+		"full_text": "沖縄全戦没者追悼式で玉城デニー知事はウチナーグチ（沖縄の言葉）を織り交ぜた「平和宣言」を述べ、辺野古埋め立てを進める政府を強く批判しました。オリジナル版は→https://t.co/bFlKEQU9hl\n#慰霊の日 https://t.co/w15v0JI0oK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "慰霊の日",
+					"indices": [
+						102,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bFlKEQU9hl",
+					"expanded_url": "http://bit.ly/2Xu4qoH",
+					"display_url": "bit.ly/2Xu4qoH",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1142682027222691800,
+					"id_str": "1142682027222691840",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/D9ugh9pUcAAKB0O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9ugh9pUcAAKB0O.jpg",
+					"url": "https://t.co/w15v0JI0oK",
+					"display_url": "pic.twitter.com/w15v0JI0oK",
+					"expanded_url": "https://twitter.com/eizo_desk/status/1142683532835184640/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142682027222691800,
+					"id_str": "1142682027222691840",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/D9ugh9pUcAAKB0O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9ugh9pUcAAKB0O.jpg",
+					"url": "https://t.co/w15v0JI0oK",
+					"display_url": "pic.twitter.com/w15v0JI0oK",
+					"expanded_url": "https://twitter.com/eizo_desk/status/1142683532835184640/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60294,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1142682027222691840/vid/720x720/918DVOUm3u2BzeDD.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1142682027222691840/vid/480x480/q23ntMj5eIOrqAiJ.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1142682027222691840/vid/320x320/NhAU45cgCLPKoXHI.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1142682027222691840/pl/3vj4sbvf7tmEo7Ru.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "沖縄慰霊の日　玉城デニー知事が平和宣言",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://bit.ly/2Xu4qoH"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3191925858,
+			"id_str": "3191925858",
+			"name": "毎日新聞映像グループ",
+			"screen_name": "eizo_desk",
+			"location": "東京都 千代田区一ツ橋1－1－1",
+			"description": "毎日新聞映像グループの公式アカウントです。「毎日動画」にアップした動画ニュースを紹介します。よろしくお願いします。 https://t.co/IjIkiRy50f \nhttps://t.co/uEWjbZmOXg",
+			"url": "https://t.co/IjIkiRy50f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IjIkiRy50f",
+							"expanded_url": "http://mainichi.jp/movie/",
+							"display_url": "mainichi.jp/movie/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IjIkiRy50f",
+							"expanded_url": "http://mainichi.jp/movie/",
+							"display_url": "mainichi.jp/movie/",
+							"indices": [
+								58,
+								81
+							]
+						},
+						{
+							"url": "https://t.co/uEWjbZmOXg",
+							"expanded_url": "https://www.facebook.com/mainichimovie/",
+							"display_url": "facebook.com/mainichimovie/",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17586,
+			"friends_count": 80,
+			"listed_count": 551,
+			"created_at": "Mon May 11 10:35:14 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3191925858/1436243230",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 621,
+		"favorite_count": 674,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "沖縄全戦没者追悼式で玉城デニー知事はウチナーグチ（沖縄の言葉）を織り交ぜた「平和宣言」を述べ、辺野古埋め立てを進める政府を強く批判しました。オリジナル版は→https://t.co/bFlKEQU9hl\n#慰霊の日 https://t.co/w15v0JI0oK"
+	},
+	{
+		"created_at": "Sun Jun 23 13:35:47 +0000 2019",
+		"id": 1142681379169112000,
+		"id_str": "1142788342410444801",
+		"full_text": "＃沖縄 ＃慰霊の日\n今年は例年に比べて安倍晋三内閣総理大臣への怒りが増していた、そしてスピーチも去年よりも内容が薄く短かった https://t.co/AHVcDeJBWk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "沖縄",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "慰霊の日",
+					"indices": [
+						4,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142679918444023800,
+					"id_str": "1142679918444023809",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142679918444023809/pu/img/Fmni62ChUubMKk0k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142679918444023809/pu/img/Fmni62ChUubMKk0k.jpg",
+					"url": "https://t.co/AHVcDeJBWk",
+					"display_url": "pic.twitter.com/AHVcDeJBWk",
+					"expanded_url": "https://twitter.com/atsushi_mic/status/1142681379169112064/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 634,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142679918444023800,
+					"id_str": "1142679918444023809",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142679918444023809/pu/img/Fmni62ChUubMKk0k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142679918444023809/pu/img/Fmni62ChUubMKk0k.jpg",
+					"url": "https://t.co/AHVcDeJBWk",
+					"display_url": "pic.twitter.com/AHVcDeJBWk",
+					"expanded_url": "https://twitter.com/atsushi_mic/status/1142681379169112064/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 634,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							169
+						],
+						"duration_millis": 139917,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142679918444023809/pu/vid/680x360/maxqgmeUDE8RK4bA.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142679918444023809/pu/vid/1280x676/K9ZhP1Pgc5p94Y9e.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142679918444023809/pu/vid/510x270/49eGeWisl6E1pugS.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142679918444023809/pu/pl/NCr3lsy8ecNCS53U.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1290793536,
+			"id_str": "1290793536",
+			"name": "仁尾淳史(note始めました)",
+			"screen_name": "atsushi_mic",
+			"location": "日本 沖縄県",
+			"description": "ツイキャス配信してます。 よかったら観てください https://t.co/glgu018YZI 【7月までにほしい物リスト】 https://t.co/0B4596sMnR",
+			"url": "https://t.co/FiXcC7tcuk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FiXcC7tcuk",
+							"expanded_url": "https://m.youtube.com/channel/UC2dqmTRBl7RrY3_q66obJ9w",
+							"display_url": "m.youtube.com/channel/UC2dqm…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/glgu018YZI",
+							"expanded_url": "http://twitcasting.tv/atsushi_mic",
+							"display_url": "twitcasting.tv/atsushi_mic",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/0B4596sMnR",
+							"expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1G78SC0CYBJ6U?ref_=wl_share",
+							"display_url": "amazon.jp/hz/wishlist/ls…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6429,
+			"friends_count": 761,
+			"listed_count": 172,
+			"created_at": "Sat Mar 23 08:11:50 +0000 2013",
+			"favourites_count": 651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763359009155928064/DS1M5Ym4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763359009155928064/DS1M5Ym4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1290793536/1498651141",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1327,
+		"favorite_count": 1794,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "＃沖縄 ＃慰霊の日\n今年は例年に比べて安倍晋三内閣総理大臣への怒りが増していた、そしてスピーチも去年よりも内容が薄く短かった https://t.co/AHVcDeJBWk"
+	},
+	{
+		"created_at": "Sun Jun 23 13:33:31 +0000 2019",
+		"id": 1142787770336682000,
+		"id_str": "1142787770336681984",
+		"full_text": "慰霊の日ってどんな日？　沖縄県民なら誰もが知っているメモリアルデーには紆余曲折の歴史があった - 琉球新報 - 沖縄の新聞、地域のニュース https://t.co/REQUYMKMGZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/REQUYMKMGZ",
+					"expanded_url": "https://ryukyushimpo.jp/news/entry-744196.html?fbclid=IwAR3n2YdxHFDqEEOro6-cl9MIIPrbh8UeiBCWJwAT01fcJfNg3wJsk6s82kY",
+					"display_url": "ryukyushimpo.jp/news/entry-744…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 573,
+			"friends_count": 496,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "慰霊の日ってどんな日？　沖縄県民なら誰もが知っているメモリアルデーには紆余曲折の歴史があった - 琉球新報 - 沖縄の新聞、地域のニュース https://t.co/REQUYMKMGZ"
+	},
+	{
+		"created_at": "Sun Jun 23 11:10:21 +0000 2019",
+		"id": 1142656139827372000,
+		"id_str": "1142751744906035205",
+		"full_text": "県民投票で示された圧倒的反対の声を完全に無視。工事強行する張本人が慰霊の式典に出てくることこそが耐え難い。戦没者への侮辱。私たちのオジーオバー、ウヤファーフジへの冒涜。 https://t.co/JBSuwANWlX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142656094486978600,
+					"id_str": "1142656094486978561",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142656094486978561/pu/img/4TL9BNAxsRb-R6m8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142656094486978561/pu/img/4TL9BNAxsRb-R6m8.jpg",
+					"url": "https://t.co/JBSuwANWlX",
+					"display_url": "pic.twitter.com/JBSuwANWlX",
+					"expanded_url": "https://twitter.com/TOYOsanshin/status/1142656139827372032/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1288,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142656094486978600,
+					"id_str": "1142656094486978561",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142656094486978561/pu/img/4TL9BNAxsRb-R6m8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142656094486978561/pu/img/4TL9BNAxsRb-R6m8.jpg",
+					"url": "https://t.co/JBSuwANWlX",
+					"display_url": "pic.twitter.com/JBSuwANWlX",
+					"expanded_url": "https://twitter.com/TOYOsanshin/status/1142656139827372032/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1288,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							161,
+							90
+						],
+						"duration_millis": 26568,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142656094486978561/pu/vid/482x270/jwOPftl3eD9FHZib.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142656094486978561/pu/pl/_Ep-2Udlho9XwuFC.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142656094486978561/pu/vid/1288x720/LQYgEu31kldn7jEv.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142656094486978561/pu/vid/644x360/OrmTHywK7QuZmzmW.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 280534792,
+			"id_str": "280534792",
+			"name": "TOYO",
+			"screen_name": "TOYOsanshin",
+			"location": "",
+			"description": "okinawan sanshin player　沖縄への祈りを込めて。ご先祖様の苦難と平和の想いを受け継ぎ未来へ。たとえ自分が無力だとしても平和の礎の中の一つの石ころでありたい。宮古島生まれ首里育ち東京在住三線ミュージシャンでアーティスト。  ↓翁長知事追悼、StopHenoko琉球人魚　玉城デニー応援",
+			"url": "https://t.co/3qG8cNRfZQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3qG8cNRfZQ",
+							"expanded_url": "https://www.youtube.com/user/toyobox",
+							"display_url": "youtube.com/user/toyobox",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2081,
+			"friends_count": 1091,
+			"listed_count": 24,
+			"created_at": "Mon Apr 11 14:32:13 +0000 2011",
+			"favourites_count": 8678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824813581677891585/PQq68C5u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824813581677891585/PQq68C5u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/280534792/1497117665",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2179,
+		"favorite_count": 3259,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "県民投票で示された圧倒的反対の声を完全に無視。工事強行する張本人が慰霊の式典に出てくることこそが耐え難い。戦没者への侮辱。私たちのオジーオバー、ウヤファーフジへの冒涜。 https://t.co/JBSuwANWlX"
+	},
+	{
+		"created_at": "Sun Jun 23 04:37:23 +0000 2019",
+		"id": 1142644883502448600,
+		"id_str": "1142652849152638977",
+		"full_text": "すごいヤジでした。昨年よりもはるかに、長くです。 https://t.co/cJRPJAJS9x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cJRPJAJS9x",
+					"expanded_url": "https://twitter.com/ryukyushimpo/status/1142642828855709697",
+					"display_url": "twitter.com/ryukyushimpo/s…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95338477,
+			"id_str": "95338477",
+			"name": "有田芳生",
+			"screen_name": "aritayoshifu",
+			"location": "東京都練馬区",
+			"description": "参議院議員・ジャーナリスト。アイコンはナンシー関さん、佐藤秀峰さん、弘兼憲史さん、柴門ふみさん、安西水丸さんなど適宜変わります。いまは安西さんです。「つぶやき」は森羅万象。政治的主張の空間とは考えていません。何でも書きます。他者罵倒の礼儀知らずやあてこすり匿名常習者は勝手に拒否します。",
+			"url": "https://t.co/9AuBpid4xr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9AuBpid4xr",
+							"expanded_url": "http://www.web-arita.com/",
+							"display_url": "web-arita.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114219,
+			"friends_count": 170,
+			"listed_count": 7492,
+			"created_at": "Tue Dec 08 03:04:36 +0000 2009",
+			"favourites_count": 43,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 44431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121544035414360070/uMSo3K_P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121544035414360070/uMSo3K_P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95338477/1547705230",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1142642828855709700,
+		"quoted_status_id_str": "1142642828855709697",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cJRPJAJS9x",
+			"expanded": "https://twitter.com/ryukyushimpo/status/1142642828855709697",
+			"display": "twitter.com/ryukyushimpo/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 23 03:57:34 +0000 2019",
+			"id": 1142642828855709700,
+			"id_str": "1142642828855709697",
+			"full_text": "安倍首相、辺野古に触れず　沖縄全戦没者追悼式https://t.co/kIzUHkaOu2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				45
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kIzUHkaOu2",
+						"expanded_url": "http://bit.ly/2IAmWmT",
+						"display_url": "bit.ly/2IAmWmT",
+						"indices": [
+							22,
+							45
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15746839,
+				"id_str": "15746839",
+				"name": "琉球新報",
+				"screen_name": "ryukyushimpo",
+				"location": "沖縄県那覇市",
+				"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+				"url": "http://t.co/YUTPJoUc1k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YUTPJoUc1k",
+								"expanded_url": "http://ryukyushimpo.jp",
+								"display_url": "ryukyushimpo.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nFmlmocCxo",
+								"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+								"display_url": "facebook.com/ryukyushimpo/",
+								"indices": [
+									25,
+									48
+								]
+							},
+							{
+								"url": "https://t.co/6ry90YboVK",
+								"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+								"display_url": "line.me/R/ti/p/%40oa-r…",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 60008,
+				"friends_count": 6588,
+				"listed_count": 2779,
+				"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+				"favourites_count": 8067,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 110553,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFCCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "D3D920",
+				"profile_sidebar_fill_color": "FAFCC2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 699,
+			"favorite_count": 505,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 1397,
+		"favorite_count": 2439,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "すごいヤジでした。昨年よりもはるかに、長くです。 https://t.co/cJRPJAJS9x"
+	},
+	{
+		"created_at": "Sun Jun 23 04:36:48 +0000 2019",
+		"id": 1142651690136612900,
+		"id_str": "1142652701500563456",
+		"full_text": "【全文】沖縄全戦没者追悼式・平和の詩「本当の幸せ」https://t.co/SaBWJH79uD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SaBWJH79uD",
+					"expanded_url": "http://bit.ly/31RSvAf",
+					"display_url": "bit.ly/31RSvAf",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60008,
+			"friends_count": 6588,
+			"listed_count": 2779,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 450,
+		"favorite_count": 654,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【全文】沖縄全戦没者追悼式・平和の詩「本当の幸せ」https://t.co/SaBWJH79uD"
+	},
+	{
+		"created_at": "Sun Jun 23 04:32:56 +0000 2019",
+		"id": 1142553069974163500,
+		"id_str": "1142651728765939712",
+		"full_text": "きょう #6月23日 は #沖縄慰霊の日 です。74年前、沖縄では激しい #地上戦 が行われ、約20万人が犠牲になりました。 #沖縄戦 とは何か、2分半の動画にまとました。\nhttps://t.co/4ZuZ0urtgV https://t.co/y7SgDR6X03",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "6月23日",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "沖縄慰霊の日",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"text": "地上戦",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "沖縄戦",
+					"indices": [
+						63,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4ZuZ0urtgV",
+					"expanded_url": "http://www.asahi.com/special/okinawa/",
+					"display_url": "asahi.com/special/okinaw…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1142552881914097700,
+					"id_str": "1142552881914097666",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142552881914097666/pu/img/GLYsY1lh1MGWvwej.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142552881914097666/pu/img/GLYsY1lh1MGWvwej.jpg",
+					"url": "https://t.co/y7SgDR6X03",
+					"display_url": "pic.twitter.com/y7SgDR6X03",
+					"expanded_url": "https://twitter.com/asahicom/status/1142553069974163457/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142552881914097700,
+					"id_str": "1142552881914097666",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142552881914097666/pu/img/GLYsY1lh1MGWvwej.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142552881914097666/pu/img/GLYsY1lh1MGWvwej.jpg",
+					"url": "https://t.co/y7SgDR6X03",
+					"display_url": "pic.twitter.com/y7SgDR6X03",
+					"expanded_url": "https://twitter.com/asahicom/status/1142553069974163457/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 139800,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142552881914097666/pu/vid/480x480/XKaHAdB1we-GDGUb.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142552881914097666/pu/pl/4zljKwEh3-QsNeNp.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142552881914097666/pu/vid/720x720/IOl9N4KNqsRHAIal.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142552881914097666/pu/vid/320x320/M8WbKx0PdP5lEDGJ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44820979,
+			"id_str": "44820979",
+			"name": "朝日新聞デジタル編集部",
+			"screen_name": "asahicom",
+			"location": "東京都中央区築地",
+			"description": "朝日新聞デジタル編集部の公式アカウントです。編集者が選んだ注目記事を紹介。速報ニュースや号外紙面も配信します。",
+			"url": "http://t.co/z6zmAkextf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/z6zmAkextf",
+							"expanded_url": "http://www.asahi.com/",
+							"display_url": "asahi.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41328,
+			"friends_count": 4900,
+			"listed_count": 2422,
+			"created_at": "Fri Jun 05 04:30:11 +0000 2009",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 37565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108215827164061697/cKwtEk8l_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108215827164061697/cKwtEk8l_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44820979/1553054248",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "606666",
+			"profile_sidebar_fill_color": "EAEEEE",
+			"profile_text_color": "0D0D0D",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1528,
+		"favorite_count": 1568,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "きょう #6月23日 は #沖縄慰霊の日 です。74年前、沖縄では激しい #地上戦 が行われ、約20万人が犠牲になりました。 #沖縄戦 とは何か、2分半の動画にまとました。\nhttps://t.co/4ZuZ0urtgV https://t.co/y7SgDR6X03"
+	},
+	{
+		"created_at": "Sun Jun 23 04:32:00 +0000 2019",
+		"id": 1010284692791128000,
+		"id_str": "1142651496317591553",
+		"full_text": "73年前もこんな朝日が昇ったのかなぁと毎年思う。今日は沖縄の組織的な地上戦が終わったとされる #慰霊の日。こんな綺麗な時季に風景や季節感を感じている余裕も無かった方々、そしてこの時季の風景や季節感に触れる度にあの頃を思い出してしまう方々に思いを。73年経っても戦後が終わらない沖縄より。 https://t.co/kj8i90a5fo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "慰霊の日",
+					"indices": [
+						47,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kj8i90a5fo",
+					"expanded_url": "https://twitter.com/tintotinto_/status/1010282489242267654",
+					"display_url": "twitter.com/tintotinto_/st…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 137356844,
+			"id_str": "137356844",
+			"name": "江本祐介 / tinto＊tinto Okinawa",
+			"screen_name": "yskemoto",
+			"location": "横浜・東京 ✈︎ 沖縄",
+			"description": "沖縄と子育てと宿経営のこと。結婚と同時に横浜・東京から沖縄に移住し13年。北部今帰仁村の海を望む高台で幼児も泊まれるスモールリゾートを経営9期目。2児(9歳5歳♂)の父。名護・今帰仁の2拠点暮らし。横浜出身→早稲田大→通信キャリア法人営業→沖縄旅行メディア マーケティングマネージャー→@tintotinto_開業。",
+			"url": "https://t.co/kfAoEDOkyo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kfAoEDOkyo",
+							"expanded_url": "https://tintotinto.com/",
+							"display_url": "tintotinto.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1539,
+			"friends_count": 545,
+			"listed_count": 54,
+			"created_at": "Mon Apr 26 14:33:43 +0000 2010",
+			"favourites_count": 3829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E2ECF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963024956463304705/zBIVVX94_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963024956463304705/zBIVVX94_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/137356844/1407993371",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1010282489242267600,
+		"quoted_status_id_str": "1010282489242267654",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kj8i90a5fo",
+			"expanded": "https://twitter.com/tintotinto_/status/1010282489242267654",
+			"display": "twitter.com/tintotinto_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 22 22:04:50 +0000 2018",
+			"id": 1010282489242267600,
+			"id_str": "1010282489242267654",
+			"full_text": "今朝の #tintotinto定点📸\n日出5:37/🌤/南南西5m/最高31℃/長潮\n\n今朝の朝日。朝日にも梅雨明け感が少しづつ出てきたけど、あともう少しなのだよなぁ。\n今日の沖縄、慰霊の日。今日が平日なら学校などはお休みになる大切な日です。\n\n#沖縄 #イマソラ #古宇利島 https://t.co/xDOm1uEqj7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tintotinto定点",
+						"indices": [
+							4,
+							17
+						]
+					},
+					{
+						"text": "沖縄",
+						"indices": [
+							123,
+							126
+						]
+					},
+					{
+						"text": "イマソラ",
+						"indices": [
+							127,
+							132
+						]
+					},
+					{
+						"text": "古宇利島",
+						"indices": [
+							133,
+							138
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1010282468555907100,
+						"id_str": "1010282468555907073",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/DgU-jW0UYAE-vZu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgU-jW0UYAE-vZu.jpg",
+						"url": "https://t.co/xDOm1uEqj7",
+						"display_url": "pic.twitter.com/xDOm1uEqj7",
+						"expanded_url": "https://twitter.com/tintotinto_/status/1010282489242267654/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 766,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 766,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1010282468555907100,
+						"id_str": "1010282468555907073",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/DgU-jW0UYAE-vZu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DgU-jW0UYAE-vZu.jpg",
+						"url": "https://t.co/xDOm1uEqj7",
+						"display_url": "pic.twitter.com/xDOm1uEqj7",
+						"expanded_url": "https://twitter.com/tintotinto_/status/1010282489242267654/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 766,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 766,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2690280882,
+				"id_str": "2690280882",
+				"name": "tinto＊tinto",
+				"screen_name": "tintotinto_",
+				"location": "沖縄 今帰仁村",
+				"description": "沖縄北部今帰仁村、海と古宇利島を望む「沖縄のひとつ宿tinto*tinto」。都会の喧騒から離れた静かでのどかな“ひとつ宿”で思い出に残るご滞在を。朝ごはんは乳児からご宿泊できる和洋室のお客様1組のみにご提供。1組だけでのんびり朝ごはんをどうぞ。おとなりには姉妹宿の「マチャンマチャン」も。宿のことを中心につぶやきます。",
+				"url": "https://t.co/M9Vwavu08M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/M9Vwavu08M",
+								"expanded_url": "http://tintotinto.com",
+								"display_url": "tintotinto.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 184,
+				"friends_count": 102,
+				"listed_count": 9,
+				"created_at": "Tue Jul 29 14:52:46 +0000 2014",
+				"favourites_count": 413,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1238,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849795414437974017/x2vHa38-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849795414437974017/x2vHa38-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2690280882/1407993538",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 6,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "73年前もこんな朝日が昇ったのかなぁと毎年思う。今日は沖縄の組織的な地上戦が終わったとされる #慰霊の日。こんな綺麗な時季に風景や季節感を感じている余裕も無かった方々、そしてこの時季の風景や季節感に触れる度にあの頃を思い出してしまう方々に思いを。73年経っても戦後が終わらない沖縄より。 https://t.co/kj8i90a5fo"
+	},
+	{
+		"created_at": "Sun Jun 23 04:30:55 +0000 2019",
+		"id": 1142646427769688000,
+		"id_str": "1142651222597390336",
+		"full_text": "「青くきれいな海／緑あふれる大地／青く澄みわたる空しか知らない私／海や大地や空が七十四年前／何を見て／何を聞き／何を思ったのか／知らない世代が増えている」\n\n沖縄「慰霊の日」の戦没者追悼式で朗読した平和の詩「本当の幸せ」全文です。 #沖縄慰霊の日 \nhttps://t.co/n1FSznVirU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "沖縄慰霊の日",
+					"indices": [
+						116,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n1FSznVirU",
+					"expanded_url": "https://www.asahi.com/articles/ASM6R2P9BM6RTIPE009.html",
+					"display_url": "asahi.com/articles/ASM6R…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1142636656442216400,
+		"in_reply_to_status_id_str": "1142636656442216449",
+		"in_reply_to_user_id": 44820979,
+		"in_reply_to_user_id_str": "44820979",
+		"in_reply_to_screen_name": "asahicom",
+		"user": {
+			"id": 44820979,
+			"id_str": "44820979",
+			"name": "朝日新聞デジタル編集部",
+			"screen_name": "asahicom",
+			"location": "東京都中央区築地",
+			"description": "朝日新聞デジタル編集部の公式アカウントです。編集者が選んだ注目記事を紹介。速報ニュースや号外紙面も配信します。",
+			"url": "http://t.co/z6zmAkextf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/z6zmAkextf",
+							"expanded_url": "http://www.asahi.com/",
+							"display_url": "asahi.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41328,
+			"friends_count": 4900,
+			"listed_count": 2422,
+			"created_at": "Fri Jun 05 04:30:11 +0000 2009",
+			"favourites_count": 85,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 37565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108215827164061697/cKwtEk8l_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108215827164061697/cKwtEk8l_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44820979/1553054248",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "606666",
+			"profile_sidebar_fill_color": "EAEEEE",
+			"profile_text_color": "0D0D0D",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「青くきれいな海／緑あふれる大地／青く澄みわたる空しか知らない私／海や大地や空が七十四年前／何を見て／何を聞き／何を思ったのか／知らない世代が増えている」\n\n沖縄「慰霊の日」の戦没者追悼式で朗読した平和の詩「本当の幸せ」全文です。 #沖縄慰霊の日 \nhttps://t.co/n1FSznVirU"
+	},
+	{
+		"created_at": "Sun Jun 23 04:25:10 +0000 2019",
+		"id": 1142646918104752100,
+		"id_str": "1142649777261203457",
+		"full_text": "玉城知事の平和宣言、沖縄言葉と英語交え　政府へは批判：朝日新聞デジタル https://t.co/WhVIvUGxzJ #私たちの沖縄考",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "私たちの沖縄考",
+					"indices": [
+						60,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WhVIvUGxzJ",
+					"expanded_url": "https://www.asahi.com/articles/ASM6R36DDM6RTPOB003.html",
+					"display_url": "asahi.com/articles/ASM6R…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 256879050,
+			"id_str": "256879050",
+			"name": "朝日新聞社会部",
+			"screen_name": "Asahi_Shakai",
+			"location": "",
+			"description": "朝日新聞社会部の公式アカウントです。日々起きる社会のさまざまなニュースを呟いています。事件などが発生した場合は情報提供をお願いすることもあります。ご協力お願い致します。記事へのご意見やご要望は shakaibu@asahi.com までお寄せください。",
+			"url": "http://t.co/W1Ijn2u0ni",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/W1Ijn2u0ni",
+							"expanded_url": "http://www.asahi.com",
+							"display_url": "asahi.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 190980,
+			"friends_count": 555,
+			"listed_count": 8275,
+			"created_at": "Thu Feb 24 07:39:05 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 61105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B6D544",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259190126/asahi_shakai_icon_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259190126/asahi_shakai_icon_normal.png",
+			"profile_link_color": "23B706",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "玉城知事の平和宣言、沖縄言葉と英語交え　政府へは批判：朝日新聞デジタル https://t.co/WhVIvUGxzJ #私たちの沖縄考"
+	},
+	{
+		"created_at": "Sun Jun 23 04:15:10 +0000 2019",
+		"id": 1142638061710266400,
+		"id_str": "1142647257906331648",
+		"full_text": "玉城デニー沖縄県知事「国民の皆様には、米軍基地の問題は沖縄の問題ではなく、わが国の外交、安全保障、人権、環境保護など、日本国民全体がみずから当事者であるとの認識を持っていただきたいと願っています」。\n#沖縄慰霊の日 \n#慰霊の日 https://t.co/42CwTU6riq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "沖縄慰霊の日",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "慰霊の日",
+					"indices": [
+						109,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142637690707304400,
+					"id_str": "1142637690707304448",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D9t27P2U4AAv8Ax.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9t27P2U4AAv8Ax.jpg",
+					"url": "https://t.co/42CwTU6riq",
+					"display_url": "pic.twitter.com/42CwTU6riq",
+					"expanded_url": "https://twitter.com/yagainstfascism/status/1142638061710266368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 604,
+							"h": 708,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 604,
+							"h": 708,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142637690707304400,
+					"id_str": "1142637690707304448",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D9t27P2U4AAv8Ax.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9t27P2U4AAv8Ax.jpg",
+					"url": "https://t.co/42CwTU6riq",
+					"display_url": "pic.twitter.com/42CwTU6riq",
+					"expanded_url": "https://twitter.com/yagainstfascism/status/1142638061710266368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 604,
+							"h": 708,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 604,
+							"h": 708,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1142637705768996900,
+					"id_str": "1142637705768996864",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D9t28H9UEAAfvOK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9t28H9UEAAfvOK.jpg",
+					"url": "https://t.co/42CwTU6riq",
+					"display_url": "pic.twitter.com/42CwTU6riq",
+					"expanded_url": "https://twitter.com/yagainstfascism/status/1142638061710266368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 590,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 604,
+							"h": 696,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 604,
+							"h": 696,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1142637717726961700,
+					"id_str": "1142637717726961665",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/D9t280gUIAEJCt8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9t280gUIAEJCt8.jpg",
+					"url": "https://t.co/42CwTU6riq",
+					"display_url": "pic.twitter.com/42CwTU6riq",
+					"expanded_url": "https://twitter.com/yagainstfascism/status/1142638061710266368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 612,
+							"h": 688,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 612,
+							"h": 688,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 605,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1142632993044885500,
+		"in_reply_to_status_id_str": "1142632993044885506",
+		"in_reply_to_user_id": 2231710694,
+		"in_reply_to_user_id_str": "2231710694",
+		"in_reply_to_screen_name": "yagainstfascism",
+		"user": {
+			"id": 2231710694,
+			"id_str": "2231710694",
+			"name": "YAF",
+			"screen_name": "yagainstfascism",
+			"location": "",
+			"description": "#antifascism #antiracism  #antisexism #nonukes  #antinukes #animalwelfare  #SupportYourLocalAntifa Stand up and be counted!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3942,
+			"friends_count": 935,
+			"listed_count": 86,
+			"created_at": "Thu Dec 05 16:24:00 +0000 2013",
+			"favourites_count": 53586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720529339171737600/0Tqu4fbc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720529339171737600/0Tqu4fbc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2231710694/1437850596",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 144,
+		"favorite_count": 99,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "玉城デニー沖縄県知事「国民の皆様には、米軍基地の問題は沖縄の問題ではなく、わが国の外交、安全保障、人権、環境保護など、日本国民全体がみずから当事者であるとの認識を持っていただきたいと願っています」。\n#沖縄慰霊の日 \n#慰霊の日 https://t.co/42CwTU6riq"
+	},
+	{
+		"created_at": "Sun Jun 23 04:14:34 +0000 2019",
+		"id": 1142641292171567100,
+		"id_str": "1142647106370281472",
+		"full_text": "安倍晋三の空虚なスピーチ中、NHKの中継でも「辺野古反対」「嘘をつけ！」と野次が飛び、笑い声やヤジへの拍手が起きてるのが聞こえ、スピーチの終了直後に「安倍は辞めろ！」と怒号が聞こえた。これは凄い。ここまではっきりと安倍への怒りや批判が中継されたのもはじめてなのでは。\n#沖縄慰霊の日 https://t.co/JYWt8KTbN8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "沖縄慰霊の日",
+					"indices": [
+						134,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142640791040360400,
+					"id_str": "1142640791040360448",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D9t5vtfVAAAzzOH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9t5vtfVAAAzzOH.jpg",
+					"url": "https://t.co/JYWt8KTbN8",
+					"display_url": "pic.twitter.com/JYWt8KTbN8",
+					"expanded_url": "https://twitter.com/yagainstfascism/status/1142641292171567104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 612,
+							"h": 348,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 348,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 612,
+							"h": 348,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142640791040360400,
+					"id_str": "1142640791040360448",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D9t5vtfVAAAzzOH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9t5vtfVAAAzzOH.jpg",
+					"url": "https://t.co/JYWt8KTbN8",
+					"display_url": "pic.twitter.com/JYWt8KTbN8",
+					"expanded_url": "https://twitter.com/yagainstfascism/status/1142641292171567104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 612,
+							"h": 348,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 348,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 612,
+							"h": 348,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1142638061710266400,
+		"in_reply_to_status_id_str": "1142638061710266368",
+		"in_reply_to_user_id": 2231710694,
+		"in_reply_to_user_id_str": "2231710694",
+		"in_reply_to_screen_name": "yagainstfascism",
+		"user": {
+			"id": 2231710694,
+			"id_str": "2231710694",
+			"name": "YAF",
+			"screen_name": "yagainstfascism",
+			"location": "",
+			"description": "#antifascism #antiracism  #antisexism #nonukes  #antinukes #animalwelfare  #SupportYourLocalAntifa Stand up and be counted!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3942,
+			"friends_count": 935,
+			"listed_count": 86,
+			"created_at": "Thu Dec 05 16:24:00 +0000 2013",
+			"favourites_count": 53586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720529339171737600/0Tqu4fbc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720529339171737600/0Tqu4fbc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2231710694/1437850596",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 568,
+		"favorite_count": 578,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "安倍晋三の空虚なスピーチ中、NHKの中継でも「辺野古反対」「嘘をつけ！」と野次が飛び、笑い声やヤジへの拍手が起きてるのが聞こえ、スピーチの終了直後に「安倍は辞めろ！」と怒号が聞こえた。これは凄い。ここまではっきりと安倍への怒りや批判が中継されたのもはじめてなのでは。\n#沖縄慰霊の日 https://t.co/JYWt8KTbN8"
+	},
+	{
+		"created_at": "Sun Jun 23 04:14:30 +0000 2019",
+		"id": 1142618199067775000,
+		"id_str": "1142647090599694336",
+		"full_text": "祈りをささげ平和を願う\n6月23日慰霊の日\n\n#沖縄\n#慰霊の日\n#いーどぅし\n#cojaco\n#おばぁの涙 https://t.co/vOMPsiAb8u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "沖縄",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "慰霊の日",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "いーどぅし",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "cojaco",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "おばぁの涙",
+					"indices": [
+						48,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142618131220688900,
+					"id_str": "1142618131220688901",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142618131220688901/pu/img/E9hxVjb0ADkheTmD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142618131220688901/pu/img/E9hxVjb0ADkheTmD.jpg",
+					"url": "https://t.co/vOMPsiAb8u",
+					"display_url": "pic.twitter.com/vOMPsiAb8u",
+					"expanded_url": "https://twitter.com/RYUKYU_yuiMARU/status/1142618199067774976/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142618131220688900,
+					"id_str": "1142618131220688901",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142618131220688901/pu/img/E9hxVjb0ADkheTmD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142618131220688901/pu/img/E9hxVjb0ADkheTmD.jpg",
+					"url": "https://t.co/vOMPsiAb8u",
+					"display_url": "pic.twitter.com/vOMPsiAb8u",
+					"expanded_url": "https://twitter.com/RYUKYU_yuiMARU/status/1142618199067774976/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 13543,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142618131220688901/pu/vid/478x270/muKxdNlT3n4WrLP8.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142618131220688901/pu/vid/1136x640/jQL8zVAra_HUKxf-.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142618131220688901/pu/vid/638x360/Rg5Zl66l1hurFIdG.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142618131220688901/pu/pl/euYya478LdVSluc3.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 791641281097105400,
+			"id_str": "791641281097105409",
+			"name": "yui_ま–る@🏀🎸",
+			"screen_name": "RYUKYU_yuiMARU",
+			"location": "",
+			"description": "沖縄病🌴🌺 #琉球ゴールデンキングス #いーどぅし",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 521,
+			"friends_count": 357,
+			"listed_count": 6,
+			"created_at": "Thu Oct 27 14:02:44 +0000 2016",
+			"favourites_count": 952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/888384168907816961/3CjoQdn3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/888384168907816961/3CjoQdn3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/791641281097105409/1552395628",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 232,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "祈りをささげ平和を願う\n6月23日慰霊の日\n\n#沖縄\n#慰霊の日\n#いーどぅし\n#cojaco\n#おばぁの涙 https://t.co/vOMPsiAb8u"
+	},
+	{
+		"created_at": "Sun Jun 23 04:12:31 +0000 2019",
+		"id": 1142613829370564600,
+		"id_str": "1142646593465622529",
+		"full_text": "ちらっと。「涙そうそう」 https://t.co/9Qoh50nQJi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142613617075843100,
+					"id_str": "1142613617075843072",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142613617075843072/pu/img/x9nSOFMScY6oCgbo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142613617075843072/pu/img/x9nSOFMScY6oCgbo.jpg",
+					"url": "https://t.co/9Qoh50nQJi",
+					"display_url": "pic.twitter.com/9Qoh50nQJi",
+					"expanded_url": "https://twitter.com/chinmaayaa/status/1142613829370564608/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142613617075843100,
+					"id_str": "1142613617075843072",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142613617075843072/pu/img/x9nSOFMScY6oCgbo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142613617075843072/pu/img/x9nSOFMScY6oCgbo.jpg",
+					"url": "https://t.co/9Qoh50nQJi",
+					"display_url": "pic.twitter.com/9Qoh50nQJi",
+					"expanded_url": "https://twitter.com/chinmaayaa/status/1142613829370564608/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47087,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142613617075843072/pu/pl/lV7drFlNs2MHKpsR.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142613617075843072/pu/vid/1280x720/vTVjBS-pSSehZYea.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142613617075843072/pu/vid/480x270/Znjs9vXAKruM6N53.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142613617075843072/pu/vid/640x360/V4O03LmxER8Boer3.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309602572,
+			"id_str": "309602572",
+			"name": "那覇泉崎のちんまーやー",
+			"screen_name": "chinmaayaa",
+			"location": "沖縄県那覇市泉崎",
+			"description": "那覇市泉崎バスターミナルそばの居酒屋 居・食・酒ちんまーやーです！アイコンは糸満出身店主のりー、趣味は自転車とマラソン。ツイートは京都出身の嫁で、貝殻集めにハマってます🧷営業は月〜土曜17時–24時、日曜定休。ご予約は店舗098-866-5235までお電話下さい。",
+			"url": "https://t.co/HfFQSmr7cJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HfFQSmr7cJ",
+							"expanded_url": "https://chinmaayaa.ti-da.net/",
+							"display_url": "chinmaayaa.ti-da.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2933,
+			"friends_count": 3044,
+			"listed_count": 64,
+			"created_at": "Thu Jun 02 10:56:27 +0000 2011",
+			"favourites_count": 23547,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1378750334/_______normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1378750334/_______normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309602572/1456917502",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ちらっと。「涙そうそう」 https://t.co/9Qoh50nQJi"
+	},
+	{
+		"created_at": "Sun Jun 23 04:12:21 +0000 2019",
+		"id": 1142623615214444500,
+		"id_str": "1142646549178023936",
+		"full_text": "#Periscope #慰霊の日「令和元年沖縄全戦没者追悼式」平和祈念公園（沖縄県糸満市摩文仁） #OKINAWA #WW2 https://t.co/q0ii5ldCUe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Periscope",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "慰霊の日",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "OKINAWA",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"text": "WW2",
+					"indices": [
+						58,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q0ii5ldCUe",
+					"expanded_url": "https://www.pscp.tv/w/b97eSTF4ZUVXeUdHa3d5S1B8MW1ueGV2ckR6ZG9LWKZcHRgk6qSooH0wRbBEzjYhi6WZ-HF5nadrvUfjcojC",
+					"display_url": "pscp.tv/w/b97eSTF4ZUVX…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 866204992511762400,
+			"id_str": "866204992511762432",
+			"name": "SaveOurOkinawa",
+			"screen_name": "saveourokinawa",
+			"location": "Okinawa",
+			"description": "LiveStreamings,Talks.Discussions,Protests,And Unites,Watch What's happening in Okinawa Now,",
+			"url": "https://t.co/4Il3NcECrq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4Il3NcECrq",
+							"expanded_url": "https://www.youtube.com/channel/UC6N_lQtrVeVn-9DECd-PZeQ",
+							"display_url": "youtube.com/channel/UC6N_l…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 702,
+			"friends_count": 1249,
+			"listed_count": 9,
+			"created_at": "Sun May 21 08:12:18 +0000 2017",
+			"favourites_count": 568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869241992366104577/xxh1fjXT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869241992366104577/xxh1fjXT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/866204992511762432/1495356507",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#Periscope #慰霊の日「令和元年沖縄全戦没者追悼式」平和祈念公園（沖縄県糸満市摩文仁） #OKINAWA #WW2 https://t.co/q0ii5ldCUe"
+	},
+	{
+		"created_at": "Sun Jun 23 04:11:51 +0000 2019",
+		"id": 1142642826733326300,
+		"id_str": "1142646424129028096",
+		"full_text": "恒久平和願い沖縄で戦没者追悼式　知事、英語とウチナーグチ交え世界の平和構築誓うhttps://t.co/SUwqC8Mkrv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SUwqC8Mkrv",
+					"expanded_url": "http://bit.ly/2L8d7hP",
+					"display_url": "bit.ly/2L8d7hP",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60008,
+			"friends_count": 6588,
+			"listed_count": 2779,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "恒久平和願い沖縄で戦没者追悼式　知事、英語とウチナーグチ交え世界の平和構築誓うhttps://t.co/SUwqC8Mkrv"
+	},
+	{
+		"created_at": "Sun Jun 23 04:11:42 +0000 2019",
+		"id": 1142626020622647300,
+		"id_str": "1142646386157948928",
+		"full_text": "六月のサイレンに 目を閉じて\n祈りと 願いを ただ ただ…\n.\n.\n今日は #慰霊の日 🕊\nご先祖様が受け継いできた命に感謝しながら\nこれからも世界が平和でありますように\nという願いを込めて正午には黙祷をします\n.\n#いーどぅし Okinawan blue 🌺 https://t.co/P0zv6RSk4i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "慰霊の日",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "いーどぅし",
+					"indices": [
+						108,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142625908831838200,
+					"id_str": "1142625908831838208",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142625908831838208/pu/img/GeMJVEgo9wk64MuH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142625908831838208/pu/img/GeMJVEgo9wk64MuH.jpg",
+					"url": "https://t.co/P0zv6RSk4i",
+					"display_url": "pic.twitter.com/P0zv6RSk4i",
+					"expanded_url": "https://twitter.com/namika1214/status/1142626020622647297/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142625908831838200,
+					"id_str": "1142625908831838208",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142625908831838208/pu/img/GeMJVEgo9wk64MuH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142625908831838208/pu/img/GeMJVEgo9wk64MuH.jpg",
+					"url": "https://t.co/P0zv6RSk4i",
+					"display_url": "pic.twitter.com/P0zv6RSk4i",
+					"expanded_url": "https://twitter.com/namika1214/status/1142626020622647297/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 140015,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142625908831838208/pu/vid/320x568/FVjhvvnDE75szplm.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142625908831838208/pu/vid/360x640/lpZrFebrfyyEcImV.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142625908831838208/pu/pl/w2lB16N0tTVt_woJ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142625908831838208/pu/vid/540x960/DCtYbZL5H54UIong.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2890371344,
+			"id_str": "2890371344",
+			"name": "なみなみ【いーどぅし】",
+			"screen_name": "namika1214",
+			"location": "おきなわ大好き✨",
+			"description": "沖縄生まれ沖縄育ち🌺",
+			"url": "https://t.co/882LA1ETtA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/882LA1ETtA",
+							"expanded_url": "https://i-dushi.jimdosite.com/",
+							"display_url": "i-dushi.jimdosite.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7443,
+			"friends_count": 237,
+			"listed_count": 23,
+			"created_at": "Wed Nov 05 02:22:47 +0000 2014",
+			"favourites_count": 3324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/997409267727482881/dTbBlHAP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/997409267727482881/dTbBlHAP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2890371344/1487407094",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 579,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "六月のサイレンに 目を閉じて\n祈りと 願いを ただ ただ…\n.\n.\n今日は #慰霊の日 🕊\nご先祖様が受け継いできた命に感謝しながら\nこれからも世界が平和でありますように\nという願いを込めて正午には黙祷をします\n.\n#いーどぅし Okinawan blue 🌺 https://t.co/P0zv6RSk4i"
+	},
+	{
+		"created_at": "Sun Jun 23 04:11:32 +0000 2019",
+		"id": 1142630574823112700,
+		"id_str": "1142646345661992960",
+		"full_text": "安倍総理、ひとりゴト？ https://t.co/wegyCfgLWg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142630453557416000,
+					"id_str": "1142630453557415936",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142630453557415936/pu/img/cbM__8MoiTkKXeuD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142630453557415936/pu/img/cbM__8MoiTkKXeuD.jpg",
+					"url": "https://t.co/wegyCfgLWg",
+					"display_url": "pic.twitter.com/wegyCfgLWg",
+					"expanded_url": "https://twitter.com/yzjps/status/1142630574823112704/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142630453557416000,
+					"id_str": "1142630453557415936",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142630453557415936/pu/img/cbM__8MoiTkKXeuD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142630453557415936/pu/img/cbM__8MoiTkKXeuD.jpg",
+					"url": "https://t.co/wegyCfgLWg",
+					"display_url": "pic.twitter.com/wegyCfgLWg",
+					"expanded_url": "https://twitter.com/yzjps/status/1142630574823112704/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 4538,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142630453557415936/pu/pl/2kI2UfK3ORPXasst.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142630453557415936/pu/vid/640x360/8gVB2kXURAJ9O0Ai.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142630453557415936/pu/vid/480x270/5oe95PJkRosmrMSS.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112722693,
+			"id_str": "112722693",
+			"name": "参院選",
+			"screen_name": "yzjps",
+			"location": "スガって滅亡、の場所におります",
+			"description": "参院選追っかけ：キャス小世界での配信を「拡声」させて下さい！配信を「切り取って」使ってもいいよ～という方は、フォローして下さると幸いです。基本キャスへのリンク、録画の場合は撮影者@クレジットつけてます　☆311前からモリカケ一年目までのビデオは https://t.co/QpqJwt1IT8　に",
+			"url": "https://t.co/uQZMp1HAAa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uQZMp1HAAa",
+							"expanded_url": "https://www.youtube.com/c/yzjps",
+							"display_url": "youtube.com/c/yzjps",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QpqJwt1IT8",
+							"expanded_url": "https://www.youtube.com/c/iss2012",
+							"display_url": "youtube.com/c/iss2012",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19291,
+			"friends_count": 10751,
+			"listed_count": 274,
+			"created_at": "Tue Feb 09 13:58:49 +0000 2010",
+			"favourites_count": 1914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137104369269104640/duwRSVXW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137104369269104640/duwRSVXW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112722693/1513639606",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "安倍総理、ひとりゴト？ https://t.co/wegyCfgLWg"
+	},
+	{
+		"created_at": "Sun Jun 23 04:06:57 +0000 2019",
+		"id": 1142629175733305300,
+		"id_str": "1142645191087550464",
+		"full_text": "黙祷。追悼式会場外でも手を合わせました。#慰霊の日 #平和祈念公園 https://t.co/wP0KpyZnB1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "慰霊の日",
+					"indices": [
+						20,
+						25
+					]
+				},
+				{
+					"text": "平和祈念公園",
+					"indices": [
+						26,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142629136235520000,
+					"id_str": "1142629136235520000",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142629136235520000/pu/img/_uQR8WuVz_kPGOvy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142629136235520000/pu/img/_uQR8WuVz_kPGOvy.jpg",
+					"url": "https://t.co/wP0KpyZnB1",
+					"display_url": "pic.twitter.com/wP0KpyZnB1",
+					"expanded_url": "https://twitter.com/ryukyushimpo/status/1142629175733305345/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142629136235520000,
+					"id_str": "1142629136235520000",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142629136235520000/pu/img/_uQR8WuVz_kPGOvy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142629136235520000/pu/img/_uQR8WuVz_kPGOvy.jpg",
+					"url": "https://t.co/wP0KpyZnB1",
+					"display_url": "pic.twitter.com/wP0KpyZnB1",
+					"expanded_url": "https://twitter.com/ryukyushimpo/status/1142629175733305345/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 5318,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142629136235520000/pu/vid/320x568/qOlmhELjbK0K-UZK.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142629136235520000/pu/pl/XENwHe0nhJFxphJP.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142629136235520000/pu/vid/360x640/yzjj2h29t-ssNcTd.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142629136235520000/pu/vid/720x1280/Cvpddsce-4t816td.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60008,
+			"friends_count": 6588,
+			"listed_count": 2779,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "67938f22786a1056",
+			"url": "https://api.twitter.com/1.1/geo/id/67938f22786a1056.json",
+			"place_type": "city",
+			"name": "糸満市",
+			"full_name": "沖縄 糸満市",
+			"country_code": "JP",
+			"country": "日本",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.647969,
+							26.074526
+						],
+						[
+							127.730991,
+							26.074526
+						],
+						[
+							127.730991,
+							26.169848
+						],
+						[
+							127.647969,
+							26.169848
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 507,
+		"favorite_count": 1134,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "黙祷。追悼式会場外でも手を合わせました。#慰霊の日 #平和祈念公園 https://t.co/wP0KpyZnB1"
+	},
+	{
+		"created_at": "Sun Jun 23 02:16:09 +0000 2019",
+		"id": 1142419489738219500,
+		"id_str": "1142617306532499458",
+		"full_text": "#沖縄戦 の犠牲者らを悼む沖縄全戦没者追悼式の前夜祭がありました。\n#慰霊の日 \nオリジナル版は→https://t.co/V7tAxShaXh https://t.co/MDf2VXiqlv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "沖縄戦",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "慰霊の日",
+					"indices": [
+						34,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V7tAxShaXh",
+					"expanded_url": "http://bit.ly/2RzRXKQ",
+					"display_url": "bit.ly/2RzRXKQ",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1142416848304009200,
+					"id_str": "1142416848304009216",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/D9quq9lUEAAOJ_K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9quq9lUEAAOJ_K.jpg",
+					"url": "https://t.co/MDf2VXiqlv",
+					"display_url": "pic.twitter.com/MDf2VXiqlv",
+					"expanded_url": "https://twitter.com/eizo_desk/status/1142419489738219523/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142416848304009200,
+					"id_str": "1142416848304009216",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/D9quq9lUEAAOJ_K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9quq9lUEAAOJ_K.jpg",
+					"url": "https://t.co/MDf2VXiqlv",
+					"display_url": "pic.twitter.com/MDf2VXiqlv",
+					"expanded_url": "https://twitter.com/eizo_desk/status/1142419489738219523/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 41108,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1142416848304009216/vid/320x320/6CqX8ANHp_oSkvQR.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1142416848304009216/pl/XrGshbeON-Cpdw38.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1142416848304009216/vid/480x480/TNz8Rl1FVOZf5pb8.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1142416848304009216/vid/720x720/SXNSuI5Auh63pPC-.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "沖縄「慰霊の日」前夜祭　戦没者を悼んで「平和の光の柱」",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://video.mainichi.jp/detail/videos/%E6%96%B0%E7%9D%80/video/6051103560001?autoStart=true"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3191925858,
+			"id_str": "3191925858",
+			"name": "毎日新聞映像グループ",
+			"screen_name": "eizo_desk",
+			"location": "東京都 千代田区一ツ橋1－1－1",
+			"description": "毎日新聞映像グループの公式アカウントです。「毎日動画」にアップした動画ニュースを紹介します。よろしくお願いします。 https://t.co/IjIkiRy50f \nhttps://t.co/uEWjbZmOXg",
+			"url": "https://t.co/IjIkiRy50f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IjIkiRy50f",
+							"expanded_url": "http://mainichi.jp/movie/",
+							"display_url": "mainichi.jp/movie/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/IjIkiRy50f",
+							"expanded_url": "http://mainichi.jp/movie/",
+							"display_url": "mainichi.jp/movie/",
+							"indices": [
+								58,
+								81
+							]
+						},
+						{
+							"url": "https://t.co/uEWjbZmOXg",
+							"expanded_url": "https://www.facebook.com/mainichimovie/",
+							"display_url": "facebook.com/mainichimovie/",
+							"indices": [
+								83,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17586,
+			"friends_count": 80,
+			"listed_count": 551,
+			"created_at": "Mon May 11 10:35:14 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/618271748404834304/M2RJFCOP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3191925858/1436243230",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 315,
+		"favorite_count": 330,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#沖縄戦 の犠牲者らを悼む沖縄全戦没者追悼式の前夜祭がありました。\n#慰霊の日 \nオリジナル版は→https://t.co/V7tAxShaXh https://t.co/MDf2VXiqlv"
+	},
+	{
 		"created_at": "Sat Jun 22 23:22:18 +0000 2019",
 		"id": 1142539530383138800,
 		"id_str": "1142573555508342785",
