@@ -1,6 +1,847 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 25 15:12:32 +0000 2019",
+		"id": 1143536031595032600,
+		"id_str": "1143537467238170624",
+		"full_text": "柳美里さん @yu_miri_0622 は子どもの頃、書店に行って泣いたという。「一生かかっても全部は読めないんだ」と。フルハウスには、そんな柳さんが選んだ本があります。\n芥川賞作家・柳美里とあなたがつくるブックカフェ\n―福島県南相馬市　本屋「フルハウス」 @motiongallery https://t.co/ZeMTaO3Jz4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "yu_miri_0622",
+					"name": "柳美里",
+					"id": 147029427,
+					"id_str": "147029427",
+					"indices": [
+						6,
+						19
+					]
+				},
+				{
+					"screen_name": "motiongallery",
+					"name": "MOTION GALLERY",
+					"id": 310818669,
+					"id_str": "310818669",
+					"indices": [
+						129,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZeMTaO3Jz4",
+					"expanded_url": "https://motion-gallery.net/projects/fullhouse-bookcafe",
+					"display_url": "motion-gallery.net/projects/fullh…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16036831,
+			"id_str": "16036831",
+			"name": "畠山理仁",
+			"screen_name": "hatakezo",
+			"location": "宙ぶらりん",
+			"description": "はたけやまみちよし。フリーランスライター。第15回開高健ノンフィクション賞受賞作『黙殺 報じられない“無頼系独立候補”たちの戦い』（集英社）著者。他に『記者会見ゲリラ戦記』（扶桑社新書）、『領土問題、私はこう考える！』（集英社）など。興味テーマは選挙と政治家。お仕事依頼、DMはどなたからでもどうぞ。がんばろう有権者。",
+			"url": "https://t.co/kDLzXevJix",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDLzXevJix",
+							"expanded_url": "http://hatakezo.jugem.jp",
+							"display_url": "hatakezo.jugem.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47495,
+			"friends_count": 2052,
+			"listed_count": 3956,
+			"created_at": "Fri Aug 29 03:00:31 +0000 2008",
+			"favourites_count": 23671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120631110319267842/IvqJvlRV_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120631110319267842/IvqJvlRV_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16036831/1401406228",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "柳美里さん @yu_miri_0622 は子どもの頃、書店に行って泣いたという。「一生かかっても全部は読めないんだ」と。フルハウスには、そんな柳さんが選んだ本があります。\n芥川賞作家・柳美里とあなたがつくるブックカフェ\n―福島県南相馬市　本屋「フルハウス」 @motiongallery https://t.co/ZeMTaO3Jz4"
+	},
+	{
+		"created_at": "Tue Jun 25 14:08:52 +0000 2019",
+		"id": 1143480627150196700,
+		"id_str": "1143521443407253506",
+		"full_text": "アメリカ統治下の沖縄でアメリカ軍の戦闘機が小学校に墜落した事故から今月３０日で６０年となります。\n児童ら１８人が死亡しましたが、沖縄でも事故の詳細についてはあまり知られてきませんでした。\n今回見つかった新たな資料から、今にも通じる沖縄の苦悩が見えてきました。 #nhk #NW9 https://t.co/JFCvkW0CAP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nhk",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "NW9",
+					"indices": [
+						135,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1143480578219466800,
+					"id_str": "1143480578219466752",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1143480578219466752/pu/img/4-9zFoJMoSaUO0Q4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1143480578219466752/pu/img/4-9zFoJMoSaUO0Q4.jpg",
+					"url": "https://t.co/JFCvkW0CAP",
+					"display_url": "pic.twitter.com/JFCvkW0CAP",
+					"expanded_url": "https://twitter.com/nhk_nw9/status/1143480627150196736/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143480578219466800,
+					"id_str": "1143480578219466752",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1143480578219466752/pu/img/4-9zFoJMoSaUO0Q4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1143480578219466752/pu/img/4-9zFoJMoSaUO0Q4.jpg",
+					"url": "https://t.co/JFCvkW0CAP",
+					"display_url": "pic.twitter.com/JFCvkW0CAP",
+					"expanded_url": "https://twitter.com/nhk_nw9/status/1143480627150196736/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22322,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1143480578219466752/pu/vid/640x360/Tz6kJk30RNV7JX_b.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1143480578219466752/pu/vid/480x270/tdu5Xgp0IU7vbHk3.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1143480578219466752/pu/pl/rEzNaVYC8nFFS7XC.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1143480578219466752/pu/vid/1280x720/VUWG7spKDQE7S6nZ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.nhk.or.jp/\" rel=\"nofollow\">NHK</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1196131957,
+			"id_str": "1196131957",
+			"name": "ニュースウオッチ９",
+			"screen_name": "nhk_nw9",
+			"location": "ＮＨＫ",
+			"description": "「ニュースウオッチ９」（総合月～金午後９時）の公式アカウント。出演者とスタッフが現場の息づかいを届け、発見をシェアします。\r\n▼利用規約はこちら→https://t.co/Q11WanxIUh\r\n▼フォローの考え方https://t.co/8lVsvM27YP",
+			"url": "https://t.co/xf6O3Dean2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xf6O3Dean2",
+							"expanded_url": "http://nhk.jp/nw9",
+							"display_url": "nhk.jp/nw9",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Q11WanxIUh",
+							"expanded_url": "http://nhk.jp/rules",
+							"display_url": "nhk.jp/rules",
+							"indices": [
+								73,
+								96
+							]
+						},
+						{
+							"url": "https://t.co/8lVsvM27YP",
+							"expanded_url": "http://nhk.jp/tw_f",
+							"display_url": "nhk.jp/tw_f",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39495,
+			"friends_count": 44,
+			"listed_count": 881,
+			"created_at": "Tue Feb 19 06:41:22 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992391613698555904/toHte1rT_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992391613698555904/toHte1rT_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1196131957/1529062543",
+			"profile_link_color": "7BD148",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 162,
+		"favorite_count": 247,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "アメリカ統治下の沖縄でアメリカ軍の戦闘機が小学校に墜落した事故から今月３０日で６０年となります。\n児童ら１８人が死亡しましたが、沖縄でも事故の詳細についてはあまり知られてきませんでした。\n今回見つかった新たな資料から、今にも通じる沖縄の苦悩が見えてきました。 #nhk #NW9 https://t.co/JFCvkW0CAP"
+	},
+	{
+		"created_at": "Tue Jun 25 13:29:40 +0000 2019",
+		"id": 1143263303197761500,
+		"id_str": "1143511580442652672",
+		"full_text": "＜社説＞朝鮮戦争勃発６９年　終結に向け環境づくりをhttps://t.co/LnVbyleAj6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LnVbyleAj6",
+					"expanded_url": "http://bit.ly/2LaFDQ1",
+					"display_url": "bit.ly/2LaFDQ1",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60066,
+			"friends_count": 6587,
+			"listed_count": 2784,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "＜社説＞朝鮮戦争勃発６９年　終結に向け環境づくりをhttps://t.co/LnVbyleAj6"
+	},
+	{
+		"created_at": "Tue Jun 25 12:58:26 +0000 2019",
+		"id": 1143499243820183600,
+		"id_str": "1143503717276110849",
+		"full_text": "青い海へ通う日々まであと少しの辛抱かなぁ。今年はかなりじらされてるので青い海への欲望は高まるばかりです…。\n#沖縄 #ウッパマビーチ https://t.co/QsDQDDa65B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "沖縄",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "ウッパマビーチ",
+					"indices": [
+						58,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1143499234580152300,
+					"id_str": "1143499234580152320",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/D96Gfs4UwAAsnuL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D96Gfs4UwAAsnuL.jpg",
+					"url": "https://t.co/QsDQDDa65B",
+					"display_url": "pic.twitter.com/QsDQDDa65B",
+					"expanded_url": "https://twitter.com/yskemoto/status/1143499243820183552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143499234580152300,
+					"id_str": "1143499234580152320",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/D96Gfs4UwAAsnuL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D96Gfs4UwAAsnuL.jpg",
+					"url": "https://t.co/QsDQDDa65B",
+					"display_url": "pic.twitter.com/QsDQDDa65B",
+					"expanded_url": "https://twitter.com/yskemoto/status/1143499243820183552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 137356844,
+			"id_str": "137356844",
+			"name": "江本祐介 / tinto＊tinto Okinawa",
+			"screen_name": "yskemoto",
+			"location": "横浜・東京 ✈︎ 沖縄",
+			"description": "沖縄と子育てと宿経営のこと。結婚と同時に横浜・東京から沖縄に移住し13年。北部今帰仁村の海を望む高台で幼児も泊まれるスモールリゾートを経営9期目。2児(9歳5歳♂)の父。名護・今帰仁の2拠点暮らし。横浜出身→早稲田大→通信キャリア法人営業→沖縄旅行メディア マーケティングマネージャー→@tintotinto_開業。",
+			"url": "https://t.co/kfAoEDOkyo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kfAoEDOkyo",
+							"expanded_url": "https://tintotinto.com/",
+							"display_url": "tintotinto.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1541,
+			"friends_count": 545,
+			"listed_count": 54,
+			"created_at": "Mon Apr 26 14:33:43 +0000 2010",
+			"favourites_count": 3851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E2ECF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963024956463304705/zBIVVX94_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963024956463304705/zBIVVX94_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/137356844/1407993371",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "青い海へ通う日々まであと少しの辛抱かなぁ。今年はかなりじらされてるので青い海への欲望は高まるばかりです…。\n#沖縄 #ウッパマビーチ https://t.co/QsDQDDa65B"
+	},
+	{
+		"created_at": "Tue Jun 25 10:23:25 +0000 2019",
+		"id": 1143352549870714900,
+		"id_str": "1143464709032570880",
+		"full_text": "宮城秋乃氏とやんばるスタイル https://t.co/qcpAHYtGS1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1143352543558287400,
+					"id_str": "1143352543558287361",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D94BFKPUwAEfu0j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D94BFKPUwAEfu0j.jpg",
+					"url": "https://t.co/qcpAHYtGS1",
+					"display_url": "pic.twitter.com/qcpAHYtGS1",
+					"expanded_url": "https://twitter.com/nogitama/status/1143352549870714881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1010,
+							"h": 624,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1010,
+							"h": 624,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1143352543558287400,
+					"id_str": "1143352543558287361",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/D94BFKPUwAEfu0j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D94BFKPUwAEfu0j.jpg",
+					"url": "https://t.co/qcpAHYtGS1",
+					"display_url": "pic.twitter.com/qcpAHYtGS1",
+					"expanded_url": "https://twitter.com/nogitama/status/1143352549870714881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1010,
+							"h": 624,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1010,
+							"h": 624,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 238175474,
+			"id_str": "238175474",
+			"name": "のんちゃん",
+			"screen_name": "nogitama",
+			"location": "皇都    日本",
+			"description": "花瑛塾 の 仲村之菊です。空手、史学、農学。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1005,
+			"friends_count": 40,
+			"listed_count": 14,
+			"created_at": "Fri Jan 14 15:00:21 +0000 2011",
+			"favourites_count": 7644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/634381347394469893/lX1Qb0w9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/634381347394469893/lX1Qb0w9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/238175474/1503018714",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "宮城秋乃氏とやんばるスタイル https://t.co/qcpAHYtGS1"
+	},
+	{
 		"created_at": "Mon Jun 24 03:11:20 +0000 2019",
 		"id": 1142971300295651300,
 		"id_str": "1142993583856689152",
