@@ -1,6 +1,782 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 27 21:16:35 +0000 2019",
+		"id": 1144249250576027600,
+		"id_str": "1144353860162445313",
+		"full_text": "みなさん、1ツイートでいいので、\nわたしとの出会い、わたしの作品との出会い、本屋フルハウスのこと、柳美里選書のことを呟いていただけないでしょうか？ https://t.co/T0v7sXUv2o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1144249234495029200,
+					"id_str": "1144249234495029248",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/D-EwncSWwAA4LxZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-EwncSWwAA4LxZ.jpg",
+					"url": "https://t.co/T0v7sXUv2o",
+					"display_url": "pic.twitter.com/T0v7sXUv2o",
+					"expanded_url": "https://twitter.com/yu_miri_0622/status/1144249250576027649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144249234495029200,
+					"id_str": "1144249234495029248",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/D-EwncSWwAA4LxZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-EwncSWwAA4LxZ.jpg",
+					"url": "https://t.co/T0v7sXUv2o",
+					"display_url": "pic.twitter.com/T0v7sXUv2o",
+					"expanded_url": "https://twitter.com/yu_miri_0622/status/1144249250576027649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1144248699956150300,
+		"in_reply_to_status_id_str": "1144248699956150272",
+		"in_reply_to_user_id": 147029427,
+		"in_reply_to_user_id_str": "147029427",
+		"in_reply_to_screen_name": "yu_miri_0622",
+		"user": {
+			"id": 147029427,
+			"id_str": "147029427",
+			"name": "柳美里",
+			"screen_name": "yu_miri_0622",
+			"location": "福島県南相馬市小高区東町1-10",
+			"description": "【テレビ】6/21 NHK「あさイチ」【6月新刊】柳美里×山折哲雄対談本『沈黙の作法』河出書房新社、小説『ねこのおうち』河出文庫／連絡先→yumiri19680622＠gmail.com ブログ→https://t.co/m4I0m8OKCd",
+			"url": "https://t.co/FGEHTydlgc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FGEHTydlgc",
+							"expanded_url": "http://yu-miri.com",
+							"display_url": "yu-miri.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/m4I0m8OKCd",
+							"expanded_url": "https://blog.goo.ne.jp/yu_miri",
+							"display_url": "blog.goo.ne.jp/yu_miri",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 42775,
+			"friends_count": 2505,
+			"listed_count": 2009,
+			"created_at": "Sun May 23 01:26:39 +0000 2010",
+			"favourites_count": 13746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875536636863332352/JyThjaFr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875536636863332352/JyThjaFr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147029427/1560493248",
+			"profile_link_color": "5F9EA0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "みなさん、1ツイートでいいので、\nわたしとの出会い、わたしの作品との出会い、本屋フルハウスのこと、柳美里選書のことを呟いていただけないでしょうか？ https://t.co/T0v7sXUv2o"
+	},
+	{
+		"created_at": "Thu Jun 27 13:16:07 +0000 2019",
+		"id": 1144220548777463800,
+		"id_str": "1144232943335776256",
+		"full_text": "その他❶ 「フルハウス」\n作家、柳美里さんが南相馬に移住し、オープンした書店。\n本棚は、作家順でもあいうえお順でもなく、「この本の隣にはこの本がいい」と一冊一冊置かれている。\nカフェスペースが作られます。クラウドファンディング実施中。28日の23:59まで。ぜひ。\nhttps://t.co/1TtQRnZmFy https://t.co/crv1YFFaam",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1TtQRnZmFy",
+					"expanded_url": "https://motion-gallery.net/projects/fullhouse-bookcafe/collectors",
+					"display_url": "motion-gallery.net/projects/fullh…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1144220427297812500,
+					"id_str": "1144220427297812480",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/D-EWapHU8AAugYo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-EWapHU8AAugYo.jpg",
+					"url": "https://t.co/crv1YFFaam",
+					"display_url": "pic.twitter.com/crv1YFFaam",
+					"expanded_url": "https://twitter.com/0811Joker/status/1144220548777463808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 770,
+							"h": 578,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 770,
+							"h": 578,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144220427297812500,
+					"id_str": "1144220427297812480",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/D-EWapHU8AAugYo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-EWapHU8AAugYo.jpg",
+					"url": "https://t.co/crv1YFFaam",
+					"display_url": "pic.twitter.com/crv1YFFaam",
+					"expanded_url": "https://twitter.com/0811Joker/status/1144220548777463808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 770,
+							"h": 578,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 770,
+							"h": 578,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1144220457874235400,
+					"id_str": "1144220457874235393",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/D-EWcbBUIAErMNu.png",
+					"media_url_https": "https://pbs.twimg.com/media/D-EWcbBUIAErMNu.png",
+					"url": "https://t.co/crv1YFFaam",
+					"display_url": "pic.twitter.com/crv1YFFaam",
+					"expanded_url": "https://twitter.com/0811Joker/status/1144220548777463808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 770,
+							"h": 578,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 770,
+							"h": 578,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1142360202865365000,
+		"in_reply_to_status_id_str": "1142360202865364994",
+		"in_reply_to_user_id": 3231757484,
+		"in_reply_to_user_id_str": "3231757484",
+		"in_reply_to_screen_name": "0811Joker",
+		"user": {
+			"id": 3231757484,
+			"id_str": "3231757484",
+			"name": "ナゴヤメグミ",
+			"screen_name": "0811Joker",
+			"location": "",
+			"description": "演じたり、演出したり。野太い声。東京。小高。19歳。 無隣館3期生。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 801,
+			"friends_count": 605,
+			"listed_count": 9,
+			"created_at": "Sun May 31 14:55:40 +0000 2015",
+			"favourites_count": 7473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/680299341777534977/Diu3Dg-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/680299341777534977/Diu3Dg-5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3231757484/1466953034",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "その他❶ 「フルハウス」\n作家、柳美里さんが南相馬に移住し、オープンした書店。\n本棚は、作家順でもあいうえお順でもなく、「この本の隣にはこの本がいい」と一冊一冊置かれている。\nカフェスペースが作られます。クラウドファンディング実施中。28日の23:59まで。ぜひ。\nhttps://t.co/1TtQRnZmFy https://t.co/crv1YFFaam"
+	},
+	{
+		"created_at": "Thu Jun 27 13:13:52 +0000 2019",
+		"id": 1144046819367739400,
+		"id_str": "1144232379537477632",
+		"full_text": "今日の沖縄。西原から\n久しぶりの晴れ..気持ちいい✨ https://t.co/oB5sS8HBl3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1144046707878977500,
+					"id_str": "1144046707878977536",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/D-B4a12U4AAjswY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-B4a12U4AAjswY.jpg",
+					"url": "https://t.co/oB5sS8HBl3",
+					"display_url": "pic.twitter.com/oB5sS8HBl3",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1144046819367739392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144046707878977500,
+					"id_str": "1144046707878977536",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/D-B4a12U4AAjswY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-B4a12U4AAjswY.jpg",
+					"url": "https://t.co/oB5sS8HBl3",
+					"display_url": "pic.twitter.com/oB5sS8HBl3",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1144046819367739392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1144046743379566600,
+					"id_str": "1144046743379566592",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/D-B4c6GU4AAI6-5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-B4c6GU4AAI6-5.jpg",
+					"url": "https://t.co/oB5sS8HBl3",
+					"display_url": "pic.twitter.com/oB5sS8HBl3",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1144046819367739392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1144046771510714400,
+					"id_str": "1144046771510714368",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/D-B4ei5UIAAgBEX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-B4ei5UIAAgBEX.jpg",
+					"url": "https://t.co/oB5sS8HBl3",
+					"display_url": "pic.twitter.com/oB5sS8HBl3",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1144046819367739392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1144046796643033100,
+					"id_str": "1144046796643033088",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/D-B4gAhU4AAEb9P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-B4gAhU4AAEb9P.jpg",
+					"url": "https://t.co/oB5sS8HBl3",
+					"display_url": "pic.twitter.com/oB5sS8HBl3",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1144046819367739392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1440845558,
+			"id_str": "1440845558",
+			"name": "いけむらたかし",
+			"screen_name": "takashi91mile",
+			"location": "沖縄県❂okinawa-japan",
+			"description": "沖縄の景色を色んな人と楽しめて嬉しいです。沖縄の素晴らしい景色を色んな人に伝えたい。よろしくお願いします🌈【趣味】音楽･野球･読書",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23630,
+			"friends_count": 20290,
+			"listed_count": 225,
+			"created_at": "Sun May 19 10:43:57 +0000 2013",
+			"favourites_count": 42149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1440845558/1550065457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 789,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今日の沖縄。西原から\n久しぶりの晴れ..気持ちいい✨ https://t.co/oB5sS8HBl3"
+	},
+	{
+		"created_at": "Thu Jun 27 12:55:30 +0000 2019",
+		"id": 1144226977508819000,
+		"id_str": "1144227755438948354",
+		"full_text": "わたしがツイッターを行うのは、明日のクラウドファンディング終了まで、です。\n\n終了したら、ブログに戻ります。\n\nそして、「ゴールドラッシュ」の続編「Diamond Pigeon」を書き出します。\n\nこの長編小説を書く自分を、自分で楽しみにしています。 https://t.co/byBGMB1WBX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/byBGMB1WBX",
+					"expanded_url": "https://motion-gallery.net/projects/fullhouse-bookcafe",
+					"display_url": "motion-gallery.net/projects/fullh…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147029427,
+			"id_str": "147029427",
+			"name": "柳美里",
+			"screen_name": "yu_miri_0622",
+			"location": "福島県南相馬市小高区東町1-10",
+			"description": "【テレビ】6/21 NHK「あさイチ」【6月新刊】柳美里×山折哲雄対談本『沈黙の作法』河出書房新社、小説『ねこのおうち』河出文庫／連絡先→yumiri19680622＠gmail.com ブログ→https://t.co/m4I0m8OKCd",
+			"url": "https://t.co/FGEHTydlgc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FGEHTydlgc",
+							"expanded_url": "http://yu-miri.com",
+							"display_url": "yu-miri.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/m4I0m8OKCd",
+							"expanded_url": "https://blog.goo.ne.jp/yu_miri",
+							"display_url": "blog.goo.ne.jp/yu_miri",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 42775,
+			"friends_count": 2505,
+			"listed_count": 2009,
+			"created_at": "Sun May 23 01:26:39 +0000 2010",
+			"favourites_count": 13746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875536636863332352/JyThjaFr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875536636863332352/JyThjaFr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147029427/1560493248",
+			"profile_link_color": "5F9EA0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 105,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "わたしがツイッターを行うのは、明日のクラウドファンディング終了まで、です。\n\n終了したら、ブログに戻ります。\n\nそして、「ゴールドラッシュ」の続編「Diamond Pigeon」を書き出します。\n\nこの長編小説を書く自分を、自分で楽しみにしています。 https://t.co/byBGMB1WBX"
+	},
+	{
 		"created_at": "Tue Jun 25 15:12:32 +0000 2019",
 		"id": 1143536031595032600,
 		"id_str": "1143537467238170624",
