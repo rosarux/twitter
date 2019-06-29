@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 28 16:52:26 +0000 2019",
+		"id": 1144611004862488600,
+		"id_str": "1144649769781825537",
+		"full_text": "2019年6月28日のG20大阪の初日、フォトセッションです。\n\n突然ですが問題です。\n国際舞台では存在感を消し去ることで有名な安倍さんですが、この時安倍さんは何回人と接触（会話や握手、ハグ等）するでしょう？\n\n大ヒント。議長国です。最初から立っています。中央です。\n\n↓答えはこちらで https://t.co/xBhTL0PeDG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1144609575301029900,
+					"id_str": "1144609575301029894",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1144609575301029894/pu/img/BArliEJ0RNfiTW3_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1144609575301029894/pu/img/BArliEJ0RNfiTW3_.jpg",
+					"url": "https://t.co/xBhTL0PeDG",
+					"display_url": "pic.twitter.com/xBhTL0PeDG",
+					"expanded_url": "https://twitter.com/toubennbenn/status/1144611004862488577/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144609575301029900,
+					"id_str": "1144609575301029894",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1144609575301029894/pu/img/BArliEJ0RNfiTW3_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1144609575301029894/pu/img/BArliEJ0RNfiTW3_.jpg",
+					"url": "https://t.co/xBhTL0PeDG",
+					"display_url": "pic.twitter.com/xBhTL0PeDG",
+					"expanded_url": "https://twitter.com/toubennbenn/status/1144611004862488577/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 138833,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1144609575301029894/pu/vid/640x360/7Fck2KvqDuyFj8wi.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1144609575301029894/pu/pl/Omqww0tIEp2D-1b9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1144609575301029894/pu/vid/480x270/PSDEZfwbC06yUrBZ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 850043768841437200,
+			"id_str": "850043768841437184",
+			"name": "尾張おっぺけぺー ㊗️自民119連休🎉",
+			"screen_name": "toubennbenn",
+			"location": "",
+			"description": "資料ブログ「森友・加計問題安倍答弁」 https://t.co/hRboopWNit 森友問題、加計問題を扱ったもののうちの国会での安倍答弁や質問主意書・答弁書等の資料。 資料をなるべく整理して提供。考えるのはあなた。　　　※動画だけ表示する引用RTをされるのは愉快ではありません。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hRboopWNit",
+							"expanded_url": "http://inorimashow.blog.fc2.com/",
+							"display_url": "inorimashow.blog.fc2.com",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10457,
+			"friends_count": 214,
+			"listed_count": 133,
+			"created_at": "Thu Apr 06 17:53:22 +0000 2017",
+			"favourites_count": 13479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/850047526304530432/v1Yrd7ro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/850047526304530432/v1Yrd7ro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/850043768841437184/1537925477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5522,
+		"favorite_count": 6024,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "2019年6月28日のG20大阪の初日、フォトセッションです。\n\n突然ですが問題です。\n国際舞台では存在感を消し去ることで有名な安倍さんですが、この時安倍さんは何回人と接触（会話や握手、ハグ等）するでしょう？\n\n大ヒント。議長国です。最初から立っています。中央です。\n\n↓答えはこちらで https://t.co/xBhTL0PeDG"
+	},
+	{
+		"created_at": "Fri Jun 28 09:33:27 +0000 2019",
+		"id": 1144539294641508400,
+		"id_str": "1144539294641508352",
+		"full_text": "「エリートが真剣かつ真面目に取り組むことによって、人々を“地獄”に連れていく」",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 496,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ja",
+		"text": "「エリートが真剣かつ真面目に取り組むことによって、人々を“地獄”に連れていく」"
+	},
+	{
+		"created_at": "Fri Jun 28 06:18:22 +0000 2019",
+		"id": 1144488671720005600,
+		"id_str": "1144490202083151872",
+		"full_text": "티슈진이나 삼성 바이오로직스처럼 주주들한테 사기나 쳐먹는 회사들이 지뢰처럼 깔려 있는 한국 주식시장이 글로벌리 빌빌 기는 건 너무나 당연한거 아닌가? 양심이 있으면 한 번 생각을 해봐라.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1144486945893933000,
+		"in_reply_to_status_id_str": "1144486945893933058",
+		"in_reply_to_user_id": 42567931,
+		"in_reply_to_user_id_str": "42567931",
+		"in_reply_to_screen_name": "corwin1129",
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2688,
+			"friends_count": 1285,
+			"listed_count": 80,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1480131241",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "티슈진이나 삼성 바이오로직스처럼 주주들한테 사기나 쳐먹는 회사들이 지뢰처럼 깔려 있는 한국 주식시장이 글로벌리 빌빌 기는 건 너무나 당연한거 아닌가? 양심이 있으면 한 번 생각을 해봐라."
+	},
+	{
 		"created_at": "Thu Jun 27 21:16:35 +0000 2019",
 		"id": 1144249250576027600,
 		"id_str": "1144353860162445313",
