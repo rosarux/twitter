@@ -1,6 +1,824 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 29 13:34:35 +0000 2019",
+		"id": 1144840839492882400,
+		"id_str": "1144962369409310721",
+		"full_text": "試合終了後の嘉手納高と読谷高\n千羽鶴に込めた想いを受け継ぎます！\nいいなぁ〜高校野球⚾️ https://t.co/RSuEs2onv3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1144840672744075300,
+					"id_str": "1144840672744075266",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1144840672744075266/pu/img/JYIdCSD6_NzWMaak.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1144840672744075266/pu/img/JYIdCSD6_NzWMaak.jpg",
+					"url": "https://t.co/RSuEs2onv3",
+					"display_url": "pic.twitter.com/RSuEs2onv3",
+					"expanded_url": "https://twitter.com/poppo5500/status/1144840839492882432/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144840672744075300,
+					"id_str": "1144840672744075266",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1144840672744075266/pu/img/JYIdCSD6_NzWMaak.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1144840672744075266/pu/img/JYIdCSD6_NzWMaak.jpg",
+					"url": "https://t.co/RSuEs2onv3",
+					"display_url": "pic.twitter.com/RSuEs2onv3",
+					"expanded_url": "https://twitter.com/poppo5500/status/1144840839492882432/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 83740,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1144840672744075266/pu/vid/480x270/rLnnlDT3GohZtcjB.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1144840672744075266/pu/pl/oACDbZhRVJegcPQG.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1144840672744075266/pu/vid/1280x720/eJwkZxBv6BHlefcb.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1144840672744075266/pu/vid/640x360/w5F5yiqOZ35sK4eU.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3593002286,
+			"id_str": "3593002286",
+			"name": "ライトMAN",
+			"screen_name": "poppo5500",
+			"location": "",
+			"description": "⚾️沖縄の高校球児を応援しています！",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 178,
+			"friends_count": 269,
+			"listed_count": 0,
+			"created_at": "Thu Sep 17 10:41:00 +0000 2015",
+			"favourites_count": 1351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/644462960534945792/MuGdGtO4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/644462960534945792/MuGdGtO4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3593002286/1497852305",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 145,
+		"favorite_count": 812,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "試合終了後の嘉手納高と読谷高\n千羽鶴に込めた想いを受け継ぎます！\nいいなぁ〜高校野球⚾️ https://t.co/RSuEs2onv3"
+	},
+	{
+		"created_at": "Sat Jun 29 13:27:28 +0000 2019",
+		"id": 1144787941580931100,
+		"id_str": "1144960578596663297",
+		"full_text": "沖縄地方\n梅雨明けました！！\n\n今日29日午前11時\n沖縄気象台から\n梅雨明けの発表がありました。\n\nさ、沖縄らしい\n本格的な暑い夏の\n始まりです☀️☀️☀️\n\n飲み過ぎ🍻夜遊びには注意して\n暑さに負けない\n体力作りを！！\n#梅雨明け\n#沖縄\n#熱中症警戒 https://t.co/kx9EtafWqM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "梅雨明け",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "熱中症警戒",
+					"indices": [
+						122,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1144787933959843800,
+					"id_str": "1144787933959843841",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/D-Maj4LUcAEtS5D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-Maj4LUcAEtS5D.jpg",
+					"url": "https://t.co/kx9EtafWqM",
+					"display_url": "pic.twitter.com/kx9EtafWqM",
+					"expanded_url": "https://twitter.com/nakasone_tomomi/status/1144787941580931072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144787933959843800,
+					"id_str": "1144787933959843841",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/D-Maj4LUcAEtS5D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-Maj4LUcAEtS5D.jpg",
+					"url": "https://t.co/kx9EtafWqM",
+					"display_url": "pic.twitter.com/kx9EtafWqM",
+					"expanded_url": "https://twitter.com/nakasone_tomomi/status/1144787941580931072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 949246794407428100,
+			"id_str": "949246794407428096",
+			"name": "仲宗根朋美（気象予報士）",
+			"screen_name": "nakasone_tomomi",
+			"location": "沖縄 ",
+			"description": "琉球朝日放送 QAB 気象キャスター/ 「Qプラス」出演中/ラジオ沖縄・RBC iラジオ・RBCテレビ にてレポーター、パーソナリティ・タレント活動を経て→劇団「東京乾電池」「山の手事情社」研修生卒業→気象予報士試験に7回目で合格/沖縄県浦添市出身",
+			"url": "https://t.co/bfIbUICn1d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bfIbUICn1d",
+							"expanded_url": "http://Instagram.com/tomomi_nakasone",
+							"display_url": "Instagram.com/tomomi_nakasone",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3671,
+			"friends_count": 177,
+			"listed_count": 59,
+			"created_at": "Fri Jan 05 11:50:46 +0000 2018",
+			"favourites_count": 6379,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/960351175538196480/yi8ifa_8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/960351175538196480/yi8ifa_8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/949246794407428096/1522144650",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 378,
+		"favorite_count": 769,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "沖縄地方\n梅雨明けました！！\n\n今日29日午前11時\n沖縄気象台から\n梅雨明けの発表がありました。\n\nさ、沖縄らしい\n本格的な暑い夏の\n始まりです☀️☀️☀️\n\n飲み過ぎ🍻夜遊びには注意して\n暑さに負けない\n体力作りを！！\n#梅雨明け\n#沖縄\n#熱中症警戒 https://t.co/kx9EtafWqM"
+	},
+	{
+		"created_at": "Sat Jun 29 11:30:16 +0000 2019",
+		"id": 1144930862846398500,
+		"id_str": "1144931080555786240",
+		"full_text": "【写真特集】14匹の脱走サルを捕獲せよ！2日間の大作戦を写真で振り返るhttps://t.co/e4kkuLUUgj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e4kkuLUUgj",
+					"expanded_url": "https://ift.tt/2ROCyGE",
+					"display_url": "ift.tt/2ROCyGE",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60351,
+			"friends_count": 6588,
+			"listed_count": 2778,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【写真特集】14匹の脱走サルを捕獲せよ！2日間の大作戦を写真で振り返るhttps://t.co/e4kkuLUUgj"
+	},
+	{
+		"created_at": "Sat Jun 29 09:14:39 +0000 2019",
+		"id": 1144873704532275200,
+		"id_str": "1144896955467759616",
+		"full_text": "조금 다른 맥략에서 ‘미국과 중국 양자택일의 순간이 오면 어떻게 할 거냐’는 이들은 참 가소롭다. 한국 외교의 지상과제는 이 양자택일 상황을 최대한 피하며 도망다니는 것 아닌가? 그게 한국에 가장 유리하니까. 양자택일 상황에 몰리지 않게 지혜를 짜서 정부에 알려주시라, 전문가분들!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1144871396436168700,
+		"in_reply_to_status_id_str": "1144871396436168704",
+		"in_reply_to_user_id": 133255001,
+		"in_reply_to_user_id_str": "133255001",
+		"in_reply_to_screen_name": "TorSean",
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1096,
+			"friends_count": 354,
+			"listed_count": 26,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "조금 다른 맥략에서 ‘미국과 중국 양자택일의 순간이 오면 어떻게 할 거냐’는 이들은 참 가소롭다. 한국 외교의 지상과제는 이 양자택일 상황을 최대한 피하며 도망다니는 것 아닌가? 그게 한국에 가장 유리하니까. 양자택일 상황에 몰리지 않게 지혜를 짜서 정부에 알려주시라, 전문가분들!"
+	},
+	{
+		"created_at": "Sat Jun 29 05:35:51 +0000 2019",
+		"id": 1144836812973588500,
+		"id_str": "1144841891663339520",
+		"full_text": "沖縄梅雨明け。今日の空。 https://t.co/cpeVaTpqVb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1144836785530269700,
+					"id_str": "1144836785530269696",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1144836785530269696/pu/img/VmMwUv3QmJ5MKeIH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1144836785530269696/pu/img/VmMwUv3QmJ5MKeIH.jpg",
+					"url": "https://t.co/cpeVaTpqVb",
+					"display_url": "pic.twitter.com/cpeVaTpqVb",
+					"expanded_url": "https://twitter.com/okinawaichiba/status/1144836812973588480/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1144836785530269700,
+					"id_str": "1144836785530269696",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1144836785530269696/pu/img/VmMwUv3QmJ5MKeIH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1144836785530269696/pu/img/VmMwUv3QmJ5MKeIH.jpg",
+					"url": "https://t.co/cpeVaTpqVb",
+					"display_url": "pic.twitter.com/cpeVaTpqVb",
+					"expanded_url": "https://twitter.com/okinawaichiba/status/1144836812973588480/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 2467,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1144836785530269696/pu/pl/s1G5EajGU_niTXLO.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1144836785530269696/pu/vid/720x720/_DTCdk0_67Qn-sRd.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1144836785530269696/pu/vid/320x320/qILAnYhd0AWP_KZ6.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1144836785530269696/pu/vid/480x480/lhI00vLdzUZoRSiV.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141799787,
+			"id_str": "141799787",
+			"name": "おきなわいちば編集部",
+			"screen_name": "okinawaichiba",
+			"location": "沖縄県南風原町",
+			"description": "沖縄発、つくる人と食べる人をつなぐ、暮らしと食のマガジン「おきなわいちば」の編集部がつぶやきます。最新66号2019 Summer「ふだんの沖縄ガイド」は2019年6月5日発売◆おきなわいちばHP https://t.co/9SiguNZW5c ◆facebook　 https://t.co/X6BZ40lWDn",
+			"url": "http://t.co/q16LtyKw10",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/q16LtyKw10",
+							"expanded_url": "http://www.okinawa-ichiba.jp",
+							"display_url": "okinawa-ichiba.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9SiguNZW5c",
+							"expanded_url": "http://www.okinawa-ichiba.jp",
+							"display_url": "okinawa-ichiba.jp",
+							"indices": [
+								99,
+								122
+							]
+						},
+						{
+							"url": "https://t.co/X6BZ40lWDn",
+							"expanded_url": "https://www.facebook.com/okinawaichiba/",
+							"display_url": "facebook.com/okinawaichiba/",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2747,
+			"friends_count": 1123,
+			"listed_count": 67,
+			"created_at": "Sun May 09 02:47:33 +0000 2010",
+			"favourites_count": 294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136058214288486400/iQpCq3ro_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136058214288486400/iQpCq3ro_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141799787/1559692344",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "沖縄梅雨明け。今日の空。 https://t.co/cpeVaTpqVb"
+	},
+	{
 		"created_at": "Fri Jun 28 16:52:26 +0000 2019",
 		"id": 1144611004862488600,
 		"id_str": "1144649769781825537",
