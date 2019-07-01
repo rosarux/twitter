@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 30 22:53:26 +0000 2019",
+		"id": 1145384350621433900,
+		"id_str": "1145465396637495296",
+		"full_text": "한반도 문제가 지난 20년 간 워싱턴에서 관심을 끌지 못해 이 모양 이 꼴이 된 걸 뻔히 아는 인간들이 트럼프가 쇼한다고 비웃기나 하고... 트럼프가 쇼가 된다고 생각하니까 그나마 이렇게 흘러온 것을 모른단 말인가.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2689,
+			"friends_count": 1285,
+			"listed_count": 80,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1480131241",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한반도 문제가 지난 20년 간 워싱턴에서 관심을 끌지 못해 이 모양 이 꼴이 된 걸 뻔히 아는 인간들이 트럼프가 쇼한다고 비웃기나 하고... 트럼프가 쇼가 된다고 생각하니까 그나마 이렇게 흘러온 것을 모른단 말인가."
+	},
+	{
 		"created_at": "Sat Jun 29 13:34:35 +0000 2019",
 		"id": 1144840839492882400,
 		"id_str": "1144962369409310721",
