@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 02 22:42:06 +0000 2019",
+		"id": 1146162570694410200,
+		"id_str": "1146187319327674368",
+		"full_text": "＜社説＞韓国向け輸出規制　対話の道を追求すべきだhttps://t.co/tVY5AvQPPw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tVY5AvQPPw",
+					"expanded_url": "https://ift.tt/2J7hk43",
+					"display_url": "ift.tt/2J7hk43",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60402,
+			"friends_count": 6589,
+			"listed_count": 2778,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "＜社説＞韓国向け輸出規制　対話の道を追求すべきだhttps://t.co/tVY5AvQPPw"
+	},
+	{
+		"created_at": "Tue Jul 02 14:19:09 +0000 2019",
+		"id": 1146059043787509800,
+		"id_str": "1146060745185980416",
+		"full_text": "[북] 북한 기념 주화에서 볼수 있는 기분좋은 변화\nhttps://t.co/VwnLlJP7Zx\n #ruliweb #루리웹",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ruliweb",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"text": "루리웹",
+					"indices": [
+						63,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VwnLlJP7Zx",
+					"expanded_url": "https://m.ruliweb.com/community/board/300148/read/33114501?view_best=1",
+					"display_url": "m.ruliweb.com/community/boar…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://chogoon.com\" rel=\"nofollow\">ALL COMMUNITY POSTING BOT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1011499411837411300,
+			"id_str": "1011499411837411329",
+			"name": "국내 커뮤니티 𝓗𝓞𝓣 글",
+			"screen_name": "community_twt",
+			"location": "대한민국",
+			"description": "국내 커뮤니티 (정치/시사) 핫 게시글을 실시간으로 포스팅합니다. 피드백 및 제작자의 마음대로 변경될 수 있습니다. 피드백은 요기로 → @chogoons",
+			"url": "https://t.co/6AmgPGxnTa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6AmgPGxnTa",
+							"expanded_url": "https://chogoon.com/community/dcStatuses",
+							"display_url": "chogoon.com/community/dcSt…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1252,
+			"friends_count": 1,
+			"listed_count": 18,
+			"created_at": "Tue Jun 26 06:40:27 +0000 2018",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 150632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137915320738254849/S4HbEfaA_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137915320738254849/S4HbEfaA_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1011499411837411329/1542097112",
+			"profile_link_color": "93A1FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[북] 북한 기념 주화에서 볼수 있는 기분좋은 변화\nhttps://t.co/VwnLlJP7Zx\n #ruliweb #루리웹"
+	},
+	{
+		"created_at": "Tue Jul 02 14:11:28 +0000 2019",
+		"id": 1146057928169799700,
+		"id_str": "1146058811276267524",
+		"full_text": "사법부의 영장 발부에 대해서 정권을 공격한 민주노총도 그렇고, 대법원 판결에 정부의 책임을 추궁하는 일본도 그렇고, 일본 수출 규제에 대해서 정권을 공격하는 보수우파들도 그렇고... 사법부의 독립성을 믿지 않는 자들이 이렇게나 많은 것이 다 누구탓인가? 사실 그건 사법부 탓이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2688,
+			"friends_count": 1285,
+			"listed_count": 80,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3696,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 96996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1480131241",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사법부의 영장 발부에 대해서 정권을 공격한 민주노총도 그렇고, 대법원 판결에 정부의 책임을 추궁하는 일본도 그렇고, 일본 수출 규제에 대해서 정권을 공격하는 보수우파들도 그렇고... 사법부의 독립성을 믿지 않는 자들이 이렇게나 많은 것이 다 누구탓인가? 사실 그건 사법부 탓이다."
+	},
+	{
+		"created_at": "Tue Jul 02 13:57:22 +0000 2019",
+		"id": 1146021826956419100,
+		"id_str": "1146055264279257096",
+		"full_text": "悪夢の民主党時代は酷かった\n\n雪印スライスチーズが10枚もあった\n明治おいしい牛乳が1リットルもあった\nカントリーマアムが22枚もあった\nキューピーマヨネーズが500gもあった\nハーゲンダッツが120gもあった\n\nいやーホント酷い時代だったなあ\n安倍さんのおかけでようやく改善したけど、アベノミクス万歳",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1035848428096344000,
+			"id_str": "1035848428096344064",
+			"name": "愛国心の足りないなまけ者",
+			"screen_name": "tacowasabi0141",
+			"location": "",
+			"description": "政治的主張は反ネトウヨそんだけ。ネトウヨ以外のフォローはご自由にどぞ、ただし低処理ゆえフォロバは少なめです。　ちな愛国心は本当は他人に押し付けるほど有り余ってないだけよ。　最近は日本一凍結されにくい維新の衆院議員を目指したいと思ってますわ、まああそこは押し付けまくるほどの愛国心ないと駄目っぽいけどね。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10490,
+			"friends_count": 403,
+			"listed_count": 165,
+			"created_at": "Sat Sep 01 11:14:45 +0000 2018",
+			"favourites_count": 16251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142730759439917057/wLVAyqJ0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142730759439917057/wLVAyqJ0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1035848428096344064/1536651766",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3192,
+		"favorite_count": 4954,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "悪夢の民主党時代は酷かった\n\n雪印スライスチーズが10枚もあった\n明治おいしい牛乳が1リットルもあった\nカントリーマアムが22枚もあった\nキューピーマヨネーズが500gもあった\nハーゲンダッツが120gもあった\n\nいやーホント酷い時代だったなあ\n安倍さんのおかけでようやく改善したけど、アベノミクス万歳"
+	},
+	{
 		"created_at": "Mon Jul 01 15:08:07 +0000 2019",
 		"id": 1145655956094648300,
 		"id_str": "1145710681120899074",
@@ -656,7 +1079,7 @@ Grailbird.data.tweets_2019_07 =
 		"user": {
 			"id": 784517886408790000,
 			"id_str": "784517886408790020",
-			"name": "Paul🏳️‍🌈🧷",
+			"name": "Paul🏳️🌈🧷",
 			"screen_name": "WallsCome",
 			"location": "",
 			"description": "Governments crack and systems fall 'Cause unity is powerful",
