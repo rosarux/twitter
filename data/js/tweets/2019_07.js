@@ -1,6 +1,701 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 03 22:57:30 +0000 2019",
+		"id": 1146553583313145900,
+		"id_str": "1146553583313145856",
+		"full_text": "참(...) 그나마 자민당 지지율이 5%포인트 하락해 30%선 붕괴를 앞두고 있다는... https://t.co/ZhWDOtmgB6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1146553576799363100,
+					"id_str": "1146553576799363072",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D-lgZ0UUYAAvi6T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-lgZ0UUYAAvi6T.jpg",
+					"url": "https://t.co/ZhWDOtmgB6",
+					"display_url": "pic.twitter.com/ZhWDOtmgB6",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1146553583313145856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146553576799363100,
+					"id_str": "1146553576799363072",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/D-lgZ0UUYAAvi6T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-lgZ0UUYAAvi6T.jpg",
+					"url": "https://t.co/ZhWDOtmgB6",
+					"display_url": "pic.twitter.com/ZhWDOtmgB6",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1146553583313145856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 497,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "참(...) 그나마 자민당 지지율이 5%포인트 하락해 30%선 붕괴를 앞두고 있다는... https://t.co/ZhWDOtmgB6"
+	},
+	{
+		"created_at": "Wed Jul 03 16:03:54 +0000 2019",
+		"id": 1146048655935201300,
+		"id_str": "1146449496999546880",
+		"full_text": "핵심기술을 개발하는것보다는\n수입처를 대체하는게 더 쉽고 \n그보다는  애널리스트를 대체 하는게 더쉬움 https://t.co/y5bU74NPhz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1146048649765347300,
+					"id_str": "1146048649765347329",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/D-eVLMiUYAEuTVl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-eVLMiUYAEuTVl.jpg",
+					"url": "https://t.co/y5bU74NPhz",
+					"display_url": "pic.twitter.com/y5bU74NPhz",
+					"expanded_url": "https://twitter.com/seventeeeeeenth/status/1146048655935201280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 607,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 635,
+							"h": 711,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 635,
+							"h": 711,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146048649765347300,
+					"id_str": "1146048649765347329",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/D-eVLMiUYAEuTVl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-eVLMiUYAEuTVl.jpg",
+					"url": "https://t.co/y5bU74NPhz",
+					"display_url": "pic.twitter.com/y5bU74NPhz",
+					"expanded_url": "https://twitter.com/seventeeeeeenth/status/1146048655935201280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 607,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 635,
+							"h": 711,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 635,
+							"h": 711,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 81994673,
+			"id_str": "81994673",
+			"name": "합리적BOSU주의자 175",
+			"screen_name": "seventeeeeeenth",
+			"location": "boobs.oppai.가슴",
+			"description": "합리적 보수주의에 입각한 세계 경제동향파악과 경제적 인싸이트를 기르고 있습니다",
+			"url": "https://t.co/FA1H8H92Qw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FA1H8H92Qw",
+							"expanded_url": "http://ask.fm/seventeeeeeenth",
+							"display_url": "ask.fm/seventeeeeeenth",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2285,
+			"friends_count": 920,
+			"listed_count": 54,
+			"created_at": "Tue Oct 13 02:49:55 +0000 2009",
+			"favourites_count": 12073,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 136013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113268273049534464/eC0tTEXZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113268273049534464/eC0tTEXZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/81994673/1427901868",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "핵심기술을 개발하는것보다는\n수입처를 대체하는게 더 쉽고 \n그보다는  애널리스트를 대체 하는게 더쉬움 https://t.co/y5bU74NPhz"
+	},
+	{
+		"created_at": "Wed Jul 03 14:20:09 +0000 2019",
+		"id": 1146422492531052500,
+		"id_str": "1146423387306074114",
+		"full_text": "泳げない人が多い #あるあると思ったらRT #沖縄あるある",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "あるあると思ったらRT",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"text": "沖縄あるある",
+					"indices": [
+						22,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 621651382,
+			"id_str": "621651382",
+			"name": "沖縄あるある",
+			"screen_name": "okiaru",
+			"location": "沖縄(Okinawa)",
+			"description": "沖縄あるあるをまとめたbot★約2時間ごとにあるある発信(0～7時の間はつぶやきません)★あるあると思ったらRT★流しても良い沖縄あるあるを思いついたら教えてください★返事は気まぐれ★ ※100%全ての沖縄県民、地域にあてはまるということではないのでご了承ください",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44556,
+			"friends_count": 2,
+			"listed_count": 178,
+			"created_at": "Fri Jun 29 06:56:06 +0000 2012",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2351508598/hngr7mdgdsdcz1fbvepy_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2351508598/hngr7mdgdsdcz1fbvepy_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/621651382/1439522650",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "泳げない人が多い #あるあると思ったらRT #沖縄あるある"
+	},
+	{
+		"created_at": "Wed Jul 03 09:20:42 +0000 2019",
+		"id": 1146347294238707700,
+		"id_str": "1146348028636233728",
+		"full_text": "#モンゴル800 の #儀間崇 さんがきょう、 #脱退 を発表しました\nhttps://t.co/J5HqTpjYM1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "モンゴル800",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "儀間崇",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "脱退",
+					"indices": [
+						24,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J5HqTpjYM1",
+					"expanded_url": "https://www.okinawatimes.co.jp/articles/-/440965",
+					"display_url": "okinawatimes.co.jp/articles/-/440…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118600653,
+			"id_str": "118600653",
+			"name": "沖縄タイムス",
+			"screen_name": "theokinawatimes",
+			"location": "沖縄県那覇市",
+			"description": "「沖縄タイムス」の公式アカウントです。沖縄のニュースをつぶやきます。情報提供はこちら↓↓ https://t.co/dRtcewvbkS",
+			"url": "http://t.co/MNvzHef3vO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MNvzHef3vO",
+							"expanded_url": "http://www.okinawatimes.co.jp",
+							"display_url": "okinawatimes.co.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dRtcewvbkS",
+							"expanded_url": "https://app.okinawatimes.co.jp/contact/info_form.php",
+							"display_url": "app.okinawatimes.co.jp/contact/info_f…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 87985,
+			"friends_count": 109,
+			"listed_count": 3216,
+			"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+			"favourites_count": 3126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 287234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1554698014",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 191,
+		"favorite_count": 260,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#モンゴル800 の #儀間崇 さんがきょう、 #脱退 を発表しました\nhttps://t.co/J5HqTpjYM1"
+	},
+	{
+		"created_at": "Wed Jul 03 09:17:10 +0000 2019",
+		"id": 1146346213819727900,
+		"id_str": "1146347137904496641",
+		"full_text": "【速報】モンゴル800のギター・ボーカル儀間崇さんが脱退https://t.co/6Kaph7Ldco",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6Kaph7Ldco",
+					"expanded_url": "https://ift.tt/2Ytwp59",
+					"display_url": "ift.tt/2Ytwp59",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60465,
+			"friends_count": 6589,
+			"listed_count": 2781,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1052,
+		"favorite_count": 1380,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【速報】モンゴル800のギター・ボーカル儀間崇さんが脱退https://t.co/6Kaph7Ldco"
+	},
+	{
 		"created_at": "Tue Jul 02 22:42:06 +0000 2019",
 		"id": 1146162570694410200,
 		"id_str": "1146187319327674368",
