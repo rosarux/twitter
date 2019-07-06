@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 05 14:00:18 +0000 2019",
+		"id": 1147143165574410200,
+		"id_str": "1147143165574410246",
+		"full_text": "@carmikle226 이제 오키나와행 티켓을...",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "carmikle226",
+					"name": "Carmikle",
+					"id": 157771266,
+					"id_str": "157771266",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1147140804592328700,
+		"in_reply_to_status_id_str": "1147140804592328705",
+		"in_reply_to_user_id": 157771266,
+		"in_reply_to_user_id_str": "157771266",
+		"in_reply_to_screen_name": "carmikle226",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 497,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@carmikle226 이제 오키나와행 티켓을..."
+	},
+	{
+		"created_at": "Fri Jul 05 13:31:09 +0000 2019",
+		"id": 1146970359285125100,
+		"id_str": "1147135830793711616",
+		"full_text": "参院比例に沖縄から島袋恵祐氏、比嘉奈津美氏、仲村未央氏が立候補https://t.co/nYdcS5oLz7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nYdcS5oLz7",
+					"expanded_url": "https://ift.tt/2L0y4Mi",
+					"display_url": "ift.tt/2L0y4Mi",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 60517,
+			"friends_count": 6589,
+			"listed_count": 2793,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 110925,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "参院比例に沖縄から島袋恵祐氏、比嘉奈津美氏、仲村未央氏が立候補https://t.co/nYdcS5oLz7"
+	},
+	{
+		"created_at": "Fri Jul 05 11:19:17 +0000 2019",
+		"id": 1146996125917831200,
+		"id_str": "1147102644504109056",
+		"full_text": "菅官房長官「政権交代前の事、一瞬でも思い出して欲しい」\n\nダイエットに励む者にとって、まさに民主党政権時代は悪夢でした…↓\n\n・ミートソース缶の内容量が多かった\n・札幌ラーメンの内容量が多かった\n・セブンイレブンのいなり寿司が1パック内に3個もあった\n・板チョコのサイズが今より大きかった https://t.co/ALkdZz2H28",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1146996117252395000,
+					"id_str": "1146996117252395008",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/D-ry5D-U0AAWPMf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-ry5D-U0AAWPMf.jpg",
+					"url": "https://t.co/ALkdZz2H28",
+					"display_url": "pic.twitter.com/ALkdZz2H28",
+					"expanded_url": "https://twitter.com/ppsh41_1945/status/1146996125917831169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 261,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 261,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 261,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1146996117252395000,
+					"id_str": "1146996117252395008",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/D-ry5D-U0AAWPMf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-ry5D-U0AAWPMf.jpg",
+					"url": "https://t.co/ALkdZz2H28",
+					"display_url": "pic.twitter.com/ALkdZz2H28",
+					"expanded_url": "https://twitter.com/ppsh41_1945/status/1146996125917831169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 261,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 261,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 261,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1146996117256622100,
+					"id_str": "1146996117256622081",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/D-ry5D_VUAEhVR8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-ry5D_VUAEhVR8.jpg",
+					"url": "https://t.co/ALkdZz2H28",
+					"display_url": "pic.twitter.com/ALkdZz2H28",
+					"expanded_url": "https://twitter.com/ppsh41_1945/status/1146996125917831169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1146996117273374700,
+					"id_str": "1146996117273374720",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/D-ry5EDU8AAd-ET.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-ry5EDU8AAd-ET.jpg",
+					"url": "https://t.co/ALkdZz2H28",
+					"display_url": "pic.twitter.com/ALkdZz2H28",
+					"expanded_url": "https://twitter.com/ppsh41_1945/status/1146996125917831169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1146996117273317400,
+					"id_str": "1146996117273317377",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/D-ry5EDUEAEsP2I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-ry5EDUEAEsP2I.jpg",
+					"url": "https://t.co/ALkdZz2H28",
+					"display_url": "pic.twitter.com/ALkdZz2H28",
+					"expanded_url": "https://twitter.com/ppsh41_1945/status/1146996125917831169/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 660,
+							"h": 476,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 660,
+							"h": 476,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 660,
+							"h": 476,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2250245898,
+			"id_str": "2250245898",
+			"name": "大神 弘",
+			"screen_name": "ppsh41_1945",
+			"location": "",
+			"description": "ツイートとRTで、どんな人かは察して下さい #肉球新党",
+			"url": "https://t.co/pek8s3ohJy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pek8s3ohJy",
+							"expanded_url": "https://blocktogether.org/show-blocks/OnuAPj8RyZbvjuxrnVBdupqODGDwxOXf-vlMr9rX",
+							"display_url": "blocktogether.org/show-blocks/On…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10533,
+			"friends_count": 7939,
+			"listed_count": 169,
+			"created_at": "Tue Dec 17 11:16:10 +0000 2013",
+			"favourites_count": 1970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143978225707573248/uyBx-xFD_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143978225707573248/uyBx-xFD_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2250245898/1561209254",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2048,
+		"favorite_count": 2696,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "菅官房長官「政権交代前の事、一瞬でも思い出して欲しい」\n\nダイエットに励む者にとって、まさに民主党政権時代は悪夢でした…↓\n\n・ミートソース缶の内容量が多かった\n・札幌ラーメンの内容量が多かった\n・セブンイレブンのいなり寿司が1パック内に3個もあった\n・板チョコのサイズが今より大きかった https://t.co/ALkdZz2H28"
+	},
+	{
 		"created_at": "Thu Jul 04 14:07:24 +0000 2019",
 		"id": 1146782564897579000,
 		"id_str": "1146782564897579008",
