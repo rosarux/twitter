@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 06 10:39:59 +0000 2019",
+		"id": 1147455142305775600,
+		"id_str": "1147455142305775616",
+		"full_text": "「国会議員でも都知事でもなく、沖縄県知事をやりたい」제목 보는 순간 욕이 절로 나옴\n\n https://t.co/W1LaA0E7XZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W1LaA0E7XZ",
+					"expanded_url": "https://bunshun.jp/articles/-/12412?utm_source=twitter.com&utm_medium=social&utm_campaign=socialLink",
+					"display_url": "bunshun.jp/articles/-/124…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 497,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2402,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「国会議員でも都知事でもなく、沖縄県知事をやりたい」제목 보는 순간 욕이 절로 나옴\n\n https://t.co/W1LaA0E7XZ"
+	},
+	{
+		"created_at": "Sat Jul 06 08:17:57 +0000 2019",
+		"id": 1147419050714124300,
+		"id_str": "1147419400263258112",
+		"full_text": "10分以上歩く距離なら迷わず車に乗る #あるあると思ったらRT #沖縄あるある",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "あるあると思ったらRT",
+					"indices": [
+						19,
+						31
+					]
+				},
+				{
+					"text": "沖縄あるある",
+					"indices": [
+						32,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 621651382,
+			"id_str": "621651382",
+			"name": "沖縄あるある",
+			"screen_name": "okiaru",
+			"location": "沖縄(Okinawa)",
+			"description": "沖縄あるあるをまとめたbot★約2時間ごとにあるある発信(0～7時の間はつぶやきません)★あるあると思ったらRT★流しても良い沖縄あるあるを思いついたら教えてください★返事は気まぐれ★ ※100%全ての沖縄県民、地域にあてはまるということではないのでご了承ください",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44562,
+			"friends_count": 2,
+			"listed_count": 178,
+			"created_at": "Fri Jun 29 06:56:06 +0000 2012",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2351508598/hngr7mdgdsdcz1fbvepy_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2351508598/hngr7mdgdsdcz1fbvepy_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/621651382/1439522650",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "10分以上歩く距離なら迷わず車に乗る #あるあると思ったらRT #沖縄あるある"
+	},
+	{
+		"created_at": "Sat Jul 06 03:40:07 +0000 2019",
+		"id": 1147314957467340800,
+		"id_str": "1147349480611565568",
+		"full_text": "#参院選2019 に合わせて過去動画を連日ツイートし「いろいろ思い出してね」とやっています。\n\nこれはそんな私の「安倍晋喜劇」のハイライト的なCM的な動画です。\n\nこれは何の場面だろ？という人はちゃんと私のツイートを見るように！笑\n\n喜劇で悲劇な安倍政権　#自民党2019 \nhttps://t.co/dIrEFopa8y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "参院選2019",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "自民党2019",
+					"indices": [
+						128,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115173327935430700,
+					"id_str": "1115173327935430656",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1115173327935430656/pu/img/GNEWDZThrJxTOXOe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1115173327935430656/pu/img/GNEWDZThrJxTOXOe.jpg",
+					"url": "https://t.co/dIrEFopa8y",
+					"display_url": "pic.twitter.com/dIrEFopa8y",
+					"expanded_url": "https://twitter.com/toubennbenn/status/1115176500955766784/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1115176500955766800,
+					"source_status_id_str": "1115176500955766784",
+					"source_user_id": 850043768841437200,
+					"source_user_id_str": "850043768841437184"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115173327935430700,
+					"id_str": "1115173327935430656",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1115173327935430656/pu/img/GNEWDZThrJxTOXOe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1115173327935430656/pu/img/GNEWDZThrJxTOXOe.jpg",
+					"url": "https://t.co/dIrEFopa8y",
+					"display_url": "pic.twitter.com/dIrEFopa8y",
+					"expanded_url": "https://twitter.com/toubennbenn/status/1115176500955766784/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1115176500955766800,
+					"source_status_id_str": "1115176500955766784",
+					"source_user_id": 850043768841437200,
+					"source_user_id_str": "850043768841437184",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139600,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1115173327935430656/pu/vid/640x360/eWjMyctR-X0HLZuk.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1115173327935430656/pu/pl/3-QYCgn77K764fdU.m3u8?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1115173327935430656/pu/vid/320x180/QDihKRsH7etiy6-0.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 850043768841437200,
+							"id_str": "850043768841437184",
+							"name": "尾張おっぺけぺー ㊗️自民127連休🎉",
+							"screen_name": "toubennbenn",
+							"location": "",
+							"description": "資料ブログ「森友・加計問題安倍答弁」 https://t.co/hRboopWNit 森友問題、加計問題を扱ったもののうちの国会での安倍答弁や質問主意書・答弁書等の資料。 資料をなるべく整理して提供。考えるのはあなた。　　　※動画だけ表示する引用RTをされるのは愉快ではありません。",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/hRboopWNit",
+											"expanded_url": "http://inorimashow.blog.fc2.com/",
+											"display_url": "inorimashow.blog.fc2.com",
+											"indices": [
+												19,
+												42
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 12558,
+							"friends_count": 224,
+							"listed_count": 156,
+							"created_at": "Thu Apr 06 17:53:22 +0000 2017",
+							"favourites_count": 13641,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 16342,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/850047526304530432/v1Yrd7ro_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/850047526304530432/v1Yrd7ro_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/850043768841437184/1537925477",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 850043768841437200,
+			"id_str": "850043768841437184",
+			"name": "尾張おっぺけぺー ㊗️自民127連休🎉",
+			"screen_name": "toubennbenn",
+			"location": "",
+			"description": "資料ブログ「森友・加計問題安倍答弁」 https://t.co/hRboopWNit 森友問題、加計問題を扱ったもののうちの国会での安倍答弁や質問主意書・答弁書等の資料。 資料をなるべく整理して提供。考えるのはあなた。　　　※動画だけ表示する引用RTをされるのは愉快ではありません。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hRboopWNit",
+							"expanded_url": "http://inorimashow.blog.fc2.com/",
+							"display_url": "inorimashow.blog.fc2.com",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12558,
+			"friends_count": 224,
+			"listed_count": 156,
+			"created_at": "Thu Apr 06 17:53:22 +0000 2017",
+			"favourites_count": 13641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/850047526304530432/v1Yrd7ro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/850047526304530432/v1Yrd7ro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/850043768841437184/1537925477",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1142,
+		"favorite_count": 1352,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#参院選2019 に合わせて過去動画を連日ツイートし「いろいろ思い出してね」とやっています。\n\nこれはそんな私の「安倍晋喜劇」のハイライト的なCM的な動画です。\n\nこれは何の場面だろ？という人はちゃんと私のツイートを見るように！笑\n\n喜劇で悲劇な安倍政権　#自民党2019 \nhttps://t.co/dIrEFopa8y"
+	},
+	{
 		"created_at": "Fri Jul 05 14:00:18 +0000 2019",
 		"id": 1147143165574410200,
 		"id_str": "1147143165574410246",
