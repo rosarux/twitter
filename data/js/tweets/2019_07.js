@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 09 09:23:30 +0000 2019",
+		"id": 1148523060636483600,
+		"id_str": "1148523060636483584",
+		"full_text": "아 결국 기마 히로시도 한국에서 소개되는구나 ㅠㅠ https://t.co/LbC2HpDghU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LbC2HpDghU",
+					"expanded_url": "https://twitter.com/littlebkshop/status/1148513433022656512",
+					"display_url": "twitter.com/littlebkshop/s…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 498,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1148513433022656500,
+		"quoted_status_id_str": "1148513433022656512",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LbC2HpDghU",
+			"expanded": "https://twitter.com/littlebkshop/status/1148513433022656512",
+			"display": "twitter.com/littlebkshop/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 09 08:45:15 +0000 2019",
+			"id": 1148513433022656500,
+			"id_str": "1148513433022656512",
+			"full_text": "[처음 만난 오키나와] 출간을 기념하여 오키나와 출신 작가인 기마 히로시의 판화집과 그림책들을 모아 작은 전시회를 엽니다.\n\n지난겨울 오키나와현립 박물관미술관에 들렀을 때 마침 \"기마 히로시의 세계\" 전시가 열리고 있었고, 그 강렬한 표현에 큰 충격을 받았습니다. 특히 오키나와 전투를 https://t.co/7Hv6lXbXBu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1148513418082521100,
+						"id_str": "1148513418082521088",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/D_BW3mCUEAAYFhH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_BW3mCUEAAYFhH.jpg",
+						"url": "https://t.co/7Hv6lXbXBu",
+						"display_url": "pic.twitter.com/7Hv6lXbXBu",
+						"expanded_url": "https://twitter.com/littlebkshop/status/1148513433022656512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 721,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 721,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1148513418082521100,
+						"id_str": "1148513418082521088",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/D_BW3mCUEAAYFhH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_BW3mCUEAAYFhH.jpg",
+						"url": "https://t.co/7Hv6lXbXBu",
+						"display_url": "pic.twitter.com/7Hv6lXbXBu",
+						"expanded_url": "https://twitter.com/littlebkshop/status/1148513433022656512/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 721,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 721,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 511,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816859465882308600,
+				"id_str": "816859465882308608",
+				"name": "한뼘책방",
+				"screen_name": "littlebkshop",
+				"location": "대한민국 서울",
+				"description": "출판사&동네헌책방 出版社&古本屋 ** 서울 서대문구 가재울로2안길 29-14 ** 오픈 14:00~19:00pm 수요일, 토요일 휴무  ** 인스타그램 @littlebkshop",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 644,
+				"friends_count": 426,
+				"listed_count": 7,
+				"created_at": "Thu Jan 05 04:10:47 +0000 2017",
+				"favourites_count": 338,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 859,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/816860692431007744/5fK-f_MJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/816860692431007744/5fK-f_MJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816859465882308608/1483589897",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아 결국 기마 히로시도 한국에서 소개되는구나 ㅠㅠ https://t.co/LbC2HpDghU"
+	},
+	{
 		"created_at": "Mon Jul 08 13:35:42 +0000 2019",
 		"id": 1148224139183849500,
 		"id_str": "1148224139183849472",
