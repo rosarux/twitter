@@ -1,6 +1,616 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 14 13:06:05 +0000 2019",
+		"id": 1150390196640178200,
+		"id_str": "1150391011606061056",
+		"full_text": "【ジュンク堂那覇店 週間ベスト10　7/7～7/13】\n★★★①位★★★\n『復帰前へようこそ おきなわ懐かし写真館』海野 文彦 著・琉球プロジェクト\nhttps://t.co/fdcR2ITLUm …\n#那覇店ランキング",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "那覇店ランキング",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fdcR2ITLUm",
+					"expanded_url": "https://honto.jp/netstore/pd-book_27554519.html",
+					"display_url": "honto.jp/netstore/pd-bo…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1150390138092097500,
+		"in_reply_to_status_id_str": "1150390138092097536",
+		"in_reply_to_user_id": 542273241,
+		"in_reply_to_user_id_str": "542273241",
+		"in_reply_to_screen_name": "junkudo_okinawa",
+		"user": {
+			"id": 542273241,
+			"id_str": "542273241",
+			"name": "ジュンク堂書店 那覇店",
+			"screen_name": "junkudo_okinawa",
+			"location": "那覇市牧志1-19-29 D-naha B1F-3F",
+			"description": "本日もツイートをご覧いただきまして、誠にありがとうございます。phone:098-860-7175       fax:098-860-7176",
+			"url": "http://t.co/BrBBRakWLj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/BrBBRakWLj",
+							"expanded_url": "http://bookstorejunkudo.ti-da.net/",
+							"display_url": "bookstorejunkudo.ti-da.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3441,
+			"friends_count": 421,
+			"listed_count": 140,
+			"created_at": "Sun Apr 01 03:05:19 +0000 2012",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2016503256/naha250-1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2016503256/naha250-1_normal.jpg",
+			"profile_link_color": "006E54",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【ジュンク堂那覇店 週間ベスト10　7/7～7/13】\n★★★①位★★★\n『復帰前へようこそ おきなわ懐かし写真館』海野 文彦 著・琉球プロジェクト\nhttps://t.co/fdcR2ITLUm …\n#那覇店ランキング"
+	},
+	{
+		"created_at": "Sun Jul 14 05:57:11 +0000 2019",
+		"id": 1150175270898266100,
+		"id_str": "1150283078914306048",
+		"full_text": "1951〜52年の沖縄。籠に入れた魚を運ぶ女性。白黒写真をAIカラー化しました。\n\nこの写真を一緒に拝見した71歳の方の証言によると、当時米軍が作った橋がこの形状だったということ、また前方に4〜5階建の建物が見えることから那覇へ向かって橋を渡っている最中の写真ではないかとのこと。 https://t.co/DC4KR4KPgc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1150175261725302800,
+					"id_str": "1150175261725302784",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Y-ToCUIAAtHOW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Y-ToCUIAAtHOW.jpg",
+					"url": "https://t.co/DC4KR4KPgc",
+					"display_url": "pic.twitter.com/DC4KR4KPgc",
+					"expanded_url": "https://twitter.com/horinyo/status/1150175270898266112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1150175261725302800,
+					"id_str": "1150175261725302784",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Y-ToCUIAAtHOW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Y-ToCUIAAtHOW.jpg",
+					"url": "https://t.co/DC4KR4KPgc",
+					"display_url": "pic.twitter.com/DC4KR4KPgc",
+					"expanded_url": "https://twitter.com/horinyo/status/1150175270898266112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141643888,
+			"id_str": "141643888",
+			"name": "ホリーニョ",
+			"screen_name": "horinyo",
+			"location": "大阪 ",
+			"description": "「戦前の沖縄」をテーマに、読書したりイラストを描いたり旅したりしてます。映画「この世界の片隅に」「あまちゃん」「いだてん」ファン。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1644,
+			"friends_count": 413,
+			"listed_count": 47,
+			"created_at": "Sat May 08 16:33:09 +0000 2010",
+			"favourites_count": 50290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095281294622126081/GFnYOtoE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095281294622126081/GFnYOtoE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141643888/1555160163",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "1951〜52年の沖縄。籠に入れた魚を運ぶ女性。白黒写真をAIカラー化しました。\n\nこの写真を一緒に拝見した71歳の方の証言によると、当時米軍が作った橋がこの形状だったということ、また前方に4〜5階建の建物が見えることから那覇へ向かって橋を渡っている最中の写真ではないかとのこと。 https://t.co/DC4KR4KPgc"
+	},
+	{
+		"created_at": "Sun Jul 14 05:37:16 +0000 2019",
+		"id": 1150278065420849200,
+		"id_str": "1150278065420849152",
+		"full_text": "근데 현실(정치공학?) 적으로는 레이와 10명보다는 입헌+공산 10이 더 효과적인지라...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1149677911911219200,
+		"in_reply_to_status_id_str": "1149677911911219201",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 497,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "근데 현실(정치공학?) 적으로는 레이와 10명보다는 입헌+공산 10이 더 효과적인지라..."
+	},
+	{
+		"created_at": "Sun Jul 14 03:37:07 +0000 2019",
+		"id": 1150247011465044000,
+		"id_str": "1150247828888813568",
+		"full_text": "やんばる　を\n真の世界遺産に\nオスプレイと同居する世界自然遺産などあり得ない\n\n日本政府が再び「奄美大島・徳之島・沖縄島北部および西表島」を自然遺産候補としてユネスコ諮問機関IUCNに推薦した\n\n7月27日　15時\n沖縄大で「緊急学習会」\n\n琉球新報 https://t.co/hl0Tfw7sRf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1150245766939598800,
+					"id_str": "1150245766939598849",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Z-bkbU4AEEJAg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Z-bkbU4AEEJAg.jpg",
+					"url": "https://t.co/hl0Tfw7sRf",
+					"display_url": "pic.twitter.com/hl0Tfw7sRf",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1150247011465043968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 726,
+							"h": 1832,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 269,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 476,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1150245766939598800,
+					"id_str": "1150245766939598849",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D_Z-bkbU4AEEJAg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_Z-bkbU4AEEJAg.jpg",
+					"url": "https://t.co/hl0Tfw7sRf",
+					"display_url": "pic.twitter.com/hl0Tfw7sRf",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1150247011465043968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 726,
+							"h": 1832,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 269,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 476,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 976478731026890800,
+			"id_str": "976478731026890752",
+			"name": "BARANEKO",
+			"screen_name": "BARANEKO0409",
+			"location": "",
+			"description": "大切なのは、どこかを指してゆくことなので、到着することではないのだ、というのも、死 、以外に到着というものはあり得ないのだから(サンテグジュペリ)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1510,
+			"friends_count": 530,
+			"listed_count": 33,
+			"created_at": "Wed Mar 21 15:20:46 +0000 2018",
+			"favourites_count": 3600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035183513962569728/bZB5QjPy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035183513962569728/bZB5QjPy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/976478731026890752/1562601831",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "やんばる　を\n真の世界遺産に\nオスプレイと同居する世界自然遺産などあり得ない\n\n日本政府が再び「奄美大島・徳之島・沖縄島北部および西表島」を自然遺産候補としてユネスコ諮問機関IUCNに推薦した\n\n7月27日　15時\n沖縄大で「緊急学習会」\n\n琉球新報 https://t.co/hl0Tfw7sRf"
+	},
+	{
+		"created_at": "Sun Jul 14 01:44:35 +0000 2019",
+		"id": 1150219508138704900,
+		"id_str": "1150219508138704896",
+		"full_text": "@treeun 직접 필드웍 나서시기 쉽지 않은 결정이셨을탠데, 좋은 결과 얻으시길! 그리고 항상 건강도 유의하시고요.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "treeun",
+					"name": "psychictree",
+					"id": 196437597,
+					"id_str": "196437597",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1150219181863796700,
+		"in_reply_to_status_id_str": "1150219181863796736",
+		"in_reply_to_user_id": 196437597,
+		"in_reply_to_user_id_str": "196437597",
+		"in_reply_to_screen_name": "treeun",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 497,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@treeun 직접 필드웍 나서시기 쉽지 않은 결정이셨을탠데, 좋은 결과 얻으시길! 그리고 항상 건강도 유의하시고요."
+	},
+	{
 		"created_at": "Sat Jul 13 01:57:37 +0000 2019",
 		"id": 1149860398851489800,
 		"id_str": "1149860398851489793",
