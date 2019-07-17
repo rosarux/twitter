@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 16 11:45:31 +0000 2019",
+		"id": 1151092866191462400,
+		"id_str": "1151095514391142400",
+		"full_text": "한국의 보수주의가 반북한주의라 생각할 수 있으나 이도 아님. 박근혜가 ‘통일이 대박’이라고 했을 때 반응을 생각해보길. 한국의 자칭 ‘보수’는 ‘자신을 보수로 규정하는 집단의 이익을 지키려는 무리’일뿐. 이 규정은 순환론인데, 이것이 핵심. 한국의 자칭 보수는 자기모순적이고 분열적이라는 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1151072849441857500,
+		"in_reply_to_status_id_str": "1151072849441857536",
+		"in_reply_to_user_id": 133255001,
+		"in_reply_to_user_id_str": "133255001",
+		"in_reply_to_screen_name": "TorSean",
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1104,
+			"friends_count": 355,
+			"listed_count": 26,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국의 보수주의가 반북한주의라 생각할 수 있으나 이도 아님. 박근혜가 ‘통일이 대박’이라고 했을 때 반응을 생각해보길. 한국의 자칭 ‘보수’는 ‘자신을 보수로 규정하는 집단의 이익을 지키려는 무리’일뿐. 이 규정은 순환론인데, 이것이 핵심. 한국의 자칭 보수는 자기모순적이고 분열적이라는 것."
+	},
+	{
+		"created_at": "Tue Jul 16 11:03:07 +0000 2019",
+		"id": 1151013038868189200,
+		"id_str": "1151084841691013121",
+		"full_text": "집밥, 노스탤지아: 한국은 전세계적으로 집밥과 가장 많이 멀어져 있는 국가임. 전세계적으로 한국사람이 요리에 가장 관심이 적고, 집에서 요리에 가장 시간을 적게 보냄. \n\nhttps://t.co/ZTQc2IaFQj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZTQc2IaFQj",
+					"expanded_url": "https://sovidence.tistory.com/1019",
+					"display_url": "sovidence.tistory.com/1019",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3357881951,
+			"id_str": "3357881951",
+			"name": "Sociological Evidence",
+			"screen_name": "KimSovidence",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/TPYdhkbTzf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TPYdhkbTzf",
+							"expanded_url": "https://sovidence.tistory.com/",
+							"display_url": "sovidence.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 298,
+			"friends_count": 307,
+			"listed_count": 4,
+			"created_at": "Sat Jul 04 01:45:39 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1260,
+		"favorite_count": 484,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "집밥, 노스탤지아: 한국은 전세계적으로 집밥과 가장 많이 멀어져 있는 국가임. 전세계적으로 한국사람이 요리에 가장 관심이 적고, 집에서 요리에 가장 시간을 적게 보냄. \n\nhttps://t.co/ZTQc2IaFQj"
+	},
+	{
 		"created_at": "Mon Jul 15 11:42:39 +0000 2019",
 		"id": 1150732035293495300,
 		"id_str": "1150732403175878656",
