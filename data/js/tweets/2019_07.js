@@ -1,6 +1,556 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 17 15:24:55 +0000 2019",
+		"id": 1151365569079177200,
+		"id_str": "1151513114870857729",
+		"full_text": "「弱いものいじめの政治を終わらせたい」と言う たつみコータローさん、この人に国会に行ってほしいと思います。 https://t.co/KnLjDBi1U0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1151365548413861900,
+					"id_str": "1151365548413861888",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/D_p43bfUwAADhdX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_p43bfUwAADhdX.jpg",
+					"url": "https://t.co/KnLjDBi1U0",
+					"display_url": "pic.twitter.com/KnLjDBi1U0",
+					"expanded_url": "https://twitter.com/hasebon3/status/1151365569079177216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 935,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1594,
+							"h": 2046,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1151365548413861900,
+					"id_str": "1151365548413861888",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/D_p43bfUwAADhdX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_p43bfUwAADhdX.jpg",
+					"url": "https://t.co/KnLjDBi1U0",
+					"display_url": "pic.twitter.com/KnLjDBi1U0",
+					"expanded_url": "https://twitter.com/hasebon3/status/1151365569079177216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 935,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1594,
+							"h": 2046,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 280875919,
+			"id_str": "280875919",
+			"name": "長谷川義史",
+			"screen_name": "hasebon3",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16849,
+			"friends_count": 184,
+			"listed_count": 281,
+			"created_at": "Tue Apr 12 05:54:10 +0000 2011",
+			"favourites_count": 309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4903,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1310071839/____normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310071839/____normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1715,
+		"favorite_count": 2585,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「弱いものいじめの政治を終わらせたい」と言う たつみコータローさん、この人に国会に行ってほしいと思います。 https://t.co/KnLjDBi1U0"
+	},
+	{
+		"created_at": "Wed Jul 17 14:52:56 +0000 2019",
+		"id": 1151334507796033500,
+		"id_str": "1151505065691062272",
+		"full_text": "한국・페미니즘・일본 특집으로 화제가 되어 86년 만에 3쇄를 찍은 일본의 계간 문학잡지 「문예文藝」 지의 공식 트윗이 의미심장하다. \n\n“「文藝」가 창간되었던 1933년은 히틀러 정권이 탄생하고, 일본이 국제연맹을 탈퇴한 해이기도 합니다. 그 이후로 86년만의 3쇄 발행입니다.” https://t.co/HpLGFeafMf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HpLGFeafMf",
+					"expanded_url": "https://twitter.com/kawade_bungei/status/1151122387137490945",
+					"display_url": "twitter.com/kawade_bungei/…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 165325098,
+			"id_str": "165325098",
+			"name": "20세기형 銀空",
+			"screen_name": "eun_gong",
+			"location": "대한민국",
+			"description": "#서울의현대를찾아서 서울을 기록합니다 #서울의역사를찾아서 서울을 찾아냅니다 #머릿돌사냥단 정초석・머릿돌을 찾습니다 #은공컬렉션 #은공아카이브 아카이빙을 합니다 #ソウルの現代を探がして #近代建築 サークル 「現代都市文化研究会」 RT≠同意",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8654,
+			"friends_count": 640,
+			"listed_count": 145,
+			"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+			"favourites_count": 9718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 271417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7EE6BD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136694824495591424/du1SjQ6K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136694824495591424/du1SjQ6K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1559843972",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1151122387137491000,
+		"quoted_status_id_str": "1151122387137490945",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HpLGFeafMf",
+			"expanded": "https://twitter.com/kawade_bungei/status/1151122387137490945",
+			"display": "twitter.com/kawade_bungei/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 16 13:32:18 +0000 2019",
+			"id": 1151122387137491000,
+			"id_str": "1151122387137490945",
+			"full_text": "「文藝」創刊は1933年。1931年満州事変以降プロレタリア文学が弾圧を受け、言葉による政治的抵抗としての「文芸復興」が叫ばれていたことを背景に生まれました。1933年はヒトラー政権誕生、小林多喜二死去、日本が国際連盟を脱退した年でもあります。それ以来の3刷となります。",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				135
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 274350758,
+				"id_str": "274350758",
+				"name": "河出書房新社 文藝🍧秋季号17年ぶり重版‼️",
+				"screen_name": "Kawade_bungei",
+				"location": "東京都渋谷区千駄ヶ谷2-32-2",
+				"description": "1933年創刊、河出書房新社 @Kawade_shobo の季刊文芸誌『文藝』、池澤夏樹個人編集『日本文学全集』他日本の文芸書を紹介する公式アカウント。Instagram→ https://t.co/jt7KjZWnp6",
+				"url": "https://t.co/uW1LJS66cv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uW1LJS66cv",
+								"expanded_url": "http://www.kawade.co.jp/np/bungei.html",
+								"display_url": "kawade.co.jp/np/bungei.html",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/jt7KjZWnp6",
+								"expanded_url": "https://www.instagram.com/kawade_bungei",
+								"display_url": "instagram.com/kawade_bungei",
+								"indices": [
+									87,
+									110
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 19922,
+				"friends_count": 12868,
+				"listed_count": 761,
+				"created_at": "Wed Mar 30 05:18:42 +0000 2011",
+				"favourites_count": 1396,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20432,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1113654026048925696/SMPv24ns_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113654026048925696/SMPv24ns_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/274350758/1562081478",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 382,
+			"favorite_count": 669,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ja"
+		},
+		"retweet_count": 546,
+		"favorite_count": 147,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국・페미니즘・일본 특집으로 화제가 되어 86년 만에 3쇄를 찍은 일본의 계간 문학잡지 「문예文藝」 지의 공식 트윗이 의미심장하다. \n\n“「文藝」가 창간되었던 1933년은 히틀러 정권이 탄생하고, 일본이 국제연맹을 탈퇴한 해이기도 합니다. 그 이후로 86년만의 3쇄 발행입니다.” https://t.co/HpLGFeafMf"
+	},
+	{
+		"created_at": "Wed Jul 17 09:28:57 +0000 2019",
+		"id": 1151423532879888400,
+		"id_str": "1151423532879888385",
+		"full_text": "@maasaru_tamanaa 3박4일이 일주일이 되고 일주일이 한달되고 한달이 세달되고 세달이 3년 되....",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maasaru_tamanaa",
+					"name": "타마나 [✈️7/30~8/5]",
+					"id": 4859655125,
+					"id_str": "4859655125",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1151422866333683700,
+		"in_reply_to_status_id_str": "1151422866333683712",
+		"in_reply_to_user_id": 4859655125,
+		"in_reply_to_user_id_str": "4859655125",
+		"in_reply_to_screen_name": "maasaru_tamanaa",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 573,
+			"friends_count": 497,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@maasaru_tamanaa 3박4일이 일주일이 되고 일주일이 한달되고 한달이 세달되고 세달이 3년 되...."
+	},
+	{
+		"created_at": "Wed Jul 17 09:20:18 +0000 2019",
+		"id": 1151421356644286500,
+		"id_str": "1151421356644286464",
+		"full_text": "@maasaru_tamanaa 갔다오면 더 악화되실 듯(...)",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "maasaru_tamanaa",
+					"name": "타마나 [✈️7/30~8/5]",
+					"id": 4859655125,
+					"id_str": "4859655125",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1151417091792048100,
+		"in_reply_to_status_id_str": "1151417091792048129",
+		"in_reply_to_user_id": 4859655125,
+		"in_reply_to_user_id_str": "4859655125",
+		"in_reply_to_screen_name": "maasaru_tamanaa",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 573,
+			"friends_count": 497,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@maasaru_tamanaa 갔다오면 더 악화되실 듯(...)"
+	},
+	{
 		"created_at": "Tue Jul 16 11:45:31 +0000 2019",
 		"id": 1151092866191462400,
 		"id_str": "1151095514391142400",
