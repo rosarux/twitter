@@ -1,6 +1,3712 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 20 14:46:09 +0000 2019",
+		"id": 1152582396627177500,
+		"id_str": "1152590521497346048",
+		"full_text": "#FINAL街宣0720\n#安田真理「何でも自己責任。今の政治は間違っている。参議院兵庫は全て与党系、3議席の内一議席は #安田真理 野党の議席をひとつ、皆さんのチカラで増やしていただきたい。」\n#わたしたちの声が届く政治へ\n#兵庫 #りっけん\n#この夏わたしは変えたい https://t.co/0YweUXPClA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FINAL街宣0720",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "安田真理",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "安田真理",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "わたしたちの声が届く政治へ",
+					"indices": [
+						98,
+						112
+					]
+				},
+				{
+					"text": "兵庫",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "りっけん",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "この夏わたしは変えたい",
+					"indices": [
+						123,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152582124840443900,
+					"id_str": "1152582124840443904",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152582124840443904/pu/img/OP7XrwUSAPXgt4VR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152582124840443904/pu/img/OP7XrwUSAPXgt4VR.jpg",
+					"url": "https://t.co/0YweUXPClA",
+					"display_url": "pic.twitter.com/0YweUXPClA",
+					"expanded_url": "https://twitter.com/haru02020/status/1152582396627177477/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152582124840443900,
+					"id_str": "1152582124840443904",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152582124840443904/pu/img/OP7XrwUSAPXgt4VR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152582124840443904/pu/img/OP7XrwUSAPXgt4VR.jpg",
+					"url": "https://t.co/0YweUXPClA",
+					"display_url": "pic.twitter.com/0YweUXPClA",
+					"expanded_url": "https://twitter.com/haru02020/status/1152582396627177477/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 78167,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152582124840443904/pu/vid/1280x720/H8_XrzYOAgz-jXms.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152582124840443904/pu/vid/480x270/gyFZTnszEIsL5uQD.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152582124840443904/pu/vid/640x360/Rg8v-QXTz1OV9Mw-.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1152582124840443904/pu/pl/woOo7bPI_JUTML3i.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1548807055,
+			"id_str": "1548807055",
+			"name": "はる。",
+			"screen_name": "haru02020",
+			"location": "",
+			"description": "「政治が変わる。市民が変える。」\n正しくありたい。不条理には不条理と言う姿勢を保ちたい。時に笑い時に楽しく。優しさを学ぶ。無党派",
+			"url": "https://t.co/EdQnZjewJM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EdQnZjewJM",
+							"expanded_url": "https://youtu.be/Vmcey2t7TmU",
+							"display_url": "youtu.be/Vmcey2t7TmU",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1626,
+			"friends_count": 1214,
+			"listed_count": 22,
+			"created_at": "Wed Jun 26 18:12:27 +0000 2013",
+			"favourites_count": 59476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 124253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723842533747355648/z75gmu7D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723842533747355648/z75gmu7D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1548807055/1560872314",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#FINAL街宣0720\n#安田真理「何でも自己責任。今の政治は間違っている。参議院兵庫は全て与党系、3議席の内一議席は #安田真理 野党の議席をひとつ、皆さんのチカラで増やしていただきたい。」\n#わたしたちの声が届く政治へ\n#兵庫 #りっけん\n#この夏わたしは変えたい https://t.co/0YweUXPClA"
+	},
+	{
+		"created_at": "Sat Jul 20 14:30:41 +0000 2019",
+		"id": 1152560878543228900,
+		"id_str": "1152586632316383232",
+		"full_text": "「決意」\n\n先島の皆さんへ\n\n沖縄を切り捨てる政府に怒りをぶつけ、ウチナーウマンチュの誇りと尊厳を守り、島に暮らす人々のいのちと暮らしが大切にされる政治を実現するために、私は絶対に当選しなければならない。\n\nどうか、ありったけの力を私、仲村みおのもとへとお寄せください。\n\n仲村みお https://t.co/uQkb6WnGkZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152560869491925000,
+					"id_str": "1152560869491924992",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D_64ARgU4AAdF24.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_64ARgU4AAdF24.jpg",
+					"url": "https://t.co/uQkb6WnGkZ",
+					"display_url": "pic.twitter.com/uQkb6WnGkZ",
+					"expanded_url": "https://twitter.com/MioOkinawaSDP/status/1152560878543228933/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152560869491925000,
+					"id_str": "1152560869491924992",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D_64ARgU4AAdF24.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_64ARgU4AAdF24.jpg",
+					"url": "https://t.co/uQkb6WnGkZ",
+					"display_url": "pic.twitter.com/uQkb6WnGkZ",
+					"expanded_url": "https://twitter.com/MioOkinawaSDP/status/1152560878543228933/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1111905224627613700,
+			"id_str": "1111905224627613696",
+			"name": "仲村みお",
+			"screen_name": "MioOkinawaSDP",
+			"location": "",
+			"description": "参院選全国比例区候補。社民党。琉球新報記者/沖縄県議3期。民意を踏みにじる安倍政権、辺野古新基地建設にNOを示す1議席を沖縄の私に託してください。\n[後援会]@NakamuraMio2019\n[FB]https://t.co/FS5mnFbpV1\n[LINE]https://t.co/TPeDywAqEp",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FS5mnFbpV1",
+							"expanded_url": "https://bit.ly/2XsOSOD",
+							"display_url": "bit.ly/2XsOSOD",
+							"indices": [
+								100,
+								123
+							]
+						},
+						{
+							"url": "https://t.co/TPeDywAqEp",
+							"expanded_url": "http://bit.ly/2xoDA2L",
+							"display_url": "bit.ly/2xoDA2L",
+							"indices": [
+								130,
+								153
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1461,
+			"friends_count": 516,
+			"listed_count": 44,
+			"created_at": "Sat Mar 30 08:17:18 +0000 2019",
+			"favourites_count": 535,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136861337961738240/EydjeB0a_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136861337961738240/EydjeB0a_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1111905224627613696/1562157382",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「決意」\n\n先島の皆さんへ\n\n沖縄を切り捨てる政府に怒りをぶつけ、ウチナーウマンチュの誇りと尊厳を守り、島に暮らす人々のいのちと暮らしが大切にされる政治を実現するために、私は絶対に当選しなければならない。\n\nどうか、ありったけの力を私、仲村みおのもとへとお寄せください。\n\n仲村みお https://t.co/uQkb6WnGkZ"
+	},
+	{
+		"created_at": "Sat Jul 20 14:30:31 +0000 2019",
+		"id": 1152573420476883000,
+		"id_str": "1152586589618335744",
+		"full_text": "✨のぼり旗が一番似合う候補者✨その名は #大椿ゆうこ🌺\n\n#参院選2019 #社民党の本気 #全国比例 #比例は大椿ゆうこ https://t.co/uip6tVZAaL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "大椿ゆうこ",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "参院選2019",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"text": "社民党の本気",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"text": "全国比例",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "比例は大椿ゆうこ",
+					"indices": [
+						52,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152573349576319000,
+					"id_str": "1152573349576318977",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152573349576318977/pu/img/TjLy2KTsvLZbA50p.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152573349576318977/pu/img/TjLy2KTsvLZbA50p.jpg",
+					"url": "https://t.co/uip6tVZAaL",
+					"display_url": "pic.twitter.com/uip6tVZAaL",
+					"expanded_url": "https://twitter.com/FATE_SOSEI/status/1152573420476882944/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152573349576319000,
+					"id_str": "1152573349576318977",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152573349576318977/pu/img/TjLy2KTsvLZbA50p.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152573349576318977/pu/img/TjLy2KTsvLZbA50p.jpg",
+					"url": "https://t.co/uip6tVZAaL",
+					"display_url": "pic.twitter.com/uip6tVZAaL",
+					"expanded_url": "https://twitter.com/FATE_SOSEI/status/1152573420476882944/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 8538,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152573349576318977/pu/vid/1280x720/oFsbKhFexLItgZVK.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152573349576318977/pu/vid/480x270/lu833wOZ5QGS7H2I.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1152573349576318977/pu/pl/FyG2izgLvanMA1UL.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152573349576318977/pu/vid/640x360/zwKfe3mwbPx7MeZl.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132184255,
+			"id_str": "132184255",
+			"name": "fusae",
+			"screen_name": "FATE_SOSEI",
+			"location": "大阪市",
+			"description": "モノ作りアトリエ StudioFATE 主宰  FATE...ジュエリー制作・修理／手作りせっけん制作 各種ワークショップも開催してます。たまにCafe営業... 無花果チキンキーマ＆真昆布ヴィーガンCurry／ヴィーガン・スコーンが看板メニュー。 TwitNoNukes大阪／SADL crew",
+			"url": "https://t.co/savDUeNPOR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/savDUeNPOR",
+							"expanded_url": "http://news.fatalbackground.org",
+							"display_url": "news.fatalbackground.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4542,
+			"friends_count": 983,
+			"listed_count": 146,
+			"created_at": "Mon Apr 12 14:27:20 +0000 2010",
+			"favourites_count": 8128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/719777104594735105/_bvzAedO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/719777104594735105/_bvzAedO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132184255/1418806557",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "✨のぼり旗が一番似合う候補者✨その名は #大椿ゆうこ🌺\n\n#参院選2019 #社民党の本気 #全国比例 #比例は大椿ゆうこ https://t.co/uip6tVZAaL"
+	},
+	{
+		"created_at": "Sat Jul 20 14:10:12 +0000 2019",
+		"id": 1152482755143274500,
+		"id_str": "1152581474438135808",
+		"full_text": "わからないから選挙に行かないとか、いい大人がかっこ悪いよ！そんな寝言はやめてくれ。\n#参院選 #比例は大椿ゆうこ #選挙に行こう https://t.co/fl5QSL2R6C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "参院選",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "比例は大椿ゆうこ",
+					"indices": [
+						47,
+						56
+					]
+				},
+				{
+					"text": "選挙に行こう",
+					"indices": [
+						57,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152482703360421900,
+					"id_str": "1152482703360421888",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152482703360421888/pu/img/0IPi7LEkvdWKZczr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152482703360421888/pu/img/0IPi7LEkvdWKZczr.jpg",
+					"url": "https://t.co/fl5QSL2R6C",
+					"display_url": "pic.twitter.com/fl5QSL2R6C",
+					"expanded_url": "https://twitter.com/ohtsubaki/status/1152482755143274497/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152482703360421900,
+					"id_str": "1152482703360421888",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152482703360421888/pu/img/0IPi7LEkvdWKZczr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152482703360421888/pu/img/0IPi7LEkvdWKZczr.jpg",
+					"url": "https://t.co/fl5QSL2R6C",
+					"display_url": "pic.twitter.com/fl5QSL2R6C",
+					"expanded_url": "https://twitter.com/ohtsubaki/status/1152482755143274497/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 7633,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152482703360421888/pu/vid/480x270/iHvB-CpmOOw16318.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152482703360421888/pu/vid/1280x720/MTF8j0vaYJ5W-VH7.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152482703360421888/pu/vid/640x360/IG8SfE6RUE5JbfHh.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1152482703360421888/pu/pl/oyFhasrkioQyWBke.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1152482202707320800,
+		"in_reply_to_status_id_str": "1152482202707320833",
+		"in_reply_to_user_id": 1101108365013397500,
+		"in_reply_to_user_id_str": "1101108365013397504",
+		"in_reply_to_screen_name": "ohtsubaki",
+		"user": {
+			"id": 1101108365013397500,
+			"id_str": "1101108365013397504",
+			"name": "大椿ゆうこを推す会 #比例は大椿ゆうこ",
+			"screen_name": "ohtsubaki",
+			"location": "",
+			"description": "社民党 全国連合・労働・女性・多様性政策委員長の大椿ゆうこを応援する会。大椿の活動や思うこと、応援メッセージやヴィジョンなどをお伝えしていきます。",
+			"url": "https://t.co/XGTJDie4AA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XGTJDie4AA",
+							"expanded_url": "https://www.facebook.com/ohtsubaki/",
+							"display_url": "facebook.com/ohtsubaki/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1222,
+			"friends_count": 439,
+			"listed_count": 30,
+			"created_at": "Thu Feb 28 13:14:26 +0000 2019",
+			"favourites_count": 392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101137805407739904/2xMoRfMl_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101137805407739904/2xMoRfMl_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1101108365013397504/1562746703",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "わからないから選挙に行かないとか、いい大人がかっこ悪いよ！そんな寝言はやめてくれ。\n#参院選 #比例は大椿ゆうこ #選挙に行こう https://t.co/fl5QSL2R6C"
+	},
+	{
+		"created_at": "Sat Jul 20 14:09:18 +0000 2019",
+		"id": 1152476911219511300,
+		"id_str": "1152581249547980800",
+		"full_text": "京都選挙区から立候補している、#日本共産党 の倉林明子さん\n\n動画見て、ほろっときた😭\n共産党の議員さん素敵な人多すぎ😭\n倉林さんも、厳しいたたかいのようです。京都のみなさん、倉林さんを押し上げて下さい！\n\n https://t.co/jsj4tebM6e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "日本共産党",
+					"indices": [
+						15,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152086069736689700,
+					"id_str": "1152086069736689665",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152086069736689665/pu/img/g_tyZV8o7CIb57Gx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152086069736689665/pu/img/g_tyZV8o7CIb57Gx.jpg",
+					"url": "https://t.co/jsj4tebM6e",
+					"display_url": "pic.twitter.com/jsj4tebM6e",
+					"expanded_url": "https://twitter.com/kurabayashia/status/1152086221260111872/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1152086221260111900,
+					"source_status_id_str": "1152086221260111872",
+					"source_user_id": 1078606832,
+					"source_user_id_str": "1078606832"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152086069736689700,
+					"id_str": "1152086069736689665",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152086069736689665/pu/img/g_tyZV8o7CIb57Gx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152086069736689665/pu/img/g_tyZV8o7CIb57Gx.jpg",
+					"url": "https://t.co/jsj4tebM6e",
+					"display_url": "pic.twitter.com/jsj4tebM6e",
+					"expanded_url": "https://twitter.com/kurabayashia/status/1152086221260111872/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1152086221260111900,
+					"source_status_id_str": "1152086221260111872",
+					"source_user_id": 1078606832,
+					"source_user_id_str": "1078606832",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 124395,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1152086069736689665/pu/pl/wDOK4ViChukb2oxG.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152086069736689665/pu/vid/1280x720/f5mSmT1bh3CN4IKT.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152086069736689665/pu/vid/480x270/WYkLOPSnfA-NpsvY.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152086069736689665/pu/vid/640x360/uxsv9o-zW2aFF_K0.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1078606832,
+							"id_str": "1078606832",
+							"name": "倉林明子 参議院選挙京都選挙区候補 #比例は共産党",
+							"screen_name": "kurabayashia",
+							"location": "京都府",
+							"description": "日本共産党の参議院議員、京都選挙区。福島県西会津の農家出身、看護師11年、京都府議・京都市議19年。趣味は掃除。好きな言葉は「誠実」 / #比例は共産党 @jcpkyoto / 市民有志→@acconnect201907",
+							"url": "https://t.co/2eIGmq6jex",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/2eIGmq6jex",
+											"expanded_url": "http://kurabayashi-akiko.jp/",
+											"display_url": "kurabayashi-akiko.jp",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 11449,
+							"friends_count": 2295,
+							"listed_count": 291,
+							"created_at": "Fri Jan 11 05:40:43 +0000 2013",
+							"favourites_count": 2434,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 3513,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/3200380845/b47c9135874331cc8a52788062073299_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/3200380845/b47c9135874331cc8a52788062073299_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1078606832/1528283187",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58757756,
+			"id_str": "58757756",
+			"name": "🧷HaL🐲",
+			"screen_name": "HaLuetty",
+			"location": "",
+			"description": "Hospitalist 👨🏼‍🌾人々の健康を守るために医師が行うべき最も重要な事は「戦争をさせないことです」と日野原重明先生。苦しい時に音楽とユーモアを。憲法25条を大事に誰一人取り残さない社会を🧜🏾‍♂️#肉球新党",
+			"url": "https://t.co/xbnmYUYzgI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xbnmYUYzgI",
+							"expanded_url": "https://love-letter.club/to/HaLuetty/",
+							"display_url": "love-letter.club/to/HaLuetty/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2249,
+			"friends_count": 3676,
+			"listed_count": 63,
+			"created_at": "Tue Jul 21 10:06:50 +0000 2009",
+			"favourites_count": 41322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148471278426185728/oOhPnVlX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148471278426185728/oOhPnVlX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58757756/1551013727",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "0099CC",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "京都選挙区から立候補している、#日本共産党 の倉林明子さん\n\n動画見て、ほろっときた😭\n共産党の議員さん素敵な人多すぎ😭\n倉林さんも、厳しいたたかいのようです。京都のみなさん、倉林さんを押し上げて下さい！\n\n https://t.co/jsj4tebM6e"
+	},
+	{
+		"created_at": "Sat Jul 20 14:05:39 +0000 2019",
+		"id": 1141330711493795800,
+		"id_str": "1152580331112767489",
+		"full_text": "先週土曜日「#タカラ鉄美 総決起大会」\n糸数慶子参議院議員が激励のあいさつ。\n「14年間守り抜いた平和の1議席をタカラさんにバトンタッチしたい！安倍政権打倒のためにも全国32の1人区で野党と市民が共闘し、辺野古に新しい基地を造らせないという県民の思いを全てタカラさんに託して、必ず勝利を!!」 https://t.co/eteOZU2Auy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "タカラ鉄美",
+					"indices": [
+						6,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1141330619332354000,
+					"id_str": "1141330619332354049",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1141330619332354049/pu/img/vXgQ4XIotliZTOQI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1141330619332354049/pu/img/vXgQ4XIotliZTOQI.jpg",
+					"url": "https://t.co/eteOZU2Auy",
+					"display_url": "pic.twitter.com/eteOZU2Auy",
+					"expanded_url": "https://twitter.com/shimagurumi/status/1141330711493795840/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141330619332354000,
+					"id_str": "1141330619332354049",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1141330619332354049/pu/img/vXgQ4XIotliZTOQI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1141330619332354049/pu/img/vXgQ4XIotliZTOQI.jpg",
+					"url": "https://t.co/eteOZU2Auy",
+					"display_url": "pic.twitter.com/eteOZU2Auy",
+					"expanded_url": "https://twitter.com/shimagurumi/status/1141330711493795840/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139250,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1141330619332354049/pu/vid/960x540/wIAsZiUOxwdcopFS.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1141330619332354049/pu/vid/640x360/GCj8_z2KXOcuKzs6.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1141330619332354049/pu/pl/l37ko8FcjJvf36cc.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1141330619332354049/pu/vid/480x270/nBfA-kwOPfrYnNvN.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2981714581,
+			"id_str": "2981714581",
+			"name": "島ぐるみ会議✨🌈",
+			"screen_name": "shimagurumi",
+			"location": "日本 沖縄",
+			"description": "島ぐるみ会議の公式アカウント🌺沖縄の未来は私たちが決める✨2019年2月24日辺野古新基地建設反対の意思が「県民投票」で示されました✊🏻みんなでデニー知事を支え、平和と歴史文化を大切に、誇りある新しい沖縄を一緒につくっていきましょう✨",
+			"url": "https://t.co/rVXC1DGop0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rVXC1DGop0",
+							"expanded_url": "https://www.facebook.com/shimagurumi/",
+							"display_url": "facebook.com/shimagurumi/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10428,
+			"friends_count": 826,
+			"listed_count": 157,
+			"created_at": "Wed Jan 14 05:16:39 +0000 2015",
+			"favourites_count": 5663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144475401206431747/wMZbP8CB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144475401206431747/wMZbP8CB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2981714581/1561699174",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 227,
+		"favorite_count": 316,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "先週土曜日「#タカラ鉄美 総決起大会」\n糸数慶子参議院議員が激励のあいさつ。\n「14年間守り抜いた平和の1議席をタカラさんにバトンタッチしたい！安倍政権打倒のためにも全国32の1人区で野党と市民が共闘し、辺野古に新しい基地を造らせないという県民の思いを全てタカラさんに託して、必ず勝利を!!」 https://t.co/eteOZU2Auy"
+	},
+	{
+		"created_at": "Sat Jul 20 14:04:30 +0000 2019",
+		"id": 1152443033691942900,
+		"id_str": "1152580041902919681",
+		"full_text": "#大椿ゆうこ 街宣\n\n「首を切られた、元・非正規労働者、ロストジェネレーションど真ん中の、大椿ゆうこ。『首を切られた』なんてことを新橋のど真ん中で大声で言う女がいた！！覚えておいて下さい、その名前が大椿ゆうこ、大椿ゆうこでございまーす」\n\nhttps://t.co/DVkKomR93F\n\n#比例は大椿ゆうこ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "大椿ゆうこ",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "比例は大椿ゆうこ",
+					"indices": [
+						145,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152169925802246100,
+					"id_str": "1152169925802246144",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152169925802246144/pu/img/h2sgmZOJm6qUGxG9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152169925802246144/pu/img/h2sgmZOJm6qUGxG9.jpg",
+					"url": "https://t.co/DVkKomR93F",
+					"display_url": "pic.twitter.com/DVkKomR93F",
+					"expanded_url": "https://twitter.com/ohtsubaki/status/1152170217927168000/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1152170217927168000,
+					"source_status_id_str": "1152170217927168000",
+					"source_user_id": 1101108365013397500,
+					"source_user_id_str": "1101108365013397504"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152169925802246100,
+					"id_str": "1152169925802246144",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152169925802246144/pu/img/h2sgmZOJm6qUGxG9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152169925802246144/pu/img/h2sgmZOJm6qUGxG9.jpg",
+					"url": "https://t.co/DVkKomR93F",
+					"display_url": "pic.twitter.com/DVkKomR93F",
+					"expanded_url": "https://twitter.com/ohtsubaki/status/1152170217927168000/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1152170217927168000,
+					"source_status_id_str": "1152170217927168000",
+					"source_user_id": 1101108365013397500,
+					"source_user_id_str": "1101108365013397504",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31357,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1152169925802246144/pu/pl/A1hxLfR786kytC7V.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152169925802246144/pu/vid/640x360/GSnPIKR8AwmomGr8.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152169925802246144/pu/vid/480x270/NCzuoXsXdkBDl3ov.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152169925802246144/pu/vid/1280x720/JjBiuIpIxlp-ZQHG.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1101108365013397500,
+							"id_str": "1101108365013397504",
+							"name": "大椿ゆうこを推す会 #比例は大椿ゆうこ",
+							"screen_name": "ohtsubaki",
+							"location": "",
+							"description": "社民党 全国連合・労働・女性・多様性政策委員長の大椿ゆうこを応援する会。大椿の活動や思うこと、応援メッセージやヴィジョンなどをお伝えしていきます。",
+							"url": "https://t.co/XGTJDie4AA",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/XGTJDie4AA",
+											"expanded_url": "https://www.facebook.com/ohtsubaki/",
+											"display_url": "facebook.com/ohtsubaki/",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1222,
+							"friends_count": 439,
+							"listed_count": 30,
+							"created_at": "Thu Feb 28 13:14:26 +0000 2019",
+							"favourites_count": 392,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 1141,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1101137805407739904/2xMoRfMl_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101137805407739904/2xMoRfMl_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1101108365013397504/1562746703",
+							"profile_link_color": "E81C4F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1152281458066616300,
+		"in_reply_to_status_id_str": "1152281458066616325",
+		"in_reply_to_user_id": 61813946,
+		"in_reply_to_user_id_str": "61813946",
+		"in_reply_to_screen_name": "soulflowerunion",
+		"user": {
+			"id": 61813946,
+			"id_str": "61813946",
+			"name": "ソウル・フラワー・ユニオン",
+			"screen_name": "soulflowerunion",
+			"location": "OSAKA, TOKYO, OKINAWA",
+			"description": "ロック・バンド『ソウル・フラワー・ユニオン』の公式アカウント。Vocalの中川敬、またはスタッフ（#soulflower）がツイートしています。Twilog → https://t.co/4OaPk0wZ0P 出演依頼はブレスト音楽出版まで → konge@breast.co.jp",
+			"url": "https://t.co/DJygW0pcvw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DJygW0pcvw",
+							"expanded_url": "http://www.breast.co.jp/soulflower/",
+							"display_url": "breast.co.jp/soulflower/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4OaPk0wZ0P",
+							"expanded_url": "http://twilog.org/soulflowerunion",
+							"display_url": "twilog.org/soulflowerunion",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39619,
+			"friends_count": 976,
+			"listed_count": 2243,
+			"created_at": "Fri Jul 31 16:47:22 +0000 2009",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 144859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "048185",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/611231892612870144/_sxwwtpc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/611231892612870144/_sxwwtpc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61813946/1544676973",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "F2EEAC",
+			"profile_sidebar_fill_color": "F2EEAC",
+			"profile_text_color": "960E2E",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#大椿ゆうこ 街宣\n\n「首を切られた、元・非正規労働者、ロストジェネレーションど真ん中の、大椿ゆうこ。『首を切られた』なんてことを新橋のど真ん中で大声で言う女がいた！！覚えておいて下さい、その名前が大椿ゆうこ、大椿ゆうこでございまーす」\n\nhttps://t.co/DVkKomR93F\n\n#比例は大椿ゆうこ"
+	},
+	{
+		"created_at": "Sat Jul 20 14:04:17 +0000 2019",
+		"id": 1152186595383992300,
+		"id_str": "1152579985812574208",
+		"full_text": "わたしが立候補を決めてから２ヶ月。\n\n今日まで一緒に声を上げてくれた、たくさんのあなた、ありがとうございました。\n\nいよいよです。明日はもっと多くのあなたと声を上げて、必ず勝ちましょう。\n\n東京に暮らす私たちの、最後の１議席。\n\n#山岸一生 #りっけん #参院選 #選挙に行こう https://t.co/TPu10dJuMj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "山岸一生",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "りっけん",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "参院選",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "選挙に行こう",
+					"indices": [
+						132,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152186290005131300,
+					"id_str": "1152186290005131265",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152186290005131265/pu/img/Ak2QfHDlEFIyq5u9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152186290005131265/pu/img/Ak2QfHDlEFIyq5u9.jpg",
+					"url": "https://t.co/TPu10dJuMj",
+					"display_url": "pic.twitter.com/TPu10dJuMj",
+					"expanded_url": "https://twitter.com/isseiyamagishi/status/1152186595383992320/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152186290005131300,
+					"id_str": "1152186290005131265",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152186290005131265/pu/img/Ak2QfHDlEFIyq5u9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152186290005131265/pu/img/Ak2QfHDlEFIyq5u9.jpg",
+					"url": "https://t.co/TPu10dJuMj",
+					"display_url": "pic.twitter.com/TPu10dJuMj",
+					"expanded_url": "https://twitter.com/isseiyamagishi/status/1152186595383992320/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 86628,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1152186290005131265/pu/pl/sm_ilrogm6etU5vN.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152186290005131265/pu/vid/480x270/lSIAcCk8GhRUESni.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152186290005131265/pu/vid/640x360/o9kRoU3c73H3Q4fi.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152186290005131265/pu/vid/1280x720/ewTTPx0IJsYDTHHP.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131796278617100300,
+			"id_str": "1131796278617100288",
+			"name": "山岸一生 りっけん 立憲民主党",
+			"screen_name": "isseiyamagishi",
+			"location": "日本 東京",
+			"description": "立憲民主党から参院選に東京選挙区で挑戦する、山岸一生です。メッセージビデオ→ https://t.co/99Z03UCXbL（※選挙期間中、指示を受けたスタッフが投稿する場合もあります）",
+			"url": "https://t.co/dBHBEaANWd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dBHBEaANWd",
+							"expanded_url": "https://yamagishi-issei.jp",
+							"display_url": "yamagishi-issei.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/99Z03UCXbL",
+							"expanded_url": "https://twitter.com/isseiyamagishi/status/1151494687540178945?s=21",
+							"display_url": "twitter.com/isseiyamagishi…",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4156,
+			"friends_count": 748,
+			"listed_count": 102,
+			"created_at": "Fri May 24 05:37:15 +0000 2019",
+			"favourites_count": 867,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149512746901204992/CIs_8uNu_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149512746901204992/CIs_8uNu_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131796278617100288/1562900771",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 448,
+		"favorite_count": 674,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "わたしが立候補を決めてから２ヶ月。\n\n今日まで一緒に声を上げてくれた、たくさんのあなた、ありがとうございました。\n\nいよいよです。明日はもっと多くのあなたと声を上げて、必ず勝ちましょう。\n\n東京に暮らす私たちの、最後の１議席。\n\n#山岸一生 #りっけん #参院選 #選挙に行こう https://t.co/TPu10dJuMj"
+	},
+	{
+		"created_at": "Sat Jul 20 14:01:49 +0000 2019",
+		"id": 1152528004439916500,
+		"id_str": "1152579365525266432",
+		"full_text": "#浅野ふみ子「撮って（いろいろつけて）出し！」\n2019.7.20.午後\n#行徳駅\n\n#比例は共産党\n#千葉選挙区は浅野ふみ子 \n\n#手話\n#字幕\n#ジェンダー平等\n#個人の尊厳守ろう\n#選択的夫婦別姓実現を\n#障害者差別をなくす\n#選挙に行こう\n#雇用のヨーコ \n\n121秒\nスタッフより https://t.co/hdk3k7O54b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "浅野ふみ子",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "行徳駅",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "比例は共産党",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"text": "千葉選挙区は浅野ふみ子",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"text": "手話",
+					"indices": [
+						66,
+						69
+					]
+				},
+				{
+					"text": "字幕",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "ジェンダー平等",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "個人の尊厳守ろう",
+					"indices": [
+						83,
+						92
+					]
+				},
+				{
+					"text": "選択的夫婦別姓実現を",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"text": "障害者差別をなくす",
+					"indices": [
+						105,
+						115
+					]
+				},
+				{
+					"text": "選挙に行こう",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "雇用のヨーコ",
+					"indices": [
+						124,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152527740135886800,
+					"id_str": "1152527740135886849",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152527740135886849/pu/img/PmZwsZGXjKpoRJsc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152527740135886849/pu/img/PmZwsZGXjKpoRJsc.jpg",
+					"url": "https://t.co/hdk3k7O54b",
+					"display_url": "pic.twitter.com/hdk3k7O54b",
+					"expanded_url": "https://twitter.com/asafum814/status/1152528004439916544/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152527740135886800,
+					"id_str": "1152527740135886849",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152527740135886849/pu/img/PmZwsZGXjKpoRJsc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152527740135886849/pu/img/PmZwsZGXjKpoRJsc.jpg",
+					"url": "https://t.co/hdk3k7O54b",
+					"display_url": "pic.twitter.com/hdk3k7O54b",
+					"expanded_url": "https://twitter.com/asafum814/status/1152528004439916544/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 121388,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152527740135886849/pu/vid/1280x720/J-CKWxNe3zW8hTEY.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1152527740135886849/pu/pl/4X_HstwZ3v6_3iy6.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152527740135886849/pu/vid/640x360/YwLvJTS3mdgMuzk9.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152527740135886849/pu/vid/480x270/YMNcgsJoJQ0k9F6a.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 242168152,
+			"id_str": "242168152",
+			"name": "浅野ふみ子（史子）",
+			"screen_name": "asafum814",
+			"location": "千葉県",
+			"description": "《日本共産党》参議院千葉選挙区に挑戦✌\n明日の暮らしに希望を！誰もがありのままに認められ、安心して暮らせる社会を！消費税増税STOP。年金制度を守れ！原発ゼロ。オスプレイ・武器見本市反対。10歳娘、9才息子、5歳娘、夫の5人暮らし。 https://t.co/Ryi6UgPk9s",
+			"url": "https://t.co/c7YznfA593",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c7YznfA593",
+							"expanded_url": "https://ameblo.jp/asafumi814/",
+							"display_url": "ameblo.jp/asafumi814/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Ryi6UgPk9s",
+							"expanded_url": "http://facebook.com/fumiko.asano.18",
+							"display_url": "facebook.com/fumiko.asano.18",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3757,
+			"friends_count": 1534,
+			"listed_count": 113,
+			"created_at": "Mon Jan 24 03:27:12 +0000 2011",
+			"favourites_count": 2801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/749633331549970432/iodnqGhK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/749633331549970432/iodnqGhK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/242168152/1467079322",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#浅野ふみ子「撮って（いろいろつけて）出し！」\n2019.7.20.午後\n#行徳駅\n\n#比例は共産党\n#千葉選挙区は浅野ふみ子 \n\n#手話\n#字幕\n#ジェンダー平等\n#個人の尊厳守ろう\n#選択的夫婦別姓実現を\n#障害者差別をなくす\n#選挙に行こう\n#雇用のヨーコ \n\n121秒\nスタッフより https://t.co/hdk3k7O54b"
+	},
+	{
+		"created_at": "Sat Jul 20 14:00:47 +0000 2019",
+		"id": 1152533942915911700,
+		"id_str": "1152579107282018305",
+		"full_text": "ラスト安倍辞めろコール大炸裂！！\n #0720AKIHABARA https://t.co/MQDlHd25IO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "0720AKIHABARA",
+					"indices": [
+						18,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152533624756957200,
+					"id_str": "1152533624756957184",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152533624756957184/pu/img/TklG0LzTkdyCUqpX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152533624756957184/pu/img/TklG0LzTkdyCUqpX.jpg",
+					"url": "https://t.co/MQDlHd25IO",
+					"display_url": "pic.twitter.com/MQDlHd25IO",
+					"expanded_url": "https://twitter.com/runmasakirun/status/1152533942915911680/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152533624756957200,
+					"id_str": "1152533624756957184",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152533624756957184/pu/img/TklG0LzTkdyCUqpX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152533624756957184/pu/img/TklG0LzTkdyCUqpX.jpg",
+					"url": "https://t.co/MQDlHd25IO",
+					"display_url": "pic.twitter.com/MQDlHd25IO",
+					"expanded_url": "https://twitter.com/runmasakirun/status/1152533942915911680/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 71987,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152533624756957184/pu/vid/480x270/RNupnNDF0RXGYDpR.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1152533624756957184/pu/pl/EWXiVLnc2H4lR1KD.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152533624756957184/pu/vid/640x360/lO0772KVXaxvWNr6.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152533624756957184/pu/vid/1280x720/QmEBN6B_xJn-Rnfm.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1103047755944026100,
+			"id_str": "1103047755944026113",
+			"name": "∀ Masaki ∀ 肉球の末席",
+			"screen_name": "runmasakirun",
+			"location": "",
+			"description": "オッサンRunアカウント復活！。ビール🍺の為に走る人/Antifa/Anti Racism/No Hate/Motorhead教信者www/肉球新党員",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 276,
+			"friends_count": 768,
+			"listed_count": 0,
+			"created_at": "Tue Mar 05 21:40:53 +0000 2019",
+			"favourites_count": 951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148139296580222976/UEjqoIxo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148139296580222976/UEjqoIxo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1103047755944026113/1561595439",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 876,
+		"favorite_count": 1035,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ja",
+		"text": "ラスト安倍辞めろコール大炸裂！！\n #0720AKIHABARA https://t.co/MQDlHd25IO"
+	},
+	{
+		"created_at": "Sat Jul 20 13:59:57 +0000 2019",
+		"id": 1150968019150970900,
+		"id_str": "1152578898581868546",
+		"full_text": "山岸一生の想いと政策、フライヤーにまとめています☝️\n\n山岸一生とはどんな人間なのか。\nなぜ今回の選挙に立候補したのか。\n国会でどんなことをしたいのか。\n\nご覧いただけると幸いです💁‍♂️\n\n#山岸一生 #りっけん #参院選 \n\n https://t.co/foCN10a8Nw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "山岸一生",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "りっけん",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "参院選",
+					"indices": [
+						108,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/foCN10a8Nw",
+					"expanded_url": "https://twitter.com/i/moments/1150397947617538049",
+					"display_url": "twitter.com/i/moments/1150…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131796278617100300,
+			"id_str": "1131796278617100288",
+			"name": "山岸一生 りっけん 立憲民主党",
+			"screen_name": "isseiyamagishi",
+			"location": "日本 東京",
+			"description": "立憲民主党から参院選に東京選挙区で挑戦する、山岸一生です。メッセージビデオ→ https://t.co/99Z03UCXbL（※選挙期間中、指示を受けたスタッフが投稿する場合もあります）",
+			"url": "https://t.co/dBHBEaANWd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dBHBEaANWd",
+							"expanded_url": "https://yamagishi-issei.jp",
+							"display_url": "yamagishi-issei.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/99Z03UCXbL",
+							"expanded_url": "https://twitter.com/isseiyamagishi/status/1151494687540178945?s=21",
+							"display_url": "twitter.com/isseiyamagishi…",
+							"indices": [
+								39,
+								62
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4156,
+			"friends_count": 748,
+			"listed_count": 102,
+			"created_at": "Fri May 24 05:37:15 +0000 2019",
+			"favourites_count": 867,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149512746901204992/CIs_8uNu_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149512746901204992/CIs_8uNu_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131796278617100288/1562900771",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 161,
+		"favorite_count": 215,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "山岸一生の想いと政策、フライヤーにまとめています☝️\n\n山岸一生とはどんな人間なのか。\nなぜ今回の選挙に立候補したのか。\n国会でどんなことをしたいのか。\n\nご覧いただけると幸いです💁‍♂️\n\n#山岸一生 #りっけん #参院選 \n\n https://t.co/foCN10a8Nw"
+	},
+	{
+		"created_at": "Sat Jul 20 13:58:17 +0000 2019",
+		"id": 1152537182067818500,
+		"id_str": "1152578476437671936",
+		"full_text": "自民党の秋葉原演説を取材しました。麻生副首相や安倍首相の演説の際には、反政権側と支持者の衝突も。警察官ともみ合いになっている人もおり、怒号が飛び交いました。後ほど詳報します。 #0720AKIHABARA https://t.co/7eBVGfR5bP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "0720AKIHABARA",
+					"indices": [
+						88,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152536791611609100,
+					"id_str": "1152536791611609088",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152536791611609088/pu/img/qGgKDC4iZBtDXdnU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152536791611609088/pu/img/qGgKDC4iZBtDXdnU.jpg",
+					"url": "https://t.co/7eBVGfR5bP",
+					"display_url": "pic.twitter.com/7eBVGfR5bP",
+					"expanded_url": "https://twitter.com/togemaru_k/status/1152537182067818496/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152536791611609100,
+					"id_str": "1152536791611609088",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152536791611609088/pu/img/qGgKDC4iZBtDXdnU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152536791611609088/pu/img/qGgKDC4iZBtDXdnU.jpg",
+					"url": "https://t.co/7eBVGfR5bP",
+					"display_url": "pic.twitter.com/7eBVGfR5bP",
+					"expanded_url": "https://twitter.com/togemaru_k/status/1152537182067818496/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45027,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152536791611609088/pu/vid/480x270/LJlyuRS-sOVep9-a.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152536791611609088/pu/vid/640x360/RLZfxV_6gewiMLq1.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152536791611609088/pu/vid/1280x720/iKKEUWi7LkiAcGEx.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1152536791611609088/pu/pl/4wGoQ1KMEZgw9I9b.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45480751,
+			"id_str": "45480751",
+			"name": "はたちこうた Kota Hatachi",
+			"screen_name": "togemaru_k",
+			"location": "横浜→京都→熊本→横浜",
+			"description": "漢字では「籏智広太」と書きます / 朝日新聞→ BuzzFeed Japan記者（@BFJNews） / フィルムカメラ、スノーボード、トレラン / S.A.L. / タレコミ、情報提供はDMまたはメール（kota.hatachi@buzzfeed.com）までお願いします。",
+			"url": "https://t.co/8ZYmJVyuSo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8ZYmJVyuSo",
+							"expanded_url": "https://www.buzzfeed.com/kotahatachi",
+							"display_url": "buzzfeed.com/kotahatachi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8815,
+			"friends_count": 1573,
+			"listed_count": 321,
+			"created_at": "Mon Jun 08 02:27:09 +0000 2009",
+			"favourites_count": 5477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 53473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062240572159668224/UXQurRHe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062240572159668224/UXQurRHe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45480751/1499589620",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3569,
+		"favorite_count": 4932,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "自民党の秋葉原演説を取材しました。麻生副首相や安倍首相の演説の際には、反政権側と支持者の衝突も。警察官ともみ合いになっている人もおり、怒号が飛び交いました。後ほど詳報します。 #0720AKIHABARA https://t.co/7eBVGfR5bP"
+	},
+	{
+		"created_at": "Sat Jul 20 13:57:35 +0000 2019",
+		"id": 1152575337982595100,
+		"id_str": "1152578299232575490",
+		"full_text": "知らない人（韓国人）からのメール。几帳面に電話番号、年齢、住所が書いてあって、内容が「息子が二人、日本で働いていますが、韓日関係が悪く、不安な日々です。息子たちは大丈夫だと言いますが、私には現地の様子もわからず、今後が心配です。アドバイスをいただけませんか」\n\nこれは胸が詰まる。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61176247,
+			"id_str": "61176247",
+			"name": "吉方べき",
+			"screen_name": "tabisaki",
+			"location": "대한민국 서울",
+			"description": "",
+			"url": "https://t.co/IhbN3hx6IW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IhbN3hx6IW",
+							"expanded_url": "https://imidas.jp/sensoutoheiwa/?article_id=l-73-012-16-06-g629",
+							"display_url": "imidas.jp/sensoutoheiwa/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5559,
+			"friends_count": 256,
+			"listed_count": 292,
+			"created_at": "Wed Jul 29 11:52:00 +0000 2009",
+			"favourites_count": 8142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1021935840744812544/1Ct0zmk8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1021935840744812544/1Ct0zmk8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61176247/1532483468",
+			"profile_link_color": "93A600",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 296,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "知らない人（韓国人）からのメール。几帳面に電話番号、年齢、住所が書いてあって、内容が「息子が二人、日本で働いていますが、韓日関係が悪く、不安な日々です。息子たちは大丈夫だと言いますが、私には現地の様子もわからず、今後が心配です。アドバイスをいただけませんか」\n\nこれは胸が詰まる。"
+	},
+	{
+		"created_at": "Sat Jul 20 13:56:10 +0000 2019",
+		"id": 1152550070383833100,
+		"id_str": "1152577942607691776",
+		"full_text": "#FINAL街宣0720 #参院選 #立憲民主党\n#かめいし倫子 さんの演説です。\n「皆さん方の手の中にあるお金より大事な一票、政治を変える社会を変える事が出来る大切な一票、この一票を私に託してほしいんです。」 https://t.co/tAgysXOxbl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FINAL街宣0720",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "参院選",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "立憲民主党",
+					"indices": [
+						18,
+						24
+					]
+				},
+				{
+					"text": "かめいし倫子",
+					"indices": [
+						25,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152549777965371400,
+					"id_str": "1152549777965371393",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152549777965371393/pu/img/hjWzXDAw39cEMNmq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152549777965371393/pu/img/hjWzXDAw39cEMNmq.jpg",
+					"url": "https://t.co/tAgysXOxbl",
+					"display_url": "pic.twitter.com/tAgysXOxbl",
+					"expanded_url": "https://twitter.com/tama93713525/status/1152550070383833088/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152549777965371400,
+					"id_str": "1152549777965371393",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1152549777965371393/pu/img/hjWzXDAw39cEMNmq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1152549777965371393/pu/img/hjWzXDAw39cEMNmq.jpg",
+					"url": "https://t.co/tAgysXOxbl",
+					"display_url": "pic.twitter.com/tAgysXOxbl",
+					"expanded_url": "https://twitter.com/tama93713525/status/1152550070383833088/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 132767,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152549777965371393/pu/vid/480x270/B-j55-75K6tnL83l.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152549777965371393/pu/vid/640x360/LTVVMCXgzDIKXKhD.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1152549777965371393/pu/pl/2svw0To5i2KdH09j.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1152549777965371393/pu/vid/1280x720/pR-Fyat5NRKy9C5M.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 949527165619519500,
+			"id_str": "949527165619519488",
+			"name": "tama乗ったまま倶楽部",
+			"screen_name": "tama93713525",
+			"location": "",
+			"description": "鉄オタから街宣オタにジョブチェンジしました。＃立憲民主党 及び所属議員を応援してます。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 826,
+			"friends_count": 562,
+			"listed_count": 10,
+			"created_at": "Sat Jan 06 06:24:52 +0000 2018",
+			"favourites_count": 62537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/961732658978959360/227B3E_a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/961732658978959360/227B3E_a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/949527165619519488/1560172350",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 179,
+		"favorite_count": 379,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#FINAL街宣0720 #参院選 #立憲民主党\n#かめいし倫子 さんの演説です。\n「皆さん方の手の中にあるお金より大事な一票、政治を変える社会を変える事が出来る大切な一票、この一票を私に託してほしいんです。」 https://t.co/tAgysXOxbl"
+	},
+	{
+		"created_at": "Sat Jul 20 09:37:40 +0000 2019",
+		"id": 1152512890940694500,
+		"id_str": "1152512890940694528",
+		"full_text": "리플이 2개로 나오는데 1개만 보이는 건 왜일까🤔요새 계속 이러네 https://t.co/y9PP7Z2OuF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152512885349683200,
+					"id_str": "1152512885349683202",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/D_6MXOpUEAIT-FI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_6MXOpUEAIT-FI.jpg",
+					"url": "https://t.co/y9PP7Z2OuF",
+					"display_url": "pic.twitter.com/y9PP7Z2OuF",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1152512890940694528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 112,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1097,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1097,
+							"h": 180,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152512885349683200,
+					"id_str": "1152512885349683202",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/D_6MXOpUEAIT-FI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_6MXOpUEAIT-FI.jpg",
+					"url": "https://t.co/y9PP7Z2OuF",
+					"display_url": "pic.twitter.com/y9PP7Z2OuF",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1152512890940694528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 112,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1097,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1097,
+							"h": 180,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 495,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "리플이 2개로 나오는데 1개만 보이는 건 왜일까🤔요새 계속 이러네 https://t.co/y9PP7Z2OuF"
+	},
+	{
+		"created_at": "Sat Jul 20 09:35:03 +0000 2019",
+		"id": 1152512232812503000,
+		"id_str": "1152512232812503041",
+		"full_text": "이때랑 비슷한 느낌 https://t.co/aAXBeAzOr3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aAXBeAzOr3",
+					"expanded_url": "https://twitter.com/kawanoboru/status/375779641299984385?s=21",
+					"display_url": "twitter.com/kawanoboru/sta…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1152508146612523000,
+		"in_reply_to_status_id_str": "1152508146612523008",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 495,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 375779641299984400,
+		"quoted_status_id_str": "375779641299984385",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aAXBeAzOr3",
+			"expanded": "https://twitter.com/kawanoboru/status/375779641299984385?s=21",
+			"display": "twitter.com/kawanoboru/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 06 00:37:02 +0000 2013",
+			"id": 375779641299984400,
+			"id_str": "375779641299984385",
+			"full_text": "근데 한국의 모 환경운동가(나는 몰랐는데 나중에 알아보니 제법 유명한 분이었다고함)는 중국과 북한에서는 제대로 된 시민운동을 기대하기 힘드니, 일본/대만/오키나와가 힘을 모아 열심히 해보자는 (틀린 말은 아니지만) 망언을 하기도 했다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 94077994,
+				"id_str": "94077994",
+				"name": "縄",
+				"screen_name": "kawanoboru",
+				"location": "마음 만은 언제나 오키나와",
+				"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 574,
+				"friends_count": 495,
+				"listed_count": 21,
+				"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+				"favourites_count": 2439,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17513,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이때랑 비슷한 느낌 https://t.co/aAXBeAzOr3"
+	},
+	{
+		"created_at": "Sat Jul 20 09:18:49 +0000 2019",
+		"id": 1152508146612523000,
+		"id_str": "1152508146612523008",
+		"full_text": "아 방금 환뭐라는 사람의 너무나 이상한 트윗을 봄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 495,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아 방금 환뭐라는 사람의 너무나 이상한 트윗을 봄"
+	},
+	{
+		"created_at": "Sat Jul 20 08:30:17 +0000 2019",
+		"id": 1152495933487108100,
+		"id_str": "1152495933487108096",
+		"full_text": "Japan disabled challenge stigma, barriers to run for upper house seat | Article [AMP] | Reuters https://t.co/lnZkdWAPw6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lnZkdWAPw6",
+					"expanded_url": "https://www.reuters.com/article/us-japan-election-disabled-idUSKCN1UC0ZL",
+					"display_url": "reuters.com/article/us-jap…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 574,
+			"friends_count": 495,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Japan disabled challenge stigma, barriers to run for upper house seat | Article [AMP] | Reuters https://t.co/lnZkdWAPw6"
+	},
+	{
+		"created_at": "Sat Jul 20 07:37:28 +0000 2019",
+		"id": 1152478436671152100,
+		"id_str": "1152482640420732928",
+		"full_text": "吉本は沖縄国際映画祭とかお笑いの学校のみならず普天間の軍用跡地の再開発にも関わってきてるらしいから、沖縄は吉本に食い物にされるのでは？",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 98862000,
+			"id_str": "98862000",
+			"name": "n@kama",
+			"screen_name": "nonstd",
+			"location": "Okinawa, Japan",
+			"description": "沖縄在住",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 218,
+			"friends_count": 244,
+			"listed_count": 20,
+			"created_at": "Wed Dec 23 11:50:26 +0000 2009",
+			"favourites_count": 660,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186317447/9024f85d-9f8e-4b7c-9d8d-4c1a3a2eb0cb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186317447/9024f85d-9f8e-4b7c-9d8d-4c1a3a2eb0cb_normal.jpg",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "吉本は沖縄国際映画祭とかお笑いの学校のみならず普天間の軍用跡地の再開発にも関わってきてるらしいから、沖縄は吉本に食い物にされるのでは？"
+	},
+	{
 		"created_at": "Fri Jul 19 14:28:29 +0000 2019",
 		"id": 1152223688789352400,
 		"id_str": "1152223688789352455",
@@ -16,7 +3722,7 @@ Grailbird.data.tweets_2019_07 =
 			"user_mentions": [
 				{
 					"screen_name": "zenzen_wakannai",
-					"name": "☂🏴️시무シムshimu🇵🇸🎗🏳️‍🌈",
+					"name": "☂🏴️시무シムshimu🇵🇸🎗🏳️🌈",
 					"id": 404111164,
 					"id_str": "404111164",
 					"indices": [
