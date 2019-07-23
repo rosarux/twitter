@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 22 14:30:29 +0000 2019",
+		"id": 1153310487435628500,
+		"id_str": "1153311355153215488",
+		"full_text": "‘좌파의 무능’이라는 말은 분명 정치 공세에 불과하지만, 지금처럼 ‘국가’ ‘민족’이 대중에게 호소력을 발휘하는 때 대안을 내지 못하는 게 좌파의 무능 탓임도 분명. 냉소 대신 반제국주의, 인권으로 한일/일한 연대를 꾀하는 상상력은 한국이 아니라 일본 좌파에게나 기대함 직하다. 이런 걸 봐도…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1104,
+			"friends_count": 353,
+			"listed_count": 25,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 704,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘좌파의 무능’이라는 말은 분명 정치 공세에 불과하지만, 지금처럼 ‘국가’ ‘민족’이 대중에게 호소력을 발휘하는 때 대안을 내지 못하는 게 좌파의 무능 탓임도 분명. 냉소 대신 반제국주의, 인권으로 한일/일한 연대를 꾀하는 상상력은 한국이 아니라 일본 좌파에게나 기대함 직하다. 이런 걸 봐도…"
+	},
+	{
+		"created_at": "Mon Jul 22 13:32:07 +0000 2019",
+		"id": 1153282072334594000,
+		"id_str": "1153296669795966977",
+		"full_text": "今年の選挙結果を見るに、\n\n「仮に今現在の有権者のリテラシーのまま投票率が上がった場合、得票数を伸ばすのは前進チャンネルでありN国党であり新撰組なのではないか」\n\nという考えが浮かんできてしまってとてもつらい",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127904322,
+			"id_str": "127904322",
+			"name": "kim38",
+			"screen_name": "kim38_sappachi",
+			"location": "",
+			"description": "自動車整備/男声合唱動画を製作、投稿している週末スロッター。ニコニコ動画「整備」タグ再生数1位達成(19/2/25)\n\nヘッダ画像は20円スロットでの一撃最大獲得枚数の写メ。現在はミリゴゼウス（13/02/05）",
+			"url": "https://t.co/6AusImcVGa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6AusImcVGa",
+							"expanded_url": "http://sp.nicovideo.jp/mylist/24862081",
+							"display_url": "sp.nicovideo.jp/mylist/24862081",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 514,
+			"friends_count": 465,
+			"listed_count": 26,
+			"created_at": "Tue Mar 30 15:45:10 +0000 2010",
+			"favourites_count": 648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AB7DCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011954993111265280/fIwai7p0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011954993111265280/fIwai7p0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127904322/1551104935",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "今年の選挙結果を見るに、\n\n「仮に今現在の有権者のリテラシーのまま投票率が上がった場合、得票数を伸ばすのは前進チャンネルでありN国党であり新撰組なのではないか」\n\nという考えが浮かんできてしまってとてもつらい"
+	},
+	{
+		"created_at": "Mon Jul 22 09:30:28 +0000 2019",
+		"id": 1152345543449833500,
+		"id_str": "1153235856565526528",
+		"full_text": "1951〜52年の沖縄。\n\n頭に荷物を乗せて歩く女性。\n\n白黒写真を、人工知能＋手動補正によりカラー化しました。 https://t.co/lIoXdhNp3U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152345537489715200,
+					"id_str": "1152345537489715200",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/D_30KTSUwAAFZCa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_30KTSUwAAFZCa.jpg",
+					"url": "https://t.co/lIoXdhNp3U",
+					"display_url": "pic.twitter.com/lIoXdhNp3U",
+					"expanded_url": "https://twitter.com/horinyo/status/1152345543449833472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152345537489715200,
+					"id_str": "1152345537489715200",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/D_30KTSUwAAFZCa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_30KTSUwAAFZCa.jpg",
+					"url": "https://t.co/lIoXdhNp3U",
+					"display_url": "pic.twitter.com/lIoXdhNp3U",
+					"expanded_url": "https://twitter.com/horinyo/status/1152345543449833472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141643888,
+			"id_str": "141643888",
+			"name": "ホリーニョ",
+			"screen_name": "horinyo",
+			"location": "大阪 ",
+			"description": "「戦前の沖縄」をテーマに、読書したりイラストを描いたり旅をしたりしてます。映画「この世界の片隅に」「あまちゃん」「いだてん」ファン。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1730,
+			"friends_count": 413,
+			"listed_count": 51,
+			"created_at": "Sat May 08 16:33:09 +0000 2010",
+			"favourites_count": 50532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095281294622126081/GFnYOtoE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095281294622126081/GFnYOtoE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141643888/1555160163",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "1951〜52年の沖縄。\n\n頭に荷物を乗せて歩く女性。\n\n白黒写真を、人工知能＋手動補正によりカラー化しました。 https://t.co/lIoXdhNp3U"
+	},
+	{
 		"created_at": "Sun Jul 21 23:19:11 +0000 2019",
 		"id": 1153078246168076300,
 		"id_str": "1153082019498250240",
