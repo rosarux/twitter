@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 24 11:54:19 +0000 2019",
+		"id": 1153960271037075500,
+		"id_str": "1153996831354785792",
+		"full_text": "트친님 짤줍함 ㅇㄱㄹㅇ https://t.co/6XeNQYwiFm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1153960268327600000,
+					"id_str": "1153960268327600128",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EAOwwAaUwAA89so.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAOwwAaUwAA89so.jpg",
+					"url": "https://t.co/6XeNQYwiFm",
+					"display_url": "pic.twitter.com/6XeNQYwiFm",
+					"expanded_url": "https://twitter.com/xrfseoul/status/1153960271037075456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 261,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1153960268327600000,
+					"id_str": "1153960268327600128",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EAOwwAaUwAA89so.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAOwwAaUwAA89so.jpg",
+					"url": "https://t.co/6XeNQYwiFm",
+					"display_url": "pic.twitter.com/6XeNQYwiFm",
+					"expanded_url": "https://twitter.com/xrfseoul/status/1153960271037075456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 261,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2722982838,
+			"id_str": "2722982838",
+			"name": "seoul kim",
+			"screen_name": "xrfseoul",
+			"location": "",
+			"description": "박물관 좋아하는 사람. \nxrfseoul@gmail.com 🙋",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6631,
+			"friends_count": 859,
+			"listed_count": 55,
+			"created_at": "Mon Aug 11 03:04:21 +0000 2014",
+			"favourites_count": 32387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138006816267223042/NuStUvQo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138006816267223042/NuStUvQo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2722982838/1514398899",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 656,
+		"favorite_count": 233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트친님 짤줍함 ㅇㄱㄹㅇ https://t.co/6XeNQYwiFm"
+	},
+	{
 		"created_at": "Mon Jul 22 14:30:29 +0000 2019",
 		"id": 1153310487435628500,
 		"id_str": "1153311355153215488",
