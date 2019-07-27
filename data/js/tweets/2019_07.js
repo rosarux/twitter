@@ -1,6 +1,1085 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 26 21:20:11 +0000 2019",
+		"id": 1154864011491471400,
+		"id_str": "1154864011491471360",
+		"full_text": "와. 아시아나 나하행 탑승률이 86%나 되는구나. 근데 7월에 75%로 10%포인트 줄었다고...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 579,
+			"friends_count": 495,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "와. 아시아나 나하행 탑승률이 86%나 되는구나. 근데 7월에 75%로 10%포인트 줄었다고..."
+	},
+	{
+		"created_at": "Fri Jul 26 21:15:47 +0000 2019",
+		"id": 1154862820581769200,
+		"id_str": "1154862904824328192",
+		"full_text": "予約の半数もキャンセル　沖縄観光に打撃　日韓関係悪化　「対応は困難」　 https://t.co/NwIdR2fveF #韓国 #日韓関係 #沖縄観光 #okinawa #沖縄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "韓国",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "日韓関係",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "沖縄観光",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "okinawa",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						85,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NwIdR2fveF",
+					"expanded_url": "https://www.okinawatimes.co.jp/articles/-/450782",
+					"display_url": "okinawatimes.co.jp/articles/-/450…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.okinawatimes.co.jp\" rel=\"nofollow\">沖縄タイムス社TweetBot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118600653,
+			"id_str": "118600653",
+			"name": "沖縄タイムス",
+			"screen_name": "theokinawatimes",
+			"location": "沖縄県那覇市",
+			"description": "「沖縄タイムス」の公式アカウントです。沖縄のニュースをつぶやきます。情報提供はこちら↓↓ https://t.co/dRtcewvbkS",
+			"url": "http://t.co/MNvzHef3vO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MNvzHef3vO",
+							"expanded_url": "http://www.okinawatimes.co.jp",
+							"display_url": "okinawatimes.co.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dRtcewvbkS",
+							"expanded_url": "https://app.okinawatimes.co.jp/contact/info_form.php",
+							"display_url": "app.okinawatimes.co.jp/contact/info_f…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 88628,
+			"friends_count": 109,
+			"listed_count": 3222,
+			"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+			"favourites_count": 3124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 287717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1554698014",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "予約の半数もキャンセル　沖縄観光に打撃　日韓関係悪化　「対応は困難」　 https://t.co/NwIdR2fveF #韓国 #日韓関係 #沖縄観光 #okinawa #沖縄"
+	},
+	{
+		"created_at": "Fri Jul 26 16:43:58 +0000 2019",
+		"id": 1154794501988216800,
+		"id_str": "1154794501988216832",
+		"full_text": "수고하셨습니다!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 579,
+			"friends_count": 495,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "수고하셨습니다!"
+	},
+	{
+		"created_at": "Fri Jul 26 16:37:58 +0000 2019",
+		"id": 1154792753420595200,
+		"id_str": "1154792991506092034",
+		"full_text": "7月26日、明日までが任期の糸数慶子参議院議員が那覇空港に東京から帰るということで多くの支持者の皆さんが糸数慶子議員の3期14年間の国会活動への感謝の花束を持って那覇空港で出迎えた。私も駆け付けてお疲れ様の花束を手渡した。この3年間、会派・「沖縄の風」の会長としてのご活躍ありがとう。 https://t.co/OWfIat1ebc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1154792739415810000,
+					"id_str": "1154792739415810049",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EAal4M4UYAEep61.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAal4M4UYAEep61.jpg",
+					"url": "https://t.co/OWfIat1ebc",
+					"display_url": "pic.twitter.com/OWfIat1ebc",
+					"expanded_url": "https://twitter.com/ihayoichi/status/1154792753420595200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154792739415810000,
+					"id_str": "1154792739415810049",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EAal4M4UYAEep61.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAal4M4UYAEep61.jpg",
+					"url": "https://t.co/OWfIat1ebc",
+					"display_url": "pic.twitter.com/OWfIat1ebc",
+					"expanded_url": "https://twitter.com/ihayoichi/status/1154792753420595200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183185693,
+			"id_str": "183185693",
+			"name": "伊波 洋一　(いは　よういち）",
+			"screen_name": "ihayoichi",
+			"location": "沖縄",
+			"description": "沖縄県宜野湾市出身、普天間高校、琉球大学理工学部卒。沖縄県議2期、宜野湾市長２期を経て、2016年7月から参議院議員・沖縄の風。座右の銘：基地のない平和な沖縄／著書「普天間基地はあなたの隣にある。だから一緒になくしたい。」「対論・普天間基地はなくせる」「沖縄とヤマト」（かもがわ出版）等",
+			"url": "https://t.co/zwfPM26qrU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zwfPM26qrU",
+							"expanded_url": "http://ihayoichi.jp",
+							"display_url": "ihayoichi.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22857,
+			"friends_count": 5911,
+			"listed_count": 1512,
+			"created_at": "Thu Aug 26 10:45:57 +0000 2010",
+			"favourites_count": 3771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1792340090/twitter__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1792340090/twitter__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183185693/1401474190",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "7月26日、明日までが任期の糸数慶子参議院議員が那覇空港に東京から帰るということで多くの支持者の皆さんが糸数慶子議員の3期14年間の国会活動への感謝の花束を持って那覇空港で出迎えた。私も駆け付けてお疲れ様の花束を手渡した。この3年間、会派・「沖縄の風」の会長としてのご活躍ありがとう。 https://t.co/OWfIat1ebc"
+	},
+	{
+		"created_at": "Fri Jul 26 11:32:29 +0000 2019",
+		"id": 1154715910059380700,
+		"id_str": "1154716111075545089",
+		"full_text": "今日の夕焼け..浦添から。 https://t.co/TUAus34UJp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1154715826378829800,
+					"id_str": "1154715826378829825",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/EAZf7RfU8AEcnWv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAZf7RfU8AEcnWv.jpg",
+					"url": "https://t.co/TUAus34UJp",
+					"display_url": "pic.twitter.com/TUAus34UJp",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1154715910059380736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154715826378829800,
+					"id_str": "1154715826378829825",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/EAZf7RfU8AEcnWv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAZf7RfU8AEcnWv.jpg",
+					"url": "https://t.co/TUAus34UJp",
+					"display_url": "pic.twitter.com/TUAus34UJp",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1154715910059380736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1154715848625385500,
+					"id_str": "1154715848625385473",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/EAZf8kXUcAEbJdj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAZf8kXUcAEbJdj.jpg",
+					"url": "https://t.co/TUAus34UJp",
+					"display_url": "pic.twitter.com/TUAus34UJp",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1154715910059380736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1154715870385430500,
+					"id_str": "1154715870385430529",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/EAZf91bUYAEPfaq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAZf91bUYAEPfaq.jpg",
+					"url": "https://t.co/TUAus34UJp",
+					"display_url": "pic.twitter.com/TUAus34UJp",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1154715910059380736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1154715896478224400,
+					"id_str": "1154715896478224385",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/media/EAZf_WoU0AErd5Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAZf_WoU0AErd5Y.jpg",
+					"url": "https://t.co/TUAus34UJp",
+					"display_url": "pic.twitter.com/TUAus34UJp",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1154715910059380736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1440845558,
+			"id_str": "1440845558",
+			"name": "いけむらたかし",
+			"screen_name": "takashi91mile",
+			"location": "沖縄県❂okinawa-japan",
+			"description": "沖縄の景色を色んな人と楽しめて嬉しいです。沖縄の素晴らしい景色を色んな人に伝えたい。よろしくお願いします🌈【趣味】音楽･野球･読書",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23593,
+			"friends_count": 20248,
+			"listed_count": 226,
+			"created_at": "Sun May 19 10:43:57 +0000 2013",
+			"favourites_count": 42113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1440845558/1550065457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 501,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今日の夕焼け..浦添から。 https://t.co/TUAus34UJp"
+	},
+	{
+		"created_at": "Fri Jul 26 10:46:40 +0000 2019",
+		"id": 1154704584390037500,
+		"id_str": "1154704584390037505",
+		"full_text": "후지이 다케시 선생 일본으로 돌아가셨나요?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 579,
+			"friends_count": 495,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "후지이 다케시 선생 일본으로 돌아가셨나요?"
+	},
+	{
+		"created_at": "Fri Jul 26 10:41:07 +0000 2019",
+		"id": 1154678291757801500,
+		"id_str": "1154703183958040576",
+		"full_text": "参院選・比例当選者に当選証書、れいわ・舩後氏は「感無量」 https://t.co/cDaQbtwh00 #tbs #tbs_news #japan #news",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tbs",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "tbs_news",
+					"indices": [
+						58,
+						67
+					]
+				},
+				{
+					"text": "japan",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "news",
+					"indices": [
+						75,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cDaQbtwh00",
+					"expanded_url": "http://cgi.tbs.co.jp/n/Ffll",
+					"display_url": "cgi.tbs.co.jp/n/Ffll",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://news.tbs.co.jp/\" rel=\"nofollow\">TBS NEWSi </a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154415900,
+			"id_str": "154415900",
+			"name": "TBS NEWS",
+			"screen_name": "tbs_news",
+			"location": "東京・赤坂",
+			"description": "TBS/JNNの最新ニュースを24時間配信しています。▽「news23」@news23_tbs ▽「いらすとキャスター」@TBSNEWS4 ▽「Nスタ」@nst_tbs6 ▽「TBS NEWS」公式Facebook　https://t.co/X8hkPPIIFD",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/X8hkPPIIFD",
+							"expanded_url": "https://www.facebook.com/tbsnews/",
+							"display_url": "facebook.com/tbsnews/",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 114218,
+			"friends_count": 221,
+			"listed_count": 3980,
+			"created_at": "Fri Jun 11 05:08:05 +0000 2010",
+			"favourites_count": 1810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 226049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877744751839019008/TcsXijAk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877744751839019008/TcsXijAk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154415900/1506908192",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 537,
+		"favorite_count": 1221,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "参院選・比例当選者に当選証書、れいわ・舩後氏は「感無量」 https://t.co/cDaQbtwh00 #tbs #tbs_news #japan #news"
+	},
+	{
+		"created_at": "Fri Jul 26 10:26:33 +0000 2019",
+		"id": 1154677151284658200,
+		"id_str": "1154699519814017024",
+		"full_text": "すごいなあ。このニュースが全世界の障がい者の人たちにどれほどの勇気を与えただろうか。社会を変えるってこういうことなんだなあ。\n\n参院議場バリアフリー改修作業はじまる　れいわ議員対応：朝日新聞デジタル https://t.co/vPfEV6Mvpe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vPfEV6Mvpe",
+					"expanded_url": "https://www.asahi.com/articles/ASM7V3RWQM7VUTFK007.html",
+					"display_url": "asahi.com/articles/ASM7V…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 773324146709102600,
+			"id_str": "773324146709102592",
+			"name": "やんばるぐらし",
+			"screen_name": "yanbarugurashi",
+			"location": "沖縄県名護市",
+			"description": "沖縄県名護市。足を運んでこの目で見て、話して聞いて初めて分かることがある。交流しましょう。話しましょう。美ら海と希少生物の宝庫やんばるの森を守りたい。辺野古新基地建設反対、高江ヘリパッド運用反対。整備集約→❌無条件返還→⭕何が何でも沖縄に基地を作りたい日本政府に真っ向反発。非暴力不服従直接行動。いつでも愛とユーモアを。",
+			"url": "https://t.co/Duo5H4zefK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Duo5H4zefK",
+							"expanded_url": "http://yanbarugurashiyanbarugurashi.hatenablog.com",
+							"display_url": "…ugurashiyanbarugurashi.hatenablog.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5221,
+			"friends_count": 614,
+			"listed_count": 184,
+			"created_at": "Wed Sep 07 00:56:59 +0000 2016",
+			"favourites_count": 103500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/775404140901961728/f4ViwMfG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/775404140901961728/f4ViwMfG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/773324146709102592/1473706410",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3412,
+		"favorite_count": 6639,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "すごいなあ。このニュースが全世界の障がい者の人たちにどれほどの勇気を与えただろうか。社会を変えるってこういうことなんだなあ。\n\n参院議場バリアフリー改修作業はじまる　れいわ議員対応：朝日新聞デジタル https://t.co/vPfEV6Mvpe"
+	},
+	{
 		"created_at": "Thu Jul 25 22:35:14 +0000 2019",
 		"id": 1154520338065064000,
 		"id_str": "1154520509448540160",
