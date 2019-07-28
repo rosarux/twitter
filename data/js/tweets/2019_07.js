@@ -1,6 +1,2307 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 27 11:40:41 +0000 2019",
+		"id": 1155058592996835300,
+		"id_str": "1155080563176308736",
+		"full_text": "The writer who agrees to state censorship is no longer an author. https://t.co/0MLA8NHRWa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0MLA8NHRWa",
+					"expanded_url": "https://www.theguardian.com/books/2019/jul/26/yuval-noah-harari-admits-approving-censored-russian-translation-sapiens",
+					"display_url": "theguardian.com/books/2019/jul…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 412362937,
+			"id_str": "412362937",
+			"name": "Vincent Mosco",
+			"screen_name": "Vmosco",
+			"location": "Ottawa",
+			"description": "PhD Harvard. Coming in 2019: The Smart City in a Digital World, 2017: Becoming Digital:Toward a Post-Internet Society https://t.co/e6YBrOZygC",
+			"url": "http://t.co/MCnno1Pqds",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MCnno1Pqds",
+							"expanded_url": "http://vincentmosco.com",
+							"display_url": "vincentmosco.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/e6YBrOZygC",
+							"expanded_url": "http://bit.ly/2fgR5Z2",
+							"display_url": "bit.ly/2fgR5Z2",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4615,
+			"friends_count": 3150,
+			"listed_count": 139,
+			"created_at": "Mon Nov 14 15:57:38 +0000 2011",
+			"favourites_count": 4579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/635241980277166080/crrDMTRq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/635241980277166080/crrDMTRq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/412362937/1508865799",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The writer who agrees to state censorship is no longer an author. https://t.co/0MLA8NHRWa"
+	},
+	{
+		"created_at": "Sat Jul 27 11:30:31 +0000 2019",
+		"id": 1155078006978695200,
+		"id_str": "1155078006978695168",
+		"full_text": "한국 돌아와서 몇년간은 겨울 넘기기가 정말 힘들었는데 최근 몇년은 여름이 몇배 더 힘들다🥵",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 579,
+			"friends_count": 495,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "한국 돌아와서 몇년간은 겨울 넘기기가 정말 힘들었는데 최근 몇년은 여름이 몇배 더 힘들다🥵"
+	},
+	{
+		"created_at": "Sat Jul 27 11:22:56 +0000 2019",
+		"id": 1154745971059806200,
+		"id_str": "1155076095978250245",
+		"full_text": "久しぶりにカメラ片手に写真撮って来ました👍📸\n沖縄の綺麗な海と島。残さないと。\n\n#ファインダー越しの私の世界 \n#キリトリセカイ https://t.co/jxb8Pm6CZr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ファインダー越しの私の世界",
+					"indices": [
+						41,
+						55
+					]
+				},
+				{
+					"text": "キリトリセカイ",
+					"indices": [
+						57,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1154745935349444600,
+					"id_str": "1154745935349444608",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EAZ7T2JUcAAryx4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAZ7T2JUcAAryx4.jpg",
+					"url": "https://t.co/jxb8Pm6CZr",
+					"display_url": "pic.twitter.com/jxb8Pm6CZr",
+					"expanded_url": "https://twitter.com/jcpshimabuku/status/1154745971059806208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154745935349444600,
+					"id_str": "1154745935349444608",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EAZ7T2JUcAAryx4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAZ7T2JUcAAryx4.jpg",
+					"url": "https://t.co/jxb8Pm6CZr",
+					"display_url": "pic.twitter.com/jxb8Pm6CZr",
+					"expanded_url": "https://twitter.com/jcpshimabuku/status/1154745971059806208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1356,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1154745935357808600,
+					"id_str": "1154745935357808641",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EAZ7T2LUEAEdEK1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAZ7T2LUEAEdEK1.jpg",
+					"url": "https://t.co/jxb8Pm6CZr",
+					"display_url": "pic.twitter.com/jxb8Pm6CZr",
+					"expanded_url": "https://twitter.com/jcpshimabuku/status/1154745971059806208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1356,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1154745935362027500,
+					"id_str": "1154745935362027520",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EAZ7T2MUcAAWfT7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAZ7T2MUcAAWfT7.jpg",
+					"url": "https://t.co/jxb8Pm6CZr",
+					"display_url": "pic.twitter.com/jxb8Pm6CZr",
+					"expanded_url": "https://twitter.com/jcpshimabuku/status/1154745971059806208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1154745935336886300,
+					"id_str": "1154745935336886273",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EAZ7T2GU0AE60AB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAZ7T2GU0AE60AB.jpg",
+					"url": "https://t.co/jxb8Pm6CZr",
+					"display_url": "pic.twitter.com/jxb8Pm6CZr",
+					"expanded_url": "https://twitter.com/jcpshimabuku/status/1154745971059806208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 795,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2301146030,
+			"id_str": "2301146030",
+			"name": "しまぶく恵祐 【日本共産党⚙️🌾】",
+			"screen_name": "jcpshimabuku",
+			"location": "日本 沖縄",
+			"description": "沖縄市在住32歳。日本共産党沖縄中部地区委員会副委員長。元自衛隊員。平和、人権と尊厳を守り、搾取のない、抑圧のない、誰もが自分らしく生きられる社会実現のためにがんばりたい‼️👏 #JCPサポーター",
+			"url": "https://t.co/O6YRmVYoYn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O6YRmVYoYn",
+							"expanded_url": "https://www.jcp.or.jp/",
+							"display_url": "jcp.or.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2039,
+			"friends_count": 1487,
+			"listed_count": 37,
+			"created_at": "Mon Jan 20 10:15:31 +0000 2014",
+			"favourites_count": 3121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6537,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136928738107568129/F8ScGf4z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136928738107568129/F8ScGf4z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2301146030/1546853098",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 173,
+		"favorite_count": 372,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "久しぶりにカメラ片手に写真撮って来ました👍📸\n沖縄の綺麗な海と島。残さないと。\n\n#ファインダー越しの私の世界 \n#キリトリセカイ https://t.co/jxb8Pm6CZr"
+	},
+	{
+		"created_at": "Sat Jul 27 10:30:36 +0000 2019",
+		"id": 1155062925574336500,
+		"id_str": "1155062925574336514",
+		"full_text": "폄하라는 표현은 지나치지만🤔",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1155061778188914700,
+		"in_reply_to_status_id_str": "1155061778188914689",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 579,
+			"friends_count": 495,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "폄하라는 표현은 지나치지만🤔"
+	},
+	{
+		"created_at": "Sat Jul 27 10:26:02 +0000 2019",
+		"id": 1155061778188914700,
+		"id_str": "1155061778188914689",
+		"full_text": "작금의 사태는 내가 그동안 류큐내쇼날리즘이라고 폄하하던, 야카비 오사무 센세가 엘리오트의 패트리오티즘을 빌려와 설명하려 했던, 이에지마의 자하나상이 표출했던 생경한 일본 본토에 적개심을 비롯한, 여러가지 오키나와만의 무언가를  다시 돌아보게 되는 계기가 됐다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 579,
+			"friends_count": 495,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "작금의 사태는 내가 그동안 류큐내쇼날리즘이라고 폄하하던, 야카비 오사무 센세가 엘리오트의 패트리오티즘을 빌려와 설명하려 했던, 이에지마의 자하나상이 표출했던 생경한 일본 본토에 적개심을 비롯한, 여러가지 오키나와만의 무언가를  다시 돌아보게 되는 계기가 됐다."
+	},
+	{
+		"created_at": "Sat Jul 27 10:18:16 +0000 2019",
+		"id": 1155058987357753300,
+		"id_str": "1155059823181910021",
+		"full_text": "일제의 범죄 배상 문제는 제국주의, 국가, 자본 대 개인의 문제이며 국가에는 당연히 일본뿐 아니라 남한 정부도 포함된다. 박정희의 협상 결과를 보나, 모르쇠로 일관한 그 이후 남한 정부를 보나, 누구도 이 사실은 감출 수 없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1155057492675575800,
+		"in_reply_to_status_id_str": "1155057492675575810",
+		"in_reply_to_user_id": 133255001,
+		"in_reply_to_user_id_str": "133255001",
+		"in_reply_to_screen_name": "TorSean",
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1108,
+			"friends_count": 353,
+			"listed_count": 25,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "일제의 범죄 배상 문제는 제국주의, 국가, 자본 대 개인의 문제이며 국가에는 당연히 일본뿐 아니라 남한 정부도 포함된다. 박정희의 협상 결과를 보나, 모르쇠로 일관한 그 이후 남한 정부를 보나, 누구도 이 사실은 감출 수 없다."
+	},
+	{
+		"created_at": "Sat Jul 27 10:12:37 +0000 2019",
+		"id": 1155057492675575800,
+		"id_str": "1155058402835365888",
+		"full_text": "강제징용: 제국주의와 결탁한 자본의 노동 착취. 위안부: 제국주의-남성(그리고 포주)의 여성 착취. 좌파라면서 이 정도 개념도 서지 않으면 너무 불쌍하다. (게다가 제국주의와 자본의 결탁이나 제국주의 국가와 남성의 여성 착취는 일제의 특수 사례가 아니라 세계의 일반적 현상)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1108,
+			"friends_count": 353,
+			"listed_count": 25,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "강제징용: 제국주의와 결탁한 자본의 노동 착취. 위안부: 제국주의-남성(그리고 포주)의 여성 착취. 좌파라면서 이 정도 개념도 서지 않으면 너무 불쌍하다. (게다가 제국주의와 자본의 결탁이나 제국주의 국가와 남성의 여성 착취는 일제의 특수 사례가 아니라 세계의 일반적 현상)"
+	},
+	{
+		"created_at": "Sat Jul 27 09:45:20 +0000 2019",
+		"id": 1154645740360102000,
+		"id_str": "1155051537044926464",
+		"full_text": "Ho wow! (Source: Telegram) https://t.co/yNiQjrbcHt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1154645733213032400,
+					"id_str": "1154645733213032448",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EAYgLUGVUAAgxkT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAYgLUGVUAAgxkT.jpg",
+					"url": "https://t.co/yNiQjrbcHt",
+					"display_url": "pic.twitter.com/yNiQjrbcHt",
+					"expanded_url": "https://twitter.com/SunsiareHK/status/1154645740360101888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154645733213032400,
+					"id_str": "1154645733213032448",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EAYgLUGVUAAgxkT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAYgLUGVUAAgxkT.jpg",
+					"url": "https://t.co/yNiQjrbcHt",
+					"display_url": "pic.twitter.com/yNiQjrbcHt",
+					"expanded_url": "https://twitter.com/SunsiareHK/status/1154645740360101888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6700522,
+			"id_str": "6700522",
+			"name": "Jean-François Amadei",
+			"screen_name": "SunsiareHK",
+			"location": "Ouissam@equation-agency.com",
+			"description": "宀 Club Hong Kong | FGHB. Records | Homesick Records | Greater China's cultures, music scenes, trends and politics enthusiast.",
+			"url": "https://t.co/E2ezjs3tR9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E2ezjs3tR9",
+							"expanded_url": "http://www.mihn.hk",
+							"display_url": "mihn.hk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2185,
+			"friends_count": 882,
+			"listed_count": 178,
+			"created_at": "Sat Jun 09 18:06:58 +0000 2007",
+			"favourites_count": 17595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215560115/Jean-Fran_ois_Amadei_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215560115/Jean-Fran_ois_Amadei_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6700522/1404411459",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ho wow! (Source: Telegram) https://t.co/yNiQjrbcHt"
+	},
+	{
+		"created_at": "Sat Jul 27 09:27:27 +0000 2019",
+		"id": 1155044059934670800,
+		"id_str": "1155047033742323712",
+		"full_text": "糸数慶子さんをお出迎えしました。\n\n糸数議員が14年間守り続けた「平和の1議席」ようやく真に受け継ぐことができました。選挙中もいろいろと本当にお世話になりました。ありがとうございました。\n\n守り抜いて行く責任の重さを感じながら、頑張って参ります。 https://t.co/yvnNesOTEy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1155044053802557400,
+					"id_str": "1155044053802557440",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EAeKcn7UIAArA-Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAeKcn7UIAArA-Y.jpg",
+					"url": "https://t.co/yvnNesOTEy",
+					"display_url": "pic.twitter.com/yvnNesOTEy",
+					"expanded_url": "https://twitter.com/takaratetsumi19/status/1155044059934670856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1155044053802557400,
+					"id_str": "1155044053802557440",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EAeKcn7UIAArA-Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAeKcn7UIAArA-Y.jpg",
+					"url": "https://t.co/yvnNesOTEy",
+					"display_url": "pic.twitter.com/yvnNesOTEy",
+					"expanded_url": "https://twitter.com/takaratetsumi19/status/1155044059934670856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1128542589831995400,
+			"id_str": "1128542589831995392",
+			"name": "高良鉄美 たから てつみ",
+			"screen_name": "takaratetsumi19",
+			"location": "沖縄県",
+			"description": "参議院議員のタカラ鉄美です。憲法学者として日本国憲法を35年研究してきた経験を基に、平和憲法を守り、活かすことを国政の場で取り組んで参ります。琉球大学名誉教授/沖縄県憲法普及協議会会長/オール沖縄会議共同代表/命どぅ宝/ ★Homepage https://t.co/xJgVgU8XFH",
+			"url": "https://t.co/HcZB1vSJWM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HcZB1vSJWM",
+							"expanded_url": "https://takara-okinawa.jp/",
+							"display_url": "takara-okinawa.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xJgVgU8XFH",
+							"expanded_url": "http://takara-okinawa.jp",
+							"display_url": "takara-okinawa.jp",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2067,
+			"friends_count": 632,
+			"listed_count": 52,
+			"created_at": "Wed May 15 06:08:15 +0000 2019",
+			"favourites_count": 177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135702775705231360/we6f8Qtm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135702775705231360/we6f8Qtm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1128542589831995392/1557910228",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "糸数慶子さんをお出迎えしました。\n\n糸数議員が14年間守り続けた「平和の1議席」ようやく真に受け継ぐことができました。選挙中もいろいろと本当にお世話になりました。ありがとうございました。\n\n守り抜いて行く責任の重さを感じながら、頑張って参ります。 https://t.co/yvnNesOTEy"
+	},
+	{
+		"created_at": "Sat Jul 27 08:07:35 +0000 2019",
+		"id": 1154980883524251600,
+		"id_str": "1155026933844889602",
+		"full_text": "사람의 시각에 따라선 국가이익을 위해 노동자들 개인이 체불임금, 노예노동에 대한 보상을 받지 못하도록 억압하는 길을 택한 중국을 찬양할 수도 있겠죠. \n\n다만 그런 주장을 한다면 스스로 노동권을 옹호한다고 여기거나, 좌파라고 자칭하는 건 포기하는게 옳겠지요. https://t.co/N2HhSJTVPr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N2HhSJTVPr",
+					"expanded_url": "https://twitter.com/191710/status/1154962502314127360",
+					"display_url": "twitter.com/191710/status/…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://github.com/mariotaku/twidere/\" rel=\"nofollow\">Twidere for Android #7</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978958151016882200,
+			"id_str": "978958151016882176",
+			"name": "메가진화같은건 무리인 플라이곤",
+			"screen_name": "flygon42",
+			"location": "한카리아스가 내쫒지 않는 어딘가",
+			"description": "생각하시는대로 저보다 더 나은 대안이 많습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 216,
+			"listed_count": 3,
+			"created_at": "Wed Mar 28 11:33:06 +0000 2018",
+			"favourites_count": 1112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980100386492055553/Yr43d5oY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980100386492055553/Yr43d5oY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978958151016882176/1522562548",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1154962502314127400,
+		"quoted_status_id_str": "1154962502314127360",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N2HhSJTVPr",
+			"expanded": "https://twitter.com/191710/status/1154962502314127360",
+			"display": "twitter.com/191710/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 27 03:51:33 +0000 2019",
+			"id": 1154962502314127400,
+			"id_str": "1154962502314127360",
+			"full_text": "중국은 일본과 수교협상을 진행하면서 아예 배상청구를 하지 않는다.\n\n배상은 결국 일본인민의 부담으로 돌아가는데, \"일본인민과 세세대대 우호적이 되어간다고 하는 우리들의 희망과 상반되는 것\"이라는 이유(주은래).\n\n두번째 배상을 요구 중인 한국과는 다른 접근. https://t.co/iCbu0VxIEC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1154962492730142700,
+						"id_str": "1154962492730142720",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/EAdARJQUcAATGDF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAdARJQUcAATGDF.jpg",
+						"url": "https://t.co/iCbu0VxIEC",
+						"display_url": "pic.twitter.com/iCbu0VxIEC",
+						"expanded_url": "https://twitter.com/191710/status/1154962502314127360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1192,
+								"h": 365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1192,
+								"h": 365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 208,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1154962492730142700,
+						"id_str": "1154962492730142720",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/EAdARJQUcAATGDF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAdARJQUcAATGDF.jpg",
+						"url": "https://t.co/iCbu0VxIEC",
+						"display_url": "pic.twitter.com/iCbu0VxIEC",
+						"expanded_url": "https://twitter.com/191710/status/1154962502314127360/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1192,
+								"h": 365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1192,
+								"h": 365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 208,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1154961075969785900,
+			"in_reply_to_status_id_str": "1154961075969785856",
+			"in_reply_to_user_id": 144092619,
+			"in_reply_to_user_id_str": "144092619",
+			"in_reply_to_screen_name": "191710",
+			"user": {
+				"id": 144092619,
+				"id_str": "144092619",
+				"name": "겨울철쭉__박준형",
+				"screen_name": "191710",
+				"location": "글쎄,지금 있고싶은곳에 있겠지",
+				"description": "노동자운동으로 대안세계를! 플픽은 플루토의 아톰 :) 애국자가 없는 세상(권정생) https://t.co/EgUFIxL8Ip",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/EgUFIxL8Ip",
+								"expanded_url": "http://bit.ly/J0aF3i",
+								"display_url": "bit.ly/J0aF3i",
+								"indices": [
+									46,
+									69
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4459,
+				"friends_count": 1853,
+				"listed_count": 111,
+				"created_at": "Sat May 15 08:12:38 +0000 2010",
+				"favourites_count": 2502,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18243,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/144092619/1351336150",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 126,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사람의 시각에 따라선 국가이익을 위해 노동자들 개인이 체불임금, 노예노동에 대한 보상을 받지 못하도록 억압하는 길을 택한 중국을 찬양할 수도 있겠죠. \n\n다만 그런 주장을 한다면 스스로 노동권을 옹호한다고 여기거나, 좌파라고 자칭하는 건 포기하는게 옳겠지요. https://t.co/N2HhSJTVPr"
+	},
+	{
+		"created_at": "Sat Jul 27 07:10:48 +0000 2019",
+		"id": 1154190138404040700,
+		"id_str": "1155012646711599104",
+		"full_text": "군인권센터 임태훈 미필이라고 까는 밀덕들 보면 한심함. 임태훈이 미필인걸 까기 전에 그 군문에 발 들이기 싫다고 깜빵까지 간 양반이 대한민국 대다수 전역자들보다 군인권에 더 관심이 많고 군인권센터가 붐빌 정도로 군대의 고충처리 시스템이 개판인거에 문제의식을 느껴야 하는거 아닌가?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1593233090,
+			"id_str": "1593233090",
+			"name": "캡랟",
+			"screen_name": "Cpt6408",
+			"location": "",
+			"description": "지구는 넓고 xx는 많다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 328,
+			"friends_count": 3878,
+			"listed_count": 4,
+			"created_at": "Sun Jul 14 11:59:57 +0000 2013",
+			"favourites_count": 5706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1150959917731213313/kTexwDNd_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150959917731213313/kTexwDNd_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1593233090/1553512514",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 452,
+		"favorite_count": 184,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "군인권센터 임태훈 미필이라고 까는 밀덕들 보면 한심함. 임태훈이 미필인걸 까기 전에 그 군문에 발 들이기 싫다고 깜빵까지 간 양반이 대한민국 대다수 전역자들보다 군인권에 더 관심이 많고 군인권센터가 붐빌 정도로 군대의 고충처리 시스템이 개판인거에 문제의식을 느껴야 하는거 아닌가?"
+	},
+	{
+		"created_at": "Sat Jul 27 06:18:57 +0000 2019",
+		"id": 1154745652334612500,
+		"id_str": "1154999597980250112",
+		"full_text": "확인된 사실 있었던 사건과 관계된 인물을 있는 그대로 묻는데 그게 자기들을 겨냥히는 무기처럼 여겨진다면 그냥 과거에 지은 죄가 많은 것뿐 아닌지. https://t.co/8wENjKweGC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8wENjKweGC",
+					"expanded_url": "https://twitter.com/erotize_u/status/1154551244913930241",
+					"display_url": "twitter.com/erotize_u/stat…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3235646006,
+			"id_str": "3235646006",
+			"name": "그냥냥씨",
+			"screen_name": "NyaNyaNyangC",
+			"location": "오타쿠웨이",
+			"description": "어딜 보고있습니까? 여긴 제 잔상입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1315,
+			"friends_count": 898,
+			"listed_count": 30,
+			"created_at": "Thu Jun 04 03:14:06 +0000 2015",
+			"favourites_count": 5872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154843238634668032/iwO3Lld3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154843238634668032/iwO3Lld3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3235646006/1563720796",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1154551244913930200,
+		"quoted_status_id_str": "1154551244913930241",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8wENjKweGC",
+			"expanded": "https://twitter.com/erotize_u/status/1154551244913930241",
+			"display": "twitter.com/erotize_u/stat…"
+		},
+		"retweet_count": 2030,
+		"favorite_count": 454,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "확인된 사실 있었던 사건과 관계된 인물을 있는 그대로 묻는데 그게 자기들을 겨냥히는 무기처럼 여겨진다면 그냥 과거에 지은 죄가 많은 것뿐 아닌지. https://t.co/8wENjKweGC"
+	},
+	{
+		"created_at": "Sat Jul 27 05:28:53 +0000 2019",
+		"id": 1154983889493880800,
+		"id_str": "1154986997515075589",
+		"full_text": "内地の最高気温が沖縄の最低気温のときがある！ #あるあると思ったらRT #沖縄あるある",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "あるあると思ったらRT",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"text": "沖縄あるある",
+					"indices": [
+						36,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 621651382,
+			"id_str": "621651382",
+			"name": "沖縄あるある",
+			"screen_name": "okiaru",
+			"location": "沖縄(Okinawa)",
+			"description": "沖縄あるあるをまとめたbot★約2時間ごとにあるある発信(0～7時の間はつぶやきません)★あるあると思ったらRT★流しても良い沖縄あるあるを思いついたら教えてください★返事は気まぐれ★ ※100%全ての沖縄県民、地域にあてはまるということではないのでご了承ください",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44565,
+			"friends_count": 2,
+			"listed_count": 176,
+			"created_at": "Fri Jun 29 06:56:06 +0000 2012",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2351508598/hngr7mdgdsdcz1fbvepy_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2351508598/hngr7mdgdsdcz1fbvepy_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/621651382/1439522650",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "内地の最高気温が沖縄の最低気温のときがある！ #あるあると思ったらRT #沖縄あるある"
+	},
+	{
+		"created_at": "Sat Jul 27 04:38:42 +0000 2019",
+		"id": 1154974367065018400,
+		"id_str": "1154974367065018368",
+		"full_text": "저 선생님 실은 마오주의자셨나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 579,
+			"friends_count": 495,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "저 선생님 실은 마오주의자셨나"
+	},
+	{
+		"created_at": "Sat Jul 27 04:37:14 +0000 2019",
+		"id": 1154963652874649600,
+		"id_str": "1154973999694172161",
+		"full_text": "베트남 시민들과 월남전 한국군의 만행에 대해 반성하려는 한국 시민사회까지 바보 만드는 중이군... 탈민족주의 뽕을 극한으로 맞으면 이런 인간이 된다 https://t.co/dgMu5fAlEp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dgMu5fAlEp",
+					"expanded_url": "https://twitter.com/191710/status/1154961075969785856",
+					"display_url": "twitter.com/191710/status/…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1123222322234527700,
+			"id_str": "1123222322234527744",
+			"name": "🏹🍌🇫🇷☀️Trauersamen🛵🌸👑⭐⚾️📓",
+			"screen_name": "trauersamen",
+			"location": "",
+			"description": "#PrayForKyoani / 쥰나나 최애, 세이쇼 중심, 추가로 야치후미 오시 / 와갤요리 만드는 더불어만주당 제5열 바이로맨틱 퀴어 / 일단은 Ph.D candidate / 혐성치료는 수라의 길 / 구독계만은 블락함 / 친구 전용 우라계 @insinuatsiya",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76,
+			"friends_count": 679,
+			"listed_count": 1,
+			"created_at": "Tue Apr 30 13:47:24 +0000 2019",
+			"favourites_count": 756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1153863864812855296/jdz_hZMs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1153863864812855296/jdz_hZMs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1123222322234527744/1563457071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1154961075969785900,
+		"quoted_status_id_str": "1154961075969785856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dgMu5fAlEp",
+			"expanded": "https://twitter.com/191710/status/1154961075969785856",
+			"display": "twitter.com/191710/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 27 03:45:53 +0000 2019",
+			"id": 1154961075969785900,
+			"id_str": "1154961075969785856",
+			"full_text": "이창휘 국제노동기구(ILO) 베트남 사무소장 인터뷰. \n\n주로 ILO협약비준에 대한 것이지만, 역사분쟁에 대해서도 언급하는데 둘다 배울점이 있다.\n\n\"과거를 포용하고 현재를 살아간다\"는 것이 핵심.\n\n자력으로 민족해방을 쟁취한 민족의 여유랄까, 한국인과는 대조적인 태도.\n\nhttps://t.co/Qtuy97JAXq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Qtuy97JAXq",
+						"expanded_url": "http://m.hankookilbo.com/News/Read/201907241578341085",
+						"display_url": "m.hankookilbo.com/News/Read/2019…",
+						"indices": [
+							153,
+							176
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 144092619,
+				"id_str": "144092619",
+				"name": "겨울철쭉__박준형",
+				"screen_name": "191710",
+				"location": "글쎄,지금 있고싶은곳에 있겠지",
+				"description": "노동자운동으로 대안세계를! 플픽은 플루토의 아톰 :) 애국자가 없는 세상(권정생) https://t.co/EgUFIxL8Ip",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/EgUFIxL8Ip",
+								"expanded_url": "http://bit.ly/J0aF3i",
+								"display_url": "bit.ly/J0aF3i",
+								"indices": [
+									46,
+									69
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4459,
+				"friends_count": 1853,
+				"listed_count": 111,
+				"created_at": "Sat May 15 08:12:38 +0000 2010",
+				"favourites_count": 2502,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18243,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121100238/___-022_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/144092619/1351336150",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 147,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "베트남 시민들과 월남전 한국군의 만행에 대해 반성하려는 한국 시민사회까지 바보 만드는 중이군... 탈민족주의 뽕을 극한으로 맞으면 이런 인간이 된다 https://t.co/dgMu5fAlEp"
+	},
+	{
+		"created_at": "Sat Jul 27 03:18:36 +0000 2019",
+		"id": 1154614537104044000,
+		"id_str": "1154954208988127232",
+		"full_text": "虹を作るクジラ。\nこれはいい事ありそう。 https://t.co/5tLKJVFShw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109319832904720400,
+					"id_str": "1109319832904720385",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1109319832904720385/pu/img/-AF6gZfBf8qikYLQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1109319832904720385/pu/img/-AF6gZfBf8qikYLQ.jpg",
+					"url": "https://t.co/5tLKJVFShw",
+					"display_url": "pic.twitter.com/5tLKJVFShw",
+					"expanded_url": "https://twitter.com/jamafra1243/status/1109319881541865472/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1109319881541865500,
+					"source_status_id_str": "1109319881541865472",
+					"source_user_id": 2402512920,
+					"source_user_id_str": "2402512920"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109319832904720400,
+					"id_str": "1109319832904720385",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1109319832904720385/pu/img/-AF6gZfBf8qikYLQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1109319832904720385/pu/img/-AF6gZfBf8qikYLQ.jpg",
+					"url": "https://t.co/5tLKJVFShw",
+					"display_url": "pic.twitter.com/5tLKJVFShw",
+					"expanded_url": "https://twitter.com/jamafra1243/status/1109319881541865472/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1109319881541865500,
+					"source_status_id_str": "1109319881541865472",
+					"source_user_id": 2402512920,
+					"source_user_id_str": "2402512920",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 13948,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1109319832904720385/pu/pl/g9a1590QUW84KPad.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1109319832904720385/pu/vid/400x400/BXbzeVhf-8V5JCHj.mp4?tag=8"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1109319832904720385/pu/vid/320x320/XQa8_wBMNCwrmRRg.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 2402512920,
+							"id_str": "2402512920",
+							"name": "自然・動物・生き物-スマホケース販売中！-",
+							"screen_name": "jamafra1243",
+							"location": "日本",
+							"description": "ミライノシテンの中でも自然系の情報を発信する 。 自然の脅威や、かわいい動物、驚くべき生態など、、Amazonでアートなスマホケース販売中チェック→https://t.co/KJCWwx5riW",
+							"url": "https://t.co/Z1DhPGHHc8",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/Z1DhPGHHc8",
+											"expanded_url": "https://www.mirainoshitenclassic.com/",
+											"display_url": "mirainoshitenclassic.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/KJCWwx5riW",
+											"expanded_url": "https://amzn.to/2Wq99TH",
+											"display_url": "amzn.to/2Wq99TH",
+											"indices": [
+												74,
+												97
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 31871,
+							"friends_count": 6913,
+							"listed_count": 412,
+							"created_at": "Sat Mar 22 02:51:01 +0000 2014",
+							"favourites_count": 6520,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 16007,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/799853595059310592/7n3MbCy5_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/799853595059310592/7n3MbCy5_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/2402512920/1560251897",
+							"profile_link_color": "19CF86",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://botbird.net\" rel=\"nofollow\">Botbird tweets</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2402512920,
+			"id_str": "2402512920",
+			"name": "自然・動物・生き物-スマホケース販売中！-",
+			"screen_name": "jamafra1243",
+			"location": "日本",
+			"description": "ミライノシテンの中でも自然系の情報を発信する 。 自然の脅威や、かわいい動物、驚くべき生態など、、Amazonでアートなスマホケース販売中チェック→https://t.co/KJCWwx5riW",
+			"url": "https://t.co/Z1DhPGHHc8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z1DhPGHHc8",
+							"expanded_url": "https://www.mirainoshitenclassic.com/",
+							"display_url": "mirainoshitenclassic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KJCWwx5riW",
+							"expanded_url": "https://amzn.to/2Wq99TH",
+							"display_url": "amzn.to/2Wq99TH",
+							"indices": [
+								74,
+								97
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31871,
+			"friends_count": 6913,
+			"listed_count": 412,
+			"created_at": "Sat Mar 22 02:51:01 +0000 2014",
+			"favourites_count": 6520,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/799853595059310592/7n3MbCy5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/799853595059310592/7n3MbCy5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2402512920/1560251897",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11085,
+		"favorite_count": 44186,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "虹を作るクジラ。\nこれはいい事ありそう。 https://t.co/5tLKJVFShw"
+	},
+	{
 		"created_at": "Fri Jul 26 21:20:11 +0000 2019",
 		"id": 1154864011491471400,
 		"id_str": "1154864011491471360",
