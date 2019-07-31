@@ -1,6 +1,939 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 30 15:49:55 +0000 2019",
+		"id": 1156112302648770600,
+		"id_str": "1156230447493312513",
+		"full_text": "29日、沖縄県竹富町の西表島の沖合でロープが巻きついたジンベエザメが見つかり、ダイバーたちが協力してロープを切断し、ジンベエザメを助けました。\nhttps://t.co/G2TvklTOag\n#nhk_news #nhk_video https://t.co/7kjUzbk5fW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nhk_news",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"text": "nhk_video",
+					"indices": [
+						106,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G2TvklTOag",
+					"expanded_url": "https://www3.nhk.or.jp/news/html/20190730/k10012014271000.html",
+					"display_url": "www3.nhk.or.jp/news/html/2019…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1156112274878345200,
+					"id_str": "1156112274878345217",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1156112274878345217/pu/img/v8soROnDNBQbUjoL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1156112274878345217/pu/img/v8soROnDNBQbUjoL.jpg",
+					"url": "https://t.co/7kjUzbk5fW",
+					"display_url": "pic.twitter.com/7kjUzbk5fW",
+					"expanded_url": "https://twitter.com/nhk_news/status/1156112302648770560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156112274878345200,
+					"id_str": "1156112274878345217",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1156112274878345217/pu/img/v8soROnDNBQbUjoL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1156112274878345217/pu/img/v8soROnDNBQbUjoL.jpg",
+					"url": "https://t.co/7kjUzbk5fW",
+					"display_url": "pic.twitter.com/7kjUzbk5fW",
+					"expanded_url": "https://twitter.com/nhk_news/status/1156112302648770560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40941,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1156112274878345217/pu/pl/X5oNpZbrLWAbdTjH.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1156112274878345217/pu/vid/640x360/blAr-TayKQ5copM6.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1156112274878345217/pu/vid/480x270/FKXkufdAwxHPRzZz.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 204245399,
+			"id_str": "204245399",
+			"name": "NHKニュース",
+			"screen_name": "nhk_news",
+			"location": "東京都渋谷区神南2-2-1",
+			"description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 http://t.co/Q11WanxIUh をご確認、ご了承ください。問い合わせは http://t.co/QHu5wdeNyR",
+			"url": "https://t.co/8JA06ePKUg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8JA06ePKUg",
+							"expanded_url": "http://nhk.jp/news",
+							"display_url": "nhk.jp/news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/Q11WanxIUh",
+							"expanded_url": "http://nhk.jp/rules",
+							"display_url": "nhk.jp/rules",
+							"indices": [
+								42,
+								64
+							]
+						},
+						{
+							"url": "http://t.co/QHu5wdeNyR",
+							"expanded_url": "http://www.nhk.or.jp/css/",
+							"display_url": "nhk.or.jp/css/",
+							"indices": [
+								85,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2670758,
+			"friends_count": 19,
+			"listed_count": 60535,
+			"created_at": "Mon Oct 18 08:15:29 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 403286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/712261429701713920/mkdC8tNc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/712261429701713920/mkdC8tNc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2945,
+		"favorite_count": 7463,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "29日、沖縄県竹富町の西表島の沖合でロープが巻きついたジンベエザメが見つかり、ダイバーたちが協力してロープを切断し、ジンベエザメを助けました。\nhttps://t.co/G2TvklTOag\n#nhk_news #nhk_video https://t.co/7kjUzbk5fW"
+	},
+	{
+		"created_at": "Tue Jul 30 11:06:42 +0000 2019",
+		"id": 1156158918294290400,
+		"id_str": "1156159177607090176",
+		"full_text": "今日の夕焼け空✨首里から。\n那覇の夜景と夕空..綺麗でした https://t.co/17KsWGyDa6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1156158833275723800,
+					"id_str": "1156158833275723776",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EAuAVVFUYAANwmR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAuAVVFUYAANwmR.jpg",
+					"url": "https://t.co/17KsWGyDa6",
+					"display_url": "pic.twitter.com/17KsWGyDa6",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1156158918294290432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156158833275723800,
+					"id_str": "1156158833275723776",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EAuAVVFUYAANwmR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAuAVVFUYAANwmR.jpg",
+					"url": "https://t.co/17KsWGyDa6",
+					"display_url": "pic.twitter.com/17KsWGyDa6",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1156158918294290432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156158857476890600,
+					"id_str": "1156158857476890624",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EAuAWvPU4AAkd1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAuAWvPU4AAkd1Q.jpg",
+					"url": "https://t.co/17KsWGyDa6",
+					"display_url": "pic.twitter.com/17KsWGyDa6",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1156158918294290432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156158880608469000,
+					"id_str": "1156158880608468992",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EAuAYFaUwAAwTgr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAuAYFaUwAAwTgr.jpg",
+					"url": "https://t.co/17KsWGyDa6",
+					"display_url": "pic.twitter.com/17KsWGyDa6",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1156158918294290432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156158904297873400,
+					"id_str": "1156158904297873409",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EAuAZdqUYAE_JIr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAuAZdqUYAE_JIr.jpg",
+					"url": "https://t.co/17KsWGyDa6",
+					"display_url": "pic.twitter.com/17KsWGyDa6",
+					"expanded_url": "https://twitter.com/takashi91mile/status/1156158918294290432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1440845558,
+			"id_str": "1440845558",
+			"name": "いけむらたかし",
+			"screen_name": "takashi91mile",
+			"location": "沖縄県❂okinawa-japan",
+			"description": "沖縄の景色を色んな人と楽しめて嬉しいです。沖縄の素晴らしい景色を色んな人に伝えたい。よろしくお願いします🌈【趣味】音楽･野球･読書",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23590,
+			"friends_count": 20238,
+			"listed_count": 226,
+			"created_at": "Sun May 19 10:43:57 +0000 2013",
+			"favourites_count": 42148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1440845558/1550065457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 542,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今日の夕焼け空✨首里から。\n那覇の夜景と夕空..綺麗でした https://t.co/17KsWGyDa6"
+	},
+	{
+		"created_at": "Tue Jul 30 10:10:01 +0000 2019",
+		"id": 1156142687117930500,
+		"id_str": "1156144912162627586",
+		"full_text": "作家・崎山多美（西表島出身）\n「うんじゅが、ナサキ」（2016 花書院・刊）\n\n韓国語翻訳され、「日本近現代女性文学選集」に収録された。\n翻訳者・孫知延さんによる「刊行の意義」\n韓国では、崎山のほか、目取真俊・大城貞俊・又吉栄喜などだ翻訳紹介されており、関心も高い。\n\nタイムス https://t.co/L7hk3JXO2r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1156142680339972000,
+					"id_str": "1156142680339972096",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EAtxpGtVAAANAxW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAtxpGtVAAANAxW.jpg",
+					"url": "https://t.co/L7hk3JXO2r",
+					"display_url": "pic.twitter.com/L7hk3JXO2r",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1156142687117930497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1062,
+							"h": 1558,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1156142680339972000,
+					"id_str": "1156142680339972096",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EAtxpGtVAAANAxW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAtxpGtVAAANAxW.jpg",
+					"url": "https://t.co/L7hk3JXO2r",
+					"display_url": "pic.twitter.com/L7hk3JXO2r",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1156142687117930497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 818,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1062,
+							"h": 1558,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156142680344150000,
+					"id_str": "1156142680344150016",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EAtxpGuUwAAkbKu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAtxpGuUwAAkbKu.jpg",
+					"url": "https://t.co/L7hk3JXO2r",
+					"display_url": "pic.twitter.com/L7hk3JXO2r",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1156142687117930497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1070,
+							"h": 1182,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 616,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1070,
+							"h": 1182,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1156142680339972000,
+					"id_str": "1156142680339972097",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EAtxpGtVAAErxJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAtxpGtVAAErxJ-.jpg",
+					"url": "https://t.co/L7hk3JXO2r",
+					"display_url": "pic.twitter.com/L7hk3JXO2r",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1156142687117930497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 804,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 974,
+							"h": 1454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 976478731026890800,
+			"id_str": "976478731026890752",
+			"name": "BARANEKO",
+			"screen_name": "BARANEKO0409",
+			"location": "",
+			"description": "まことのことばはうしなはれ/雲はちぎれてそらをとぶ/ああかがやきの四月の底を/はぎしり燃えてゆききする(賢治）",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1556,
+			"friends_count": 540,
+			"listed_count": 35,
+			"created_at": "Wed Mar 21 15:20:46 +0000 2018",
+			"favourites_count": 3689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035183513962569728/bZB5QjPy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035183513962569728/bZB5QjPy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/976478731026890752/1563796430",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "作家・崎山多美（西表島出身）\n「うんじゅが、ナサキ」（2016 花書院・刊）\n\n韓国語翻訳され、「日本近現代女性文学選集」に収録された。\n翻訳者・孫知延さんによる「刊行の意義」\n韓国では、崎山のほか、目取真俊・大城貞俊・又吉栄喜などだ翻訳紹介されており、関心も高い。\n\nタイムス https://t.co/L7hk3JXO2r"
+	},
+	{
+		"created_at": "Tue Jul 30 03:54:50 +0000 2019",
+		"id": 1156050491714834400,
+		"id_str": "1156050491714834433",
+		"full_text": "右と左が一夜で逆転した日　沖縄「ナナサンマル」狂騒曲 - 琉球新報 - 沖縄の新聞、地域のニュース https://t.co/6QaFXri73C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6QaFXri73C",
+					"expanded_url": "https://ryukyushimpo.jp/news/entry-771409.html?fbclid=IwAR3buasJBZdVogUwFlMnLQrHuGaoflU5CiHnIcZvZKPrK-tgLCl-CuBlmrQ",
+					"display_url": "ryukyushimpo.jp/news/entry-771…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577,
+			"friends_count": 496,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "右と左が一夜で逆転した日　沖縄「ナナサンマル」狂騒曲 - 琉球新報 - 沖縄の新聞、地域のニュース https://t.co/6QaFXri73C"
+	},
+	{
+		"created_at": "Tue Jul 30 01:27:13 +0000 2019",
+		"id": 1155994973893886000,
+		"id_str": "1156013343515136000",
+		"full_text": "和田春樹先生が中心になり、日本政府の韓国に対する半導体製造に不可欠な品目の輸出規制に反対する署名活動が開始されている。徴用工問題への嫌がらせと言えないものだから、安全保障上の理由としているが、それは韓国を敵と見ていることになる。敵を作って攻撃して支持率を上げる、政権の末期症状だ。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97244324,
+			"id_str": "97244324",
+			"name": "鳩山由紀夫",
+			"screen_name": "hatoyamayukio",
+			"location": "JAPAN",
+			"description": "政治の話に限らず、身辺に起こったいろいろな話題について書いていければと思っています。ご意見ご感想は @hatoyamayukio でお願いいたします。",
+			"url": "http://t.co/7UM0Rv8toT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7UM0Rv8toT",
+							"expanded_url": "http://www.eaci.or.jp/",
+							"display_url": "eaci.or.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 828657,
+			"friends_count": 117381,
+			"listed_count": 26029,
+			"created_at": "Wed Dec 16 16:44:30 +0000 2009",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5BB007",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/603040601/hatoyama_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/603040601/hatoyama_normal.png",
+			"profile_link_color": "0DA100",
+			"profile_sidebar_border_color": "DBDBDB",
+			"profile_sidebar_fill_color": "F2F2F2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1727,
+		"favorite_count": 2840,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "和田春樹先生が中心になり、日本政府の韓国に対する半導体製造に不可欠な品目の輸出規制に反対する署名活動が開始されている。徴用工問題への嫌がらせと言えないものだから、安全保障上の理由としているが、それは韓国を敵と見ていることになる。敵を作って攻撃して支持率を上げる、政権の末期症状だ。"
+	},
+	{
 		"created_at": "Mon Jul 29 00:53:52 +0000 2019",
 		"id": 1155640910106857500,
 		"id_str": "1155642562356531200",
