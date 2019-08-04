@@ -1,6 +1,600 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 03 09:34:35 +0000 2019",
+		"id": 1157166589382316000,
+		"id_str": "1157585546517991424",
+		"full_text": "慰安婦像と呼ばれるあれは(日本式)被搾取労働者像であり、つまり俺らの像だろうよ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 223783078,
+			"id_str": "223783078",
+			"name": "sakai takafumi",
+			"screen_name": "koukanjyo",
+			"location": "",
+			"description": "works → Instagram",
+			"url": "https://t.co/mo5rBmR4jq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mo5rBmR4jq",
+							"expanded_url": "https://www.instagram.com/sakai_takafumi",
+							"display_url": "instagram.com/sakai_takafumi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4367,
+			"friends_count": 3023,
+			"listed_count": 107,
+			"created_at": "Tue Dec 07 09:37:10 +0000 2010",
+			"favourites_count": 1569,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2973558682/6fccf2bf86c24f997bab8944c4a32316_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2973558682/6fccf2bf86c24f997bab8944c4a32316_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/223783078/1513941869",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 190,
+		"favorite_count": 464,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "慰安婦像と呼ばれるあれは(日本式)被搾取労働者像であり、つまり俺らの像だろうよ"
+	},
+	{
+		"created_at": "Sat Aug 03 08:38:20 +0000 2019",
+		"id": 1157565928080457700,
+		"id_str": "1157571389391380480",
+		"full_text": "東大駒場に「No 排外主義=愛国 韓国ヘイト・見下し」立て看板を設置しました。\n\n無意識に愛国主義=排外主義に煽動されていないか、韓国を見下していないか、学生の皆さんにも訴えかけていきたいと思います。 https://t.co/SlJTvDpeEH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1157565909843640300,
+					"id_str": "1157565909843640320",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EBCAD9xVAAA0Jv_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBCAD9xVAAA0Jv_.jpg",
+					"url": "https://t.co/SlJTvDpeEH",
+					"display_url": "pic.twitter.com/SlJTvDpeEH",
+					"expanded_url": "https://twitter.com/msl_chukaku/status/1157565928080457728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157565909843640300,
+					"id_str": "1157565909843640320",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EBCAD9xVAAA0Jv_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBCAD9xVAAA0Jv_.jpg",
+					"url": "https://t.co/SlJTvDpeEH",
+					"display_url": "pic.twitter.com/SlJTvDpeEH",
+					"expanded_url": "https://twitter.com/msl_chukaku/status/1157565928080457728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1157565909881331700,
+					"id_str": "1157565909881331713",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EBCAD96UIAEXiYq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBCAD96UIAEXiYq.jpg",
+					"url": "https://t.co/SlJTvDpeEH",
+					"display_url": "pic.twitter.com/SlJTvDpeEH",
+					"expanded_url": "https://twitter.com/msl_chukaku/status/1157565928080457728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1050809870318940200,
+			"id_str": "1050809870318940162",
+			"name": "MSL：マルクス主義学生同盟中核派",
+			"screen_name": "msl_chukaku",
+			"location": "教室であなたの隣に座っているかも？",
+			"description": "マルクス主義学生同盟中核派の公式アカウントです。各大学から報告などを行います。",
+			"url": "https://t.co/Sp7SAANwdG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Sp7SAANwdG",
+							"expanded_url": "http://msl-chukaku.org",
+							"display_url": "msl-chukaku.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450,
+			"friends_count": 11,
+			"listed_count": 4,
+			"created_at": "Fri Oct 12 18:06:10 +0000 2018",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086648062011793408/gIhE-Nft_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086648062011793408/gIhE-Nft_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1050809870318940162/1547911107",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "東大駒場に「No 排外主義=愛国 韓国ヘイト・見下し」立て看板を設置しました。\n\n無意識に愛国主義=排外主義に煽動されていないか、韓国を見下していないか、学生の皆さんにも訴えかけていきたいと思います。 https://t.co/SlJTvDpeEH"
+	},
+	{
+		"created_at": "Sat Aug 03 02:16:49 +0000 2019",
+		"id": 1157472546192810000,
+		"id_str": "1157475377419177986",
+		"full_text": "@onlyriver11 @kawanoboru 출처가 신뢰할 만한 곳은 아닌 것 같습니다. https://t.co/W8jhK6xu3f",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "onlyriver11",
+					"name": "후비적",
+					"id": 122467214,
+					"id_str": "122467214",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "kawanoboru",
+					"name": "縄",
+					"id": 94077994,
+					"id_str": "94077994",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/W8jhK6xu3f",
+					"expanded_url": "https://en.wikipedia.org/wiki/Guo_Wengui",
+					"display_url": "en.wikipedia.org/wiki/Guo_Wengui",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1157268219754795000,
+		"in_reply_to_status_id_str": "1157268219754795009",
+		"in_reply_to_user_id": 122467214,
+		"in_reply_to_user_id_str": "122467214",
+		"in_reply_to_screen_name": "onlyriver11",
+		"user": {
+			"id": 113328790,
+			"id_str": "113328790",
+			"name": "Mafinacc",
+			"screen_name": "Mafinacc",
+			"location": "A-Town",
+			"description": "\"When my information changes, I alter my conclusions. What do you do, sir?\" \n- John Maynard Keynes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 287,
+			"listed_count": 47,
+			"created_at": "Thu Feb 11 12:08:47 +0000 2010",
+			"favourites_count": 740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 205688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130244817349500930/VitopnON_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130244817349500930/VitopnON_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113328790/1477667884",
+			"profile_link_color": "921110",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@onlyriver11 @kawanoboru 출처가 신뢰할 만한 곳은 아닌 것 같습니다. https://t.co/W8jhK6xu3f"
+	},
+	{
+		"created_at": "Sat Aug 03 02:04:12 +0000 2019",
+		"id": 1157471541094830000,
+		"id_str": "1157472203421601797",
+		"full_text": "네이버 해피빈 콩 기부로 한베평화재단의 활동을 응원해 주세요! 여러분이 기부해 주신 콩 하나가 한베평화재단의 활동에 힘을 주는 씨앗이 됩니다. 작은 실천으로 우리 함께 평화를 만들어 가요! \nhttps://t.co/MidpMlUKfG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MidpMlUKfG",
+					"expanded_url": "https://happybean.naver.com/donations/H000000155430?p=p&s=rsch",
+					"display_url": "happybean.naver.com/donations/H000…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 146390284,
+			"id_str": "146390284",
+			"name": "구수정",
+			"screen_name": "Chaovietnam",
+			"location": "호치민",
+			"description": "한베평화재단에서 근무",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4152,
+			"friends_count": 2952,
+			"listed_count": 46,
+			"created_at": "Fri May 21 09:24:37 +0000 2010",
+			"favourites_count": 37326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/477779514777292800/pOhlKuRE_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/477779514777292800/pOhlKuRE_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/146390284/1402746310",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네이버 해피빈 콩 기부로 한베평화재단의 활동을 응원해 주세요! 여러분이 기부해 주신 콩 하나가 한베평화재단의 활동에 힘을 주는 씨앗이 됩니다. 작은 실천으로 우리 함께 평화를 만들어 가요! \nhttps://t.co/MidpMlUKfG"
+	},
+	{
+		"created_at": "Sat Aug 03 01:57:13 +0000 2019",
+		"id": 1157464758616023000,
+		"id_str": "1157470447031611393",
+		"full_text": "보리수들에 의하면 한국은 슈뢰딩거의 제1세계 국가인 듯 ㅋㅋㅋ 언제는 제1세계 아니라고 일본에 못 비빈다고 하다가 언제는 제1세계 탄핵절차에 접어든다고 하고 아무말 대잔치",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113328790,
+			"id_str": "113328790",
+			"name": "Mafinacc",
+			"screen_name": "Mafinacc",
+			"location": "A-Town",
+			"description": "\"When my information changes, I alter my conclusions. What do you do, sir?\" \n- John Maynard Keynes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1424,
+			"friends_count": 287,
+			"listed_count": 47,
+			"created_at": "Thu Feb 11 12:08:47 +0000 2010",
+			"favourites_count": 740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 205688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130244817349500930/VitopnON_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130244817349500930/VitopnON_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113328790/1477667884",
+			"profile_link_color": "921110",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "보리수들에 의하면 한국은 슈뢰딩거의 제1세계 국가인 듯 ㅋㅋㅋ 언제는 제1세계 아니라고 일본에 못 비빈다고 하다가 언제는 제1세계 탄핵절차에 접어든다고 하고 아무말 대잔치"
+	},
+	{
 		"created_at": "Fri Aug 02 16:01:44 +0000 2019",
 		"id": 1156996334315946000,
 		"id_str": "1157320588051898368",
