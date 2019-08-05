@@ -1,6 +1,1621 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 04 23:07:49 +0000 2019",
+		"id": 1158066319847116800,
+		"id_str": "1158152589604618240",
+		"full_text": "５）クライマックスで彼女はのんびり屋の自分が支配者の側であったことに気付く。原作でハッキリと描かれた太極旗が映画版では遠くに一瞬見えるだけ。「それがこの国の正体かね」という超重要な台詞が、「海の向こうから来たお米、大豆…」という意味不明な言葉に改変され骨抜きにされている－－。→",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1158066318148374500,
+		"in_reply_to_status_id_str": "1158066318148374528",
+		"in_reply_to_user_id": 149380837,
+		"in_reply_to_user_id_str": "149380837",
+		"in_reply_to_screen_name": "kajiponmz",
+		"user": {
+			"id": 149380837,
+			"id_str": "149380837",
+			"name": "カジポン",
+			"screen_name": "kajiponmz",
+			"location": "大阪",
+			"description": "文芸研究家、墓マイラー。1967生。32年をかけ、ゴッホ、ベートーベン、チャップリン、手塚治虫、ドストエフスキー他100カ国2520人の恩人に墓参。ジョジョ好き。信念「人間は民族や文化が違っても相違点より共通点の方が“はるかに”多い」「他人の中に同じ所を見るのが芸術、違う所を見るのが戦争」※連載『音楽の友』『月刊石材』",
+			"url": "https://t.co/aNg4qLvLnb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aNg4qLvLnb",
+							"expanded_url": "http://kajipon.com",
+							"display_url": "kajipon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3729,
+			"friends_count": 134,
+			"listed_count": 94,
+			"created_at": "Sat May 29 04:16:26 +0000 2010",
+			"favourites_count": 6485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/427203748809568257/lVwTnYSR_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/427203748809568257/lVwTnYSR_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/149380837/1547680588",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "５）クライマックスで彼女はのんびり屋の自分が支配者の側であったことに気付く。原作でハッキリと描かれた太極旗が映画版では遠くに一瞬見えるだけ。「それがこの国の正体かね」という超重要な台詞が、「海の向こうから来たお米、大豆…」という意味不明な言葉に改変され骨抜きにされている－－。→"
+	},
+	{
+		"created_at": "Sun Aug 04 13:30:49 +0000 2019",
+		"id": 1157999925197770800,
+		"id_str": "1158007383622209536",
+		"full_text": "statue of peace in protest of the censorship in the Aichi Triennale exhibition. Let’s pose as a statue. let's call it 'being a statue of Non-freedom of expression'.  #statueofpeace #nonfreedomofexpression  #平和の少女像 #womencomfort #yoshikoshimada #AichiTriennale #metoo #japan https://t.co/I4TtnDTA4u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "statueofpeace",
+					"indices": [
+						166,
+						180
+					]
+				},
+				{
+					"text": "nonfreedomofexpression",
+					"indices": [
+						181,
+						204
+					]
+				},
+				{
+					"text": "平和の少女像",
+					"indices": [
+						206,
+						213
+					]
+				},
+				{
+					"text": "womencomfort",
+					"indices": [
+						214,
+						227
+					]
+				},
+				{
+					"text": "yoshikoshimada",
+					"indices": [
+						228,
+						243
+					]
+				},
+				{
+					"text": "AichiTriennale",
+					"indices": [
+						244,
+						259
+					]
+				},
+				{
+					"text": "metoo",
+					"indices": [
+						260,
+						266
+					]
+				},
+				{
+					"text": "japan",
+					"indices": [
+						267,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1157999916846846000,
+					"id_str": "1157999916846845952",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EBIKyf2WkAA6Ru2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBIKyf2WkAA6Ru2.jpg",
+					"url": "https://t.co/I4TtnDTA4u",
+					"display_url": "pic.twitter.com/I4TtnDTA4u",
+					"expanded_url": "https://twitter.com/RosariaIazzetta/status/1157999925197770752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 837,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 593,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 837,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157999916846846000,
+					"id_str": "1157999916846845952",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EBIKyf2WkAA6Ru2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBIKyf2WkAA6Ru2.jpg",
+					"url": "https://t.co/I4TtnDTA4u",
+					"display_url": "pic.twitter.com/I4TtnDTA4u",
+					"expanded_url": "https://twitter.com/RosariaIazzetta/status/1157999925197770752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 837,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 593,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 837,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1157999916846858200,
+					"id_str": "1157999916846858240",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EBIKyf2WwAA5Baj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBIKyf2WwAA5Baj.jpg",
+					"url": "https://t.co/I4TtnDTA4u",
+					"display_url": "pic.twitter.com/I4TtnDTA4u",
+					"expanded_url": "https://twitter.com/RosariaIazzetta/status/1157999925197770752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1157999916939128800,
+					"id_str": "1157999916939128837",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EBIKygMWsAUnHnQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBIKygMWsAUnHnQ.jpg",
+					"url": "https://t.co/I4TtnDTA4u",
+					"display_url": "pic.twitter.com/I4TtnDTA4u",
+					"expanded_url": "https://twitter.com/RosariaIazzetta/status/1157999925197770752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 546,
+							"h": 546,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 546,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 546,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1157999916926558200,
+					"id_str": "1157999916926558209",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EBIKygJW4AETL3l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBIKygJW4AETL3l.jpg",
+					"url": "https://t.co/I4TtnDTA4u",
+					"display_url": "pic.twitter.com/I4TtnDTA4u",
+					"expanded_url": "https://twitter.com/RosariaIazzetta/status/1157999925197770752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 91323420,
+			"id_str": "91323420",
+			"name": "Rosaria Iazzetta",
+			"screen_name": "RosariaIazzetta",
+			"location": "Naples ITALY",
+			"description": "Artist, feminist, dreamer and sculpture Professor. I believe in the women revolution, and trust in women leadership for a equally significant way of living.",
+			"url": "https://t.co/Dq19lSuw9f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dq19lSuw9f",
+							"expanded_url": "http://www.rosariaiazzetta.com",
+							"display_url": "rosariaiazzetta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 267,
+			"friends_count": 593,
+			"listed_count": 8,
+			"created_at": "Fri Nov 20 11:48:48 +0000 2009",
+			"favourites_count": 1639,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1F1407",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/962083602900094976/_qj0UJjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/962083602900094976/_qj0UJjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/91323420/1523481502",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "9E6847",
+			"profile_text_color": "FF6241",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 158,
+		"favorite_count": 70,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "statue of peace in protest of the censorship in the Aichi Triennale exhibition. Let’s pose as a statue. let's call it 'being a statue of Non-freedom of expression'.  #statueofpeace #nonfreedomofexpression  #平和の少女像 #womencomfort #yoshikoshimada #AichiTriennale #metoo #japan https://t.co/I4TtnDTA4u"
+	},
+	{
+		"created_at": "Sun Aug 04 12:04:17 +0000 2019",
+		"id": 1157972952308019200,
+		"id_str": "1157985605445251072",
+		"full_text": "알티&gt; 주전장에서 일본 극우들이 이 맨션과 비슷한 의문점을 제기하는데 미키 감독은 '한국군 장교중 대다수가 식민시절 일본군으로 복무한 자들로, 본인이 겪었던 일본의 악습을 그대로 모방한 것으로 여겨진다. 오히려 일본군이 위안소를 운영했다는 뚜렷한 증거'라고 대답합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3140926321,
+			"id_str": "3140926321",
+			"name": "경(Gyung, 계이당함)",
+			"screen_name": "yakyu_memo",
+			"location": "",
+			"description": "후루미유, 매거진 연재분 / 동인 fub free/ 박사모 블락/RT가 매우 아주 대단히 많습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 246,
+			"friends_count": 90,
+			"listed_count": 4,
+			"created_at": "Mon Apr 06 00:58:30 +0000 2015",
+			"favourites_count": 1249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091259421684973569/-ztv2cFT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091259421684973569/-ztv2cFT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3140926321/1549638182",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "알티&gt; 주전장에서 일본 극우들이 이 맨션과 비슷한 의문점을 제기하는데 미키 감독은 '한국군 장교중 대다수가 식민시절 일본군으로 복무한 자들로, 본인이 겪었던 일본의 악습을 그대로 모방한 것으로 여겨진다. 오히려 일본군이 위안소를 운영했다는 뚜렷한 증거'라고 대답합니다."
+	},
+	{
+		"created_at": "Sun Aug 04 09:47:34 +0000 2019",
+		"id": 1157914239157149700,
+		"id_str": "1157951201561808896",
+		"full_text": "○ #0804NO아베連帯抗議in新宿\n8/4(日) 16:00～ 新宿アルタ前\n呼びかけ：NO아베に呼応する日本市民\n○ 安倍首相は韓国に対する不当な経済報復を即刻撤回せよ！\n新宿アルタ前広場に集まっています。 https://t.co/J8rT7Qu5zx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "0804NO아베連帯抗議in新宿",
+					"indices": [
+						2,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1157914228730159000,
+					"id_str": "1157914228730159105",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EBG82yvU4AEHTV2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBG82yvU4AEHTV2.jpg",
+					"url": "https://t.co/J8rT7Qu5zx",
+					"display_url": "pic.twitter.com/J8rT7Qu5zx",
+					"expanded_url": "https://twitter.com/fuantei_workers/status/1157914239157149696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157914228730159000,
+					"id_str": "1157914228730159105",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EBG82yvU4AEHTV2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBG82yvU4AEHTV2.jpg",
+					"url": "https://t.co/J8rT7Qu5zx",
+					"display_url": "pic.twitter.com/J8rT7Qu5zx",
+					"expanded_url": "https://twitter.com/fuantei_workers/status/1157914239157149696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1157914228734361600,
+					"id_str": "1157914228734361600",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EBG82ywVAAAWK9-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBG82ywVAAAWK9-.jpg",
+					"url": "https://t.co/J8rT7Qu5zx",
+					"display_url": "pic.twitter.com/J8rT7Qu5zx",
+					"expanded_url": "https://twitter.com/fuantei_workers/status/1157914239157149696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1157914228725993500,
+					"id_str": "1157914228725993472",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EBG82yuVUAA51hz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBG82yuVUAA51hz.jpg",
+					"url": "https://t.co/J8rT7Qu5zx",
+					"display_url": "pic.twitter.com/J8rT7Qu5zx",
+					"expanded_url": "https://twitter.com/fuantei_workers/status/1157914239157149696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1157914228738494500,
+					"id_str": "1157914228738494466",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EBG82yxUEAI5mlp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBG82yxUEAI5mlp.jpg",
+					"url": "https://t.co/J8rT7Qu5zx",
+					"display_url": "pic.twitter.com/J8rT7Qu5zx",
+					"expanded_url": "https://twitter.com/fuantei_workers/status/1157914239157149696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 258375560,
+			"id_str": "258375560",
+			"name": "Nobutaka Watanabhe",
+			"screen_name": "fuantei_workers",
+			"location": "The Earth",
+			"description": "何もない、何者でもない私です。 その時々に出会った姿が私です。 何かの為に無償で自らを犠牲にする「愛」という心はありません。しかし、世の中の理不尽さに怒りは感じます。咄嗟の怒りで暴力性が湧き上がっても、勝算のない恐怖がそれを飲み込んで非暴力の反撃を模索します。",
+			"url": "https://t.co/Pdr1bPyvHb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Pdr1bPyvHb",
+							"expanded_url": "http://s.ameblo.jp/watan0/",
+							"display_url": "s.ameblo.jp/watan0/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1152,
+			"friends_count": 1285,
+			"listed_count": 51,
+			"created_at": "Sun Feb 27 15:48:08 +0000 2011",
+			"favourites_count": 8160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CABFE6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013476048908849153/DJAc9w4p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013476048908849153/DJAc9w4p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/258375560/1455694678",
+			"profile_link_color": "629E95",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7ee61f505fdfdf5c",
+			"url": "https://api.twitter.com/1.1/geo/id/7ee61f505fdfdf5c.json",
+			"place_type": "city",
+			"name": "新宿区",
+			"full_name": "東京 新宿区",
+			"country_code": "JP",
+			"country": "日本",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							139.673228,
+							35.673404
+						],
+						[
+							139.745133,
+							35.673404
+						],
+						[
+							139.745133,
+							35.72991
+						],
+						[
+							139.673228,
+							35.72991
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "○ #0804NO아베連帯抗議in新宿\n8/4(日) 16:00～ 新宿アルタ前\n呼びかけ：NO아베に呼応する日本市民\n○ 安倍首相は韓国に対する不当な経済報復を即刻撤回せよ！\n新宿アルタ前広場に集まっています。 https://t.co/J8rT7Qu5zx"
+	},
+	{
+		"created_at": "Sun Aug 04 09:46:29 +0000 2019",
+		"id": 1157942378784645000,
+		"id_str": "1157950929385037825",
+		"full_text": "2019.08.04 STOP！辺野古埋め立て『安倍9条改憲NO!3000万署名街頭宣伝』、韓国キャンドル革命の歌！♪( ﾟдﾟ )ｸﾜｯ!! https://t.co/iQ1CEpSCbV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1157942367439057000,
+					"id_str": "1157942367439056897",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EBHWcrmUcAExCEV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBHWcrmUcAExCEV.jpg",
+					"url": "https://t.co/iQ1CEpSCbV",
+					"display_url": "pic.twitter.com/iQ1CEpSCbV",
+					"expanded_url": "https://twitter.com/ken023/status/1157942378784645121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 942,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 313,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 552,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157942367439057000,
+					"id_str": "1157942367439056897",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EBHWcrmUcAExCEV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBHWcrmUcAExCEV.jpg",
+					"url": "https://t.co/iQ1CEpSCbV",
+					"display_url": "pic.twitter.com/iQ1CEpSCbV",
+					"expanded_url": "https://twitter.com/ken023/status/1157942378784645121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 942,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 313,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 552,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 93538025,
+			"id_str": "93538025",
+			"name": "KEN",
+			"screen_name": "ken023",
+			"location": "東京都立川市",
+			"description": "3.11迄はロービジョンダイバー、以降は日本が腐っていくのが分かってても何もしてこなかった贖罪として無償で記録動画撮影を始め、マスコミの伝えない真実を伝える為、ノーカット動画をYouTubeに上げてきた。６年で約2100本。でも相変わらず続けられる市民記者廃除に撮影依頼あれば撮るスタイルへ。敵は前より後ろかも？",
+			"url": "https://t.co/qoJVoO4Crr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qoJVoO4Crr",
+							"expanded_url": "http://kentucky23.asablo.jp/blog/",
+							"display_url": "kentucky23.asablo.jp/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3375,
+			"friends_count": 2828,
+			"listed_count": 70,
+			"created_at": "Mon Nov 30 02:18:00 +0000 2009",
+			"favourites_count": 2024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 87902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0F0A02",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032266388243529728/ofo8Y6gD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032266388243529728/ofo8Y6gD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/93538025/1359371514",
+			"profile_link_color": "473623",
+			"profile_sidebar_border_color": "BCB302",
+			"profile_sidebar_fill_color": "171106",
+			"profile_text_color": "8A7302",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "2019.08.04 STOP！辺野古埋め立て『安倍9条改憲NO!3000万署名街頭宣伝』、韓国キャンドル革命の歌！♪( ﾟдﾟ )ｸﾜｯ!! https://t.co/iQ1CEpSCbV"
+	},
+	{
+		"created_at": "Sun Aug 04 08:19:41 +0000 2019",
+		"id": 1157924708936896500,
+		"id_str": "1157929084376059905",
+		"full_text": "#0804NO아베連帯抗議in新宿 Now happening in Shinjuku, Tokyo. https://t.co/0ubMwK7oJq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "0804NO아베連帯抗議in新宿",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1157924618398654500,
+					"id_str": "1157924618398654465",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157924618398654465/pu/img/_NMXrKh25OUNVIu4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157924618398654465/pu/img/_NMXrKh25OUNVIu4.jpg",
+					"url": "https://t.co/0ubMwK7oJq",
+					"display_url": "pic.twitter.com/0ubMwK7oJq",
+					"expanded_url": "https://twitter.com/cracjp/status/1157924708936896513/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157924618398654500,
+					"id_str": "1157924618398654465",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1157924618398654465/pu/img/_NMXrKh25OUNVIu4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1157924618398654465/pu/img/_NMXrKh25OUNVIu4.jpg",
+					"url": "https://t.co/0ubMwK7oJq",
+					"display_url": "pic.twitter.com/0ubMwK7oJq",
+					"expanded_url": "https://twitter.com/cracjp/status/1157924708936896513/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15830,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1157924618398654465/pu/vid/1280x720/8rMJIJPw9neFTNU_.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1157924618398654465/pu/pl/oT8yaU0-dfzIbQAS.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1157924618398654465/pu/vid/480x270/_Rfz29vKfkcO48ev.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1157924618398654465/pu/vid/640x360/llNShdyqlPkc9VxT.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1157917518381453300,
+		"in_reply_to_status_id_str": "1157917518381453312",
+		"in_reply_to_user_id": 1870190160,
+		"in_reply_to_user_id_str": "1870190160",
+		"in_reply_to_screen_name": "cracjp",
+		"user": {
+			"id": 1870190160,
+			"id_str": "1870190160",
+			"name": "C.R.A.C.",
+			"screen_name": "cracjp",
+			"location": "Tokyo Central",
+			"description": "Counter-Racist Action Collective - Founded in 2013 in Tokyo, Japan. Strictly Antifascist. Actively Antiracist. Sonically Antisocial.",
+			"url": "http://t.co/r9X1eBzmI5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/r9X1eBzmI5",
+							"expanded_url": "http://crac.jp",
+							"display_url": "crac.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16296,
+			"friends_count": 15183,
+			"listed_count": 456,
+			"created_at": "Mon Sep 16 04:24:31 +0000 2013",
+			"favourites_count": 2478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 81969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896759682328444928/IHXrQX6t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896759682328444928/IHXrQX6t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1870190160/1467003584",
+			"profile_link_color": "171616",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7ee61f505fdfdf5c",
+			"url": "https://api.twitter.com/1.1/geo/id/7ee61f505fdfdf5c.json",
+			"place_type": "city",
+			"name": "新宿区",
+			"full_name": "東京 新宿区",
+			"country_code": "JP",
+			"country": "日本",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							139.673228,
+							35.673404
+						],
+						[
+							139.745133,
+							35.673404
+						],
+						[
+							139.745133,
+							35.72991
+						],
+						[
+							139.673228,
+							35.72991
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 231,
+		"favorite_count": 226,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#0804NO아베連帯抗議in新宿 Now happening in Shinjuku, Tokyo. https://t.co/0ubMwK7oJq"
+	},
+	{
+		"created_at": "Sun Aug 04 08:05:45 +0000 2019",
+		"id": 1157917518381453300,
+		"id_str": "1157925577870856192",
+		"full_text": "#0804NO아베連帯抗議in新宿 Now happening in Shinjuku, Tokyo. https://t.co/y4yCws9tuT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "0804NO아베連帯抗議in新宿",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1157917497623888000,
+					"id_str": "1157917497623887872",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EBG_1EUUwAAR2Oq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBG_1EUUwAAR2Oq.jpg",
+					"url": "https://t.co/y4yCws9tuT",
+					"display_url": "pic.twitter.com/y4yCws9tuT",
+					"expanded_url": "https://twitter.com/cracjp/status/1157917518381453312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157917497623888000,
+					"id_str": "1157917497623887872",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EBG_1EUUwAAR2Oq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBG_1EUUwAAR2Oq.jpg",
+					"url": "https://t.co/y4yCws9tuT",
+					"display_url": "pic.twitter.com/y4yCws9tuT",
+					"expanded_url": "https://twitter.com/cracjp/status/1157917518381453312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1157912278387196000,
+		"in_reply_to_status_id_str": "1157912278387195905",
+		"in_reply_to_user_id": 1870190160,
+		"in_reply_to_user_id_str": "1870190160",
+		"in_reply_to_screen_name": "cracjp",
+		"user": {
+			"id": 1870190160,
+			"id_str": "1870190160",
+			"name": "C.R.A.C.",
+			"screen_name": "cracjp",
+			"location": "Tokyo Central",
+			"description": "Counter-Racist Action Collective - Founded in 2013 in Tokyo, Japan. Strictly Antifascist. Actively Antiracist. Sonically Antisocial.",
+			"url": "http://t.co/r9X1eBzmI5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/r9X1eBzmI5",
+							"expanded_url": "http://crac.jp",
+							"display_url": "crac.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16296,
+			"friends_count": 15183,
+			"listed_count": 456,
+			"created_at": "Mon Sep 16 04:24:31 +0000 2013",
+			"favourites_count": 2478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 81969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896759682328444928/IHXrQX6t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896759682328444928/IHXrQX6t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1870190160/1467003584",
+			"profile_link_color": "171616",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 177,
+		"favorite_count": 160,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#0804NO아베連帯抗議in新宿 Now happening in Shinjuku, Tokyo. https://t.co/y4yCws9tuT"
+	},
+	{
+		"created_at": "Sun Aug 04 07:14:41 +0000 2019",
+		"id": 1157909988158738400,
+		"id_str": "1157912727689388032",
+		"full_text": "新宿アルタ前なう https://t.co/Nd9xorcWGJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1157909979572998100,
+					"id_str": "1157909979572998145",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/EBG4_dZUEAEUsVE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBG4_dZUEAEUsVE.jpg",
+					"url": "https://t.co/Nd9xorcWGJ",
+					"display_url": "pic.twitter.com/Nd9xorcWGJ",
+					"expanded_url": "https://twitter.com/riznoheya/status/1157909988158738434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157909979572998100,
+					"id_str": "1157909979572998145",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/EBG4_dZUEAEUsVE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBG4_dZUEAEUsVE.jpg",
+					"url": "https://t.co/Nd9xorcWGJ",
+					"display_url": "pic.twitter.com/Nd9xorcWGJ",
+					"expanded_url": "https://twitter.com/riznoheya/status/1157909988158738434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 401825142,
+			"id_str": "401825142",
+			"name": "エリザベス　山本太郎とアッキード",
+			"screen_name": "riznoheya",
+			"location": "東京都",
+			"description": "動物が好きです。猫のエリザベスと同居しています。動物問題全般に興味があります。ベジタリアンです。鬼リツイートはフォローしません。非公開の方にフォローされたらブロックします。ツイキャスは趣味でやってますのであれこれ指図されても対応しません。営業DM固くお断り致します。極左ババアです。",
+			"url": "https://t.co/cDPKqL79WO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cDPKqL79WO",
+							"expanded_url": "https://ameblo.jp/riz10212/",
+							"display_url": "ameblo.jp/riz10212/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 447,
+			"friends_count": 297,
+			"listed_count": 15,
+			"created_at": "Mon Oct 31 04:23:56 +0000 2011",
+			"favourites_count": 833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/547384925792387072/hnKXuPz__normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/547384925792387072/hnKXuPz__normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/401825142/1418026471",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "新宿アルタ前なう https://t.co/Nd9xorcWGJ"
+	},
+	{
 		"created_at": "Sat Aug 03 09:34:35 +0000 2019",
 		"id": 1157166589382316000,
 		"id_str": "1157585546517991424",
