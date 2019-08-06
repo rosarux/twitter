@@ -1,6 +1,1175 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 05 13:34:23 +0000 2019",
+		"id": 1158370423647510500,
+		"id_str": "1158370669031129093",
+		"full_text": "ヤドカリレースね。 https://t.co/Q2QWXA0pTP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1158370411815379000,
+					"id_str": "1158370411815378945",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/EBNbwJKUIAEcdqY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBNbwJKUIAEcdqY.jpg",
+					"url": "https://t.co/Q2QWXA0pTP",
+					"display_url": "pic.twitter.com/Q2QWXA0pTP",
+					"expanded_url": "https://twitter.com/yskemoto/status/1158370423647510528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158370411815379000,
+					"id_str": "1158370411815378945",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/EBNbwJKUIAEcdqY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBNbwJKUIAEcdqY.jpg",
+					"url": "https://t.co/Q2QWXA0pTP",
+					"display_url": "pic.twitter.com/Q2QWXA0pTP",
+					"expanded_url": "https://twitter.com/yskemoto/status/1158370423647510528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1158370411815428000,
+					"id_str": "1158370411815428096",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/EBNbwJKU4AAaC8R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBNbwJKU4AAaC8R.jpg",
+					"url": "https://t.co/Q2QWXA0pTP",
+					"display_url": "pic.twitter.com/Q2QWXA0pTP",
+					"expanded_url": "https://twitter.com/yskemoto/status/1158370423647510528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1158349667052085200,
+		"in_reply_to_status_id_str": "1158349667052085248",
+		"in_reply_to_user_id": 137356844,
+		"in_reply_to_user_id_str": "137356844",
+		"in_reply_to_screen_name": "yskemoto",
+		"user": {
+			"id": 137356844,
+			"id_str": "137356844",
+			"name": "江本祐介 / tinto＊tinto Okinawa",
+			"screen_name": "yskemoto",
+			"location": "横浜・東京 ✈︎ 沖縄",
+			"description": "沖縄と子育てと宿経営のこと。結婚と同時に横浜・東京から沖縄に移住し13年。北部今帰仁の海を望む高台で幼児も泊まれるスモールリゾートを経営9期目。2児(10歳♂6歳♂)の父。名護・今帰仁の2拠点暮らし。横浜出身→早稲田大→ソフトバンク→沖縄旅行メディア マーケティング マネージャー→@tintotinto_開業。",
+			"url": "https://t.co/kfAoEDOkyo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kfAoEDOkyo",
+							"expanded_url": "https://tintotinto.com/",
+							"display_url": "tintotinto.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1561,
+			"friends_count": 545,
+			"listed_count": 54,
+			"created_at": "Mon Apr 26 14:33:43 +0000 2010",
+			"favourites_count": 4157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E2ECF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963024956463304705/zBIVVX94_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963024956463304705/zBIVVX94_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/137356844/1407993371",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "506d8d51533b0bc8",
+			"url": "https://api.twitter.com/1.1/geo/id/506d8d51533b0bc8.json",
+			"place_type": "city",
+			"name": "今帰仁村",
+			"full_name": "沖縄 今帰仁村",
+			"country_code": "JP",
+			"country": "日本",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.917331,
+							26.635745
+						],
+						[
+							128.027932,
+							26.635745
+						],
+						[
+							128.027932,
+							26.71458
+						],
+						[
+							127.917331,
+							26.71458
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ヤドカリレースね。 https://t.co/Q2QWXA0pTP"
+	},
+	{
+		"created_at": "Mon Aug 05 13:17:29 +0000 2019",
+		"id": 1158366417332265000,
+		"id_str": "1158366417332264966",
+		"full_text": "뭔가 앞뒤가 안맞는 것 같은데... 그래서 개헌 하려는 이유가 뭐라는 건지🤔",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1158366146308890600,
+		"in_reply_to_status_id_str": "1158366146308890625",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 580,
+			"friends_count": 500,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "뭔가 앞뒤가 안맞는 것 같은데... 그래서 개헌 하려는 이유가 뭐라는 건지🤔"
+	},
+	{
+		"created_at": "Mon Aug 05 13:16:25 +0000 2019",
+		"id": 1158366146308890600,
+		"id_str": "1158366146308890625",
+		"full_text": "2015년 국민의 대규모 반대 의견을 뿌리치고 헌법 해석을 바꿔 해외 군사행동을 일부 가능하게 했고, (...)헌법이 개정돼 군사적 제약을 없애면 미국은 일본에 한층 더 군사적 협력을 요구하게 된다. 그렇게 되면 일본이 중동 등 세계 각지에서 일어나는 ‘미국의 분쟁’에 말려들 것임이 분명하다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1158365677008248800,
+		"in_reply_to_status_id_str": "1158365677008248833",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 580,
+			"friends_count": 500,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "2015년 국민의 대규모 반대 의견을 뿌리치고 헌법 해석을 바꿔 해외 군사행동을 일부 가능하게 했고, (...)헌법이 개정돼 군사적 제약을 없애면 미국은 일본에 한층 더 군사적 협력을 요구하게 된다. 그렇게 되면 일본이 중동 등 세계 각지에서 일어나는 ‘미국의 분쟁’에 말려들 것임이 분명하다."
+	},
+	{
+		"created_at": "Mon Aug 05 13:14:33 +0000 2019",
+		"id": 1158365677008248800,
+		"id_str": "1158365677008248833",
+		"full_text": "개헌 세력의 현실적인 목표는 주일미군의 부담을 줄이고 싶어 하는 미국을 (일본에) 붙들어매 ‘세계의 경찰관’ 역할을 앞으로도 계속 맡게 하는 것이다. 이를 통해 중국과 러시아가 일본을 넘보지 못하게 하려 한다.\n\n원문보기: \nhttps://t.co/KKfXUpZrQu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KKfXUpZrQu",
+					"expanded_url": "http://m.hani.co.kr/arti/international/japan/904569.html?_fr=du#csidx5f84e3a64068579b380bb6f5c2331be",
+					"display_url": "m.hani.co.kr/arti/internati…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 580,
+			"friends_count": 500,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "개헌 세력의 현실적인 목표는 주일미군의 부담을 줄이고 싶어 하는 미국을 (일본에) 붙들어매 ‘세계의 경찰관’ 역할을 앞으로도 계속 맡게 하는 것이다. 이를 통해 중국과 러시아가 일본을 넘보지 못하게 하려 한다.\n\n원문보기: \nhttps://t.co/KKfXUpZrQu"
+	},
+	{
+		"created_at": "Mon Aug 05 13:00:25 +0000 2019",
+		"id": 1158361766906224600,
+		"id_str": "1158362119592484865",
+		"full_text": "SUMMER FUNDRAISER: We come to you twice a year to request the financial support that allows us to provide APJ to our 22k regular readers around the world.\n\nIf you value our works, please go to  https://t.co/tagTnW15Na and contribute through PayPal. Thank you.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tagTnW15Na",
+					"expanded_url": "http://apjjf.org/Subscribe",
+					"display_url": "apjjf.org/Subscribe",
+					"indices": [
+						194,
+						217
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105521430,
+			"id_str": "105521430",
+			"name": "Asia-Pacific Journal",
+			"screen_name": "apjjf",
+			"location": "Global",
+			"description": "In-depth critical analysis of the forces shaping the Asia-Pacific region & the world.　RTs, follows, mentions, listing, etc. are not endorsements.",
+			"url": "https://t.co/GRfPGHSEb4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GRfPGHSEb4",
+							"expanded_url": "http://www.apjjf.org",
+							"display_url": "apjjf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7247,
+			"friends_count": 794,
+			"listed_count": 524,
+			"created_at": "Sat Jan 16 16:11:14 +0000 2010",
+			"favourites_count": 13433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F1DF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105521430/1555430110",
+			"profile_link_color": "572E4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EE0B5B",
+			"profile_text_color": "027B7F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SUMMER FUNDRAISER: We come to you twice a year to request the financial support that allows us to provide APJ to our 22k regular readers around the world.\n\nIf you value our works, please go to  https://t.co/tagTnW15Na and contribute through PayPal. Thank you."
+	},
+	{
+		"created_at": "Mon Aug 05 12:55:02 +0000 2019",
+		"id": 1158360764253479000,
+		"id_str": "1158360764253478912",
+		"full_text": "기지건설 반대 연좌농성 1854일째(2019.8.3) https://t.co/tems3bDsRg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1158360754510127000,
+					"id_str": "1158360754510127106",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EBNS-A5UYAI2e1M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBNS-A5UYAI2e1M.jpg",
+					"url": "https://t.co/tems3bDsRg",
+					"display_url": "pic.twitter.com/tems3bDsRg",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1158360764253478912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158360754510127000,
+					"id_str": "1158360754510127106",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EBNS-A5UYAI2e1M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBNS-A5UYAI2e1M.jpg",
+					"url": "https://t.co/tems3bDsRg",
+					"display_url": "pic.twitter.com/tems3bDsRg",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1158360764253478912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1158359413507252200,
+		"in_reply_to_status_id_str": "1158359413507252225",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 580,
+			"friends_count": 500,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기지건설 반대 연좌농성 1854일째(2019.8.3) https://t.co/tems3bDsRg"
+	},
+	{
+		"created_at": "Mon Aug 05 12:49:40 +0000 2019",
+		"id": 1158359413507252200,
+		"id_str": "1158359413507252225",
+		"full_text": "이기는 방법은 포기하지 않는 것 - 辺野古 https://t.co/hpxBfBQgKL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1158359403591917600,
+					"id_str": "1158359403591917568",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EBNRvYVUYAAlxfI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBNRvYVUYAAlxfI.jpg",
+					"url": "https://t.co/hpxBfBQgKL",
+					"display_url": "pic.twitter.com/hpxBfBQgKL",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1158359413507252225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1516,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 845,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158359403591917600,
+					"id_str": "1158359403591917568",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EBNRvYVUYAAlxfI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBNRvYVUYAAlxfI.jpg",
+					"url": "https://t.co/hpxBfBQgKL",
+					"display_url": "pic.twitter.com/hpxBfBQgKL",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1158359413507252225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1516,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 845,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 580,
+			"friends_count": 500,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "이기는 방법은 포기하지 않는 것 - 辺野古 https://t.co/hpxBfBQgKL"
+	},
+	{
+		"created_at": "Mon Aug 05 12:05:25 +0000 2019",
+		"id": 1158348278167044000,
+		"id_str": "1158348278167044096",
+		"full_text": "오키나와소바 먹고 싶다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 580,
+			"friends_count": 500,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오키나와소바 먹고 싶다."
+	},
+	{
+		"created_at": "Mon Aug 05 11:27:57 +0000 2019",
+		"id": 1158336970164076500,
+		"id_str": "1158338849308725249",
+		"full_text": "「国と国がぶつかっても、選手はしっかり交流を」日韓関係が悪化する中、卓球実業団定期戦が開幕　沖縄で初開催&amp;lt;br /&amp;gt; https://t.co/J3Fpbop0BD #日韓関係 #卓球 #元徴用工問題 #輸出規制強化 #okinawa #沖縄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "日韓関係",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "卓球",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "元徴用工問題",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "輸出規制強化",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "okinawa",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						132,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J3Fpbop0BD",
+					"expanded_url": "https://www.okinawatimes.co.jp/articles/-/454406",
+					"display_url": "okinawatimes.co.jp/articles/-/454…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.okinawatimes.co.jp\" rel=\"nofollow\">沖縄タイムス社TweetBot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118600653,
+			"id_str": "118600653",
+			"name": "沖縄タイムス",
+			"screen_name": "theokinawatimes",
+			"location": "沖縄県那覇市",
+			"description": "「沖縄タイムス」の公式アカウントです。沖縄のニュースをつぶやきます。情報提供はこちら↓↓ https://t.co/dRtcewvbkS",
+			"url": "http://t.co/MNvzHef3vO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MNvzHef3vO",
+							"expanded_url": "http://www.okinawatimes.co.jp",
+							"display_url": "okinawatimes.co.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dRtcewvbkS",
+							"expanded_url": "https://app.okinawatimes.co.jp/contact/info_form.php",
+							"display_url": "app.okinawatimes.co.jp/contact/info_f…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 88842,
+			"friends_count": 109,
+			"listed_count": 3214,
+			"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+			"favourites_count": 3125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 287938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1554698014",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「国と国がぶつかっても、選手はしっかり交流を」日韓関係が悪化する中、卓球実業団定期戦が開幕　沖縄で初開催&amp;lt;br /&amp;gt; https://t.co/J3Fpbop0BD #日韓関係 #卓球 #元徴用工問題 #輸出規制強化 #okinawa #沖縄"
+	},
+	{
 		"created_at": "Sun Aug 04 23:07:49 +0000 2019",
 		"id": 1158066319847116800,
 		"id_str": "1158152589604618240",
