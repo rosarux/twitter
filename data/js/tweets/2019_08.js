@@ -1,6 +1,597 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 07 23:55:23 +0000 2019",
+		"id": 1159247231846760400,
+		"id_str": "1159251723443032064",
+		"full_text": "翁長前知事、在職死去から１年 https://t.co/3WRTP4eqn9 #okinawa #沖縄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "okinawa",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						48,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3WRTP4eqn9",
+					"expanded_url": "https://www.okinawatimes.co.jp/articles/-/455811",
+					"display_url": "okinawatimes.co.jp/articles/-/455…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.okinawatimes.co.jp\" rel=\"nofollow\">沖縄タイムス社TweetBot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118600653,
+			"id_str": "118600653",
+			"name": "沖縄タイムス",
+			"screen_name": "theokinawatimes",
+			"location": "沖縄県那覇市",
+			"description": "「沖縄タイムス」の公式アカウントです。沖縄のニュースをつぶやきます。情報提供はこちら↓↓ https://t.co/dRtcewvbkS",
+			"url": "http://t.co/MNvzHef3vO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MNvzHef3vO",
+							"expanded_url": "http://www.okinawatimes.co.jp",
+							"display_url": "okinawatimes.co.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dRtcewvbkS",
+							"expanded_url": "https://app.okinawatimes.co.jp/contact/info_form.php",
+							"display_url": "app.okinawatimes.co.jp/contact/info_f…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 88848,
+			"friends_count": 109,
+			"listed_count": 3214,
+			"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+			"favourites_count": 3126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 288022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1554698014",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "翁長前知事、在職死去から１年 https://t.co/3WRTP4eqn9 #okinawa #沖縄"
+	},
+	{
+		"created_at": "Wed Aug 07 12:34:21 +0000 2019",
+		"id": 1159079172460822500,
+		"id_str": "1159080338041085953",
+		"full_text": "정부가 할 일은 ILO에서 일본의 강제징용을 국제협약 위반으로 선언했다는 사실, 이 과정에서 노동조합들이 얼마나 중요한 역할을 했는지를 알리는 일. 국제사회에서 한국 정부의 정당성을 굳건하게 각인시키기 위해 강제노동 금지협약을 비롯한 ILO 핵심협약을 비준하는 것. https://t.co/XqIBFE613Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XqIBFE613Q",
+					"expanded_url": "http://m.pressian.com/m/m_article/?no=252283#08gq",
+					"display_url": "m.pressian.com/m/m_article/?n…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1159069154751598600,
+		"in_reply_to_status_id_str": "1159069154751598592",
+		"in_reply_to_user_id": 118534520,
+		"in_reply_to_user_id_str": "118534520",
+		"in_reply_to_screen_name": "EconomicView",
+		"user": {
+			"id": 118534520,
+			"id_str": "118534520",
+			"name": "Economic View",
+			"screen_name": "EconomicView",
+			"location": "Seoul",
+			"description": "경제에 관한 내멋대로의 해석을 트윗함",
+			"url": "http://t.co/PQIjZEYm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/PQIjZEYm",
+							"expanded_url": "http://economicview.net/",
+							"display_url": "economicview.net",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19592,
+			"friends_count": 127,
+			"listed_count": 851,
+			"created_at": "Mon Mar 01 00:25:11 +0000 2010",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151629622682902529/hEfqwzDn_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151629622682902529/hEfqwzDn_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118534520/1563404697",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정부가 할 일은 ILO에서 일본의 강제징용을 국제협약 위반으로 선언했다는 사실, 이 과정에서 노동조합들이 얼마나 중요한 역할을 했는지를 알리는 일. 국제사회에서 한국 정부의 정당성을 굳건하게 각인시키기 위해 강제노동 금지협약을 비롯한 ILO 핵심협약을 비준하는 것. https://t.co/XqIBFE613Q"
+	},
+	{
+		"created_at": "Wed Aug 07 11:12:15 +0000 2019",
+		"id": 1159059673858752500,
+		"id_str": "1159059673858752512",
+		"full_text": "이번 아이치 트리엔날레 방화협박범이라고(체포됨) https://t.co/d3oTkn83Ja",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d3oTkn83Ja",
+					"expanded_url": "https://twitter.com/anti_discrimina/status/1159052214595284992",
+					"display_url": "twitter.com/anti_discrimin…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 579,
+			"friends_count": 499,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1159052214595285000,
+		"quoted_status_id_str": "1159052214595284992",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d3oTkn83Ja",
+			"expanded": "https://twitter.com/anti_discrimina/status/1159052214595284992",
+			"display": "twitter.com/anti_discrimin…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 07 10:42:36 +0000 2019",
+			"id": 1159052214595285000,
+			"id_str": "1159052214595284992",
+			"full_text": "トリアンナーレ脅迫で現行犯逮捕されたナチ野郎。 https://t.co/j2cOBoYHpU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				23
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1159052209482395600,
+						"id_str": "1159052209482395648",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/EBXH1_ZUcAA-_Ro.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBXH1_ZUcAA-_Ro.jpg",
+						"url": "https://t.co/j2cOBoYHpU",
+						"display_url": "pic.twitter.com/j2cOBoYHpU",
+						"expanded_url": "https://twitter.com/Anti_Discrimina/status/1159052214595284992/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1109,
+								"h": 1100,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1109,
+								"h": 1100,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 674,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1159052209482395600,
+						"id_str": "1159052209482395648",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/EBXH1_ZUcAA-_Ro.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBXH1_ZUcAA-_Ro.jpg",
+						"url": "https://t.co/j2cOBoYHpU",
+						"display_url": "pic.twitter.com/j2cOBoYHpU",
+						"expanded_url": "https://twitter.com/Anti_Discrimina/status/1159052214595284992/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1109,
+								"h": 1100,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1109,
+								"h": 1100,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 674,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1159051757881704400,
+			"in_reply_to_status_id_str": "1159051757881704449",
+			"in_reply_to_user_id": 4378798994,
+			"in_reply_to_user_id_str": "4378798994",
+			"in_reply_to_screen_name": "Anti_Discrimina",
+			"user": {
+				"id": 4378798994,
+				"id_str": "4378798994",
+				"name": "反差別統一戦線東京委員会🥚",
+				"screen_name": "Anti_Discrimina",
+				"location": "",
+				"description": "Anti-Discrimination United Front Tokyo Committee",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3319,
+				"friends_count": 389,
+				"listed_count": 114,
+				"created_at": "Fri Nov 27 15:33:56 +0000 2015",
+				"favourites_count": 38268,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 290116,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/994949099160915969/6p7ClysD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/994949099160915969/6p7ClysD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4378798994/1526111038",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 348,
+			"favorite_count": 260,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 아이치 트리엔날레 방화협박범이라고(체포됨) https://t.co/d3oTkn83Ja"
+	},
+	{
+		"created_at": "Wed Aug 07 11:10:36 +0000 2019",
+		"id": 1159055433606131700,
+		"id_str": "1159059259675381760",
+		"full_text": "ソウルで開かれたワンアジアコンベンションで日本の輸出規制でホワイト国から韓国を外したことについて、過ちは早く直すべきと述べてきた。安全保障上の理由と言われるが、誰の目にも徴用工問題への怒りを経済制裁に向けたと思われる時期である。報復措置が取られたら泥沼だ。賢明な判断を期待する。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97244324,
+			"id_str": "97244324",
+			"name": "鳩山由紀夫",
+			"screen_name": "hatoyamayukio",
+			"location": "JAPAN",
+			"description": "政治の話に限らず、身辺に起こったいろいろな話題について書いていければと思っています。ご意見ご感想は @hatoyamayukio でお願いいたします。",
+			"url": "http://t.co/7UM0Rv8toT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7UM0Rv8toT",
+							"expanded_url": "http://www.eaci.or.jp/",
+							"display_url": "eaci.or.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 828555,
+			"friends_count": 117361,
+			"listed_count": 26008,
+			"created_at": "Wed Dec 16 16:44:30 +0000 2009",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5BB007",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/603040601/hatoyama_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/603040601/hatoyama_normal.png",
+			"profile_link_color": "0DA100",
+			"profile_sidebar_border_color": "DBDBDB",
+			"profile_sidebar_fill_color": "F2F2F2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 996,
+		"favorite_count": 1893,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "ソウルで開かれたワンアジアコンベンションで日本の輸出規制でホワイト国から韓国を外したことについて、過ちは早く直すべきと述べてきた。安全保障上の理由と言われるが、誰の目にも徴用工問題への怒りを経済制裁に向けたと思われる時期である。報復措置が取られたら泥沼だ。賢明な判断を期待する。"
+	},
+	{
 		"created_at": "Tue Aug 06 13:19:32 +0000 2019",
 		"id": 1158619719487766500,
 		"id_str": "1158729319985733632",
