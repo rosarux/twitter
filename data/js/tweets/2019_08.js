@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 10 10:10:32 +0000 2019",
+		"id": 1160130099192053800,
+		"id_str": "1160131307986247681",
+		"full_text": "スタートしました！\n\n#戦争反対 https://t.co/gs44dE6KoK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "戦争反対",
+					"indices": [
+						11,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160129937413562400,
+					"id_str": "1160129937413562368",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1160129937413562368/pu/img/OCAGZKwiXMp6snaN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1160129937413562368/pu/img/OCAGZKwiXMp6snaN.jpg",
+					"url": "https://t.co/gs44dE6KoK",
+					"display_url": "pic.twitter.com/gs44dE6KoK",
+					"expanded_url": "https://twitter.com/fuyafuyaya/status/1160130099192053761/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160129937413562400,
+					"id_str": "1160129937413562368",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1160129937413562368/pu/img/OCAGZKwiXMp6snaN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1160129937413562368/pu/img/OCAGZKwiXMp6snaN.jpg",
+					"url": "https://t.co/gs44dE6KoK",
+					"display_url": "pic.twitter.com/gs44dE6KoK",
+					"expanded_url": "https://twitter.com/fuyafuyaya/status/1160130099192053761/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 64565,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1160129937413562368/pu/pl/zG-7mDPIUB-EdILn.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1160129937413562368/pu/vid/360x640/RECwiz3RW3kC5PXo.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1160129937413562368/pu/vid/320x568/zjbx460gvhqClbnq.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1160129937413562368/pu/vid/720x1280/JzqBu9PQfHKM3yFd.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87654882,
+			"id_str": "87654882",
+			"name": "フヤフヤーヌ",
+			"screen_name": "fuyafuyaya",
+			"location": "",
+			"description": "人権が尊重される平和な世界を創りたい。街宣文化で街中民主主義を！支持政党はナシ 【GAZA plus,世界に平和を！ 火曜定例会・沖縄と東京北部を結ぶ集い】https://t.co/W9uo2tvfrp プラカードギャラリー https://t.co/HPmssCjYbT",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W9uo2tvfrp",
+							"expanded_url": "http://gazademo.jimdo.com/",
+							"display_url": "gazademo.jimdo.com",
+							"indices": [
+								78,
+								101
+							]
+						},
+						{
+							"url": "https://t.co/HPmssCjYbT",
+							"expanded_url": "http://placardgallery.jimdo.com/",
+							"display_url": "placardgallery.jimdo.com",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1998,
+			"friends_count": 712,
+			"listed_count": 48,
+			"created_at": "Thu Nov 05 10:00:53 +0000 2009",
+			"favourites_count": 8290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 208356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097850024057200640/1VNwLyBm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097850024057200640/1VNwLyBm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87654882/1545969725",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "スタートしました！\n\n#戦争反対 https://t.co/gs44dE6KoK"
+	},
+	{
 		"created_at": "Fri Aug 09 12:21:50 +0000 2019",
 		"id": 1159801963418026000,
 		"id_str": "1159801963418025985",
