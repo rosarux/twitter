@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 12 00:49:29 +0000 2019",
+		"id": 1160714890736066600,
+		"id_str": "1160714890736066560",
+		"full_text": "몰아놓고 코앞에서 고무탄 발사 ㅠㅠ https://t.co/ueLT5OldaZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160577146269474800,
+					"id_str": "1160577146269474816",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1160577146269474816/pu/img/hO83L8Ld9s4DPqyW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1160577146269474816/pu/img/hO83L8Ld9s4DPqyW.jpg",
+					"url": "https://t.co/ueLT5OldaZ",
+					"display_url": "pic.twitter.com/ueLT5OldaZ",
+					"expanded_url": "https://twitter.com/VictorTing7/status/1160577176179105793/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 321,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 848,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1160577176179105800,
+					"source_status_id_str": "1160577176179105793",
+					"source_user_id": 1123092696510238700,
+					"source_user_id_str": "1123092696510238720"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160577146269474800,
+					"id_str": "1160577146269474816",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1160577146269474816/pu/img/hO83L8Ld9s4DPqyW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1160577146269474816/pu/img/hO83L8Ld9s4DPqyW.jpg",
+					"url": "https://t.co/ueLT5OldaZ",
+					"display_url": "pic.twitter.com/ueLT5OldaZ",
+					"expanded_url": "https://twitter.com/VictorTing7/status/1160577176179105793/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 321,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 848,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1160577176179105800,
+					"source_status_id_str": "1160577176179105793",
+					"source_user_id": 1123092696510238700,
+					"source_user_id_str": "1123092696510238720",
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							25
+						],
+						"duration_millis": 17677,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1160577146269474816/pu/pl/cwLkOGBwvrY9G5-2.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1160577146269474816/pu/vid/848x400/XuHE2PP2JGD8cBPl.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1160577146269474816/pu/vid/572x270/dud-jTV3mS48R_AF.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1123092696510238700,
+							"id_str": "1123092696510238720",
+							"name": "Victor Ting",
+							"screen_name": "VictorTing7",
+							"location": "Hong Kong",
+							"description": "Hong Kong News Reporter at South China Morning Post @SCMPNews",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 586,
+							"friends_count": 11,
+							"listed_count": 17,
+							"created_at": "Tue Apr 30 05:12:19 +0000 2019",
+							"favourites_count": 28,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 267,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1147810128340480000/0z124b4u_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1147810128340480000/0z124b4u_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1123092696510238720/1564139636",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 578,
+			"friends_count": 499,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "몰아놓고 코앞에서 고무탄 발사 ㅠㅠ https://t.co/ueLT5OldaZ"
+	},
+	{
+		"created_at": "Mon Aug 12 00:35:34 +0000 2019",
+		"id": 1160711388056019000,
+		"id_str": "1160711388056018945",
+		"full_text": "고무탄에 맞아 실명자가 나왔다고 한다. 사진은 차마 올리지 못하겠다. ㅠ 사진은 지하철 역 내에서 최루탄응 수평으로 발사하는 홍콩경찰 https://t.co/PnI4j2UxiH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160711379952853000,
+					"id_str": "1160711379952852994",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EBus2bDX4AIzpxu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBus2bDX4AIzpxu.jpg",
+					"url": "https://t.co/PnI4j2UxiH",
+					"display_url": "pic.twitter.com/PnI4j2UxiH",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1160711388056018945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 861,
+							"h": 573,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 861,
+							"h": 573,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160711379952853000,
+					"id_str": "1160711379952852994",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EBus2bDX4AIzpxu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBus2bDX4AIzpxu.jpg",
+					"url": "https://t.co/PnI4j2UxiH",
+					"display_url": "pic.twitter.com/PnI4j2UxiH",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1160711388056018945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 861,
+							"h": 573,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 861,
+							"h": 573,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1160709499746832400,
+		"in_reply_to_status_id_str": "1160709499746832385",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 578,
+			"friends_count": 499,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "고무탄에 맞아 실명자가 나왔다고 한다. 사진은 차마 올리지 못하겠다. ㅠ 사진은 지하철 역 내에서 최루탄응 수평으로 발사하는 홍콩경찰 https://t.co/PnI4j2UxiH"
+	},
+	{
 		"created_at": "Sun Aug 11 14:12:58 +0000 2019",
 		"id": 1160554703568031700,
 		"id_str": "1160554703568031744",
