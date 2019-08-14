@@ -1,6 +1,626 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 09:23:29 +0000 2019",
+		"id": 1161206628542140400,
+		"id_str": "1161206628542140416",
+		"full_text": "https://t.co/tkHo9GYSjt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tkHo9GYSjt",
+					"expanded_url": "https://youtu.be/txRSsLmVtYA",
+					"display_url": "youtu.be/txRSsLmVtYA",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 578,
+			"friends_count": 499,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/tkHo9GYSjt"
+	},
+	{
+		"created_at": "Tue Aug 13 09:20:00 +0000 2019",
+		"id": 1160123743701590000,
+		"id_str": "1161205753404805121",
+		"full_text": "More than thousand HKers sing Les Miserables' 'Do you hear the people sing?' at HK international airport with their calls for free election and democracy. Here is the Ground Zero in the war against authoritarian rule. That's the reason for us never surrender. https://t.co/1MkTp4BkVg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160123671853199400,
+					"id_str": "1160123671853199360",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1160123671853199360/pu/img/Hdm39pkbeXeGGGy_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1160123671853199360/pu/img/Hdm39pkbeXeGGGy_.jpg",
+					"url": "https://t.co/1MkTp4BkVg",
+					"display_url": "pic.twitter.com/1MkTp4BkVg",
+					"expanded_url": "https://twitter.com/joshuawongcf/status/1160123743701590016/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160123671853199400,
+					"id_str": "1160123671853199360",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1160123671853199360/pu/img/Hdm39pkbeXeGGGy_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1160123671853199360/pu/img/Hdm39pkbeXeGGGy_.jpg",
+					"url": "https://t.co/1MkTp4BkVg",
+					"display_url": "pic.twitter.com/1MkTp4BkVg",
+					"expanded_url": "https://twitter.com/joshuawongcf/status/1160123743701590016/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							30
+						],
+						"duration_millis": 67067,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1160123671853199360/pu/vid/476x270/ZUusIeTkokDraoIE.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1160123671853199360/pu/pl/Am6-qduUYVgZRcL0.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1160123671853199360/pu/vid/848x480/jz6dWtG-jIDLwgWb.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1160123671853199360/pu/vid/636x360/d0bNW1ZrZt1ngAFJ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18798768,
+			"id_str": "18798768",
+			"name": "Joshua Wong 黃之鋒",
+			"screen_name": "joshuawongcf",
+			"location": "Hong Kong",
+			"description": "Activist from Hong Kong. Secretary General of @demosisto. Email: joshua@demosisto.hk. Donation: https://t.co/GE16ejNpXs",
+			"url": "https://t.co/B3O49Kzf3Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B3O49Kzf3Y",
+							"expanded_url": "https://www.facebook.com/joshuawongchifung",
+							"display_url": "facebook.com/joshuawongchif…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GE16ejNpXs",
+							"expanded_url": "https://www.demosisto.hk/donation?lang=en",
+							"display_url": "demosisto.hk/donation?lang=…",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 250884,
+			"friends_count": 828,
+			"listed_count": 1007,
+			"created_at": "Fri Jan 09 11:23:36 +0000 2009",
+			"favourites_count": 1026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062905324279975936/bP3d4IcB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062905324279975936/bP3d4IcB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18798768/1543457160",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20696,
+		"favorite_count": 52139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More than thousand HKers sing Les Miserables' 'Do you hear the people sing?' at HK international airport with their calls for free election and democracy. Here is the Ground Zero in the war against authoritarian rule. That's the reason for us never surrender. https://t.co/1MkTp4BkVg"
+	},
+	{
+		"created_at": "Tue Aug 13 04:42:18 +0000 2019",
+		"id": 1160840147752984600,
+		"id_str": "1161135869232680961",
+		"full_text": "wk 1-2: *censorship*\nwk 2-4: \"violent mob\"\nwk 4-6: \"violent mob + meddling\"\nwk 6-8: \"violent mob + meddling + criminals\"\nwk 8-10: \"violent mob + meddling + criminals + separatists\"\nwk 10: \"terrorism\" \n\nWords beget action, and Beijing just took words to a new level. #HKprotests https://t.co/5bNmMGQ6L3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HKprotests",
+					"indices": [
+						266,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5bNmMGQ6L3",
+					"expanded_url": "https://twitter.com/AFP/status/1160830039015022593",
+					"display_url": "twitter.com/AFP/status/116…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266227511,
+			"id_str": "266227511",
+			"name": "Cate Cadell",
+			"screen_name": "catecadell",
+			"location": "Beijing",
+			"description": "China policy correspondent @Reuters, on tech, surveillance & censors. Views belong to a high-pitched cackle in my head. cate.cadell[at]thomsonreuters[dot]com",
+			"url": "https://t.co/XfnNvFHiz4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XfnNvFHiz4",
+							"expanded_url": "http://www.reuters.com/journalists/cate-cadell",
+							"display_url": "reuters.com/journalists/ca…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3176,
+			"friends_count": 2679,
+			"listed_count": 134,
+			"created_at": "Mon Mar 14 22:06:38 +0000 2011",
+			"favourites_count": 750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045435467074682882/_j16i5zK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045435467074682882/_j16i5zK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266227511/1475295271",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1160830039015022600,
+		"quoted_status_id_str": "1160830039015022593",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5bNmMGQ6L3",
+			"expanded": "https://twitter.com/AFP/status/1160830039015022593",
+			"display": "twitter.com/AFP/status/116…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 12 08:27:03 +0000 2019",
+			"id": 1160830039015022600,
+			"id_str": "1160830039015022593",
+			"full_text": "#BREAKING China slams violent Hong Kong protests as 'terrorism' https://t.co/oJOTrsjvW0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BREAKING",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1160830028336259000,
+						"id_str": "1160830028336259072",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/EBwYwquW4AA-Ezz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBwYwquW4AA-Ezz.jpg",
+						"url": "https://t.co/oJOTrsjvW0",
+						"display_url": "pic.twitter.com/oJOTrsjvW0",
+						"expanded_url": "https://twitter.com/AFP/status/1160830039015022593/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 512,
+								"h": 384,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 512,
+								"h": 384,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 512,
+								"h": 384,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1160830028336259000,
+						"id_str": "1160830028336259072",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/EBwYwquW4AA-Ezz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EBwYwquW4AA-Ezz.jpg",
+						"url": "https://t.co/oJOTrsjvW0",
+						"display_url": "pic.twitter.com/oJOTrsjvW0",
+						"expanded_url": "https://twitter.com/AFP/status/1160830039015022593/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 512,
+								"h": 384,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 512,
+								"h": 384,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 512,
+								"h": 384,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 380648579,
+				"id_str": "380648579",
+				"name": "AFP news agency",
+				"screen_name": "AFP",
+				"location": "France",
+				"description": "Top news and features from AFP's reporters around the world. Elsewhere on Twitter: https://t.co/4pIm8k2HLC",
+				"url": "https://t.co/kqhCI1T6KT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kqhCI1T6KT",
+								"expanded_url": "http://www.afp.com/en",
+								"display_url": "afp.com/en",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/4pIm8k2HLC",
+								"expanded_url": "http://u.afp.com/AFPTwitter",
+								"display_url": "u.afp.com/AFPTwitter",
+								"indices": [
+									83,
+									106
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1640029,
+				"friends_count": 667,
+				"listed_count": 20866,
+				"created_at": "Tue Sep 27 00:35:10 +0000 2011",
+				"favourites_count": 1789,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 204544,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/697343883630481408/c08JBfBB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/697343883630481408/c08JBfBB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/380648579/1565313566",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 524,
+			"favorite_count": 333,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 980,
+		"favorite_count": 1210,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "wk 1-2: *censorship*\nwk 2-4: \"violent mob\"\nwk 4-6: \"violent mob + meddling\"\nwk 6-8: \"violent mob + meddling + criminals\"\nwk 8-10: \"violent mob + meddling + criminals + separatists\"\nwk 10: \"terrorism\" \n\nWords beget action, and Beijing just took words to a new level. #HKprotests https://t.co/5bNmMGQ6L3"
+	},
+	{
 		"created_at": "Mon Aug 12 00:49:29 +0000 2019",
 		"id": 1160714890736066600,
 		"id_str": "1160714890736066560",
