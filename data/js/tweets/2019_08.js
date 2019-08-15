@@ -1,6 +1,697 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 14 10:05:46 +0000 2019",
+		"id": 1161579660494266400,
+		"id_str": "1161579660494266369",
+		"full_text": "다른 트윗은 멀쩡한데 https://t.co/dQUfs7VlZR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1161579651258445800,
+					"id_str": "1161579651258445834",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EB7CiduU8AoPh4Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EB7CiduU8AoPh4Z.jpg",
+					"url": "https://t.co/dQUfs7VlZR",
+					"display_url": "pic.twitter.com/dQUfs7VlZR",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1161579660494266369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161579651258445800,
+					"id_str": "1161579651258445834",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EB7CiduU8AoPh4Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EB7CiduU8AoPh4Z.jpg",
+					"url": "https://t.co/dQUfs7VlZR",
+					"display_url": "pic.twitter.com/dQUfs7VlZR",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1161579660494266369/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							50,
+							27
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EB7CiduU8AoPh4Z.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 578,
+			"friends_count": 500,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다른 트윗은 멀쩡한데 https://t.co/dQUfs7VlZR"
+	},
+	{
+		"created_at": "Wed Aug 14 09:59:58 +0000 2019",
+		"id": 1161553292519866400,
+		"id_str": "1161578198615748608",
+		"full_text": "누가보면 여성은 택배노동 안하는줄 알겠어요. 그 와중에 택배노동자 괘씸해서 생수시켰다는 놈은 인간 아니지? https://t.co/2GjxONmfuP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1161553248991400000,
+					"id_str": "1161553248991399937",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/EB6qhpnVUAE3MRO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB6qhpnVUAE3MRO.jpg",
+					"url": "https://t.co/2GjxONmfuP",
+					"display_url": "pic.twitter.com/2GjxONmfuP",
+					"expanded_url": "https://twitter.com/Solidarity_R/status/1161553292519866368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161553248991400000,
+					"id_str": "1161553248991399937",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/EB6qhpnVUAE3MRO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB6qhpnVUAE3MRO.jpg",
+					"url": "https://t.co/2GjxONmfuP",
+					"display_url": "pic.twitter.com/2GjxONmfuP",
+					"expanded_url": "https://twitter.com/Solidarity_R/status/1161553292519866368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1161553263449137200,
+					"id_str": "1161553263449137154",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/EB6qifeU4AI4TYJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB6qifeU4AI4TYJ.jpg",
+					"url": "https://t.co/2GjxONmfuP",
+					"display_url": "pic.twitter.com/2GjxONmfuP",
+					"expanded_url": "https://twitter.com/Solidarity_R/status/1161553292519866368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1161553278011752400,
+					"id_str": "1161553278011752448",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/EB6qjVuUwAA13g-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB6qjVuUwAA13g-.jpg",
+					"url": "https://t.co/2GjxONmfuP",
+					"display_url": "pic.twitter.com/2GjxONmfuP",
+					"expanded_url": "https://twitter.com/Solidarity_R/status/1161553292519866368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 945,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2469054806,
+			"id_str": "2469054806",
+			"name": "SOL🚩",
+			"screen_name": "Solidarity_R",
+			"location": "대한민국 경기도 안남시 민평동",
+			"description": "F32.1 있는 트젠퀴.\n사회주의자.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 965,
+			"friends_count": 395,
+			"listed_count": 8,
+			"created_at": "Tue Apr 29 09:50:14 +0000 2014",
+			"favourites_count": 9667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151180143068532736/KyiOHl3M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151180143068532736/KyiOHl3M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2469054806/1555401159",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 541,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "누가보면 여성은 택배노동 안하는줄 알겠어요. 그 와중에 택배노동자 괘씸해서 생수시켰다는 놈은 인간 아니지? https://t.co/2GjxONmfuP"
+	},
+	{
+		"created_at": "Wed Aug 14 08:41:22 +0000 2019",
+		"id": 1161554227509862400,
+		"id_str": "1161558420643708928",
+		"full_text": "「目には目を」香港空港を埋め尽くすデモ隊　写真から伝わる緊張感\nhttps://t.co/wyuvZgmV4J\n\n#香港加油 https://t.co/uuNBjDvZ9F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "香港加油",
+					"indices": [
+						57,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wyuvZgmV4J",
+					"expanded_url": "https://www.buzzfeed.com/jp/matthewchampion/hong-kong-airport-pictures-1",
+					"display_url": "buzzfeed.com/jp/matthewcham…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1161554007531249700,
+					"id_str": "1161554007531249670",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EB6rNzZU4AYLbIk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB6rNzZU4AYLbIk.jpg",
+					"url": "https://t.co/uuNBjDvZ9F",
+					"display_url": "pic.twitter.com/uuNBjDvZ9F",
+					"expanded_url": "https://twitter.com/soulflowerunion/status/1161554227509862400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 990,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 990,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161554007531249700,
+					"id_str": "1161554007531249670",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EB6rNzZU4AYLbIk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB6rNzZU4AYLbIk.jpg",
+					"url": "https://t.co/uuNBjDvZ9F",
+					"display_url": "pic.twitter.com/uuNBjDvZ9F",
+					"expanded_url": "https://twitter.com/soulflowerunion/status/1161554227509862400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 990,
+							"h": 503,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 345,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 990,
+							"h": 503,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61813946,
+			"id_str": "61813946",
+			"name": "ソウル・フラワー・ユニオン",
+			"screen_name": "soulflowerunion",
+			"location": "OSAKA, TOKYO, OKINAWA",
+			"description": "ロック・バンド『ソウル・フラワー・ユニオン』の公式アカウント。Vocalの中川敬、またはスタッフ（#soulflower）がツイートしています。Twilog → https://t.co/4OaPk0wZ0P 出演依頼はブレスト音楽出版まで → konge@breast.co.jp",
+			"url": "https://t.co/DJygW0pcvw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DJygW0pcvw",
+							"expanded_url": "http://www.breast.co.jp/soulflower/",
+							"display_url": "breast.co.jp/soulflower/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4OaPk0wZ0P",
+							"expanded_url": "http://twilog.org/soulflowerunion",
+							"display_url": "twilog.org/soulflowerunion",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39937,
+			"friends_count": 978,
+			"listed_count": 2242,
+			"created_at": "Fri Jul 31 16:47:22 +0000 2009",
+			"favourites_count": 62,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 146394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "048185",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/611231892612870144/_sxwwtpc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/611231892612870144/_sxwwtpc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61813946/1544676973",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "F2EEAC",
+			"profile_sidebar_fill_color": "F2EEAC",
+			"profile_text_color": "960E2E",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「目には目を」香港空港を埋め尽くすデモ隊　写真から伝わる緊張感\nhttps://t.co/wyuvZgmV4J\n\n#香港加油 https://t.co/uuNBjDvZ9F"
+	},
+	{
+		"created_at": "Wed Aug 14 02:49:52 +0000 2019",
+		"id": 1161469961950208000,
+		"id_str": "1161469961950208001",
+		"full_text": "&lt;시위대와 타인에 메이와쿠(민폐)&gt;  시위대와 —&gt; 시위대는",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1161468854159024000,
+		"in_reply_to_status_id_str": "1161468854159024128",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 578,
+			"friends_count": 500,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "&lt;시위대와 타인에 메이와쿠(민폐)&gt;  시위대와 —&gt; 시위대는"
+	},
+	{
 		"created_at": "Tue Aug 13 09:23:29 +0000 2019",
 		"id": 1161206628542140400,
 		"id_str": "1161206628542140416",
