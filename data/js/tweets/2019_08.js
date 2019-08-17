@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 16 03:14:48 +0000 2019",
+		"id": 1161243174615916500,
+		"id_str": "1162201012754456578",
+		"full_text": "#平和の少女像 紙で作りました。セブンイレブンでプリント出来ます。フォト用紙L版サイズ。予約番号44003215。赤い線をカット。点線を折り曲げて作ってください。あなたのお部屋の片隅においてください。少女像へのバッシングがあまりに多い日本社会が少しでも優しくなって欲しいです。 https://t.co/FKJagYjGxg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "平和の少女像",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1161243120908087300,
+					"id_str": "1161243120908087297",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1161243120908087297/pu/img/sE64b138EgKeE2Ef.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1161243120908087297/pu/img/sE64b138EgKeE2Ef.jpg",
+					"url": "https://t.co/FKJagYjGxg",
+					"display_url": "pic.twitter.com/FKJagYjGxg",
+					"expanded_url": "https://twitter.com/TOYOsanshin/status/1161243174615916545/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161243120908087300,
+					"id_str": "1161243120908087297",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1161243120908087297/pu/img/sE64b138EgKeE2Ef.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1161243120908087297/pu/img/sE64b138EgKeE2Ef.jpg",
+					"url": "https://t.co/FKJagYjGxg",
+					"display_url": "pic.twitter.com/FKJagYjGxg",
+					"expanded_url": "https://twitter.com/TOYOsanshin/status/1161243174615916545/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 9280,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1161243120908087297/pu/vid/1280x720/AmIHXFIYSatcNg7n.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1161243120908087297/pu/vid/640x360/JI3pQdD5h8sl_Gv2.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1161243120908087297/pu/vid/480x270/w3f8BqEAqwT1_B1e.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1161243120908087297/pu/pl/J8k0vgLB7OsV6BLv.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 280534792,
+			"id_str": "280534792",
+			"name": "TOYO",
+			"screen_name": "TOYOsanshin",
+			"location": "",
+			"description": "OKINAWAn SANSHIN Player　沖縄への祈りを込めて。ご先祖様の苦難と平和の想いを受け継ぎ未来へ。たとえ自分が無力だとしても平和の礎の中の一つの石ころでありたい。宮古島生まれ首里育ち東京在住三線ミュージシャンでアーティスト。  ↓翁長知事追悼、STOP辺野古琉球人魚　玉城デニー応援",
+			"url": "https://t.co/3qG8cNRfZQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3qG8cNRfZQ",
+							"expanded_url": "https://www.youtube.com/user/toyobox",
+							"display_url": "youtube.com/user/toyobox",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2420,
+			"friends_count": 1121,
+			"listed_count": 29,
+			"created_at": "Mon Apr 11 14:32:13 +0000 2011",
+			"favourites_count": 10198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824813581677891585/PQq68C5u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824813581677891585/PQq68C5u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/280534792/1497117665",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 753,
+		"favorite_count": 1138,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#平和の少女像 紙で作りました。セブンイレブンでプリント出来ます。フォト用紙L版サイズ。予約番号44003215。赤い線をカット。点線を折り曲げて作ってください。あなたのお部屋の片隅においてください。少女像へのバッシングがあまりに多い日本社会が少しでも優しくなって欲しいです。 https://t.co/FKJagYjGxg"
+	},
+	{
 		"created_at": "Wed Aug 14 10:05:46 +0000 2019",
 		"id": 1161579660494266400,
 		"id_str": "1161579660494266369",
