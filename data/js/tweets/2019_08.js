@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 17 23:15:13 +0000 2019",
+		"id": 1162862927436800000,
+		"id_str": "1162865495932100608",
+		"full_text": "The Dangerous New US Consensus on China and the Future of US-China Relations\n\nMel Gurtov and Mark Selden\n\nhttps://t.co/yKaslLWHQw \n\nCc: @hofrench https://t.co/aefEONESGn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hofrench",
+					"name": "Howard French",
+					"id": 16211073,
+					"id_str": "16211073",
+					"indices": [
+						136,
+						145
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yKaslLWHQw",
+					"expanded_url": "https://apjjf.org/2019/15/Gurtov-Selden.html",
+					"display_url": "apjjf.org/2019/15/Gurtov…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1162862926090449000,
+					"id_str": "1162862926090448896",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/ECNRq5AXsAAy5St.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECNRq5AXsAAy5St.jpg",
+					"url": "https://t.co/aefEONESGn",
+					"display_url": "pic.twitter.com/aefEONESGn",
+					"expanded_url": "https://twitter.com/apjjf/status/1162862927436800000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 299,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 299,
+							"h": 168,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 299,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1162862926090449000,
+					"id_str": "1162862926090448896",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/ECNRq5AXsAAy5St.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECNRq5AXsAAy5St.jpg",
+					"url": "https://t.co/aefEONESGn",
+					"display_url": "pic.twitter.com/aefEONESGn",
+					"expanded_url": "https://twitter.com/apjjf/status/1162862927436800000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 299,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 299,
+							"h": 168,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 299,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105521430,
+			"id_str": "105521430",
+			"name": "Asia-Pacific Journal",
+			"screen_name": "apjjf",
+			"location": "Global",
+			"description": "In-depth critical analysis of the forces shaping the Asia-Pacific region & the world.　RTs, follows, mentions, listing, etc. are not endorsements.",
+			"url": "https://t.co/GRfPGHSEb4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GRfPGHSEb4",
+							"expanded_url": "http://www.apjjf.org",
+							"display_url": "apjjf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7242,
+			"friends_count": 793,
+			"listed_count": 524,
+			"created_at": "Sat Jan 16 16:11:14 +0000 2010",
+			"favourites_count": 13436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F1DF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105521430/1555430110",
+			"profile_link_color": "572E4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EE0B5B",
+			"profile_text_color": "027B7F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Dangerous New US Consensus on China and the Future of US-China Relations\n\nMel Gurtov and Mark Selden\n\nhttps://t.co/yKaslLWHQw \n\nCc: @hofrench https://t.co/aefEONESGn"
+	},
+	{
+		"created_at": "Sat Aug 17 11:14:01 +0000 2019",
+		"id": 1162516843619209200,
+		"id_str": "1162683998734188544",
+		"full_text": "한국 정부가 ‘극일’을 너무 (국내) 정치용으로 이용하는 느낌이 있어서 싫다. 하지만 이 거품을 빼고 냉정하게 생각해도 이번 한일 갈등에서 한국 정부가 양보할 건 거의 없다. 법원의 일본 관련 판결을 뭉개는 행정부가 버틸 수 있겠나? 그렇게 생각한다면 (정부가 아니라) 한국 국민을 깔보는 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1162506869199343600,
+		"in_reply_to_status_id_str": "1162506869199343616",
+		"in_reply_to_user_id": 133255001,
+		"in_reply_to_user_id_str": "133255001",
+		"in_reply_to_screen_name": "TorSean",
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1127,
+			"friends_count": 357,
+			"listed_count": 24,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국 정부가 ‘극일’을 너무 (국내) 정치용으로 이용하는 느낌이 있어서 싫다. 하지만 이 거품을 빼고 냉정하게 생각해도 이번 한일 갈등에서 한국 정부가 양보할 건 거의 없다. 법원의 일본 관련 판결을 뭉개는 행정부가 버틸 수 있겠나? 그렇게 생각한다면 (정부가 아니라) 한국 국민을 깔보는 것."
+	},
+	{
+		"created_at": "Sat Aug 17 11:13:14 +0000 2019",
+		"id": 1162505868761415700,
+		"id_str": "1162683800700067840",
+		"full_text": "정부에 대한 시민의 비판은 대안이 없어도 정당하다. 대안 마련도 정부 책임이니까. 그런데 오늘 ‘재일 한국인 갈아넣는 극일이 무슨 소용이냐’는 트윗을 보고는 조금 한심한 생각이 들었다. 한국 정부가 일본에 굴복하면 재일 한국인 대우와 처지가 나아질까? ‘한국계 일본인’의 처지라면 또 모를까…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1127,
+			"friends_count": 357,
+			"listed_count": 24,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "정부에 대한 시민의 비판은 대안이 없어도 정당하다. 대안 마련도 정부 책임이니까. 그런데 오늘 ‘재일 한국인 갈아넣는 극일이 무슨 소용이냐’는 트윗을 보고는 조금 한심한 생각이 들었다. 한국 정부가 일본에 굴복하면 재일 한국인 대우와 처지가 나아질까? ‘한국계 일본인’의 처지라면 또 모를까…"
+	},
+	{
 		"created_at": "Fri Aug 16 03:14:48 +0000 2019",
 		"id": 1161243174615916500,
 		"id_str": "1162201012754456578",
