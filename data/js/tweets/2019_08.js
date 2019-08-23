@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 22 13:40:11 +0000 2019",
+		"id": 1164438430375239700,
+		"id_str": "1164532722791923712",
+		"full_text": "沉重的街头“暴力美学”，香港人以血的代价，捍卫自由。\n\n#反送中 #NoChinaExtradition #FreeHongKong #FreedomHK #Eye4HK https://t.co/riiatSqE7E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "反送中",
+					"indices": [
+						28,
+						32
+					]
+				},
+				{
+					"text": "NoChinaExtradition",
+					"indices": [
+						33,
+						52
+					]
+				},
+				{
+					"text": "FreeHongKong",
+					"indices": [
+						53,
+						66
+					]
+				},
+				{
+					"text": "FreedomHK",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "Eye4HK",
+					"indices": [
+						78,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1164438016200335400,
+					"id_str": "1164438016200335360",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1164438016200335360/pu/img/AXG0r8BbBD3Nac5k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1164438016200335360/pu/img/AXG0r8BbBD3Nac5k.jpg",
+					"url": "https://t.co/riiatSqE7E",
+					"display_url": "pic.twitter.com/riiatSqE7E",
+					"expanded_url": "https://twitter.com/Alston_Kwan/status/1164438430375239680/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1044,
+							"h": 588,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1044,
+							"h": 588,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1164438016200335400,
+					"id_str": "1164438016200335360",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1164438016200335360/pu/img/AXG0r8BbBD3Nac5k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1164438016200335360/pu/img/AXG0r8BbBD3Nac5k.jpg",
+					"url": "https://t.co/riiatSqE7E",
+					"display_url": "pic.twitter.com/riiatSqE7E",
+					"expanded_url": "https://twitter.com/Alston_Kwan/status/1164438430375239680/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1044,
+							"h": 588,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1044,
+							"h": 588,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							87,
+							49
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1164438016200335360/pu/vid/638x360/4usqz_kRStXuP0D3.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1164438016200335360/pu/vid/478x270/PtPzUg_r4DZjJZ0V.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1164438016200335360/pu/pl/qUWLT_-MjyB3QZFR.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1164438016200335360/pu/vid/1044x588/f0py_efQmj8GxIe9.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 804913514087231500,
+			"id_str": "804913514087231488",
+			"name": "關堯 · Alston Kwan",
+			"screen_name": "Alston_Kwan",
+			"location": "USA",
+			"description": "关尧 Alston Kwan 「華人反極權聯盟」创办人 The founder of Anti-Totalitarian Chinese Alliance(Chinese dissidents) https://t.co/vk3WkNZpFI Email:AlstonKwan@Yahoo.com",
+			"url": "https://t.co/Ewymu0UwHl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ewymu0UwHl",
+							"expanded_url": "http://China.ziyouminzhu.com",
+							"display_url": "China.ziyouminzhu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vk3WkNZpFI",
+							"expanded_url": "http://instagram.com/alston_kwan_",
+							"display_url": "instagram.com/alston_kwan_",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14184,
+			"friends_count": 2372,
+			"listed_count": 54,
+			"created_at": "Sat Dec 03 05:01:51 +0000 2016",
+			"favourites_count": 7625,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152071448799768577/rGFCfyV0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152071448799768577/rGFCfyV0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/804913514087231488/1562482135",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "沉重的街头“暴力美学”，香港人以血的代价，捍卫自由。\n\n#反送中 #NoChinaExtradition #FreeHongKong #FreedomHK #Eye4HK https://t.co/riiatSqE7E"
+	},
+	{
 		"created_at": "Sun Aug 18 01:20:13 +0000 2019",
 		"id": 1162892460630126600,
 		"id_str": "1162896953665105927",
