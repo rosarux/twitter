@@ -1,6 +1,1164 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 25 14:53:20 +0000 2019",
+		"id": 1165634458147410000,
+		"id_str": "1165638294392098816",
+		"full_text": "仙台市議選は立憲民主党6人全員が当選しました。ご支援ありがとうございました。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95338477,
+			"id_str": "95338477",
+			"name": "有田芳生",
+			"screen_name": "aritayoshifu",
+			"location": "東京都練馬区",
+			"description": "参議院議員・ジャーナリスト。アイコンはナンシー関さん、佐藤秀峰さん、弘兼憲史さん、柴門ふみさん、安西水丸さんなど適宜変わります。いまは久々に佐藤さん（ブラックヴァージョン）です。「つぶやき」は森羅万象。政治的主張の空間とは考えていません。何でも書きます。他者罵倒の礼儀知らずやあてこすり匿名常習者は勝手に拒否します。",
+			"url": "https://t.co/9AuBpid4xr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9AuBpid4xr",
+							"expanded_url": "http://www.web-arita.com/",
+							"display_url": "web-arita.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115487,
+			"friends_count": 182,
+			"listed_count": 7468,
+			"created_at": "Tue Dec 08 03:04:36 +0000 2009",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 47454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162554800904347648/zM7kjEsd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162554800904347648/zM7kjEsd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95338477/1547705230",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 163,
+		"favorite_count": 399,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "仙台市議選は立憲民主党6人全員が当選しました。ご支援ありがとうございました。"
+	},
+	{
+		"created_at": "Sun Aug 25 14:50:00 +0000 2019",
+		"id": 1165632510144831500,
+		"id_str": "1165637453593493505",
+		"full_text": "【動画】『香港の警官が銃を抜いて威嚇した瞬間の映像』\n\nすでに大陸のネットにもあがっていました。\n\n#antiELAB\n#香港反送中 https://t.co/jxaCGhUp2w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "antiELAB",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"text": "香港反送中",
+					"indices": [
+						60,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1165631999551230000,
+					"id_str": "1165631999551229953",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1165631999551229953/pu/img/0iDuMjQ2d660kB5_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1165631999551229953/pu/img/0iDuMjQ2d660kB5_.jpg",
+					"url": "https://t.co/jxaCGhUp2w",
+					"display_url": "pic.twitter.com/jxaCGhUp2w",
+					"expanded_url": "https://twitter.com/bci_/status/1165632510144831489/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165631999551230000,
+					"id_str": "1165631999551229953",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1165631999551229953/pu/img/0iDuMjQ2d660kB5_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1165631999551229953/pu/img/0iDuMjQ2d660kB5_.jpg",
+					"url": "https://t.co/jxaCGhUp2w",
+					"display_url": "pic.twitter.com/jxaCGhUp2w",
+					"expanded_url": "https://twitter.com/bci_/status/1165632510144831489/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 224,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"duration_millis": 70840,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165631999551229953/pu/vid/400x224/aviGqF6GFS_dELf1.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1165631999551229953/pu/pl/r6Oki1a1JkB2vKNn.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1165628831308247000,
+		"in_reply_to_status_id_str": "1165628831308247042",
+		"in_reply_to_user_id": 44386311,
+		"in_reply_to_user_id_str": "44386311",
+		"in_reply_to_screen_name": "bci_",
+		"user": {
+			"id": 44386311,
+			"id_str": "44386311",
+			"name": "黒色中国",
+			"screen_name": "bci_",
+			"location": "東アジア",
+			"description": "中国について学び・考え・行動するのが私のライフワークです。 #中国 #中国人 #Leica  #shanghaigp3 #rollei35 #D3400 #銀河英雄伝説 #ラオガンマ ■Instagram : https://t.co/EoKCGfuW9P",
+			"url": "https://t.co/rRmQoahHKV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rRmQoahHKV",
+							"expanded_url": "http://bci.hatenablog.com/",
+							"display_url": "bci.hatenablog.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/EoKCGfuW9P",
+							"expanded_url": "https://www.instagram.com/blackchinainfo",
+							"display_url": "instagram.com/blackchinainfo",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 50051,
+			"friends_count": 300,
+			"listed_count": 1596,
+			"created_at": "Wed Jun 03 15:52:51 +0000 2009",
+			"favourites_count": 87554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 332110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145468583381590016/3QGF0Bhb_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145468583381590016/3QGF0Bhb_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44386311/1561936039",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 203,
+		"favorite_count": 122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【動画】『香港の警官が銃を抜いて威嚇した瞬間の映像』\n\nすでに大陸のネットにもあがっていました。\n\n#antiELAB\n#香港反送中 https://t.co/jxaCGhUp2w"
+	},
+	{
+		"created_at": "Sun Aug 25 14:29:23 +0000 2019",
+		"id": 1165626031652429800,
+		"id_str": "1165632267663724549",
+		"full_text": "Police fire live ammunition for the 1st time after being attacked by #antiELAB protesters on the 12th weekend of  #HongKongProtests #香港 https://t.co/ORRIPBKtvr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "antiELAB",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						114,
+						131
+					]
+				},
+				{
+					"text": "香港",
+					"indices": [
+						132,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1165625970713346000,
+					"id_str": "1165625970713346053",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1165625970713346053/pu/img/js2HiXME1b2hJKC6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1165625970713346053/pu/img/js2HiXME1b2hJKC6.jpg",
+					"url": "https://t.co/ORRIPBKtvr",
+					"display_url": "pic.twitter.com/ORRIPBKtvr",
+					"expanded_url": "https://twitter.com/tictoc/status/1165626031652429830/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165625970713346000,
+					"id_str": "1165625970713346053",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1165625970713346053/pu/img/js2HiXME1b2hJKC6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1165625970713346053/pu/img/js2HiXME1b2hJKC6.jpg",
+					"url": "https://t.co/ORRIPBKtvr",
+					"display_url": "pic.twitter.com/ORRIPBKtvr",
+					"expanded_url": "https://twitter.com/tictoc/status/1165626031652429830/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 18685,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165625970713346053/pu/vid/720x720/bTT1RKHh4o9Uq-LN.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1165625970713346053/pu/pl/Bms0rncem-lHJAwp.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165625970713346053/pu/vid/480x480/r9GkSZxJIrebww7Y.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165625970713346053/pu/vid/320x320/9EsDqGkzqwI4Ft1h.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1165617313904844800,
+		"in_reply_to_status_id_str": "1165617313904844807",
+		"in_reply_to_user_id": 252751061,
+		"in_reply_to_user_id_str": "252751061",
+		"in_reply_to_screen_name": "tictoc",
+		"user": {
+			"id": 252751061,
+			"id_str": "252751061",
+			"name": "Bloomberg TicToc",
+			"screen_name": "tictoc",
+			"location": "",
+			"description": "Global news for the world we live in now. Sign up for our daily newsletter: https://t.co/xVmBSOUvWg",
+			"url": "https://t.co/xVmBSOUvWg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xVmBSOUvWg",
+							"expanded_url": "https://bloom.bg/31N0XzX",
+							"display_url": "bloom.bg/31N0XzX",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xVmBSOUvWg",
+							"expanded_url": "https://bloom.bg/31N0XzX",
+							"display_url": "bloom.bg/31N0XzX",
+							"indices": [
+								76,
+								99
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 763402,
+			"friends_count": 1240,
+			"listed_count": 6140,
+			"created_at": "Tue Feb 15 20:50:58 +0000 2011",
+			"favourites_count": 898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 148262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940202913393082373/23X8DJQc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940202913393082373/23X8DJQc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/252751061/1565192822",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 352,
+		"favorite_count": 235,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Police fire live ammunition for the 1st time after being attacked by #antiELAB protesters on the 12th weekend of  #HongKongProtests #香港 https://t.co/ORRIPBKtvr"
+	},
+	{
+		"created_at": "Sun Aug 25 14:21:03 +0000 2019",
+		"id": 1165615575940288500,
+		"id_str": "1165630169605799936",
+		"full_text": "WATCH: the gun shot fired in #TsuenWan, after #police officers were outnumbered &amp; under attack. Officers then pointed their weapons and advanced several metres. #HongKongProtests #AntiELAB\n\nFull story here: https://t.co/NrYL21QBNt https://t.co/4rFz8D0uRm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TsuenWan",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"text": "police",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"text": "HongKongProtests",
+					"indices": [
+						165,
+						182
+					]
+				},
+				{
+					"text": "AntiELAB",
+					"indices": [
+						183,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NrYL21QBNt",
+					"expanded_url": "https://news.rthk.hk/rthk/en/component/k2/1476728-20190825.htm",
+					"display_url": "news.rthk.hk/rthk/en/compon…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1165615438455132200,
+					"id_str": "1165615438455132164",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1165615438455132164/pu/img/x4grpxGc8o8kO7Ks.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1165615438455132164/pu/img/x4grpxGc8o8kO7Ks.jpg",
+					"url": "https://t.co/4rFz8D0uRm",
+					"display_url": "pic.twitter.com/4rFz8D0uRm",
+					"expanded_url": "https://twitter.com/damon_pang/status/1165615575940288512/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165615438455132200,
+					"id_str": "1165615438455132164",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1165615438455132164/pu/img/x4grpxGc8o8kO7Ks.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1165615438455132164/pu/img/x4grpxGc8o8kO7Ks.jpg",
+					"url": "https://t.co/4rFz8D0uRm",
+					"display_url": "pic.twitter.com/4rFz8D0uRm",
+					"expanded_url": "https://twitter.com/damon_pang/status/1165615575940288512/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 74640,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165615438455132164/pu/vid/480x270/ZNrCdjUj-Ez5BlK3.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165615438455132164/pu/vid/640x360/TkZqWAHaWr40WN4S.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1165615438455132164/pu/vid/854x480/aNuUIY5_ildKYMwc.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1165615438455132164/pu/pl/w80YHmlQ0McdzDzC.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3384104129,
+			"id_str": "3384104129",
+			"name": "Damon Pang",
+			"screen_name": "damon_pang",
+			"location": "Hong Kong",
+			"description": "Journalist, Radio Television Hong Kong @rthk_enews. Views here are my own. 香港電台 記者",
+			"url": "https://t.co/z5dMc9yANo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/z5dMc9yANo",
+							"expanded_url": "https://news.rthk.hk/rthk/en/",
+							"display_url": "news.rthk.hk/rthk/en/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5680,
+			"friends_count": 722,
+			"listed_count": 143,
+			"created_at": "Mon Jul 20 05:07:09 +0000 2015",
+			"favourites_count": 693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/741948011702456320/Wj0Z1BcK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/741948011702456320/Wj0Z1BcK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3384104129/1437369746",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WATCH: the gun shot fired in #TsuenWan, after #police officers were outnumbered &amp; under attack. Officers then pointed their weapons and advanced several metres. #HongKongProtests #AntiELAB\n\nFull story here: https://t.co/NrYL21QBNt https://t.co/4rFz8D0uRm"
+	},
+	{
+		"created_at": "Sun Aug 25 14:17:35 +0000 2019",
+		"id": 1165629297790349300,
+		"id_str": "1165629297790349312",
+		"full_text": "오늘 따라 유난히 권총을 꺼내 시위대를 겨우며 위협하느 사진이 많이 올라오더니만 ㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1165628889189609500,
+		"in_reply_to_status_id_str": "1165628889189609472",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 578,
+			"friends_count": 501,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오늘 따라 유난히 권총을 꺼내 시위대를 겨우며 위협하느 사진이 많이 올라오더니만 ㅠ"
+	},
+	{
+		"created_at": "Sun Aug 25 14:15:58 +0000 2019",
+		"id": 1165628889189609500,
+		"id_str": "1165628889189609472",
+		"full_text": "홍콩경찰이 발포했다는 속보가 ㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 578,
+			"friends_count": 501,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "홍콩경찰이 발포했다는 속보가 ㅠㅠ"
+	},
+	{
+		"created_at": "Sun Aug 25 14:12:42 +0000 2019",
+		"id": 1165617842571464700,
+		"id_str": "1165628069945602048",
+		"full_text": "香港警察が発砲 https://t.co/f6Z8FE6XsZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f6Z8FE6XsZ",
+					"expanded_url": "http://bit.ly/2HpQX87",
+					"display_url": "bit.ly/2HpQX87",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.47news.jp/\" rel=\"nofollow\">47NEWS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10462562,
+			"id_str": "10462562",
+			"name": "47NEWS",
+			"screen_name": "47news",
+			"location": "Tokyo",
+			"description": "共同通信ニュースの非公式Botです。お問い合わせは @47newshelp へツイートしてください。速報ニュースのみ欲しい方は @47newsflash をご利用ください。",
+			"url": "http://t.co/2Ok5xPDjB8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2Ok5xPDjB8",
+							"expanded_url": "http://www.47news.jp/",
+							"display_url": "47news.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 445047,
+			"friends_count": 2,
+			"listed_count": 20111,
+			"created_at": "Thu Nov 22 08:06:04 +0000 2007",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 643074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/51678900/47newslogo90_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/51678900/47newslogo90_normal.jpg",
+			"profile_link_color": "345DB0",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 930,
+		"favorite_count": 441,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "香港警察が発砲 https://t.co/f6Z8FE6XsZ"
+	},
+	{
+		"created_at": "Sun Aug 25 13:29:49 +0000 2019",
+		"id": 1165617277175091200,
+		"id_str": "1165617277175091203",
+		"full_text": "사이타마현지사선거 야당 승리 확실시 埼玉県知事選 大野元裕氏 当選確実 野党４党が支援 | NHKニュース https://t.co/pNsOFDdoTQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pNsOFDdoTQ",
+					"expanded_url": "https://www3.nhk.or.jp/news/html/20190825/k10012048161000.html",
+					"display_url": "www3.nhk.or.jp/news/html/2019…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 578,
+			"friends_count": 501,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "사이타마현지사선거 야당 승리 확실시 埼玉県知事選 大野元裕氏 当選確実 野党４党が支援 | NHKニュース https://t.co/pNsOFDdoTQ"
+	},
+	{
 		"created_at": "Thu Aug 22 13:40:11 +0000 2019",
 		"id": 1164438430375239700,
 		"id_str": "1164532722791923712",
