@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 26 12:01:18 +0000 2019",
+		"id": 1165675707638304800,
+		"id_str": "1165957386428796928",
+		"full_text": "安倍晋三のことを「外交の安倍」とか呼んでたやつ今日から毎日これ食えよ https://t.co/yx5XVqMOco",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1165675699098681300,
+					"id_str": "1165675699098681344",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/EC1P31AVAAAk-cl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC1P31AVAAAk-cl.jpg",
+					"url": "https://t.co/yx5XVqMOco",
+					"display_url": "pic.twitter.com/yx5XVqMOco",
+					"expanded_url": "https://twitter.com/Ryo_koumei_m/status/1165675707638304768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1165675699098681300,
+					"id_str": "1165675699098681344",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/EC1P31AVAAAk-cl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EC1P31AVAAAk-cl.jpg",
+					"url": "https://t.co/yx5XVqMOco",
+					"display_url": "pic.twitter.com/yx5XVqMOco",
+					"expanded_url": "https://twitter.com/Ryo_koumei_m/status/1165675707638304768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 863910268090306600,
+			"id_str": "863910268090306560",
+			"name": "Ryo",
+			"screen_name": "Ryo_koumei_m",
+			"location": "",
+			"description": "応援:本宮佳奈さん、遠藤実礼子さん、 #温泉むすめ 、有馬温泉/好き:ベース、B.sax、デグー、アニメけもフレ【一期】、ガンダム(1st)、エヴァ(旧劇) 、ステラグロウ…etc",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1812,
+			"friends_count": 3403,
+			"listed_count": 28,
+			"created_at": "Mon May 15 00:13:53 +0000 2017",
+			"favourites_count": 113334,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160093349451223040/6D4RlN6N_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160093349451223040/6D4RlN6N_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/863910268090306560/1548412411",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1683,
+		"favorite_count": 3163,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "安倍晋三のことを「外交の安倍」とか呼んでたやつ今日から毎日これ食えよ https://t.co/yx5XVqMOco"
+	},
+	{
 		"created_at": "Sun Aug 25 14:53:20 +0000 2019",
 		"id": 1165634458147410000,
 		"id_str": "1165638294392098816",
