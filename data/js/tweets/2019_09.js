@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 03 12:15:34 +0000 2019",
+		"id": 1168860080252473300,
+		"id_str": "1168860080252473345",
+		"full_text": "결국 검사장 직선제가 답이다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 578,
+			"friends_count": 499,
+			"listed_count": 21,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17693,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "결국 검사장 직선제가 답이다"
+	},
+	{
+		"created_at": "Tue Sep 03 11:42:42 +0000 2019",
+		"id": 1168740365559484400,
+		"id_str": "1168851809164640256",
+		"full_text": "도대체 조국을 어디까지 올려놔야 썽이 풀리냔 말임 https://t.co/vqBmbTFhMS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vqBmbTFhMS",
+					"expanded_url": "https://twitter.com/hubris2020/status/1168668323837435904",
+					"display_url": "twitter.com/hubris2020/sta…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1086819657678434300,
+			"id_str": "1086819657678434306",
+			"name": "마근학",
+			"screen_name": "jessebbypinkman",
+			"location": "",
+			"description": "당직자프사",
+			"url": "https://t.co/7IDoW8iFLm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7IDoW8iFLm",
+							"expanded_url": "https://twitter.com",
+							"display_url": "twitter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 360,
+			"friends_count": 225,
+			"listed_count": 8,
+			"created_at": "Sun Jan 20 02:56:13 +0000 2019",
+			"favourites_count": 8181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160566864348454912/DIggoTmQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160566864348454912/DIggoTmQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1086819657678434306/1557491430",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1168668323837436000,
+		"quoted_status_id_str": "1168668323837435904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vqBmbTFhMS",
+			"expanded": "https://twitter.com/hubris2020/status/1168668323837435904",
+			"display": "twitter.com/hubris2020/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 02 23:33:35 +0000 2019",
+			"id": 1168668323837436000,
+			"id_str": "1168668323837435904",
+			"full_text": "나는 검찰이 조국을 수사를 하기 시작하면서 주가가 반등하고 있다고 생각한다. 기소를 하면 더 오를 것이고 유죄가 선고되면 더 오를 것이다. 코리아 디스카운트는 이 정부의 아집이 꺾여야 해소된다. 장례식장에서 만난 사람들이 금과 달러를 사야하냐고 내게 질문하는 것과 상관있는 현상이다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 459811305,
+				"id_str": "459811305",
+				"name": "김동조",
+				"screen_name": "hubris2020",
+				"location": "",
+				"description": "Hubris would anger the Genie _Barton Biggs",
+				"url": "http://t.co/ubRDvpXNLl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ubRDvpXNLl",
+								"expanded_url": "http://kimdongjo.com",
+								"display_url": "kimdongjo.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 150065,
+				"friends_count": 0,
+				"listed_count": 636,
+				"created_at": "Tue Jan 10 02:37:56 +0000 2012",
+				"favourites_count": 2106,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14632,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/583514319691751424/gMf9A2sh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/583514319691751424/gMf9A2sh_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 91,
+			"favorite_count": 90,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 10,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "도대체 조국을 어디까지 올려놔야 썽이 풀리냔 말임 https://t.co/vqBmbTFhMS"
+	},
+	{
 		"created_at": "Mon Sep 02 14:57:29 +0000 2019",
 		"id": 1168510409197809700,
 		"id_str": "1168538441962799105",
