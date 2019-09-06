@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 05 12:40:18 +0000 2019",
+		"id": 1169434199935221800,
+		"id_str": "1169591080297254912",
+		"full_text": "와...좋은 기사다. 요즘 찾아보기 힘든, 진짜 취재/분석 기사.\n이런 기자들 잘 됐으면 좋겠다.\n\n\"강진구 노동·탐사전문기자 kangjk@kyunghyang.com\"\n\n[단독]조국을 옥죄는 윤석열의 '칼잡이'가 2년전 여름에 한 일 | 다음뉴스 https://t.co/xWfc5QxDNe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xWfc5QxDNe",
+					"expanded_url": "https://news.v.daum.net/v/20190905060217840?f=m",
+					"display_url": "news.v.daum.net/v/201909050602…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 461263284,
+			"id_str": "461263284",
+			"name": "GG🌱",
+			"screen_name": "operationoxygen",
+			"location": "대한민국",
+			"description": "에피쿰 뚝딱! 꼬마가 만들어낸 주문. 혈액암 환자. 잘 이겨내자...!! Lab of Axon Regeneration & Degeneration, Lymphoma patient 6xR-CHOP/radiation/high dose chemo/autoSCT",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2967,
+			"friends_count": 2488,
+			"listed_count": 60,
+			"created_at": "Wed Jan 11 16:30:21 +0000 2012",
+			"favourites_count": 184057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 121117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1050771296617779200/nAVniCLe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1050771296617779200/nAVniCLe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/461263284/1486039667",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 797,
+		"favorite_count": 436,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "와...좋은 기사다. 요즘 찾아보기 힘든, 진짜 취재/분석 기사.\n이런 기자들 잘 됐으면 좋겠다.\n\n\"강진구 노동·탐사전문기자 kangjk@kyunghyang.com\"\n\n[단독]조국을 옥죄는 윤석열의 '칼잡이'가 2년전 여름에 한 일 | 다음뉴스 https://t.co/xWfc5QxDNe"
+	},
+	{
 		"created_at": "Tue Sep 03 12:15:34 +0000 2019",
 		"id": 1168860080252473300,
 		"id_str": "1168860080252473345",
