@@ -1,6 +1,1184 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 07 20:42:05 +0000 2019",
+		"id": 1170222775077757000,
+		"id_str": "1170437101915004928",
+		"full_text": "386-586 프레임의 개좆같은 점은 9년+α 묵은 적폐의 횡포는 민정당계가 휘둘렀는데 정권이 바뀌자마자 세대론과 안티위선 흐름이 이상하게 뒤섞이면서 책임전가를 50대 민주화 세력에 하고 있다 이거임 https://t.co/8bhnJlO3zV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170222765091147800,
+					"id_str": "1170222765091147776",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/ED13Z51VUAAZpsm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED13Z51VUAAZpsm.jpg",
+					"url": "https://t.co/8bhnJlO3zV",
+					"display_url": "pic.twitter.com/8bhnJlO3zV",
+					"expanded_url": "https://twitter.com/wn4040/status/1170222775077756928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1922,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170222765091147800,
+					"id_str": "1170222765091147776",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/ED13Z51VUAAZpsm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED13Z51VUAAZpsm.jpg",
+					"url": "https://t.co/8bhnJlO3zV",
+					"display_url": "pic.twitter.com/8bhnJlO3zV",
+					"expanded_url": "https://twitter.com/wn4040/status/1170222775077756928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1922,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 453115202,
+			"id_str": "453115202",
+			"name": "EVERGREEN🕊",
+			"screen_name": "wn4040",
+			"location": "",
+			"description": "책과 만화와 월요일",
+			"url": "https://t.co/KSFcEP4hur",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KSFcEP4hur",
+							"expanded_url": "https://www.youtube.com/user/EVERGREENAA",
+							"display_url": "youtube.com/user/EVERGREEN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 678,
+			"friends_count": 1371,
+			"listed_count": 22,
+			"created_at": "Mon Jan 02 16:04:36 +0000 2012",
+			"favourites_count": 5909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 104764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/965604393398681600/_pxME3RL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/965604393398681600/_pxME3RL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/453115202/1519984020",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "386-586 프레임의 개좆같은 점은 9년+α 묵은 적폐의 횡포는 민정당계가 휘둘렀는데 정권이 바뀌자마자 세대론과 안티위선 흐름이 이상하게 뒤섞이면서 책임전가를 50대 민주화 세력에 하고 있다 이거임 https://t.co/8bhnJlO3zV"
+	},
+	{
+		"created_at": "Sat Sep 07 10:24:35 +0000 2019",
+		"id": 1170281602665996300,
+		"id_str": "1170281702465236997",
+		"full_text": "주색잡기가 주특기라는게 너무나 똑같고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1170280981229498400,
+		"in_reply_to_status_id_str": "1170280981229498369",
+		"in_reply_to_user_id": 42567931,
+		"in_reply_to_user_id_str": "42567931",
+		"in_reply_to_screen_name": "corwin1129",
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn, NCT, 이달소 붐은 온다! 언제가는...",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2767,
+			"friends_count": 1324,
+			"listed_count": 78,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 100287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1565051000",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "주색잡기가 주특기라는게 너무나 똑같고"
+	},
+	{
+		"created_at": "Sat Sep 07 10:24:33 +0000 2019",
+		"id": 1170280981229498400,
+		"id_str": "1170281692889632769",
+		"full_text": "한국 검찰은 이제 그냥 황국 육군 같은 느낌이야. 연속된 승리에 경도되어 정도를 모르게 된 집단...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn, NCT, 이달소 붐은 온다! 언제가는...",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2767,
+			"friends_count": 1324,
+			"listed_count": 78,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 100287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1565051000",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국 검찰은 이제 그냥 황국 육군 같은 느낌이야. 연속된 승리에 경도되어 정도를 모르게 된 집단..."
+	},
+	{
+		"created_at": "Sat Sep 07 08:55:44 +0000 2019",
+		"id": 1170067378761154600,
+		"id_str": "1170259342165045248",
+		"full_text": "沖縄・石垣島に移り住み、歴史に翻弄されながらも生き抜いてきた台湾移民三代の軌跡。台湾人とも日本人とも認められず、国籍の無い移民として絶えず不安にさらされた人生。アイデンティティの問題に直面した子どもたちの人生。ドキュメンタリー映画「海の彼方」絶賛配信中！\nhttps://t.co/XHgGccZmJ0 https://t.co/b1YlAXbzIj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XHgGccZmJ0",
+					"expanded_url": "https://asiandocs.co.jp/con/153?from_category_id=5",
+					"display_url": "asiandocs.co.jp/con/153?from_c…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170066777318908000,
+					"id_str": "1170066777318907905",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170066777318907905/pu/img/rBIvcLn9DUD3MmZR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170066777318907905/pu/img/rBIvcLn9DUD3MmZR.jpg",
+					"url": "https://t.co/b1YlAXbzIj",
+					"display_url": "pic.twitter.com/b1YlAXbzIj",
+					"expanded_url": "https://twitter.com/asiandocs_tokyo/status/1170067378761154560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170066777318908000,
+					"id_str": "1170066777318907905",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1170066777318907905/pu/img/rBIvcLn9DUD3MmZR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1170066777318907905/pu/img/rBIvcLn9DUD3MmZR.jpg",
+					"url": "https://t.co/b1YlAXbzIj",
+					"display_url": "pic.twitter.com/b1YlAXbzIj",
+					"expanded_url": "https://twitter.com/asiandocs_tokyo/status/1170067378761154560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 117050,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1170066777318907905/pu/pl/Vhx7Kh-x6AgxgVW0.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170066777318907905/pu/vid/480x270/F2xMqs_9ZbZVmHHV.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170066777318907905/pu/vid/640x360/iBo4AUSikk7K9Znl.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1170066777318907905/pu/vid/1280x720/_aON2VqtsSLlk3H4.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 992718337372123100,
+			"id_str": "992718337372123137",
+			"name": "アジアンドキュメンタリーズ",
+			"screen_name": "asiandocs_tokyo",
+			"location": "日本 東京",
+			"description": "私たちアジアンドキュメンタリーズは、優れたアジアのドキュメンタリーを世界へ配信し、アジアでドキュメンタリー制作者ネットワークの構築をめざす日本の新しい映像配信会社です。",
+			"url": "https://t.co/Y1ClwUbHDE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y1ClwUbHDE",
+							"expanded_url": "https://asiandocs.co.jp/",
+							"display_url": "asiandocs.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1843,
+			"friends_count": 256,
+			"listed_count": 48,
+			"created_at": "Sat May 05 10:51:10 +0000 2018",
+			"favourites_count": 165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/992719436468535300/HMjiluO-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/992719436468535300/HMjiluO-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/992718337372123137/1525518560",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 62,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "沖縄・石垣島に移り住み、歴史に翻弄されながらも生き抜いてきた台湾移民三代の軌跡。台湾人とも日本人とも認められず、国籍の無い移民として絶えず不安にさらされた人生。アイデンティティの問題に直面した子どもたちの人生。ドキュメンタリー映画「海の彼方」絶賛配信中！\nhttps://t.co/XHgGccZmJ0 https://t.co/b1YlAXbzIj"
+	},
+	{
+		"created_at": "Sat Sep 07 06:22:58 +0000 2019",
+		"id": 1170205932417998800,
+		"id_str": "1170220897338179589",
+		"full_text": "불필요했던 것이고, 별 다른 가시적인 네트워크 없이도 이 정도 응집을 보이는 것에서 남성연대의 공고함을 알 수 있다;;ㅋㅋ 단체나 체계적인 이론 없이도 '상식'과 '분위기'를 공유하니까",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1170205470906146800,
+		"in_reply_to_status_id_str": "1170205470906146816",
+		"in_reply_to_user_id": 1140251360,
+		"in_reply_to_user_id_str": "1140251360",
+		"in_reply_to_screen_name": "Hadrianus753",
+		"user": {
+			"id": 1140251360,
+			"id_str": "1140251360",
+			"name": "🏳️‍🌈까만사각형 레고🚩",
+			"screen_name": "Hadrianus753",
+			"location": "조선",
+			"description": "이것저것 씁니다 / 여혐(비페미, 안티페미), 제노포비아, 퀴어포비아, 파시스트, 장애혐오 등등 안받아요 / 제국주의에 반대합니다 / 사회주의세요🚩",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 514,
+			"friends_count": 209,
+			"listed_count": 12,
+			"created_at": "Fri Feb 01 17:18:12 +0000 2013",
+			"favourites_count": 3708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 102931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112388034492719104/6VEE7Y3H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112388034492719104/6VEE7Y3H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1140251360/1566542009",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "불필요했던 것이고, 별 다른 가시적인 네트워크 없이도 이 정도 응집을 보이는 것에서 남성연대의 공고함을 알 수 있다;;ㅋㅋ 단체나 체계적인 이론 없이도 '상식'과 '분위기'를 공유하니까"
+	},
+	{
+		"created_at": "Sat Sep 07 05:50:18 +0000 2019",
+		"id": 1170211556878979000,
+		"id_str": "1170212676951134208",
+		"full_text": "시기만 생각해도 간단히 알 수 있는 걸 모른다면 아마 관념 속에 살기 때문. 87년부터 10년간 노태우, 김영삼 정부에서 87체제라는 건 문건 속에나 있던 것이고 사실상 첫 민주 정부인 김대중 정부는 시작부터 외환위기에 규정받았다. 정리해고, 구조조정, 그 여파와 트라우마가 지금까지 사회를 규정.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1170208109303697400,
+		"in_reply_to_status_id_str": "1170208109303697409",
+		"in_reply_to_user_id": 133255001,
+		"in_reply_to_user_id_str": "133255001",
+		"in_reply_to_screen_name": "TorSean",
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1171,
+			"friends_count": 357,
+			"listed_count": 28,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "시기만 생각해도 간단히 알 수 있는 걸 모른다면 아마 관념 속에 살기 때문. 87년부터 10년간 노태우, 김영삼 정부에서 87체제라는 건 문건 속에나 있던 것이고 사실상 첫 민주 정부인 김대중 정부는 시작부터 외환위기에 규정받았다. 정리해고, 구조조정, 그 여파와 트라우마가 지금까지 사회를 규정."
+	},
+	{
+		"created_at": "Sat Sep 07 05:35:00 +0000 2019",
+		"id": 1170208109303697400,
+		"id_str": "1170208828803039232",
+		"full_text": "아직도 ‘87체제’(민주화)를 거론하는 건 너무 게으른 것이다. 저 체제는 자리잡기도 전에 흔적만 남긴 채 소멸했고 이미 오래전부터 ‘97체제’(외환위기)가 온나라를 지배하고 있다. ‘87체제’라는 건 기성세대의 옛 향수(또는 희망)를 지칭하는 것 이상의 의미가 없었고 또 없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1171,
+			"friends_count": 357,
+			"listed_count": 28,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아직도 ‘87체제’(민주화)를 거론하는 건 너무 게으른 것이다. 저 체제는 자리잡기도 전에 흔적만 남긴 채 소멸했고 이미 오래전부터 ‘97체제’(외환위기)가 온나라를 지배하고 있다. ‘87체제’라는 건 기성세대의 옛 향수(또는 희망)를 지칭하는 것 이상의 의미가 없었고 또 없다."
+	},
+	{
+		"created_at": "Sat Sep 07 05:14:26 +0000 2019",
+		"id": 1170199801687789600,
+		"id_str": "1170203652029468673",
+		"full_text": "韓国の大韓障害者体育会は、１０～１２日開催される２０２０年東京パラリンピック選手団長会議の際、パラリンピックのメダルの図柄が旭日旗を想起させるとして対応を求めると６日、明らかにした。パラリンピック期間中の旭日旗の競技会場への持ち込み禁止も提起する予定\nhttps://t.co/uu7PiO88mO https://t.co/BBSVlcS5ZU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uu7PiO88mO",
+					"expanded_url": "https://digital.asahi.com/articles/ASM96775NM96UHBI044.html?iref=comtop_list_int_n05",
+					"display_url": "digital.asahi.com/articles/ASM96…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170199796860145700,
+					"id_str": "1170199796860145664",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/ED1ig-gVUAAtyju.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED1ig-gVUAAtyju.jpg",
+					"url": "https://t.co/BBSVlcS5ZU",
+					"display_url": "pic.twitter.com/BBSVlcS5ZU",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1170199801687789568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 847,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1272,
+							"h": 898,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170199796860145700,
+					"id_str": "1170199796860145664",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/ED1ig-gVUAAtyju.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED1ig-gVUAAtyju.jpg",
+					"url": "https://t.co/BBSVlcS5ZU",
+					"display_url": "pic.twitter.com/BBSVlcS5ZU",
+					"expanded_url": "https://twitter.com/BARANEKO0409/status/1170199801687789568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 847,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1272,
+							"h": 898,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 976478731026890800,
+			"id_str": "976478731026890752",
+			"name": "BARANEKO",
+			"screen_name": "BARANEKO0409",
+			"location": "",
+			"description": "まことのことばはうしなはれ/雲はちぎれてそらをとぶ/ああかがやきの四月の底を/はぎしり燃えてゆききする(賢治）",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1613,
+			"friends_count": 536,
+			"listed_count": 39,
+			"created_at": "Wed Mar 21 15:20:46 +0000 2018",
+			"favourites_count": 3941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035183513962569728/bZB5QjPy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035183513962569728/bZB5QjPy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/976478731026890752/1566837628",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "韓国の大韓障害者体育会は、１０～１２日開催される２０２０年東京パラリンピック選手団長会議の際、パラリンピックのメダルの図柄が旭日旗を想起させるとして対応を求めると６日、明らかにした。パラリンピック期間中の旭日旗の競技会場への持ち込み禁止も提起する予定\nhttps://t.co/uu7PiO88mO https://t.co/BBSVlcS5ZU"
+	},
+	{
+		"created_at": "Sat Sep 07 05:13:30 +0000 2019",
+		"id": 1170131221927489500,
+		"id_str": "1170203416615772160",
+		"full_text": "We create our history. https://t.co/aNkfDPqNMi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170131194924560400,
+					"id_str": "1170131194924560385",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/ED0kH0YU8AEH2Wl.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED0kH0YU8AEH2Wl.png",
+					"url": "https://t.co/aNkfDPqNMi",
+					"display_url": "pic.twitter.com/aNkfDPqNMi",
+					"expanded_url": "https://twitter.com/joshuawongcf/status/1170131221927489536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 483,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 483,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170131194924560400,
+					"id_str": "1170131194924560385",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/ED0kH0YU8AEH2Wl.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED0kH0YU8AEH2Wl.png",
+					"url": "https://t.co/aNkfDPqNMi",
+					"display_url": "pic.twitter.com/aNkfDPqNMi",
+					"expanded_url": "https://twitter.com/joshuawongcf/status/1170131221927489536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 483,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 483,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18798768,
+			"id_str": "18798768",
+			"name": "Joshua Wong 黃之鋒",
+			"screen_name": "joshuawongcf",
+			"location": "Hong Kong",
+			"description": "Activist from Hong Kong. Secretary General of @demosisto. Email: joshua@demosisto.hk. Donation: https://t.co/GE16ejNpXs",
+			"url": "https://t.co/B3O49Kzf3Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B3O49Kzf3Y",
+							"expanded_url": "https://www.facebook.com/joshuawongchifung",
+							"display_url": "facebook.com/joshuawongchif…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GE16ejNpXs",
+							"expanded_url": "https://www.demosisto.hk/donation?lang=en",
+							"display_url": "demosisto.hk/donation?lang=…",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 326792,
+			"friends_count": 877,
+			"listed_count": 1323,
+			"created_at": "Fri Jan 09 11:23:36 +0000 2009",
+			"favourites_count": 1155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062905324279975936/bP3d4IcB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062905324279975936/bP3d4IcB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18798768/1543457160",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6365,
+		"favorite_count": 17806,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We create our history. https://t.co/aNkfDPqNMi"
+	},
+	{
 		"created_at": "Fri Sep 06 14:07:32 +0000 2019",
 		"id": 1169898976734105600,
 		"id_str": "1169975420898312192",
