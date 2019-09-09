@@ -1,6 +1,447 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 15:32:01 +0000 2019",
+		"id": 1170721207374798800,
+		"id_str": "1170721457610952704",
+		"full_text": "NEW: The Other Panmunjom: Mutiny or Revolution on Koje Island?\n\nMonica Kim \n\nhttps://t.co/VY1j4BQcx0\n\nCc: @myHNN https://t.co/p6kNzrqzbq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "myHNN",
+					"name": "History News Network",
+					"id": 28639448,
+					"id_str": "28639448",
+					"indices": [
+						106,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VY1j4BQcx0",
+					"expanded_url": "https://apjjf.org/2019/17/Kim.html",
+					"display_url": "apjjf.org/2019/17/Kim.ht…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170721205327995000,
+					"id_str": "1170721205327994885",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/ED88u8aXoAUIpjH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED88u8aXoAUIpjH.jpg",
+					"url": "https://t.co/p6kNzrqzbq",
+					"display_url": "pic.twitter.com/p6kNzrqzbq",
+					"expanded_url": "https://twitter.com/apjjf/status/1170721207374798850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 438,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 515,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 515,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170721205327995000,
+					"id_str": "1170721205327994885",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/ED88u8aXoAUIpjH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED88u8aXoAUIpjH.jpg",
+					"url": "https://t.co/p6kNzrqzbq",
+					"display_url": "pic.twitter.com/p6kNzrqzbq",
+					"expanded_url": "https://twitter.com/apjjf/status/1170721207374798850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 438,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 515,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 515,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170721205835444200,
+					"id_str": "1170721205835444228",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/ED88u-TWsAQ0YRJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/ED88u-TWsAQ0YRJ.png",
+					"url": "https://t.co/p6kNzrqzbq",
+					"display_url": "pic.twitter.com/p6kNzrqzbq",
+					"expanded_url": "https://twitter.com/apjjf/status/1170721207374798850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 368,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 368,
+							"h": 449,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 368,
+							"h": 449,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105521430,
+			"id_str": "105521430",
+			"name": "Asia-Pacific Journal",
+			"screen_name": "apjjf",
+			"location": "Global",
+			"description": "In-depth critical analysis of the forces shaping the Asia-Pacific region & the world.　RTs, follows, mentions, listing, etc. are not endorsements.",
+			"url": "https://t.co/GRfPGHSEb4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GRfPGHSEb4",
+							"expanded_url": "http://www.apjjf.org",
+							"display_url": "apjjf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7243,
+			"friends_count": 789,
+			"listed_count": 524,
+			"created_at": "Sat Jan 16 16:11:14 +0000 2010",
+			"favourites_count": 13446,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F1DF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105521430/1555430110",
+			"profile_link_color": "572E4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EE0B5B",
+			"profile_text_color": "027B7F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "NEW: The Other Panmunjom: Mutiny or Revolution on Koje Island?\n\nMonica Kim \n\nhttps://t.co/VY1j4BQcx0\n\nCc: @myHNN https://t.co/p6kNzrqzbq"
+	},
+	{
+		"created_at": "Sun Sep 08 15:24:22 +0000 2019",
+		"id": 1170716552573808600,
+		"id_str": "1170719533830561794",
+		"full_text": "9月6日(金)は午後3時半から韓国で最も有名な労働運動活動家である全泰壹(チョン・テイル)に関する「全泰壹記念館」と全泰壹が働いていた平和市場の近くにある全泰壹の銅像を見学しました。 https://t.co/88gliNk5mo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170716542440394800,
+					"id_str": "1170716542440394753",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/ED84fhzVUAEhtQ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED84fhzVUAEhtQ5.jpg",
+					"url": "https://t.co/88gliNk5mo",
+					"display_url": "pic.twitter.com/88gliNk5mo",
+					"expanded_url": "https://twitter.com/utsunomiyakenji/status/1170716552573808643/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170716542440394800,
+					"id_str": "1170716542440394753",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/ED84fhzVUAEhtQ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED84fhzVUAEhtQ5.jpg",
+					"url": "https://t.co/88gliNk5mo",
+					"display_url": "pic.twitter.com/88gliNk5mo",
+					"expanded_url": "https://twitter.com/utsunomiyakenji/status/1170716552573808643/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170716543937728500,
+					"id_str": "1170716543937728512",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/ED84fnYU0AA1Vq8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED84fnYU0AA1Vq8.jpg",
+					"url": "https://t.co/88gliNk5mo",
+					"display_url": "pic.twitter.com/88gliNk5mo",
+					"expanded_url": "https://twitter.com/utsunomiyakenji/status/1170716552573808643/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 914304680,
+			"id_str": "914304680",
+			"name": "宇都宮けんじ",
+			"screen_name": "utsunomiyakenji",
+			"location": "東京都",
+			"description": "宇都宮健児。弁護士。元日本弁護士連合会会長。多重債務問題、消費者金融問題の専門家。宮部みゆきの小説『火車』に登場する弁護士のモデル。反貧困ネットワーク代表や年越し派遣村名誉村長を務める。",
+			"url": "https://t.co/G7zcuiNsGL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G7zcuiNsGL",
+							"expanded_url": "http://utsunomiyakenji.com/",
+							"display_url": "utsunomiyakenji.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68021,
+			"friends_count": 22939,
+			"listed_count": 1954,
+			"created_at": "Tue Oct 30 10:05:06 +0000 2012",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/754890634717073409/f3kLKvKB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/754890634717073409/f3kLKvKB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/914304680/1468816305",
+			"profile_link_color": "009944",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "9月6日(金)は午後3時半から韓国で最も有名な労働運動活動家である全泰壹(チョン・テイル)に関する「全泰壹記念館」と全泰壹が働いていた平和市場の近くにある全泰壹の銅像を見学しました。 https://t.co/88gliNk5mo"
+	},
+	{
 		"created_at": "Sat Sep 07 20:42:05 +0000 2019",
 		"id": 1170222775077757000,
 		"id_str": "1170437101915004928",
@@ -604,7 +1045,7 @@ Grailbird.data.tweets_2019_09 =
 		"user": {
 			"id": 1140251360,
 			"id_str": "1140251360",
-			"name": "🏳️‍🌈까만사각형 레고🚩",
+			"name": "🏳️🌈까만사각형 레고🚩",
 			"screen_name": "Hadrianus753",
 			"location": "조선",
 			"description": "이것저것 씁니다 / 여혐(비페미, 안티페미), 제노포비아, 퀴어포비아, 파시스트, 장애혐오 등등 안받아요 / 제국주의에 반대합니다 / 사회주의세요🚩",
