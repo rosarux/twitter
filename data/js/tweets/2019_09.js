@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 11 14:10:41 +0000 2019",
+		"id": 1171683949073977300,
+		"id_str": "1171788153687953408",
+		"full_text": "この国のトップって誰だっけ？？？？？？ https://t.co/EhvLNJL01x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EhvLNJL01x",
+					"expanded_url": "https://twitter.com/shiikazuo/status/1171679585806630913",
+					"display_url": "twitter.com/shiikazuo/stat…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1005702742340350000,
+			"id_str": "1005702742340349952",
+			"name": "さかみちぐーりぐり",
+			"screen_name": "sakamichigooori",
+			"location": "",
+			"description": "辺野古の新基地の完成は無理。完成と引き換えなら普天間返還はは永遠に無理。🌊🐟🐬🐟🐳　　私がフォローしたからといってフォロバしなくても全然OK👌　　◆◇◆◇◆◇◆◇◆◇◇◆◇◆◇　Twitterはオープンの場であることに意義があると思っているので、鍵🗝️アカウントの方のフォローは基本お断りします",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1224,
+			"friends_count": 897,
+			"listed_count": 11,
+			"created_at": "Sun Jun 10 06:46:33 +0000 2018",
+			"favourites_count": 56246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1005724300970582016/SteptBCp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005724300970582016/SteptBCp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1005702742340349952/1545579145",
+			"profile_link_color": "4169E1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1171679585806631000,
+		"quoted_status_id_str": "1171679585806630913",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EhvLNJL01x",
+			"expanded": "https://twitter.com/shiikazuo/status/1171679585806630913",
+			"display": "twitter.com/shiikazuo/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 11 06:59:16 +0000 2019",
+			"id": 1171679585806631000,
+			"id_str": "1171679585806630913",
+			"full_text": "経産省と東電に要請。\n１、自治体と住民に正確な情報を伝えること。\n２、速やかな復旧のため、他社からの支援も含め要員、電源車の抜本的拡充を行うこと。\n３、政府は、自治体が住民の命と健康を守る十分な措置を取れるよう全面的に支援すること。 https://t.co/sgN232eztw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1171679561664221200,
+						"id_str": "1171679561664221184",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/EEKkWn-U0AAck6C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EEKkWn-U0AAck6C.jpg",
+						"url": "https://t.co/sgN232eztw",
+						"display_url": "pic.twitter.com/sgN232eztw",
+						"expanded_url": "https://twitter.com/shiikazuo/status/1171679585806630913/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1171679561664221200,
+						"id_str": "1171679561664221184",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/EEKkWn-U0AAck6C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EEKkWn-U0AAck6C.jpg",
+						"url": "https://t.co/sgN232eztw",
+						"display_url": "pic.twitter.com/sgN232eztw",
+						"expanded_url": "https://twitter.com/shiikazuo/status/1171679585806630913/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1409223888,
+				"id_str": "1409223888",
+				"name": "志位和夫",
+				"screen_name": "shiikazuo",
+				"location": "",
+				"description": "日本共産党委員長の志位和夫です。力をあわせて一緒に政治を変えましょう。",
+				"url": "http://t.co/Yp1lqKMNWj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Yp1lqKMNWj",
+								"expanded_url": "http://www.shii.gr.jp/",
+								"display_url": "shii.gr.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 107414,
+				"friends_count": 0,
+				"listed_count": 2972,
+				"created_at": "Tue May 07 02:32:41 +0000 2013",
+				"favourites_count": 267,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 4261,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3624876884/b16d250401cc357c5be9859f7ba3db8f_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3624876884/b16d250401cc357c5be9859f7ba3db8f_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2622,
+			"favorite_count": 3731,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 1418,
+		"favorite_count": 1995,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "この国のトップって誰だっけ？？？？？？ https://t.co/EhvLNJL01x"
+	},
+	{
+		"created_at": "Wed Sep 11 13:32:33 +0000 2019",
+		"id": 1171778556109525000,
+		"id_str": "1171778556109524994",
+		"full_text": "아베 8년 퇴행의 한단면을 보는 것 같아 씁쓸하다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1171778071495504000,
+		"in_reply_to_status_id_str": "1171778071495503872",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 573,
+			"friends_count": 494,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아베 8년 퇴행의 한단면을 보는 것 같아 씁쓸하다."
+	},
+	{
 		"created_at": "Tue Sep 10 12:57:04 +0000 2019",
 		"id": 1171389783412629500,
 		"id_str": "1171407239220887552",
