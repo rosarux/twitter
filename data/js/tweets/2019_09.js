@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 15 13:27:37 +0000 2019",
+		"id": 1173188085045026800,
+		"id_str": "1173226866594811904",
+		"full_text": "멍청한 Execution Trader 출신들은 그럴싸한 이야기를 짜집기하는 방식으로 경제를 분석하기에 일관성 있는 주장이 불가함. 대기업이 왜 일본을 빠져나갔을까? 일은이 저물가를 용인하는 잘못된 정책을 고수하면서 경제가 국내 총수요, 환율경쟁력 측면에서 모두 고전을 면치 못했기 때문. https://t.co/1IPXCyv1Df",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1173188080062193700,
+					"id_str": "1173188080062193664",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EEgAV87UYAABDFP.png",
+					"media_url_https": "https://pbs.twimg.com/media/EEgAV87UYAABDFP.png",
+					"url": "https://t.co/1IPXCyv1Df",
+					"display_url": "pic.twitter.com/1IPXCyv1Df",
+					"expanded_url": "https://twitter.com/StrategyMacro/status/1173188085045026817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 299,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1173188080062193700,
+					"id_str": "1173188080062193664",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EEgAV87UYAABDFP.png",
+					"media_url_https": "https://pbs.twimg.com/media/EEgAV87UYAABDFP.png",
+					"url": "https://t.co/1IPXCyv1Df",
+					"display_url": "pic.twitter.com/1IPXCyv1Df",
+					"expanded_url": "https://twitter.com/StrategyMacro/status/1173188085045026817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 299,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1150220481259171800,
+			"id_str": "1150220481259171840",
+			"name": "Macro Strategy",
+			"screen_name": "StrategyMacro",
+			"location": "",
+			"description": "Professional macroeconomist",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 309,
+			"friends_count": 281,
+			"listed_count": 10,
+			"created_at": "Sun Jul 14 01:48:27 +0000 2019",
+			"favourites_count": 93,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157903333933252610/LC3xlhl6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157903333933252610/LC3xlhl6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1150220481259171840/1564900632",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 120,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "멍청한 Execution Trader 출신들은 그럴싸한 이야기를 짜집기하는 방식으로 경제를 분석하기에 일관성 있는 주장이 불가함. 대기업이 왜 일본을 빠져나갔을까? 일은이 저물가를 용인하는 잘못된 정책을 고수하면서 경제가 국내 총수요, 환율경쟁력 측면에서 모두 고전을 면치 못했기 때문. https://t.co/1IPXCyv1Df"
+	},
+	{
 		"created_at": "Thu Sep 12 14:49:44 +0000 2019",
 		"id": 1172160369881563100,
 		"id_str": "1172160369881563137",
