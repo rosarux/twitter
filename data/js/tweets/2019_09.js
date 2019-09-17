@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 16 15:12:45 +0000 2019",
+		"id": 1173252833161990100,
+		"id_str": "1173615715493924866",
+		"full_text": "\"최근 한국에선 한일우호를 말하기 힘든 분위기입니다. 이런 분노와 적대감으로 무얼 해결할 수 있을까요?\"\n\n프리허그 자체에 토를 달고 싶진 않지만, 저 발언 기저에 있는 사고는 문제가 있다고 본다. \n\n제국주의로의 회귀에 대한 반성없이 막연히 \"우린 모두 친구\"를 외쳐서 무얼 해결할 수 있나? https://t.co/gZASoTBacx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gZASoTBacx",
+					"expanded_url": "https://twitter.com/martfack/status/1173088888383926272",
+					"display_url": "twitter.com/martfack/statu…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 861912852990279700,
+			"id_str": "861912852990279680",
+			"name": "Work Social",
+			"screen_name": "WorkSocial1",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 957,
+			"friends_count": 113,
+			"listed_count": 13,
+			"created_at": "Tue May 09 11:56:52 +0000 2017",
+			"favourites_count": 5802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129431565392650240/YHDRdVY-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129431565392650240/YHDRdVY-_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/861912852990279680/1558112744",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1173088888383926300,
+		"quoted_status_id_str": "1173088888383926272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gZASoTBacx",
+			"expanded": "https://twitter.com/martfack/status/1173088888383926272",
+			"display": "twitter.com/martfack/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 15 04:19:20 +0000 2019",
+			"id": 1173088888383926300,
+			"id_str": "1173088888383926272",
+			"full_text": "Officially, Japan and South Korea are barely on speaking terms over history and trade. But this video shows a Korean woman in traditional hanbok offering free hugs on the streets on Tokyo, and the reception she got. https://t.co/EffnsDwh2W",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				239
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1172815535978905600,
+						"id_str": "1172815535978905601",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172815535978905601/pu/img/hQSEvbR-xSvRWks_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172815535978905601/pu/img/hQSEvbR-xSvRWks_.jpg",
+						"url": "https://t.co/EffnsDwh2W",
+						"display_url": "pic.twitter.com/EffnsDwh2W",
+						"expanded_url": "https://twitter.com/freehugs4peace/status/1172817966091489280/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1172817966091489300,
+						"source_status_id_str": "1172817966091489280",
+						"source_user_id": 764198396,
+						"source_user_id_str": "764198396"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1172815535978905600,
+						"id_str": "1172815535978905601",
+						"indices": [
+							216,
+							239
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1172815535978905601/pu/img/hQSEvbR-xSvRWks_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1172815535978905601/pu/img/hQSEvbR-xSvRWks_.jpg",
+						"url": "https://t.co/EffnsDwh2W",
+						"display_url": "pic.twitter.com/EffnsDwh2W",
+						"expanded_url": "https://twitter.com/freehugs4peace/status/1172817966091489280/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1172817966091489300,
+						"source_status_id_str": "1172817966091489280",
+						"source_user_id": 764198396,
+						"source_user_id_str": "764198396",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 139506,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1172815535978905601/pu/vid/480x270/_gREltdlS3XGNTNj.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1172815535978905601/pu/vid/1280x720/pGNtHvlupcx06baJ.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1172815535978905601/pu/vid/640x360/LxRkMbTZT3RZVzZ2.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1172815535978905601/pu/pl/OSLjO2o-qT0V7Zcf.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 764198396,
+								"id_str": "764198396",
+								"name": "Koichi Kuwabara 桑原功一",
+								"screen_name": "freehugs4peace",
+								"location": "",
+								"description": "世界を舞台にフリーハグ活動しているフリーハガー。 現在🇰🇷に滞在中。取材や講演依頼はDMで。リアルタイム情報はインスタをチェック ▶︎ https://t.co/CJjNas5poi",
+								"url": "https://t.co/jvgiLx2ICC",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/jvgiLx2ICC",
+												"expanded_url": "https://www.youtube.com/user/FreeHugsforPeace01",
+												"display_url": "youtube.com/user/FreeHugsf…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/CJjNas5poi",
+												"expanded_url": "http://instagram.com/freehugs4peace/",
+												"display_url": "instagram.com/freehugs4peace/",
+												"indices": [
+													68,
+													91
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 11439,
+								"friends_count": 81,
+								"listed_count": 107,
+								"created_at": "Fri Aug 17 18:20:19 +0000 2012",
+								"favourites_count": 2981,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 1712,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "0099B9",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1165794752698048513/kx0Nr68J_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165794752698048513/kx0Nr68J_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/764198396/1567139605",
+								"profile_link_color": "0099B9",
+								"profile_sidebar_border_color": "5ED4DC",
+								"profile_sidebar_fill_color": "95E8EC",
+								"profile_text_color": "3C3940",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 336130457,
+				"id_str": "336130457",
+				"name": "Martin Fackler",
+				"screen_name": "martfack",
+				"location": "",
+				"description": "Tokyo-based author. Pvs @nytimes @WSJ, @AP, @CJR, @ForeignPolicy. 「米国人ジャーナリストだから見抜けた日本の国難」や「権力者とメディアが対立する新時代」等の著者。",
+				"url": "https://t.co/x938DTXAi9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/x938DTXAi9",
+								"expanded_url": "https://martinfackler.com",
+								"display_url": "martinfackler.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21728,
+				"friends_count": 999,
+				"listed_count": 911,
+				"created_at": "Fri Jul 15 19:54:06 +0000 2011",
+				"favourites_count": 2364,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12586,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1122662812801568768/rxBBMPfI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122662812801568768/rxBBMPfI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/336130457/1509794931",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1049,
+			"favorite_count": 2400,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 984,
+		"favorite_count": 257,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"최근 한국에선 한일우호를 말하기 힘든 분위기입니다. 이런 분노와 적대감으로 무얼 해결할 수 있을까요?\"\n\n프리허그 자체에 토를 달고 싶진 않지만, 저 발언 기저에 있는 사고는 문제가 있다고 본다. \n\n제국주의로의 회귀에 대한 반성없이 막연히 \"우린 모두 친구\"를 외쳐서 무얼 해결할 수 있나? https://t.co/gZASoTBacx"
+	},
+	{
 		"created_at": "Sun Sep 15 13:27:37 +0000 2019",
 		"id": 1173188085045026800,
 		"id_str": "1173226866594811904",
