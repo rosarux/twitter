@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 20 10:56:45 +0000 2019",
+		"id": 1174869838839177200,
+		"id_str": "1175000841389916161",
+		"full_text": "서울시, 역세권 청년주택 경쟁률 140대 1 https://t.co/nv3mn9KZtX - 역시 세상은 트위터 밖에 있음ㅋㅋㅋㅋㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nv3mn9KZtX",
+					"expanded_url": "https://realestate.daum.net/news/detail/main/20190920095929926",
+					"display_url": "realestate.daum.net/news/detail/ma…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1066162016920846300,
+			"id_str": "1066162016920846337",
+			"name": "Spinning The World",
+			"screen_name": "spnngTheWorld",
+			"location": "대한민국 수원시",
+			"description": "문파X 문빠O / 더불어민주당 당원 / 리버럴 / 30대 사축 / ♥애당러♥",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427,
+			"friends_count": 342,
+			"listed_count": 7,
+			"created_at": "Sat Nov 24 02:50:07 +0000 2018",
+			"favourites_count": 359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160003354925256704/WSjAKkWf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160003354925256704/WSjAKkWf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1066162016920846337/1568261885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 665,
+		"favorite_count": 122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서울시, 역세권 청년주택 경쟁률 140대 1 https://t.co/nv3mn9KZtX - 역시 세상은 트위터 밖에 있음ㅋㅋㅋㅋㅋㅋㅋㅋ"
+	},
+	{
 		"created_at": "Mon Sep 16 15:12:45 +0000 2019",
 		"id": 1173252833161990100,
 		"id_str": "1173615715493924866",
