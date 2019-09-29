@@ -1,6 +1,1209 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 28 21:55:56 +0000 2019",
+		"id": 1178065351139041300,
+		"id_str": "1178065832313704448",
+		"full_text": "Japan-Russia Relations and the Miraculous Revival of Suzuki Muneo\n\nJames D.J. Brown \n\nhttps://t.co/O23FmIxOoP\n\nCc: @NoahSneider https://t.co/9rJjzSUvgf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NoahSneider",
+					"name": "Noah Sneider",
+					"id": 1469088032,
+					"id_str": "1469088032",
+					"indices": [
+						115,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O23FmIxOoP",
+					"expanded_url": "https://apjjf.org/2019/18/Brown.html",
+					"display_url": "apjjf.org/2019/18/Brown.…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1178065349419380700,
+					"id_str": "1178065349419380738",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EFlUMZJWsAI8nea.png",
+					"media_url_https": "https://pbs.twimg.com/media/EFlUMZJWsAI8nea.png",
+					"url": "https://t.co/9rJjzSUvgf",
+					"display_url": "pic.twitter.com/9rJjzSUvgf",
+					"expanded_url": "https://twitter.com/apjjf/status/1178065351139041290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 740,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 740,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178065349419380700,
+					"id_str": "1178065349419380738",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EFlUMZJWsAI8nea.png",
+					"media_url_https": "https://pbs.twimg.com/media/EFlUMZJWsAI8nea.png",
+					"url": "https://t.co/9rJjzSUvgf",
+					"display_url": "pic.twitter.com/9rJjzSUvgf",
+					"expanded_url": "https://twitter.com/apjjf/status/1178065351139041290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 740,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 740,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 629,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178065349108994000,
+					"id_str": "1178065349108994049",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EFlUMX_WkAEd33A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFlUMX_WkAEd33A.jpg",
+					"url": "https://t.co/9rJjzSUvgf",
+					"display_url": "pic.twitter.com/9rJjzSUvgf",
+					"expanded_url": "https://twitter.com/apjjf/status/1178065351139041290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 555,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 555,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178065349247414300,
+					"id_str": "1178065349247414272",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EFlUMYgWsAAYlRt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFlUMYgWsAAYlRt.jpg",
+					"url": "https://t.co/9rJjzSUvgf",
+					"display_url": "pic.twitter.com/9rJjzSUvgf",
+					"expanded_url": "https://twitter.com/apjjf/status/1178065351139041290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 551,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 551,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 551,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105521430,
+			"id_str": "105521430",
+			"name": "Asia-Pacific Journal",
+			"screen_name": "apjjf",
+			"location": "Global",
+			"description": "In-depth critical analysis of the forces shaping the Asia-Pacific region & the world.　RTs, follows, mentions, listing, etc. are not endorsements.",
+			"url": "https://t.co/GRfPGHSEb4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GRfPGHSEb4",
+							"expanded_url": "http://www.apjjf.org",
+							"display_url": "apjjf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7253,
+			"friends_count": 789,
+			"listed_count": 526,
+			"created_at": "Sat Jan 16 16:11:14 +0000 2010",
+			"favourites_count": 13461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F1DF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105521430/1555430110",
+			"profile_link_color": "572E4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EE0B5B",
+			"profile_text_color": "027B7F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Japan-Russia Relations and the Miraculous Revival of Suzuki Muneo\n\nJames D.J. Brown \n\nhttps://t.co/O23FmIxOoP\n\nCc: @NoahSneider https://t.co/9rJjzSUvgf"
+	},
+	{
+		"created_at": "Sat Sep 28 20:56:42 +0000 2019",
+		"id": 1178050214608851000,
+		"id_str": "1178050924842864640",
+		"full_text": "沖縄旅行、韓国でPR「今後の展開に期待」　日韓関係悪化で観光客減、県が対策　 https://t.co/KfCMzDrsBI #韓国 #日韓関係悪化 #okinawa #沖縄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "韓国",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "日韓関係悪化",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"text": "okinawa",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						84,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KfCMzDrsBI",
+					"expanded_url": "https://www.okinawatimes.co.jp/articles/-/476898",
+					"display_url": "okinawatimes.co.jp/articles/-/476…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.okinawatimes.co.jp\" rel=\"nofollow\">沖縄タイムス社TweetBot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118600653,
+			"id_str": "118600653",
+			"name": "沖縄タイムス",
+			"screen_name": "theokinawatimes",
+			"location": "沖縄県那覇市",
+			"description": "「沖縄タイムス」の公式アカウントです。沖縄のニュースをつぶやきます。情報提供はこちら↓↓ https://t.co/dRtcewvbkS",
+			"url": "http://t.co/MNvzHef3vO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MNvzHef3vO",
+							"expanded_url": "http://www.okinawatimes.co.jp",
+							"display_url": "okinawatimes.co.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dRtcewvbkS",
+							"expanded_url": "https://app.okinawatimes.co.jp/contact/info_form.php",
+							"display_url": "app.okinawatimes.co.jp/contact/info_f…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 89991,
+			"friends_count": 110,
+			"listed_count": 3230,
+			"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+			"favourites_count": 3137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 289352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1554698014",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "沖縄旅行、韓国でPR「今後の展開に期待」　日韓関係悪化で観光客減、県が対策　 https://t.co/KfCMzDrsBI #韓国 #日韓関係悪化 #okinawa #沖縄"
+	},
+	{
+		"created_at": "Sat Sep 28 10:30:46 +0000 2019",
+		"id": 1177781970090246100,
+		"id_str": "1177893403318636544",
+		"full_text": "계급론 얘기가 쏙 들어간게 나한테는 제일 꿀잼 포인트. 이시발 이건 아니잖아?라는 생각이 조중동 데스크들 머릿속에 떠오른걸까?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2457637609,
+			"id_str": "2457637609",
+			"name": "[TAKU] 외노자",
+			"screen_name": "teamj231",
+			"location": "미국",
+			"description": "일해라 일해",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 606,
+			"friends_count": 489,
+			"listed_count": 11,
+			"created_at": "Tue Apr 22 05:04:56 +0000 2014",
+			"favourites_count": 68131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134984468081664000/ZtNdbgu1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134984468081664000/ZtNdbgu1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2457637609/1559436567",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "계급론 얘기가 쏙 들어간게 나한테는 제일 꿀잼 포인트. 이시발 이건 아니잖아?라는 생각이 조중동 데스크들 머릿속에 떠오른걸까?"
+	},
+	{
+		"created_at": "Sat Sep 28 06:06:32 +0000 2019",
+		"id": 1177826336464937000,
+		"id_str": "1177826907338838016",
+		"full_text": "辺野古移設推進求める宜野湾市議会と辺野古中止を求める名護市議会https://t.co/gmkFrOmsxQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gmkFrOmsxQ",
+					"expanded_url": "https://ift.tt/2mv6v3b",
+					"display_url": "ift.tt/2mv6v3b",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 62165,
+			"friends_count": 6570,
+			"listed_count": 2788,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "辺野古移設推進求める宜野湾市議会と辺野古中止を求める名護市議会https://t.co/gmkFrOmsxQ"
+	},
+	{
+		"created_at": "Sat Sep 28 04:55:29 +0000 2019",
+		"id": 1177809028769927200,
+		"id_str": "1177809028769927169",
+		"full_text": "어제 제주도청 출장 갔다가 1층 로비에 전시된 작품을 보고 매료된...그런데 어디선가 자주 본 듯한",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1177809025544573000,
+		"in_reply_to_status_id_str": "1177809025544572928",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 573,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어제 제주도청 출장 갔다가 1층 로비에 전시된 작품을 보고 매료된...그런데 어디선가 자주 본 듯한"
+	},
+	{
+		"created_at": "Sat Sep 28 04:55:28 +0000 2019",
+		"id": 1177809025544573000,
+		"id_str": "1177809025544572928",
+		"full_text": "https://t.co/EOG68ElodB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1177809019391500300,
+					"id_str": "1177809019391500288",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EFhrEBYU4AAXVyF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFhrEBYU4AAXVyF.jpg",
+					"url": "https://t.co/EOG68ElodB",
+					"display_url": "pic.twitter.com/EOG68ElodB",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1177809025544572928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 495,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1236,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 874,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177809019391500300,
+					"id_str": "1177809019391500288",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EFhrEBYU4AAXVyF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFhrEBYU4AAXVyF.jpg",
+					"url": "https://t.co/EOG68ElodB",
+					"display_url": "pic.twitter.com/EOG68ElodB",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1177809025544572928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 495,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1236,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 874,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1177809019907346400,
+					"id_str": "1177809019907346433",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EFhrEDTUEAE442H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFhrEDTUEAE442H.jpg",
+					"url": "https://t.co/EOG68ElodB",
+					"display_url": "pic.twitter.com/EOG68ElodB",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1177809025544572928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1014,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1014,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1177809019932557300,
+					"id_str": "1177809019932557312",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EFhrEDZUwAAUBVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFhrEDZUwAAUBVe.jpg",
+					"url": "https://t.co/EOG68ElodB",
+					"display_url": "pic.twitter.com/EOG68ElodB",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1177809025544572928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 580,
+							"h": 725,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 580,
+							"h": 725,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1177809016757477400,
+		"in_reply_to_status_id_str": "1177809016757477376",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 573,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/EOG68ElodB"
+	},
+	{
+		"created_at": "Sat Sep 28 04:55:26 +0000 2019",
+		"id": 1177809016757477400,
+		"id_str": "1177809016757477376",
+		"full_text": "박주우, 제주 출신 https://t.co/UrnSPJNcsL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1177809004912754700,
+					"id_str": "1177809004912754689",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/EFhrDLcUwAEFNFz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFhrDLcUwAEFNFz.jpg",
+					"url": "https://t.co/UrnSPJNcsL",
+					"display_url": "pic.twitter.com/UrnSPJNcsL",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1177809016757477376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 773,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 773,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177809004912754700,
+					"id_str": "1177809004912754689",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/EFhrDLcUwAEFNFz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFhrDLcUwAEFNFz.jpg",
+					"url": "https://t.co/UrnSPJNcsL",
+					"display_url": "pic.twitter.com/UrnSPJNcsL",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1177809016757477376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 773,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 773,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1177809004942131200,
+					"id_str": "1177809004942131200",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/EFhrDLjVAAA5bsh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFhrDLjVAAA5bsh.jpg",
+					"url": "https://t.co/UrnSPJNcsL",
+					"display_url": "pic.twitter.com/UrnSPJNcsL",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1177809016757477376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1177809004908560400,
+					"id_str": "1177809004908560384",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/EFhrDLbUwAAEkUq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFhrDLbUwAAEkUq.jpg",
+					"url": "https://t.co/UrnSPJNcsL",
+					"display_url": "pic.twitter.com/UrnSPJNcsL",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1177809016757477376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 425,
+							"h": 546,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 425,
+							"h": 546,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 425,
+							"h": 546,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1177809004912734200,
+					"id_str": "1177809004912734208",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/EFhrDLcUcAAy0yZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFhrDLcUcAAy0yZ.jpg",
+					"url": "https://t.co/UrnSPJNcsL",
+					"display_url": "pic.twitter.com/UrnSPJNcsL",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1177809016757477376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 511,
+							"h": 613,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 511,
+							"h": 613,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 511,
+							"h": 613,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 573,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "박주우, 제주 출신 https://t.co/UrnSPJNcsL"
+	},
+	{
 		"created_at": "Fri Sep 27 14:40:13 +0000 2019",
 		"id": 1177592916518174700,
 		"id_str": "1177593791068295168",
