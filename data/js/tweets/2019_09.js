@@ -1,6 +1,793 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 29 22:36:37 +0000 2019",
+		"id": 1178375740687040500,
+		"id_str": "1178438460195000320",
+		"full_text": "검찰의 조국 자녀 수사가 합법적이고, 이를 말릴 수 있는 정상적 절차가 없다는 것은 더 큰 공포로 다가옴. 권력과 구조에 의해 거악의 혐오도 없는 개인의 삶이 망가지는 모습을 실시간으로 지켜보는 공포와 경악. https://t.co/afe6dYQbGa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/afe6dYQbGa",
+					"expanded_url": "https://sovidence.tistory.com/1030",
+					"display_url": "sovidence.tistory.com/1030",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1178375316114415600,
+		"in_reply_to_status_id_str": "1178375316114415616",
+		"in_reply_to_user_id": 3357881951,
+		"in_reply_to_user_id_str": "3357881951",
+		"in_reply_to_screen_name": "KimSovidence",
+		"user": {
+			"id": 3357881951,
+			"id_str": "3357881951",
+			"name": "Sociological Evidence",
+			"screen_name": "KimSovidence",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/TPYdhkbTzf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TPYdhkbTzf",
+							"expanded_url": "https://sovidence.tistory.com/",
+							"display_url": "sovidence.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1361,
+			"friends_count": 312,
+			"listed_count": 11,
+			"created_at": "Sat Jul 04 01:45:39 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "검찰의 조국 자녀 수사가 합법적이고, 이를 말릴 수 있는 정상적 절차가 없다는 것은 더 큰 공포로 다가옴. 권력과 구조에 의해 거악의 혐오도 없는 개인의 삶이 망가지는 모습을 실시간으로 지켜보는 공포와 경악. https://t.co/afe6dYQbGa"
+	},
+	{
+		"created_at": "Sun Sep 29 17:36:40 +0000 2019",
+		"id": 1178360486305251300,
+		"id_str": "1178362971946274816",
+		"full_text": "An unarmed Minuteman III ICBM will be test-launched from Vandenberg AFB towards Kwajalein Atoll (02 OCT 0813Z-1543Z). https://t.co/CPVpUV96zP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1178360483692179500,
+					"id_str": "1178360483692179456",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EFpgnd_UcAAPpY8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFpgnd_UcAAPpY8.jpg",
+					"url": "https://t.co/CPVpUV96zP",
+					"display_url": "pic.twitter.com/CPVpUV96zP",
+					"expanded_url": "https://twitter.com/AircraftSpots/status/1178360486305251330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 878,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 878,
+							"h": 494,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178360483692179500,
+					"id_str": "1178360483692179456",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/EFpgnd_UcAAPpY8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFpgnd_UcAAPpY8.jpg",
+					"url": "https://t.co/CPVpUV96zP",
+					"display_url": "pic.twitter.com/CPVpUV96zP",
+					"expanded_url": "https://twitter.com/AircraftSpots/status/1178360486305251330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 878,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 878,
+							"h": 494,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 705643352050413600,
+			"id_str": "705643352050413569",
+			"name": "Aircraft Spots",
+			"screen_name": "AircraftSpots",
+			"location": "",
+			"description": "Monitoring Military Air Movements",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54093,
+			"friends_count": 169,
+			"listed_count": 810,
+			"created_at": "Fri Mar 04 06:37:40 +0000 2016",
+			"favourites_count": 2612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119089408236326919/dCwC1t7k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119089408236326919/dCwC1t7k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/705643352050413569/1548905338",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "An unarmed Minuteman III ICBM will be test-launched from Vandenberg AFB towards Kwajalein Atoll (02 OCT 0813Z-1543Z). https://t.co/CPVpUV96zP"
+	},
+	{
+		"created_at": "Sun Sep 29 05:43:03 +0000 2019",
+		"id": 1178162868702679000,
+		"id_str": "1178183384578740224",
+		"full_text": "오늘날 민주당의 스탠스는 어느날 갑자기 정권잡아서 깃발꽂은 스탠스가 아니고, 지난 70여년 타고 내려와 정립된 스탠스다. 말하자면 \"정권을 잡을 수 있으면서 가장 덜 오른쪽인\" 것인데, 이게 딱 51이다. 아 뭐 정권 잡을 생각이 없으신 분들에게는 중요한 문제가 아니겠지만 우리한테는 중요해",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1178161396824981500,
+		"in_reply_to_status_id_str": "1178161396824981504",
+		"in_reply_to_user_id": 707605147061321700,
+		"in_reply_to_user_id_str": "707605147061321729",
+		"in_reply_to_screen_name": "cat_cargo",
+		"user": {
+			"id": 707605147061321700,
+			"id_str": "707605147061321729",
+			"name": "고양이형 카고",
+			"screen_name": "cat_cargo",
+			"location": "",
+			"description": "맞다 이 악마야",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4963,
+			"friends_count": 74,
+			"listed_count": 73,
+			"created_at": "Wed Mar 09 16:33:08 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848025237019078658/7qn9GPQe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848025237019078658/7qn9GPQe_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "오늘날 민주당의 스탠스는 어느날 갑자기 정권잡아서 깃발꽂은 스탠스가 아니고, 지난 70여년 타고 내려와 정립된 스탠스다. 말하자면 \"정권을 잡을 수 있으면서 가장 덜 오른쪽인\" 것인데, 이게 딱 51이다. 아 뭐 정권 잡을 생각이 없으신 분들에게는 중요한 문제가 아니겠지만 우리한테는 중요해"
+	},
+	{
+		"created_at": "Sun Sep 29 04:02:11 +0000 2019",
+		"id": 1178121948976435200,
+		"id_str": "1178158000961290240",
+		"full_text": "ガスマスク越しのキス in 香港。この上ないディストピア感。https://t.co/VGDbxyMFJs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1171578501222338600,
+					"id_str": "1171578501222338560",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1171578501222338560/pu/img/SIZPr3eSsREcgUiu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1171578501222338560/pu/img/SIZPr3eSsREcgUiu.jpg",
+					"url": "https://t.co/VGDbxyMFJs",
+					"display_url": "pic.twitter.com/VGDbxyMFJs",
+					"expanded_url": "https://twitter.com/thehumanxp/status/1171578534780973057/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1171578534780973000,
+					"source_status_id_str": "1171578534780973057",
+					"source_user_id": 3380271472,
+					"source_user_id_str": "3380271472"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1171578501222338600,
+					"id_str": "1171578501222338560",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1171578501222338560/pu/img/SIZPr3eSsREcgUiu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1171578501222338560/pu/img/SIZPr3eSsREcgUiu.jpg",
+					"url": "https://t.co/VGDbxyMFJs",
+					"display_url": "pic.twitter.com/VGDbxyMFJs",
+					"expanded_url": "https://twitter.com/thehumanxp/status/1171578534780973057/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1171578534780973000,
+					"source_status_id_str": "1171578534780973057",
+					"source_user_id": 3380271472,
+					"source_user_id_str": "3380271472",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 19034,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1171578501222338560/pu/vid/480x480/IgkPwaXDd7MO1I1o.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1171578501222338560/pu/vid/320x320/roWAZYqbK86KP-F6.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1171578501222338560/pu/pl/83SG04UFR8SyCrfd.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 3380271472,
+							"id_str": "3380271472",
+							"name": "The Human Experience",
+							"screen_name": "thehumanxp",
+							"location": "email: hello@thehumanxp.com",
+							"description": "We share the human story.    \n\nWe interview world-renowned authors, scientists, & thinkers.  \n\nWe feed your mind.\n\nYouTube: https://t.co/s7U9ais54F",
+							"url": "https://t.co/Se6Q2XW8gw",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/Se6Q2XW8gw",
+											"expanded_url": "https://www.linktr.ee/thehumanxp",
+											"display_url": "linktr.ee/thehumanxp",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/s7U9ais54F",
+											"expanded_url": "http://yt.vu/+thehumanxp",
+											"display_url": "yt.vu/+thehumanxp",
+											"indices": [
+												124,
+												147
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 181876,
+							"friends_count": 95567,
+							"listed_count": 1251,
+							"created_at": "Fri Jul 17 11:36:54 +0000 2015",
+							"favourites_count": 4830,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 31564,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1125830963450322945/KwfUH8aD_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125830963450322945/KwfUH8aD_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/3380271472/1553752154",
+							"profile_link_color": "E81C4F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44584770,
+			"id_str": "44584770",
+			"name": "セキ ヤスヒサ⛅",
+			"screen_name": "Campaign_Otaku",
+			"location": "Osaka",
+			"description": "仕事してるフリして世界のニュースをただ眺めて1日終わる人。フリーランス20年生。時代遅れの寵児。Master of None。テニスとボクシングと将棋を見るために全てを犠牲にする人。",
+			"url": "https://t.co/pFPmR3jBeQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pFPmR3jBeQ",
+							"expanded_url": "https://www.spiceofcreation.com/blog",
+							"display_url": "spiceofcreation.com/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16219,
+			"friends_count": 855,
+			"listed_count": 222,
+			"created_at": "Thu Jun 04 09:57:08 +0000 2009",
+			"favourites_count": 9800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087678675552628736/beacVrXJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087678675552628736/beacVrXJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44584770/1501690938",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7312,
+		"favorite_count": 34659,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ja",
+		"text": "ガスマスク越しのキス in 香港。この上ないディストピア感。https://t.co/VGDbxyMFJs"
+	},
+	{
+		"created_at": "Sun Sep 29 00:55:26 +0000 2019",
+		"id": 1177974290588692500,
+		"id_str": "1178111005701750784",
+		"full_text": "내 입장과는 별개로, 이런 논리를 보면 재미있다. 관조자처럼 얘기하고 있지만 사실 관조하고 있는 게 아니라 무력함 그 자체에서 나오는 실체없는 빈정대기에 지나지 않기 때문이다. 이런 얘기는 실체가 없는, 서브컬쳐만도 못한 서브소셜같은 것이다. https://t.co/eyhoDSJNlE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1177974283319951400,
+					"id_str": "1177974283319951361",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EFkBXpfUwAEslix.png",
+					"media_url_https": "https://pbs.twimg.com/media/EFkBXpfUwAEslix.png",
+					"url": "https://t.co/eyhoDSJNlE",
+					"display_url": "pic.twitter.com/eyhoDSJNlE",
+					"expanded_url": "https://twitter.com/bezhine/status/1177974290588692480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 497,
+							"h": 664,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 497,
+							"h": 664,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 497,
+							"h": 664,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177974283319951400,
+					"id_str": "1177974283319951361",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EFkBXpfUwAEslix.png",
+					"media_url_https": "https://pbs.twimg.com/media/EFkBXpfUwAEslix.png",
+					"url": "https://t.co/eyhoDSJNlE",
+					"display_url": "pic.twitter.com/eyhoDSJNlE",
+					"expanded_url": "https://twitter.com/bezhine/status/1177974290588692480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 497,
+							"h": 664,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 497,
+							"h": 664,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 497,
+							"h": 664,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2511973291,
+			"id_str": "2511973291",
+			"name": "월급도둑",
+			"screen_name": "bezhine",
+			"location": "",
+			"description": "할 줄 아는 게 없는 n년차 기획자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3198,
+			"friends_count": 481,
+			"listed_count": 52,
+			"created_at": "Wed May 21 08:31:09 +0000 2014",
+			"favourites_count": 5327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125052966505832449/ShnVwCT4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125052966505832449/ShnVwCT4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2511973291/1538034261",
+			"profile_link_color": "666666",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 입장과는 별개로, 이런 논리를 보면 재미있다. 관조자처럼 얘기하고 있지만 사실 관조하고 있는 게 아니라 무력함 그 자체에서 나오는 실체없는 빈정대기에 지나지 않기 때문이다. 이런 얘기는 실체가 없는, 서브컬쳐만도 못한 서브소셜같은 것이다. https://t.co/eyhoDSJNlE"
+	},
+	{
 		"created_at": "Sat Sep 28 21:55:56 +0000 2019",
 		"id": 1178065351139041300,
 		"id_str": "1178065832313704448",
