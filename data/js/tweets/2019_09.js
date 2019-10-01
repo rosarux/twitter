@@ -1,6 +1,872 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 30 13:27:01 +0000 2019",
+		"id": 1178659085333328000,
+		"id_str": "1178662534942842880",
+		"full_text": "夏の初めから言ってたカヌーを運ぶ軽トラ🚚やっと届けることができました‼️引き続きよろしくお願いします😉 ＃辺野古へカヌーを贈る会 ＃辺野古ぶるー #ジーマーミーは落花生のことだよ ＃落花生には再生の意味があります ＃海保に暴力ふるわれても翌朝もカヌーで海に出る辺野古ぶるーに愛をこめて https://t.co/zrmJ6Av4Fh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "辺野古へカヌーを贈る会",
+					"indices": [
+						52,
+						64
+					]
+				},
+				{
+					"text": "辺野古ぶるー",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "ジーマーミーは落花生のことだよ",
+					"indices": [
+						73,
+						89
+					]
+				},
+				{
+					"text": "落花生には再生の意味があります",
+					"indices": [
+						90,
+						106
+					]
+				},
+				{
+					"text": "海保に暴力ふるわれても翌朝もカヌーで海に出る辺野古ぶるーに愛をこめて",
+					"indices": [
+						107,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1178659076156211200,
+					"id_str": "1178659076156211200",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EFtwL1mUwAAjULk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFtwL1mUwAAjULk.jpg",
+					"url": "https://t.co/zrmJ6Av4Fh",
+					"display_url": "pic.twitter.com/zrmJ6Av4Fh",
+					"expanded_url": "https://twitter.com/chiba_55/status/1178659085333327873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 889,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 889,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 653,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178659076156211200,
+					"id_str": "1178659076156211200",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EFtwL1mUwAAjULk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFtwL1mUwAAjULk.jpg",
+					"url": "https://t.co/zrmJ6Av4Fh",
+					"display_url": "pic.twitter.com/zrmJ6Av4Fh",
+					"expanded_url": "https://twitter.com/chiba_55/status/1178659085333327873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 889,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 889,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 653,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2323063682,
+			"id_str": "2323063682",
+			"name": "やまぐち ちはる",
+			"screen_name": "chiba_55",
+			"location": "千葉県",
+			"description": "辺野古へカヌーを贈る会/パトリオットミサイルはいらない！習志野基地行動実行委員会/原発さよなら千葉/市東さんの農地取り上げに反対する会/沖縄と千葉を結ぶ会/沖縄意見広告運動/ちばレボ（選挙で日本を変えたい市民の会・千葉）/房総族なのだ！菜の花といえばマザー牧場なのだっ",
+			"url": "https://t.co/rjh2pafpnX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rjh2pafpnX",
+							"expanded_url": "http://ameblo.jp/henoko-canoe/",
+							"display_url": "ameblo.jp/henoko-canoe/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2239,
+			"friends_count": 639,
+			"listed_count": 57,
+			"created_at": "Sun Feb 02 00:49:58 +0000 2014",
+			"favourites_count": 6856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/429784604900196352/IDqVQFLl_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/429784604900196352/IDqVQFLl_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2323063682/1401534496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "夏の初めから言ってたカヌーを運ぶ軽トラ🚚やっと届けることができました‼️引き続きよろしくお願いします😉 ＃辺野古へカヌーを贈る会 ＃辺野古ぶるー #ジーマーミーは落花生のことだよ ＃落花生には再生の意味があります ＃海保に暴力ふるわれても翌朝もカヌーで海に出る辺野古ぶるーに愛をこめて https://t.co/zrmJ6Av4Fh"
+	},
+	{
+		"created_at": "Mon Sep 30 13:13:17 +0000 2019",
+		"id": 1178160331526262800,
+		"id_str": "1178659079285170177",
+		"full_text": "20대에 보수면 심장이 없고 30대에 진보면 뇌가 없다는 고루한 말이 있는데, 한국에서는 20대에 보리수 놀이 하다가 30대 돼서 착취의 쓴맛 제대로 보고 “아! 이건 아니다!” 하는 사람이 더 많은 듯",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 960505495,
+			"id_str": "960505495",
+			"name": "심너울",
+			"screen_name": "neoulneoul",
+			"location": "대전 서울 마산",
+			"description": "SF작가. 웹진 거울 필진. 단편 만화(@adeSFcartoons) 콘티도 해요. 저를 팔로우하지 않는 사람의 알림을 부득이하게 껐사오니, 꼭 필요한 멘션 주실 시에 잠시라도 팔로우 부탁드립니다. ※ 본명입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1732,
+			"friends_count": 374,
+			"listed_count": 11,
+			"created_at": "Tue Nov 20 13:39:23 +0000 2012",
+			"favourites_count": 2319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178310143127080961/wuxOJLcu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178310143127080961/wuxOJLcu_normal.jpg",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 307,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "20대에 보수면 심장이 없고 30대에 진보면 뇌가 없다는 고루한 말이 있는데, 한국에서는 20대에 보리수 놀이 하다가 30대 돼서 착취의 쓴맛 제대로 보고 “아! 이건 아니다!” 하는 사람이 더 많은 듯"
+	},
+	{
+		"created_at": "Mon Sep 30 13:03:44 +0000 2019",
+		"id": 1178656674388701200,
+		"id_str": "1178656674388701184",
+		"full_text": "@shhong 그건 또 그렇네요",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shhong",
+					"name": "소바라능",
+					"id": 22887121,
+					"id_str": "22887121",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1178653274448089000,
+		"in_reply_to_status_id_str": "1178653274448089088",
+		"in_reply_to_user_id": 22887121,
+		"in_reply_to_user_id_str": "22887121",
+		"in_reply_to_screen_name": "shhong",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@shhong 그건 또 그렇네요"
+	},
+	{
+		"created_at": "Mon Sep 30 13:03:30 +0000 2019",
+		"id": 1178653274448089000,
+		"id_str": "1178656617421606912",
+		"full_text": "@kawanoboru 원래 대륙법 체계라 원칙적으로 재량의 개입이 없어야 하는 것이 함정입죠...",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kawanoboru",
+					"name": "縄",
+					"id": 94077994,
+					"id_str": "94077994",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1178623093192790000,
+		"in_reply_to_status_id_str": "1178623093192790017",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 22887121,
+			"id_str": "22887121",
+			"name": "소바라능",
+			"screen_name": "shhong",
+			"location": "Okinawa, Japan",
+			"description": "오키나와 소바도 소바라능",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 263,
+			"friends_count": 450,
+			"listed_count": 25,
+			"created_at": "Thu Mar 05 05:49:34 +0000 2009",
+			"favourites_count": 10270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060837328686526464/kvbPJHxR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060837328686526464/kvbPJHxR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22887121/1541758198",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@kawanoboru 원래 대륙법 체계라 원칙적으로 재량의 개입이 없어야 하는 것이 함정입죠..."
+	},
+	{
+		"created_at": "Mon Sep 30 10:50:17 +0000 2019",
+		"id": 1178623093192790000,
+		"id_str": "1178623093192790017",
+		"full_text": "요즘 같아서는 남한 사법은 인간의 &lt;재량&gt;이 개입할 여지가 없도록 AI로 운용해야 할 듯",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 496,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "요즘 같아서는 남한 사법은 인간의 &lt;재량&gt;이 개입할 여지가 없도록 AI로 운용해야 할 듯"
+	},
+	{
+		"created_at": "Mon Sep 30 01:53:10 +0000 2019",
+		"id": 1178485370184507400,
+		"id_str": "1178487923236163586",
+		"full_text": "Reclaiming the Community One Bomb at a Time: The View From Indochina\n\nTed Lieverman\n\nhttps://t.co/ptS9kYQtXu\n\n#antiwar #nowar https://t.co/etAaWqyni8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "antiwar",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "nowar",
+					"indices": [
+						119,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ptS9kYQtXu",
+					"expanded_url": "https://apjjf.org/2019/18/Lieverman.html",
+					"display_url": "apjjf.org/2019/18/Liever…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1178485368460648400,
+					"id_str": "1178485368460648448",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EFrSMuAXoAACV6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFrSMuAXoAACV6J.jpg",
+					"url": "https://t.co/etAaWqyni8",
+					"display_url": "pic.twitter.com/etAaWqyni8",
+					"expanded_url": "https://twitter.com/apjjf/status/1178485370184507392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178485368460648400,
+					"id_str": "1178485368460648448",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EFrSMuAXoAACV6J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFrSMuAXoAACV6J.jpg",
+					"url": "https://t.co/etAaWqyni8",
+					"display_url": "pic.twitter.com/etAaWqyni8",
+					"expanded_url": "https://twitter.com/apjjf/status/1178485370184507392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178485368334831600,
+					"id_str": "1178485368334831617",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EFrSMtiX0AECmKe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFrSMtiX0AECmKe.jpg",
+					"url": "https://t.co/etAaWqyni8",
+					"display_url": "pic.twitter.com/etAaWqyni8",
+					"expanded_url": "https://twitter.com/apjjf/status/1178485370184507392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 678,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178485368787755000,
+					"id_str": "1178485368787755008",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EFrSMvOW4AAT9kQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFrSMvOW4AAT9kQ.jpg",
+					"url": "https://t.co/etAaWqyni8",
+					"display_url": "pic.twitter.com/etAaWqyni8",
+					"expanded_url": "https://twitter.com/apjjf/status/1178485370184507392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 724,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 724,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1178485368762572800,
+					"id_str": "1178485368762572801",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EFrSMvIWoAEa5Cg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFrSMvIWoAEa5Cg.jpg",
+					"url": "https://t.co/etAaWqyni8",
+					"display_url": "pic.twitter.com/etAaWqyni8",
+					"expanded_url": "https://twitter.com/apjjf/status/1178485370184507392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 684,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 684,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105521430,
+			"id_str": "105521430",
+			"name": "Asia-Pacific Journal",
+			"screen_name": "apjjf",
+			"location": "Global",
+			"description": "In-depth critical analysis of the forces shaping the Asia-Pacific region & the world.　RTs, follows, mentions, listing, etc. are not endorsements.",
+			"url": "https://t.co/GRfPGHSEb4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GRfPGHSEb4",
+							"expanded_url": "http://www.apjjf.org",
+							"display_url": "apjjf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7255,
+			"friends_count": 789,
+			"listed_count": 527,
+			"created_at": "Sat Jan 16 16:11:14 +0000 2010",
+			"favourites_count": 13460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F1DF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105521430/1555430110",
+			"profile_link_color": "572E4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EE0B5B",
+			"profile_text_color": "027B7F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reclaiming the Community One Bomb at a Time: The View From Indochina\n\nTed Lieverman\n\nhttps://t.co/ptS9kYQtXu\n\n#antiwar #nowar https://t.co/etAaWqyni8"
+	},
+	{
 		"created_at": "Sun Sep 29 22:36:37 +0000 2019",
 		"id": 1178375740687040500,
 		"id_str": "1178438460195000320",
