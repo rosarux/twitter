@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 02 12:12:05 +0000 2019",
+		"id": 1179367182368739300,
+		"id_str": "1179368454203346945",
+		"full_text": "What role did the atomic bombings of Hiroshima and Nagasaki and Soviet entry into the war play in Japan’s decision to surrender in the Pacific War? Conversations with Tsuyoshi Hasegawa\n\nH Yamaguchi, F and R Compel \n\nhttps://t.co/jXnGmK39Ak\n\n#twitterstorians https://t.co/t36VZ0ZtYQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "twitterstorians",
+					"indices": [
+						241,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jXnGmK39Ak",
+					"expanded_url": "https://apjjf.org/2019/18/Yamaguchi-Yoshida-Compel.html",
+					"display_url": "apjjf.org/2019/18/Yamagu…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1179367180577706000,
+					"id_str": "1179367180577705984",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/EF30M8IWkAAhIFh.png",
+					"media_url_https": "https://pbs.twimg.com/media/EF30M8IWkAAhIFh.png",
+					"url": "https://t.co/t36VZ0ZtYQ",
+					"display_url": "pic.twitter.com/t36VZ0ZtYQ",
+					"expanded_url": "https://twitter.com/apjjf/status/1179367182368739330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 542,
+							"h": 660,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 542,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 542,
+							"h": 660,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1179367180577706000,
+					"id_str": "1179367180577705984",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/EF30M8IWkAAhIFh.png",
+					"media_url_https": "https://pbs.twimg.com/media/EF30M8IWkAAhIFh.png",
+					"url": "https://t.co/t36VZ0ZtYQ",
+					"display_url": "pic.twitter.com/t36VZ0ZtYQ",
+					"expanded_url": "https://twitter.com/apjjf/status/1179367182368739330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 542,
+							"h": 660,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 542,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 542,
+							"h": 660,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1179367179889905700,
+					"id_str": "1179367179889905673",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/EF30M5kXkAk1M3D.png",
+					"media_url_https": "https://pbs.twimg.com/media/EF30M5kXkAk1M3D.png",
+					"url": "https://t.co/t36VZ0ZtYQ",
+					"display_url": "pic.twitter.com/t36VZ0ZtYQ",
+					"expanded_url": "https://twitter.com/apjjf/status/1179367182368739330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 991,
+							"h": 649,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 991,
+							"h": 649,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1179367179231416300,
+					"id_str": "1179367179231416321",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/EF30M3HX0AEvAFw.png",
+					"media_url_https": "https://pbs.twimg.com/media/EF30M3HX0AEvAFw.png",
+					"url": "https://t.co/t36VZ0ZtYQ",
+					"display_url": "pic.twitter.com/t36VZ0ZtYQ",
+					"expanded_url": "https://twitter.com/apjjf/status/1179367182368739330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105521430,
+			"id_str": "105521430",
+			"name": "Asia-Pacific Journal",
+			"screen_name": "apjjf",
+			"location": "Global",
+			"description": "In-depth critical analysis of the forces shaping the Asia-Pacific region & the world.　RTs, follows, mentions, listing, etc. are not endorsements.",
+			"url": "https://t.co/GRfPGHSEb4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GRfPGHSEb4",
+							"expanded_url": "http://www.apjjf.org",
+							"display_url": "apjjf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7254,
+			"friends_count": 789,
+			"listed_count": 526,
+			"created_at": "Sat Jan 16 16:11:14 +0000 2010",
+			"favourites_count": 13460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F1DF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105521430/1555430110",
+			"profile_link_color": "572E4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EE0B5B",
+			"profile_text_color": "027B7F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What role did the atomic bombings of Hiroshima and Nagasaki and Soviet entry into the war play in Japan’s decision to surrender in the Pacific War? Conversations with Tsuyoshi Hasegawa\n\nH Yamaguchi, F and R Compel \n\nhttps://t.co/jXnGmK39Ak\n\n#twitterstorians https://t.co/t36VZ0ZtYQ"
+	},
+	{
 		"created_at": "Tue Oct 01 10:56:13 +0000 2019",
 		"id": 1178986972590694400,
 		"id_str": "1178986972590694400",
