@@ -1,6 +1,1130 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 05 20:55:10 +0000 2019",
+		"id": 1180555646120317000,
+		"id_str": "1180587253191438337",
+		"full_text": "Two USAF E-8C JSTARS (97-0200 &amp; 96-0042) arrived at Kadena AB, Okinawa for the first time since early 2018. I suspect they’ll resume Korean Peninsula missions! 🤔 https://t.co/gpYWjGpll2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1180555637765181400,
+					"id_str": "1180555637765181440",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EGItGQKUEAAXT7Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGItGQKUEAAXT7Y.jpg",
+					"url": "https://t.co/gpYWjGpll2",
+					"display_url": "pic.twitter.com/gpYWjGpll2",
+					"expanded_url": "https://twitter.com/AircraftSpots/status/1180555646120316928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1180555637765181400,
+					"id_str": "1180555637765181440",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EGItGQKUEAAXT7Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGItGQKUEAAXT7Y.jpg",
+					"url": "https://t.co/gpYWjGpll2",
+					"display_url": "pic.twitter.com/gpYWjGpll2",
+					"expanded_url": "https://twitter.com/AircraftSpots/status/1180555646120316928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1180555637765202000,
+					"id_str": "1180555637765201921",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EGItGQKUYAE3bsw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGItGQKUYAE3bsw.jpg",
+					"url": "https://t.co/gpYWjGpll2",
+					"display_url": "pic.twitter.com/gpYWjGpll2",
+					"expanded_url": "https://twitter.com/AircraftSpots/status/1180555646120316928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 705643352050413600,
+			"id_str": "705643352050413569",
+			"name": "Aircraft Spots",
+			"screen_name": "AircraftSpots",
+			"location": "",
+			"description": "Monitoring Military Air Movements",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54210,
+			"friends_count": 169,
+			"listed_count": 820,
+			"created_at": "Fri Mar 04 06:37:40 +0000 2016",
+			"favourites_count": 2615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119089408236326919/dCwC1t7k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119089408236326919/dCwC1t7k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/705643352050413569/1548905338",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Two USAF E-8C JSTARS (97-0200 &amp; 96-0042) arrived at Kadena AB, Okinawa for the first time since early 2018. I suspect they’ll resume Korean Peninsula missions! 🤔 https://t.co/gpYWjGpll2"
+	},
+	{
+		"created_at": "Sat Oct 05 20:52:18 +0000 2019",
+		"id": 1180471666092101600,
+		"id_str": "1180586534157701120",
+		"full_text": "홍콩에서 오늘부터 마스크 금지법 한다는데.\n왜 이사람 이야기하는 사람 아무도 없냐\n실제로 이 법 ㅋㅋㅋ 새누당에서 발의까지 한건데..\n놀랄만큼 아무 관심이 없는 보리수들 https://t.co/OGaZznIit1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1180471657355346000,
+					"id_str": "1180471657355345920",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EGHgt8wVAAAy-Vt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGHgt8wVAAAy-Vt.jpg",
+					"url": "https://t.co/OGaZznIit1",
+					"display_url": "pic.twitter.com/OGaZznIit1",
+					"expanded_url": "https://twitter.com/prettydike100/status/1180471666092101634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1180471657355346000,
+					"id_str": "1180471657355345920",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EGHgt8wVAAAy-Vt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGHgt8wVAAAy-Vt.jpg",
+					"url": "https://t.co/OGaZznIit1",
+					"display_url": "pic.twitter.com/OGaZznIit1",
+					"expanded_url": "https://twitter.com/prettydike100/status/1180471666092101634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3254123827,
+			"id_str": "3254123827",
+			"name": "아나키",
+			"screen_name": "prettydike100",
+			"location": "대한민국",
+			"description": "sine ira et studio",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1259,
+			"friends_count": 1108,
+			"listed_count": 21,
+			"created_at": "Tue Jun 23 23:56:15 +0000 2015",
+			"favourites_count": 255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1165825398199840769/t6SCLlel_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1165825398199840769/t6SCLlel_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3254123827/1522830847",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 258,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "홍콩에서 오늘부터 마스크 금지법 한다는데.\n왜 이사람 이야기하는 사람 아무도 없냐\n실제로 이 법 ㅋㅋㅋ 새누당에서 발의까지 한건데..\n놀랄만큼 아무 관심이 없는 보리수들 https://t.co/OGaZznIit1"
+	},
+	{
+		"created_at": "Sat Oct 05 06:45:22 +0000 2019",
+		"id": 1179799197702180900,
+		"id_str": "1180373395281608705",
+		"full_text": "자유당과 그들이 동원한 사람들의 말도 '경청해야 할 국민의 의견' 이라면 동성애자를 다 쏴죽여야 한다는 누군가의 말도, 난민들은 다 쫓아내고 외국인은 최저임금 필요 없다는 말도 다 경청해야 할 의견이겠지. 틀린 것은 틀린 것이고, 보편적 정의를 위해 배제해야 하는 의견도 분명히 존재한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112715721,
+			"id_str": "112715721",
+			"name": "Rivian🇭🇰民主香港加油",
+			"screen_name": "Eolein",
+			"location": "Tokyo, Japan",
+			"description": "カバンちゃんを返して！",
+			"url": "https://t.co/Iy85hKmC3V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Iy85hKmC3V",
+							"expanded_url": "http://rivian.egloos.com",
+							"display_url": "rivian.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 461,
+			"friends_count": 326,
+			"listed_count": 18,
+			"created_at": "Tue Feb 09 13:28:54 +0000 2010",
+			"favourites_count": 16837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/685216077/icon14_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/685216077/icon14_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 140,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "자유당과 그들이 동원한 사람들의 말도 '경청해야 할 국민의 의견' 이라면 동성애자를 다 쏴죽여야 한다는 누군가의 말도, 난민들은 다 쫓아내고 외국인은 최저임금 필요 없다는 말도 다 경청해야 할 의견이겠지. 틀린 것은 틀린 것이고, 보편적 정의를 위해 배제해야 하는 의견도 분명히 존재한다."
+	},
+	{
+		"created_at": "Sat Oct 05 06:42:01 +0000 2019",
+		"id": 1180152500034211800,
+		"id_str": "1180372551890898944",
+		"full_text": "박가분씨가 조커 보고 벌써 조커 되신걸 보니까 생각보다 평론가들 예측이 잘 맞은 것 같은데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3958494252,
+			"id_str": "3958494252",
+			"name": "이건... 59년 레스폴이 아닙니까...!",
+			"screen_name": "___Metalsuede",
+			"location": "문화도시",
+			"description": "퓨너럴이나 게리, 게링이라고 불러주세요! 방도리 / #Girls_Can_Do_Anything\n\n밴드 #Dustythroat Gt.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 516,
+			"friends_count": 530,
+			"listed_count": 9,
+			"created_at": "Tue Oct 20 13:47:14 +0000 2015",
+			"favourites_count": 3431,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 117893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173982961714118656/8uVBkOw4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173982961714118656/8uVBkOw4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3958494252/1552710986",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "014bb8fd5bfd6755",
+			"url": "https://api.twitter.com/1.1/geo/id/014bb8fd5bfd6755.json",
+			"place_type": "city",
+			"name": "부천시",
+			"full_name": "대한민국 부천시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.738480039431,
+							37.4738660772166
+						],
+						[
+							126.842930727722,
+							37.4738660772166
+						],
+						[
+							126.842930727722,
+							37.5409741402842
+						],
+						[
+							126.738480039431,
+							37.5409741402842
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "박가분씨가 조커 보고 벌써 조커 되신걸 보니까 생각보다 평론가들 예측이 잘 맞은 것 같은데."
+	},
+	{
+		"created_at": "Sat Oct 05 06:41:50 +0000 2019",
+		"id": 1180105307747340300,
+		"id_str": "1180372505359351809",
+		"full_text": "트위터 2컷 만화감이네 https://t.co/qeESjx9Upe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1180105290613575700,
+					"id_str": "1180105290613575681",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EGCTgmSU0AE3P6T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGCTgmSU0AE3P6T.jpg",
+					"url": "https://t.co/qeESjx9Upe",
+					"display_url": "pic.twitter.com/qeESjx9Upe",
+					"expanded_url": "https://twitter.com/not_unot_u/status/1180105307747340288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 748,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1180105290613575700,
+					"id_str": "1180105290613575681",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EGCTgmSU0AE3P6T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGCTgmSU0AE3P6T.jpg",
+					"url": "https://t.co/qeESjx9Upe",
+					"display_url": "pic.twitter.com/qeESjx9Upe",
+					"expanded_url": "https://twitter.com/not_unot_u/status/1180105307747340288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 748,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 497,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1180105290592637000,
+					"id_str": "1180105290592636928",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/EGCTgmNVUAA0cS1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGCTgmNVUAA0cS1.jpg",
+					"url": "https://t.co/qeESjx9Upe",
+					"display_url": "pic.twitter.com/qeESjx9Upe",
+					"expanded_url": "https://twitter.com/not_unot_u/status/1180105307747340288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1008,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778352745732513800,
+			"id_str": "778352745732513792",
+			"name": "브리라순자",
+			"screen_name": "not_unot_u",
+			"location": "아그라바",
+			"description": "모순모순맨🏳️‍🌈 #AnnewithanE #CaptainMarvel",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4225,
+			"friends_count": 395,
+			"listed_count": 22,
+			"created_at": "Tue Sep 20 21:58:50 +0000 2016",
+			"favourites_count": 20665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129364827070009344/9mXy9WBf_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129364827070009344/9mXy9WBf_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778352745732513792/1530265100",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "트위터 2컷 만화감이네 https://t.co/qeESjx9Upe"
+	},
+	{
+		"created_at": "Sat Oct 05 06:33:01 +0000 2019",
+		"id": 1180313280830558200,
+		"id_str": "1180370287100956681",
+		"full_text": "박가분 'PC주의자 진보진영 때문에 조커가 된다'\n김동조 '조국 안자르고 버티는 문재인 때문에 조커가 된다'\n\n이게 자강두천인가 뭔가 그건가",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54256163,
+			"id_str": "54256163",
+			"name": "DECK🏳️‍🌈",
+			"screen_name": "deckybi",
+			"location": "Seoul, Korea",
+			"description": "문화기획자/B",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3284,
+			"friends_count": 428,
+			"listed_count": 76,
+			"created_at": "Mon Jul 06 16:37:25 +0000 2009",
+			"favourites_count": 2316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2A2A2A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112496366180163584/ksW4KytO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112496366180163584/ksW4KytO_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EE7700",
+			"profile_text_color": "1A1A1A",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "박가분 'PC주의자 진보진영 때문에 조커가 된다'\n김동조 '조국 안자르고 버티는 문재인 때문에 조커가 된다'\n\n이게 자강두천인가 뭔가 그건가"
+	},
+	{
+		"created_at": "Sat Oct 05 05:50:23 +0000 2019",
+		"id": 1177592209249460200,
+		"id_str": "1180359560835420161",
+		"full_text": "진짜로,,, 세상에 선의란 없다 어쩌고저쩌고 난리치는 혼돈악 놈들보다 주저주저하고 싫어서 징징거리다가 궁여지책으로 선한 행동을 선택하는 사람이 오천배 나음",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936160257616756700,
+			"id_str": "936160257616756736",
+			"name": "드버",
+			"screen_name": "of_d_ver",
+			"location": "西京",
+			"description": "https://t.co/Sz77BTL7qm",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Sz77BTL7qm",
+							"expanded_url": "https://ask.fm/of_d_ver",
+							"display_url": "ask.fm/of_d_ver",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 121,
+			"friends_count": 189,
+			"listed_count": 0,
+			"created_at": "Thu Nov 30 09:09:33 +0000 2017",
+			"favourites_count": 44882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176135892030775296/xbrGHmQE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176135892030775296/xbrGHmQE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936160257616756736/1547889457",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5792,
+		"favorite_count": 1571,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "진짜로,,, 세상에 선의란 없다 어쩌고저쩌고 난리치는 혼돈악 놈들보다 주저주저하고 싫어서 징징거리다가 궁여지책으로 선한 행동을 선택하는 사람이 오천배 나음"
+	},
+	{
+		"created_at": "Sat Oct 05 05:50:17 +0000 2019",
+		"id": 1177592434496114700,
+		"id_str": "1180359533014614016",
+		"full_text": "다들 엑시트에서 봤잖아요 한숨 푹푹 쉬고 엉엉 울면서 옳은 행동을 하는 주인공들의 멋짐을",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1177592209249460200,
+		"in_reply_to_status_id_str": "1177592209249460225",
+		"in_reply_to_user_id": 936160257616756700,
+		"in_reply_to_user_id_str": "936160257616756736",
+		"in_reply_to_screen_name": "of_d_ver",
+		"user": {
+			"id": 936160257616756700,
+			"id_str": "936160257616756736",
+			"name": "드버",
+			"screen_name": "of_d_ver",
+			"location": "西京",
+			"description": "https://t.co/Sz77BTL7qm",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Sz77BTL7qm",
+							"expanded_url": "https://ask.fm/of_d_ver",
+							"display_url": "ask.fm/of_d_ver",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 121,
+			"friends_count": 189,
+			"listed_count": 0,
+			"created_at": "Thu Nov 30 09:09:33 +0000 2017",
+			"favourites_count": 44882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176135892030775296/xbrGHmQE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176135892030775296/xbrGHmQE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936160257616756736/1547889457",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2790,
+		"favorite_count": 889,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다들 엑시트에서 봤잖아요 한숨 푹푹 쉬고 엉엉 울면서 옳은 행동을 하는 주인공들의 멋짐을"
+	},
+	{
+		"created_at": "Sat Oct 05 03:52:37 +0000 2019",
+		"id": 1180296224974332000,
+		"id_str": "1180329920561475589",
+		"full_text": "영화 조커를 보고 “PC한 호들갑”이라는 사람하고 나 사이에는 아주 깊은 골이 있다는건 알겠다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1180294932260507600,
+		"in_reply_to_status_id_str": "1180294932260507653",
+		"in_reply_to_user_id": 101148636,
+		"in_reply_to_user_id_str": "101148636",
+		"in_reply_to_screen_name": "kcanari",
+		"user": {
+			"id": 101148636,
+			"id_str": "101148636",
+			"name": "까날(오승택)",
+			"screen_name": "kcanari",
+			"location": "KOREA Sungnam",
+			"description": "'홋카이도에 먹으러가자' 글쓴이. 일본 식도락 여행 전문 블로그 운영중. 우리음식, 일본음식, 우리술, 일본술에 관심이 많은 사람.",
+			"url": "http://t.co/F8qV04Ob9y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/F8qV04Ob9y",
+							"expanded_url": "http://kcanari.egloos.com",
+							"display_url": "kcanari.egloos.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49162,
+			"friends_count": 272,
+			"listed_count": 247,
+			"created_at": "Sat Jan 02 05:42:27 +0000 2010",
+			"favourites_count": 596,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 116306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101148636/1365251288",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 284,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "영화 조커를 보고 “PC한 호들갑”이라는 사람하고 나 사이에는 아주 깊은 골이 있다는건 알겠다."
+	},
+	{
 		"created_at": "Fri Oct 04 22:02:20 +0000 2019",
 		"id": 1180163200672784400,
 		"id_str": "1180241772099731456",
@@ -848,7 +1972,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "Mr. OK",
 			"screen_name": "Onegai_OKSensei",
 			"location": "",
-			"description": "Ong Ong/#GirlsCanDoAnything/B🏳️‍🌈",
+			"description": "Ong Ong/#GirlsCanDoAnything/B🏳️🌈",
 			"url": null,
 			"entities": {
 				"description": {
