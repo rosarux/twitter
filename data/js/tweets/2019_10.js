@@ -1,6 +1,183 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 06 12:58:50 +0000 2019",
+		"id": 1180829769266389000,
+		"id_str": "1180829769266388994",
+		"full_text": "스팸튀겨먹는다는 소리는 또 처음 들어보네",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 571,
+			"friends_count": 495,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "스팸튀겨먹는다는 소리는 또 처음 들어보네"
+	},
+	{
+		"created_at": "Sun Oct 06 09:33:31 +0000 2019",
+		"id": 1180658523757150200,
+		"id_str": "1180778101208281088",
+		"full_text": "예전 노무현 대통령과 그 지인들을 수사했던 검찰의 모습은 '이 정도 때렸다고 죽을 줄 몰랐다' 느낌이었다면, 지금 조 장관의 가족을 수사하는 모습은 '이렇게 때리는데 아직도 안 죽네'의 느낌입니다. 공권력이 수사가 아니라 언론과 야합하여 하는 고문을 생중계로 보는 기분이에요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48216244,
+			"id_str": "48216244",
+			"name": "Nam Myoung-Hee",
+			"screen_name": "worrynet",
+			"location": "Seoul, S. Korea",
+			"description": "Lecturer of Films/Fandom Study. The X-Files/Misha Collins/US TV Shows. I write books of US TV shows, and fanficion. 저서 '미치도록 드라마틱한 세계, 미드', '팬픽션의 이해'",
+			"url": "https://t.co/yDYjFtdZgO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yDYjFtdZgO",
+							"expanded_url": "http://www.worrynet.com",
+							"display_url": "worrynet.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2648,
+			"friends_count": 925,
+			"listed_count": 64,
+			"created_at": "Thu Jun 18 02:39:28 +0000 2009",
+			"favourites_count": 8916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 153990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956790931637678080/TWMFOeyw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956790931637678080/TWMFOeyw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48216244/1568522567",
+			"profile_link_color": "6D7BC2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFEDCC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1713,
+		"favorite_count": 686,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "예전 노무현 대통령과 그 지인들을 수사했던 검찰의 모습은 '이 정도 때렸다고 죽을 줄 몰랐다' 느낌이었다면, 지금 조 장관의 가족을 수사하는 모습은 '이렇게 때리는데 아직도 안 죽네'의 느낌입니다. 공권력이 수사가 아니라 언론과 야합하여 하는 고문을 생중계로 보는 기분이에요."
+	},
+	{
 		"created_at": "Sat Oct 05 20:55:10 +0000 2019",
 		"id": 1180555646120317000,
 		"id_str": "1180587253191438337",
@@ -709,7 +886,7 @@ Grailbird.data.tweets_2019_10 =
 			"name": "브리라순자",
 			"screen_name": "not_unot_u",
 			"location": "아그라바",
-			"description": "모순모순맨🏳️‍🌈 #AnnewithanE #CaptainMarvel",
+			"description": "모순모순맨🏳️🌈 #AnnewithanE #CaptainMarvel",
 			"url": null,
 			"entities": {
 				"description": {
@@ -789,7 +966,7 @@ Grailbird.data.tweets_2019_10 =
 		"user": {
 			"id": 54256163,
 			"id_str": "54256163",
-			"name": "DECK🏳️‍🌈",
+			"name": "DECK🏳️🌈",
 			"screen_name": "deckybi",
 			"location": "Seoul, Korea",
 			"description": "문화기획자/B",
