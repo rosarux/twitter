@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 08 13:47:14 +0000 2019",
+		"id": 1181133806129959000,
+		"id_str": "1181566724035903488",
+		"full_text": "근데 아무리 조국이 잘못되었고 문재인 정권에 실망했어도 광화문 집회에 공감한다는건 의미가 다르다고 본다. 극우태극기와 혐오개신교 세력도 조국 문제로 용인할 수 있다는거 아닌가. 이분법적, 정파적 사고들이 낳은 참사다 정말로..\n\nhttps://t.co/b1eaFed7Rr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b1eaFed7Rr",
+					"expanded_url": "https://news.v.daum.net/v/20191007150022828?f=m",
+					"display_url": "news.v.daum.net/v/201910071500…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1140251360,
+			"id_str": "1140251360",
+			"name": "◼까만사각형 레고◼",
+			"screen_name": "Hadrianus753",
+			"location": "조선",
+			"description": "이것저것 씁니다 / 이것저것 혐오 안받아요 / 사회주의입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 235,
+			"listed_count": 16,
+			"created_at": "Fri Feb 01 17:18:12 +0000 2013",
+			"favourites_count": 4027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 111774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112388034492719104/6VEE7Y3H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112388034492719104/6VEE7Y3H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1140251360/1566542009",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 619,
+		"favorite_count": 152,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "근데 아무리 조국이 잘못되었고 문재인 정권에 실망했어도 광화문 집회에 공감한다는건 의미가 다르다고 본다. 극우태극기와 혐오개신교 세력도 조국 문제로 용인할 수 있다는거 아닌가. 이분법적, 정파적 사고들이 낳은 참사다 정말로..\n\nhttps://t.co/b1eaFed7Rr"
+	},
+	{
 		"created_at": "Sun Oct 06 12:58:50 +0000 2019",
 		"id": 1180829769266389000,
 		"id_str": "1180829769266388994",
