@@ -1,6 +1,1230 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 12 00:03:45 +0000 2019",
+		"id": 1182659136174973000,
+		"id_str": "1182809040188887040",
+		"full_text": "빌 게이츠도 독과점으로 돈벌었으니 독과점 반대할 자격 없다는 수준의 논리. 이런 식으로 ‘기득권 타파하자는 기득권’의 입을 틀어막으면 결국 누구 좋은 일 하는건지는 알고들 그러는걸까 https://t.co/aIKZYblgMo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aIKZYblgMo",
+					"expanded_url": "https://twitter.com/bluexmas47/status/1182624199912722433",
+					"display_url": "twitter.com/bluexmas47/sta…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2807822528,
+			"id_str": "2807822528",
+			"name": "Borisu Johnson",
+			"screen_name": "PCMkM3YxJJ",
+			"location": "Daegu, United States of Borisu",
+			"description": "블락하지마세요. 팔로하고 절 견디세요.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 419,
+			"listed_count": 5,
+			"created_at": "Sat Sep 13 17:06:14 +0000 2014",
+			"favourites_count": 2401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157231100344717315/Ap6u30eq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157231100344717315/Ap6u30eq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2807822528/1564740371",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1182624199912722400,
+		"quoted_status_id_str": "1182624199912722433",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aIKZYblgMo",
+			"expanded": "https://twitter.com/bluexmas47/status/1182624199912722433",
+			"display": "twitter.com/bluexmas47/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 11 11:49:16 +0000 2019",
+			"id": 1182624199912722400,
+			"id_str": "1182624199912722433",
+			"full_text": "교육감님도 자녀 외고 보내지 않았습니까?\n조희연 \"조국사태로 드러난 교육불평등..교육개혁 계기 삼아야\" | 다음뉴스 https://t.co/VVNg2y3Ebw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				88
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VVNg2y3Ebw",
+						"expanded_url": "https://news.v.daum.net/v/20191011155318067?f=m",
+						"display_url": "news.v.daum.net/v/201910111553…",
+						"indices": [
+							65,
+							88
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 141495614,
+				"id_str": "141495614",
+				"name": "bluexmas",
+				"screen_name": "bluexmas47",
+				"location": "Westside of River.",
+				"description": "음식평론가",
+				"url": "https://t.co/VfP7QBHoFC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VfP7QBHoFC",
+								"expanded_url": "http://www.bluexmas.com",
+								"display_url": "bluexmas.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6615,
+				"friends_count": 77,
+				"listed_count": 109,
+				"created_at": "Sat May 08 07:02:45 +0000 2010",
+				"favourites_count": 3463,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 174656,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1172864182691090433/sVyJzl4p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172864182691090433/sVyJzl4p_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/141495614/1568467588",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 30,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빌 게이츠도 독과점으로 돈벌었으니 독과점 반대할 자격 없다는 수준의 논리. 이런 식으로 ‘기득권 타파하자는 기득권’의 입을 틀어막으면 결국 누구 좋은 일 하는건지는 알고들 그러는걸까 https://t.co/aIKZYblgMo"
+	},
+	{
+		"created_at": "Fri Oct 11 13:45:23 +0000 2019",
+		"id": 1182650306410107000,
+		"id_str": "1182653424468234240",
+		"full_text": "This 12-year-old girl invented a laundry-folding robot after learning to code #DayOfTheGirl https://t.co/MSBPUN1pQ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DayOfTheGirl",
+					"indices": [
+						78,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149736404315988000,
+					"id_str": "1149736404315987973",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1149736404315987973/img/UEOlDG5VuVtcil2D.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1149736404315987973/img/UEOlDG5VuVtcil2D.jpg",
+					"url": "https://t.co/MSBPUN1pQ0",
+					"display_url": "pic.twitter.com/MSBPUN1pQ0",
+					"expanded_url": "https://twitter.com/nowthisnews/status/1182650306410106880/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149736404315988000,
+					"id_str": "1149736404315987973",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1149736404315987973/img/UEOlDG5VuVtcil2D.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1149736404315987973/img/UEOlDG5VuVtcil2D.jpg",
+					"url": "https://t.co/MSBPUN1pQ0",
+					"display_url": "pic.twitter.com/MSBPUN1pQ0",
+					"expanded_url": "https://twitter.com/nowthisnews/status/1182650306410106880/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 49750,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1149736404315987973/pl/UPgbs5cW7YmS7LCG.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1149736404315987973/vid/720x720/d-VAAyoAMsi2y_Mt.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1149736404315987973/vid/480x480/MuHc18vL4EPWbC10.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1149736404315987973/vid/320x320/bhVlW8vaNmltNZ3A.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Young Girl Designs Laundry Folding Robot",
+						"description": "This 12-year-old girl invented a laundry-folding robot after learning to code",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 701725963,
+			"id_str": "701725963",
+			"name": "NowThis",
+			"screen_name": "nowthisnews",
+			"location": "The Internet & NYC",
+			"description": "Stories that move. Send us tips: contact@nowthismedia.com. Subscribe to our daily newsletter: https://t.co/2sCY2rymF7",
+			"url": "http://t.co/1NLX7sJ52o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1NLX7sJ52o",
+							"expanded_url": "http://nowthisnews.com/",
+							"display_url": "nowthisnews.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2sCY2rymF7",
+							"expanded_url": "http://go.nowth.is/KnowThis",
+							"display_url": "go.nowth.is/KnowThis",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2438634,
+			"friends_count": 12172,
+			"listed_count": 9775,
+			"created_at": "Tue Jul 17 20:31:08 +0000 2012",
+			"favourites_count": 12936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 134759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7FDBB6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145763180116881408/4_Fl6NDC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145763180116881408/4_Fl6NDC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/701725963/1528239770",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 962,
+		"favorite_count": 2953,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This 12-year-old girl invented a laundry-folding robot after learning to code #DayOfTheGirl https://t.co/MSBPUN1pQ0"
+	},
+	{
+		"created_at": "Fri Oct 11 12:42:03 +0000 2019",
+		"id": 1182637486155034600,
+		"id_str": "1182637486155034625",
+		"full_text": "@anzinne 저희 이사관님은 첫째가 13개월입니다. 너무 심려하지 않으셔도....",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anzinne",
+					"name": "Ан",
+					"id": 254293448,
+					"id_str": "254293448",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1182636822020513800,
+		"in_reply_to_status_id_str": "1182636822020513792",
+		"in_reply_to_user_id": 254293448,
+		"in_reply_to_user_id_str": "254293448",
+		"in_reply_to_screen_name": "anzinne",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 573,
+			"friends_count": 495,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@anzinne 저희 이사관님은 첫째가 13개월입니다. 너무 심려하지 않으셔도...."
+	},
+	{
+		"created_at": "Fri Oct 11 12:30:21 +0000 2019",
+		"id": 1182634542193987600,
+		"id_str": "1182634542193987584",
+		"full_text": "법을 지키는 게 저항이, 투쟁이 되는 사회",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 573,
+			"friends_count": 495,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "법을 지키는 게 저항이, 투쟁이 되는 사회"
+	},
+	{
+		"created_at": "Fri Oct 11 12:26:41 +0000 2019",
+		"id": 1174974124323557400,
+		"id_str": "1182633619736543232",
+		"full_text": "&lt;살인의 추억&gt;은 물론이거니와 &lt;마인드헌터&gt; 같은 이야기는 제발, 그만 나와야 한다. 숱하게 희생당한 피해자들은 오직 ‘엄청난 범죄자의 능력’을 보여주는 증거로만 존재하고, 관심은 온통 비범한범인과 비범한형사라는 위대한 두 힘의 대결에만 집중되어 있는 이야기는 이젠 구닥다리가 되어야 한다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1174970130985390000,
+		"in_reply_to_status_id_str": "1174970130985390083",
+		"in_reply_to_user_id": 1964937763,
+		"in_reply_to_user_id_str": "1964937763",
+		"in_reply_to_screen_name": "indianbayleaves",
+		"user": {
+			"id": 1964937763,
+			"id_str": "1964937763",
+			"name": "인도산월계수잎🏳️‍🌈",
+			"screen_name": "indianbayleaves",
+			"location": "",
+			"description": "a poor unfortunate soul",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10047,
+			"friends_count": 467,
+			"listed_count": 76,
+			"created_at": "Wed Oct 16 14:35:56 +0000 2013",
+			"favourites_count": 4505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1147041424384245760/3SxNSsRP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1147041424384245760/3SxNSsRP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1964937763/1562311216",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 331,
+		"favorite_count": 144,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;살인의 추억&gt;은 물론이거니와 &lt;마인드헌터&gt; 같은 이야기는 제발, 그만 나와야 한다. 숱하게 희생당한 피해자들은 오직 ‘엄청난 범죄자의 능력’을 보여주는 증거로만 존재하고, 관심은 온통 비범한범인과 비범한형사라는 위대한 두 힘의 대결에만 집중되어 있는 이야기는 이젠 구닥다리가 되어야 한다"
+	},
+	{
+		"created_at": "Fri Oct 11 11:51:20 +0000 2019",
+		"id": 1182618425216004000,
+		"id_str": "1182624724007833600",
+		"full_text": "日 하토야마 전 총리 \"가해자는 잊어도 피해자는 아픔 못 잊어\"(종합) | 다음뉴스 https://t.co/0wt2Rcz3ol",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0wt2Rcz3ol",
+					"expanded_url": "https://news.v.daum.net/v/20191011185838619",
+					"display_url": "news.v.daum.net/v/201910111858…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 151696712,
+			"id_str": "151696712",
+			"name": "浮遊物",
+			"screen_name": "banks_ite",
+			"location": "",
+			"description": "전문허송세월러 \n\n하는일 없이 세월을 보냅니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 360,
+			"friends_count": 275,
+			"listed_count": 11,
+			"created_at": "Fri Jun 04 01:23:44 +0000 2010",
+			"favourites_count": 3899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976848193450401798/gefoopDT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976848193450401798/gefoopDT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151696712/1435404115",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "ACDED6",
+			"profile_sidebar_fill_color": "ACDED6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "日 하토야마 전 총리 \"가해자는 잊어도 피해자는 아픔 못 잊어\"(종합) | 다음뉴스 https://t.co/0wt2Rcz3ol"
+	},
+	{
+		"created_at": "Fri Oct 11 11:37:22 +0000 2019",
+		"id": 1182619859961565200,
+		"id_str": "1182621205821452288",
+		"full_text": "\"전태일은 별로 착취당하지도 않았잖아?\"라는 건 그냥 사악한거다. 그냥 그 투쟁을 삶을 통채로 부정하는 거다. 그 사람이 항상 말하는 \"식민지 조선은 일제에 별로 착취당하지도 않았는데 무슨 호들갑이래?\"와 별반 다르지 않다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1182618251630502000,
+		"in_reply_to_status_id_str": "1182618251630501891",
+		"in_reply_to_user_id": 22887121,
+		"in_reply_to_user_id_str": "22887121",
+		"in_reply_to_screen_name": "shhong",
+		"user": {
+			"id": 22887121,
+			"id_str": "22887121",
+			"name": "소바라능",
+			"screen_name": "shhong",
+			"location": "Okinawa, Japan",
+			"description": "빵 너무 많이 먹음",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 456,
+			"listed_count": 25,
+			"created_at": "Thu Mar 05 05:49:34 +0000 2009",
+			"favourites_count": 10376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060837328686526464/kvbPJHxR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060837328686526464/kvbPJHxR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22887121/1541758198",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"전태일은 별로 착취당하지도 않았잖아?\"라는 건 그냥 사악한거다. 그냥 그 투쟁을 삶을 통채로 부정하는 거다. 그 사람이 항상 말하는 \"식민지 조선은 일제에 별로 착취당하지도 않았는데 무슨 호들갑이래?\"와 별반 다르지 않다."
+	},
+	{
+		"created_at": "Fri Oct 11 11:30:08 +0000 2019",
+		"id": 1182618251630502000,
+		"id_str": "1182619385791275008",
+		"full_text": "여공들에 대한 착취를 거들면서 남들 하는대로 살았다면 분명 사장님이 되었을 거다 (실제 생전에 사업체 설립도 생각했었다). 전태일을 열사로 만든 것은 자신의 처지에 대한 개인적인 울분이 아니었다. 약자들에 대한 공공연한 착취, 있으나마나 한 법, 이런 사회적 불의에 대한 분노였다...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1182617991696900000,
+		"in_reply_to_status_id_str": "1182617991696900098",
+		"in_reply_to_user_id": 22887121,
+		"in_reply_to_user_id_str": "22887121",
+		"in_reply_to_screen_name": "shhong",
+		"user": {
+			"id": 22887121,
+			"id_str": "22887121",
+			"name": "소바라능",
+			"screen_name": "shhong",
+			"location": "Okinawa, Japan",
+			"description": "빵 너무 많이 먹음",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 456,
+			"listed_count": 25,
+			"created_at": "Thu Mar 05 05:49:34 +0000 2009",
+			"favourites_count": 10376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060837328686526464/kvbPJHxR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060837328686526464/kvbPJHxR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22887121/1541758198",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여공들에 대한 착취를 거들면서 남들 하는대로 살았다면 분명 사장님이 되었을 거다 (실제 생전에 사업체 설립도 생각했었다). 전태일을 열사로 만든 것은 자신의 처지에 대한 개인적인 울분이 아니었다. 약자들에 대한 공공연한 착취, 있으나마나 한 법, 이런 사회적 불의에 대한 분노였다..."
+	},
+	{
+		"created_at": "Fri Oct 11 10:56:56 +0000 2019",
+		"id": 1182322115233501200,
+		"id_str": "1182611032457519104",
+		"full_text": "국회의원 특권 철폐를 말하면서 국회의원 정수 감축을 말하고, 공무원의 불친절을 욕하면서 공무원 감축을 말하고, 코레일의 서비스 이슈를 비난하면서 공기업 민영화시켜야 한다고 말하고... 누가 이렇게 목적과 정반대지만 말만은 그럴싸한 증오의 레토릭을 여기저기 심어 놓은 걸까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 353097742,
+			"id_str": "353097742",
+			"name": "[통판중] 시아란/아란시스토르",
+			"screen_name": "aransistore",
+			"location": "복실이 연구소",
+			"description": "PhD Engr / 스토리텔러 / 서브컬쳐, 철도, 봉제인형, 귀여운 것, 그리고 레몬 / 나의 일상이 당신의 경이가 되기를 / 안전가옥 \"대멸종\" 앤솔로지 발매 중",
+			"url": "https://t.co/YdD6I0GJRn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YdD6I0GJRn",
+							"expanded_url": "http://www.siaran.kr",
+							"display_url": "siaran.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2278,
+			"friends_count": 216,
+			"listed_count": 54,
+			"created_at": "Thu Aug 11 15:02:56 +0000 2011",
+			"favourites_count": 14931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 335036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/353097742/1459516574",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "국회의원 특권 철폐를 말하면서 국회의원 정수 감축을 말하고, 공무원의 불친절을 욕하면서 공무원 감축을 말하고, 코레일의 서비스 이슈를 비난하면서 공기업 민영화시켜야 한다고 말하고... 누가 이렇게 목적과 정반대지만 말만은 그럴싸한 증오의 레토릭을 여기저기 심어 놓은 걸까."
+	},
+	{
+		"created_at": "Fri Oct 11 10:55:20 +0000 2019",
+		"id": 1182552437938249700,
+		"id_str": "1182610628415852544",
+		"full_text": "David Harvey’s Course on Marx’s Capital: Volumes 1 &amp; 2  Now Available Free Online \n\nhttps://t.co/12RtEPSTLG https://t.co/HYlDcY2GY3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/12RtEPSTLG",
+					"expanded_url": "http://www.openculture.com/?p=99333",
+					"display_url": "openculture.com/?p=99333",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1182552406862598100,
+					"id_str": "1182552406862598144",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EGlFJgtUEAAIUaL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGlFJgtUEAAIUaL.jpg",
+					"url": "https://t.co/HYlDcY2GY3",
+					"display_url": "pic.twitter.com/HYlDcY2GY3",
+					"expanded_url": "https://twitter.com/openculture/status/1182552437938249728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 632,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 632,
+							"h": 462,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 632,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1182552406862598100,
+					"id_str": "1182552406862598144",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EGlFJgtUEAAIUaL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EGlFJgtUEAAIUaL.jpg",
+					"url": "https://t.co/HYlDcY2GY3",
+					"display_url": "pic.twitter.com/HYlDcY2GY3",
+					"expanded_url": "https://twitter.com/openculture/status/1182552437938249728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 632,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 632,
+							"h": 462,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 632,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19826509,
+			"id_str": "19826509",
+			"name": "Open Culture",
+			"screen_name": "openculture",
+			"location": "Mountain View, CA",
+			"description": "We make the web a more intelligent place. A Thought-Provoking Blog. Free Courses. Free Audio Books & eBooks. And more.",
+			"url": "http://t.co/HVA1Vpy2Ba",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/HVA1Vpy2Ba",
+							"expanded_url": "http://www.openculture.com",
+							"display_url": "openculture.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430940,
+			"friends_count": 972,
+			"listed_count": 13717,
+			"created_at": "Sat Jan 31 19:01:34 +0000 2009",
+			"favourites_count": 598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86ACB7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/851645340830715904/jrs1gcNM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/851645340830715904/jrs1gcNM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19826509/1491930107",
+			"profile_link_color": "306885",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "F6F2E3",
+			"profile_text_color": "62625D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 217,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "David Harvey’s Course on Marx’s Capital: Volumes 1 &amp; 2  Now Available Free Online \n\nhttps://t.co/12RtEPSTLG https://t.co/HYlDcY2GY3"
+	},
+	{
 		"created_at": "Wed Oct 09 11:05:05 +0000 2019",
 		"id": 1181888154082480000,
 		"id_str": "1181888308936265728",
