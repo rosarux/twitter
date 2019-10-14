@@ -1,6 +1,585 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 13 12:07:34 +0000 2019",
+		"id": 1183278322882506800,
+		"id_str": "1183353581849608192",
+		"full_text": "여담으로 저는 (누군지도 모르고 나랑 딱히 상관도 없는 사람들이 지들끼리 모여서 하는)야구를 보러가는 것보다는 그냥 사회주의자가 되는 게 더 쉽고 재미있고 흥미로운 일이라고 생각하긴 하는데요, 시대도 바뀌었으니 그런 사람들이 더 늘어나는 게 장기적으로 좋지 않겠는가 뭐 그렇게 봐요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1183274123989880800,
+		"in_reply_to_status_id_str": "1183274123989880832",
+		"in_reply_to_user_id": 129115028,
+		"in_reply_to_user_id_str": "129115028",
+		"in_reply_to_screen_name": "nekizlab",
+		"user": {
+			"id": 129115028,
+			"id_str": "129115028",
+			"name": "Nekizlab",
+			"screen_name": "nekizlab",
+			"location": "Seoul, Korea",
+			"description": "독서가입니다. 진짜임.",
+			"url": "https://t.co/WtnttZzWxT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WtnttZzWxT",
+							"expanded_url": "http://www.nekizlab.com/",
+							"display_url": "nekizlab.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1655,
+			"friends_count": 337,
+			"listed_count": 36,
+			"created_at": "Sat Apr 03 06:31:10 +0000 2010",
+			"favourites_count": 202761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 266511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/577243935996702720/mx0uvSNR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/577243935996702720/mx0uvSNR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/129115028/1554956354",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "여담으로 저는 (누군지도 모르고 나랑 딱히 상관도 없는 사람들이 지들끼리 모여서 하는)야구를 보러가는 것보다는 그냥 사회주의자가 되는 게 더 쉽고 재미있고 흥미로운 일이라고 생각하긴 하는데요, 시대도 바뀌었으니 그런 사람들이 더 늘어나는 게 장기적으로 좋지 않겠는가 뭐 그렇게 봐요."
+	},
+	{
+		"created_at": "Sun Oct 13 06:02:53 +0000 2019",
+		"id": 1183249554520465400,
+		"id_str": "1183261809106509824",
+		"full_text": "https://t.co/BmP35zwT6U\n\n딱이 https://t.co/T26sCpSWZ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BmP35zwT6U",
+					"expanded_url": "https://www.youtube.com/watch?v=4jVJxPLo4Jg",
+					"display_url": "youtube.com/watch?v=4jVJxP…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1183249550028329000,
+					"id_str": "1183249550028328960",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EGu_MlYUUAAlkRm.png",
+					"media_url_https": "https://pbs.twimg.com/media/EGu_MlYUUAAlkRm.png",
+					"url": "https://t.co/T26sCpSWZ0",
+					"display_url": "pic.twitter.com/T26sCpSWZ0",
+					"expanded_url": "https://twitter.com/banks_ite/status/1183249554520465408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 262,
+							"h": 71,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 262,
+							"h": 71,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 262,
+							"h": 71,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 71,
+							"h": 71,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1183249550028329000,
+					"id_str": "1183249550028328960",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EGu_MlYUUAAlkRm.png",
+					"media_url_https": "https://pbs.twimg.com/media/EGu_MlYUUAAlkRm.png",
+					"url": "https://t.co/T26sCpSWZ0",
+					"display_url": "pic.twitter.com/T26sCpSWZ0",
+					"expanded_url": "https://twitter.com/banks_ite/status/1183249554520465408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 262,
+							"h": 71,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 262,
+							"h": 71,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 262,
+							"h": 71,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 71,
+							"h": 71,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 151696712,
+			"id_str": "151696712",
+			"name": "浮遊物",
+			"screen_name": "banks_ite",
+			"location": "",
+			"description": "전문허송세월러 \n\n하는일 없이 세월을 보냅니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 359,
+			"friends_count": 276,
+			"listed_count": 11,
+			"created_at": "Fri Jun 04 01:23:44 +0000 2010",
+			"favourites_count": 3926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976848193450401798/gefoopDT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976848193450401798/gefoopDT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151696712/1435404115",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "ACDED6",
+			"profile_sidebar_fill_color": "ACDED6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/BmP35zwT6U\n\n딱이 https://t.co/T26sCpSWZ0"
+	},
+	{
+		"created_at": "Sun Oct 13 05:58:55 +0000 2019",
+		"id": 1183161315344433200,
+		"id_str": "1183260809851355136",
+		"full_text": "한국 매체의 부산영화제 후기 기사는 참으로 한결같다. 세계 업계에서 그해 아시아 영화 쇼케이스로 참고하는 엄청난 명성의 영화제인데 자국만 그걸 인정 못하는 듯한. 영화제 취재 포인트가 여전히 귀빈 누구 왔나 중심...저기 이미 아시아 최고 영화제에여... https://t.co/1pKgYcxZEX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1pKgYcxZEX",
+					"expanded_url": "https://twitter.com/admanblog/status/1182821352257945600",
+					"display_url": "twitter.com/admanblog/stat…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23325103,
+			"id_str": "23325103",
+			"name": "말쓰걸",
+			"screen_name": "marsgirrrl",
+			"location": "newyork",
+			"description": "영화를 사랑하고 말하고 씁니다.  Podcast: JJ 팝콘토크 (Itunes, Soundcloud, Podty, Google play) 오타주의",
+			"url": "http://t.co/x6Ifd9kge9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/x6Ifd9kge9",
+							"expanded_url": "http://sixty-nine.tistory.com",
+							"display_url": "sixty-nine.tistory.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1067,
+			"friends_count": 545,
+			"listed_count": 29,
+			"created_at": "Sun Mar 08 16:40:32 +0000 2009",
+			"favourites_count": 10056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126291520901013504/s3Drd98c_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126291520901013504/s3Drd98c_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23325103/1353185462",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1182821352257945600,
+		"quoted_status_id_str": "1182821352257945600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1pKgYcxZEX",
+			"expanded": "https://twitter.com/admanblog/status/1182821352257945600",
+			"display": "twitter.com/admanblog/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 12 00:52:40 +0000 2019",
+			"id": 1182821352257945600,
+			"id_str": "1182821352257945600",
+			"full_text": "썰렁했던 부산, 티모시 샬라메 아니면 어쩔 뻔했나[BIFF 폐막] | 다음연예 https://t.co/A2fdhwadV1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/A2fdhwadV1",
+						"expanded_url": "https://entertain.v.daum.net/v/20191012060036601",
+						"display_url": "entertain.v.daum.net/v/201910120600…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 77701173,
+				"id_str": "77701173",
+				"name": "애드맨",
+				"screen_name": "admanblog",
+				"location": "",
+				"description": "더슈퍼파워블로거 Since 2007",
+				"url": "https://t.co/r0z4uZv79S",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r0z4uZv79S",
+								"expanded_url": "http://aintitgood.blogspot.com",
+								"display_url": "aintitgood.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2530,
+				"friends_count": 4979,
+				"listed_count": 49,
+				"created_at": "Sun Sep 27 09:33:03 +0000 2009",
+				"favourites_count": 1741,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 80376,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF9F38",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000175016358/5e28bba901ed09fd4932c51221e92135_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000175016358/5e28bba901ed09fd4932c51221e92135_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/77701173/1558277323",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "F7F7F7",
+				"profile_sidebar_fill_color": "FFBA75",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 870,
+		"favorite_count": 185,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국 매체의 부산영화제 후기 기사는 참으로 한결같다. 세계 업계에서 그해 아시아 영화 쇼케이스로 참고하는 엄청난 명성의 영화제인데 자국만 그걸 인정 못하는 듯한. 영화제 취재 포인트가 여전히 귀빈 누구 왔나 중심...저기 이미 아시아 최고 영화제에여... https://t.co/1pKgYcxZEX"
+	},
+	{
+		"created_at": "Sun Oct 13 03:33:42 +0000 2019",
+		"id": 1183179488776974300,
+		"id_str": "1183224264335351808",
+		"full_text": "즉 변양균이 박근혜가 임명한 한국은행 이주열 총재를 조종하고 있다는 설명보다는, 한미간 금리 역전현상이 벌어진 가운데 해외자금의 이탈을 우려하여 한국의 경기하강이 예상되는 상황에서도 금리를 인하 할 수 없었다는게 '합리적인 설명' 아닐까?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1183178740320194600,
+		"in_reply_to_status_id_str": "1183178740320194561",
+		"in_reply_to_user_id": 42567931,
+		"in_reply_to_user_id_str": "42567931",
+		"in_reply_to_screen_name": "corwin1129",
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn, 오마이걸, NCT, 이달소 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2771,
+			"friends_count": 1329,
+			"listed_count": 78,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 102556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1565051000",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "즉 변양균이 박근혜가 임명한 한국은행 이주열 총재를 조종하고 있다는 설명보다는, 한미간 금리 역전현상이 벌어진 가운데 해외자금의 이탈을 우려하여 한국의 경기하강이 예상되는 상황에서도 금리를 인하 할 수 없었다는게 '합리적인 설명' 아닐까?"
+	},
+	{
 		"created_at": "Sat Oct 12 22:26:53 +0000 2019",
 		"id": 1183147053309784000,
 		"id_str": "1183147053309784065",
@@ -365,7 +944,7 @@ Grailbird.data.tweets_2019_10 =
 			"user_mentions": [
 				{
 					"screen_name": "zenzen_wakannai",
-					"name": "🏴️🎗시무シムshimu🇵🇸☂🏳️‍🌈",
+					"name": "🏴️🎗시무シムshimu🇵🇸☂🏳️🌈",
 					"id": 404111164,
 					"id_str": "404111164",
 					"indices": [
