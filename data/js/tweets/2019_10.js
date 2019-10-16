@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 15 00:56:18 +0000 2019",
+		"id": 1183904254005612500,
+		"id_str": "1183909430514970624",
+		"full_text": "\"정년 연장, 비정규직 정규직화, 최저임금 인상 등의 정책이 ‘중장년 재직자’의 고용 안정과 복지에 초점을 맞추다 보니 ‘청년 구직자’는 상대적 불이익을 당할 수밖에 없게 됐다.\" https://t.co/dqtfO3nCNy 586 이야기 왜 꺼내나 했더니 결국 결론이... 악마도 울고 갈 새끼들...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dqtfO3nCNy",
+					"expanded_url": "https://realestate.daum.net/news/detail/main/20191014174303020",
+					"display_url": "realestate.daum.net/news/detail/ma…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn, 오마이걸, NCT, 이달소 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2767,
+			"friends_count": 1331,
+			"listed_count": 78,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3679,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 102728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1565051000",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"정년 연장, 비정규직 정규직화, 최저임금 인상 등의 정책이 ‘중장년 재직자’의 고용 안정과 복지에 초점을 맞추다 보니 ‘청년 구직자’는 상대적 불이익을 당할 수밖에 없게 됐다.\" https://t.co/dqtfO3nCNy 586 이야기 왜 꺼내나 했더니 결국 결론이... 악마도 울고 갈 새끼들..."
+	},
+	{
 		"created_at": "Mon Oct 14 23:52:41 +0000 2019",
 		"id": 1183893417991889000,
 		"id_str": "1183893417991888896",
