@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 30 12:28:39 +0000 2019",
+		"id": 1189048038192492500,
+		"id_str": "1189519483427143682",
+		"full_text": "足が不自由のワンコに車椅子を買ってあげたらすごく喜んでくれた！ ◆ https://t.co/6TTRTeET7b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189047993191817200,
+					"id_str": "1189047993191817216",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189047993191817216/pu/img/mgfuwvwk8vZ7g_Gs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189047993191817216/pu/img/mgfuwvwk8vZ7g_Gs.jpg",
+					"url": "https://t.co/6TTRTeET7b",
+					"display_url": "pic.twitter.com/6TTRTeET7b",
+					"expanded_url": "https://twitter.com/mofuinudouga/status/1189048038192492544/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189047993191817200,
+					"id_str": "1189047993191817216",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189047993191817216/pu/img/mgfuwvwk8vZ7g_Gs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189047993191817216/pu/img/mgfuwvwk8vZ7g_Gs.jpg",
+					"url": "https://t.co/6TTRTeET7b",
+					"display_url": "pic.twitter.com/6TTRTeET7b",
+					"expanded_url": "https://twitter.com/mofuinudouga/status/1189048038192492544/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 36000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189047993191817216/pu/vid/480x480/lUnNoVvo1lPlO8me.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189047993191817216/pu/vid/320x320/YuB8rzecYOzo5qOE.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1189047993191817216/pu/pl/y6JOErOIy_MiRaOM.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com/adlerdaigo\" rel=\"nofollow\">わたしのツイッターを楽しむアプリ</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3052425445,
+			"id_str": "3052425445",
+			"name": "もふ犬動画館",
+			"screen_name": "mofuinudouga",
+			"location": "",
+			"description": "カワイイ犬動画をつぶやいていきます。#いぬ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10945,
+			"friends_count": 10221,
+			"listed_count": 64,
+			"created_at": "Sun Mar 01 12:42:41 +0000 2015",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142034099235770368/KqETb0Ja_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142034099235770368/KqETb0Ja_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3052425445/1561117134",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7974,
+		"favorite_count": 39856,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "足が不自由のワンコに車椅子を買ってあげたらすごく喜んでくれた！ ◆ https://t.co/6TTRTeET7b"
+	},
+	{
 		"created_at": "Sat Oct 26 23:20:37 +0000 2019",
 		"id": 1188234003314180000,
 		"id_str": "1188234003314180097",
