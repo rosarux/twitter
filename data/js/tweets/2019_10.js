@@ -1,6 +1,7277 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 31 22:32:55 +0000 2019",
+		"id": 1189933711438934000,
+		"id_str": "1190033940238753795",
+		"full_text": "예전에 읽고 펑펑 울었던 오키나와의 이야기. 나온지 오래 되고 품절이라 어디서 구할 수나 있을지는 모르겠다. 실화를 바탕으로 한 이야기. \n\nhttps://t.co/1R9FgHUo0l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1R9FgHUo0l",
+					"expanded_url": "http://aladin.kr/p/vFT80",
+					"display_url": "aladin.kr/p/vFT80",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59380957,
+			"id_str": "59380957",
+			"name": "적츄",
+			"screen_name": "nannyoun",
+			"location": "",
+			"description": "수다, 툴툴, 귀차니즘",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1516,
+			"friends_count": 1008,
+			"listed_count": 27,
+			"created_at": "Thu Jul 23 06:19:13 +0000 2009",
+			"favourites_count": 1038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074937029492764673/6eJ7q2E-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074937029492764673/6eJ7q2E-_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예전에 읽고 펑펑 울었던 오키나와의 이야기. 나온지 오래 되고 품절이라 어디서 구할 수나 있을지는 모르겠다. 실화를 바탕으로 한 이야기. \n\nhttps://t.co/1R9FgHUo0l"
+	},
+	{
+		"created_at": "Thu Oct 31 14:06:47 +0000 2019",
+		"id": 1189842535075549200,
+		"id_str": "1189906566230601728",
+		"full_text": "首里城火災焼失…\nプロジェクトXで戦争で焼失した首里城を再建するため、首里城1個分の瓦(五万五千枚)を越える六万枚失敗して赤瓦を再現した奥原さん親子。\n白黒写真しか残ってない中、古文書を徹底に漁り、久米島の赤土を突き止めて首里城の赤を復元した高倉さん。\n非常に悲しい… https://t.co/u1Z9NjTop5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189842528553652200,
+					"id_str": "1189842528553652225",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMrecUX0AEvFg_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMrecUX0AEvFg_.jpg",
+					"url": "https://t.co/u1Z9NjTop5",
+					"display_url": "pic.twitter.com/u1Z9NjTop5",
+					"expanded_url": "https://twitter.com/naoejou/status/1189842535075549184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 421,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 421,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189842528553652200,
+					"id_str": "1189842528553652225",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMrecUX0AEvFg_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMrecUX0AEvFg_.jpg",
+					"url": "https://t.co/u1Z9NjTop5",
+					"display_url": "pic.twitter.com/u1Z9NjTop5",
+					"expanded_url": "https://twitter.com/naoejou/status/1189842535075549184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 421,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 421,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1189842528557830100,
+					"id_str": "1189842528557830146",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMrecVXkAIdKsU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMrecVXkAIdKsU.jpg",
+					"url": "https://t.co/u1Z9NjTop5",
+					"display_url": "pic.twitter.com/u1Z9NjTop5",
+					"expanded_url": "https://twitter.com/naoejou/status/1189842535075549184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 421,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 421,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1189842528553590800,
+					"id_str": "1189842528553590784",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMrecUW4AAnEXS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMrecUW4AAnEXS.jpg",
+					"url": "https://t.co/u1Z9NjTop5",
+					"display_url": "pic.twitter.com/u1Z9NjTop5",
+					"expanded_url": "https://twitter.com/naoejou/status/1189842535075549184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 421,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 421,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 580,
+									"y": 135,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 191,
+									"y": 34,
+									"h": 317,
+									"w": 317
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 525,
+									"y": 122,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 173,
+									"y": 30,
+									"h": 287,
+									"w": 287
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 580,
+									"y": 135,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 191,
+									"y": 34,
+									"h": 317,
+									"w": 317
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 580,
+									"y": 135,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 191,
+									"y": 34,
+									"h": 317,
+									"w": 317
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1189842528553582600,
+					"id_str": "1189842528553582592",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMrecUWwAAehZK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMrecUWwAAehZK.jpg",
+					"url": "https://t.co/u1Z9NjTop5",
+					"display_url": "pic.twitter.com/u1Z9NjTop5",
+					"expanded_url": "https://twitter.com/naoejou/status/1189842535075549184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 421,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 421,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 303,
+									"y": 97,
+									"h": 136,
+									"w": 136
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 335,
+									"y": 108,
+									"h": 150,
+									"w": 150
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 335,
+									"y": 108,
+									"h": 150,
+									"w": 150
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 335,
+									"y": 108,
+									"h": 150,
+									"w": 150
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 787607606743269400,
+			"id_str": "787607606743269376",
+			"name": "弾正",
+			"screen_name": "naoejou",
+			"location": "武蔵国",
+			"description": "★大河ドラマ★日本史(特に邪馬台国・鎌倉〜南北朝・戦国・幕末) ★上杉家★会津藩★阿波おどり&よさこい★城・寺・神社・遺跡巡り★源頼朝★大久保利通★小栗上野介★執権北条氏★小田原北条氏★足利尊氏★鎌倉公方★鎌倉&阿波&土佐&会津★「和」系は全般的好き",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1951,
+			"friends_count": 496,
+			"listed_count": 36,
+			"created_at": "Sun Oct 16 10:54:21 +0000 2016",
+			"favourites_count": 67638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/933170488641069056/hmTIIYGa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/933170488641069056/hmTIIYGa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/787607606743269376/1476626398",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 527,
+		"favorite_count": 1057,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "首里城火災焼失…\nプロジェクトXで戦争で焼失した首里城を再建するため、首里城1個分の瓦(五万五千枚)を越える六万枚失敗して赤瓦を再現した奥原さん親子。\n白黒写真しか残ってない中、古文書を徹底に漁り、久米島の赤土を突き止めて首里城の赤を復元した高倉さん。\n非常に悲しい… https://t.co/u1Z9NjTop5"
+	},
+	{
+		"created_at": "Thu Oct 31 14:04:33 +0000 2019",
+		"id": 1189877933692768300,
+		"id_str": "1189906003875123200",
+		"full_text": "#Periscope 2018年New Year Festival　#首里城 #沖縄　\nhttps://t.co/RRmaHI4lTb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Periscope",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "首里城",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						39,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RRmaHI4lTb",
+					"expanded_url": "https://www.periscope.tv/saveourokinawa/1ZkKzdAVMMNJv",
+					"display_url": "periscope.tv/saveourokinawa…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 866204992511762400,
+			"id_str": "866204992511762432",
+			"name": "SaveOurOkinawa",
+			"screen_name": "saveourokinawa",
+			"location": "Okinawa",
+			"description": "LiveStreamings,Talks.Discussions,Protests,And Unites,Watch What's happening in Okinawa Now,",
+			"url": "https://t.co/4Il3NcECrq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4Il3NcECrq",
+							"expanded_url": "https://www.youtube.com/channel/UC6N_lQtrVeVn-9DECd-PZeQ",
+							"display_url": "youtube.com/channel/UC6N_l…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 782,
+			"friends_count": 1343,
+			"listed_count": 13,
+			"created_at": "Sun May 21 08:12:18 +0000 2017",
+			"favourites_count": 643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869241992366104577/xxh1fjXT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869241992366104577/xxh1fjXT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/866204992511762432/1495356507",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Periscope 2018年New Year Festival　#首里城 #沖縄　\nhttps://t.co/RRmaHI4lTb"
+	},
+	{
+		"created_at": "Thu Oct 31 14:03:12 +0000 2019",
+		"id": 1189887396235612200,
+		"id_str": "1189905663020810240",
+		"full_text": "こんなに美しかった首里城の正殿　琉球新報の写真で振り返るhttps://t.co/qXdUPpO6zz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qXdUPpO6zz",
+					"expanded_url": "https://ift.tt/2C1jm1k",
+					"display_url": "ift.tt/2C1jm1k",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 64216,
+			"friends_count": 6560,
+			"listed_count": 2807,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 627,
+		"favorite_count": 1138,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "こんなに美しかった首里城の正殿　琉球新報の写真で振り返るhttps://t.co/qXdUPpO6zz"
+	},
+	{
+		"created_at": "Thu Oct 31 12:52:30 +0000 2019",
+		"id": 1189870008903430100,
+		"id_str": "1189887871949238273",
+		"full_text": "1945年（昭和20）5月30日、首里城に突入・占拠し星条旗を掲げる米兵と、破壊された城壁で束の間の休息をとる米兵。また首里城の真ん中で発見された日本軍の司令車（沖縄県公文書館所蔵）。猛烈に、粉々に破壊された首里城が見てとれる。辛く悲しいが、しかし復元はできる。しなければならない。 https://t.co/hHP9VXkjRW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189870001760735200,
+					"id_str": "1189870001760735234",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EINEdl_XkAIyQE4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EINEdl_XkAIyQE4.jpg",
+					"url": "https://t.co/hHP9VXkjRW",
+					"display_url": "pic.twitter.com/hHP9VXkjRW",
+					"expanded_url": "https://twitter.com/bouheitai1958/status/1189870008903430145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 936,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 581,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 936,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189870001760735200,
+					"id_str": "1189870001760735234",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EINEdl_XkAIyQE4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EINEdl_XkAIyQE4.jpg",
+					"url": "https://t.co/hHP9VXkjRW",
+					"display_url": "pic.twitter.com/hHP9VXkjRW",
+					"expanded_url": "https://twitter.com/bouheitai1958/status/1189870008903430145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 936,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 581,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 936,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1189870001743896600,
+					"id_str": "1189870001743896576",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EINEdl7WoAAm-W2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EINEdl7WoAAm-W2.jpg",
+					"url": "https://t.co/hHP9VXkjRW",
+					"display_url": "pic.twitter.com/hHP9VXkjRW",
+					"expanded_url": "https://twitter.com/bouheitai1958/status/1189870008903430145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 668,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 568,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 668,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1189870001748107300,
+					"id_str": "1189870001748107265",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EINEdl8W4AEdkqA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EINEdl8W4AEdkqA.jpg",
+					"url": "https://t.co/hHP9VXkjRW",
+					"display_url": "pic.twitter.com/hHP9VXkjRW",
+					"expanded_url": "https://twitter.com/bouheitai1958/status/1189870008903430145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 669,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 669,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 569,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 975258471401537500,
+			"id_str": "975258471401537536",
+			"name": "棒兵隊",
+			"screen_name": "bouheitai1958",
+			"location": "亀甲墓の中から",
+			"description": "1945年の沖縄戦の毎日の出来事を発信しています。44年の沖縄戦準備や戦後の収容生活、米軍基地問題などにも触れています。女性や子どもやアジアの人々にとっての沖縄戦を考えていきたいです。今年はnoteとtwitterを使って1945年2月からの沖縄戦の日々の出来事について発信中。",
+			"url": "https://t.co/9p9sVLWngo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9p9sVLWngo",
+							"expanded_url": "https://note.mu/bouheitai1958",
+							"display_url": "note.mu/bouheitai1958",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 937,
+			"friends_count": 919,
+			"listed_count": 25,
+			"created_at": "Sun Mar 18 06:31:53 +0000 2018",
+			"favourites_count": 1565,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/975878654784815104/MNMwJ-U3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/975878654784815104/MNMwJ-U3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/975258471401537536/1570623169",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 207,
+		"favorite_count": 221,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "1945年（昭和20）5月30日、首里城に突入・占拠し星条旗を掲げる米兵と、破壊された城壁で束の間の休息をとる米兵。また首里城の真ん中で発見された日本軍の司令車（沖縄県公文書館所蔵）。猛烈に、粉々に破壊された首里城が見てとれる。辛く悲しいが、しかし復元はできる。しなければならない。 https://t.co/hHP9VXkjRW"
+	},
+	{
+		"created_at": "Thu Oct 31 11:06:06 +0000 2019",
+		"id": 1189730080039129000,
+		"id_str": "1189861094719803392",
+		"full_text": "https://t.co/wfuacPWXmQ\n３１日未明の火災で全焼した首里城。夜が明けて焼け跡の全体が見えてきました。木造建築の正殿や隣接する北殿と南殿も全焼していました。消防によると火災は午前１１時ごろに鎮圧されました。（恵）#沖縄 #那覇 #世界遺産 #首里 https://t.co/0NuTHiKVFc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "沖縄",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "那覇",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "世界遺産",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "首里",
+					"indices": [
+						130,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wfuacPWXmQ",
+					"expanded_url": "http://t.asahi.com/wdm1",
+					"display_url": "t.asahi.com/wdm1",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1189730073022288000,
+					"id_str": "1189730073022287872",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EILFMq0X0AA1LKp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EILFMq0X0AA1LKp.jpg",
+					"url": "https://t.co/0NuTHiKVFc",
+					"display_url": "pic.twitter.com/0NuTHiKVFc",
+					"expanded_url": "https://twitter.com/asahi_photo/status/1189730080039129088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 648,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 132,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 212,
+									"y": 89,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 132,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 132,
+									"h": 84,
+									"w": 84
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189730073022288000,
+					"id_str": "1189730073022287872",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EILFMq0X0AA1LKp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EILFMq0X0AA1LKp.jpg",
+					"url": "https://t.co/0NuTHiKVFc",
+					"display_url": "pic.twitter.com/0NuTHiKVFc",
+					"expanded_url": "https://twitter.com/asahi_photo/status/1189730080039129088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 648,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 648,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 132,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 212,
+									"y": 89,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 132,
+									"h": 84,
+									"w": 84
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 132,
+									"h": 84,
+									"w": 84
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1346697481,
+			"id_str": "1346697481",
+			"name": "朝日新聞 映像報道部",
+			"screen_name": "asahi_photo",
+			"location": "東京・築地",
+			"description": "朝日新聞 映像報道部のアカウントです。映像報道部員や記者たちが撮影した写真や動画を中心に紹介します。インスタグラムでも発信中です。https://t.co/i88qM8uV2J フォローよろしくお願いします。",
+			"url": "https://t.co/HYqPdUlAOZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HYqPdUlAOZ",
+							"expanded_url": "https://www.asahi.com/",
+							"display_url": "asahi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i88qM8uV2J",
+							"expanded_url": "https://www.instagram.com/asahi_photo",
+							"display_url": "instagram.com/asahi_photo",
+							"indices": [
+								65,
+								88
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 31869,
+			"friends_count": 100,
+			"listed_count": 1109,
+			"created_at": "Fri Apr 12 12:10:14 +0000 2013",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/605678221682577408/Vexse-Gm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/605678221682577408/Vexse-Gm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1346697481/1569825352",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 439,
+		"favorite_count": 318,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "https://t.co/wfuacPWXmQ\n３１日未明の火災で全焼した首里城。夜が明けて焼け跡の全体が見えてきました。木造建築の正殿や隣接する北殿と南殿も全焼していました。消防によると火災は午前１１時ごろに鎮圧されました。（恵）#沖縄 #那覇 #世界遺産 #首里 https://t.co/0NuTHiKVFc"
+	},
+	{
+		"created_at": "Thu Oct 31 10:43:02 +0000 2019",
+		"id": 1189855291107467300,
+		"id_str": "1189855291107467264",
+		"full_text": "타카라 쿠라요시도 많이 늙었군",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "타카라 쿠라요시도 많이 늙었군"
+	},
+	{
+		"created_at": "Thu Oct 31 10:40:28 +0000 2019",
+		"id": 1189851356607074300,
+		"id_str": "1189854644798775296",
+		"full_text": "即席絵ですが。\n近い未来に再び美しい首里城正殿が見られることを祈っています。 https://t.co/ZGT5DL8PoY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189851343680348200,
+					"id_str": "1189851343680348160",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMzfjOWoAABWpX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMzfjOWoAABWpX.jpg",
+					"url": "https://t.co/ZGT5DL8PoY",
+					"display_url": "pic.twitter.com/ZGT5DL8PoY",
+					"expanded_url": "https://twitter.com/hibikane/status/1189851356607074306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1410,
+									"y": 310,
+									"h": 382,
+									"w": 382
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 468,
+									"y": 102,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1410,
+									"y": 310,
+									"h": 382,
+									"w": 382
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 826,
+									"y": 181,
+									"h": 223,
+									"w": 223
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189851343680348200,
+					"id_str": "1189851343680348160",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMzfjOWoAABWpX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMzfjOWoAABWpX.jpg",
+					"url": "https://t.co/ZGT5DL8PoY",
+					"display_url": "pic.twitter.com/ZGT5DL8PoY",
+					"expanded_url": "https://twitter.com/hibikane/status/1189851356607074306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1410,
+									"y": 310,
+									"h": 382,
+									"w": 382
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 468,
+									"y": 102,
+									"h": 126,
+									"w": 126
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1410,
+									"y": 310,
+									"h": 382,
+									"w": 382
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 826,
+									"y": 181,
+									"h": 223,
+									"w": 223
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 495851514,
+			"id_str": "495851514",
+			"name": "響ワタル",
+			"screen_name": "hibikane",
+			"location": "",
+			"description": "白泉社LaLa系列の雑誌にて漫画修行をさせていただいております。日常やお知らせなどを地味に呟いております。コミックス「琉球のユウナ」1～3巻発売中。 pixiv:17506819",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2720,
+			"friends_count": 108,
+			"listed_count": 80,
+			"created_at": "Sat Feb 18 11:20:05 +0000 2012",
+			"favourites_count": 702,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3813,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073258446512738304/LUDMHBoq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073258446512738304/LUDMHBoq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/495851514/1544718296",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 193,
+		"favorite_count": 614,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "即席絵ですが。\n近い未来に再び美しい首里城正殿が見られることを祈っています。 https://t.co/ZGT5DL8PoY"
+	},
+	{
+		"created_at": "Thu Oct 31 10:36:00 +0000 2019",
+		"id": 1189853521283125200,
+		"id_str": "1189853521283125248",
+		"full_text": "@carmikle226 감사합니다!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "carmikle226",
+					"name": "Carmikle",
+					"id": 157771266,
+					"id_str": "157771266",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1189852772209836000,
+		"in_reply_to_status_id_str": "1189852772209836032",
+		"in_reply_to_user_id": 157771266,
+		"in_reply_to_user_id_str": "157771266",
+		"in_reply_to_screen_name": "carmikle226",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@carmikle226 감사합니다!"
+	},
+	{
+		"created_at": "Thu Oct 31 10:09:14 +0000 2019",
+		"id": 1189836808516882400,
+		"id_str": "1189846785474228225",
+		"full_text": "Twitter で「首里城」を検索すると「放火」と候補が出て、「首里城 放火」を選ぶと「首里城 放火 韓国人」と出てくる。完全に狂っとるで今の日本は。これが「美しい国を取り戻す」と言うてる人たちによって引き起こされてるところがまた恐ろしすぎる。 https://t.co/vrhVbYXWIJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189836796433178600,
+					"id_str": "1189836796433178625",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMmQygWoAEjvek.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMmQygWoAEjvek.jpg",
+					"url": "https://t.co/vrhVbYXWIJ",
+					"display_url": "pic.twitter.com/vrhVbYXWIJ",
+					"expanded_url": "https://twitter.com/areareararerere/status/1189836808516882433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 633,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 633,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189836796433178600,
+					"id_str": "1189836796433178625",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMmQygWoAEjvek.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMmQygWoAEjvek.jpg",
+					"url": "https://t.co/vrhVbYXWIJ",
+					"display_url": "pic.twitter.com/vrhVbYXWIJ",
+					"expanded_url": "https://twitter.com/areareararerere/status/1189836808516882433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 633,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 633,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703192702943252500,
+			"id_str": "703192702943252481",
+			"name": "あいこ ⚾️ HJ",
+			"screen_name": "areareararerere",
+			"location": "日本",
+			"description": "気持ちええ夢見てるところごめんやけど、寝耳に水を注がせてもらうで。",
+			"url": "https://t.co/HoglmiMfST",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HoglmiMfST",
+							"expanded_url": "http://aiko-hj.blog.jp/",
+							"display_url": "aiko-hj.blog.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4863,
+			"friends_count": 3265,
+			"listed_count": 72,
+			"created_at": "Fri Feb 26 12:19:39 +0000 2016",
+			"favourites_count": 2332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175470621548924928/gsmWo1Dy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175470621548924928/gsmWo1Dy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703192702943252481/1569089011",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 951,
+		"favorite_count": 1636,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "Twitter で「首里城」を検索すると「放火」と候補が出て、「首里城 放火」を選ぶと「首里城 放火 韓国人」と出てくる。完全に狂っとるで今の日本は。これが「美しい国を取り戻す」と言うてる人たちによって引き起こされてるところがまた恐ろしすぎる。 https://t.co/vrhVbYXWIJ"
+	},
+	{
+		"created_at": "Thu Oct 31 10:05:54 +0000 2019",
+		"id": 1189845946709864400,
+		"id_str": "1189845946709864448",
+		"full_text": "@jp_cepiah 몸이 안좋아서 휴가 내고 하루종일 자다가 페북 들어갔더니 지인들이 다 난리여서...눈물이 날 뻔 했네요ㅠ",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jp_cepiah",
+					"name": "신선한국태태 랄제님 팬 올뺌",
+					"id": 4210125373,
+					"id_str": "4210125373",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1189845225620918300,
+		"in_reply_to_status_id_str": "1189845225620918274",
+		"in_reply_to_user_id": 4210125373,
+		"in_reply_to_user_id_str": "4210125373",
+		"in_reply_to_screen_name": "jp_cepiah",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@jp_cepiah 몸이 안좋아서 휴가 내고 하루종일 자다가 페북 들어갔더니 지인들이 다 난리여서...눈물이 날 뻔 했네요ㅠ"
+	},
+	{
+		"created_at": "Thu Oct 31 10:02:19 +0000 2019",
+		"id": 1189845044125061000,
+		"id_str": "1189845044125061132",
+		"full_text": "다른 유적들도 마찬가지겠지만 슈리성의 재건 당시의 경우도 듣다보면 좀 미친(?) 울어야 될 지 웃어야 될 지 모르는 이야기들이 엄청난데.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "다른 유적들도 마찬가지겠지만 슈리성의 재건 당시의 경우도 듣다보면 좀 미친(?) 울어야 될 지 웃어야 될 지 모르는 이야기들이 엄청난데."
+	},
+	{
+		"created_at": "Thu Oct 31 09:42:48 +0000 2019",
+		"id": 1189840132934795300,
+		"id_str": "1189840132934795265",
+		"full_text": "하필 오늘이 회사 옮긴 지 딱 6개월",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "하필 오늘이 회사 옮긴 지 딱 6개월"
+	},
+	{
+		"created_at": "Thu Oct 31 09:42:18 +0000 2019",
+		"id": 1189840006778515500,
+		"id_str": "1189840006778515457",
+		"full_text": "SHURI CASTLE - HOPE TO REBUILD -（CHARITEE） | REPRESENT OKINAWA https://t.co/qJq4h2doov #BASEec - @BASEec",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BASEec",
+					"indices": [
+						87,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BASEec",
+					"name": "BASE",
+					"id": 634421666,
+					"id_str": "634421666",
+					"indices": [
+						97,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qJq4h2doov",
+					"expanded_url": "https://www.represent-okinawa.net/items/24359818",
+					"display_url": "represent-okinawa.net/items/24359818",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SHURI CASTLE - HOPE TO REBUILD -（CHARITEE） | REPRESENT OKINAWA https://t.co/qJq4h2doov #BASEec - @BASEec"
+	},
+	{
+		"created_at": "Thu Oct 31 09:35:21 +0000 2019",
+		"id": 1189838256721944600,
+		"id_str": "1189838256721944577",
+		"full_text": "트위터 차원 슈리성 복원 모금운동 해볼까요. (총대는 다른 사람이ㅠㅠ)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "트위터 차원 슈리성 복원 모금운동 해볼까요. (총대는 다른 사람이ㅠㅠ)"
+	},
+	{
+		"created_at": "Thu Oct 31 09:32:50 +0000 2019",
+		"id": 1189677443604340700,
+		"id_str": "1189837624585768960",
+		"full_text": "首里城の復元を本物じゃない、テーマパークだとか揶揄する人もいたけど、沖縄の人々が戦争により奪われた自らの文化を取り戻す沖縄県民の悲願、戦後の歴史そのものでもあったんだよね。それが失われたことはとてつもなく大きい。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3069720793,
+			"id_str": "3069720793",
+			"name": "ゆる琉球史マンガbot＠単行本発売中",
+			"screen_name": "mangaryukyu",
+			"location": "okinawa, JAPAN",
+			"description": "河出書房新社より『マンガ沖縄・琉球の歴史』発売！琉球・沖縄の歴史研究者がマンガらしきものを描いてみました。論文でないのでザックリ内容なのはご容赦。お問い合わせは【ana21629〔アットマーク〕nifty〔ドット〕com】へ。プロフィールはリンク先参照。 ※botなので基本、お返事しません。",
+			"url": "http://t.co/p2XK1u54jA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/p2XK1u54jA",
+							"expanded_url": "http://okinawa-rekishi.cocolog-nifty.com/about.html",
+							"display_url": "okinawa-rekishi.cocolog-nifty.com/about.html",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4215,
+			"friends_count": 240,
+			"listed_count": 154,
+			"created_at": "Mon Mar 09 12:02:46 +0000 2015",
+			"favourites_count": 3125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978892102603075584/BilhuElx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978892102603075584/BilhuElx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3069720793/1428728173",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12808,
+		"favorite_count": 27446,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "首里城の復元を本物じゃない、テーマパークだとか揶揄する人もいたけど、沖縄の人々が戦争により奪われた自らの文化を取り戻す沖縄県民の悲願、戦後の歴史そのものでもあったんだよね。それが失われたことはとてつもなく大きい。"
+	},
+	{
+		"created_at": "Thu Oct 31 09:32:23 +0000 2019",
+		"id": 1189833113129476000,
+		"id_str": "1189837510077079554",
+		"full_text": "갑자기 든 생각인데, 슈리성 재건 사업 때 우리나라에서 참여해서 존재감 확실할 정도로 지원하면 좋겠다.\n1) 슈리성의 소실과 재건, 그리고 또 이어진 소실의 의미와 느낌을 가장 절실하게 이해해줄 나라로 우리나라 이상이 있을까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59380957,
+			"id_str": "59380957",
+			"name": "적츄",
+			"screen_name": "nannyoun",
+			"location": "",
+			"description": "수다, 툴툴, 귀차니즘",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1516,
+			"friends_count": 1008,
+			"listed_count": 27,
+			"created_at": "Thu Jul 23 06:19:13 +0000 2009",
+			"favourites_count": 1038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074937029492764673/6eJ7q2E-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074937029492764673/6eJ7q2E-_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "갑자기 든 생각인데, 슈리성 재건 사업 때 우리나라에서 참여해서 존재감 확실할 정도로 지원하면 좋겠다.\n1) 슈리성의 소실과 재건, 그리고 또 이어진 소실의 의미와 느낌을 가장 절실하게 이해해줄 나라로 우리나라 이상이 있을까."
+	},
+	{
+		"created_at": "Thu Oct 31 09:31:54 +0000 2019",
+		"id": 1189837389205667800,
+		"id_str": "1189837389205667840",
+		"full_text": "@nannyoun 저 처음에 학교 들어갔을 때 가장 많이 들었던 말이 서울대 정**선생 밑에 있었냐, 아니라 그러면 주한미군범죄대책위에 있었냐... 이 2가지였죠.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nannyoun",
+					"name": "적츄",
+					"id": 59380957,
+					"id_str": "59380957",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1189833556828115000,
+		"in_reply_to_status_id_str": "1189833556828114944",
+		"in_reply_to_user_id": 59380957,
+		"in_reply_to_user_id_str": "59380957",
+		"in_reply_to_screen_name": "nannyoun",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@nannyoun 저 처음에 학교 들어갔을 때 가장 많이 들었던 말이 서울대 정**선생 밑에 있었냐, 아니라 그러면 주한미군범죄대책위에 있었냐... 이 2가지였죠."
+	},
+	{
+		"created_at": "Thu Oct 31 09:03:54 +0000 2019",
+		"id": 1189659002159845400,
+		"id_str": "1189830341571137536",
+		"full_text": "@sane_kokizami 沖縄の世界遺産。首里城で大火災。ほぼ全焼との事。出火原因は不明。県民として残念でなりません。\nhttps://t.co/5AkIFTO2f9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sane_kokizami",
+					"name": "こきざみインディアン☺︎さーねー☺︎",
+					"id": 124690981,
+					"id_str": "124690981",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5AkIFTO2f9",
+					"expanded_url": "https://twitter.com/i/events/1189624319086776321",
+					"display_url": "twitter.com/i/events/11896…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 124690981,
+		"in_reply_to_user_id_str": "124690981",
+		"in_reply_to_screen_name": "sane_kokizami",
+		"user": {
+			"id": 266504030,
+			"id_str": "266504030",
+			"name": "@grism/アグリズム",
+			"screen_name": "nakamasa117",
+			"location": "沖縄県",
+			"description": "愛息子は #発達障害 #自閉症 今は底辺人生だけどファンキー人生！目標は #農福連携 #起業",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 403,
+			"friends_count": 380,
+			"listed_count": 6,
+			"created_at": "Tue Mar 15 10:16:30 +0000 2011",
+			"favourites_count": 33015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111835839162572800/Ntnnri9x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111835839162572800/Ntnnri9x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266504030/1566445452",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ja",
+		"text": "@sane_kokizami 沖縄の世界遺産。首里城で大火災。ほぼ全焼との事。出火原因は不明。県民として残念でなりません。\nhttps://t.co/5AkIFTO2f9"
+	},
+	{
+		"created_at": "Thu Oct 31 09:00:16 +0000 2019",
+		"id": 1189803209549701000,
+		"id_str": "1189829427330314240",
+		"full_text": "玉城知事「首里城、必ず復元する。全身全霊で取り組む」 https://t.co/kC4XKOVRcS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kC4XKOVRcS",
+					"expanded_url": "http://www.asahi.com/articles/ASMB053SMMB0TPOB01G.html?ref=tw_asahi",
+					"display_url": "asahi.com/articles/ASMB0…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.hornetcrm.jp/\" rel=\"nofollow\">hornet</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42816371,
+			"id_str": "42816371",
+			"name": "朝日新聞(asahi shimbun）",
+			"screen_name": "asahi",
+			"location": "東京都中央区",
+			"description": "朝日新聞社が運営する公式ニュースアカウントです。最新のニュース速報や旬の話題を配信します。朝日新聞社からのお知らせやお得な情報も時々流れます。Facebookページは http://t.co/qKDxsI6YnX です。",
+			"url": "http://t.co/KAw1Ty80Mq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/KAw1Ty80Mq",
+							"expanded_url": "http://www.asahi.com",
+							"display_url": "asahi.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/qKDxsI6YnX",
+							"expanded_url": "http://www.facebook.com/asahicom",
+							"display_url": "facebook.com/asahicom",
+							"indices": [
+								84,
+								106
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1218275,
+			"friends_count": 314,
+			"listed_count": 42579,
+			"created_at": "Wed May 27 04:37:57 +0000 2009",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 280376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/266385410/aicon_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/266385410/aicon_normal.png",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 515,
+		"favorite_count": 1002,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "玉城知事「首里城、必ず復元する。全身全霊で取り組む」 https://t.co/kC4XKOVRcS"
+	},
+	{
+		"created_at": "Thu Oct 31 08:58:01 +0000 2019",
+		"id": 1189624583894093800,
+		"id_str": "1189828860931493888",
+		"full_text": "首里城燃えてるって。。大丈夫なの！？！？ https://t.co/aUoq1DrZci",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189624279530463200,
+					"id_str": "1189624279530463233",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189624279530463233/pu/img/ceEmEh20PfTES49O.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189624279530463233/pu/img/ceEmEh20PfTES49O.jpg",
+					"url": "https://t.co/aUoq1DrZci",
+					"display_url": "pic.twitter.com/aUoq1DrZci",
+					"expanded_url": "https://twitter.com/mochanote1/status/1189624583894093824/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189624279530463200,
+					"id_str": "1189624279530463233",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189624279530463233/pu/img/ceEmEh20PfTES49O.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189624279530463233/pu/img/ceEmEh20PfTES49O.jpg",
+					"url": "https://t.co/aUoq1DrZci",
+					"display_url": "pic.twitter.com/aUoq1DrZci",
+					"expanded_url": "https://twitter.com/mochanote1/status/1189624583894093824/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 30933,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189624279530463233/pu/vid/360x640/HAmlf6HEPobRSwFk.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189624279530463233/pu/vid/320x568/kzUOfum6wHUGmnlQ.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189624279530463233/pu/vid/540x960/G0LzMFUV7E9pS6QR.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1189624279530463233/pu/pl/aBWxz9yeFQWG-A7i.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1464683232,
+			"id_str": "1464683232",
+			"name": "餅になりたいもち粉",
+			"screen_name": "mochanote1",
+			"location": "日本",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 110,
+			"friends_count": 61,
+			"listed_count": 0,
+			"created_at": "Tue May 28 13:37:34 +0000 2013",
+			"favourites_count": 360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069725810918010880/pQ2lkZ9N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069725810918010880/pQ2lkZ9N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1464683232/1415952141",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1657,
+		"favorite_count": 5079,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "首里城燃えてるって。。大丈夫なの！？！？ https://t.co/aUoq1DrZci"
+	},
+	{
+		"created_at": "Thu Oct 31 08:52:02 +0000 2019",
+		"id": 1189827358922100700,
+		"id_str": "1189827358922100736",
+		"full_text": "소식을 아예 몰랐을 가능성도😥",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1189827130604966000,
+		"in_reply_to_status_id_str": "1189827130604965889",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "소식을 아예 몰랐을 가능성도😥"
+	},
+	{
+		"created_at": "Thu Oct 31 08:51:08 +0000 2019",
+		"id": 1189827130604966000,
+		"id_str": "1189827130604965889",
+		"full_text": "오늘 출근 했으면 일이 손에 안잡혔을 듯",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오늘 출근 했으면 일이 손에 안잡혔을 듯"
+	},
+	{
+		"created_at": "Thu Oct 31 08:49:56 +0000 2019",
+		"id": 1189826595919253500,
+		"id_str": "1189826828577337344",
+		"full_text": "@kawanoboru 남대문, 노트르담으로는 설명할 수 없는 설움과 복원했을 때의 기대도 같이 배어 있으니까요. 맘이 아픕니다.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kawanoboru",
+					"name": "縄",
+					"id": 94077994,
+					"id_str": "94077994",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1189825883504177200,
+		"in_reply_to_status_id_str": "1189825883504177152",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 59380957,
+			"id_str": "59380957",
+			"name": "적츄",
+			"screen_name": "nannyoun",
+			"location": "",
+			"description": "수다, 툴툴, 귀차니즘",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1516,
+			"friends_count": 1008,
+			"listed_count": 27,
+			"created_at": "Thu Jul 23 06:19:13 +0000 2009",
+			"favourites_count": 1038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074937029492764673/6eJ7q2E-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074937029492764673/6eJ7q2E-_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@kawanoboru 남대문, 노트르담으로는 설명할 수 없는 설움과 복원했을 때의 기대도 같이 배어 있으니까요. 맘이 아픕니다."
+	},
+	{
+		"created_at": "Thu Oct 31 08:46:11 +0000 2019",
+		"id": 1189825883504177200,
+		"id_str": "1189825883504177152",
+		"full_text": "@nannyoun 오키나와사람들에겐 남대문, 노트르담 이상이죠 ㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nannyoun",
+					"name": "적츄",
+					"id": 59380957,
+					"id_str": "59380957",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1189825630684139500,
+		"in_reply_to_status_id_str": "1189825630684139521",
+		"in_reply_to_user_id": 59380957,
+		"in_reply_to_user_id_str": "59380957",
+		"in_reply_to_screen_name": "nannyoun",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@nannyoun 오키나와사람들에겐 남대문, 노트르담 이상이죠 ㅠㅠ"
+	},
+	{
+		"created_at": "Thu Oct 31 08:44:00 +0000 2019",
+		"id": 1189825334822064000,
+		"id_str": "1189825334822064128",
+		"full_text": "날 밝은 후 사진 보니 더 끔찍하다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "날 밝은 후 사진 보니 더 끔찍하다"
+	},
+	{
+		"created_at": "Thu Oct 31 08:43:22 +0000 2019",
+		"id": 1189779121070473200,
+		"id_str": "1189825175207858176",
+		"full_text": "火災が発生した首里城です。中央は跡形もなく焼け落ちた正殿。３１日午前撮影。（時事通信ヘリより）＃首里城 #火災 #沖縄 https://t.co/MuuHCcvp7E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "首里城",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "火災",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						56,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189778494202343400,
+					"id_str": "1189778494202343424",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1189778494202343424/img/t4B_gd22gaQplr4i.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1189778494202343424/img/t4B_gd22gaQplr4i.jpg",
+					"url": "https://t.co/MuuHCcvp7E",
+					"display_url": "pic.twitter.com/MuuHCcvp7E",
+					"expanded_url": "https://twitter.com/jiji_images/status/1189779121070473217/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189778494202343400,
+					"id_str": "1189778494202343424",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1189778494202343424/img/t4B_gd22gaQplr4i.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1189778494202343424/img/t4B_gd22gaQplr4i.jpg",
+					"url": "https://t.co/MuuHCcvp7E",
+					"display_url": "pic.twitter.com/MuuHCcvp7E",
+					"expanded_url": "https://twitter.com/jiji_images/status/1189779121070473217/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 50651,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1189778494202343424/vid/480x270/V5YckWgeaKIiBL5I.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1189778494202343424/vid/1280x720/n-g3s_7Sm3Ss4Fma.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1189778494202343424/pl/ZiqhPca4V1so8ytJ.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1189778494202343424/vid/640x360/xb58FsBDsKSTZE_V.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3272821104,
+			"id_str": "3272821104",
+			"name": "時事通信映像ニュース",
+			"screen_name": "jiji_images",
+			"location": "5-15-8Ginza,Chuo-ku,Tokyo",
+			"description": "The official Twitter of JIJI PRESS. 時事通信社が運営する公式ニュースアカウントです。 #jiji #時事通信 #지지통신",
+			"url": "https://t.co/HLe2lSrjL3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HLe2lSrjL3",
+							"expanded_url": "https://www.facebook.com/jiji.eizo.news/",
+							"display_url": "facebook.com/jiji.eizo.news/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56941,
+			"friends_count": 0,
+			"listed_count": 429,
+			"created_at": "Thu Jul 09 11:15:54 +0000 2015",
+			"favourites_count": 198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877006389545025536/rndzzxOH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877006389545025536/rndzzxOH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3272821104/1456729135",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4678,
+		"favorite_count": 6219,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "火災が発生した首里城です。中央は跡形もなく焼け落ちた正殿。３１日午前撮影。（時事通信ヘリより）＃首里城 #火災 #沖縄 https://t.co/MuuHCcvp7E"
+	},
+	{
+		"created_at": "Thu Oct 31 08:41:57 +0000 2019",
+		"id": 1189795611240890400,
+		"id_str": "1189824818675208193",
+		"full_text": "首里城が焼失してしまい非常に残念です。原因を究明して一刻も早く再建が出来るよう取り組んでいきたいです。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 211921346,
+			"id_str": "211921346",
+			"name": "須藤元気  Genki Sudo",
+			"screen_name": "genki_sudo",
+			"location": "Tokyo,Japan",
+			"description": "参議院議員/拓殖大学レスリング部監督/学生レスリング日本代表監督/英会話学校 eLingo代表/セブ島英語学校QQイングリッシュ校長/元気な魚屋さん店主/シャンパーニュ騎士団 シュバリエ/酒サムライ/唎酒師",
+			"url": "https://t.co/dRyDtkZRkT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dRyDtkZRkT",
+							"expanded_url": "https://sudogenki.com/",
+							"display_url": "sudogenki.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82272,
+			"friends_count": 741,
+			"listed_count": 1155,
+			"created_at": "Thu Nov 04 17:06:10 +0000 2010",
+			"favourites_count": 2943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/684934177033064448/wns6tUcK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/684934177033064448/wns6tUcK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/211921346/1548139833",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 162,
+		"favorite_count": 844,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "首里城が焼失してしまい非常に残念です。原因を究明して一刻も早く再建が出来るよう取り組んでいきたいです。"
+	},
+	{
+		"created_at": "Thu Oct 31 08:41:39 +0000 2019",
+		"id": 1189776522485223400,
+		"id_str": "1189824744092123138",
+		"full_text": "#Periscope 首里城火災・沖縄県知事会議 https://t.co/qjISBonj0s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Periscope",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qjISBonj0s",
+					"expanded_url": "https://www.pscp.tv/w/cIpo2jF4ZUVXeUdHa3d5S1B8MVlxSkRuQU1wWG9LVmNL6pkdAA1W-5ZXwFVju6YBlUeFeBmq8tpLLDmtB_sf",
+					"display_url": "pscp.tv/w/cIpo2jF4ZUVX…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 866204992511762400,
+			"id_str": "866204992511762432",
+			"name": "SaveOurOkinawa",
+			"screen_name": "saveourokinawa",
+			"location": "Okinawa",
+			"description": "LiveStreamings,Talks.Discussions,Protests,And Unites,Watch What's happening in Okinawa Now,",
+			"url": "https://t.co/4Il3NcECrq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4Il3NcECrq",
+							"expanded_url": "https://www.youtube.com/channel/UC6N_lQtrVeVn-9DECd-PZeQ",
+							"display_url": "youtube.com/channel/UC6N_l…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 782,
+			"friends_count": 1343,
+			"listed_count": 13,
+			"created_at": "Sun May 21 08:12:18 +0000 2017",
+			"favourites_count": 643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869241992366104577/xxh1fjXT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869241992366104577/xxh1fjXT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/866204992511762432/1495356507",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#Periscope 首里城火災・沖縄県知事会議 https://t.co/qjISBonj0s"
+	},
+	{
+		"created_at": "Thu Oct 31 08:40:09 +0000 2019",
+		"id": 1189793051071467500,
+		"id_str": "1189824364423729153",
+		"full_text": "火元は首里城正殿内部か　奉神門も延焼し全焼７棟に　那覇市消防局　https://t.co/M2Nfd03LKH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M2Nfd03LKH",
+					"expanded_url": "https://ift.tt/2Nqr8XM",
+					"display_url": "ift.tt/2Nqr8XM",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 64216,
+			"friends_count": 6560,
+			"listed_count": 2807,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "火元は首里城正殿内部か　奉神門も延焼し全焼７棟に　那覇市消防局　https://t.co/M2Nfd03LKH"
+	},
+	{
+		"created_at": "Thu Oct 31 08:39:49 +0000 2019",
+		"id": 1189794800075042800,
+		"id_str": "1189824282286682112",
+		"full_text": "首里城火災についての玉城沖縄県知事緊急会見\n「県民の皆様へ」\n#首里城火災 #沖縄県 #玉城デニー https://t.co/f24t0Nj2Vp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "首里城火災",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "沖縄県",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "玉城デニー",
+					"indices": [
+						43,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189792607284736000,
+					"id_str": "1189792607284736002",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189792607284736002/pu/img/5MzxwKz-K0csk74T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189792607284736002/pu/img/5MzxwKz-K0csk74T.jpg",
+					"url": "https://t.co/f24t0Nj2Vp",
+					"display_url": "pic.twitter.com/f24t0Nj2Vp",
+					"expanded_url": "https://twitter.com/saveourokinawa/status/1189794800075042816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189792607284736000,
+					"id_str": "1189792607284736002",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189792607284736002/pu/img/5MzxwKz-K0csk74T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189792607284736002/pu/img/5MzxwKz-K0csk74T.jpg",
+					"url": "https://t.co/f24t0Nj2Vp",
+					"display_url": "pic.twitter.com/f24t0Nj2Vp",
+					"expanded_url": "https://twitter.com/saveourokinawa/status/1189794800075042816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1189792607284736002/pu/pl/KofXbBcKZIdW4l8l.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189792607284736002/pu/vid/640x360/pyxBE1AUb7wIGx6Z.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189792607284736002/pu/vid/480x270/vjasBs_NFknp0cb7.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 866204992511762400,
+			"id_str": "866204992511762432",
+			"name": "SaveOurOkinawa",
+			"screen_name": "saveourokinawa",
+			"location": "Okinawa",
+			"description": "LiveStreamings,Talks.Discussions,Protests,And Unites,Watch What's happening in Okinawa Now,",
+			"url": "https://t.co/4Il3NcECrq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4Il3NcECrq",
+							"expanded_url": "https://www.youtube.com/channel/UC6N_lQtrVeVn-9DECd-PZeQ",
+							"display_url": "youtube.com/channel/UC6N_l…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 782,
+			"friends_count": 1343,
+			"listed_count": 13,
+			"created_at": "Sun May 21 08:12:18 +0000 2017",
+			"favourites_count": 643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869241992366104577/xxh1fjXT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869241992366104577/xxh1fjXT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/866204992511762432/1495356507",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 614,
+		"favorite_count": 821,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "首里城火災についての玉城沖縄県知事緊急会見\n「県民の皆様へ」\n#首里城火災 #沖縄県 #玉城デニー https://t.co/f24t0Nj2Vp"
+	},
+	{
+		"created_at": "Thu Oct 31 08:38:28 +0000 2019",
+		"id": 1189645281576411100,
+		"id_str": "1189823941533061120",
+		"full_text": "【首里城で火災】\n沖縄県の世界文化遺産･首里城で発生中の火災。骨組みが焼け、崩れ落ちています。\n現在も消火活動が続いています。\n #首里城 #世界文化遺産 #火災 #沖縄 https://t.co/CmQtheNwq9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "首里城",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "世界文化遺産",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "火災",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						82,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189645111161958400,
+					"id_str": "1189645111161958401",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189645111161958401/pu/img/FzZveuX5M5YjNN8a.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189645111161958401/pu/img/FzZveuX5M5YjNN8a.jpg",
+					"url": "https://t.co/CmQtheNwq9",
+					"display_url": "pic.twitter.com/CmQtheNwq9",
+					"expanded_url": "https://twitter.com/tbs_news/status/1189645281576411141/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189645111161958400,
+					"id_str": "1189645111161958401",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189645111161958401/pu/img/FzZveuX5M5YjNN8a.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189645111161958401/pu/img/FzZveuX5M5YjNN8a.jpg",
+					"url": "https://t.co/CmQtheNwq9",
+					"display_url": "pic.twitter.com/CmQtheNwq9",
+					"expanded_url": "https://twitter.com/tbs_news/status/1189645281576411141/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 19400,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189645111161958401/pu/vid/1280x720/MnBnydEJR9bRfc6C.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189645111161958401/pu/vid/480x270/C6Hk3aOvmDBBPtvW.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189645111161958401/pu/vid/640x360/VnMZMbojEhKQayC-.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1189645111161958401/pu/pl/PaIAWJlvmadyqzIL.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154415900,
+			"id_str": "154415900",
+			"name": "TBS NEWS",
+			"screen_name": "tbs_news",
+			"location": "東京・赤坂",
+			"description": "TBS/JNNの最新ニュースを24時間配信しています。▽「TBS NEWS 防災」 @TBSNEWS6 ▽「news23」@news23_tbs ▽「いらすとキャスター」@TBSNEWS4 ▽「Nスタ」@nst_tbs6 ▽「TBS NEWS」公式Facebook　https://t.co/Q00v3aETZH",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Q00v3aETZH",
+							"expanded_url": "http://facebook.com/tbsnews/",
+							"display_url": "facebook.com/tbsnews/",
+							"indices": [
+								133,
+								156
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 121856,
+			"friends_count": 180,
+			"listed_count": 4075,
+			"created_at": "Fri Jun 11 05:08:05 +0000 2010",
+			"favourites_count": 1895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 235783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877744751839019008/TcsXijAk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877744751839019008/TcsXijAk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154415900/1506908192",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4722,
+		"favorite_count": 3472,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【首里城で火災】\n沖縄県の世界文化遺産･首里城で発生中の火災。骨組みが焼け、崩れ落ちています。\n現在も消火活動が続いています。\n #首里城 #世界文化遺産 #火災 #沖縄 https://t.co/CmQtheNwq9"
+	},
+	{
+		"created_at": "Thu Oct 31 08:38:07 +0000 2019",
+		"id": 1189823854899687400,
+		"id_str": "1189823854899687425",
+		"full_text": "오늘 휴가 낸 사이 분명 전화했을 듯. 저번엔 출장 나가있는데 핸드폰으로 전화해서 싸움 걸어왔음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1189822257113100300,
+		"in_reply_to_status_id_str": "1189822257113100288",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오늘 휴가 낸 사이 분명 전화했을 듯. 저번엔 출장 나가있는데 핸드폰으로 전화해서 싸움 걸어왔음."
+	},
+	{
+		"created_at": "Thu Oct 31 08:31:46 +0000 2019",
+		"id": 1189822257113100300,
+		"id_str": "1189822257113100288",
+		"full_text": "당장 내일도 회사 나가면 모 부처하고 감정+법리싸움 해야하고 모 부처에는 제발 기한 맞춰달라고 읍소해야 함(우리가 갑인데...)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "당장 내일도 회사 나가면 모 부처하고 감정+법리싸움 해야하고 모 부처에는 제발 기한 맞춰달라고 읍소해야 함(우리가 갑인데...)"
+	},
+	{
+		"created_at": "Thu Oct 31 08:27:58 +0000 2019",
+		"id": 1189821302099435500,
+		"id_str": "1189821302099435520",
+		"full_text": "파란만장 했던 슈리성 정전의 역사를 이번 기회에 찬찬히 정리해 보(두)고 싶으나 그럴 기력이 없다. ㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "파란만장 했던 슈리성 정전의 역사를 이번 기회에 찬찬히 정리해 보(두)고 싶으나 그럴 기력이 없다. ㅠ"
+	},
+	{
+		"created_at": "Thu Oct 31 08:25:08 +0000 2019",
+		"id": 1189820588996448300,
+		"id_str": "1189820588996448257",
+		"full_text": "이번 전소된 슈리성 정전 재건에 30년은 걸릴 전망이라고 ㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이번 전소된 슈리성 정전 재건에 30년은 걸릴 전망이라고 ㅠ"
+	},
+	{
+		"created_at": "Thu Oct 31 07:54:45 +0000 2019",
+		"id": 1189623823739437000,
+		"id_str": "1189812939441655808",
+		"full_text": "首里城が火事\n金城町方面に火の粉が〜 https://t.co/FuyEPB7zID",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189623697470042000,
+					"id_str": "1189623697470042113",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189623697470042113/pu/img/RTEVEHs9_vCACYWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189623697470042113/pu/img/RTEVEHs9_vCACYWa.jpg",
+					"url": "https://t.co/FuyEPB7zID",
+					"display_url": "pic.twitter.com/FuyEPB7zID",
+					"expanded_url": "https://twitter.com/jamaika1220/status/1189623823739437056/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189623697470042000,
+					"id_str": "1189623697470042113",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189623697470042113/pu/img/RTEVEHs9_vCACYWa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189623697470042113/pu/img/RTEVEHs9_vCACYWa.jpg",
+					"url": "https://t.co/FuyEPB7zID",
+					"display_url": "pic.twitter.com/FuyEPB7zID",
+					"expanded_url": "https://twitter.com/jamaika1220/status/1189623823739437056/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 7233,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189623697470042113/pu/vid/720x1280/CPoim4IER50h9YMF.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189623697470042113/pu/vid/360x640/fRjLI8SjQxf4slbf.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189623697470042113/pu/vid/320x568/BTI1DihYeCH4LJbC.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1189623697470042113/pu/pl/QOT8X8YwQcVI7N8L.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2379953460,
+			"id_str": "2379953460",
+			"name": "Maika Yoshimatsu",
+			"screen_name": "jamaika1220",
+			"location": "",
+			"description": "人生楽しんだもん勝ち✌️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 997,
+			"friends_count": 630,
+			"listed_count": 1,
+			"created_at": "Sun Mar 09 06:18:17 +0000 2014",
+			"favourites_count": 300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898198950385037312/LqGvqGna_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898198950385037312/LqGvqGna_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2379953460/1510371043",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1350,
+		"favorite_count": 2878,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "首里城が火事\n金城町方面に火の粉が〜 https://t.co/FuyEPB7zID"
+	},
+	{
+		"created_at": "Thu Oct 31 07:54:29 +0000 2019",
+		"id": 1189807189185007600,
+		"id_str": "1189812875008700416",
+		"full_text": "首里城火災について\n2019年10月31日、首里城正殿等において発生した火災に関する玉城知事メッセージを沖縄県公式動画チャンネルに掲載しました。\nhttps://t.co/4wkIpiy1Kk https://t.co/k00dreFHm2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4wkIpiy1Kk",
+					"expanded_url": "https://www.youtube.com/watch?v=53EwJQ4zrNI",
+					"display_url": "youtube.com/watch?v=53EwJQ…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1189806427382190000,
+					"id_str": "1189806427382190080",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMKpE-XkAAyjVl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMKpE-XkAAyjVl.jpg",
+					"url": "https://t.co/k00dreFHm2",
+					"display_url": "pic.twitter.com/k00dreFHm2",
+					"expanded_url": "https://twitter.com/okinawa_pref/status/1189807189185007616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 849,
+							"h": 483,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 483,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 375,
+									"y": 156,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 381,
+									"y": 265,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 375,
+									"y": 156,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 381,
+									"y": 265,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 375,
+									"y": 156,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 381,
+									"y": 265,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 300,
+									"y": 124,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 305,
+									"y": 212,
+									"h": 83,
+									"w": 83
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189806427382190000,
+					"id_str": "1189806427382190080",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMKpE-XkAAyjVl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMKpE-XkAAyjVl.jpg",
+					"url": "https://t.co/k00dreFHm2",
+					"display_url": "pic.twitter.com/k00dreFHm2",
+					"expanded_url": "https://twitter.com/okinawa_pref/status/1189807189185007616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 849,
+							"h": 483,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 483,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 387,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 375,
+									"y": 156,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 381,
+									"y": 265,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 375,
+									"y": 156,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 381,
+									"y": 265,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 375,
+									"y": 156,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 381,
+									"y": 265,
+									"h": 104,
+									"w": 104
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 300,
+									"y": 124,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 305,
+									"y": 212,
+									"h": 83,
+									"w": 83
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 880218468938784800,
+			"id_str": "880218468938784768",
+			"name": "沖縄県庁広報課",
+			"screen_name": "okinawa_pref",
+			"location": "沖縄県　那覇市　泉崎",
+			"description": "沖縄県広報課です❗️沖縄の魅力、身近な話題や県政の動きを分かりやすくツイートし、もっと沖縄を元気にしていきたい😉 原則としてフォローやリプライには対応しませんのでご了承ください。沖縄県に関するご意見は、県公式ホームページをご覧くださいhttps://t.co/ArykbP9HSg",
+			"url": "https://t.co/ArykbP9HSg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ArykbP9HSg",
+							"expanded_url": "http://www.pref.okinawa.jp/index.html",
+							"display_url": "pref.okinawa.jp/index.html",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ArykbP9HSg",
+							"expanded_url": "http://www.pref.okinawa.jp/index.html",
+							"display_url": "pref.okinawa.jp/index.html",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5691,
+			"friends_count": 10,
+			"listed_count": 116,
+			"created_at": "Thu Jun 29 00:16:51 +0000 2017",
+			"favourites_count": 67,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/882792139658153984/OJD2Rb4O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/882792139658153984/OJD2Rb4O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/880218468938784768/1527816350",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 618,
+		"favorite_count": 749,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "首里城火災について\n2019年10月31日、首里城正殿等において発生した火災に関する玉城知事メッセージを沖縄県公式動画チャンネルに掲載しました。\nhttps://t.co/4wkIpiy1Kk https://t.co/k00dreFHm2"
+	},
+	{
+		"created_at": "Thu Oct 31 07:53:21 +0000 2019",
+		"id": 1189615599577550800,
+		"id_str": "1189812588764286977",
+		"full_text": "嘘だろ。首里城。燃えてる。 https://t.co/uIlDY4zASQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189615402306986000,
+					"id_str": "1189615402306985985",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189615402306985985/pu/img/6MourG4tqaT1hdEl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189615402306985985/pu/img/6MourG4tqaT1hdEl.jpg",
+					"url": "https://t.co/uIlDY4zASQ",
+					"display_url": "pic.twitter.com/uIlDY4zASQ",
+					"expanded_url": "https://twitter.com/kamavokoRKFR/status/1189615599577550849/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189615402306986000,
+					"id_str": "1189615402306985985",
+					"indices": [
+						14,
+						37
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189615402306985985/pu/img/6MourG4tqaT1hdEl.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189615402306985985/pu/img/6MourG4tqaT1hdEl.jpg",
+					"url": "https://t.co/uIlDY4zASQ",
+					"display_url": "pic.twitter.com/uIlDY4zASQ",
+					"expanded_url": "https://twitter.com/kamavokoRKFR/status/1189615599577550849/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18293,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189615402306985985/pu/vid/1280x720/WFxUlBGkexwAptf9.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189615402306985985/pu/vid/480x270/HhSq0Bm6-IZ-bU0e.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189615402306985985/pu/vid/640x360/lVLsv8fMllYQWmjY.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1189615402306985985/pu/pl/q4B-_yPJdOfnlMR-.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 782056334,
+			"id_str": "782056334",
+			"name": "かでかる商店街振興組合琉球支部",
+			"screen_name": "kamavokoRKFR",
+			"location": "琉球王国",
+			"description": "パルクーラー系アスリート系サラリーマン系な琉球疾走の中の人。 Instagram→@fumitalien",
+			"url": "https://t.co/jXsYrjYHNx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jXsYrjYHNx",
+							"expanded_url": "https://m.youtube.com/channel/UCY91S92PjRsF63oEQElnYgw",
+							"display_url": "m.youtube.com/channel/UCY91S…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 718,
+			"friends_count": 330,
+			"listed_count": 2,
+			"created_at": "Sun Aug 26 09:01:02 +0000 2012",
+			"favourites_count": 4524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123323740903727104/hKS8j2gT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123323740903727104/hKS8j2gT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/782056334/1524751443",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6264,
+		"favorite_count": 9860,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "嘘だろ。首里城。燃えてる。 https://t.co/uIlDY4zASQ"
+	},
+	{
+		"created_at": "Thu Oct 31 07:53:04 +0000 2019",
+		"id": 1189701211206733800,
+		"id_str": "1189812519298224128",
+		"full_text": "首里城周辺。飛んできた炭が散乱してます。 https://t.co/Yef4RPkpUH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189701192911339500,
+					"id_str": "1189701192911339520",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/EIKq7oBWwAAmF4l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIKq7oBWwAAmF4l.jpg",
+					"url": "https://t.co/Yef4RPkpUH",
+					"display_url": "pic.twitter.com/Yef4RPkpUH",
+					"expanded_url": "https://twitter.com/kina_peechin/status/1189701211206733824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189701192911339500,
+					"id_str": "1189701192911339520",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/EIKq7oBWwAAmF4l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIKq7oBWwAAmF4l.jpg",
+					"url": "https://t.co/Yef4RPkpUH",
+					"display_url": "pic.twitter.com/Yef4RPkpUH",
+					"expanded_url": "https://twitter.com/kina_peechin/status/1189701211206733824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1189701192907198500,
+					"id_str": "1189701192907198467",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/EIKq7oAXkAMf_oJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIKq7oAXkAMf_oJ.jpg",
+					"url": "https://t.co/Yef4RPkpUH",
+					"display_url": "pic.twitter.com/Yef4RPkpUH",
+					"expanded_url": "https://twitter.com/kina_peechin/status/1189701211206733824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 100556070,
+			"id_str": "100556070",
+			"name": "ちなー / 旅することは生きること",
+			"screen_name": "kina_peechin",
+			"location": "沖縄 那覇市",
+			"description": "平日は仕事、たまの休みにフラっと旅に出ています。 基本は節約、ときどき贅沢が旅のスタンス。 JTA/JAL 派。 節約旅/JGC/マイル/沖縄/琉球史/博物館情報など。2018年に“水曜どうでしょう”の豪州大陸縦断をしました。",
+			"url": "https://t.co/I7wBKZz75r",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I7wBKZz75r",
+							"expanded_url": "https://tabi-ryukyu.com",
+							"display_url": "tabi-ryukyu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 435,
+			"friends_count": 214,
+			"listed_count": 48,
+			"created_at": "Wed Dec 30 17:53:39 +0000 2009",
+			"favourites_count": 1269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073918899026948096/Z__n9-Pi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073918899026948096/Z__n9-Pi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/100556070/1544877446",
+			"profile_link_color": "37AB9D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 361,
+		"favorite_count": 401,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "首里城周辺。飛んできた炭が散乱してます。 https://t.co/Yef4RPkpUH"
+	},
+	{
+		"created_at": "Thu Oct 31 07:52:07 +0000 2019",
+		"id": 1189812276439601200,
+		"id_str": "1189812276439601153",
+		"full_text": "지민이하고의 추억도 많은 곳인데 ㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "지민이하고의 추억도 많은 곳인데 ㅠ"
+	},
+	{
+		"created_at": "Thu Oct 31 07:49:10 +0000 2019",
+		"id": 1189811537550069800,
+		"id_str": "1189811537550069760",
+		"full_text": "몸이 아파서 하루 종일 휴가 내고 아침에 수액 맞고 와서 이제 일어났더니 이 무슨 날벼락이 ㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "몸이 아파서 하루 종일 휴가 내고 아침에 수액 맞고 와서 이제 일어났더니 이 무슨 날벼락이 ㅠㅠ"
+	},
+	{
+		"created_at": "Thu Oct 31 07:48:09 +0000 2019",
+		"id": 1189811281454231600,
+		"id_str": "1189811281454231552",
+		"full_text": "https://t.co/a4caD6fn5i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189811274357641200,
+					"id_str": "1189811274357641216",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMPDNXXkAAeKHq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMPDNXXkAAeKHq.jpg",
+					"url": "https://t.co/a4caD6fn5i",
+					"display_url": "pic.twitter.com/a4caD6fn5i",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1189811281454231552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 669,
+							"h": 905,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 669,
+							"h": 905,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189811274357641200,
+					"id_str": "1189811274357641216",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMPDNXXkAAeKHq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMPDNXXkAAeKHq.jpg",
+					"url": "https://t.co/a4caD6fn5i",
+					"display_url": "pic.twitter.com/a4caD6fn5i",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1189811281454231552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 669,
+							"h": 905,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 669,
+							"h": 905,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1189810609224700000,
+		"in_reply_to_status_id_str": "1189810609224699906",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/a4caD6fn5i"
+	},
+	{
+		"created_at": "Thu Oct 31 07:45:29 +0000 2019",
+		"id": 1189810609224700000,
+		"id_str": "1189810609224699906",
+		"full_text": "https://t.co/G8pTLcuUOo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189810590681882600,
+					"id_str": "1189810590681882626",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMObaeXYAIFW-U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMObaeXYAIFW-U.jpg",
+					"url": "https://t.co/G8pTLcuUOo",
+					"display_url": "pic.twitter.com/G8pTLcuUOo",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1189810609224699906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 918,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 918,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189810590681882600,
+					"id_str": "1189810590681882626",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EIMObaeXYAIFW-U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIMObaeXYAIFW-U.jpg",
+					"url": "https://t.co/G8pTLcuUOo",
+					"display_url": "pic.twitter.com/G8pTLcuUOo",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1189810609224699906/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 918,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 918,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/G8pTLcuUOo"
+	},
+	{
+		"created_at": "Thu Oct 31 07:43:11 +0000 2019",
+		"id": 1189810031203512300,
+		"id_str": "1189810031203512320",
+		"full_text": "눈물 찔끔😥 https://t.co/qj9NPYMoNo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qj9NPYMoNo",
+					"expanded_url": "https://twitter.com/ryukyushimpo/status/1189627358610804736",
+					"display_url": "twitter.com/ryukyushimpo/s…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1189627358610804700,
+		"quoted_status_id_str": "1189627358610804736",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qj9NPYMoNo",
+			"expanded": "https://twitter.com/ryukyushimpo/status/1189627358610804736",
+			"display": "twitter.com/ryukyushimpo/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 30 19:37:19 +0000 2019",
+			"id": 1189627358610804700,
+			"id_str": "1189627358610804736",
+			"full_text": "首里城正殿で火事です。  #首里城 https://t.co/Ym8ibkY1vZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				17
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "首里城",
+						"indices": [
+							13,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1189627247218565000,
+						"id_str": "1189627247218565120",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189627247218565120/pu/img/KSjAB2SojfWdlC_r.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189627247218565120/pu/img/KSjAB2SojfWdlC_r.jpg",
+						"url": "https://t.co/Ym8ibkY1vZ",
+						"display_url": "pic.twitter.com/Ym8ibkY1vZ",
+						"expanded_url": "https://twitter.com/ryukyushimpo/status/1189627358610804736/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1189627247218565000,
+						"id_str": "1189627247218565120",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189627247218565120/pu/img/KSjAB2SojfWdlC_r.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189627247218565120/pu/img/KSjAB2SojfWdlC_r.jpg",
+						"url": "https://t.co/Ym8ibkY1vZ",
+						"display_url": "pic.twitter.com/Ym8ibkY1vZ",
+						"expanded_url": "https://twitter.com/ryukyushimpo/status/1189627358610804736/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 14870,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1189627247218565120/pu/pl/EWmWS_VOpTIfCctG.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1189627247218565120/pu/vid/640x360/OWPIxP8sFEIhsjix.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1189627247218565120/pu/vid/960x540/KAFGZepdAv89GfLK.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1189627247218565120/pu/vid/480x270/kOxdwBfZ8Zc_FN1h.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15746839,
+				"id_str": "15746839",
+				"name": "琉球新報",
+				"screen_name": "ryukyushimpo",
+				"location": "沖縄県那覇市",
+				"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+				"url": "http://t.co/YUTPJoUc1k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/YUTPJoUc1k",
+								"expanded_url": "http://ryukyushimpo.jp",
+								"display_url": "ryukyushimpo.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nFmlmocCxo",
+								"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+								"display_url": "facebook.com/ryukyushimpo/",
+								"indices": [
+									25,
+									48
+								]
+							},
+							{
+								"url": "https://t.co/6ry90YboVK",
+								"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+								"display_url": "line.me/R/ti/p/%40oa-r…",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 64216,
+				"friends_count": 6560,
+				"listed_count": 2807,
+				"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+				"favourites_count": 8070,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 114492,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFCCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "D3D920",
+				"profile_sidebar_fill_color": "FAFCC2",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21320,
+			"favorite_count": 23252,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "눈물 찔끔😥 https://t.co/qj9NPYMoNo"
+	},
+	{
+		"created_at": "Thu Oct 31 07:39:35 +0000 2019",
+		"id": 1189668834476605400,
+		"id_str": "1189809124810182658",
+		"full_text": "首里城が....😭\nhttps://t.co/MuGSjddXmO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MuGSjddXmO",
+					"expanded_url": "https://headlines.yahoo.co.jp/videonews/nnn?a=20191031-00000045-nnn-soci",
+					"display_url": "headlines.yahoo.co.jp/videonews/nnn?…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1440845558,
+			"id_str": "1440845558",
+			"name": "いけむらたかし",
+			"screen_name": "takashi91mile",
+			"location": "沖縄県❂okinawa-japan",
+			"description": "沖縄の海や空の景色が大好物です。この感動を色んな人に届けたい🌈よろしくお願いします\n【趣味】音楽･写真･野球･読書･歴史",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23463,
+			"friends_count": 20093,
+			"listed_count": 218,
+			"created_at": "Sun May 19 10:43:57 +0000 2013",
+			"favourites_count": 42667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723875823690752002/mqa_KSZH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1440845558/1550065457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 290,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "首里城が....😭\nhttps://t.co/MuGSjddXmO"
+	},
+	{
+		"created_at": "Thu Oct 31 07:39:24 +0000 2019",
+		"id": 1189627358610804700,
+		"id_str": "1189809078337323008",
+		"full_text": "首里城正殿で火事です。  #首里城 https://t.co/Ym8ibkY1vZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "首里城",
+					"indices": [
+						13,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1189627247218565000,
+					"id_str": "1189627247218565120",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189627247218565120/pu/img/KSjAB2SojfWdlC_r.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189627247218565120/pu/img/KSjAB2SojfWdlC_r.jpg",
+					"url": "https://t.co/Ym8ibkY1vZ",
+					"display_url": "pic.twitter.com/Ym8ibkY1vZ",
+					"expanded_url": "https://twitter.com/ryukyushimpo/status/1189627358610804736/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189627247218565000,
+					"id_str": "1189627247218565120",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1189627247218565120/pu/img/KSjAB2SojfWdlC_r.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1189627247218565120/pu/img/KSjAB2SojfWdlC_r.jpg",
+					"url": "https://t.co/Ym8ibkY1vZ",
+					"display_url": "pic.twitter.com/Ym8ibkY1vZ",
+					"expanded_url": "https://twitter.com/ryukyushimpo/status/1189627358610804736/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14870,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1189627247218565120/pu/pl/EWmWS_VOpTIfCctG.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189627247218565120/pu/vid/640x360/OWPIxP8sFEIhsjix.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189627247218565120/pu/vid/960x540/KAFGZepdAv89GfLK.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1189627247218565120/pu/vid/480x270/kOxdwBfZ8Zc_FN1h.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉球新報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。FB⇒https://t.co/nFmlmocCxo注目記事を毎日配信するLINE⇒https://t.co/6ry90YboVKりゅうちゃん@shimporyuchan",
+			"url": "http://t.co/YUTPJoUc1k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YUTPJoUc1k",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nFmlmocCxo",
+							"expanded_url": "https://www.facebook.com/ryukyushimpo/",
+							"display_url": "facebook.com/ryukyushimpo/",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/6ry90YboVK",
+							"expanded_url": "https://line.me/R/ti/p/%40oa-ryukyushimpo",
+							"display_url": "line.me/R/ti/p/%40oa-r…",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 64216,
+			"friends_count": 6560,
+			"listed_count": 2807,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 114492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21320,
+		"favorite_count": 23252,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "首里城正殿で火事です。  #首里城 https://t.co/Ym8ibkY1vZ"
+	},
+	{
+		"created_at": "Thu Oct 31 07:36:28 +0000 2019",
+		"id": 1189808339863011300,
+		"id_str": "1189808339863011328",
+		"full_text": "이게 뭔 말도 안되는",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "이게 뭔 말도 안되는"
+	},
+	{
 		"created_at": "Wed Oct 30 12:28:39 +0000 2019",
 		"id": 1189048038192492500,
 		"id_str": "1189519483427143682",
