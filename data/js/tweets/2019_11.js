@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 03 01:25:15 +0000 2019",
+		"id": 1190796805379768300,
+		"id_str": "1190802084183953408",
+		"full_text": "日本の未来に不安を感じる。 https://t.co/q5ApznDumh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q5ApznDumh",
+					"expanded_url": "https://twitter.com/NaoM_tsum/status/1190465767965261825",
+					"display_url": "twitter.com/NaoM_tsum/stat…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 167765369,
+			"id_str": "167765369",
+			"name": "小熊英二",
+			"screen_name": "quikion",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7668,
+			"friends_count": 25,
+			"listed_count": 380,
+			"created_at": "Sat Jul 17 12:59:08 +0000 2010",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1190465767965261800,
+		"quoted_status_id_str": "1190465767965261825",
+		"quoted_status_permalink": {
+			"url": "https://t.co/q5ApznDumh",
+			"expanded": "https://twitter.com/NaoM_tsum/status/1190465767965261825",
+			"display": "twitter.com/NaoM_tsum/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 02 03:08:51 +0000 2019",
+			"id": 1190465767965261800,
+			"id_str": "1190465767965261825",
+			"full_text": "Q.豊田社長が乗ってみたい新しい車とは？\n\nガソリン臭くてね、燃費が悪くてね、音がいっぱい出てね、そんな野性味溢れた車が好きですね。\n\n立場上「燃費も大切ですね」「騒音はダメですよね」って言ってますけど。\n\n心の底ではね、車ってのはそういうもんなんですよ。 https://t.co/heRiHalgZG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1190465692488863700,
+						"id_str": "1190465692488863744",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190465692488863744/pu/img/nF_44kewVfhTEOAz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190465692488863744/pu/img/nF_44kewVfhTEOAz.jpg",
+						"url": "https://t.co/heRiHalgZG",
+						"display_url": "pic.twitter.com/heRiHalgZG",
+						"expanded_url": "https://twitter.com/NaoM_tsum/status/1190465767965261825/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 555,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 592,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1190465692488863700,
+						"id_str": "1190465692488863744",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190465692488863744/pu/img/nF_44kewVfhTEOAz.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190465692488863744/pu/img/nF_44kewVfhTEOAz.jpg",
+						"url": "https://t.co/heRiHalgZG",
+						"display_url": "pic.twitter.com/heRiHalgZG",
+						"expanded_url": "https://twitter.com/NaoM_tsum/status/1190465767965261825/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 555,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 592,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								80,
+								37
+							],
+							"duration_millis": 32763,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1190465692488863744/pu/vid/778x360/aGWBoel_H7zZJzNQ.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1190465692488863744/pu/vid/582x270/sA1KtOTPIACR64LU.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1190465692488863744/pu/vid/1280x592/qNe2G0RSMY7V6V7o.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1190465692488863744/pu/pl/OGwgRrfqctGeGEQA.m3u8?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2837725734,
+				"id_str": "2837725734",
+				"name": "NAO_M＠WRX",
+				"screen_name": "NaoM_tsum",
+				"location": "",
+				"description": "【愛車▶︎SUBARU WRX VAG】車とゲームと会社の愚痴を呟くアカウントです( ･ᴗ･ ) 少しでも気が合いそうだったらフォロみー!! WRXのカスタム内容リスト▶︎ https://t.co/7JcRyBRSy7",
+				"url": "https://t.co/9ftcbBM0y2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9ftcbBM0y2",
+								"expanded_url": "https://www.instagram.com/nao_m.jp/",
+								"display_url": "instagram.com/nao_m.jp/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7JcRyBRSy7",
+								"expanded_url": "http://bit.ly/2ZN19C2",
+								"display_url": "bit.ly/2ZN19C2",
+								"indices": [
+									87,
+									110
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1130,
+				"friends_count": 1012,
+				"listed_count": 6,
+				"created_at": "Thu Oct 02 08:42:03 +0000 2014",
+				"favourites_count": 9068,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3115,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/889530427945369601/uxjiFbrQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/889530427945369601/uxjiFbrQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2837725734/1559913609",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28007,
+			"favorite_count": 80567,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 31,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "日本の未来に不安を感じる。 https://t.co/q5ApznDumh"
+	},
+	{
 		"created_at": "Fri Nov 01 12:51:58 +0000 2019",
 		"id": 1190250125467119600,
 		"id_str": "1190250125467119618",
