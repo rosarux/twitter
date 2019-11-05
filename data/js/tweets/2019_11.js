@@ -1,6 +1,103 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 04 11:55:54 +0000 2019",
+		"id": 1191315409380634600,
+		"id_str": "1191323182017335297",
+		"full_text": "이주민 차별 혐오 문제에 더불어민주당이 지난 몇년간 뭘했는지 불분명하다는 사람들 진짜 보면 정치에 관심이 없는게 아니라 그냥 무지한 수준임 포괄적차별금지법을 최초로 발의한게 노무현정부\n포괄전략이 실패로 돌아가고 개별전략으로 인종차별금지에 관한 공청회를 최초로 연 게 민주당 전병헌",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 81994673,
+			"id_str": "81994673",
+			"name": "합리적BOSU주의자 175",
+			"screen_name": "seventeeeeeenth",
+			"location": "boobs.oppai.가슴",
+			"description": "합리적 보수주의에 입각한 세계 경제동향파악과 경제적 인싸이트를 기르고 있습니다",
+			"url": "https://t.co/FA1H8H92Qw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FA1H8H92Qw",
+							"expanded_url": "http://ask.fm/seventeeeeeenth",
+							"display_url": "ask.fm/seventeeeeeenth",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2460,
+			"friends_count": 983,
+			"listed_count": 56,
+			"created_at": "Tue Oct 13 02:49:55 +0000 2009",
+			"favourites_count": 12187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 142052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113268273049534464/eC0tTEXZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113268273049534464/eC0tTEXZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/81994673/1427901868",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 148,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이주민 차별 혐오 문제에 더불어민주당이 지난 몇년간 뭘했는지 불분명하다는 사람들 진짜 보면 정치에 관심이 없는게 아니라 그냥 무지한 수준임 포괄적차별금지법을 최초로 발의한게 노무현정부\n포괄전략이 실패로 돌아가고 개별전략으로 인종차별금지에 관한 공청회를 최초로 연 게 민주당 전병헌"
+	},
+	{
 		"created_at": "Sun Nov 03 01:25:15 +0000 2019",
 		"id": 1190796805379768300,
 		"id_str": "1190802084183953408",
