@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 05 11:36:12 +0000 2019",
+		"id": 1191648637316550700,
+		"id_str": "1191680612362375168",
+		"full_text": "本日から、首里城公園の一部施設が、開園になりました。\n微々たるモノですが、私達も首里城再建の募金をさせて頂きました。\nでも、今この時期に、首里城に足を運ぶ事も、とっても首里城再建の役にたてる事なのかなぁ、なんて思っています。\n久し振りに、訪れてみようかな。。。\n＃首里城再建 https://t.co/Kf9RatwX39",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "首里城再建",
+					"indices": [
+						131,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1191648242523459600,
+					"id_str": "1191648242523459584",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EImVw1DUUAAnmXp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EImVw1DUUAAnmXp.jpg",
+					"url": "https://t.co/Kf9RatwX39",
+					"display_url": "pic.twitter.com/Kf9RatwX39",
+					"expanded_url": "https://twitter.com/furaisou/status/1191648637316550656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1191648242523459600,
+					"id_str": "1191648242523459584",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EImVw1DUUAAnmXp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EImVw1DUUAAnmXp.jpg",
+					"url": "https://t.co/Kf9RatwX39",
+					"display_url": "pic.twitter.com/Kf9RatwX39",
+					"expanded_url": "https://twitter.com/furaisou/status/1191648637316550656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 750,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 207791068,
+			"id_str": "207791068",
+			"name": "風来荘",
+			"screen_name": "furaisou",
+			"location": "沖縄県　今帰仁村",
+			"description": "13年前に鎌倉から沖縄へ。  。。                                           海のそばで『風来荘　fu-rai-sou』 と言う名の宿を営んでおります.朝食には国産小麦を使って焼き上げる自家製天然酵母パンとスープでほっこりと。。ゆったりとした沖縄時間をお楽しみ下さい。。",
+			"url": "http://t.co/q1DVIfauZK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/q1DVIfauZK",
+							"expanded_url": "http://www7.plala.or.jp/fu-rai-sou/",
+							"display_url": "www7.plala.or.jp/fu-rai-sou/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 601,
+			"friends_count": 279,
+			"listed_count": 15,
+			"created_at": "Tue Oct 26 01:28:07 +0000 2010",
+			"favourites_count": 1768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/439958135634001921/P1j1yf6a_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/439958135634001921/P1j1yf6a_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/207791068/1398257915",
+			"profile_link_color": "256DD9",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "052e049119fd8da1",
+			"url": "https://api.twitter.com/1.1/geo/id/052e049119fd8da1.json",
+			"place_type": "admin",
+			"name": "沖縄",
+			"full_name": "日本 沖縄",
+			"country_code": "JP",
+			"country": "日本",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							122.933784,
+							24.045669
+						],
+						[
+							131.332071,
+							24.045669
+						],
+						[
+							131.332071,
+							27.095384
+						],
+						[
+							122.933784,
+							27.095384
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "本日から、首里城公園の一部施設が、開園になりました。\n微々たるモノですが、私達も首里城再建の募金をさせて頂きました。\nでも、今この時期に、首里城に足を運ぶ事も、とっても首里城再建の役にたてる事なのかなぁ、なんて思っています。\n久し振りに、訪れてみようかな。。。\n＃首里城再建 https://t.co/Kf9RatwX39"
+	},
+	{
 		"created_at": "Mon Nov 04 11:55:54 +0000 2019",
 		"id": 1191315409380634600,
 		"id_str": "1191323182017335297",
