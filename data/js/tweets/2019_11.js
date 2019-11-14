@@ -1,6 +1,801 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 13 14:20:50 +0000 2019",
+		"id": 1194240304259293200,
+		"id_str": "1194621142851411968",
+		"full_text": "No problem of your eye.\nThis is what happened at Chinese University in #HongKong\n\nDevil #HongKongPolice attacking university, countless gun shot, tear gas, tons of student injuries.  💔💔💔\n\nWorld, do something to save #HongKong\n\n🙏🙏🙏 https://t.co/PyyTj4yBXv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKong",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"text": "HongKongPolice",
+					"indices": [
+						88,
+						103
+					]
+				},
+				{
+					"text": "HongKong",
+					"indices": [
+						216,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1194240229592330200,
+					"id_str": "1194240229592330240",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194240229592330240/pu/img/5BiABvUW1ZEuTRHy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194240229592330240/pu/img/5BiABvUW1ZEuTRHy.jpg",
+					"url": "https://t.co/PyyTj4yBXv",
+					"display_url": "pic.twitter.com/PyyTj4yBXv",
+					"expanded_url": "https://twitter.com/JamesCh31927690/status/1194240304259293184/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194240229592330200,
+					"id_str": "1194240229592330240",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194240229592330240/pu/img/5BiABvUW1ZEuTRHy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194240229592330240/pu/img/5BiABvUW1ZEuTRHy.jpg",
+					"url": "https://t.co/PyyTj4yBXv",
+					"display_url": "pic.twitter.com/PyyTj4yBXv",
+					"expanded_url": "https://twitter.com/JamesCh31927690/status/1194240304259293184/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31500,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1194240229592330240/pu/vid/480x270/WH4rbbrhc8QbAGKU.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1194240229592330240/pu/pl/Skh6hZuHe755-4i9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1194240229592330240/pu/vid/1280x720/nmY_xpNIJ_U_l6cR.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1194240229592330240/pu/vid/640x360/874WFxNvruwhyXhQ.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1144464303229063200,
+			"id_str": "1144464303229063170",
+			"name": "James Shim",
+			"screen_name": "JamesCh31927690",
+			"location": "",
+			"description": "Just a normal human begging for freedom and justice.  Believe in better side of human nature.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1510,
+			"friends_count": 1484,
+			"listed_count": 1,
+			"created_at": "Fri Jun 28 04:35:27 +0000 2019",
+			"favourites_count": 6830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163500961584701446/pEvT2RYw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163500961584701446/pEvT2RYw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144464303229063170/1567694701",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1610,
+		"favorite_count": 1515,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No problem of your eye.\nThis is what happened at Chinese University in #HongKong\n\nDevil #HongKongPolice attacking university, countless gun shot, tear gas, tons of student injuries.  💔💔💔\n\nWorld, do something to save #HongKong\n\n🙏🙏🙏 https://t.co/PyyTj4yBXv"
+	},
+	{
+		"created_at": "Wed Nov 13 14:19:48 +0000 2019",
+		"id": 1194290676520738800,
+		"id_str": "1194620882401939457",
+		"full_text": "@chowtingagnes 大学は戦場になりました。\nこれは国際金融センターです。\nこれは天安門事件2.0。 https://t.co/rtMKgIqCAM",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chowtingagnes",
+					"name": "周庭 Agnes Chow Ting 😷",
+					"id": 317729273,
+					"id_str": "317729273",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1194290597542023200,
+					"id_str": "1194290597542023168",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194290597542023168/pu/img/Sv17fnHaib3gd-97.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194290597542023168/pu/img/Sv17fnHaib3gd-97.jpg",
+					"url": "https://t.co/rtMKgIqCAM",
+					"display_url": "pic.twitter.com/rtMKgIqCAM",
+					"expanded_url": "https://twitter.com/shggskass/status/1194290676520738817/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 806,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 806,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 607,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194290597542023200,
+					"id_str": "1194290597542023168",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1194290597542023168/pu/img/Sv17fnHaib3gd-97.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1194290597542023168/pu/img/Sv17fnHaib3gd-97.jpg",
+					"url": "https://t.co/rtMKgIqCAM",
+					"display_url": "pic.twitter.com/rtMKgIqCAM",
+					"expanded_url": "https://twitter.com/shggskass/status/1194290676520738817/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 806,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 806,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 607,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							403
+						],
+						"duration_millis": 23712,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1194290597542023168/pu/vid/720x806/CbvMllko58FP0CmG.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1194290597542023168/pu/pl/Gy31i2bax4s7R0LK.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1194290597542023168/pu/vid/320x358/DKXgUJG2genae9UY.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1194290597542023168/pu/vid/360x402/hWtmwYpBXZPaBEwT.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1194285778903240700,
+		"in_reply_to_status_id_str": "1194285778903240704",
+		"in_reply_to_user_id": 317729273,
+		"in_reply_to_user_id_str": "317729273",
+		"in_reply_to_screen_name": "chowtingagnes",
+		"user": {
+			"id": 2899900778,
+			"id_str": "2899900778",
+			"name": "shggskass",
+			"screen_name": "shggskass",
+			"location": "",
+			"description": "I love Anime and Games.\nIf we burn, you burn with us.",
+			"url": "https://t.co/Pe1pUdn9WN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Pe1pUdn9WN",
+							"expanded_url": "https://www.youtube.com/watch?v=CsjiZD2E6h0",
+							"display_url": "youtube.com/watch?v=CsjiZD…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 360,
+			"friends_count": 1313,
+			"listed_count": 0,
+			"created_at": "Sat Nov 15 03:14:01 +0000 2014",
+			"favourites_count": 6735,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1161512770908692481/DtJPEstf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1161512770908692481/DtJPEstf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2899900778/1570433033",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 397,
+		"favorite_count": 397,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "@chowtingagnes 大学は戦場になりました。\nこれは国際金融センターです。\nこれは天安門事件2.0。 https://t.co/rtMKgIqCAM"
+	},
+	{
+		"created_at": "Wed Nov 13 12:32:18 +0000 2019",
+		"id": 1194230364979335200,
+		"id_str": "1194593830781108225",
+		"full_text": "すげえ！そういうことか！！！って全然分からん。どういうこと？？？\n\n https://t.co/SDzZWS9QjC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1142351363743113200,
+					"id_str": "1142351363743113216",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142351363743113216/pu/img/qQd8Bah12q2vACuc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142351363743113216/pu/img/qQd8Bah12q2vACuc.jpg",
+					"url": "https://t.co/SDzZWS9QjC",
+					"display_url": "pic.twitter.com/SDzZWS9QjC",
+					"expanded_url": "https://twitter.com/ZonePhysics/status/1142351480676061184/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1142351480676061200,
+					"source_status_id_str": "1142351480676061184",
+					"source_user_id": 934281246435405800,
+					"source_user_id_str": "934281246435405824",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142351363743113200,
+					"id_str": "1142351363743113216",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142351363743113216/pu/img/qQd8Bah12q2vACuc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142351363743113216/pu/img/qQd8Bah12q2vACuc.jpg",
+					"url": "https://t.co/SDzZWS9QjC",
+					"display_url": "pic.twitter.com/SDzZWS9QjC",
+					"expanded_url": "https://twitter.com/ZonePhysics/status/1142351480676061184/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1142351480676061200,
+					"source_status_id_str": "1142351480676061184",
+					"source_user_id": 934281246435405800,
+					"source_user_id_str": "934281246435405824",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60133,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142351363743113216/pu/vid/320x320/BNbTrvOaODEym69k.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1142351363743113216/pu/vid/400x400/h017Z8c6_mmuak1p.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1142351363743113216/pu/pl/X3Xd8qZ60_vfOiiM.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 934281246435405800,
+							"id_str": "934281246435405824",
+							"name": "Physics & Astronomy Zone🔭",
+							"screen_name": "ZonePhysics",
+							"location": "Earth",
+							"description": "Science Educational Website 🔬🔭\nWelcome to the official page physics & astronomy zone.this page is primarily Dedicated to physics and astronomy lovers.",
+							"url": "https://t.co/uI5Dlv5KAy",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/uI5Dlv5KAy",
+											"expanded_url": "https://www.physics-astronomy.org",
+											"display_url": "physics-astronomy.org",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 826841,
+							"friends_count": 23898,
+							"listed_count": 3073,
+							"created_at": "Sat Nov 25 04:43:02 +0000 2017",
+							"favourites_count": 4131,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 9740,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1005757901766627333/nii7Bs2B_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005757901766627333/nii7Bs2B_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/934281246435405824/1511586771",
+							"profile_link_color": "E81C4F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"can_media_tag": false,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 946392046444544000,
+			"id_str": "946392046444544001",
+			"name": "みんなの動画",
+			"screen_name": "minnano_dogaww",
+			"location": "あなたのスマホ",
+			"description": "激選したみんなの動画をどんどん紹介していきます。【Twitterの利用規約に従い運営していきます。削除依頼はDMでお願いします】※前垢が凍結してしまったので新しく作り直しました！よかったらまたフォローお願いします。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35563,
+			"friends_count": 616,
+			"listed_count": 127,
+			"created_at": "Thu Dec 28 14:47:01 +0000 2017",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143848582262321152/DB4LpFYp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143848582262321152/DB4LpFYp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/946392046444544001/1561461909",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 762,
+		"favorite_count": 2480,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "すげえ！そういうことか！！！って全然分からん。どういうこと？？？\n\n https://t.co/SDzZWS9QjC"
+	},
+	{
+		"created_at": "Wed Nov 13 12:28:31 +0000 2019",
+		"id": 1194592877491261400,
+		"id_str": "1194592877491261440",
+		"full_text": "낙도페어2019...  가고 싶다. \nhttps://t.co/HSh8kRnQy8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HSh8kRnQy8",
+					"expanded_url": "https://okinawa-ritoufair.jp/",
+					"display_url": "okinawa-ritoufair.jp",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 571,
+			"friends_count": 439,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "낙도페어2019...  가고 싶다. \nhttps://t.co/HSh8kRnQy8"
+	},
+	{
 		"created_at": "Wed Nov 13 00:09:28 +0000 2019",
 		"id": 1194406891704635400,
 		"id_str": "1194406891704635392",
