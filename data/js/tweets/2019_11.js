@@ -1,6 +1,1619 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 16 23:53:17 +0000 2019",
+		"id": 1195339084115275800,
+		"id_str": "1195852368882987008",
+		"full_text": "멀쩔하던 여학생이 시체로 발견되고 자살했다며 나선 이는 가짜엄마고 실제엄마로 추정되는 사람은 또다시 시체로 발견되고.\n시위현장 근처에서 폭행사한 시신들이 계속 발견되는데 경찰은 무시하고 대낮에도 총에 맞는 상황에서 무조건 비폭력을 말할 수는 없다.\n그게 홍콩의 괴로운 현실.\n\n_ https://t.co/PqEQvpKn9B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195339055489147000,
+					"id_str": "1195339055489146881",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EJayiayU4AE5HOY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJayiayU4AE5HOY.jpg",
+					"url": "https://t.co/PqEQvpKn9B",
+					"display_url": "pic.twitter.com/PqEQvpKn9B",
+					"expanded_url": "https://twitter.com/woochick2/status/1195339084115275776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 660,
+							"h": 440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 660,
+							"h": 440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 660,
+							"h": 440,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 283,
+									"y": 62,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 283,
+									"y": 62,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 283,
+									"y": 62,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 283,
+									"y": 62,
+									"h": 42,
+									"w": 42
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195339055489147000,
+					"id_str": "1195339055489146881",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EJayiayU4AE5HOY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJayiayU4AE5HOY.jpg",
+					"url": "https://t.co/PqEQvpKn9B",
+					"display_url": "pic.twitter.com/PqEQvpKn9B",
+					"expanded_url": "https://twitter.com/woochick2/status/1195339084115275776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 660,
+							"h": 440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 660,
+							"h": 440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 660,
+							"h": 440,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 283,
+									"y": 62,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 283,
+									"y": 62,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 283,
+									"y": 62,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 283,
+									"y": 62,
+									"h": 42,
+									"w": 42
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1195339062619467800,
+					"id_str": "1195339062619467777",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EJayi1WU8AE3YTT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJayi1WU8AE3YTT.jpg",
+					"url": "https://t.co/PqEQvpKn9B",
+					"display_url": "pic.twitter.com/PqEQvpKn9B",
+					"expanded_url": "https://twitter.com/woochick2/status/1195339084115275776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 660,
+							"h": 495,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 495,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 660,
+							"h": 495,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 47,
+									"y": 15,
+									"h": 423,
+									"w": 423
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 47,
+									"y": 15,
+									"h": 423,
+									"w": 423
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 47,
+									"y": 15,
+									"h": 423,
+									"w": 423
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 47,
+									"y": 15,
+									"h": 423,
+									"w": 423
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1195339069368107000,
+					"id_str": "1195339069368107008",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EJayjOfVAAAX3aZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJayjOfVAAAX3aZ.jpg",
+					"url": "https://t.co/PqEQvpKn9B",
+					"display_url": "pic.twitter.com/PqEQvpKn9B",
+					"expanded_url": "https://twitter.com/woochick2/status/1195339084115275776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 660,
+							"h": 495,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 495,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 660,
+							"h": 495,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 207,
+									"y": 70,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 156,
+									"y": 124,
+									"h": 250,
+									"w": 250
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 207,
+									"y": 70,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 156,
+									"y": 124,
+									"h": 250,
+									"w": 250
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 207,
+									"y": 70,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 156,
+									"y": 124,
+									"h": 250,
+									"w": 250
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 207,
+									"y": 70,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 156,
+									"y": 124,
+									"h": 250,
+									"w": 250
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1195339077404414000,
+					"id_str": "1195339077404413952",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EJayjsbVUAAPo6W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJayjsbVUAAPo6W.jpg",
+					"url": "https://t.co/PqEQvpKn9B",
+					"display_url": "pic.twitter.com/PqEQvpKn9B",
+					"expanded_url": "https://twitter.com/woochick2/status/1195339084115275776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 660,
+							"h": 455,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 660,
+							"h": 455,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 455,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 122,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 122,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 122,
+									"h": 47,
+									"w": 47
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 122,
+									"h": 47,
+									"w": 47
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1195337015023194000,
+		"in_reply_to_status_id_str": "1195337015023194112",
+		"in_reply_to_user_id": 895235682834169900,
+		"in_reply_to_user_id_str": "895235682834169856",
+		"in_reply_to_screen_name": "woochick2",
+		"user": {
+			"id": 895235682834169900,
+			"id_str": "895235682834169856",
+			"name": "춰",
+			"screen_name": "woochick2",
+			"location": "",
+			"description": "부채깎는 노인",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197,
+			"friends_count": 256,
+			"listed_count": 2,
+			"created_at": "Wed Aug 09 10:49:54 +0000 2017",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184036494404534273/yfputwA-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184036494404534273/yfputwA-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/895235682834169856/1571131275",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1190,
+		"favorite_count": 216,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "멀쩔하던 여학생이 시체로 발견되고 자살했다며 나선 이는 가짜엄마고 실제엄마로 추정되는 사람은 또다시 시체로 발견되고.\n시위현장 근처에서 폭행사한 시신들이 계속 발견되는데 경찰은 무시하고 대낮에도 총에 맞는 상황에서 무조건 비폭력을 말할 수는 없다.\n그게 홍콩의 괴로운 현실.\n\n_ https://t.co/PqEQvpKn9B"
+	},
+	{
+		"created_at": "Sat Nov 16 23:49:58 +0000 2019",
+		"id": 1195675102676996000,
+		"id_str": "1195851533721563136",
+		"full_text": "今日、香港に駐屯している中国の人民解放軍が駐屯地から離れ、「自発的に」香港バプテスト大学周辺にデモ隊が設置したバリケードを取り除きました。\n\n香港の「駐軍法」によると、「緊急事態ではない時に、自発的にバリケードやゴミを拾う」ことは人民解放軍の仕事ではありません。→ https://t.co/0zF3Fs16uG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195675008590319600,
+					"id_str": "1195675008590319616",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195675008590319616/pu/img/JOFOnyjRkLXVb3yk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195675008590319616/pu/img/JOFOnyjRkLXVb3yk.jpg",
+					"url": "https://t.co/0zF3Fs16uG",
+					"display_url": "pic.twitter.com/0zF3Fs16uG",
+					"expanded_url": "https://twitter.com/chowtingagnes/status/1195675102676996102/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 384,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195675008590319600,
+					"id_str": "1195675008590319616",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195675008590319616/pu/img/JOFOnyjRkLXVb3yk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195675008590319616/pu/img/JOFOnyjRkLXVb3yk.jpg",
+					"url": "https://t.co/0zF3Fs16uG",
+					"display_url": "pic.twitter.com/0zF3Fs16uG",
+					"expanded_url": "https://twitter.com/chowtingagnes/status/1195675102676996102/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 384,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							24
+						],
+						"duration_millis": 21910,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195675008590319616/pu/vid/848x384/LJVXFMCh6UWav9u5.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195675008590319616/pu/vid/596x270/ie6pjr4FbGeG-ZI4.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1195675008590319616/pu/pl/iCHH5INtaqoUHIgn.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 317729273,
+			"id_str": "317729273",
+			"name": "周庭 Agnes Chow Ting 😷",
+			"screen_name": "chowtingagnes",
+			"location": "Hong Kong",
+			"description": "周庭（アグネス・チョウ）、香港衆志（デモシスト）メンバー、大学生。 Chow Ting Agnes, member of Demosisto, University student. 周庭，香港眾志成員，大學生。",
+			"url": "https://t.co/Uq2fOOQonY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq2fOOQonY",
+							"expanded_url": "http://www.instagram.com/chowtingagnes/",
+							"display_url": "instagram.com/chowtingagnes/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301785,
+			"friends_count": 321,
+			"listed_count": 1418,
+			"created_at": "Wed Jun 15 11:36:55 +0000 2011",
+			"favourites_count": 1211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167833388759150593/oUS6yulZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167833388759150593/oUS6yulZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/317729273/1369143530",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9593,
+		"favorite_count": 13010,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "今日、香港に駐屯している中国の人民解放軍が駐屯地から離れ、「自発的に」香港バプテスト大学周辺にデモ隊が設置したバリケードを取り除きました。\n\n香港の「駐軍法」によると、「緊急事態ではない時に、自発的にバリケードやゴミを拾う」ことは人民解放軍の仕事ではありません。→ https://t.co/0zF3Fs16uG"
+	},
+	{
+		"created_at": "Sat Nov 16 09:24:24 +0000 2019",
+		"id": 1195513931881681000,
+		"id_str": "1195633706771181568",
+		"full_text": "Al Jazeera's @TeresaBo has been intentionally tear-gassed in the eyes by Bolivian police while on air. She was simply trying to report what was happening. And, being a total pro, she kept right on doing it. https://t.co/74foN7tvRF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeresaBo",
+					"name": "Teresa Bo",
+					"id": 26496204,
+					"id_str": "26496204",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195508014347948000,
+					"id_str": "1195508014347948033",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195508014347948033/pu/img/2jw3insWwwrHRTSh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195508014347948033/pu/img/2jw3insWwwrHRTSh.jpg",
+					"url": "https://t.co/74foN7tvRF",
+					"display_url": "pic.twitter.com/74foN7tvRF",
+					"expanded_url": "https://twitter.com/KamahlAJE/status/1195508106941419521/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 708,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1195508106941419500,
+					"source_status_id_str": "1195508106941419521",
+					"source_user_id": 125601462,
+					"source_user_id_str": "125601462",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195508014347948000,
+					"id_str": "1195508014347948033",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195508014347948033/pu/img/2jw3insWwwrHRTSh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195508014347948033/pu/img/2jw3insWwwrHRTSh.jpg",
+					"url": "https://t.co/74foN7tvRF",
+					"display_url": "pic.twitter.com/74foN7tvRF",
+					"expanded_url": "https://twitter.com/KamahlAJE/status/1195508106941419521/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 708,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1195508106941419500,
+					"source_status_id_str": "1195508106941419521",
+					"source_user_id": 125601462,
+					"source_user_id_str": "125601462",
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							177
+						],
+						"duration_millis": 44983,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195508014347948033/pu/vid/1280x708/FxZ8UdhDJ_7lXwgj.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195508014347948033/pu/vid/488x270/CHe0lf_-MyI_Jf3A.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195508014347948033/pu/vid/650x360/84w_eZhhctLqJw1O.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1195508014347948033/pu/pl/eHUthIL-uQLYlDsu.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 125601462,
+							"id_str": "125601462",
+							"name": "Kamahl Santamaria",
+							"screen_name": "KamahlAJE",
+							"location": "Doha, Qatar",
+							"description": "@AJEnglish presenter • grammar pedant & oxford comma advocate • ”chuntering from a sedentary position” • my views, not those of Al Jazeera",
+							"url": "https://t.co/Cln5CdUxsT",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/Cln5CdUxsT",
+											"expanded_url": "http://www.kamahlsantamaria.com",
+											"display_url": "kamahlsantamaria.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 16068,
+							"friends_count": 488,
+							"listed_count": 360,
+							"created_at": "Tue Mar 23 08:58:11 +0000 2010",
+							"favourites_count": 675,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 35210,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1116362642053107712/Zu-hPKHO_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116362642053107712/Zu-hPKHO_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/125601462/1572701766",
+							"profile_link_color": "FAB81E",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18753586,
+			"id_str": "18753586",
+			"name": "Barry Malone",
+			"screen_name": "malonebarry",
+			"location": "Washington, DC",
+			"description": "Executive Producer, @AJStream. Previously: Al Jazeera Online Editor / Reuters correspondent in East Africa and Middle East. Tweet news and nonsense.",
+			"url": "https://t.co/D38RZjLnhI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D38RZjLnhI",
+							"expanded_url": "http://aljazeera.com",
+							"display_url": "aljazeera.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24636,
+			"friends_count": 2604,
+			"listed_count": 794,
+			"created_at": "Thu Jan 08 04:27:43 +0000 2009",
+			"favourites_count": 37212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F7F7F7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966703303743586306/SzO_Iwfl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966703303743586306/SzO_Iwfl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18753586/1403688026",
+			"profile_link_color": "2878B5",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5307,
+		"favorite_count": 11403,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Al Jazeera's @TeresaBo has been intentionally tear-gassed in the eyes by Bolivian police while on air. She was simply trying to report what was happening. And, being a total pro, she kept right on doing it. https://t.co/74foN7tvRF"
+	},
+	{
+		"created_at": "Sat Nov 16 09:20:47 +0000 2019",
+		"id": 1195463866261672000,
+		"id_str": "1195632797353775104",
+		"full_text": "Footage emerging from Cochabamba, Bolivia shows the aftermath of a massacre of indigenous protesters carried out by coup soldiers and police. This will be ignored by western media.  https://t.co/phGHgJPsea",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195460173151817700,
+					"id_str": "1195460173151817733",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195460173151817733/pu/img/l2rbXde2xnA1rcqU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195460173151817733/pu/img/l2rbXde2xnA1rcqU.jpg",
+					"url": "https://t.co/phGHgJPsea",
+					"display_url": "pic.twitter.com/phGHgJPsea",
+					"expanded_url": "https://twitter.com/madeleintlSUR/status/1195460297693310978/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1195460297693311000,
+					"source_status_id_str": "1195460297693310978",
+					"source_user_id": 164325147,
+					"source_user_id_str": "164325147",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195460173151817700,
+					"id_str": "1195460173151817733",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1195460173151817733/pu/img/l2rbXde2xnA1rcqU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1195460173151817733/pu/img/l2rbXde2xnA1rcqU.jpg",
+					"url": "https://t.co/phGHgJPsea",
+					"display_url": "pic.twitter.com/phGHgJPsea",
+					"expanded_url": "https://twitter.com/madeleintlSUR/status/1195460297693310978/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1195460297693311000,
+					"source_status_id_str": "1195460297693310978",
+					"source_user_id": 164325147,
+					"source_user_id_str": "164325147",
+					"video_info": {
+						"aspect_ratio": [
+							20,
+							11
+						],
+						"duration_millis": 74580,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195460173151817733/pu/vid/640x352/Wusvee23t0LY9BLw.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1195460173151817733/pu/vid/490x270/GnLgHQtgKBHZypH4.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1195460173151817733/pu/pl/pmyB5ZCU81EUSgMu.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 164325147,
+							"id_str": "164325147",
+							"name": "Madelein Garcia",
+							"screen_name": "madeleintlSUR",
+							"location": "Caracas, Venezuela",
+							"description": "Corresponsal de teleSUR en Venezuela. Somos la señal informativa de América Latina. Instagram @madeleintelesur Facebook: MadeleinGarcia",
+							"url": "https://t.co/0p2yzqqbBz",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/0p2yzqqbBz",
+											"expanded_url": "http://www.telesurtv.net",
+											"display_url": "telesurtv.net",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 139248,
+							"friends_count": 1640,
+							"listed_count": 794,
+							"created_at": "Thu Jul 08 16:03:50 +0000 2010",
+							"favourites_count": 867,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 71328,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "EB051F",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1138469905056092171/H9v6Tm5J_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138469905056092171/H9v6Tm5J_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/164325147/1546369797",
+							"profile_link_color": "CC3366",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "E6F6F9",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 386213011,
+			"id_str": "386213011",
+			"name": "Dan Cohen",
+			"screen_name": "dancohen3000",
+			"location": "Washington, DC",
+			"description": "Journalist, Filmmaker: @KillingGaza.",
+			"url": "https://t.co/MCjfRyOXUJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MCjfRyOXUJ",
+							"expanded_url": "http://www.dancohenmedia.com/",
+							"display_url": "dancohenmedia.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46448,
+			"friends_count": 2412,
+			"listed_count": 866,
+			"created_at": "Thu Oct 06 21:21:14 +0000 2011",
+			"favourites_count": 7563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DFEFF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162480813373571074/_WraGkVs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162480813373571074/_WraGkVs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/386213011/1567214927",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4063,
+		"favorite_count": 4035,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Footage emerging from Cochabamba, Bolivia shows the aftermath of a massacre of indigenous protesters carried out by coup soldiers and police. This will be ignored by western media.  https://t.co/phGHgJPsea"
+	},
+	{
+		"created_at": "Sat Nov 16 09:17:15 +0000 2019",
+		"id": 1195332025600770000,
+		"id_str": "1195631910212358145",
+		"full_text": "세계 많은 나라들의 ‘정의의 여신상’은 대부분 한 손엔 저울,다른 한손엔 칼을 들고 있지만, 울나라 대법원 여신상은 칼 대신에 법전들고 있음...근데 그게 법전 아닐수 도 있음\n\n아마 스폰서리스트 노트일꺼임 ㅋㅋㅋ 그러니 눈가리개도 안했지 ㅋㅋㅋ\n\n사진) 구글웹 https://t.co/B5YHMtNLQC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195332013361787000,
+					"id_str": "1195332013361786886",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EJasIg0U8AYHlfZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJasIg0U8AYHlfZ.jpg",
+					"url": "https://t.co/B5YHMtNLQC",
+					"display_url": "pic.twitter.com/B5YHMtNLQC",
+					"expanded_url": "https://twitter.com/busanHE/status/1195332025600770048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 959,
+							"h": 654,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 654,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 491,
+									"y": 256,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 181,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 491,
+									"y": 256,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 491,
+									"y": 256,
+									"h": 76,
+									"w": 76
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195332013361787000,
+					"id_str": "1195332013361786886",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EJasIg0U8AYHlfZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJasIg0U8AYHlfZ.jpg",
+					"url": "https://t.co/B5YHMtNLQC",
+					"display_url": "pic.twitter.com/B5YHMtNLQC",
+					"expanded_url": "https://twitter.com/busanHE/status/1195332025600770048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 959,
+							"h": 654,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 654,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 491,
+									"y": 256,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 348,
+									"y": 181,
+									"h": 53,
+									"w": 53
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 491,
+									"y": 256,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 491,
+									"y": 256,
+									"h": 76,
+									"w": 76
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1195332013365973000,
+					"id_str": "1195332013365972993",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EJasIg1U0AEPqrX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJasIg1U0AEPqrX.jpg",
+					"url": "https://t.co/B5YHMtNLQC",
+					"display_url": "pic.twitter.com/B5YHMtNLQC",
+					"expanded_url": "https://twitter.com/busanHE/status/1195332025600770048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 626,
+							"h": 889,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 626,
+							"h": 889,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 231,
+									"y": 211,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 303,
+									"y": 277,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 303,
+									"y": 277,
+									"h": 95,
+									"w": 95
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 303,
+									"y": 277,
+									"h": 95,
+									"w": 95
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 345139959,
+			"id_str": "345139959",
+			"name": "부산아재",
+			"screen_name": "busanHE",
+			"location": "부산",
+			"description": "모든 나라는 그 나라 국민 수준에 맞는 지도자를 가지게 되어있다.-(윈스턴처칠)노무현.김대중.문재인.조국.리영희.기레기는 살처분, BOYCOTT JAPAN.조중동 기사링크 금지.한넘만 팬다.맞팔100%",
+			"url": "https://t.co/a8c1tsd2fc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a8c1tsd2fc",
+							"expanded_url": "http://page.is/gimhyeon",
+							"display_url": "page.is/gimhyeon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6369,
+			"friends_count": 6485,
+			"listed_count": 34,
+			"created_at": "Sat Jul 30 03:38:39 +0000 2011",
+			"favourites_count": 4970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164869707289133057/2LI74jTL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164869707289133057/2LI74jTL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/345139959/1528217326",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 221,
+		"favorite_count": 144,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세계 많은 나라들의 ‘정의의 여신상’은 대부분 한 손엔 저울,다른 한손엔 칼을 들고 있지만, 울나라 대법원 여신상은 칼 대신에 법전들고 있음...근데 그게 법전 아닐수 도 있음\n\n아마 스폰서리스트 노트일꺼임 ㅋㅋㅋ 그러니 눈가리개도 안했지 ㅋㅋㅋ\n\n사진) 구글웹 https://t.co/B5YHMtNLQC"
+	},
+	{
 		"created_at": "Fri Nov 15 13:16:10 +0000 2019",
 		"id": 1195326730111611000,
 		"id_str": "1195329645970771968",
