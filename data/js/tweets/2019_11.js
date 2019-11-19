@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 09:33:19 +0000 2019",
+		"id": 1196319531133632500,
+		"id_str": "1196360728841580544",
+		"full_text": "理工大で逮捕されたデモ隊は、東鉄線に乗らせて、どこかに護送しました。\n\n東鉄線は中国の辺境と直接に繋がってるので、中国に移送した可能性もあります…\n\nhttps://t.co/5s7jGbLDk4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196311196615315500,
+					"id_str": "1196311196615315456",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1196311196615315456/pu/img/-RCRaas4UmiEFFLn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1196311196615315456/pu/img/-RCRaas4UmiEFFLn.jpg",
+					"url": "https://t.co/5s7jGbLDk4",
+					"display_url": "pic.twitter.com/5s7jGbLDk4",
+					"expanded_url": "https://twitter.com/FullmoonLuxe/status/1196311248142356486/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1196311248142356500,
+					"source_status_id_str": "1196311248142356486",
+					"source_user_id": 1177790480622313500,
+					"source_user_id_str": "1177790480622313472",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196311196615315500,
+					"id_str": "1196311196615315456",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1196311196615315456/pu/img/-RCRaas4UmiEFFLn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1196311196615315456/pu/img/-RCRaas4UmiEFFLn.jpg",
+					"url": "https://t.co/5s7jGbLDk4",
+					"display_url": "pic.twitter.com/5s7jGbLDk4",
+					"expanded_url": "https://twitter.com/FullmoonLuxe/status/1196311248142356486/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1196311248142356500,
+					"source_status_id_str": "1196311248142356486",
+					"source_user_id": 1177790480622313500,
+					"source_user_id_str": "1177790480622313472",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1196311196615315456/pu/vid/480x480/peySb6hqjKH-f-cB.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1196311196615315456/pu/pl/t1BhwiTZeVnT0ZgE.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1196311196615315456/pu/vid/640x640/tGtcmYEH16ykqUkt.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1196311196615315456/pu/vid/320x320/OhUfIrAUGzY80Igz.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1177790480622313500,
+							"id_str": "1177790480622313472",
+							"name": "雨宮さっちゃん🌹",
+							"screen_name": "FullmoonLuxe",
+							"location": "",
+							"description": "👠のんびりOL 🖤JSB登坂 💌FashionLover 🙆🏻‍♀️香港語/English/日本語 🙌🏻One day we will meet each other under the port",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 447,
+							"friends_count": 528,
+							"listed_count": 1,
+							"created_at": "Sat Sep 28 03:41:55 +0000 2019",
+							"favourites_count": 2761,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 804,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1194839502340030464/MnWbcoqk_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194839502340030464/MnWbcoqk_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1177790480622313472/1569648250",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1166939329228230700,
+			"id_str": "1166939329228230656",
+			"name": "啲咋呼≒デジャヴ😷雷の呼吸😷",
+			"screen_name": "jigi_dejavu",
+			"location": "光復香港 時代革命",
+			"description": "20↑\n（香港デモ関連ツイート‧RT多め | 無言フォローご了承ください | 香港話 | poor English | おかしい日本語） \n\n🌙🌕月が寝るまで踊ろう🌕🌙\n\n Learn more abt #HKprotests ↓",
+			"url": "https://t.co/dAHvbwHz1L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dAHvbwHz1L",
+							"expanded_url": "https://hkrev.info/",
+							"display_url": "hkrev.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8090,
+			"friends_count": 2086,
+			"listed_count": 23,
+			"created_at": "Thu Aug 29 05:03:20 +0000 2019",
+			"favourites_count": 20497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196428743863984128/IbMskhSq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196428743863984128/IbMskhSq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1166939329228230656/1572109847",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4043,
+		"favorite_count": 3406,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "理工大で逮捕されたデモ隊は、東鉄線に乗らせて、どこかに護送しました。\n\n東鉄線は中国の辺境と直接に繋がってるので、中国に移送した可能性もあります…\n\nhttps://t.co/5s7jGbLDk4"
+	},
+	{
+		"created_at": "Mon Nov 18 09:30:57 +0000 2019",
+		"id": 1196056867044130800,
+		"id_str": "1196360132751319040",
+		"full_text": "ドラマなんかじゃないです\nたったいま警察が装甲車で香港理工大学に突入しようとしたが　デモ者に火炎瓶に撃退されました\n政府は中国の天安門事件を繰り返そうとしてる\n#HongKong #PolyU #Taiwan #香港デモ https://t.co/ZtY6n03XbV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKong",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"text": "PolyU",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "Taiwan",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"text": "香港デモ",
+					"indices": [
+						105,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196056782805692400,
+					"id_str": "1196056782805692416",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1196056782805692416/pu/img/NFVDAXDqpaD6S-rw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1196056782805692416/pu/img/NFVDAXDqpaD6S-rw.jpg",
+					"url": "https://t.co/ZtY6n03XbV",
+					"display_url": "pic.twitter.com/ZtY6n03XbV",
+					"expanded_url": "https://twitter.com/ramu18ramu/status/1196056867044130816/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 214,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 214,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 214,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196056782805692400,
+					"id_str": "1196056782805692416",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1196056782805692416/pu/img/NFVDAXDqpaD6S-rw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1196056782805692416/pu/img/NFVDAXDqpaD6S-rw.jpg",
+					"url": "https://t.co/ZtY6n03XbV",
+					"display_url": "pic.twitter.com/ZtY6n03XbV",
+					"expanded_url": "https://twitter.com/ramu18ramu/status/1196056867044130816/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 214,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 214,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 400,
+							"h": 214,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							200,
+							107
+						],
+						"duration_millis": 69734,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1196056782805692416/pu/pl/Kyc9S7YTw0vq-zLE.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1196056782805692416/pu/vid/400x214/FWuau6-Psi6hZLqh.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 904229078374375400,
+			"id_str": "904229078374375425",
+			"name": "らむ🐬香港人です",
+			"screen_name": "ramu18ramu",
+			"location": "香港",
+			"description": "光復香港，時代革命。コスプレ暦五年くらい🇭🇰🇭🇰From HongKong、日本語わかります。ぜひフォローしてください，お別れはブロ解してね🥺",
+			"url": "https://t.co/vggeQ2nxtJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vggeQ2nxtJ",
+							"expanded_url": "https://www.instagram.com/namnamtang/",
+							"display_url": "instagram.com/namnamtang/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3714,
+			"friends_count": 751,
+			"listed_count": 45,
+			"created_at": "Sun Sep 03 06:26:26 +0000 2017",
+			"favourites_count": 4112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120668825123299328/tRoh27bC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120668825123299328/tRoh27bC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/904229078374375425/1558625189",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32050,
+		"favorite_count": 39084,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ja",
+		"text": "ドラマなんかじゃないです\nたったいま警察が装甲車で香港理工大学に突入しようとしたが　デモ者に火炎瓶に撃退されました\n政府は中国の天安門事件を繰り返そうとしてる\n#HongKong #PolyU #Taiwan #香港デモ https://t.co/ZtY6n03XbV"
+	},
+	{
 		"created_at": "Sun Nov 17 08:59:21 +0000 2019",
 		"id": 1195989791508070400,
 		"id_str": "1195989791508070400",
