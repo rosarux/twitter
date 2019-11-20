@@ -1,6 +1,391 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 19 23:17:18 +0000 2019",
+		"id": 1196786097218609200,
+		"id_str": "1196930478940418048",
+		"full_text": "그런 말은 하지 않는 편이 낫다. 당장 배제당하고 있는 동료시민에 대한 예의가 아니다. 아쉬움은 천천히 내일을 기다릴 여지가 있는 사람들이 누릴 수 있는 사치다. 그걸 누릴 수 없는 사람들이 있는 한 침묵함이 옳다고 믿는다. 그 대신 해야 할 말과 지켜야 할 의견을 계속 말할 것이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1196786095175790600,
+		"in_reply_to_status_id_str": "1196786095175790594",
+		"in_reply_to_user_id": 353097742,
+		"in_reply_to_user_id_str": "353097742",
+		"in_reply_to_screen_name": "aransistore",
+		"user": {
+			"id": 353097742,
+			"id_str": "353097742",
+			"name": "시아란/아란시스토르",
+			"screen_name": "aransistore",
+			"location": "복실이 연구소",
+			"description": "PhD Engr / 스토리텔러 / 서브컬쳐, 철도, 봉제인형, 귀여운 것, 그리고 레몬 / 나의 일상이 당신의 경이가 되기를 / 안전가옥 대멸종 앤솔로지 발매 중",
+			"url": "https://t.co/YdD6I0GJRn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YdD6I0GJRn",
+							"expanded_url": "http://www.siaran.kr",
+							"display_url": "siaran.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2321,
+			"friends_count": 214,
+			"listed_count": 54,
+			"created_at": "Thu Aug 11 15:02:56 +0000 2011",
+			"favourites_count": 15218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 342844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/353097742/1459516574",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그런 말은 하지 않는 편이 낫다. 당장 배제당하고 있는 동료시민에 대한 예의가 아니다. 아쉬움은 천천히 내일을 기다릴 여지가 있는 사람들이 누릴 수 있는 사치다. 그걸 누릴 수 없는 사람들이 있는 한 침묵함이 옳다고 믿는다. 그 대신 해야 할 말과 지켜야 할 의견을 계속 말할 것이다."
+	},
+	{
+		"created_at": "Tue Nov 19 22:32:48 +0000 2019",
+		"id": 1196771927915819000,
+		"id_str": "1196919280534618112",
+		"full_text": "昨日、理工大学の外でデモ参加者を虐待しながら逮捕する香港警察。警察は人を逮捕する権力を持っていますが、私刑を行うことは警察の仕事ではありません。\n\n今、多くの若者が警察署に連行されたあと、警察に虐待されたり性的暴力を受けたりしています。メディアのいない場所が一番危険です。 https://t.co/GAAQ4z8NSp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196768314355110000,
+					"id_str": "1196768314355109894",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1196768314355109894/pu/img/omsVsGNvPhUnZdEd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1196768314355109894/pu/img/omsVsGNvPhUnZdEd.jpg",
+					"url": "https://t.co/GAAQ4z8NSp",
+					"display_url": "pic.twitter.com/GAAQ4z8NSp",
+					"expanded_url": "https://twitter.com/chowtingagnes/status/1196771927915819009/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 362,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 362,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196768314355110000,
+					"id_str": "1196768314355109894",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1196768314355109894/pu/img/omsVsGNvPhUnZdEd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1196768314355109894/pu/img/omsVsGNvPhUnZdEd.jpg",
+					"url": "https://t.co/GAAQ4z8NSp",
+					"display_url": "pic.twitter.com/GAAQ4z8NSp",
+					"expanded_url": "https://twitter.com/chowtingagnes/status/1196771927915819009/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 362,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 362,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							181
+						],
+						"duration_millis": 104307,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1196768314355109894/pu/vid/640x362/hHvfcCg4vr1wYbMj.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1196768314355109894/pu/vid/476x270/sPWeiAs5b4TKheuK.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1196768314355109894/pu/pl/D8iGgBpyCDmzLc3w.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 317729273,
+			"id_str": "317729273",
+			"name": "周庭 Agnes Chow Ting 😷",
+			"screen_name": "chowtingagnes",
+			"location": "Hong Kong",
+			"description": "周庭（アグネス・チョウ）、香港衆志（デモシスト）メンバー、大学生。 Chow Ting Agnes, member of Demosisto, University student. 周庭，香港眾志成員，大學生。",
+			"url": "https://t.co/Uq2fOOQonY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq2fOOQonY",
+							"expanded_url": "http://www.instagram.com/chowtingagnes/",
+							"display_url": "instagram.com/chowtingagnes/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314236,
+			"friends_count": 323,
+			"listed_count": 1466,
+			"created_at": "Wed Jun 15 11:36:55 +0000 2011",
+			"favourites_count": 1216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167833388759150593/oUS6yulZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167833388759150593/oUS6yulZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/317729273/1369143530",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15970,
+		"favorite_count": 20910,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "昨日、理工大学の外でデモ参加者を虐待しながら逮捕する香港警察。警察は人を逮捕する権力を持っていますが、私刑を行うことは警察の仕事ではありません。\n\n今、多くの若者が警察署に連行されたあと、警察に虐待されたり性的暴力を受けたりしています。メディアのいない場所が一番危険です。 https://t.co/GAAQ4z8NSp"
+	},
+	{
+		"created_at": "Tue Nov 19 11:50:36 +0000 2019",
+		"id": 1196757664069341200,
+		"id_str": "1196757664069341184",
+		"full_text": "차마 끝까지 볼 수가",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1196756455417761800,
+		"in_reply_to_status_id_str": "1196756455417761793",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 567,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "차마 끝까지 볼 수가"
+	},
+	{
 		"created_at": "Mon Nov 18 09:33:19 +0000 2019",
 		"id": 1196319531133632500,
 		"id_str": "1196360728841580544",
@@ -137,7 +522,7 @@ Grailbird.data.tweets_2019_11 =
 							"name": "雨宮さっちゃん🌹",
 							"screen_name": "FullmoonLuxe",
 							"location": "",
-							"description": "👠のんびりOL 🖤JSB登坂 💌FashionLover 🙆🏻‍♀️香港語/English/日本語 🙌🏻One day we will meet each other under the port",
+							"description": "👠のんびりOL 🖤JSB登坂 💌FashionLover 🙆🏻♀️香港語/English/日本語 🙌🏻One day we will meet each other under the port",
 							"url": null,
 							"entities": {
 								"description": {
