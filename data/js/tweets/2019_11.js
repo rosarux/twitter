@@ -1,6 +1,663 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 20 14:28:02 +0000 2019",
+		"id": 1196813585659252700,
+		"id_str": "1197159672685293568",
+		"full_text": "오늘 일본 입헌민주당 공식 홈페이지. \"동성 결혼은 좌우 상관없이 일본이 정말 인권을 존중하는지 여부의 시금석.\" \"입헌민주당은 다양성을 원동력으로 강한 사회를 만들고 싶다. 지난 6월 동성 결혼을 인정하는 법안을 사민당, 공산당과 함께 국회에 제출했다. 그 실현을 위해 노력하겠다.\" https://t.co/dLPr2KES8W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196813575353852000,
+					"id_str": "1196813575353851906",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EJvvmxVU4AIIa5-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJvvmxVU4AIIa5-.jpg",
+					"url": "https://t.co/dLPr2KES8W",
+					"display_url": "pic.twitter.com/dLPr2KES8W",
+					"expanded_url": "https://twitter.com/jongwon1917/status/1196813585659252737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1194,
+							"h": 859,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1194,
+							"h": 859,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196813575353852000,
+					"id_str": "1196813575353851906",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EJvvmxVU4AIIa5-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJvvmxVU4AIIa5-.jpg",
+					"url": "https://t.co/dLPr2KES8W",
+					"display_url": "pic.twitter.com/dLPr2KES8W",
+					"expanded_url": "https://twitter.com/jongwon1917/status/1196813585659252737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1194,
+							"h": 859,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 489,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1194,
+							"h": 859,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 835741294798368800,
+			"id_str": "835741294798368769",
+			"name": "입헌민주당원 나보코프",
+			"screen_name": "jongwon1917",
+			"location": "Петроград",
+			"description": "Умение и труд на благо Родине",
+			"url": "https://t.co/ibqjGURuYe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ibqjGURuYe",
+							"expanded_url": "https://cdp-japan.jp/",
+							"display_url": "cdp-japan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3093,
+			"friends_count": 1261,
+			"listed_count": 40,
+			"created_at": "Sun Feb 26 06:40:26 +0000 2017",
+			"favourites_count": 70687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/961163013687361536/cgscqgD__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/961163013687361536/cgscqgD__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/835741294798368769/1525438850",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 일본 입헌민주당 공식 홈페이지. \"동성 결혼은 좌우 상관없이 일본이 정말 인권을 존중하는지 여부의 시금석.\" \"입헌민주당은 다양성을 원동력으로 강한 사회를 만들고 싶다. 지난 6월 동성 결혼을 인정하는 법안을 사민당, 공산당과 함께 국회에 제출했다. 그 실현을 위해 노력하겠다.\" https://t.co/dLPr2KES8W"
+	},
+	{
+		"created_at": "Wed Nov 20 14:26:57 +0000 2019",
+		"id": 1196765957328228400,
+		"id_str": "1197159399187304448",
+		"full_text": "11월 2일 코치현민연합궐기대회에 참석한 나카무라 키시로 중의원 의원(이바라키 7구・14선)의 인삿말. 과거 자민당의 유력 총리 후보로 꼽혔던 보수계 원로 정치인인 그가, 어째서 이번 코치현 지사 선거에서 야당통일후보인 공산당 소속의 마츠모토 켄지 후보를 지지하고 있는지 알 수 있습니다. https://t.co/udrFAD1qXI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/udrFAD1qXI",
+					"expanded_url": "https://twitter.com/sangituyama/status/1196057896175357952",
+					"display_url": "twitter.com/sangituyama/st…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1041556613960626200,
+			"id_str": "1041556613960626176",
+			"name": "みやさか🌈",
+			"screen_name": "miyasaka05",
+			"location": "Tokyo-to, Japan",
+			"description": "パラダイムシフト",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115,
+			"friends_count": 167,
+			"listed_count": 0,
+			"created_at": "Mon Sep 17 05:17:02 +0000 2018",
+			"favourites_count": 1421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1160404114032881664/Dsq7WSUZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1160404114032881664/Dsq7WSUZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1041556613960626176/1565496140",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1196057896175358000,
+		"quoted_status_id_str": "1196057896175357952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/udrFAD1qXI",
+			"expanded": "https://twitter.com/sangituyama/status/1196057896175357952",
+			"display": "twitter.com/sangituyama/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 17 13:29:58 +0000 2019",
+			"id": 1196057896175358000,
+			"id_str": "1196057896175357952",
+			"full_text": "１１月２日の高知県民連合決起集会での中村喜四郎衆議院議員（元建設大臣）のあいさつ要旨\n\nなぜ保守の私がここに来たか（連投） https://t.co/6nCQkeqAXl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				61
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6nCQkeqAXl",
+						"expanded_url": "https://twitter.com/jcpkochi/status/1190581447440003075",
+						"display_url": "twitter.com/jcpkochi/statu…",
+						"indices": [
+							62,
+							85
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 729083502,
+				"id_str": "729083502",
+				"name": "こたつぬこ",
+				"screen_name": "sangituyama",
+				"location": "",
+				"description": "木下ちがやのアカウント 著書:『「社会を変えよう」といわれたら』(大月書店:2019)。『ポピュリズムと「民意」の政治学 : 3・11以後の民主主義』 (大月書店:2017)。『国家と治安ーアメリカ治安法制と自由の歴史』(青土社:2015)。翻訳:D.ハーヴェイ『新自由主義』J.ヤング『後期近代の眩暈』など。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30066,
+				"friends_count": 1352,
+				"listed_count": 842,
+				"created_at": "Tue Jul 31 19:39:51 +0000 2012",
+				"favourites_count": 20566,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 129541,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1088713667040792576/-FOFWbkp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088713667040792576/-FOFWbkp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/729083502/1547872232",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1190581447440003000,
+			"quoted_status_id_str": "1190581447440003075",
+			"quoted_status_permalink": {
+				"url": "https://t.co/6nCQkeqAXl",
+				"expanded": "https://twitter.com/jcpkochi/status/1190581447440003075",
+				"display": "twitter.com/jcpkochi/statu…"
+			},
+			"retweet_count": 688,
+			"favorite_count": 859,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 15,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "11월 2일 코치현민연합궐기대회에 참석한 나카무라 키시로 중의원 의원(이바라키 7구・14선)의 인삿말. 과거 자민당의 유력 총리 후보로 꼽혔던 보수계 원로 정치인인 그가, 어째서 이번 코치현 지사 선거에서 야당통일후보인 공산당 소속의 마츠모토 켄지 후보를 지지하고 있는지 알 수 있습니다. https://t.co/udrFAD1qXI"
+	},
+	{
+		"created_at": "Wed Nov 20 12:14:04 +0000 2019",
+		"id": 1196946617460375600,
+		"id_str": "1197125959498907649",
+		"full_text": "사회적 합의란 적대적 혐오자들에 대한 대면 설득 같은 게 아님. 82년생 김지영 책을 천만부를 사고 영화가 350만명을 찍는 거 그런게 사회적 합의임.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1698407180,
+			"id_str": "1698407180",
+			"name": "rtspmd 🎗_民主香港加油🇭🇰",
+			"screen_name": "_4835979",
+			"location": "",
+			"description": "民主香港加油🇭🇰",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 879,
+			"friends_count": 176,
+			"listed_count": 19,
+			"created_at": "Sun Aug 25 07:03:38 +0000 2013",
+			"favourites_count": 1629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34752,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028301106084896768/nj1Vs9FY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028301106084896768/nj1Vs9FY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1698407180/1560570435",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사회적 합의란 적대적 혐오자들에 대한 대면 설득 같은 게 아님. 82년생 김지영 책을 천만부를 사고 영화가 350만명을 찍는 거 그런게 사회적 합의임."
+	},
+	{
+		"created_at": "Wed Nov 20 12:09:22 +0000 2019",
+		"id": 1197091134683541500,
+		"id_str": "1197124776126337024",
+		"full_text": "홍콩 시민들의 투쟁에 관심을 기울이고 응원하는 건 그들이 잘 살기를 바라서지 죽어서 영웅이 되기를 바라서가 아니다. ‘살아남는 것’ 강조하는 건 기회주의자의 특징.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1163,
+			"friends_count": 354,
+			"listed_count": 27,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "홍콩 시민들의 투쟁에 관심을 기울이고 응원하는 건 그들이 잘 살기를 바라서지 죽어서 영웅이 되기를 바라서가 아니다. ‘살아남는 것’ 강조하는 건 기회주의자의 특징."
+	},
+	{
+		"created_at": "Wed Nov 20 12:09:03 +0000 2019",
+		"id": 1197021120584568800,
+		"id_str": "1197124696229081088",
+		"full_text": "국민투표를 한다고 생각해보자. 과연 법제화가 통과되겠는가? 이런 상황에서 어느 정치인이 법제화를 위해 나서겠는가? 대중을 설득하는 작업이 무엇보다 중요한 이유. 국민투표로 통과되고도 법제화까지 우여곡절을 겪은 대만을 생각해봐도, 간단치 않음을 알 수 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1197016725528567800,
+		"in_reply_to_status_id_str": "1197016725528567808",
+		"in_reply_to_user_id": 133255001,
+		"in_reply_to_user_id_str": "133255001",
+		"in_reply_to_screen_name": "TorSean",
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1163,
+			"friends_count": 354,
+			"listed_count": 27,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "국민투표를 한다고 생각해보자. 과연 법제화가 통과되겠는가? 이런 상황에서 어느 정치인이 법제화를 위해 나서겠는가? 대중을 설득하는 작업이 무엇보다 중요한 이유. 국민투표로 통과되고도 법제화까지 우여곡절을 겪은 대만을 생각해봐도, 간단치 않음을 알 수 있다."
+	},
+	{
 		"created_at": "Tue Nov 19 23:17:18 +0000 2019",
 		"id": 1196786097218609200,
 		"id_str": "1196930478940418048",
