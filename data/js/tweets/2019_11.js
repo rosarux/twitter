@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 21 23:00:56 +0000 2019",
+		"id": 1197482835528966100,
+		"id_str": "1197651132987785216",
+		"full_text": "反抗のない市民の足を警棒で殴り続けた。\nやめたのは同僚に止められたから。 https://t.co/hSjbY5zXnj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hSjbY5zXnj",
+					"expanded_url": "https://twitter.com/kodenol/status/1197478379810885632",
+					"display_url": "twitter.com/kodenol/status…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1168154551213363200,
+			"id_str": "1168154551213363201",
+			"name": "hklemontea",
+			"screen_name": "hklemontea",
+			"location": "",
+			"description": "香港人🇭🇰主に動画翻訳。#願榮光歸香港 #GlorytoHongKong #香港に栄光あれ 👇👇",
+			"url": "https://t.co/njvscnA3Vl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/njvscnA3Vl",
+							"expanded_url": "https://twitter.com/hklemontea/status/1171820120290680832?s=21",
+							"display_url": "twitter.com/hklemontea/sta…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2913,
+			"friends_count": 14,
+			"listed_count": 39,
+			"created_at": "Sun Sep 01 13:32:20 +0000 2019",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168155552083374081/hj95beCk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168155552083374081/hj95beCk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1168154551213363201/1573569955",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1197478379810885600,
+		"quoted_status_id_str": "1197478379810885632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hSjbY5zXnj",
+			"expanded": "https://twitter.com/kodenol/status/1197478379810885632",
+			"display": "twitter.com/kodenol/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 21 11:34:28 +0000 2019",
+			"id": 1197478379810885600,
+			"id_str": "1197478379810885632",
+			"full_text": "Watching some more footage of the Yau Ma Tei stampede because I'm cool like that and came across this.\n\nthem: we use great restraint when dealing with violent rioters\nalso them:\n\n#hongkong #hongkongprotests #policebrutality https://t.co/AiaNJX9lmS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "hongkong",
+						"indices": [
+							179,
+							188
+						]
+					},
+					{
+						"text": "hongkongprotests",
+						"indices": [
+							189,
+							206
+						]
+					},
+					{
+						"text": "policebrutality",
+						"indices": [
+							207,
+							223
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1197478220951621600,
+						"id_str": "1197478220951621632",
+						"indices": [
+							224,
+							247
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1197478220951621632/pu/img/CDG1CzNvuapsULTx.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1197478220951621632/pu/img/CDG1CzNvuapsULTx.jpg",
+						"url": "https://t.co/AiaNJX9lmS",
+						"display_url": "pic.twitter.com/AiaNJX9lmS",
+						"expanded_url": "https://twitter.com/kodenol/status/1197478379810885632/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1197478220951621600,
+						"id_str": "1197478220951621632",
+						"indices": [
+							224,
+							247
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1197478220951621632/pu/img/CDG1CzNvuapsULTx.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1197478220951621632/pu/img/CDG1CzNvuapsULTx.jpg",
+						"url": "https://t.co/AiaNJX9lmS",
+						"display_url": "pic.twitter.com/AiaNJX9lmS",
+						"expanded_url": "https://twitter.com/kodenol/status/1197478379810885632/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								427,
+								240
+							],
+							"duration_millis": 12600,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1197478220951621632/pu/vid/640x360/diRMNeueX4vw3PIn.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1197478220951621632/pu/pl/n_uCAbXr_nLVvIAM.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1197478220951621632/pu/vid/854x480/c59sGKzQUgRx1Yy7.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1197478220951621632/pu/vid/480x270/vEgTAYWZ_z_5H127.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7661332,
+				"id_str": "7661332",
+				"name": "Otto Poon's Illegal Erection",
+				"screen_name": "kodenol",
+				"location": "",
+				"description": "I am a butcher. Cut the chicken.",
+				"url": "https://t.co/afTKjN5iCt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/afTKjN5iCt",
+								"expanded_url": "https://www.youtube.com/channel/UCzLKAy5MUMqLSiMM8KvsDog/",
+								"display_url": "youtube.com/channel/UCzLKA…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 381,
+				"friends_count": 45,
+				"listed_count": 19,
+				"created_at": "Mon Jul 23 15:38:17 +0000 2007",
+				"favourites_count": 300,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1384,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1170274104659914754/RwOlBglj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170274104659914754/RwOlBglj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7661332/1572560132",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1957,
+			"favorite_count": 1656,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 282,
+		"favorite_count": 205,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "反抗のない市民の足を警棒で殴り続けた。\nやめたのは同僚に止められたから。 https://t.co/hSjbY5zXnj"
+	},
+	{
 		"created_at": "Wed Nov 20 14:28:02 +0000 2019",
 		"id": 1196813585659252700,
 		"id_str": "1197159672685293568",
