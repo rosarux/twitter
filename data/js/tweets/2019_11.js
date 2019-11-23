@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 22 21:48:57 +0000 2019",
+		"id": 1197878395192791000,
+		"id_str": "1197995406191296512",
+		"full_text": "“뉴욕타임스에 따르면 구글은 지난달 반노조 컨설팅 업체인 IRI컨설트와 계약을 맺었다. IRI는 기업 경영진에 노동자들의 노동조합 설립시도를 분쇄하는 방법을 자문하는 기업이다.”\n\n남한에서 ‘혁신’의 상징 중 하나인 구글이 실제로 운영되는 방식 중 하나. \n\nhttps://t.co/RvduLlVpNU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RvduLlVpNU",
+					"expanded_url": "http://m.khan.co.kr/view.html?art_id=201911211719001",
+					"display_url": "m.khan.co.kr/view.html?art_…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 149830678,
+			"id_str": "149830678",
+			"name": "lux securitatis",
+			"screen_name": "luxsecuritatis",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Bta4X9o7OC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bta4X9o7OC",
+							"expanded_url": "https://blogluxsecuritatis.wordpress.com",
+							"display_url": "blogluxsecuritatis.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2396,
+			"friends_count": 584,
+			"listed_count": 43,
+			"created_at": "Sun May 30 10:06:22 +0000 2010",
+			"favourites_count": 32674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/856036743178354688/B4p_M38v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/856036743178354688/B4p_M38v_normal.jpg",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 230,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "“뉴욕타임스에 따르면 구글은 지난달 반노조 컨설팅 업체인 IRI컨설트와 계약을 맺었다. IRI는 기업 경영진에 노동자들의 노동조합 설립시도를 분쇄하는 방법을 자문하는 기업이다.”\n\n남한에서 ‘혁신’의 상징 중 하나인 구글이 실제로 운영되는 방식 중 하나. \n\nhttps://t.co/RvduLlVpNU"
+	},
+	{
+		"created_at": "Fri Nov 22 12:33:08 +0000 2019",
+		"id": 1197655687729315800,
+		"id_str": "1197855529659355136",
+		"full_text": "The best meme I’ve seen today. https://t.co/AHgQqc8OUw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1197655684151570400,
+					"id_str": "1197655684151570432",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ7tf9EU8AA9n3x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ7tf9EU8AA9n3x.jpg",
+					"url": "https://t.co/AHgQqc8OUw",
+					"display_url": "pic.twitter.com/AHgQqc8OUw",
+					"expanded_url": "https://twitter.com/transb0rder/status/1197655687729315840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 562,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 562,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 398,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197655684151570400,
+					"id_str": "1197655684151570432",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ7tf9EU8AA9n3x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ7tf9EU8AA9n3x.jpg",
+					"url": "https://t.co/AHgQqc8OUw",
+					"display_url": "pic.twitter.com/AHgQqc8OUw",
+					"expanded_url": "https://twitter.com/transb0rder/status/1197655687729315840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 562,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 562,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 398,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 929811975642628100,
+			"id_str": "929811975642628096",
+			"name": "Estefanía C.P.",
+			"screen_name": "transb0rder",
+			"location": "LA-TJ-Always crossing borders",
+			"description": "#Transfronteriza Ph.D. Candidate @polisciucla researching [and regularly crossing] borders, asylum policy, and state violence. Cat lady. @NSF + @NASEMFordFellow",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1335,
+			"friends_count": 786,
+			"listed_count": 11,
+			"created_at": "Sun Nov 12 20:43:44 +0000 2017",
+			"favourites_count": 7827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1188210635957342208/yZeyz3IK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188210635957342208/yZeyz3IK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/929811975642628096/1564583890",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1495,
+		"favorite_count": 5131,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The best meme I’ve seen today. https://t.co/AHgQqc8OUw"
+	},
+	{
+		"created_at": "Fri Nov 22 11:45:29 +0000 2019",
+		"id": 1197842461898358800,
+		"id_str": "1197843540937596928",
+		"full_text": "그 분과 방금 통화 했는데 역시 트갈량들은 그냥 계속 굶어라. 너희는 현실 세계에 발 디딘 부분이 트위터 뿐이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1197818522849570800,
+		"in_reply_to_status_id_str": "1197818522849570816",
+		"in_reply_to_user_id": 254293448,
+		"in_reply_to_user_id_str": "254293448",
+		"in_reply_to_screen_name": "anzinne",
+		"user": {
+			"id": 254293448,
+			"id_str": "254293448",
+			"name": "Ан",
+			"screen_name": "anzinne",
+			"location": "",
+			"description": "당분간 쉽니다. От розы увядшей остается лишь имя её… 지난날의 장미는 이제 그 이름 뿐",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9821,
+			"friends_count": 5886,
+			"listed_count": 160,
+			"created_at": "Sat Feb 19 00:59:45 +0000 2011",
+			"favourites_count": 61014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 130306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908958121132879873/V85U5GdD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908958121132879873/V85U5GdD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/254293448/1370309644",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그 분과 방금 통화 했는데 역시 트갈량들은 그냥 계속 굶어라. 너희는 현실 세계에 발 디딘 부분이 트위터 뿐이다."
+	},
+	{
 		"created_at": "Thu Nov 21 23:00:56 +0000 2019",
 		"id": 1197482835528966100,
 		"id_str": "1197651132987785216",
