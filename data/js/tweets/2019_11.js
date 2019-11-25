@@ -1,6 +1,1119 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 24 14:15:00 +0000 2019",
+		"id": 1198542714528137200,
+		"id_str": "1198605941605720069",
+		"full_text": "불필요했던 기싸움이라니\n애당초 일본이 외교를 국내정치에 이용해먹다가 이지경 까지 왔는데 만약 지소미아를 비롯한 미국과관련된카드를 사용하지 않았다면 미국이 개입하는 일 자체가 없었을것. 지소미아카드가 나오기전까지 미국이 꿈쩍안했다는건 다들 잊으신듯",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 81994673,
+			"id_str": "81994673",
+			"name": "합리적BOSU주의자 175",
+			"screen_name": "seventeeeeeenth",
+			"location": "boobs.oppai.가슴",
+			"description": "합리적 보수주의에 입각한 세계 경제동향파악과 경제적 인싸이트를 기르고 있습니다",
+			"url": "https://t.co/FA1H8H92Qw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FA1H8H92Qw",
+							"expanded_url": "http://ask.fm/seventeeeeeenth",
+							"display_url": "ask.fm/seventeeeeeenth",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2450,
+			"friends_count": 987,
+			"listed_count": 57,
+			"created_at": "Tue Oct 13 02:49:55 +0000 2009",
+			"favourites_count": 12200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 142650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113268273049534464/eC0tTEXZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113268273049534464/eC0tTEXZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/81994673/1427901868",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "불필요했던 기싸움이라니\n애당초 일본이 외교를 국내정치에 이용해먹다가 이지경 까지 왔는데 만약 지소미아를 비롯한 미국과관련된카드를 사용하지 않았다면 미국이 개입하는 일 자체가 없었을것. 지소미아카드가 나오기전까지 미국이 꿈쩍안했다는건 다들 잊으신듯"
+	},
+	{
+		"created_at": "Sun Nov 24 12:29:48 +0000 2019",
+		"id": 1198579470531096600,
+		"id_str": "1198579470531096577",
+		"full_text": "전에도 한번 말했지만 유뮤죄 판단이랑 형량 결정은 AI가 하고 판사는 그에 맞게 판결문이나 쓰게 하자",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 566,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "전에도 한번 말했지만 유뮤죄 판단이랑 형량 결정은 AI가 하고 판사는 그에 맞게 판결문이나 쓰게 하자"
+	},
+	{
+		"created_at": "Sun Nov 24 12:09:06 +0000 2019",
+		"id": 1198559180556140500,
+		"id_str": "1198574258005274626",
+		"full_text": "사법부가 항상 대중이 납득하지 못하는 판결내릴때마다 '포퓰리즘으로 판결할 수 없다'고 이야기하는데 지금와서 생각드는건 왜 지들이 양형 낮게 주는건 왜 대부분이 권력형(tk)범죄거나 남성 성범죄인가 싶다. 한두번이면 몰라도 이쯤되면 판사출신이나 현직들 쉴드치지말고 좀 들이박아야",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 824126205712601100,
+			"id_str": "824126205712601088",
+			"name": "김준수",
+			"screen_name": "kjs333011",
+			"location": "",
+			"description": "트잉여. 월급루팡. 구파발행을 몹시 저주하는 고양시민.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1023,
+			"friends_count": 193,
+			"listed_count": 12,
+			"created_at": "Wed Jan 25 05:26:13 +0000 2017",
+			"favourites_count": 1445,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824127682002685953/Nd_V8aBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824127682002685953/Nd_V8aBi_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 456,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사법부가 항상 대중이 납득하지 못하는 판결내릴때마다 '포퓰리즘으로 판결할 수 없다'고 이야기하는데 지금와서 생각드는건 왜 지들이 양형 낮게 주는건 왜 대부분이 권력형(tk)범죄거나 남성 성범죄인가 싶다. 한두번이면 몰라도 이쯤되면 판사출신이나 현직들 쉴드치지말고 좀 들이박아야"
+	},
+	{
+		"created_at": "Sun Nov 24 10:16:24 +0000 2019",
+		"id": 1198452670878515200,
+		"id_str": "1198545898105528321",
+		"full_text": "元特攻90代兄弟が「最後の証言」 時代に迎合を悔恨「なぜ死ぬ覚悟で戦争に反対しなかったか」 https://t.co/bywIFwyIZr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bywIFwyIZr",
+					"expanded_url": "http://a.msn.com/01/ja-jp/BBX9aiy?ocid=st",
+					"display_url": "a.msn.com/01/ja-jp/BBX9a…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 298011968,
+			"id_str": "298011968",
+			"name": "Lulue",
+			"screen_name": "Lulue3",
+			"location": "",
+			"description": "北海道在住の野良人。情報共有関連用のアカウント。Luluedia(Mick Karn氏用)、LulueTriellis(セカンドライフ・平沢関係等用)と同一人物。大量リツイート有。商業宣伝フォロー、ボット等は基本的にブロックします。御不快ならブロックを。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197,
+			"friends_count": 143,
+			"listed_count": 5,
+			"created_at": "Fri May 13 14:20:39 +0000 2011",
+			"favourites_count": 5302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 49739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/544499031473274881/nee2bl23_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/544499031473274881/nee2bl23_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/298011968/1526049524",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "元特攻90代兄弟が「最後の証言」 時代に迎合を悔恨「なぜ死ぬ覚悟で戦争に反対しなかったか」 https://t.co/bywIFwyIZr"
+	},
+	{
+		"created_at": "Sun Nov 24 09:53:06 +0000 2019",
+		"id": 1198534542627262500,
+		"id_str": "1198540032077787136",
+		"full_text": "개인적으로 지인들이 의견을 물을 경우, 나는 굳이 의미를 찾는다면 \"눈싸움에서 먼저 눈을 깜빡인\" 정도의 상황이다 정도로 말해 주고 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 262353521,
+			"id_str": "262353521",
+			"name": "sonnet",
+			"screen_name": "quarantineSta",
+			"location": "Seoul, ROK",
+			"description": "이전에 나는 죄가 있기 때문에 사형을 당하거나 감옥에 갇히는 것이라고 생각했다. 그러나 이제는 먼저 누군가에게 ‘괘씸하다’는 판정을 받게 된 연후에 죄를 얻게 되는 것임을 알게 되었다. - 루쉰(魯迅), 「괘씸죄」-",
+			"url": "http://t.co/jHtektmz9j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jHtektmz9j",
+							"expanded_url": "http://sonnet.egloos.com/",
+							"display_url": "sonnet.egloos.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3929,
+			"friends_count": 268,
+			"listed_count": 124,
+			"created_at": "Mon Mar 07 22:03:27 +0000 2011",
+			"favourites_count": 856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1401335216/hm100px_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401335216/hm100px_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/262353521/1398770126",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "개인적으로 지인들이 의견을 물을 경우, 나는 굳이 의미를 찾는다면 \"눈싸움에서 먼저 눈을 깜빡인\" 정도의 상황이다 정도로 말해 주고 있다."
+	},
+	{
+		"created_at": "Sun Nov 24 08:12:20 +0000 2019",
+		"id": 1198470614211690500,
+		"id_str": "1198514674368577536",
+		"full_text": "밑바닥 임금을 끌어올리고 근로시간을 줄여서 실질임금치를 높이는 방향성이 중요하고 필요한 정책이라는게 시간이 지나면서 더욱 더 사실로 드러나는데, 추진력은 잃어가는게 문제...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 197488852,
+			"id_str": "197488852",
+			"name": "🇭🇰香港加油😷",
+			"screen_name": "Soleratido",
+			"location": "Yulara, NT, Australia",
+			"description": "※ 우울감 등 말하기 어려운 고민으로 전문가의 도움이 필요하면 자살예방상담전화 1393, 생명의 전화 1588-9191, 청소년 전화 1388 등에 전화하시거나 보건소나 상담기관을 방문하세요. 상담을 받으실 수 있습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1303,
+			"friends_count": 397,
+			"listed_count": 56,
+			"created_at": "Fri Oct 01 16:51:45 +0000 2010",
+			"favourites_count": 2506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 359114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198486157207597058/7TYa9zQO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198486157207597058/7TYa9zQO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197488852/1569754624",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "밑바닥 임금을 끌어올리고 근로시간을 줄여서 실질임금치를 높이는 방향성이 중요하고 필요한 정책이라는게 시간이 지나면서 더욱 더 사실로 드러나는데, 추진력은 잃어가는게 문제..."
+	},
+	{
+		"created_at": "Sun Nov 24 05:22:45 +0000 2019",
+		"id": 1198420086115074000,
+		"id_str": "1198471998122283008",
+		"full_text": "As of 9:15 am Sunday, the line waiting to vote outside a polling station in Fortress Hill has stretched for more than 300 meters. It’s so long that I couldn’t even capture the whole queue in this time-lapse video. #HongKong #HongKongElection https://t.co/yXIR4KjuwJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HongKong",
+					"indices": [
+						214,
+						223
+					]
+				},
+				{
+					"text": "HongKongElection",
+					"indices": [
+						224,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198418897176645600,
+					"id_str": "1198418897176645632",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198418897176645632/pu/img/PEzTBls_Ldum4F7y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198418897176645632/pu/img/PEzTBls_Ldum4F7y.jpg",
+					"url": "https://t.co/yXIR4KjuwJ",
+					"display_url": "pic.twitter.com/yXIR4KjuwJ",
+					"expanded_url": "https://twitter.com/joyuwang/status/1198420086115074048/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198418897176645600,
+					"id_str": "1198418897176645632",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1198418897176645632/pu/img/PEzTBls_Ldum4F7y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1198418897176645632/pu/img/PEzTBls_Ldum4F7y.jpg",
+					"url": "https://t.co/yXIR4KjuwJ",
+					"display_url": "pic.twitter.com/yXIR4KjuwJ",
+					"expanded_url": "https://twitter.com/joyuwang/status/1198420086115074048/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 19067,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198418897176645632/pu/vid/480x270/MYeCOmyYKMEqVkb-.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198418897176645632/pu/vid/640x360/B0F4Gxfid99SQQ36.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1198418897176645632/pu/vid/1280x720/N02j6cJwTyQcuhnV.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1198418897176645632/pu/pl/csSH0yz9y8H09Gel.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 149002880,
+			"id_str": "149002880",
+			"name": "Joyu Wang",
+			"screen_name": "joyuwang",
+			"location": "Hong Kong",
+			"description": "Social media editor at @WSJ. #Mizzou Journalism alumna. Made in Taiwan. Also on the drums. 中文推特 👉🏻 @wangjoyu",
+			"url": "https://t.co/GhhR6PLfem",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GhhR6PLfem",
+							"expanded_url": "http://wsj.com",
+							"display_url": "wsj.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3274,
+			"friends_count": 769,
+			"listed_count": 125,
+			"created_at": "Fri May 28 04:42:57 +0000 2010",
+			"favourites_count": 1078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988308538307981312/mLmob4gK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988308538307981312/mLmob4gK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/149002880/1524452456",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1282,
+		"favorite_count": 2255,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As of 9:15 am Sunday, the line waiting to vote outside a polling station in Fortress Hill has stretched for more than 300 meters. It’s so long that I couldn’t even capture the whole queue in this time-lapse video. #HongKong #HongKongElection https://t.co/yXIR4KjuwJ"
+	},
+	{
+		"created_at": "Sun Nov 24 04:28:30 +0000 2019",
+		"id": 1198191858771361800,
+		"id_str": "1198458347415953409",
+		"full_text": "보통 한일 갈등이 생기면 서구 언론은 한국이 민족주의 국가라며 일본 편을 들든지 보통 외면을 함. 이번엔 (동맹관리를 못한) 트럼프를 까면서 일본의 정보망 구멍이 심각하다는 얘기를 함 (깜놀)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1198190623074877400,
+		"in_reply_to_status_id_str": "1198190623074877440",
+		"in_reply_to_user_id": 1698407180,
+		"in_reply_to_user_id_str": "1698407180",
+		"in_reply_to_screen_name": "_4835979",
+		"user": {
+			"id": 1698407180,
+			"id_str": "1698407180",
+			"name": "rtspmd 🎗_民主香港加油🇭🇰",
+			"screen_name": "_4835979",
+			"location": "",
+			"description": "民主香港加油🇭🇰",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 889,
+			"friends_count": 176,
+			"listed_count": 18,
+			"created_at": "Sun Aug 25 07:03:38 +0000 2013",
+			"favourites_count": 1636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1028301106084896768/nj1Vs9FY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028301106084896768/nj1Vs9FY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1698407180/1560570435",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "보통 한일 갈등이 생기면 서구 언론은 한국이 민족주의 국가라며 일본 편을 들든지 보통 외면을 함. 이번엔 (동맹관리를 못한) 트럼프를 까면서 일본의 정보망 구멍이 심각하다는 얘기를 함 (깜놀)"
+	},
+	{
+		"created_at": "Sun Nov 24 04:26:22 +0000 2019",
+		"id": 1197874311232708600,
+		"id_str": "1198457809861398528",
+		"full_text": "싱가폴은 영어가 공용어에 나라 자체가 조세도피처 컨셉이고 도쿄는 경제력 3위 국가의 수도죠... 한국이 굳이 이런 데 열등감 느끼기보다는 제조업이나 잘 하는 게 나을 듯 https://t.co/VUzmvupP1E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VUzmvupP1E",
+					"expanded_url": "https://twitter.com/cnookie/status/1197871998199717888",
+					"display_url": "twitter.com/cnookie/status…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113328790,
+			"id_str": "113328790",
+			"name": "Mafinacc",
+			"screen_name": "Mafinacc",
+			"location": "A-Town",
+			"description": "When my information changes, I alter my conclusions. What do you do, sir? \n- John Maynard Keynes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1476,
+			"friends_count": 297,
+			"listed_count": 44,
+			"created_at": "Thu Feb 11 12:08:47 +0000 2010",
+			"favourites_count": 759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 210715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130244817349500930/VitopnON_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130244817349500930/VitopnON_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113328790/1477667884",
+			"profile_link_color": "921110",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7142eb97ae21e839",
+			"url": "https://api.twitter.com/1.1/geo/id/7142eb97ae21e839.json",
+			"place_type": "admin",
+			"name": "Georgia",
+			"full_name": "Georgia, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-85.605166,
+							30.355644
+						],
+						[
+							-80.742567,
+							30.355644
+						],
+						[
+							-80.742567,
+							35.000771
+						],
+						[
+							-85.605166,
+							35.000771
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1197871998199718000,
+		"quoted_status_id_str": "1197871998199717888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VUzmvupP1E",
+			"expanded": "https://twitter.com/cnookie/status/1197871998199717888",
+			"display": "twitter.com/cnookie/status…"
+		},
+		"retweet_count": 121,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "싱가폴은 영어가 공용어에 나라 자체가 조세도피처 컨셉이고 도쿄는 경제력 3위 국가의 수도죠... 한국이 굳이 이런 데 열등감 느끼기보다는 제조업이나 잘 하는 게 나을 듯 https://t.co/VUzmvupP1E"
+	},
+	{
+		"created_at": "Sun Nov 24 04:13:19 +0000 2019",
+		"id": 1198438419938054100,
+		"id_str": "1198454524010102785",
+		"full_text": "다른 분들이 비도덕적이며 유능하다고 예를 들고 있는 사람들에 대해서 전혀 공감 못하고 있다. 그 사람들 다 무능한거 아니었나요...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1198208358983098400,
+		"in_reply_to_status_id_str": "1198208358983098368",
+		"in_reply_to_user_id": 53305769,
+		"in_reply_to_user_id_str": "53305769",
+		"in_reply_to_screen_name": "shinhh",
+		"user": {
+			"id": 53305769,
+			"id_str": "53305769",
+			"name": "Hyunho Shin",
+			"screen_name": "shinhh",
+			"location": "New York, USA",
+			"description": "\"If this isn't nice, what is?” 원고문의: hyunho.shin@outlook.com",
+			"url": "https://t.co/LSaoU0hHJp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LSaoU0hHJp",
+							"expanded_url": "https://peing.net/ko/shinhh?event=0h",
+							"display_url": "peing.net/ko/shinhh?even…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21270,
+			"friends_count": 613,
+			"listed_count": 200,
+			"created_at": "Fri Jul 03 05:35:31 +0000 2009",
+			"favourites_count": 17561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53305769/1401459717",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "206c436ce43a43a3",
+			"url": "https://api.twitter.com/1.1/geo/id/206c436ce43a43a3.json",
+			"place_type": "city",
+			"name": "Madrid",
+			"full_name": "Madrid, España",
+			"country_code": "ES",
+			"country": "España",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-3.8890049,
+							40.3120713
+						],
+						[
+							-3.5180102,
+							40.3120713
+						],
+						[
+							-3.5180102,
+							40.6435181
+						],
+						[
+							-3.8890049,
+							40.6435181
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다른 분들이 비도덕적이며 유능하다고 예를 들고 있는 사람들에 대해서 전혀 공감 못하고 있다. 그 사람들 다 무능한거 아니었나요..."
+	},
+	{
 		"created_at": "Sat Nov 23 22:46:18 +0000 2019",
 		"id": 1198053092958204000,
 		"id_str": "1198372227235770368",
