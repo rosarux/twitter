@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 25 22:25:36 +0000 2019",
+		"id": 1198954655075586000,
+		"id_str": "1199091793599459328",
+		"full_text": "우리가 #홍콩 구의회 선거에서 투표하는 동시 많은 친구들이 투표를 못했다. (P1-2)\n#홍콩시위 #홍콩경찰 https://t.co/Cjuqpyk6F5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍콩",
+					"indices": [
+						4,
+						7
+					]
+				},
+				{
+					"text": "홍콩시위",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "홍콩경찰",
+					"indices": [
+						55,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198954641603453000,
+					"id_str": "1198954641603452928",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOK5OqUYAALEAN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKOK5OqUYAALEAN.jpg",
+					"url": "https://t.co/Cjuqpyk6F5",
+					"display_url": "pic.twitter.com/Cjuqpyk6F5",
+					"expanded_url": "https://twitter.com/AntiELAB__KR/status/1198954655075586054/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198954641603453000,
+					"id_str": "1198954641603452928",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOK5OqUYAALEAN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKOK5OqUYAALEAN.jpg",
+					"url": "https://t.co/Cjuqpyk6F5",
+					"display_url": "pic.twitter.com/Cjuqpyk6F5",
+					"expanded_url": "https://twitter.com/AntiELAB__KR/status/1198954655075586054/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1198954648419238000,
+					"id_str": "1198954648419237891",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOK5oDVAAM2Ba7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKOK5oDVAAM2Ba7.jpg",
+					"url": "https://t.co/Cjuqpyk6F5",
+					"display_url": "pic.twitter.com/Cjuqpyk6F5",
+					"expanded_url": "https://twitter.com/AntiELAB__KR/status/1198954655075586054/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1152981101574418400,
+			"id_str": "1152981101574418432",
+			"name": "ANTI ELAB KR🇭🇰광복홍콩 시대혁명",
+			"screen_name": "AntiELAB__KR",
+			"location": "",
+			"description": "저희랑 같이 홍콩을 지키자🇭🇰🙏🏻정의와 민주를 위하여🔥🔥\n홍콩 사람🇭🇰광동어/영어/한국어 가능합니다💬\n香港手足請多多follow🤙🏻 #FollowBackHongKong\n#AntiELAB #Anti_Totalitarianism #AntiMaskLaw",
+			"url": "https://t.co/8L1QCEa55W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8L1QCEa55W",
+							"expanded_url": "http://instagram.com/antielab_kr",
+							"display_url": "instagram.com/antielab_kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 921,
+			"friends_count": 37,
+			"listed_count": 2,
+			"created_at": "Sun Jul 21 16:38:10 +0000 2019",
+			"favourites_count": 542,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152981985318412288/GT03Hgdj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152981985318412288/GT03Hgdj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1152981101574418432/1574329254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 722,
+		"favorite_count": 257,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리가 #홍콩 구의회 선거에서 투표하는 동시 많은 친구들이 투표를 못했다. (P1-2)\n#홍콩시위 #홍콩경찰 https://t.co/Cjuqpyk6F5"
+	},
+	{
 		"created_at": "Sun Nov 24 14:15:00 +0000 2019",
 		"id": 1198542714528137200,
 		"id_str": "1198605941605720069",
