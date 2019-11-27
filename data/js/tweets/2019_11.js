@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 26 23:26:09 +0000 2019",
+		"id": 1199282469351985200,
+		"id_str": "1199469421556711424",
+		"full_text": "속이 다 시원하네 https://t.co/vvk1zUBzmz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1199282456915894300,
+					"id_str": "1199282456915894273",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/EKS1Cl3UYAEgrmd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKS1Cl3UYAEgrmd.jpg",
+					"url": "https://t.co/vvk1zUBzmz",
+					"display_url": "pic.twitter.com/vvk1zUBzmz",
+					"expanded_url": "https://twitter.com/bluraymp3/status/1199282469351985152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 908,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1903,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 11,
+									"y": 5,
+									"h": 242,
+									"w": 242
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 6,
+									"y": 3,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 9,
+									"h": 384,
+									"w": 384
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 9,
+									"h": 384,
+									"w": 384
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199282456915894300,
+					"id_str": "1199282456915894273",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/EKS1Cl3UYAEgrmd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKS1Cl3UYAEgrmd.jpg",
+					"url": "https://t.co/vvk1zUBzmz",
+					"display_url": "pic.twitter.com/vvk1zUBzmz",
+					"expanded_url": "https://twitter.com/bluraymp3/status/1199282469351985152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 908,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1903,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 11,
+									"y": 5,
+									"h": 242,
+									"w": 242
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 6,
+									"y": 3,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 9,
+									"h": 384,
+									"w": 384
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 18,
+									"y": 9,
+									"h": 384,
+									"w": 384
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 939082055224246300,
+			"id_str": "939082055224246273",
+			"name": "나 혼자 싸거든?!",
+			"screen_name": "bluraymp3",
+			"location": "특별시민",
+			"description": "섹터지는 영상 사진 보이면 미친듯 알티하고 하트누름 \n하지만 도용충은 엿이나 처 드세요 걸리기만 해 아주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11815,
+			"friends_count": 1386,
+			"listed_count": 39,
+			"created_at": "Fri Dec 08 10:39:44 +0000 2017",
+			"favourites_count": 12018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130819695597121538/fL-fx2AS_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130819695597121538/fL-fx2AS_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/939082055224246273/1546773875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 721,
+		"favorite_count": 163,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "속이 다 시원하네 https://t.co/vvk1zUBzmz"
+	},
+	{
 		"created_at": "Mon Nov 25 22:25:36 +0000 2019",
 		"id": 1198954655075586000,
 		"id_str": "1199091793599459328",
