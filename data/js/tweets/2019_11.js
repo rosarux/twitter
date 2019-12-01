@@ -1,6 +1,2162 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 30 13:36:25 +0000 2019",
+		"id": 1200770558775840800,
+		"id_str": "1200770558775840769",
+		"full_text": "유민이 슬라임 ASMR들으면서 잔다 🤔🤔",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 566,
+			"friends_count": 440,
+			"listed_count": 0,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "유민이 슬라임 ASMR들으면서 잔다 🤔🤔"
+	},
+	{
+		"created_at": "Sat Nov 30 13:31:38 +0000 2019",
+		"id": 1200769355782295600,
+		"id_str": "1200769355782295554",
+		"full_text": "류큐를 굳이 유구라 부르는 것도",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 566,
+			"friends_count": 440,
+			"listed_count": 0,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "류큐를 굳이 유구라 부르는 것도"
+	},
+	{
+		"created_at": "Sat Nov 30 13:26:22 +0000 2019",
+		"id": 1200748539451543600,
+		"id_str": "1200768031980310534",
+		"full_text": "前進チャンネル第232回「祝!!中曽根死亡」 https://t.co/pDcaKhPAB6 アップしました。 https://t.co/Lg2JOzeQEW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pDcaKhPAB6",
+					"expanded_url": "https://youtu.be/_oIKkhB4mC0",
+					"display_url": "youtu.be/_oIKkhB4mC0",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1200748516450037800,
+					"id_str": "1200748516450037760",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EKnqafOU8AAGPRH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKnqafOU8AAGPRH.jpg",
+					"url": "https://t.co/Lg2JOzeQEW",
+					"display_url": "pic.twitter.com/Lg2JOzeQEW",
+					"expanded_url": "https://twitter.com/ZenshinC/status/1200748539451543553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 588,
+									"y": 56,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 152,
+									"y": 170,
+									"h": 113,
+									"w": 113
+								},
+								{
+									"x": 443,
+									"y": 172,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 748,
+									"y": 122,
+									"h": 137,
+									"w": 137
+								},
+								{
+									"x": 416,
+									"y": 307,
+									"h": 121,
+									"w": 121
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 588,
+									"y": 56,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 152,
+									"y": 170,
+									"h": 113,
+									"w": 113
+								},
+								{
+									"x": 443,
+									"y": 172,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 748,
+									"y": 122,
+									"h": 137,
+									"w": 137
+								},
+								{
+									"x": 416,
+									"y": 307,
+									"h": 121,
+									"w": 121
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 551,
+									"y": 52,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 142,
+									"y": 159,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 415,
+									"y": 161,
+									"h": 107,
+									"w": 107
+								},
+								{
+									"x": 701,
+									"y": 114,
+									"h": 128,
+									"w": 128
+								},
+								{
+									"x": 390,
+									"y": 287,
+									"h": 113,
+									"w": 113
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 29,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 80,
+									"y": 90,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 235,
+									"y": 91,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 397,
+									"y": 64,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 221,
+									"y": 163,
+									"h": 64,
+									"w": 64
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200748516450037800,
+					"id_str": "1200748516450037760",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EKnqafOU8AAGPRH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKnqafOU8AAGPRH.jpg",
+					"url": "https://t.co/Lg2JOzeQEW",
+					"display_url": "pic.twitter.com/Lg2JOzeQEW",
+					"expanded_url": "https://twitter.com/ZenshinC/status/1200748539451543553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 588,
+									"y": 56,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 152,
+									"y": 170,
+									"h": 113,
+									"w": 113
+								},
+								{
+									"x": 443,
+									"y": 172,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 748,
+									"y": 122,
+									"h": 137,
+									"w": 137
+								},
+								{
+									"x": 416,
+									"y": 307,
+									"h": 121,
+									"w": 121
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 588,
+									"y": 56,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 152,
+									"y": 170,
+									"h": 113,
+									"w": 113
+								},
+								{
+									"x": 443,
+									"y": 172,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 748,
+									"y": 122,
+									"h": 137,
+									"w": 137
+								},
+								{
+									"x": 416,
+									"y": 307,
+									"h": 121,
+									"w": 121
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 551,
+									"y": 52,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 142,
+									"y": 159,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 415,
+									"y": 161,
+									"h": 107,
+									"w": 107
+								},
+								{
+									"x": 701,
+									"y": 114,
+									"h": 128,
+									"w": 128
+								},
+								{
+									"x": 390,
+									"y": 287,
+									"h": 113,
+									"w": 113
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 312,
+									"y": 29,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 80,
+									"y": 90,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 235,
+									"y": 91,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 397,
+									"y": 64,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 221,
+									"y": 163,
+									"h": 64,
+									"w": 64
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 969462008788631600,
+			"id_str": "969462008788631552",
+			"name": "前進チャンネル",
+			"screen_name": "ZenshinC",
+			"location": "👇チャンネル登録お願いします",
+			"description": "YouTubeで中核派の機関紙「前進」(週２回発行)の紙面を紹介しています。Instagramもよろしく！",
+			"url": "https://t.co/ca4HZi46LB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ca4HZi46LB",
+							"expanded_url": "https://m.youtube.com/channel/UCy4QO9DkKIximR3EmIMy0gg",
+							"display_url": "m.youtube.com/channel/UCy4QO…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2260,
+			"friends_count": 1,
+			"listed_count": 58,
+			"created_at": "Fri Mar 02 06:38:49 +0000 2018",
+			"favourites_count": 1663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969463389402554368/LSZHp5aE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969463389402554368/LSZHp5aE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/969462008788631552/1529928810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 526,
+		"favorite_count": 680,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "前進チャンネル第232回「祝!!中曽根死亡」 https://t.co/pDcaKhPAB6 アップしました。 https://t.co/Lg2JOzeQEW"
+	},
+	{
+		"created_at": "Sat Nov 30 11:50:57 +0000 2019",
+		"id": 1200464118806794200,
+		"id_str": "1200744019988402176",
+		"full_text": "파업전야 마지막에서 오마주했던 노마 레이의 '기계를 멈춰 역사를 여는' 장면.\n\n이 이야기는 인간의 역사에 계속 변함없이 반복될 것.\n\n_\nhttps://t.co/yw19R1zgot",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 747442026564575200,
+					"id_str": "747442026564575232",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/747442026564575232/pu/img/p4Yx4lxx4-npjlQz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/747442026564575232/pu/img/p4Yx4lxx4-npjlQz.jpg",
+					"url": "https://t.co/yw19R1zgot",
+					"display_url": "pic.twitter.com/yw19R1zgot",
+					"expanded_url": "http://twitter.com/woochick/status/747443425155244038/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 747443425155244000,
+					"source_status_id_str": "747443425155244038",
+					"source_user_id": 63066773,
+					"source_user_id_str": "63066773",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 747442026564575200,
+					"id_str": "747442026564575232",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/747442026564575232/pu/img/p4Yx4lxx4-npjlQz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/747442026564575232/pu/img/p4Yx4lxx4-npjlQz.jpg",
+					"url": "https://t.co/yw19R1zgot",
+					"display_url": "pic.twitter.com/yw19R1zgot",
+					"expanded_url": "http://twitter.com/woochick/status/747443425155244038/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 424,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 747443425155244000,
+					"source_status_id_str": "747443425155244038",
+					"source_user_id": 63066773,
+					"source_user_id_str": "63066773",
+					"video_info": {
+						"aspect_ratio": [
+							80,
+							53
+						],
+						"duration_millis": 138243,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/747442026564575232/pu/pl/31IOAD6YS8e8xERg.m3u8"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/747442026564575232/pu/vid/270x180/fGrIS8h-JfpsFCP5.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/747442026564575232/pu/vid/542x360/jf0lhpbbAzaL1pGG.mp4"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 63066773,
+							"id_str": "63066773",
+							"name": "춰",
+							"screen_name": "woochick",
+							"location": "덕우주",
+							"description": "부채깎는 노인",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1890,
+							"friends_count": 270,
+							"listed_count": 32,
+							"created_at": "Wed Aug 05 07:45:08 +0000 2009",
+							"favourites_count": 1146,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 41100,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "B6B6B6",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/871310530710953984/tqMYROD2_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/871310530710953984/tqMYROD2_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/63066773/1394723610",
+							"profile_link_color": "FFBB00",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "BF0000",
+							"profile_text_color": "4D3339",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1200461425212186600,
+		"in_reply_to_status_id_str": "1200461425212186624",
+		"in_reply_to_user_id": 895235682834169900,
+		"in_reply_to_user_id_str": "895235682834169856",
+		"in_reply_to_screen_name": "woochick2",
+		"user": {
+			"id": 895235682834169900,
+			"id_str": "895235682834169856",
+			"name": "춰",
+			"screen_name": "woochick2",
+			"location": "",
+			"description": "부채깎는 노인",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 256,
+			"listed_count": 3,
+			"created_at": "Wed Aug 09 10:49:54 +0000 2017",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184036494404534273/yfputwA-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184036494404534273/yfputwA-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/895235682834169856/1571131275",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 389,
+		"favorite_count": 248,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "파업전야 마지막에서 오마주했던 노마 레이의 '기계를 멈춰 역사를 여는' 장면.\n\n이 이야기는 인간의 역사에 계속 변함없이 반복될 것.\n\n_\nhttps://t.co/yw19R1zgot"
+	},
+	{
+		"created_at": "Sat Nov 30 11:50:15 +0000 2019",
+		"id": 1200461425212186600,
+		"id_str": "1200743841680089089",
+		"full_text": "참 오래살고 볼 일. &lt;파업전야&gt;를 KBS에서 보는 날이 올거라고는 생각도 못했다.\n\n상영만 해도 전투경찰이 대학교를 박살내버렸던 영화.\n\n홍대에선 본관 16층에서 상영했고 전경 수백명이 쳐들어왔지만 층마다 깔아놓은 화염병 박스에 겁에 질려 결국 끝까지 상영에 성공한 그 시절의 독립 영화.\n\n_ https://t.co/yr5YUkyj65",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1200461411719114800,
+					"id_str": "1200461411719114752",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EKjlSywU8AA4HEf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKjlSywU8AA4HEf.jpg",
+					"url": "https://t.co/yr5YUkyj65",
+					"display_url": "pic.twitter.com/yr5YUkyj65",
+					"expanded_url": "https://twitter.com/woochick2/status/1200461425212186624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 773,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1237,
+							"h": 797,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 352,
+									"y": 125,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 641,
+									"y": 228,
+									"h": 159,
+									"w": 159
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 621,
+									"y": 221,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 641,
+									"y": 228,
+									"h": 159,
+									"w": 159
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200461411719114800,
+					"id_str": "1200461411719114752",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EKjlSywU8AA4HEf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKjlSywU8AA4HEf.jpg",
+					"url": "https://t.co/yr5YUkyj65",
+					"display_url": "pic.twitter.com/yr5YUkyj65",
+					"expanded_url": "https://twitter.com/woochick2/status/1200461425212186624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 438,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 773,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1237,
+							"h": 797,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 352,
+									"y": 125,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 641,
+									"y": 228,
+									"h": 159,
+									"w": 159
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 621,
+									"y": 221,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 641,
+									"y": 228,
+									"h": 159,
+									"w": 159
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 895235682834169900,
+			"id_str": "895235682834169856",
+			"name": "춰",
+			"screen_name": "woochick2",
+			"location": "",
+			"description": "부채깎는 노인",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 256,
+			"listed_count": 3,
+			"created_at": "Wed Aug 09 10:49:54 +0000 2017",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184036494404534273/yfputwA-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184036494404534273/yfputwA-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/895235682834169856/1571131275",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1403,
+		"favorite_count": 554,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "참 오래살고 볼 일. &lt;파업전야&gt;를 KBS에서 보는 날이 올거라고는 생각도 못했다.\n\n상영만 해도 전투경찰이 대학교를 박살내버렸던 영화.\n\n홍대에선 본관 16층에서 상영했고 전경 수백명이 쳐들어왔지만 층마다 깔아놓은 화염병 박스에 겁에 질려 결국 끝까지 상영에 성공한 그 시절의 독립 영화.\n\n_ https://t.co/yr5YUkyj65"
+	},
+	{
+		"created_at": "Sat Nov 30 11:49:24 +0000 2019",
+		"id": 1200592119678697500,
+		"id_str": "1200743629981007873",
+		"full_text": "적어도 이 인간이 애를 안키워봤고 애가 어떻게 행동한다는 거에 대한 이해 자체가 결여되어 있다는 건 잘 알겠다. 이 작자 멘션들 보면 애들이 부모가 자제시키면 무슨 군대 신병마냥 딱 얼어서 군소리안하고 엎드리는 노예인줄 아나본데... 해벙후 38선 월남할때도 빼액빼액 울어대는 게 아이임 https://t.co/uod3J6kg62",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uod3J6kg62",
+					"expanded_url": "https://twitter.com/Gae_ggol_dae/status/1200238899022290944",
+					"display_url": "twitter.com/Gae_ggol_dae/s…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1144131022910414800,
+			"id_str": "1144131022910414849",
+			"name": "Canopus",
+			"screen_name": "southerncanopu2",
+			"location": "",
+			"description": "장수만세 남극노인성",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 489,
+			"friends_count": 216,
+			"listed_count": 4,
+			"created_at": "Thu Jun 27 06:31:07 +0000 2019",
+			"favourites_count": 1993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 35771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1147732096753889280/rl-7jYUB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1147732096753889280/rl-7jYUB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144131022910414849/1562475308",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1200238899022291000,
+		"quoted_status_id_str": "1200238899022290944",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uod3J6kg62",
+			"expanded": "https://twitter.com/Gae_ggol_dae/status/1200238899022290944",
+			"display": "twitter.com/Gae_ggol_dae/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 29 02:23:47 +0000 2019",
+			"id": 1200238899022291000,
+			"id_str": "1200238899022290944",
+			"full_text": "아이들이 커가는 과정을 견디지도 못하는 인내심 (X)\n부모들이 제대로 계도하지 않아 아동이 패악질 부리는걸 견디는 인내심 (O) https://t.co/c2jX5Ej3o9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				71
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/c2jX5Ej3o9",
+						"expanded_url": "https://twitter.com/myumyum_ff14/status/1199873727200034818",
+						"display_url": "twitter.com/myumyum_ff14/s…",
+						"indices": [
+							72,
+							95
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 536177725,
+				"id_str": "536177725",
+				"name": "롯데야쫌",
+				"screen_name": "Gae_ggol_dae",
+				"location": "하계:개꼴데 / 동계:호구사채",
+				"description": "개꼴데놈들아 이게 야구냐!\n\n비시즌에는 아무말이나 다 함. (사실 시즌중에도...)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 81,
+				"friends_count": 780,
+				"listed_count": 3,
+				"created_at": "Sun Mar 25 10:14:19 +0000 2012",
+				"favourites_count": 792,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15687,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1112754500949803008/F4B9CEpz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112754500949803008/F4B9CEpz_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1199873727200034800,
+			"quoted_status_id_str": "1199873727200034818",
+			"quoted_status_permalink": {
+				"url": "https://t.co/c2jX5Ej3o9",
+				"expanded": "https://twitter.com/myumyum_ff14/status/1199873727200034818",
+				"display": "twitter.com/myumyum_ff14/s…"
+			},
+			"retweet_count": 115,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1341,
+		"favorite_count": 251,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "적어도 이 인간이 애를 안키워봤고 애가 어떻게 행동한다는 거에 대한 이해 자체가 결여되어 있다는 건 잘 알겠다. 이 작자 멘션들 보면 애들이 부모가 자제시키면 무슨 군대 신병마냥 딱 얼어서 군소리안하고 엎드리는 노예인줄 아나본데... 해벙후 38선 월남할때도 빼액빼액 울어대는 게 아이임 https://t.co/uod3J6kg62"
+	},
+	{
+		"created_at": "Sat Nov 30 09:41:02 +0000 2019",
+		"id": 1200405780052107300,
+		"id_str": "1200711325699018754",
+		"full_text": "황교안의 단식 투쟁과 나경원의 필리버스터를 보면 뭐랄까 이 사람들의 사악함은 너무 순수해서 거의 동화책에 나오는 악당들이 떠오를 정도고 실제 현실 세계에 존재하는 어떤 정당이라기보다 일종의 미러 유니버스에서 건너 온 실제 정당의 악의 동위체에 가깝지 않나 하는 생각마저 드는 것입니다. https://t.co/gFiHvMObBe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1200405774414934000,
+					"id_str": "1200405774414934016",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EKiysRpUcAAWXuI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKiysRpUcAAWXuI.jpg",
+					"url": "https://t.co/gFiHvMObBe",
+					"display_url": "pic.twitter.com/gFiHvMObBe",
+					"expanded_url": "https://twitter.com/sub_plot/status/1200405780052107264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 156,
+									"y": 48,
+									"h": 216,
+									"w": 216
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 156,
+									"y": 48,
+									"h": 216,
+									"w": 216
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 156,
+									"y": 48,
+									"h": 216,
+									"w": 216
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 156,
+									"y": 48,
+									"h": 216,
+									"w": 216
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200405774414934000,
+					"id_str": "1200405774414934016",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EKiysRpUcAAWXuI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKiysRpUcAAWXuI.jpg",
+					"url": "https://t.co/gFiHvMObBe",
+					"display_url": "pic.twitter.com/gFiHvMObBe",
+					"expanded_url": "https://twitter.com/sub_plot/status/1200405780052107264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 550,
+							"h": 413,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 156,
+									"y": 48,
+									"h": 216,
+									"w": 216
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 156,
+									"y": 48,
+									"h": 216,
+									"w": 216
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 156,
+									"y": 48,
+									"h": 216,
+									"w": 216
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 156,
+									"y": 48,
+									"h": 216,
+									"w": 216
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 315583544,
+			"id_str": "315583544",
+			"name": "피어스 호th론",
+			"screen_name": "sub_plot",
+			"location": "",
+			"description": "造反有理 革命無罪",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12073,
+			"friends_count": 12673,
+			"listed_count": 156,
+			"created_at": "Sun Jun 12 03:34:43 +0000 2011",
+			"favourites_count": 937812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/543864389233692672/Iv92TTlQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/543864389233692672/Iv92TTlQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/315583544/1356864547",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "황교안의 단식 투쟁과 나경원의 필리버스터를 보면 뭐랄까 이 사람들의 사악함은 너무 순수해서 거의 동화책에 나오는 악당들이 떠오를 정도고 실제 현실 세계에 존재하는 어떤 정당이라기보다 일종의 미러 유니버스에서 건너 온 실제 정당의 악의 동위체에 가깝지 않나 하는 생각마저 드는 것입니다. https://t.co/gFiHvMObBe"
+	},
+	{
+		"created_at": "Sat Nov 30 09:39:01 +0000 2019",
+		"id": 1200378317041307600,
+		"id_str": "1200710817164869633",
+		"full_text": "열심히 산 결과 자랑하는것 치고는 그게 고작 사과농장 이란게 참... https://t.co/vdZWm280vn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vdZWm280vn",
+					"expanded_url": "https://twitter.com/gotherego_o/status/1200295653378650112",
+					"display_url": "twitter.com/gotherego_o/st…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 777391994,
+			"id_str": "777391994",
+			"name": "🏳️‍🌈이엔 😷🇭🇰",
+			"screen_name": "misosmisogyny",
+			"location": "",
+			"description": "#Girlscandoanything 🙆🏻‍♀️ 만성 페미니스트/ 극심한 내향 인간/ 실수하고 반성하며 지속적으로 업데이트하려고 노력 중/ 챙김받을 생각 없으니 안 맞는다 싶으면 블락 추천/ 믿는페미/ ISFJ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3313,
+			"friends_count": 308,
+			"listed_count": 34,
+			"created_at": "Fri Aug 24 04:26:05 +0000 2012",
+			"favourites_count": 1488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079745977626447874/bnlZXsIf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079745977626447874/bnlZXsIf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/777391994/1510662985",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1200295653378650000,
+		"quoted_status_id_str": "1200295653378650112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vdZWm280vn",
+			"expanded": "https://twitter.com/gotherego_o/status/1200295653378650112",
+			"display": "twitter.com/gotherego_o/st…"
+		},
+		"retweet_count": 1145,
+		"favorite_count": 246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "열심히 산 결과 자랑하는것 치고는 그게 고작 사과농장 이란게 참... https://t.co/vdZWm280vn"
+	},
+	{
+		"created_at": "Sat Nov 30 09:38:27 +0000 2019",
+		"id": 1200677327782305800,
+		"id_str": "1200710674910830592",
+		"full_text": "USAF U-2S 80-1069 SHADE01 on task over the Korean Peninsula at 50,000 feet https://t.co/pnTVWto9b4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1200677323659305000,
+					"id_str": "1200677323659304961",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EKmpqhaUYAEsDWj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKmpqhaUYAEsDWj.jpg",
+					"url": "https://t.co/pnTVWto9b4",
+					"display_url": "pic.twitter.com/pnTVWto9b4",
+					"expanded_url": "https://twitter.com/AircraftSpots/status/1200677327782305793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1054,
+							"h": 593,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1054,
+							"h": 593,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 436,
+									"y": 201,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 182,
+									"y": 130,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 281,
+									"y": 129,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 117,
+									"y": 83,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 436,
+									"y": 201,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 182,
+									"y": 130,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 436,
+									"y": 201,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 182,
+									"y": 130,
+									"h": 80,
+									"w": 80
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200677323659305000,
+					"id_str": "1200677323659304961",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EKmpqhaUYAEsDWj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKmpqhaUYAEsDWj.jpg",
+					"url": "https://t.co/pnTVWto9b4",
+					"display_url": "pic.twitter.com/pnTVWto9b4",
+					"expanded_url": "https://twitter.com/AircraftSpots/status/1200677327782305793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1054,
+							"h": 593,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1054,
+							"h": 593,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 436,
+									"y": 201,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 182,
+									"y": 130,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 281,
+									"y": 129,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 117,
+									"y": 83,
+									"h": 51,
+									"w": 51
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 436,
+									"y": 201,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 182,
+									"y": 130,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 436,
+									"y": 201,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 182,
+									"y": 130,
+									"h": 80,
+									"w": 80
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 705643352050413600,
+			"id_str": "705643352050413569",
+			"name": "Aircraft Spots",
+			"screen_name": "AircraftSpots",
+			"location": "",
+			"description": "Monitoring Military Air Movements",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55358,
+			"friends_count": 167,
+			"listed_count": 832,
+			"created_at": "Fri Mar 04 06:37:40 +0000 2016",
+			"favourites_count": 2631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119089408236326919/dCwC1t7k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119089408236326919/dCwC1t7k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/705643352050413569/1548905338",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 179,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "USAF U-2S 80-1069 SHADE01 on task over the Korean Peninsula at 50,000 feet https://t.co/pnTVWto9b4"
+	},
+	{
+		"created_at": "Sat Nov 30 09:37:58 +0000 2019",
+		"id": 1200389653796311000,
+		"id_str": "1200710552995020806",
+		"full_text": "개인이 취할 수 있는 입장이 노동자 혁명과 각자도생 두 가지밖에 없습니까? 무슨 1950년대 프로파간다도 아니고. https://t.co/xwlsx77MxN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xwlsx77MxN",
+					"expanded_url": "https://twitter.com/soulppul/status/1200383235655528449",
+					"display_url": "twitter.com/soulppul/statu…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1123177100477755400,
+			"id_str": "1123177100477755392",
+			"name": "항마력이 고갈된 새",
+			"screen_name": "EggMoonBird",
+			"location": "",
+			"description": "진화생물학으로 박사논문 썼지만 무신론 안 삽니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 572,
+			"friends_count": 268,
+			"listed_count": 6,
+			"created_at": "Tue Apr 30 10:47:43 +0000 2019",
+			"favourites_count": 3294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1158403311520718848/GKJ8IVDu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158403311520718848/GKJ8IVDu_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1200383235655528400,
+		"quoted_status_id_str": "1200383235655528449",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xwlsx77MxN",
+			"expanded": "https://twitter.com/soulppul/status/1200383235655528449",
+			"display": "twitter.com/soulppul/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 29 11:57:20 +0000 2019",
+			"id": 1200383235655528400,
+			"id_str": "1200383235655528449",
+			"full_text": "반복된 좌절과 실패에 대한 두려움, 근원적 차이에 대한 화같은 것이 쌓이면 결국 자기만 좀 먹는다. 그렇게 된 충분한 이유가 근거가 있다해도 그걸 정당화하고 자족하고 앉아있는 게 누구에게 무슨 도움이 되나.\n‘그래서 가난은 나라도 구제 못한다잖아요’ 다음에 무슨 말을 할 수 있나. 노동자혁명?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1200381212079997000,
+			"in_reply_to_status_id_str": "1200381212079996929",
+			"in_reply_to_user_id": 726709410291060700,
+			"in_reply_to_user_id_str": "726709410291060736",
+			"in_reply_to_screen_name": "soulppul",
+			"user": {
+				"id": 726709410291060700,
+				"id_str": "726709410291060736",
+				"name": "수분충전",
+				"screen_name": "soulppul",
+				"location": "",
+				"description": "귀엽고 고루함. 쉼없이 잡담함. 오타는 디폴트, 주어진 것과 선택한 것 사이.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2475,
+				"friends_count": 495,
+				"listed_count": 17,
+				"created_at": "Sun May 01 09:46:39 +0000 2016",
+				"favourites_count": 3642,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 97,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1190282604739809280/1oJUkki4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190282604739809280/1oJUkki4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/726709410291060736/1566469911",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 93,
+			"favorite_count": 72,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 50,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "개인이 취할 수 있는 입장이 노동자 혁명과 각자도생 두 가지밖에 없습니까? 무슨 1950년대 프로파간다도 아니고. https://t.co/xwlsx77MxN"
+	},
+	{
 		"created_at": "Fri Nov 29 12:46:38 +0000 2019",
 		"id": 1200395644109615000,
 		"id_str": "1200395644109615107",
