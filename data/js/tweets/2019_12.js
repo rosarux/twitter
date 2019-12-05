@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 04 11:14:10 +0000 2019",
+		"id": 1202183984270073900,
+		"id_str": "1202184314022023168",
+		"full_text": "아프간 구호 활동에 평생 바친 日의사, 총격받아 사망(종합) https://t.co/PYbouvJwoq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PYbouvJwoq",
+					"expanded_url": "https://www.mk.co.kr/news/world/view/2019/12/1015296/",
+					"display_url": "mk.co.kr/news/world/vie…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1667414719,
+			"id_str": "1667414719",
+			"name": "Holy Pillar",
+			"screen_name": "holy_pillar",
+			"location": "페이퍼 스트리트 531번지",
+			"description": "비누를 만들고 가끔은 던지기도 합니다. 비누로 할 수 있는 일은 생각보다 훨씬 많습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1200,
+			"friends_count": 490,
+			"listed_count": 24,
+			"created_at": "Tue Aug 13 10:02:04 +0000 2013",
+			"favourites_count": 18819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 37426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/588896374969634816/k4Eq9yQR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/588896374969634816/k4Eq9yQR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1667414719/1392285875",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아프간 구호 활동에 평생 바친 日의사, 총격받아 사망(종합) https://t.co/PYbouvJwoq"
+	},
+	{
+		"created_at": "Wed Dec 04 10:33:06 +0000 2019",
+		"id": 1202173979688988700,
+		"id_str": "1202173979688988673",
+		"full_text": "아프간의 진료소 이름이 &lt;오키나와 피스 클리닉&gt;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 567,
+			"friends_count": 440,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/983561990789521409/yByV3Crc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아프간의 진료소 이름이 &lt;오키나와 피스 클리닉&gt;"
+	},
+	{
+		"created_at": "Wed Dec 04 10:31:49 +0000 2019",
+		"id": 1202169990402543600,
+		"id_str": "1202173655913906176",
+		"full_text": "＃第一回沖縄平和賞\n＃中村哲\n中村医師は\nアフガン東部山岳地帯\nダラエピーチ渓谷のシンザイ村に\n診療所\n「オキナワ・ピース・クリニック」を建設。\n\n悲しくて悔しい。。。\nhttps://t.co/TIYoz6qc8A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "第一回沖縄平和賞",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "中村哲",
+					"indices": [
+						10,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TIYoz6qc8A",
+					"expanded_url": "https://headlines.yahoo.co.jp/hl?a=20191204-00010000-ryu-oki",
+					"display_url": "headlines.yahoo.co.jp/hl?a=20191204-…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 598466174,
+			"id_str": "598466174",
+			"name": "Greentea",
+			"screen_name": "strawberrytea95",
+			"location": "",
+			"description": "【琉球民族🌴】\n★辺野古の抑止力は嘘～海兵隊は抑止力にならない～自民党の利権建設で税金を投入！第２のもんじゅだよ～辺野古に基地は作れない！！\n★安倍政権の沖縄政策は『沖縄の民意を完全に無視、植民地政策です』\n敗戦後の代償は沖縄がアメリカ施政権下になる事。復帰まで27年。【話題は沖縄問題が多い💛】",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472,
+			"friends_count": 501,
+			"listed_count": 4,
+			"created_at": "Sun Jun 03 16:36:48 +0000 2012",
+			"favourites_count": 13720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193196427247177729/WZIaFTaZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193196427247177729/WZIaFTaZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/598466174/1569814413",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 186,
+		"favorite_count": 238,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "＃第一回沖縄平和賞\n＃中村哲\n中村医師は\nアフガン東部山岳地帯\nダラエピーチ渓谷のシンザイ村に\n診療所\n「オキナワ・ピース・クリニック」を建設。\n\n悲しくて悔しい。。。\nhttps://t.co/TIYoz6qc8A"
+	},
+	{
+		"created_at": "Wed Dec 04 10:30:06 +0000 2019",
+		"id": 1202170838994342000,
+		"id_str": "1202173222029950976",
+		"full_text": "第１回沖縄平和賞の中村哲さん現地で銃撃され死亡 https://t.co/gP3aaRYja1 #Qプラス",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Qプラス",
+					"indices": [
+						48,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gP3aaRYja1",
+					"expanded_url": "https://www.qab.co.jp/news/20191204121375.html",
+					"display_url": "qab.co.jp/news/201912041…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 954227532764610600,
+			"id_str": "954227532764610560",
+			"name": "QAB琉球朝日放送Qプラス",
+			"screen_name": "QAB_QPlus",
+			"location": "",
+			"description": "QAB琉球朝日放送の夕方ニュースワイド「Qプラス」の公式Twitterです。私たちの暮らしの中の話題や気になる問題を、様々な目線でお伝えします。もちろんお天気も！どうぞご覧ください。※個別のご要望、ご質問、出演リクエスト、DMにはお答えできません。ご了承ください。https://t.co/6SrKprfIuE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6SrKprfIuE",
+							"expanded_url": "https://goo.gl/Nrirrk",
+							"display_url": "goo.gl/Nrirrk",
+							"indices": [
+								132,
+								155
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 839,
+			"friends_count": 0,
+			"listed_count": 40,
+			"created_at": "Fri Jan 19 05:42:27 +0000 2018",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112358810591465472/LOS6MqmZ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112358810591465472/LOS6MqmZ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/954227532764610560/1554041305",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "第１回沖縄平和賞の中村哲さん現地で銃撃され死亡 https://t.co/gP3aaRYja1 #Qプラス"
+	},
+	{
 		"created_at": "Wed Dec 04 00:19:05 +0000 2019",
 		"id": 1202019455850565600,
 		"id_str": "1202019455850565632",
