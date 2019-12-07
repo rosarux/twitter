@@ -1,6 +1,1611 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 06 14:33:32 +0000 2019",
+		"id": 1202629649286619100,
+		"id_str": "1202959262021902337",
+		"full_text": "지금 사람들이 검찰을 비판하는 것은 독립성 보장해주니 조직 3할을 동원해서 사람 하나 조지는 정파성과 그러고도 기소도 제대로 못하는 무능함 모두에 있는데 그걸 자기들만 모르는 머저리들이 조직 전반에 널려있다는건 인사구조적인 문제가 아니겠는가?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1202628339439001600,
+		"in_reply_to_status_id_str": "1202628339439001600",
+		"in_reply_to_user_id": 68664432,
+		"in_reply_to_user_id_str": "68664432",
+		"in_reply_to_screen_name": "summerlight00",
+		"user": {
+			"id": 68664432,
+			"id_str": "68664432",
+			"name": "minchul park",
+			"screen_name": "summerlight00",
+			"location": "CA",
+			"description": "Software engineer. My tweets do not represent the view of my employer.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 963,
+			"friends_count": 1023,
+			"listed_count": 45,
+			"created_at": "Tue Aug 25 10:55:51 +0000 2009",
+			"favourites_count": 17804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 86705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAF7E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136824319714054144/ZfCHJdrO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136824319714054144/ZfCHJdrO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68664432/1398148612",
+			"profile_link_color": "FF6699",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지금 사람들이 검찰을 비판하는 것은 독립성 보장해주니 조직 3할을 동원해서 사람 하나 조지는 정파성과 그러고도 기소도 제대로 못하는 무능함 모두에 있는데 그걸 자기들만 모르는 머저리들이 조직 전반에 널려있다는건 인사구조적인 문제가 아니겠는가?"
+	},
+	{
+		"created_at": "Fri Dec 06 13:20:17 +0000 2019",
+		"id": 1202940826998829000,
+		"id_str": "1202940826998829057",
+		"full_text": "그의 데뷔 초기였던 듯. 암튼 반성한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1202940175547957200,
+		"in_reply_to_status_id_str": "1202940175547957249",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 569,
+			"friends_count": 441,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그의 데뷔 초기였던 듯. 암튼 반성한다."
+	},
+	{
+		"created_at": "Fri Dec 06 13:17:42 +0000 2019",
+		"id": 1202940175547957200,
+		"id_str": "1202940175547957249",
+		"full_text": "2010~2년 무렵이었던 듯",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1202939625628553200,
+		"in_reply_to_status_id_str": "1202939625628553216",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 569,
+			"friends_count": 441,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "2010~2년 무렵이었던 듯"
+	},
+	{
+		"created_at": "Fri Dec 06 13:15:30 +0000 2019",
+		"id": 1202939625628553200,
+		"id_str": "1202939625628553216",
+		"full_text": "음 내가 한때 진지하게 고민했던 게 있었는데 미우라 루리의 주장이었다니.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 569,
+			"friends_count": 441,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "음 내가 한때 진지하게 고민했던 게 있었는데 미우라 루리의 주장이었다니."
+	},
+	{
+		"created_at": "Fri Dec 06 11:41:17 +0000 2019",
+		"id": 1202595163282886700,
+		"id_str": "1202915912472391680",
+		"full_text": "ボノが会場の皆んなにライトのキャンドルを灯してと言って中村哲医師を追悼してくれた。\n\n#U2 #U2来日 #U2thejoshuatreetour2019 https://t.co/34InSu36r6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "U2",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "U2来日",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "U2thejoshuatreetour2019",
+					"indices": [
+						53,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202594643667370000,
+					"id_str": "1202594643667369984",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202594643667369984/pu/img/d3lpek_ntQR_x9UE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202594643667369984/pu/img/d3lpek_ntQR_x9UE.jpg",
+					"url": "https://t.co/34InSu36r6",
+					"display_url": "pic.twitter.com/34InSu36r6",
+					"expanded_url": "https://twitter.com/minminzemichan/status/1202595163282886657/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202594643667370000,
+					"id_str": "1202594643667369984",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202594643667369984/pu/img/d3lpek_ntQR_x9UE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202594643667369984/pu/img/d3lpek_ntQR_x9UE.jpg",
+					"url": "https://t.co/34InSu36r6",
+					"display_url": "pic.twitter.com/34InSu36r6",
+					"expanded_url": "https://twitter.com/minminzemichan/status/1202595163282886657/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139230,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202594643667369984/pu/vid/480x270/zOF7R1SAG1Kd71o2.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1202594643667369984/pu/pl/Gj9Mxg-4PoW6DEty.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202594643667369984/pu/vid/640x360/b1WZn0EDEka_Phv1.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202594643667369984/pu/vid/1280x720/QPa4Pl1QxninR3KV.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 81289623,
+			"id_str": "81289623",
+			"name": "Min",
+			"screen_name": "minminzemichan",
+			"location": "おかしのくに",
+			"description": "Good music and good chocolate keep me going. ❄️Snow Patrolに会いたい❄️",
+			"url": "https://t.co/zw2zz792Ua",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zw2zz792Ua",
+							"expanded_url": "http://www.instagram.com/min_06/",
+							"display_url": "instagram.com/min_06/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204,
+			"friends_count": 217,
+			"listed_count": 10,
+			"created_at": "Sat Oct 10 05:35:45 +0000 2009",
+			"favourites_count": 8453,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00080A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2923074303/93c111a00a43aa9b5691c492df620852_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2923074303/93c111a00a43aa9b5691c492df620852_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/81289623/1439433133",
+			"profile_link_color": "CF004C",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3826,
+		"favorite_count": 10942,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ボノが会場の皆んなにライトのキャンドルを灯してと言って中村哲医師を追悼してくれた。\n\n#U2 #U2来日 #U2thejoshuatreetour2019 https://t.co/34InSu36r6"
+	},
+	{
+		"created_at": "Fri Dec 06 10:34:14 +0000 2019",
+		"id": 1202855603804074000,
+		"id_str": "1202899039055835137",
+		"full_text": "저기 정론직필은 기본으로 지켜야 하는 일입니다 손해본다고 안 할 일이 아니라요... https://t.co/tk6joCO4sG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tk6joCO4sG",
+					"expanded_url": "https://twitter.com/guevara_99/status/1202838660321693696",
+					"display_url": "twitter.com/guevara_99/sta…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1184833233189388300,
+			"id_str": "1184833233189388289",
+			"name": "아기펭귄벨",
+			"screen_name": "babypengbell",
+			"location": "",
+			"description": "안녕하세요? 제가 돌아왔습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 96,
+			"listed_count": 2,
+			"created_at": "Thu Oct 17 14:07:15 +0000 2019",
+			"favourites_count": 41,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184834881877987328/6zcI9xMH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184834881877987328/6zcI9xMH_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1202838660321693700,
+		"quoted_status_id_str": "1202838660321693696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tk6joCO4sG",
+			"expanded": "https://twitter.com/guevara_99/status/1202838660321693696",
+			"display": "twitter.com/guevara_99/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 06 06:34:18 +0000 2019",
+			"id": 1202838660321693700,
+			"id_str": "1202838660321693696",
+			"full_text": "요즘 언론 문제 많죠. 하지만 자기네 입맛 안 맞으면 아무리 유의미한 보도를 해도 기레기로 몰고, 정론을 보도한 매체만 손해를 보는데 언론 탓만 하는 게 의미가 있습니까?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1202838261992833000,
+			"in_reply_to_status_id_str": "1202838261992833025",
+			"in_reply_to_user_id": 171901847,
+			"in_reply_to_user_id_str": "171901847",
+			"in_reply_to_screen_name": "guevara_99",
+			"user": {
+				"id": 171901847,
+				"id_str": "171901847",
+				"name": "위근우",
+				"screen_name": "guevara_99",
+				"location": "",
+				"description": "아무 것도 기대하지 마세요",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36340,
+				"friends_count": 45,
+				"listed_count": 269,
+				"created_at": "Wed Jul 28 13:05:26 +0000 2010",
+				"favourites_count": 168,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 22878,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/936462540405555200/l6OlK1D8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/936462540405555200/l6OlK1D8_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 348,
+			"favorite_count": 99,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 96,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저기 정론직필은 기본으로 지켜야 하는 일입니다 손해본다고 안 할 일이 아니라요... https://t.co/tk6joCO4sG"
+	},
+	{
+		"created_at": "Fri Dec 06 10:19:24 +0000 2019",
+		"id": 1202797168215511000,
+		"id_str": "1202895308302061570",
+		"full_text": "Thank you human 💙 https://t.co/P0ME2zyX5Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1202563682334457900,
+					"id_str": "1202563682334457856",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202563682334457856/pu/img/PjtCLIQk6Ep8u7NT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202563682334457856/pu/img/PjtCLIQk6Ep8u7NT.jpg",
+					"url": "https://t.co/P0ME2zyX5Z",
+					"display_url": "pic.twitter.com/P0ME2zyX5Z",
+					"expanded_url": "https://twitter.com/DeepakK73871382/status/1202563975159795712/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1202563975159795700,
+					"source_status_id_str": "1202563975159795712",
+					"source_user_id": 1002768111320248300,
+					"source_user_id_str": "1002768111320248322",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202563682334457900,
+					"id_str": "1202563682334457856",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1202563682334457856/pu/img/PjtCLIQk6Ep8u7NT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1202563682334457856/pu/img/PjtCLIQk6Ep8u7NT.jpg",
+					"url": "https://t.co/P0ME2zyX5Z",
+					"display_url": "pic.twitter.com/P0ME2zyX5Z",
+					"expanded_url": "https://twitter.com/DeepakK73871382/status/1202563975159795712/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1202563975159795700,
+					"source_status_id_str": "1202563975159795712",
+					"source_user_id": 1002768111320248300,
+					"source_user_id_str": "1002768111320248322",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 42167,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202563682334457856/pu/vid/480x480/lauPh3Q7e6tM4UAj.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1202563682334457856/pu/pl/gymIbhowClDJhbx9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202563682334457856/pu/vid/640x640/is8eaS5lOSmi1ImQ.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1202563682334457856/pu/vid/320x320/VagHzoY-MQXWp_q6.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1002768111320248300,
+							"id_str": "1002768111320248322",
+							"name": "Deepak Kumar",
+							"screen_name": "DeepakK73871382",
+							"location": "",
+							"description": "Bad habit to speak the truth , everything should be done for the betterment of the our beloved \"Great India\"",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 8230,
+							"friends_count": 5500,
+							"listed_count": 43,
+							"created_at": "Sat Jun 02 04:25:23 +0000 2018",
+							"favourites_count": 39787,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 33969,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1171445225048309761/Dy-il1Fo_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171445225048309761/Dy-il1Fo_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1002768111320248322/1528008567",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 897058816226844700,
+			"id_str": "897058816226844672",
+			"name": "CCTV IDIOTS",
+			"screen_name": "cctvidiots",
+			"location": "WorldWide",
+			"description": "Exposing idiotic behavior from all over the world caught on camera. Dm for Business",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 353610,
+			"friends_count": 68,
+			"listed_count": 626,
+			"created_at": "Mon Aug 14 11:34:23 +0000 2017",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144840942244880385/9F2DRMCz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144840942244880385/9F2DRMCz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/897058816226844672/1561786324",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3151,
+		"favorite_count": 9368,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you human 💙 https://t.co/P0ME2zyX5Z"
+	},
+	{
+		"created_at": "Fri Dec 06 05:23:07 +0000 2019",
+		"id": 1202820745409126400,
+		"id_str": "1202820745409126400",
+		"full_text": "우리가 보낸 카누도 저기 어딘가에... https://t.co/pqy2ew0Vew",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pqy2ew0Vew",
+					"expanded_url": "https://twitter.com/henoko500/status/1201695315042025472",
+					"display_url": "twitter.com/henoko500/stat…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 569,
+			"friends_count": 441,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1201695315042025500,
+		"quoted_status_id_str": "1201695315042025472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pqy2ew0Vew",
+			"expanded": "https://twitter.com/henoko500/status/1201695315042025472",
+			"display": "twitter.com/henoko500/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 03 02:51:04 +0000 2019",
+			"id": 1201695315042025500,
+			"id_str": "1201695315042025472",
+			"full_text": "10時30分、カヌーチームが海へを漕ぎ出しました。総勢68艇。 #1203安和桟橋土砂搬出抗議 #辺野古 https://t.co/ZRtZOI5nFs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "1203安和桟橋土砂搬出抗議",
+						"indices": [
+							32,
+							47
+						]
+					},
+					{
+						"text": "辺野古",
+						"indices": [
+							48,
+							52
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1201695305982341000,
+						"id_str": "1201695305982341120",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/EK1Hg5FU8AAQEnr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EK1Hg5FU8AAQEnr.jpg",
+						"url": "https://t.co/ZRtZOI5nFs",
+						"display_url": "pic.twitter.com/ZRtZOI5nFs",
+						"expanded_url": "https://twitter.com/henoko500/status/1201695315042025472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1478,
+								"h": 1108,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1201695305982341000,
+						"id_str": "1201695305982341120",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/EK1Hg5FU8AAQEnr.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EK1Hg5FU8AAQEnr.jpg",
+						"url": "https://t.co/ZRtZOI5nFs",
+						"display_url": "pic.twitter.com/ZRtZOI5nFs",
+						"expanded_url": "https://twitter.com/henoko500/status/1201695315042025472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1478,
+								"h": 1108,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 981019663009161200,
+				"id_str": "981019663009161217",
+				"name": "あつまれ辺野古 500人行動",
+				"screen_name": "henoko500",
+				"location": "沖縄 名護市",
+				"description": "あつまれ辺野古 500人行動は、平和で誇りある豊かな沖縄を築くため非暴力不服従、直接行動で基地建設に抗議します。blog : https://t.co/ygGebp3hHN FB : https://t.co/nQhD7hp2xZ",
+				"url": "https://t.co/ygGebp3hHN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ygGebp3hHN",
+								"expanded_url": "https://henoko500.hatenablog.jp/",
+								"display_url": "henoko500.hatenablog.jp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ygGebp3hHN",
+								"expanded_url": "https://henoko500.hatenablog.jp/",
+								"display_url": "henoko500.hatenablog.jp",
+								"indices": [
+									63,
+									86
+								]
+							},
+							{
+								"url": "https://t.co/nQhD7hp2xZ",
+								"expanded_url": "https://www.facebook.com/sitin500/",
+								"display_url": "facebook.com/sitin500/",
+								"indices": [
+									92,
+									115
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1872,
+				"friends_count": 1434,
+				"listed_count": 29,
+				"created_at": "Tue Apr 03 04:04:48 +0000 2018",
+				"favourites_count": 718,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 494,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1055271331044909057/OrMLPng__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055271331044909057/OrMLPng__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/981019663009161217/1531190095",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 52,
+			"favorite_count": 53,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리가 보낸 카누도 저기 어딘가에... https://t.co/pqy2ew0Vew"
+	},
+	{
+		"created_at": "Fri Dec 06 03:58:50 +0000 2019",
+		"id": 1201949065472163800,
+		"id_str": "1202799533157015552",
+		"full_text": "しぬ😂😂😂 https://t.co/irmssYolRE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1201279409899966500,
+					"id_str": "1201279409899966464",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1201279409899966464/pu/img/yDirmwLq3NmU_bwR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1201279409899966464/pu/img/yDirmwLq3NmU_bwR.jpg",
+					"url": "https://t.co/irmssYolRE",
+					"display_url": "pic.twitter.com/irmssYolRE",
+					"expanded_url": "https://twitter.com/ikumi_29/status/1201279520382128133/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1201279520382128000,
+					"source_status_id_str": "1201279520382128133",
+					"source_user_id": 713777352,
+					"source_user_id_str": "713777352",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1201279409899966500,
+					"id_str": "1201279409899966464",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1201279409899966464/pu/img/yDirmwLq3NmU_bwR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1201279409899966464/pu/img/yDirmwLq3NmU_bwR.jpg",
+					"url": "https://t.co/irmssYolRE",
+					"display_url": "pic.twitter.com/irmssYolRE",
+					"expanded_url": "https://twitter.com/ikumi_29/status/1201279520382128133/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1201279520382128000,
+					"source_status_id_str": "1201279520382128133",
+					"source_user_id": 713777352,
+					"source_user_id_str": "713777352",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 117117,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1201279409899966464/pu/pl/n5-wDQA7KXgh3kSI.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1201279409899966464/pu/vid/480x270/0HFV5IzC6MgSnm2t.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1201279409899966464/pu/vid/640x360/SzVL7q0zuccLyv9j.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 713777352,
+							"id_str": "713777352",
+							"name": "吉野いくみ",
+							"screen_name": "ikumi_29",
+							"location": "大阪",
+							"description": "I Hope You Miss Me a Little",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 5079,
+							"friends_count": 348,
+							"listed_count": 123,
+							"created_at": "Tue Jul 24 06:05:02 +0000 2012",
+							"favourites_count": 39327,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 93712,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "DBE9ED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1048895161546096640/DkUy7tLA_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048895161546096640/DkUy7tLA_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/713777352/1561610769",
+							"profile_link_color": "436578",
+							"profile_sidebar_border_color": "DBE9ED",
+							"profile_sidebar_fill_color": "E6F6F9",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"can_media_tag": false,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1634812176,
+			"id_str": "1634812176",
+			"name": "おひな",
+			"screen_name": "HnTeso",
+			"location": "",
+			"description": "😈villains princess👑 インポートの個人セレクトショップ運営しています💒気になる方はInstagramに公式サイトのリンク貼ってますので是非チェックしてみてください💓",
+			"url": "https://t.co/yXHLEYUQNQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yXHLEYUQNQ",
+							"expanded_url": "https://www.instagram.com/hina_villains420",
+							"display_url": "instagram.com/hina_villains4…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 664,
+			"friends_count": 285,
+			"listed_count": 0,
+			"created_at": "Wed Jul 31 07:15:53 +0000 2013",
+			"favourites_count": 5179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049213208123269120/HQg9-IfS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049213208123269120/HQg9-IfS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1634812176/1483973779",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43887,
+		"favorite_count": 158164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "しぬ😂😂😂 https://t.co/irmssYolRE"
+	},
+	{
 		"created_at": "Thu Dec 05 09:53:39 +0000 2019",
 		"id": 1202525876815925200,
 		"id_str": "1202526440735985665",
