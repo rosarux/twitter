@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 08:03:01 +0000 2019",
+		"id": 1203573440806113300,
+		"id_str": "1203585759661322240",
+		"full_text": "【動画】中村医師と遺族、帰国へ　アフガン大統領がひつぎ運ぶ　https://t.co/MAz7vhWapy https://t.co/otOtezQfu6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MAz7vhWapy",
+					"expanded_url": "http://bit.ly/2PobGfJ",
+					"display_url": "bit.ly/2PobGfJ",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1203571619668615200,
+					"id_str": "1203571619668615168",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/ELP0g1kU0AErdDY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELP0g1kU0AErdDY.jpg",
+					"url": "https://t.co/otOtezQfu6",
+					"display_url": "pic.twitter.com/otOtezQfu6",
+					"expanded_url": "https://twitter.com/mainichi/status/1203573440806113281/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203571619668615200,
+					"id_str": "1203571619668615168",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/ELP0g1kU0AErdDY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELP0g1kU0AErdDY.jpg",
+					"url": "https://t.co/otOtezQfu6",
+					"display_url": "pic.twitter.com/otOtezQfu6",
+					"expanded_url": "https://twitter.com/mainichi/status/1203573440806113281/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 118685,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203571619668615168/pu/vid/1280x720/ZwqxMV82kae7f7HA.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203571619668615168/pu/vid/640x360/fc3DETM1UHIqPM5O.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1203571619668615168/pu/vid/480x270/nhYIp9xDQ9nZogqU.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1203571619668615168/pu/pl/4Skhy2ebqC4VtvPk.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://studio.brightcove.com\" rel=\"nofollow\">Brightcove Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49540955,
+			"id_str": "49540955",
+			"name": "毎日新聞",
+			"screen_name": "mainichi",
+			"location": "東京都千代田区",
+			"description": "毎日新聞のニュースサイトからおすすめ記事などをツイートします。FBページ https://t.co/waY2ry2PVG もあります。",
+			"url": "https://t.co/t3fGg5YbYZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t3fGg5YbYZ",
+							"expanded_url": "http://mainichi.jp/",
+							"display_url": "mainichi.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/waY2ry2PVG",
+							"expanded_url": "https://www.facebook.com/mainichishimbun/",
+							"display_url": "facebook.com/mainichishimbu…",
+							"indices": [
+								37,
+								60
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 852167,
+			"friends_count": 216,
+			"listed_count": 30723,
+			"created_at": "Mon Jun 22 04:53:27 +0000 2009",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 275357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875582156399026176/nvKfbCrk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875582156399026176/nvKfbCrk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49540955/1509087950",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DFDFDF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 201,
+		"favorite_count": 240,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【動画】中村医師と遺族、帰国へ　アフガン大統領がひつぎ運ぶ　https://t.co/MAz7vhWapy https://t.co/otOtezQfu6"
+	},
+	{
 		"created_at": "Sat Dec 07 12:30:54 +0000 2019",
 		"id": 1202887721804431400,
 		"id_str": "1203290786185351168",
