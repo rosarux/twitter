@@ -1,6 +1,480 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 18 23:20:46 +0000 2019",
+		"id": 1207440599273504800,
+		"id_str": "1207440599273504768",
+		"full_text": "&lt;감격의 악수&gt; https://t.co/fs0A27j75x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fs0A27j75x",
+					"expanded_url": "https://twitter.com/dentan_bot/status/1207437299899719680",
+					"display_url": "twitter.com/dentan_bot/sta…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 564,
+			"friends_count": 437,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1207437299899719700,
+		"quoted_status_id_str": "1207437299899719680",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fs0A27j75x",
+			"expanded": "https://twitter.com/dentan_bot/status/1207437299899719680",
+			"display": "twitter.com/dentan_bot/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 18 23:07:40 +0000 2019",
+			"id": 1207437299899719700,
+			"id_str": "1207437299899719680",
+			"full_text": "[感激の握手]\n対日本向け米軍伝単。1945年、日本本土へ投下。\nソ連の対日参戦の意味と、日本を破滅から救う手段は\n一つ（無条件降伏）しかないと説く内容。\nhttps://t.co/jiVir30OsJ\nhttps://t.co/sfTs48p9sy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				125
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 427771144242872300,
+						"id_str": "427771144242872320",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/Be-_ltnCQAAzZ8A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Be-_ltnCQAAzZ8A.jpg",
+						"url": "https://t.co/jiVir30OsJ",
+						"display_url": "pic.twitter.com/jiVir30OsJ",
+						"expanded_url": "http://twitter.com/Dentan_Bot/status/427771144238678016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1182,
+								"h": 801,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1182,
+								"h": 801,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 461,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 427771144238678000,
+						"source_status_id_str": "427771144238678016",
+						"source_user_id": 2182201063,
+						"source_user_id_str": "2182201063",
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 427771197648928800,
+						"id_str": "427771197648928768",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/Be-_o0kCAAAhb9j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Be-_o0kCAAAhb9j.jpg",
+						"url": "https://t.co/sfTs48p9sy",
+						"display_url": "pic.twitter.com/sfTs48p9sy",
+						"expanded_url": "http://twitter.com/Dentan_Bot/status/427771197640540162/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1193,
+								"h": 807,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 460,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1193,
+								"h": 807,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 427771197640540160,
+						"source_status_id_str": "427771197640540162",
+						"source_user_id": 2182201063,
+						"source_user_id_str": "2182201063",
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 1067,
+										"y": 321,
+										"h": 80,
+										"w": 80
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1067,
+										"y": 321,
+										"h": 80,
+										"w": 80
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 608,
+										"y": 182,
+										"h": 45,
+										"w": 45
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 1067,
+										"y": 321,
+										"h": 80,
+										"w": 80
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 427771144242872300,
+						"id_str": "427771144242872320",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/media/Be-_ltnCQAAzZ8A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Be-_ltnCQAAzZ8A.jpg",
+						"url": "https://t.co/jiVir30OsJ",
+						"display_url": "pic.twitter.com/jiVir30OsJ",
+						"expanded_url": "http://twitter.com/Dentan_Bot/status/427771144238678016/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1182,
+								"h": 801,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1182,
+								"h": 801,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 461,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 427771144238678000,
+						"source_status_id_str": "427771144238678016",
+						"source_user_id": 2182201063,
+						"source_user_id_str": "2182201063",
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 427771197648928800,
+						"id_str": "427771197648928768",
+						"indices": [
+							102,
+							125
+						],
+						"media_url": "http://pbs.twimg.com/media/Be-_o0kCAAAhb9j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Be-_o0kCAAAhb9j.jpg",
+						"url": "https://t.co/sfTs48p9sy",
+						"display_url": "pic.twitter.com/sfTs48p9sy",
+						"expanded_url": "http://twitter.com/Dentan_Bot/status/427771197640540162/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1193,
+								"h": 807,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 460,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1193,
+								"h": 807,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 427771197640540160,
+						"source_status_id_str": "427771197640540162",
+						"source_user_id": 2182201063,
+						"source_user_id_str": "2182201063",
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 1067,
+										"y": 321,
+										"h": 80,
+										"w": 80
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 1067,
+										"y": 321,
+										"h": 80,
+										"w": 80
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 608,
+										"y": 182,
+										"h": 45,
+										"w": 45
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 1067,
+										"y": 321,
+										"h": 80,
+										"w": 80
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2182201063,
+				"id_str": "2182201063",
+				"name": "伝単bot",
+				"screen_name": "Dentan_Bot",
+				"location": "空から",
+				"description": "主に太平洋戦争中、アメリカ軍・連合軍が日本本土・日本軍に投下した伝単（宣伝・謀略ビラ）を紹介するだけのbotです。制作者→@ragemax  電子書籍もあります→ http://t.co/WrEsuF4ZJR",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/WrEsuF4ZJR",
+								"expanded_url": "http://goo.gl/J1vx6h",
+								"display_url": "goo.gl/J1vx6h",
+								"indices": [
+									82,
+									104
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1575,
+				"friends_count": 1,
+				"listed_count": 98,
+				"created_at": "Fri Nov 08 13:24:19 +0000 2013",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14565,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000711275138/46b3beaa93d11cac8f89317e89f603c0_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000711275138/46b3beaa93d11cac8f89317e89f603c0_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2182201063/1383918008",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;감격의 악수&gt; https://t.co/fs0A27j75x"
+	},
+	{
 		"created_at": "Mon Dec 16 13:56:32 +0000 2019",
 		"id": 1206517268852695000,
 		"id_str": "1206573829364932608",
