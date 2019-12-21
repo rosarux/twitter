@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 20 13:37:08 +0000 2019",
+		"id": 1208011662353039400,
+		"id_str": "1208018497743147008",
+		"full_text": "Okinawa: On 49yr anniversary of Koza Riot, high schooler recalls \"It was the first time for me to see US troops fleeing\" 「米兵が逃げるのを初めて見た」“高校生”、長年話せなかったあの夜の記憶　コザ騒動から49年 |https://t.co/30pCPTd8Fz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/30pCPTd8Fz",
+					"expanded_url": "https://www.okinawatimes.co.jp/articles/-/513069",
+					"display_url": "okinawatimes.co.jp/articles/-/513…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968097194,
+			"id_str": "968097194",
+			"name": "Jon Mitchell 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ジョン・ミッチェル",
+			"screen_name": "jonmitchell_jp",
+			"location": "東京・英国・沖縄",
+			"description": "British journalist in Japan w/ Okinawa Times. FCCJ Press Freedom winner. 沖縄タイムス特約通信員。FCCJ報道の自由推進賞「報道功労賞」受賞。「追跡・沖縄の枯れ葉剤」高文研、「追跡・日米地位協定と基地公害」岩波書店。",
+			"url": "https://t.co/Y1WNjnHXu7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y1WNjnHXu7",
+							"expanded_url": "http://www.jonmitchellinjapan.com",
+							"display_url": "jonmitchellinjapan.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4933,
+			"friends_count": 402,
+			"listed_count": 286,
+			"created_at": "Sat Nov 24 14:13:52 +0000 2012",
+			"favourites_count": 203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077557384342458368/AT6vF71Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077557384342458368/AT6vF71Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968097194/1573128272",
+			"profile_link_color": "151B54",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "Okinawa: On 49yr anniversary of Koza Riot, high schooler recalls \"It was the first time for me to see US troops fleeing\" 「米兵が逃げるのを初めて見た」“高校生”、長年話せなかったあの夜の記憶　コザ騒動から49年 |https://t.co/30pCPTd8Fz"
+	},
+	{
+		"created_at": "Fri Dec 20 05:23:09 +0000 2019",
+		"id": 1207892484451225600,
+		"id_str": "1207894183089819649",
+		"full_text": "김유찬 조세재정연구원장은 20일 \"주택 공급을 늘린다고 하더라도 다주택자가 주택 보유를 늘릴 수 있는 구조에서는 주택 소유 편중만 심화할 것\"이라고 평가했다. (이 외에 다른 이들의 흥미있는 주장도 담고 있다.) https://t.co/cifzAjbqaC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cifzAjbqaC",
+					"expanded_url": "http://news.einfomax.co.kr/news/articleView.html?idxno=4062442",
+					"display_url": "news.einfomax.co.kr/news/articleVi…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1159,
+			"friends_count": 355,
+			"listed_count": 0,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 774,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김유찬 조세재정연구원장은 20일 \"주택 공급을 늘린다고 하더라도 다주택자가 주택 보유를 늘릴 수 있는 구조에서는 주택 소유 편중만 심화할 것\"이라고 평가했다. (이 외에 다른 이들의 흥미있는 주장도 담고 있다.) https://t.co/cifzAjbqaC"
+	},
+	{
+		"created_at": "Fri Dec 20 05:03:02 +0000 2019",
+		"id": 1207887479279247400,
+		"id_str": "1207889120791392256",
+		"full_text": "@corwin1129 \"12인 현자회의\" https://t.co/UZz3QGAtfT",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "corwin1129",
+					"name": "일기통관",
+					"id": 42567931,
+					"id_str": "42567931",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1207887471544955000,
+					"id_str": "1207887471544954880",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNHQXYU8AAnSoW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNHQXYU8AAnSoW.jpg",
+					"url": "https://t.co/UZz3QGAtfT",
+					"display_url": "pic.twitter.com/UZz3QGAtfT",
+					"expanded_url": "https://twitter.com/ktotoreborn/status/1207887479279247360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207887471544955000,
+					"id_str": "1207887471544954880",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNHQXYU8AAnSoW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNHQXYU8AAnSoW.jpg",
+					"url": "https://t.co/UZz3QGAtfT",
+					"display_url": "pic.twitter.com/UZz3QGAtfT",
+					"expanded_url": "https://twitter.com/ktotoreborn/status/1207887479279247360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 608,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1207887226421403600,
+		"in_reply_to_status_id_str": "1207887226421403648",
+		"in_reply_to_user_id": 42567931,
+		"in_reply_to_user_id_str": "42567931",
+		"in_reply_to_screen_name": "corwin1129",
+		"user": {
+			"id": 948563622191448000,
+			"id_str": "948563622191448066",
+			"name": "크또또",
+			"screen_name": "ktotoreborn",
+			"location": "",
+			"description": "아니오 저는 여러분의 편이 아닙니다  /  오덕짤은 다 뮤트",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1503,
+			"friends_count": 214,
+			"listed_count": 23,
+			"created_at": "Wed Jan 03 14:36:05 +0000 2018",
+			"favourites_count": 8050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152588031011934209/5R7_Grvk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152588031011934209/5R7_Grvk_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 151,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@corwin1129 \"12인 현자회의\" https://t.co/UZz3QGAtfT"
+	},
+	{
 		"created_at": "Thu Dec 19 20:16:58 +0000 2019",
 		"id": 1206765297295716400,
 		"id_str": "1207756732627218432",
