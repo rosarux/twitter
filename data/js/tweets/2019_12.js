@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 22 13:55:27 +0000 2019",
+		"id": 1208747273561227300,
+		"id_str": "1208747883526160385",
+		"full_text": "NEW: Nakamura Tetsu 中村哲: humanitarian doctor, farmer, &amp; hero of Afghanistan\n\n\"His development ethos ... should become a text book reference, taught in development aid and MBA programs across the world.\"\n\nhttps://t.co/0NQ4H85gD7\n\nCc: @UN_SDG @SDGaction @SDGLab @UNSDGLearn https://t.co/nqX3a2DLdp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UN_SDG",
+					"name": "UN Sustainable Development Group",
+					"id": 823908762,
+					"id_str": "823908762",
+					"indices": [
+						237,
+						244
+					]
+				},
+				{
+					"screen_name": "SDGaction",
+					"name": "UN SDG Action Campaign",
+					"id": 22972898,
+					"id_str": "22972898",
+					"indices": [
+						245,
+						255
+					]
+				},
+				{
+					"screen_name": "SDGLab",
+					"name": "SDG Lab at UN Geneva",
+					"id": 818781600657895400,
+					"id_str": "818781600657895424",
+					"indices": [
+						256,
+						263
+					]
+				},
+				{
+					"screen_name": "UNSDGLearn",
+					"name": "UN SDG:Learn",
+					"id": 1189587302324064300,
+					"id_str": "1189587302324064256",
+					"indices": [
+						264,
+						275
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0NQ4H85gD7",
+					"expanded_url": "https://apjjf.org/2019/24/Azimi.html",
+					"display_url": "apjjf.org/2019/24/Azimi.…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1208747272063852500,
+					"id_str": "1208747272063852544",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EMZVPV6WoAAv9w3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMZVPV6WoAAv9w3.jpg",
+					"url": "https://t.co/nqX3a2DLdp",
+					"display_url": "pic.twitter.com/nqX3a2DLdp",
+					"expanded_url": "https://twitter.com/apjjf/status/1208747273561227264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 395,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 395,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 395,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208747272063852500,
+					"id_str": "1208747272063852544",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EMZVPV6WoAAv9w3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMZVPV6WoAAv9w3.jpg",
+					"url": "https://t.co/nqX3a2DLdp",
+					"display_url": "pic.twitter.com/nqX3a2DLdp",
+					"expanded_url": "https://twitter.com/apjjf/status/1208747273561227264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 395,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 395,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 395,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105521430,
+			"id_str": "105521430",
+			"name": "Asia-Pacific Journal",
+			"screen_name": "apjjf",
+			"location": "Global",
+			"description": "In-depth critical analysis of the forces shaping the Asia-Pacific region & the world.　RTs, follows, mentions, listing, etc. are not endorsements.",
+			"url": "https://t.co/GRfPGHSEb4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GRfPGHSEb4",
+							"expanded_url": "http://www.apjjf.org",
+							"display_url": "apjjf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7311,
+			"friends_count": 789,
+			"listed_count": 521,
+			"created_at": "Sat Jan 16 16:11:14 +0000 2010",
+			"favourites_count": 13612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F1DF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105521430/1555430110",
+			"profile_link_color": "572E4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EE0B5B",
+			"profile_text_color": "027B7F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW: Nakamura Tetsu 中村哲: humanitarian doctor, farmer, &amp; hero of Afghanistan\n\n\"His development ethos ... should become a text book reference, taught in development aid and MBA programs across the world.\"\n\nhttps://t.co/0NQ4H85gD7\n\nCc: @UN_SDG @SDGaction @SDGLab @UNSDGLearn https://t.co/nqX3a2DLdp"
+	},
+	{
 		"created_at": "Sun Dec 22 00:16:22 +0000 2019",
 		"id": 1208541753713676300,
 		"id_str": "1208541753713676288",
