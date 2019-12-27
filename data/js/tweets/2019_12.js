@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 26 08:29:04 +0000 2019",
+		"id": 1210094786822041600,
+		"id_str": "1210115295680983045",
+		"full_text": "오늘 민주당이 영입한 최혜영은 장애인식개선교육센터 이사장이자 강동대 사회복지학과 교수입니다.\n여성 척수장애인으로는 국내 최초로 재활학 박사학위를 받았습니다. 또한 작년 직장 내 '장애인식개선교육 의무화' 제도를 만들어내는데 기여하기도 했습니다. 님들 미친 거 같아요. https://t.co/SK1f2C1O4w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1210094780908048400,
+					"id_str": "1210094780908048384",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EMseyriUEAAw1Od.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMseyriUEAAw1Od.jpg",
+					"url": "https://t.co/SK1f2C1O4w",
+					"display_url": "pic.twitter.com/SK1f2C1O4w",
+					"expanded_url": "https://twitter.com/betterca11/status/1210094786822041600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1210094780908048400,
+					"id_str": "1210094780908048384",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EMseyriUEAAw1Od.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMseyriUEAAw1Od.jpg",
+					"url": "https://t.co/SK1f2C1O4w",
+					"display_url": "pic.twitter.com/SK1f2C1O4w",
+					"expanded_url": "https://twitter.com/betterca11/status/1210094786822041600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1110687064511529000,
+			"id_str": "1110687064511528961",
+			"name": "마그낙",
+			"screen_name": "betterca11",
+			"location": "",
+			"description": "해 하지마",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 341,
+			"friends_count": 233,
+			"listed_count": 5,
+			"created_at": "Tue Mar 26 23:36:46 +0000 2019",
+			"favourites_count": 7023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207174368935043072/F5aOMT7G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207174368935043072/F5aOMT7G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1110687064511528961/1575646963",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 943,
+		"favorite_count": 206,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 민주당이 영입한 최혜영은 장애인식개선교육센터 이사장이자 강동대 사회복지학과 교수입니다.\n여성 척수장애인으로는 국내 최초로 재활학 박사학위를 받았습니다. 또한 작년 직장 내 '장애인식개선교육 의무화' 제도를 만들어내는데 기여하기도 했습니다. 님들 미친 거 같아요. https://t.co/SK1f2C1O4w"
+	},
+	{
 		"created_at": "Mon Dec 23 09:21:04 +0000 2019",
 		"id": 1209041220070076400,
 		"id_str": "1209041220070076416",
