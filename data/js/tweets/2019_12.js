@@ -1,6 +1,672 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 28 13:16:14 +0000 2019",
+		"id": 1210912340905881600,
+		"id_str": "1210912340905881601",
+		"full_text": "@sldn1206 토요일 밤 10시에 정중하게 문자를 보내는 걸 보내 애초에 도하시점도 잘못 정한 듯 합니다.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sldn1206",
+					"name": "하방형 먀오이스트 담륜",
+					"id": 2572908468,
+					"id_str": "2572908468",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1210910759451914200,
+		"in_reply_to_status_id_str": "1210910759451914241",
+		"in_reply_to_user_id": 2572908468,
+		"in_reply_to_user_id_str": "2572908468",
+		"in_reply_to_screen_name": "sldn1206",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 564,
+			"friends_count": 438,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@sldn1206 토요일 밤 10시에 정중하게 문자를 보내는 걸 보내 애초에 도하시점도 잘못 정한 듯 합니다."
+	},
+	{
+		"created_at": "Sat Dec 28 13:05:57 +0000 2019",
+		"id": 1210909752781226000,
+		"id_str": "1210909752781225984",
+		"full_text": "연말이 돼서 그런가, 전직장에서 일 관계로 엮여 있던 사람들이 다시 다리를 좀 놓아 달라고 그러네.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 564,
+			"friends_count": 438,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "연말이 돼서 그런가, 전직장에서 일 관계로 엮여 있던 사람들이 다시 다리를 좀 놓아 달라고 그러네."
+	},
+	{
+		"created_at": "Sat Dec 28 07:53:19 +0000 2019",
+		"id": 1210731080371691500,
+		"id_str": "1210831077285093376",
+		"full_text": "리버럴은 진보정당을 정치적 협상이 가능한 비즈니스 파트너로 대하는데 진보정당 지지자들이 ㅈ버럴 ㅈ버럴 하면 후보 단일화 안하고 전국에 모두 후보 내려보내면 됨",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1210730794806694000,
+		"in_reply_to_status_id_str": "1210730794806693888",
+		"in_reply_to_user_id": 508153921,
+		"in_reply_to_user_id_str": "508153921",
+		"in_reply_to_screen_name": "_kdkm",
+		"user": {
+			"id": 508153921,
+			"id_str": "508153921",
+			"name": "工藤君@マルス様かっこいい",
+			"screen_name": "_kdkm",
+			"location": "South korea/Incheon",
+			"description": "gamer/Kancolle/SC2/Fire Emblem/Lotte giants/like coffee&tea/studying game level design",
+			"url": "https://t.co/7I5znVFvSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7I5znVFvSx",
+							"expanded_url": "http://ask.fm/a54882/",
+							"display_url": "ask.fm/a54882/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301,
+			"friends_count": 869,
+			"listed_count": 8,
+			"created_at": "Wed Feb 29 00:45:19 +0000 2012",
+			"favourites_count": 4078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 204210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208699931151593472/79DSo3hM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208699931151593472/79DSo3hM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/508153921/1574413830",
+			"profile_link_color": "998643",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "리버럴은 진보정당을 정치적 협상이 가능한 비즈니스 파트너로 대하는데 진보정당 지지자들이 ㅈ버럴 ㅈ버럴 하면 후보 단일화 안하고 전국에 모두 후보 내려보내면 됨"
+	},
+	{
+		"created_at": "Sat Dec 28 07:52:00 +0000 2019",
+		"id": 1210722276066218000,
+		"id_str": "1210830743447818241",
+		"full_text": "민주당과 자유당 간의 밸런스는 이제 미드웨이 해전 끝난 느낌?\n한 번 이기긴 했지만 여전히 전력은 충분하게 남아있다. 특히 대부분의 개신교회가 놋그릇을 모아 뽑아낼 제로센만 수만대임.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 50159436,
+			"id_str": "50159436",
+			"name": "Peter Park",
+			"screen_name": "BlkBldKnights",
+			"location": "경기남도 안남시",
+			"description": "비정규직 노동자. \n프로젝트 블랙블러드나이츠. \n프로젝트 NoGada.   \n프로젝트 중폭시대.\n#gamedev",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 813,
+			"friends_count": 1866,
+			"listed_count": 48,
+			"created_at": "Wed Jun 24 00:48:58 +0000 2009",
+			"favourites_count": 15413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065206820317216768/oCb5x6Xz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065206820317216768/oCb5x6Xz_normal.jpg",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "민주당과 자유당 간의 밸런스는 이제 미드웨이 해전 끝난 느낌?\n한 번 이기긴 했지만 여전히 전력은 충분하게 남아있다. 특히 대부분의 개신교회가 놋그릇을 모아 뽑아낼 제로센만 수만대임."
+	},
+	{
+		"created_at": "Sat Dec 28 07:36:04 +0000 2019",
+		"id": 1210822472334889000,
+		"id_str": "1210826734800527360",
+		"full_text": "ねむい https://t.co/a19caShYV3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1210822465858891800,
+					"id_str": "1210822465858891777",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/EM20nhOU8AEMrph.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EM20nhOU8AEMrph.jpg",
+					"url": "https://t.co/a19caShYV3",
+					"display_url": "pic.twitter.com/a19caShYV3",
+					"expanded_url": "https://twitter.com/hanacotoba_jp/status/1210822472334888960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1210822465858891800,
+					"id_str": "1210822465858891777",
+					"indices": [
+						4,
+						27
+					],
+					"media_url": "http://pbs.twimg.com/media/EM20nhOU8AEMrph.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EM20nhOU8AEMrph.jpg",
+					"url": "https://t.co/a19caShYV3",
+					"display_url": "pic.twitter.com/a19caShYV3",
+					"expanded_url": "https://twitter.com/hanacotoba_jp/status/1210822472334888960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1494619890,
+			"id_str": "1494619890",
+			"name": "はな言葉🌷ウェディングドレス",
+			"screen_name": "hanacotoba_jp",
+			"location": "Fukuoka",
+			"description": "葉菜桜花子@hanacohanasaku🌹萎れたり散った花を使って絵を描くフラワードレスデザイナー🌸花言葉ドレス👗書籍二冊. 絵の使用・転載NG.｜ Insta⇒https://t.co/RCRJpgK4p8 お仕事⇒ohanacotoba@gmail.com👗ドレス👉@flowery__fields",
+			"url": "https://t.co/R3n25ZxxNK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/R3n25ZxxNK",
+							"expanded_url": "https://hanacotoba.net",
+							"display_url": "hanacotoba.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/RCRJpgK4p8",
+							"expanded_url": "https://goo.gl/k5gJmJ",
+							"display_url": "goo.gl/k5gJmJ",
+							"indices": [
+								81,
+								104
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 155450,
+			"friends_count": 208,
+			"listed_count": 1314,
+			"created_at": "Sun Jun 09 04:37:31 +0000 2013",
+			"favourites_count": 8915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192738277930831873/TU_KIEaD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192738277930831873/TU_KIEaD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1494619890/1492434500",
+			"profile_link_color": "CAE5CD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 351,
+		"favorite_count": 2378,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ねむい https://t.co/a19caShYV3"
+	},
+	{
+		"created_at": "Sat Dec 28 07:08:33 +0000 2019",
+		"id": 1210460104547455000,
+		"id_str": "1210819812743507968",
+		"full_text": "우리 학교엔 페미가 없다고요? \n-그 학교가 안전한 공간이 아니기 때문입니다\n내 주변엔 퀴어가 없다고요?\n-당신이 안전한 사람이 아니기 때문입니다\n나는 성차별적인 말을 들은 적이 없다고요?\n-당신이 보다 안전한 위치에 있기 때문입니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207559774268559400,
+			"id_str": "1207559774268559360",
+			"name": "성교육쟁이",
+			"screen_name": "Ebkml6FnYEOgtBZ",
+			"location": "",
+			"description": "성교육 성평등교육 성폭력예방교육 합니다 성교육쟁이의 고난일기\n\n만화계정 @sexualityeducat\n브런치 https://t.co/mF2haaAHME",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mF2haaAHME",
+							"expanded_url": "https://brunch.co.kr/@1793z",
+							"display_url": "brunch.co.kr/@1793z",
+							"indices": [
+								61,
+								84
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 539,
+			"friends_count": 51,
+			"listed_count": 0,
+			"created_at": "Thu Dec 19 07:14:29 +0000 2019",
+			"favourites_count": 41,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207561148146409473/TC7HzTn2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207561148146409473/TC7HzTn2_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8034,
+		"favorite_count": 3283,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "우리 학교엔 페미가 없다고요? \n-그 학교가 안전한 공간이 아니기 때문입니다\n내 주변엔 퀴어가 없다고요?\n-당신이 안전한 사람이 아니기 때문입니다\n나는 성차별적인 말을 들은 적이 없다고요?\n-당신이 보다 안전한 위치에 있기 때문입니다"
+	},
+	{
 		"created_at": "Fri Dec 27 02:27:43 +0000 2019",
 		"id": 1210376704528568300,
 		"id_str": "1210386747772686336",
