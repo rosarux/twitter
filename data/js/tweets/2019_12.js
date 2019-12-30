@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 29 13:47:56 +0000 2019",
+		"id": 1210960415343009800,
+		"id_str": "1211282708208316416",
+		"full_text": "3대 중앙 일간지 중 하나라는 곳에서 이런 타이틀을 뽑는다는 사실에 부끄러움을 못 느끼는걸까. 보수에게 품위를 기대하는 것 만큼 어리석은 일도 없다. https://t.co/p39qTkaqgu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p39qTkaqgu",
+					"expanded_url": "https://twitter.com/justin_j_Ryu/status/1210957208759832576",
+					"display_url": "twitter.com/justin_j_Ryu/s…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 165325098,
+			"id_str": "165325098",
+			"name": "서울의 銀空을 찾아서",
+			"screen_name": "eun_gong",
+			"location": "대한민국 서울",
+			"description": "#서울의현대를찾아서 기록합니다 #서울의역사를찾아서 발굴합니다 #머릿돌사냥단 정초석을 찾습니다 #은공컬렉션 #은공아카이브 수집합니다 instagram hashtag #journey_to_modern_seoul 헤더 사진은 종로 대왕빌딩(1967)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9552,
+			"friends_count": 659,
+			"listed_count": 161,
+			"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+			"favourites_count": 10719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 276091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7EE6BD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200684293258788867/akmjKLPg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200684293258788867/akmjKLPg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1569256492",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1210957208759832600,
+		"quoted_status_id_str": "1210957208759832576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/p39qTkaqgu",
+			"expanded": "https://twitter.com/justin_j_Ryu/status/1210957208759832576",
+			"display": "twitter.com/justin_j_Ryu/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 28 16:14:31 +0000 2019",
+			"id": 1210957208759832600,
+			"id_str": "1210957208759832576",
+			"full_text": "\"서울서 돈 잃으면 X신\" 文정부서 개념 바뀐 부동산 투자\n출처 : 중앙일보\n https://t.co/vKh2Lhqyxs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vKh2Lhqyxs",
+						"expanded_url": "http://naver.me/GZCBBT7Y",
+						"display_url": "naver.me/GZCBBT7Y",
+						"indices": [
+							44,
+							67
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 228964424,
+				"id_str": "228964424",
+				"name": "Data Driven Investing!!",
+				"screen_name": "justin_j_Ryu",
+				"location": "Seoul, Republic of Korea",
+				"description": "Portfolio Manager\n(Beta allocator, FI/FX/EQUITY)\n\n갓 달리오님, 탈렙님을 존경하는 1인",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 361,
+				"friends_count": 132,
+				"listed_count": 12,
+				"created_at": "Tue Dec 21 04:48:18 +0000 2010",
+				"favourites_count": 695,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1214,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1190888926321500161/mHnNgEg1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190888926321500161/mHnNgEg1_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 187,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3대 중앙 일간지 중 하나라는 곳에서 이런 타이틀을 뽑는다는 사실에 부끄러움을 못 느끼는걸까. 보수에게 품위를 기대하는 것 만큼 어리석은 일도 없다. https://t.co/p39qTkaqgu"
+	},
+	{
 		"created_at": "Sat Dec 28 13:16:14 +0000 2019",
 		"id": 1210912340905881600,
 		"id_str": "1210912340905881601",
