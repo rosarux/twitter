@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 31 14:52:46 +0000 2019",
+		"id": 1212023362190545000,
+		"id_str": "1212023796716060672",
+		"full_text": "Shuri Castle and Japanese Castles: A Controversial Heritage\n\nOleg Benesch &amp; Ran Zwigenberg\n\nhttps://t.co/3riueRz99J\n\n#Okinawa #Twitterstorians\n\nCc: @thetokyofiles https://t.co/9ZZFAzvI8z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Okinawa",
+					"indices": [
+						121,
+						129
+					]
+				},
+				{
+					"text": "Twitterstorians",
+					"indices": [
+						130,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thetokyofiles",
+					"name": "the tokyo files",
+					"id": 67934814,
+					"id_str": "67934814",
+					"indices": [
+						152,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3riueRz99J",
+					"expanded_url": "https://apjjf.org/2019/24/Benesch",
+					"display_url": "apjjf.org/2019/24/Benesch",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1212023358818340900,
+					"id_str": "1212023358818340865",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ENH40sHX0AE64Ze.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENH40sHX0AE64Ze.jpg",
+					"url": "https://t.co/9ZZFAzvI8z",
+					"display_url": "pic.twitter.com/9ZZFAzvI8z",
+					"expanded_url": "https://twitter.com/apjjf/status/1212023362190544900/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 774,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 774,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 559,
+									"y": 591,
+									"h": 118,
+									"w": 118
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 559,
+									"y": 591,
+									"h": 118,
+									"w": 118
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 559,
+									"y": 591,
+									"h": 118,
+									"w": 118
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 491,
+									"y": 519,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1212023358818340900,
+					"id_str": "1212023358818340865",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ENH40sHX0AE64Ze.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENH40sHX0AE64Ze.jpg",
+					"url": "https://t.co/9ZZFAzvI8z",
+					"display_url": "pic.twitter.com/9ZZFAzvI8z",
+					"expanded_url": "https://twitter.com/apjjf/status/1212023362190544900/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 774,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 774,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 559,
+									"y": 591,
+									"h": 118,
+									"w": 118
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 559,
+									"y": 591,
+									"h": 118,
+									"w": 118
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 559,
+									"y": 591,
+									"h": 118,
+									"w": 118
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 491,
+									"y": 519,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1212023359195766800,
+					"id_str": "1212023359195766784",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ENH40thW4AAwT4s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENH40thW4AAwT4s.jpg",
+					"url": "https://t.co/9ZZFAzvI8z",
+					"display_url": "pic.twitter.com/9ZZFAzvI8z",
+					"expanded_url": "https://twitter.com/apjjf/status/1212023362190544900/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1212023359288041500,
+					"id_str": "1212023359288041472",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ENH40t3W4AA3gY-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENH40t3W4AA3gY-.jpg",
+					"url": "https://t.co/9ZZFAzvI8z",
+					"display_url": "pic.twitter.com/9ZZFAzvI8z",
+					"expanded_url": "https://twitter.com/apjjf/status/1212023362190544900/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1212023360277885000,
+					"id_str": "1212023360277884928",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ENH40xjWsAAWBBa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENH40xjWsAAWBBa.jpg",
+					"url": "https://t.co/9ZZFAzvI8z",
+					"display_url": "pic.twitter.com/9ZZFAzvI8z",
+					"expanded_url": "https://twitter.com/apjjf/status/1212023362190544900/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 419,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 493,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 105521430,
+			"id_str": "105521430",
+			"name": "Asia-Pacific Journal",
+			"screen_name": "apjjf",
+			"location": "Global",
+			"description": "In-depth critical analysis of the forces shaping the Asia-Pacific region & the world.　RTs, follows, mentions, listing, etc. are not endorsements.",
+			"url": "https://t.co/GRfPGHSEb4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GRfPGHSEb4",
+							"expanded_url": "http://www.apjjf.org",
+							"display_url": "apjjf.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7320,
+			"friends_count": 789,
+			"listed_count": 521,
+			"created_at": "Sat Jan 16 16:11:14 +0000 2010",
+			"favourites_count": 13612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F1DF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/637198771/1284_bird_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/105521430/1555430110",
+			"profile_link_color": "572E4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EE0B5B",
+			"profile_text_color": "027B7F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ro",
+		"text": "Shuri Castle and Japanese Castles: A Controversial Heritage\n\nOleg Benesch &amp; Ran Zwigenberg\n\nhttps://t.co/3riueRz99J\n\n#Okinawa #Twitterstorians\n\nCc: @thetokyofiles https://t.co/9ZZFAzvI8z"
+	},
+	{
 		"created_at": "Sun Dec 29 13:47:56 +0000 2019",
 		"id": 1210960415343009800,
 		"id_str": "1211282708208316416",
