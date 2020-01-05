@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 04 10:52:23 +0000 2020",
+		"id": 1212669453575561200,
+		"id_str": "1213412853635407872",
+		"full_text": "인터넷 온라인 폴은 어떤 의지가 있는 사람들만 모이기 때문에 그걸로 대푯값을 삼으면 안됨. 댓글도 마찬가지.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/bkAeD9tAxc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bkAeD9tAxc",
+							"expanded_url": "http://cfr0g.wordpress.com",
+							"display_url": "cfr0g.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4533,
+			"friends_count": 161,
+			"listed_count": 154,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "인터넷 온라인 폴은 어떤 의지가 있는 사람들만 모이기 때문에 그걸로 대푯값을 삼으면 안됨. 댓글도 마찬가지."
+	},
+	{
+		"created_at": "Sat Jan 04 08:40:41 +0000 2020",
+		"id": 1213304850185744400,
+		"id_str": "1213379713835524097",
+		"full_text": "난 몰랐던 내용인데, 면허취소 기준완화가 의약분업 반대급부였다는 게 놀라울뿐이다... 의사사회 대체 어디서부터 잘못된거야. 왜 시대를 거꾸로타. #유체이탈 https://t.co/Gpx7E2RaX2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유체이탈",
+					"indices": [
+						81,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gpx7E2RaX2",
+					"expanded_url": "https://twitter.com/wtb_lionheart/status/1213281294890586112",
+					"display_url": "twitter.com/wtb_lionheart/…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 605417604,
+			"id_str": "605417604",
+			"name": "추워서 못살겠다 blossom",
+			"screen_name": "in_bloooossom",
+			"location": "대한민국 서울",
+			"description": "요통에 시달리는 병원 노동자; 공연/책 얘기는 @inblossom2에서; 이유없이 계정 열었다닫았다 합니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1196,
+			"friends_count": 487,
+			"listed_count": 22,
+			"created_at": "Mon Jun 11 11:21:03 +0000 2012",
+			"favourites_count": 6864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191712002403688448/tbgXD1Fw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191712002403688448/tbgXD1Fw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/605417604/1558254886",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1213281294890586000,
+		"quoted_status_id_str": "1213281294890586112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Gpx7E2RaX2",
+			"expanded": "https://twitter.com/wtb_lionheart/status/1213281294890586112",
+			"display": "twitter.com/wtb_lionheart/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 04 02:09:37 +0000 2020",
+			"id": 1213281294890586000,
+			"id_str": "1213281294890586112",
+			"full_text": "\"당시 정부가 의약분업 파업으로 갈등을 빚은 의료계를 달래기 위한 반대급부로 면허취소 기준을 완화해 준 것이다.\"",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1213281199604371500,
+			"in_reply_to_status_id_str": "1213281199604371457",
+			"in_reply_to_user_id": 1629911160,
+			"in_reply_to_user_id_str": "1629911160",
+			"in_reply_to_screen_name": "wtb_lionheart",
+			"user": {
+				"id": 1629911160,
+				"id_str": "1629911160",
+				"name": "oncoazim",
+				"screen_name": "wtb_lionheart",
+				"location": "",
+				"description": "글쓰기를 위한 글쓰기를 좋아하고 그림을 위한 그림을 좋아하며 연구를 위한 연구를 싫어합니다. 병원과 죽음과 삶에 대한 이야기, [잃었지만 잊지 않은 것들]을 썼습니다.",
+				"url": "https://t.co/3rz1LZs5tG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3rz1LZs5tG",
+								"expanded_url": "https://brunch.co.kr/@cathykimmd",
+								"display_url": "brunch.co.kr/@cathykimmd",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3484,
+				"friends_count": 497,
+				"listed_count": 45,
+				"created_at": "Mon Jul 29 09:19:10 +0000 2013",
+				"favourites_count": 4232,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4784,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000207474358/233d3641b67cb44a2e3866f8af05967c_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000207474358/233d3641b67cb44a2e3866f8af05967c_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1629911160/1375090742",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 31,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "난 몰랐던 내용인데, 면허취소 기준완화가 의약분업 반대급부였다는 게 놀라울뿐이다... 의사사회 대체 어디서부터 잘못된거야. 왜 시대를 거꾸로타. #유체이탈 https://t.co/Gpx7E2RaX2"
+	},
+	{
 		"created_at": "Wed Jan 01 13:16:36 +0000 2020",
 		"id": 1212336309475455000,
 		"id_str": "1212361986215825411",
