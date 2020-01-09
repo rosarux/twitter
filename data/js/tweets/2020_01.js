@@ -1,6 +1,103 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 11:34:49 +0000 2020",
+		"id": 1214745748622827500,
+		"id_str": "1214873086333345792",
+		"full_text": "Q. 새해 소원은요?\nA. 세계평화요\n\nQ. 남들은 로또당첨이나 부자되기나 아파트 같은 거 빌던데요\nA. 전쟁나면 로또는 휴지되고 통장은 증발하며 아파트는 핵의 불길속으로 사라진다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 353097742,
+			"id_str": "353097742",
+			"name": "시아란/아란시스토르",
+			"screen_name": "aransistore",
+			"location": "복실이 연구소",
+			"description": "PhD Engr / 스토리텔러 / 서브컬쳐, 철도, 봉제인형, 귀여운 것, 그리고 레몬 / 나의 일상이 당신의 경이가 되기를 / 안전가옥 대멸종 앤솔로지 발매 중",
+			"url": "https://t.co/YdD6I0GJRn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YdD6I0GJRn",
+							"expanded_url": "http://www.siaran.kr",
+							"display_url": "siaran.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2381,
+			"friends_count": 215,
+			"listed_count": 54,
+			"created_at": "Thu Aug 11 15:02:56 +0000 2011",
+			"favourites_count": 15883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 354585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715889920997351426/EiYi-xTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/353097742/1459516574",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3458,
+		"favorite_count": 1300,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "Q. 새해 소원은요?\nA. 세계평화요\n\nQ. 남들은 로또당첨이나 부자되기나 아파트 같은 거 빌던데요\nA. 전쟁나면 로또는 휴지되고 통장은 증발하며 아파트는 핵의 불길속으로 사라진다"
+	},
+	{
 		"created_at": "Mon Jan 06 02:50:19 +0000 2020",
 		"id": 1214007436119400400,
 		"id_str": "1214016315892981766",
