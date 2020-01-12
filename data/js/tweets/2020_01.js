@@ -1,6 +1,1166 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 11 14:24:54 +0000 2020",
+		"id": 1215927418839429000,
+		"id_str": "1216003052999598080",
+		"full_text": "게다가 탁상행정도 아니다. 제주도에서 몇 년간 시행하고 그걸 바탕으로 전국으로 확대한 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1215927230762610700,
+		"in_reply_to_status_id_str": "1215927230762610688",
+		"in_reply_to_user_id": 134986465,
+		"in_reply_to_user_id_str": "134986465",
+		"in_reply_to_screen_name": "yeokbo",
+		"user": {
+			"id": 134986465,
+			"id_str": "134986465",
+			"name": "역보😷🇰🇷🇹🇼🇭🇰",
+			"screen_name": "yeokbo",
+			"location": "대한민국 경기도",
+			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️‍🌈🦐",
+			"url": "https://t.co/RwhrPgiKMR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RwhrPgiKMR",
+							"expanded_url": "http://yeokbo.tistory.com",
+							"display_url": "yeokbo.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1856,
+			"friends_count": 833,
+			"listed_count": 50,
+			"created_at": "Tue Apr 20 01:17:50 +0000 2010",
+			"favourites_count": 78255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 384527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AACBB0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117850262536744961/z6SkyA0J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117850262536744961/z6SkyA0J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134986465/1526134158",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "152429",
+			"profile_sidebar_fill_color": "253836",
+			"profile_text_color": "4D5D5A",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "게다가 탁상행정도 아니다. 제주도에서 몇 년간 시행하고 그걸 바탕으로 전국으로 확대한 것."
+	},
+	{
+		"created_at": "Sat Jan 11 14:24:49 +0000 2020",
+		"id": 1215927230762610700,
+		"id_str": "1216003029884755968",
+		"full_text": "마트에서 포장 테이프를 없앤 것이 탁상행정이라는 비난이 많은데, 이런 비닐 테이프는 재활용도 안 되는 이물질이라 다 소각하거나 매립한다. 스티로폼이나 종이에 붙은 테이프는 사람이 일일히 손으로 제거해야 함.\nhttps://t.co/NSeF3j4Pe6 https://t.co/UH7Sv07Wuy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NSeF3j4Pe6",
+					"expanded_url": "https://youtu.be/qo0_ZY5-cFw",
+					"display_url": "youtu.be/qo0_ZY5-cFw",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215927220910166000,
+					"id_str": "1215927220910166016",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EN_XXXsUEAAoryz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN_XXXsUEAAoryz.jpg",
+					"url": "https://t.co/UH7Sv07Wuy",
+					"display_url": "pic.twitter.com/UH7Sv07Wuy",
+					"expanded_url": "https://twitter.com/yeokbo/status/1215927230762610688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 837,
+									"y": 329,
+									"h": 131,
+									"w": 131
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 490,
+									"y": 192,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 908,
+									"y": 357,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 278,
+									"y": 109,
+									"h": 43,
+									"w": 43
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215927220910166000,
+					"id_str": "1215927220910166016",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EN_XXXsUEAAoryz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN_XXXsUEAAoryz.jpg",
+					"url": "https://t.co/UH7Sv07Wuy",
+					"display_url": "pic.twitter.com/UH7Sv07Wuy",
+					"expanded_url": "https://twitter.com/yeokbo/status/1215927230762610688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 837,
+									"y": 329,
+									"h": 131,
+									"w": 131
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 490,
+									"y": 192,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 908,
+									"y": 357,
+									"h": 143,
+									"w": 143
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 278,
+									"y": 109,
+									"h": 43,
+									"w": 43
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 134986465,
+			"id_str": "134986465",
+			"name": "역보😷🇰🇷🇹🇼🇭🇰",
+			"screen_name": "yeokbo",
+			"location": "대한민국 경기도",
+			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️‍🌈🦐",
+			"url": "https://t.co/RwhrPgiKMR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RwhrPgiKMR",
+							"expanded_url": "http://yeokbo.tistory.com",
+							"display_url": "yeokbo.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1856,
+			"friends_count": 833,
+			"listed_count": 50,
+			"created_at": "Tue Apr 20 01:17:50 +0000 2010",
+			"favourites_count": 78255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 384527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AACBB0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117850262536744961/z6SkyA0J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117850262536744961/z6SkyA0J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/134986465/1526134158",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "152429",
+			"profile_sidebar_fill_color": "253836",
+			"profile_text_color": "4D5D5A",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 203,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마트에서 포장 테이프를 없앤 것이 탁상행정이라는 비난이 많은데, 이런 비닐 테이프는 재활용도 안 되는 이물질이라 다 소각하거나 매립한다. 스티로폼이나 종이에 붙은 테이프는 사람이 일일히 손으로 제거해야 함.\nhttps://t.co/NSeF3j4Pe6 https://t.co/UH7Sv07Wuy"
+	},
+	{
+		"created_at": "Sat Jan 11 10:27:43 +0000 2020",
+		"id": 1215811894017060900,
+		"id_str": "1215943362387165184",
+		"full_text": "간장게장과 관련된 이여영씨에 대한 임예인씨의 글. 임예인씨의 말에 전적 동의. https://t.co/1ya0kNC1lA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215811883577430000,
+					"id_str": "1215811883577430017",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EN9ud2pU0AEBysx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN9ud2pU0AEBysx.jpg",
+					"url": "https://t.co/1ya0kNC1lA",
+					"display_url": "pic.twitter.com/1ya0kNC1lA",
+					"expanded_url": "https://twitter.com/_Nefesh/status/1215811894017060866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 745,
+							"h": 748,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 745,
+							"h": 748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 350,
+									"y": 555,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 151,
+									"y": 628,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 441,
+									"y": 442,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 350,
+									"y": 555,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 151,
+									"y": 628,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 441,
+									"y": 442,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 350,
+									"y": 555,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 151,
+									"y": 628,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 441,
+									"y": 442,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 318,
+									"y": 504,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 137,
+									"y": 570,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 400,
+									"y": 401,
+									"h": 59,
+									"w": 59
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215811883577430000,
+					"id_str": "1215811883577430017",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EN9ud2pU0AEBysx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN9ud2pU0AEBysx.jpg",
+					"url": "https://t.co/1ya0kNC1lA",
+					"display_url": "pic.twitter.com/1ya0kNC1lA",
+					"expanded_url": "https://twitter.com/_Nefesh/status/1215811894017060866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 745,
+							"h": 748,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 745,
+							"h": 748,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 350,
+									"y": 555,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 151,
+									"y": 628,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 441,
+									"y": 442,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 350,
+									"y": 555,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 151,
+									"y": 628,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 441,
+									"y": 442,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 350,
+									"y": 555,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 151,
+									"y": 628,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 441,
+									"y": 442,
+									"h": 65,
+									"w": 65
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 318,
+									"y": 504,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 137,
+									"y": 570,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 400,
+									"y": 401,
+									"h": 59,
+									"w": 59
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215811883577430000,
+					"id_str": "1215811883577430016",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EN9ud2pU0AA1tsq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN9ud2pU0AA1tsq.jpg",
+					"url": "https://t.co/1ya0kNC1lA",
+					"display_url": "pic.twitter.com/1ya0kNC1lA",
+					"expanded_url": "https://twitter.com/_Nefesh/status/1215811894017060866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 591,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 651,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 651,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 566,
+									"y": 215,
+									"h": 109,
+									"w": 109
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 513,
+									"y": 195,
+									"h": 98,
+									"w": 98
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 566,
+									"y": 215,
+									"h": 109,
+									"w": 109
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 566,
+									"y": 215,
+									"h": 109,
+									"w": 109
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2897245680,
+			"id_str": "2897245680",
+			"name": "산야신 遊行者",
+			"screen_name": "_Nefesh",
+			"location": "지금, 여기",
+			"description": "‘기적수업’, 오쇼 라즈니쉬, 밥 말리를 무척이나 좋아하는 목사입니다. ‘기본소득 보장’만이 우리가 다같이 살 길이라고 주장하고 다닙니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 712,
+			"friends_count": 170,
+			"listed_count": 8,
+			"created_at": "Wed Nov 12 07:42:07 +0000 2014",
+			"favourites_count": 344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171330300229517313/Cg6IOHPo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171330300229517313/Cg6IOHPo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2897245680/1568101881",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 691,
+		"favorite_count": 350,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "간장게장과 관련된 이여영씨에 대한 임예인씨의 글. 임예인씨의 말에 전적 동의. https://t.co/1ya0kNC1lA"
+	},
+	{
+		"created_at": "Sat Jan 11 10:22:33 +0000 2020",
+		"id": 1215795892306899000,
+		"id_str": "1215942063151177728",
+		"full_text": "\"민영화\"라는 단어도 사실 약간 기만적이지. 원래 privatization의 번역은 어원상 사(私)유화가 좀 더 적합함. 그런데 그걸 민(民)으로 치환해버렸다는 건, 사적이라는 뉘앙스를 제거하는 것임. 이게 일본이 만든 조어라는 것에 주목할 필요가 있음. 왜 민이 들어갔는지.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1399735964,
+			"id_str": "1399735964",
+			"name": "츄군",
+			"screen_name": "chugun_real",
+			"location": "",
+			"description": "옴",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 599,
+			"friends_count": 99,
+			"listed_count": 15,
+			"created_at": "Fri May 03 13:23:31 +0000 2013",
+			"favourites_count": 3731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156417367473131520/OmeRsSkg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156417367473131520/OmeRsSkg_normal.png",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2350,
+		"favorite_count": 682,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"민영화\"라는 단어도 사실 약간 기만적이지. 원래 privatization의 번역은 어원상 사(私)유화가 좀 더 적합함. 그런데 그걸 민(民)으로 치환해버렸다는 건, 사적이라는 뉘앙스를 제거하는 것임. 이게 일본이 만든 조어라는 것에 주목할 필요가 있음. 왜 민이 들어갔는지."
+	},
+	{
+		"created_at": "Sat Jan 11 09:55:09 +0000 2020",
+		"id": 1215578113993670700,
+		"id_str": "1215935165605670913",
+		"full_text": "시리아에서 아사드가 반정부 시민들 가스로 학살할 때 안타까워하던 분들이 술레이마니 죽은 걸 애도하는 건 여러모로 좀... 트럼프가 어이없는 수단을 선택한 게 문제지 현대 중동을 혼돈파괴양상으로 몰아간 주체 중 하나인 IRGC 헤드를 좋은 사람이었다고 하면 안되지 않을까 싶습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66153663,
+			"id_str": "66153663",
+			"name": "LTi",
+			"screen_name": "Luuuuuuuuuuuu",
+			"location": "",
+			"description": "",
+			"url": "http://t.co/XbRiWQgCOC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/XbRiWQgCOC",
+							"expanded_url": "http://whitebase.or.kr",
+							"display_url": "whitebase.or.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2575,
+			"friends_count": 225,
+			"listed_count": 79,
+			"created_at": "Sun Aug 16 17:33:47 +0000 2009",
+			"favourites_count": 7398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 259490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBDBDB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820094393545728000/0vIgzumK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820094393545728000/0vIgzumK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66153663/1460727726",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "E3E3E3",
+			"profile_sidebar_fill_color": "EDEDED",
+			"profile_text_color": "4D4D4D",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "시리아에서 아사드가 반정부 시민들 가스로 학살할 때 안타까워하던 분들이 술레이마니 죽은 걸 애도하는 건 여러모로 좀... 트럼프가 어이없는 수단을 선택한 게 문제지 현대 중동을 혼돈파괴양상으로 몰아간 주체 중 하나인 IRGC 헤드를 좋은 사람이었다고 하면 안되지 않을까 싶습니다."
+	},
+	{
+		"created_at": "Sat Jan 11 09:52:48 +0000 2020",
+		"id": 1215585143701721000,
+		"id_str": "1215934575794253824",
+		"full_text": "반미라면 학살자도 추모하나? 정말 저 집단, 정파적이다. ㅉㅉ\n\nhttps://t.co/uujun82Ktw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uujun82Ktw",
+					"expanded_url": "https://news.v.daum.net/v/20200110141011247",
+					"display_url": "news.v.daum.net/v/202001101410…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 198574639,
+			"id_str": "198574639",
+			"name": "사츠키와 연애중인 누군가의친구",
+			"screen_name": "NuGunGaEChinGu",
+			"location": "Seoul, Republic of Korea(大韓民國)",
+			"description": "오덕,밀덕,역덕,손노리빠,미소녀는 사랑스럽지. 시노노메 사츠키 모에모에!! 출연: 2000년 국민일보 사진 등장/2008년 모 잡지 등장/ 2009년 플래툰 질문 내용으로 등장(...) hobby: history, military, anime, baseball 정치적 성향?: 자유주의",
+			"url": "https://t.co/2FXA9aSbzN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2FXA9aSbzN",
+							"expanded_url": "http://ksdd5713.egloos.com",
+							"display_url": "ksdd5713.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 796,
+			"friends_count": 224,
+			"listed_count": 24,
+			"created_at": "Mon Oct 04 17:35:26 +0000 2010",
+			"favourites_count": 8768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 121774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102573764045266946/K7KRKZAf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102573764045266946/K7KRKZAf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/198574639/1539082085",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 181,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "반미라면 학살자도 추모하나? 정말 저 집단, 정파적이다. ㅉㅉ\n\nhttps://t.co/uujun82Ktw"
+	},
+	{
+		"created_at": "Sat Jan 11 09:38:06 +0000 2020",
+		"id": 1215114865095823400,
+		"id_str": "1215930874815860736",
+		"full_text": "게임이 건전한 취미로 취급을 못받는 현실은 서러워 하는데, 정작 게임의 사회적 이미지를 재고하고 양지로 나가려고 하는 움직임에는 기를 쓰고 드러누우면서 꺼지라고 하는 양상이 반복되는 걸 보면 뭐 어쩌라는 건가 싶다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 296804482,
+			"id_str": "296804482",
+			"name": "[통판중]삐라따 Pirata",
+			"screen_name": "pirata_ex",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9444,
+			"friends_count": 860,
+			"listed_count": 187,
+			"created_at": "Wed May 11 12:42:58 +0000 2011",
+			"favourites_count": 5370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207086679317594112/jgMON-Dv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207086679317594112/jgMON-Dv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/296804482/1437497540",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1559,
+		"favorite_count": 376,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "게임이 건전한 취미로 취급을 못받는 현실은 서러워 하는데, 정작 게임의 사회적 이미지를 재고하고 양지로 나가려고 하는 움직임에는 기를 쓰고 드러누우면서 꺼지라고 하는 양상이 반복되는 걸 보면 뭐 어쩌라는 건가 싶다."
+	},
+	{
 		"created_at": "Thu Jan 09 11:48:08 +0000 2020",
 		"id": 1215215483068137500,
 		"id_str": "1215238825745645568",
