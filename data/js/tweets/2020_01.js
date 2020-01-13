@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 12 13:52:36 +0000 2020",
+		"id": 1216321424073183200,
+		"id_str": "1216357309506445312",
+		"full_text": "【動画】自衛隊中東派遣などに抗議　安倍政権退陣求めデモ　東京・新宿　https://t.co/JZNLd4q3mR https://t.co/ehWsTEjlZ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JZNLd4q3mR",
+					"expanded_url": "http://bit.ly/30bNHFq",
+					"display_url": "bit.ly/30bNHFq",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216314998990856200,
+					"id_str": "1216314998990856192",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EOE4Ns5VUAEcVob.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOE4Ns5VUAEcVob.jpg",
+					"url": "https://t.co/ehWsTEjlZ6",
+					"display_url": "pic.twitter.com/ehWsTEjlZ6",
+					"expanded_url": "https://twitter.com/mainichi/status/1216321424073183232/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216314998990856200,
+					"id_str": "1216314998990856192",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EOE4Ns5VUAEcVob.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOE4Ns5VUAEcVob.jpg",
+					"url": "https://t.co/ehWsTEjlZ6",
+					"display_url": "pic.twitter.com/ehWsTEjlZ6",
+					"expanded_url": "https://twitter.com/mainichi/status/1216321424073183232/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 48782,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1216314998990856192/vid/720x720/gHmy_6C2JX2jhrUS.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1216314998990856192/vid/480x480/FHPP1y2Zl795CoRa.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1216314998990856192/vid/320x320/fzOrfJGPNSNBc3VX.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1216314998990856192/pl/jIpikl7-OHNBLRa2.m3u8?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49540955,
+			"id_str": "49540955",
+			"name": "毎日新聞",
+			"screen_name": "mainichi",
+			"location": "東京都千代田区",
+			"description": "毎日新聞のニュースサイトからおすすめ記事などをツイートします。FBページ https://t.co/waY2ry2PVG もあります。",
+			"url": "https://t.co/t3fGg5YbYZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t3fGg5YbYZ",
+							"expanded_url": "http://mainichi.jp/",
+							"display_url": "mainichi.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/waY2ry2PVG",
+							"expanded_url": "https://www.facebook.com/mainichishimbun/",
+							"display_url": "facebook.com/mainichishimbu…",
+							"indices": [
+								37,
+								60
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 856986,
+			"friends_count": 216,
+			"listed_count": 30727,
+			"created_at": "Mon Jun 22 04:53:27 +0000 2009",
+			"favourites_count": 38,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 282646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF6699",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875582156399026176/nvKfbCrk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875582156399026176/nvKfbCrk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49540955/1509087950",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DFDFDF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1533,
+		"favorite_count": 2361,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【動画】自衛隊中東派遣などに抗議　安倍政権退陣求めデモ　東京・新宿　https://t.co/JZNLd4q3mR https://t.co/ehWsTEjlZ6"
+	},
+	{
+		"created_at": "Sun Jan 12 10:30:35 +0000 2020",
+		"id": 1216235588527034400,
+		"id_str": "1216306470435770373",
+		"full_text": "@deeeeverk @minnigreen 맞아요.\n영국도 2015년 10월부터 직원이 250명 이상인 대형 슈퍼나 상점에서 비닐봉지 값을 받기 시작했는데 그 이후 비닐봉지 사용량이 90% 줄었어요. \n유료화 효과 있습니다. \nhttps://t.co/oKIfmQMdxM",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "deeeeverk",
+					"name": "벡헴",
+					"id": 256366918,
+					"id_str": "256366918",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "minnigreen",
+					"name": "해외문파_조국수호",
+					"id": 1044765838442713100,
+					"id_str": "1044765838442713090",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oKIfmQMdxM",
+					"expanded_url": "https://www.independent.co.uk/news/uk/politics/plastic-bag-charge-supermarkets-figures-reduction-a9029996.html",
+					"display_url": "independent.co.uk/news/uk/politi…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1216024756719214600,
+		"in_reply_to_status_id_str": "1216024756719214592",
+		"in_reply_to_user_id": 256366918,
+		"in_reply_to_user_id_str": "256366918",
+		"in_reply_to_screen_name": "deeeeverk",
+		"user": {
+			"id": 334161165,
+			"id_str": "334161165",
+			"name": "Miss Marple",
+			"screen_name": "Poirot_Christie",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 239,
+			"friends_count": 363,
+			"listed_count": 1,
+			"created_at": "Tue Jul 12 17:30:13 +0000 2011",
+			"favourites_count": 970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1193568314259378178/WXcWLzWe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1193568314259378178/WXcWLzWe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/334161165/1522702260",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@deeeeverk @minnigreen 맞아요.\n영국도 2015년 10월부터 직원이 250명 이상인 대형 슈퍼나 상점에서 비닐봉지 값을 받기 시작했는데 그 이후 비닐봉지 사용량이 90% 줄었어요. \n유료화 효과 있습니다. \nhttps://t.co/oKIfmQMdxM"
+	},
+	{
+		"created_at": "Sun Jan 12 10:25:21 +0000 2020",
+		"id": 1216024852416479200,
+		"id_str": "1216305155609481216",
+		"full_text": "https://t.co/LegcrUMff4\n\n뭐 몇 장면이나 봤을지 의문이지만.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LegcrUMff4",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20180405172000085",
+					"display_url": "yna.co.kr/view/AKR201804…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1216024756719214600,
+		"in_reply_to_status_id_str": "1216024756719214592",
+		"in_reply_to_user_id": 256366918,
+		"in_reply_to_user_id_str": "256366918",
+		"in_reply_to_screen_name": "deeeeverk",
+		"user": {
+			"id": 256366918,
+			"id_str": "256366918",
+			"name": "벡헴",
+			"screen_name": "deeeeverk",
+			"location": "",
+			"description": "개소리에 가차없이 대응한다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89,
+			"friends_count": 219,
+			"listed_count": 2,
+			"created_at": "Wed Feb 23 05:13:48 +0000 2011",
+			"favourites_count": 226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089543036290293760/o0B9E-q4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089543036290293760/o0B9E-q4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/256366918/1502152270",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 105,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/LegcrUMff4\n\n뭐 몇 장면이나 봤을지 의문이지만."
+	},
+	{
 		"created_at": "Sat Jan 11 14:24:54 +0000 2020",
 		"id": 1215927418839429000,
 		"id_str": "1216003052999598080",
@@ -28,7 +471,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "역보😷🇰🇷🇹🇼🇭🇰",
 			"screen_name": "yeokbo",
 			"location": "대한민국 경기도",
-			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️‍🌈🦐",
+			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️🌈🦐",
 			"url": "https://t.co/RwhrPgiKMR",
 			"entities": {
 				"url": {
@@ -297,7 +740,7 @@ Grailbird.data.tweets_2020_01 =
 			"name": "역보😷🇰🇷🇹🇼🇭🇰",
 			"screen_name": "yeokbo",
 			"location": "대한민국 경기도",
-			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️‍🌈🦐",
+			"description": "페미니스트. 부천 FC 1995 팬. 리듬게임 안합니다. 아름드리 위키 운영자. #Remember_0416 🌷🏳️🌈🦐",
 			"url": "https://t.co/RwhrPgiKMR",
 			"entities": {
 				"url": {
