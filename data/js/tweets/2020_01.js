@@ -1,6 +1,108 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 12:12:22 +0000 2020",
+		"id": 1217392435287871500,
+		"id_str": "1217419249062277122",
+		"full_text": "영국은 워킹클래스 프라이드는 커녕 제조업 자체가 GDP의 20%이하로 폭싹 주저앉는동안 런던의 돈놀이 산업을 강력하게 푸시하는 바람에 국론이 분열되서 연합 왕국이 아니라 분할 왕국이 되기 직전입니다... https://t.co/ZWQ7X2lyAt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZWQ7X2lyAt",
+					"expanded_url": "https://twitter.com/PVa4JqShuKnMTOn/status/1217255971585548288",
+					"display_url": "twitter.com/PVa4JqShuKnMTO…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1074809835831447600,
+			"id_str": "1074809835831447552",
+			"name": "Subsistence民主香港加油🇭🇰",
+			"screen_name": "Saemaeul_cap",
+			"location": "",
+			"description": "Now play",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1257,
+			"friends_count": 196,
+			"listed_count": 19,
+			"created_at": "Mon Dec 17 23:33:28 +0000 2018",
+			"favourites_count": 3093,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106459925968908288/fi8l0V6l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106459925968908288/fi8l0V6l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1074809835831447552/1552635579",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217255971585548300,
+		"quoted_status_id_str": "1217255971585548288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZWQ7X2lyAt",
+			"expanded": "https://twitter.com/PVa4JqShuKnMTOn/status/1217255971585548288",
+			"display": "twitter.com/PVa4JqShuKnMTO…"
+		},
+		"retweet_count": 73,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영국은 워킹클래스 프라이드는 커녕 제조업 자체가 GDP의 20%이하로 폭싹 주저앉는동안 런던의 돈놀이 산업을 강력하게 푸시하는 바람에 국론이 분열되서 연합 왕국이 아니라 분할 왕국이 되기 직전입니다... https://t.co/ZWQ7X2lyAt"
+	},
+	{
 		"created_at": "Tue Jan 14 01:55:30 +0000 2020",
 		"id": 1216901621604479000,
 		"id_str": "1216901621604478976",
