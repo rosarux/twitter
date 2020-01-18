@@ -1,6 +1,519 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 00:18:20 +0000 2020",
+		"id": 1218168820776353800,
+		"id_str": "1218326721373491200",
+		"full_text": "忍者@田園都市線 https://t.co/MxmTe52YOU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218168645659922400,
+					"id_str": "1218168645659922432",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218168645659922432/pu/img/YAvsW5667wXU5QSo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218168645659922432/pu/img/YAvsW5667wXU5QSo.jpg",
+					"url": "https://t.co/MxmTe52YOU",
+					"display_url": "pic.twitter.com/MxmTe52YOU",
+					"expanded_url": "https://twitter.com/fuki_fuki/status/1218168820776353792/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218168645659922400,
+					"id_str": "1218168645659922432",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218168645659922432/pu/img/YAvsW5667wXU5QSo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218168645659922432/pu/img/YAvsW5667wXU5QSo.jpg",
+					"url": "https://t.co/MxmTe52YOU",
+					"display_url": "pic.twitter.com/MxmTe52YOU",
+					"expanded_url": "https://twitter.com/fuki_fuki/status/1218168820776353792/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 49725,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218168645659922432/pu/vid/480x270/VYuH7dduaO3setTM.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218168645659922432/pu/vid/640x360/-7dQhqqK2Ef6DrVR.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218168645659922432/pu/vid/1280x720/toRJxzEZwlfCCU2v.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1218168645659922432/pu/pl/eXZ45wyMFmx3-NIL.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130818663,
+			"id_str": "130818663",
+			"name": "手づくりおもちゃ作家_佐藤蕗",
+			"screen_name": "fuki_fuki",
+			"location": "japan",
+			"description": "手づくりおもちゃ作家／（いちおう）デザイナー／イラストレーター。Web、雑誌、新聞などで、家で簡単に作れるおもちゃの作り方をご紹介しています。Nina's、農業共済新聞、こどもちゃれんじプラスで連載中。  I make handmade toys at work.",
+			"url": "https://t.co/5tMmoQdDAz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5tMmoQdDAz",
+							"expanded_url": "http://fuki.petit.cc/",
+							"display_url": "fuki.petit.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6346,
+			"friends_count": 644,
+			"listed_count": 77,
+			"created_at": "Thu Apr 08 12:13:16 +0000 2010",
+			"favourites_count": 6405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094201338131435521/D7f3IiiI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094201338131435521/D7f3IiiI_normal.jpg",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3711,
+		"favorite_count": 10573,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "忍者@田園都市線 https://t.co/MxmTe52YOU"
+	},
+	{
+		"created_at": "Sat Jan 18 00:17:58 +0000 2020",
+		"id": 1218150383647740000,
+		"id_str": "1218326628918386688",
+		"full_text": "センター試験に着てったら秒で脱がされた服 https://t.co/ed8r67ZZqF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218150376840368000,
+					"id_str": "1218150376840368129",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/EOe9UE6UEAEJbih.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOe9UE6UEAEJbih.jpg",
+					"url": "https://t.co/ed8r67ZZqF",
+					"display_url": "pic.twitter.com/ed8r67ZZqF",
+					"expanded_url": "https://twitter.com/DVtaiyou/status/1218150383647739904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1518,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 889,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218150376840368000,
+					"id_str": "1218150376840368129",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/EOe9UE6UEAEJbih.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOe9UE6UEAEJbih.jpg",
+					"url": "https://t.co/ed8r67ZZqF",
+					"display_url": "pic.twitter.com/ed8r67ZZqF",
+					"expanded_url": "https://twitter.com/DVtaiyou/status/1218150383647739904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 504,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1518,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 889,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 840545109980590100,
+			"id_str": "840545109980590080",
+			"name": "🌞太陽🌞",
+			"screen_name": "DVtaiyou",
+			"location": "京都",
+			"description": "パニス/ピニス/プニス/ポニス",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6842,
+			"friends_count": 446,
+			"listed_count": 95,
+			"created_at": "Sat Mar 11 12:49:05 +0000 2017",
+			"favourites_count": 10162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203237716348948480/Kya3oCo4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203237716348948480/Kya3oCo4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/840545109980590080/1574482237",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2801,
+		"favorite_count": 11455,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "センター試験に着てったら秒で脱がされた服 https://t.co/ed8r67ZZqF"
+	},
+	{
+		"created_at": "Sat Jan 18 00:14:35 +0000 2020",
+		"id": 1218086113786548200,
+		"id_str": "1218325777311137792",
+		"full_text": "갖다 붙혀도 좀 그럴듯한걸 갖다붙혀라. https://t.co/WjVxuoyAxx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WjVxuoyAxx",
+					"expanded_url": "https://twitter.com/game_meca/status/1218061476218294272",
+					"display_url": "twitter.com/game_meca/stat…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 894720883289333800,
+			"id_str": "894720883289333760",
+			"name": "Cicero",
+			"screen_name": "CiceroFlager8",
+			"location": "대한민국 수원시",
+			"description": "19-20세기 유럽외교사 파는 정치학전공자.\n그러나 본 트위터는 계정주의 취향을 제외하곤 그 무엇도 보장하지 않습니다.",
+			"url": "https://t.co/B5Y3BAeBoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/B5Y3BAeBoZ",
+							"expanded_url": "https://ask.fm/CiceroFlager8",
+							"display_url": "ask.fm/CiceroFlager8",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1841,
+			"friends_count": 448,
+			"listed_count": 27,
+			"created_at": "Tue Aug 08 00:44:16 +0000 2017",
+			"favourites_count": 1123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940434546494881792/zN3uYsdi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940434546494881792/zN3uYsdi_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218061476218294300,
+		"quoted_status_id_str": "1218061476218294272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WjVxuoyAxx",
+			"expanded": "https://twitter.com/game_meca/status/1218061476218294272",
+			"display": "twitter.com/game_meca/stat…"
+		},
+		"retweet_count": 437,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "갖다 붙혀도 좀 그럴듯한걸 갖다붙혀라. https://t.co/WjVxuoyAxx"
+	},
+	{
 		"created_at": "Thu Jan 16 17:00:02 +0000 2020",
 		"id": 1217719752887423000,
 		"id_str": "1217854030858178560",
