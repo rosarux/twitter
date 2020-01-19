@@ -1,6 +1,682 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 14:06:24 +0000 2020",
+		"id": 1218477908735299600,
+		"id_str": "1218535113291513859",
+		"full_text": "페북이나 트위터에 그 많은 금융 현자들은 왜?\n왜왜 라임 사기건은 일절 코멘트가 없지?\n능력모지란 리서치센터장도, 책홍보하느라 정신없는 김동모씨도.\n세상사 그리 깔거많아서 난리났더만 라임에 대해서는 입닫고있는겨?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 248238800,
+			"id_str": "248238800",
+			"name": "매사끼",
+			"screen_name": "RainmakerD",
+			"location": "Seoul, Korea",
+			"description": "홀짝맨...인생은 바카라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 223,
+			"friends_count": 584,
+			"listed_count": 6,
+			"created_at": "Sun Feb 06 15:27:20 +0000 2011",
+			"favourites_count": 1687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040498390948241408/RggHdZhY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040498390948241408/RggHdZhY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "페북이나 트위터에 그 많은 금융 현자들은 왜?\n왜왜 라임 사기건은 일절 코멘트가 없지?\n능력모지란 리서치센터장도, 책홍보하느라 정신없는 김동모씨도.\n세상사 그리 깔거많아서 난리났더만 라임에 대해서는 입닫고있는겨?"
+	},
+	{
+		"created_at": "Sat Jan 18 12:35:59 +0000 2020",
+		"id": 1217422816800170000,
+		"id_str": "1218512355765567488",
+		"full_text": "리) 중국은 알리페이 등 핀테크가 잘나가는데 한국은 왜 이모양이냐?라는 사람을 보면(보통 자칭 4차산업 전문가) 한국에서 신용카드가 이렇게 쓰기 편한데 왜 알리페이 같은 핀테크를 써야 하는지 이해가 안감...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101148636,
+			"id_str": "101148636",
+			"name": "까날(오승택)",
+			"screen_name": "kcanari",
+			"location": "KOREA Sungnam",
+			"description": "'홋카이도에 먹으러가자' 글쓴이. 일본 식도락 여행 전문 블로그 운영중. 우리음식, 일본음식, 우리술, 일본술에 관심이 많은 사람.",
+			"url": "https://t.co/lBdKLdgZ3Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lBdKLdgZ3Z",
+							"expanded_url": "http://kcanari.egloos.com",
+							"display_url": "kcanari.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49118,
+			"friends_count": 277,
+			"listed_count": 247,
+			"created_at": "Sat Jan 02 05:42:27 +0000 2010",
+			"favourites_count": 653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 121054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1444790440/pro_01_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101148636/1365251288",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 201,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "리) 중국은 알리페이 등 핀테크가 잘나가는데 한국은 왜 이모양이냐?라는 사람을 보면(보통 자칭 4차산업 전문가) 한국에서 신용카드가 이렇게 쓰기 편한데 왜 알리페이 같은 핀테크를 써야 하는지 이해가 안감..."
+	},
+	{
+		"created_at": "Sat Jan 18 12:12:02 +0000 2020",
+		"id": 1218489598092836900,
+		"id_str": "1218506328936566784",
+		"full_text": "지금 학부모가 되신 분들이 과거 학생 시절에 와우, 스타 1, 디아 2를 즐겨했던 세대라는걸 생각 좀 하시죠. https://t.co/VEt9ytfK7H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VEt9ytfK7H",
+					"expanded_url": "https://twitter.com/game_meca/status/1218110211757469696",
+					"display_url": "twitter.com/game_meca/stat…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 500710230,
+			"id_str": "500710230",
+			"name": "daswalte",
+			"screen_name": "_daswalte",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47,
+			"friends_count": 119,
+			"listed_count": 0,
+			"created_at": "Thu Feb 23 11:46:29 +0000 2012",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1043721513419984896/tuOp_-_F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043721513419984896/tuOp_-_F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/500710230/1561240429",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1218110211757469700,
+		"quoted_status_id_str": "1218110211757469696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VEt9ytfK7H",
+			"expanded": "https://twitter.com/game_meca/status/1218110211757469696",
+			"display": "twitter.com/game_meca/stat…"
+		},
+		"retweet_count": 254,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금 학부모가 되신 분들이 과거 학생 시절에 와우, 스타 1, 디아 2를 즐겨했던 세대라는걸 생각 좀 하시죠. https://t.co/VEt9ytfK7H"
+	},
+	{
+		"created_at": "Sat Jan 18 09:16:15 +0000 2020",
+		"id": 1218356034277924900,
+		"id_str": "1218462091947806720",
+		"full_text": "해리스 대사 '콧수염' 논란이 날 화나게 하는 이유는, 한국인들은 해리스 콧수염에 아무 관심도 없었는데 말 그대로 외신 기자들이 '창조'해낸 논란이었음에도 마치 원래부터 해리스 콧수염이 한국 사회의 핫이슈였던 양 보도된다는 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 861912852990279700,
+			"id_str": "861912852990279680",
+			"name": "Work Social",
+			"screen_name": "WorkSocial1",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1223,
+			"friends_count": 182,
+			"listed_count": 11,
+			"created_at": "Tue May 09 11:56:52 +0000 2017",
+			"favourites_count": 6720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129431565392650240/YHDRdVY-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129431565392650240/YHDRdVY-_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/861912852990279680/1558112744",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1433,
+		"favorite_count": 551,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "해리스 대사 '콧수염' 논란이 날 화나게 하는 이유는, 한국인들은 해리스 콧수염에 아무 관심도 없었는데 말 그대로 외신 기자들이 '창조'해낸 논란이었음에도 마치 원래부터 해리스 콧수염이 한국 사회의 핫이슈였던 양 보도된다는 것."
+	},
+	{
+		"created_at": "Sat Jan 18 06:13:58 +0000 2020",
+		"id": 1218416219646320600,
+		"id_str": "1218416219646320640",
+		"full_text": "걸프전이 29년전이라니...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 561,
+			"friends_count": 437,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "걸프전이 29년전이라니..."
+	},
+	{
+		"created_at": "Sat Jan 18 02:52:37 +0000 2020",
+		"id": 1218083200506810400,
+		"id_str": "1218365549962416128",
+		"full_text": "#사실은이렇습니다 \n반려동물 보유세 또는 동물복지 기금 도입은 확정된 바가 없습니다.\n2022년부터 연구용역, 이해관계자 의견수렴, 국회 논의 등 공론화과정을 충분히 거쳐 도입 여부, 활용 방안 등을 중장기적으로 검토할 예정입니다.\n#반려동물 #동물복지 https://t.co/6ZGRQEP9Pt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사실은이렇습니다",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "반려동물",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "동물복지",
+					"indices": [
+						136,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218083194043392000,
+					"id_str": "1218083194043392000",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EOeANhfUYAAsSX-.png",
+					"media_url_https": "https://pbs.twimg.com/media/EOeANhfUYAAsSX-.png",
+					"url": "https://t.co/6ZGRQEP9Pt",
+					"display_url": "pic.twitter.com/6ZGRQEP9Pt",
+					"expanded_url": "https://twitter.com/mafrakorea/status/1218083200506810368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1599,
+							"h": 902,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218083194043392000,
+					"id_str": "1218083194043392000",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EOeANhfUYAAsSX-.png",
+					"media_url_https": "https://pbs.twimg.com/media/EOeANhfUYAAsSX-.png",
+					"url": "https://t.co/6ZGRQEP9Pt",
+					"display_url": "pic.twitter.com/6ZGRQEP9Pt",
+					"expanded_url": "https://twitter.com/mafrakorea/status/1218083200506810368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1599,
+							"h": 902,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112975988,
+			"id_str": "112975988",
+			"name": "농림축산식품부",
+			"screen_name": "mafrakorea",
+			"location": "세종특별자치시 다솜2로 94(어진동)",
+			"description": "대한민국 농림축산식품부(The Republic of Korea Ministry of Agriculture, Food and Rural Affairs) 공식 트위터/ 농업, 농촌, 축산, 식량, 식품관련 정책을 담당/ 농식품 종사자를 위한 소식/ 소비자를 위한 먹거리 뉴스. 맞팔 f4f",
+			"url": "https://t.co/AcihvZZcS9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AcihvZZcS9",
+							"expanded_url": "http://www.mafra.go.kr/",
+							"display_url": "mafra.go.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64657,
+			"friends_count": 68471,
+			"listed_count": 0,
+			"created_at": "Wed Feb 10 08:59:50 +0000 2010",
+			"favourites_count": 3520,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/714608834191474688/JgxBrTkr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/714608834191474688/JgxBrTkr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112975988/1578548429",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "0084B4",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 824,
+		"favorite_count": 140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#사실은이렇습니다 \n반려동물 보유세 또는 동물복지 기금 도입은 확정된 바가 없습니다.\n2022년부터 연구용역, 이해관계자 의견수렴, 국회 논의 등 공론화과정을 충분히 거쳐 도입 여부, 활용 방안 등을 중장기적으로 검토할 예정입니다.\n#반려동물 #동물복지 https://t.co/6ZGRQEP9Pt"
+	},
+	{
 		"created_at": "Sat Jan 18 00:18:20 +0000 2020",
 		"id": 1218168820776353800,
 		"id_str": "1218326721373491200",
