@@ -1,6 +1,1224 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 19 09:48:53 +0000 2020",
+		"id": 1218582852649963500,
+		"id_str": "1218832692956950529",
+		"full_text": "세금 몇 푼 냈다고 공무원들 마구잡이로 혐오하고 각종 복지에 참견하며 심지어는 노동권까지 제약하려는 정서 너무나 해롭다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1218582442593796000,
+		"in_reply_to_status_id_str": "1218582442593796096",
+		"in_reply_to_user_id": 1128267246323716100,
+		"in_reply_to_user_id_str": "1128267246323716096",
+		"in_reply_to_screen_name": "ibumangcheon2",
+		"user": {
+			"id": 1128267246323716100,
+			"id_str": "1128267246323716096",
+			"name": "망천",
+			"screen_name": "ibumangcheon2",
+			"location": "Mangcheon, KR",
+			"description": "Democrat, Med Student. Profile pic @Juneyuwall\n정태옥 의원과 본 계정은 무관합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 971,
+			"friends_count": 1011,
+			"listed_count": 6,
+			"created_at": "Tue May 14 11:54:08 +0000 2019",
+			"favourites_count": 65,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184078587869052928/rbsyX_KZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184078587869052928/rbsyX_KZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "세금 몇 푼 냈다고 공무원들 마구잡이로 혐오하고 각종 복지에 참견하며 심지어는 노동권까지 제약하려는 정서 너무나 해롭다."
+	},
+	{
+		"created_at": "Sun Jan 19 05:47:44 +0000 2020",
+		"id": 1218537132400054300,
+		"id_str": "1218772006054711298",
+		"full_text": "어떻게 보아도 그런 포지션 아닌데 왜 어려운 환경 속에서 적대감 견뎌내며 힘들게 사업하는 약자 포지셔닝을 하고 있는지 이해도 못하겠고 그걸 못 보는 사람들도 답답하고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1218536795488444400,
+		"in_reply_to_status_id_str": "1218536795488444416",
+		"in_reply_to_user_id": 141495614,
+		"in_reply_to_user_id_str": "141495614",
+		"in_reply_to_screen_name": "bluexmas47",
+		"user": {
+			"id": 141495614,
+			"id_str": "141495614",
+			"name": "bluexmas",
+			"screen_name": "bluexmas47",
+			"location": "Westside of River.",
+			"description": "음식평론가",
+			"url": "https://t.co/VfP7QBHoFC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VfP7QBHoFC",
+							"expanded_url": "http://www.bluexmas.com",
+							"display_url": "bluexmas.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6669,
+			"friends_count": 70,
+			"listed_count": 116,
+			"created_at": "Sat May 08 07:02:45 +0000 2010",
+			"favourites_count": 3560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 182292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217739343814520837/LLsELJzT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217739343814520837/LLsELJzT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141495614/1577864357",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "어떻게 보아도 그런 포지션 아닌데 왜 어려운 환경 속에서 적대감 견뎌내며 힘들게 사업하는 약자 포지셔닝을 하고 있는지 이해도 못하겠고 그걸 못 보는 사람들도 답답하고"
+	},
+	{
+		"created_at": "Sun Jan 19 03:07:33 +0000 2020",
+		"id": 1218731401257742300,
+		"id_str": "1218731693126778880",
+		"full_text": "51年前の沖縄。\n\n1969年2月 弾薬庫で働く男性。\n\n当時の沖縄市知花弾薬庫内で撮影されたカラー写真です。 https://t.co/3ckfFRJSvX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218731397013049300,
+					"id_str": "1218731397013049344",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EOnNv5uUEAAEuQY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOnNv5uUEAAEuQY.jpg",
+					"url": "https://t.co/3ckfFRJSvX",
+					"display_url": "pic.twitter.com/3ckfFRJSvX",
+					"expanded_url": "https://twitter.com/horinyo/status/1218731401257742336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 827,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 658,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 827,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218731397013049300,
+					"id_str": "1218731397013049344",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EOnNv5uUEAAEuQY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOnNv5uUEAAEuQY.jpg",
+					"url": "https://t.co/3ckfFRJSvX",
+					"display_url": "pic.twitter.com/3ckfFRJSvX",
+					"expanded_url": "https://twitter.com/horinyo/status/1218731401257742336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 827,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 658,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 827,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1218731397013065700,
+					"id_str": "1218731397013065729",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EOnNv5uUUAEdinh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOnNv5uUUAEdinh.jpg",
+					"url": "https://t.co/3ckfFRJSvX",
+					"display_url": "pic.twitter.com/3ckfFRJSvX",
+					"expanded_url": "https://twitter.com/horinyo/status/1218731401257742336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 648,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 839,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 839,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1210718137617772500,
+		"in_reply_to_status_id_str": "1210718137617772547",
+		"in_reply_to_user_id": 141643888,
+		"in_reply_to_user_id_str": "141643888",
+		"in_reply_to_screen_name": "horinyo",
+		"user": {
+			"id": 141643888,
+			"id_str": "141643888",
+			"name": "ホリーニョ",
+			"screen_name": "horinyo",
+			"location": "大阪 ",
+			"description": "「戦前・戦後の沖縄」がテーマ。白黒写真のカラー化やイラストを描いたりしています。いだてん／この世界の片隅に／あまちゃん／ファン",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2258,
+			"friends_count": 396,
+			"listed_count": 54,
+			"created_at": "Sat May 08 16:33:09 +0000 2010",
+			"favourites_count": 53578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095281294622126081/GFnYOtoE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095281294622126081/GFnYOtoE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141643888/1555160163",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "51年前の沖縄。\n\n1969年2月 弾薬庫で働く男性。\n\n当時の沖縄市知花弾薬庫内で撮影されたカラー写真です。 https://t.co/3ckfFRJSvX"
+	},
+	{
+		"created_at": "Sun Jan 19 03:07:23 +0000 2020",
+		"id": 1210718137617772500,
+		"id_str": "1218731650885926912",
+		"full_text": "50年前の沖縄。\n\n1969年2月 弾薬庫で働く女性たち。\n\n当時の沖縄市知花弾薬庫内で撮影されたカラー写真です。 https://t.co/U2asnQLUKK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1210718127878574000,
+					"id_str": "1210718127878574083",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EM1VuP9UEAMV6_-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EM1VuP9UEAMV6_-.jpg",
+					"url": "https://t.co/U2asnQLUKK",
+					"display_url": "pic.twitter.com/U2asnQLUKK",
+					"expanded_url": "https://twitter.com/horinyo/status/1210718137617772547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 843,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 843,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 645,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1210718127878574000,
+					"id_str": "1210718127878574083",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EM1VuP9UEAMV6_-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EM1VuP9UEAMV6_-.jpg",
+					"url": "https://t.co/U2asnQLUKK",
+					"display_url": "pic.twitter.com/U2asnQLUKK",
+					"expanded_url": "https://twitter.com/horinyo/status/1210718137617772547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 843,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 843,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 645,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1210718127878631400,
+					"id_str": "1210718127878631424",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EM1VuP9U8AAT4OW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EM1VuP9U8AAT4OW.jpg",
+					"url": "https://t.co/U2asnQLUKK",
+					"display_url": "pic.twitter.com/U2asnQLUKK",
+					"expanded_url": "https://twitter.com/horinyo/status/1210718137617772547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 838,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 838,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1210718127958347800,
+					"id_str": "1210718127958347776",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EM1VuQQVUAA3i93.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EM1VuQQVUAA3i93.jpg",
+					"url": "https://t.co/U2asnQLUKK",
+					"display_url": "pic.twitter.com/U2asnQLUKK",
+					"expanded_url": "https://twitter.com/horinyo/status/1210718137617772547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 840,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 840,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 648,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1210718128188977200,
+					"id_str": "1210718128188977152",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EM1VuRHUcAAZ1iy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EM1VuRHUcAAZ1iy.jpg",
+					"url": "https://t.co/U2asnQLUKK",
+					"display_url": "pic.twitter.com/U2asnQLUKK",
+					"expanded_url": "https://twitter.com/horinyo/status/1210718137617772547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 622,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 875,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 875,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1210712858197053400,
+		"in_reply_to_status_id_str": "1210712858197053440",
+		"in_reply_to_user_id": 141643888,
+		"in_reply_to_user_id_str": "141643888",
+		"in_reply_to_screen_name": "horinyo",
+		"user": {
+			"id": 141643888,
+			"id_str": "141643888",
+			"name": "ホリーニョ",
+			"screen_name": "horinyo",
+			"location": "大阪 ",
+			"description": "「戦前・戦後の沖縄」がテーマ。白黒写真のカラー化やイラストを描いたりしています。いだてん／この世界の片隅に／あまちゃん／ファン",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2258,
+			"friends_count": 396,
+			"listed_count": 54,
+			"created_at": "Sat May 08 16:33:09 +0000 2010",
+			"favourites_count": 53578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095281294622126081/GFnYOtoE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095281294622126081/GFnYOtoE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141643888/1555160163",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 251,
+		"favorite_count": 424,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "50年前の沖縄。\n\n1969年2月 弾薬庫で働く女性たち。\n\n当時の沖縄市知花弾薬庫内で撮影されたカラー写真です。 https://t.co/U2asnQLUKK"
+	},
+	{
+		"created_at": "Sun Jan 19 03:07:13 +0000 2020",
+		"id": 1210712858197053400,
+		"id_str": "1218731610721275905",
+		"full_text": "50年前の沖縄。\n\n1969年2月 弾薬庫で働く女性。食堂で働いているかのような格好だが、手にしているのはゴーヤーチャンプルーではなく砲弾。\n\n当時の沖縄市知花弾薬庫内で撮影されたカラー写真です。 https://t.co/VDpid1Dbwm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1210712854082408400,
+					"id_str": "1210712854082408448",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EM1Q7RiU0AAelpI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EM1Q7RiU0AAelpI.jpg",
+					"url": "https://t.co/VDpid1Dbwm",
+					"display_url": "pic.twitter.com/VDpid1Dbwm",
+					"expanded_url": "https://twitter.com/horinyo/status/1210712858197053440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 654,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 832,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 832,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1210712854082408400,
+					"id_str": "1210712854082408448",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EM1Q7RiU0AAelpI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EM1Q7RiU0AAelpI.jpg",
+					"url": "https://t.co/VDpid1Dbwm",
+					"display_url": "pic.twitter.com/VDpid1Dbwm",
+					"expanded_url": "https://twitter.com/horinyo/status/1210712858197053440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 654,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 832,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 832,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141643888,
+			"id_str": "141643888",
+			"name": "ホリーニョ",
+			"screen_name": "horinyo",
+			"location": "大阪 ",
+			"description": "「戦前・戦後の沖縄」がテーマ。白黒写真のカラー化やイラストを描いたりしています。いだてん／この世界の片隅に／あまちゃん／ファン",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2258,
+			"friends_count": 396,
+			"listed_count": 54,
+			"created_at": "Sat May 08 16:33:09 +0000 2010",
+			"favourites_count": 53578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095281294622126081/GFnYOtoE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095281294622126081/GFnYOtoE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141643888/1555160163",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 328,
+		"favorite_count": 589,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "50年前の沖縄。\n\n1969年2月 弾薬庫で働く女性。食堂で働いているかのような格好だが、手にしているのはゴーヤーチャンプルーではなく砲弾。\n\n当時の沖縄市知花弾薬庫内で撮影されたカラー写真です。 https://t.co/VDpid1Dbwm"
+	},
+	{
+		"created_at": "Sun Jan 19 02:48:09 +0000 2020",
+		"id": 1218435954421092400,
+		"id_str": "1218726810554257408",
+		"full_text": "한국 게임의 답은 결국 해외진출임. \n문제는 글로벌 트렌드를 맞추려면 사회공부 처음부터 다시 해야 한다는 점이지만.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 508153921,
+			"id_str": "508153921",
+			"name": "쿠도군",
+			"screen_name": "_kdkm",
+			"location": "South korea/Incheon",
+			"description": "gamer/Kancolle/SC2/Fire Emblem/Lotte giants/like coffee&tea/studying game level design",
+			"url": "https://t.co/7I5znVFvSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7I5znVFvSx",
+							"expanded_url": "http://ask.fm/a54882/",
+							"display_url": "ask.fm/a54882/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 318,
+			"friends_count": 874,
+			"listed_count": 8,
+			"created_at": "Wed Feb 29 00:45:19 +0000 2012",
+			"favourites_count": 4239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 206284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218843632070873088/SLEfICVc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218843632070873088/SLEfICVc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/508153921/1574413830",
+			"profile_link_color": "998643",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국 게임의 답은 결국 해외진출임. \n문제는 글로벌 트렌드를 맞추려면 사회공부 처음부터 다시 해야 한다는 점이지만."
+	},
+	{
+		"created_at": "Sun Jan 19 02:45:21 +0000 2020",
+		"id": 1218485755745431600,
+		"id_str": "1218726108998225920",
+		"full_text": "게임웹진들도 이제는 좀 ‘규제가아아아아!!! 게임 때리기가아아아아아!!’ 같은 소리 하지 말고 게임업계 자체가 자기반성을 가지고 사회에 있어 긍정적인 가치를 지켜가며 ‘게임은 문화다’라는 명제에 설득력을 갖도록 업계를 다독여야 하는 거 아닐까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906774818388717600,
+			"id_str": "906774818388717569",
+			"name": "대타",
+			"screen_name": "daitagayogi",
+			"location": "",
+			"description": "‘ㅅ’ 하청일하는 애니메이터. 작감 같은 거 자주 하네요... 애니메이터 하지 마세요. 19금 그림이나 사진도  RT하니 그런 거 거북한 분들은 팔로우하지 않는 걸 권합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 469,
+			"friends_count": 499,
+			"listed_count": 4,
+			"created_at": "Sun Sep 10 07:02:18 +0000 2017",
+			"favourites_count": 1846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186262340322283520/m_FbNVE6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186262340322283520/m_FbNVE6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906774818388717569/1558036126",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "게임웹진들도 이제는 좀 ‘규제가아아아아!!! 게임 때리기가아아아아아!!’ 같은 소리 하지 말고 게임업계 자체가 자기반성을 가지고 사회에 있어 긍정적인 가치를 지켜가며 ‘게임은 문화다’라는 명제에 설득력을 갖도록 업계를 다독여야 하는 거 아닐까."
+	},
+	{
+		"created_at": "Sun Jan 19 02:45:15 +0000 2020",
+		"id": 1218465511916204000,
+		"id_str": "1218726081189957634",
+		"full_text": "‘게임은 문화다’라는 명제에 반대하지는 않지만 그걸 대중에게 설득시키기에는 게임업계와 유저들 전반에 걸친 실제 문화가 너무 블랙하잖아. ‘ㅅ’ 그걸 개선하려는 노력도 없이 ‘게임을 두들겨팬다’라고 외치기만하는 건 너무 뻔뻔한 감이 있어.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906774818388717600,
+			"id_str": "906774818388717569",
+			"name": "대타",
+			"screen_name": "daitagayogi",
+			"location": "",
+			"description": "‘ㅅ’ 하청일하는 애니메이터. 작감 같은 거 자주 하네요... 애니메이터 하지 마세요. 19금 그림이나 사진도  RT하니 그런 거 거북한 분들은 팔로우하지 않는 걸 권합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 469,
+			"friends_count": 499,
+			"listed_count": 4,
+			"created_at": "Sun Sep 10 07:02:18 +0000 2017",
+			"favourites_count": 1846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 56335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186262340322283520/m_FbNVE6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186262340322283520/m_FbNVE6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906774818388717569/1558036126",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘게임은 문화다’라는 명제에 반대하지는 않지만 그걸 대중에게 설득시키기에는 게임업계와 유저들 전반에 걸친 실제 문화가 너무 블랙하잖아. ‘ㅅ’ 그걸 개선하려는 노력도 없이 ‘게임을 두들겨팬다’라고 외치기만하는 건 너무 뻔뻔한 감이 있어."
+	},
+	{
 		"created_at": "Sat Jan 18 14:06:24 +0000 2020",
 		"id": 1218477908735299600,
 		"id_str": "1218535113291513859",
