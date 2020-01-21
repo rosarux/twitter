@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 20 11:30:54 +0000 2020",
+		"id": 1219114551376892000,
+		"id_str": "1219220755046514694",
+		"full_text": "武漢大変な事になっとるみたいやな https://t.co/lyIjTjml86",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1219114509433860000,
+					"id_str": "1219114509433860097",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1219114509433860097/pu/img/Ioa8P1lwlYxFDc04.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1219114509433860097/pu/img/Ioa8P1lwlYxFDc04.jpg",
+					"url": "https://t.co/lyIjTjml86",
+					"display_url": "pic.twitter.com/lyIjTjml86",
+					"expanded_url": "https://twitter.com/NatsukawaRimio/status/1219114551376891904/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 368,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 368,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 368,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219114509433860000,
+					"id_str": "1219114509433860097",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1219114509433860097/pu/img/Ioa8P1lwlYxFDc04.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1219114509433860097/pu/img/Ioa8P1lwlYxFDc04.jpg",
+					"url": "https://t.co/lyIjTjml86",
+					"display_url": "pic.twitter.com/lyIjTjml86",
+					"expanded_url": "https://twitter.com/NatsukawaRimio/status/1219114551376891904/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 368,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 368,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 368,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							23,
+							40
+						],
+						"duration_millis": 13369,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219114509433860097/pu/vid/368x640/mxJj-dZTE0hJ3cJi.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1219114509433860097/pu/pl/vxhgs2VtnyeUIEui.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219114509433860097/pu/vid/320x556/clQ8p03l8kYLNvGJ.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113748630555385900,
+			"id_str": "1113748630555385856",
+			"name": "夏川りみお 令和",
+			"screen_name": "NatsukawaRimio",
+			"location": "",
+			"description": "名出し投稿。相互フォローお願いしまーす⭐️ 中国と東京で趣味で三線弾いてまーす。芸名 夏川りみお。日中国交正常化交45周年国家式典演奏。在中ジャパンフェア。メリディアンホテルリサイタル。上海総領事館主催演奏。演奏は素人ですw 思想は中道。🇯🇵🇯🇵🇯🇵",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10787,
+			"friends_count": 11306,
+			"listed_count": 21,
+			"created_at": "Thu Apr 04 10:22:20 +0000 2019",
+			"favourites_count": 23496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113749794197987328/7rN09i5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113749794197987328/7rN09i5q_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4542,
+		"favorite_count": 6343,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "武漢大変な事になっとるみたいやな https://t.co/lyIjTjml86"
+	},
+	{
 		"created_at": "Sun Jan 19 09:48:53 +0000 2020",
 		"id": 1218582852649963500,
 		"id_str": "1218832692956950529",
