@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 21 12:22:32 +0000 2020",
+		"id": 1219587523699040300,
+		"id_str": "1219596137968963584",
+		"full_text": "정치 관전이 취미인 political hobbyist가 공동체 망친다. 축구경기 즐기듯 중앙정치뉴스 소비하고 논쟁하며 실질적 변화 위한 지역봉사나 단체활동엔 무관심. 민주당 백인 대졸남 다수가 그렇다. 정치권도 거친 언사로 분노와 쾌감 자극. 조금이라도 주변 약자 조직을 도우라 https://t.co/BrokMPtpMb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BrokMPtpMb",
+					"expanded_url": "https://www.theatlantic.com/ideas/archive/2020/01/political-hobbyists-are-ruining-politics/605212/",
+					"display_url": "theatlantic.com/ideas/archive/…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27725896,
+			"id_str": "27725896",
+			"name": "Journey",
+			"screen_name": "atmostbeautiful",
+			"location": "Seoul",
+			"description": "writer & curator @ book club origin / music book movie yoga piano travel wise human & wild nature / Life is a wonder / REM, at my most beautiful",
+			"url": "https://t.co/MzklD4fR8k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MzklD4fR8k",
+							"expanded_url": "http://1boon.kakao.com/bookclub",
+							"display_url": "1boon.kakao.com/bookclub",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103172,
+			"friends_count": 2438,
+			"listed_count": 398,
+			"created_at": "Mon Mar 30 20:52:06 +0000 2009",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149094584674242560/wv78dMIl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27725896/1575690071",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 179,
+		"favorite_count": 142,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정치 관전이 취미인 political hobbyist가 공동체 망친다. 축구경기 즐기듯 중앙정치뉴스 소비하고 논쟁하며 실질적 변화 위한 지역봉사나 단체활동엔 무관심. 민주당 백인 대졸남 다수가 그렇다. 정치권도 거친 언사로 분노와 쾌감 자극. 조금이라도 주변 약자 조직을 도우라 https://t.co/BrokMPtpMb"
+	},
+	{
+		"created_at": "Tue Jan 21 11:14:16 +0000 2020",
+		"id": 1219477955207843800,
+		"id_str": "1219578954782167040",
+		"full_text": "내가 맞팔 분들의 사소한 일상에 하트를 누르는 의미는...'제가 당신의 글을 읽고 있습니다. 그랬군요. 그런일도 있었군요. 괜찮아요.그럴 수 있죠.어머나 세상에. 축하해요.아..어쩜. 얼마나 힘드실까요.저는 당신에게 관심이 있습니다'.....와 같은 마음들의 집합체.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322094243,
+			"id_str": "322094243",
+			"name": "까자😷",
+			"screen_name": "jhk1215",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2333,
+			"friends_count": 880,
+			"listed_count": 16,
+			"created_at": "Wed Jun 22 16:36:17 +0000 2011",
+			"favourites_count": 72039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091408426687590400/uFQmjGlz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091408426687590400/uFQmjGlz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/322094243/1574361330",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17683,
+		"favorite_count": 9931,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "내가 맞팔 분들의 사소한 일상에 하트를 누르는 의미는...'제가 당신의 글을 읽고 있습니다. 그랬군요. 그런일도 있었군요. 괜찮아요.그럴 수 있죠.어머나 세상에. 축하해요.아..어쩜. 얼마나 힘드실까요.저는 당신에게 관심이 있습니다'.....와 같은 마음들의 집합체."
+	},
+	{
+		"created_at": "Tue Jan 21 10:47:31 +0000 2020",
+		"id": 1219572224891293700,
+		"id_str": "1219572224891293696",
+		"full_text": "@corwin1129 마이클 조단인가요(...)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "corwin1129",
+					"name": "일기통관",
+					"id": 42567931,
+					"id_str": "42567931",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1219569501282259000,
+		"in_reply_to_status_id_str": "1219569501282258944",
+		"in_reply_to_user_id": 42567931,
+		"in_reply_to_user_id_str": "42567931",
+		"in_reply_to_screen_name": "corwin1129",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 559,
+			"friends_count": 437,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@corwin1129 마이클 조단인가요(...)"
+	},
+	{
 		"created_at": "Mon Jan 20 11:30:54 +0000 2020",
 		"id": 1219114551376892000,
 		"id_str": "1219220755046514694",
