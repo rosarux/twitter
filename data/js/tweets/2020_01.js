@@ -1,6 +1,915 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 23 23:02:45 +0000 2020",
+		"id": 1219811981126819800,
+		"id_str": "1220482027113218048",
+		"full_text": "理論の表面的学習ではなく、つきっきりで反復運動のモチベを与え続けてくれる人の存在こそが不可能を可能にする。 https://t.co/4YgLmmuJpO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1219776989852139500,
+					"id_str": "1219776989852139520",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1219776989852139520/pu/img/ZCfasvVq6DRKUZKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1219776989852139520/pu/img/ZCfasvVq6DRKUZKb.jpg",
+					"url": "https://t.co/4YgLmmuJpO",
+					"display_url": "pic.twitter.com/4YgLmmuJpO",
+					"expanded_url": "https://twitter.com/daraprayoga_/status/1219777077827604480/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1219777077827604500,
+					"source_status_id_str": "1219777077827604480",
+					"source_user_id": 44755860,
+					"source_user_id_str": "44755860",
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219776989852139500,
+					"id_str": "1219776989852139520",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1219776989852139520/pu/img/ZCfasvVq6DRKUZKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1219776989852139520/pu/img/ZCfasvVq6DRKUZKb.jpg",
+					"url": "https://t.co/4YgLmmuJpO",
+					"display_url": "pic.twitter.com/4YgLmmuJpO",
+					"expanded_url": "https://twitter.com/daraprayoga_/status/1219777077827604480/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 854,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1219777077827604500,
+					"source_status_id_str": "1219777077827604480",
+					"source_user_id": 44755860,
+					"source_user_id_str": "44755860",
+					"video_info": {
+						"aspect_ratio": [
+							240,
+							427
+						],
+						"duration_millis": 115803,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1219776989852139520/pu/pl/df6AP8RBxFDg1M67.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219776989852139520/pu/vid/320x568/iUYvv7sdLdr3ZKf8.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219776989852139520/pu/vid/360x640/ukelbKxnGd07cj6f.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219776989852139520/pu/vid/480x854/TfCQ_GKwVNfkrD85.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 44755860,
+							"id_str": "44755860",
+							"name": "oka",
+							"screen_name": "daraprayoga_",
+							"location": "Bekasi-Jakarta-Bogor",
+							"description": "check out my Likes tab ♥️ | word crafter ✍🏻 | husband to @miamulyas 👰🏻 | father to Jio-Kio 👧🏻👧🏻 | 📮☎️ oka.landak@gmail[dot]com / 081222147512 @barlieve",
+							"url": "https://t.co/47Y5Bq9rwv",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/47Y5Bq9rwv",
+											"expanded_url": "http://Instagram.com/daraprayoga",
+											"display_url": "Instagram.com/daraprayoga",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 339160,
+							"friends_count": 950,
+							"listed_count": 597,
+							"created_at": "Thu Jun 04 23:10:33 +0000 2009",
+							"favourites_count": 1768,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 101801,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1210827552505257984/g71P59JF_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210827552505257984/g71P59JF_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/44755860/1566776172",
+							"profile_link_color": "E5F04C",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "FFFFFF",
+							"profile_text_color": "000000",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"can_media_tag": true,
+							"followed_by": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4101386971,
+			"id_str": "4101386971",
+			"name": "鈴木祐介",
+			"screen_name": "7_color_world",
+			"location": "",
+			"description": "仕事は主に初級〜中級者向け英語指導（英検、TOEIC）。ツイートは教育、言語、異文化、写真、子育て。議論はしません。",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8683,
+			"friends_count": 110,
+			"listed_count": 129,
+			"created_at": "Mon Nov 02 11:35:47 +0000 2015",
+			"favourites_count": 69553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217461221131079680/b39-X9Mh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217461221131079680/b39-X9Mh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4101386971/1558221992",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6730,
+		"favorite_count": 22897,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "理論の表面的学習ではなく、つきっきりで反復運動のモチベを与え続けてくれる人の存在こそが不可能を可能にする。 https://t.co/4YgLmmuJpO"
+	},
+	{
+		"created_at": "Thu Jan 23 14:53:55 +0000 2020",
+		"id": 1220016854107771000,
+		"id_str": "1220359008223023104",
+		"full_text": "보다 보면 정부 관계자가 게임산업과 e스포츠 언급하면 '정치인들이 환심 사려 이용해먹는다'며 아니꼽게 배척하는 분위기 참 웃긴 게, 대통령이나 장관급이 직접 언급해주는 대목에 주요 여론층이 게임을 대하는 인식이 달라지는 효과가 정말 없을 거 같음? https://t.co/LRyBIea3iC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1220016847099060200,
+					"id_str": "1220016847099060228",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EO5e28dU4AQPDNe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO5e28dU4AQPDNe.jpg",
+					"url": "https://t.co/LRyBIea3iC",
+					"display_url": "pic.twitter.com/LRyBIea3iC",
+					"expanded_url": "https://twitter.com/wn4040/status/1220016854107770880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 605,
+									"y": 96,
+									"h": 470,
+									"w": 470
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 321,
+									"y": 51,
+									"h": 249,
+									"w": 249
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 567,
+									"y": 90,
+									"h": 440,
+									"w": 440
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 605,
+									"y": 96,
+									"h": 470,
+									"w": 470
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1220016847099060200,
+					"id_str": "1220016847099060228",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/EO5e28dU4AQPDNe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO5e28dU4AQPDNe.jpg",
+					"url": "https://t.co/LRyBIea3iC",
+					"display_url": "pic.twitter.com/LRyBIea3iC",
+					"expanded_url": "https://twitter.com/wn4040/status/1220016854107770880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 605,
+									"y": 96,
+									"h": 470,
+									"w": 470
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 321,
+									"y": 51,
+									"h": 249,
+									"w": 249
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 567,
+									"y": 90,
+									"h": 440,
+									"w": 440
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 605,
+									"y": 96,
+									"h": 470,
+									"w": 470
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 453115202,
+			"id_str": "453115202",
+			"name": "EVERGREEN⚾️",
+			"screen_name": "wn4040",
+			"location": "",
+			"description": "강인함과 약간의 겸손 ⚾️#FriarFaithful ⚖️#BetterCallSaul",
+			"url": "https://t.co/KSFcEP4hur",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KSFcEP4hur",
+							"expanded_url": "https://www.youtube.com/user/EVERGREENAA",
+							"display_url": "youtube.com/user/EVERGREEN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 723,
+			"friends_count": 1403,
+			"listed_count": 19,
+			"created_at": "Mon Jan 02 16:04:36 +0000 2012",
+			"favourites_count": 6792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 112181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209173758503608320/HNbtscEM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209173758503608320/HNbtscEM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/453115202/1574219367",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보다 보면 정부 관계자가 게임산업과 e스포츠 언급하면 '정치인들이 환심 사려 이용해먹는다'며 아니꼽게 배척하는 분위기 참 웃긴 게, 대통령이나 장관급이 직접 언급해주는 대목에 주요 여론층이 게임을 대하는 인식이 달라지는 효과가 정말 없을 거 같음? https://t.co/LRyBIea3iC"
+	},
+	{
+		"created_at": "Thu Jan 23 12:54:38 +0000 2020",
+		"id": 1220180726907273200,
+		"id_str": "1220328990788816896",
+		"full_text": "연령대별 평균 소득은 40대(365만원)가 가장 높음. 그 다음이 50대(341만원). 중위 소득은 30대(286만원)-40대(279만원)-. 50대(220만원). 50대인 86세대가 경제권을 장악하여 불평등이 커진다는 주장과는 거리가 많이 멈.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1220180232755449900,
+		"in_reply_to_status_id_str": "1220180232755449856",
+		"in_reply_to_user_id": 3357881951,
+		"in_reply_to_user_id_str": "3357881951",
+		"in_reply_to_screen_name": "KimSovidence",
+		"user": {
+			"id": 3357881951,
+			"id_str": "3357881951",
+			"name": "Sociological Evidence",
+			"screen_name": "KimSovidence",
+			"location": "",
+			"description": "ChangHwan Kim, Sociology Professor, Specialized in labor markets, stratification, education, & Asian American studies",
+			"url": "https://t.co/TPYdhkbTzf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TPYdhkbTzf",
+							"expanded_url": "https://sovidence.tistory.com/",
+							"display_url": "sovidence.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1925,
+			"friends_count": 327,
+			"listed_count": 18,
+			"created_at": "Sat Jul 04 01:45:39 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "연령대별 평균 소득은 40대(365만원)가 가장 높음. 그 다음이 50대(341만원). 중위 소득은 30대(286만원)-40대(279만원)-. 50대(220만원). 50대인 86세대가 경제권을 장악하여 불평등이 커진다는 주장과는 거리가 많이 멈."
+	},
+	{
+		"created_at": "Thu Jan 23 12:54:32 +0000 2020",
+		"id": 1220181036803465200,
+		"id_str": "1220328964704497665",
+		"full_text": "다만 대기업에 아직 살아남은 50대 평균소득은 40, 30대보다 높음. 86세대의 경제권 장악은 50대의 생존자편향을 전체 인구현상으로 잘못 투사한 것. 이는 50대 임노동자 내부의 불평등이 다른 세대보다 크다는 것을 의미함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1220180726907273200,
+		"in_reply_to_status_id_str": "1220180726907273223",
+		"in_reply_to_user_id": 3357881951,
+		"in_reply_to_user_id_str": "3357881951",
+		"in_reply_to_screen_name": "KimSovidence",
+		"user": {
+			"id": 3357881951,
+			"id_str": "3357881951",
+			"name": "Sociological Evidence",
+			"screen_name": "KimSovidence",
+			"location": "",
+			"description": "ChangHwan Kim, Sociology Professor, Specialized in labor markets, stratification, education, & Asian American studies",
+			"url": "https://t.co/TPYdhkbTzf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TPYdhkbTzf",
+							"expanded_url": "https://sovidence.tistory.com/",
+							"display_url": "sovidence.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1925,
+			"friends_count": 327,
+			"listed_count": 18,
+			"created_at": "Sat Jul 04 01:45:39 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다만 대기업에 아직 살아남은 50대 평균소득은 40, 30대보다 높음. 86세대의 경제권 장악은 50대의 생존자편향을 전체 인구현상으로 잘못 투사한 것. 이는 50대 임노동자 내부의 불평등이 다른 세대보다 크다는 것을 의미함."
+	},
+	{
+		"created_at": "Thu Jan 23 12:49:35 +0000 2020",
+		"id": 1220180232755449900,
+		"id_str": "1220327719260454912",
+		"full_text": "통계청 발표: 2017년 대비 2018년에 임금 노동자의 소득은 증가하고 불평등은 감소. 기업규모 격차, 성별 격차, 연령별 격차 등 모든 격차 감소. 전수자료로 신뢰도 높음. 담당 과장이 불평등 감소가 최저임금 영향이라고 코멘트 하는 걸 보니 격세지감 마저 느껴짐. https://t.co/zermnbIiLe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zermnbIiLe",
+					"expanded_url": "https://sovidence.tistory.com/1043",
+					"display_url": "sovidence.tistory.com/1043",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3357881951,
+			"id_str": "3357881951",
+			"name": "Sociological Evidence",
+			"screen_name": "KimSovidence",
+			"location": "",
+			"description": "ChangHwan Kim, Sociology Professor, Specialized in labor markets, stratification, education, & Asian American studies",
+			"url": "https://t.co/TPYdhkbTzf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TPYdhkbTzf",
+							"expanded_url": "https://sovidence.tistory.com/",
+							"display_url": "sovidence.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1925,
+			"friends_count": 327,
+			"listed_count": 18,
+			"created_at": "Sat Jul 04 01:45:39 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 256,
+		"favorite_count": 129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "통계청 발표: 2017년 대비 2018년에 임금 노동자의 소득은 증가하고 불평등은 감소. 기업규모 격차, 성별 격차, 연령별 격차 등 모든 격차 감소. 전수자료로 신뢰도 높음. 담당 과장이 불평등 감소가 최저임금 영향이라고 코멘트 하는 걸 보니 격세지감 마저 느껴짐. https://t.co/zermnbIiLe"
+	},
+	{
+		"created_at": "Thu Jan 23 12:19:15 +0000 2020",
+		"id": 1220311888426193000,
+		"id_str": "1220320085673304065",
+		"full_text": "부사관 한명의 삶을 위해서\n모든 시끄러움이 곧 커리어의 굵고 가는 기스가 되는 관료집단 대한육군에\n각 제대별 최소 세명씩 최소 열다섯명의 군인은 자기 커리어에 기스가 날수도 있고 안해줘도 그 보수적 조직속에서는 그만인 일을 숙고후 오케이 싸인 냈다는 것\n 당사자와 이들모두 해쳐져선 안됨",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1220310332452688000,
+		"in_reply_to_status_id_str": "1220310332452687872",
+		"in_reply_to_user_id": 276843073,
+		"in_reply_to_user_id_str": "276843073",
+		"in_reply_to_screen_name": "waltxwalt",
+		"user": {
+			"id": 276843073,
+			"id_str": "276843073",
+			"name": "월터사람",
+			"screen_name": "waltxwalt",
+			"location": "",
+			"description": "신분을 걸고 받는 마지막 테스트를 수행한 사람.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 622,
+			"friends_count": 620,
+			"listed_count": 10,
+			"created_at": "Mon Apr 04 05:50:22 +0000 2011",
+			"favourites_count": 3368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/535652848554360832/HEZwgoU-_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/535652848554360832/HEZwgoU-_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "부사관 한명의 삶을 위해서\n모든 시끄러움이 곧 커리어의 굵고 가는 기스가 되는 관료집단 대한육군에\n각 제대별 최소 세명씩 최소 열다섯명의 군인은 자기 커리어에 기스가 날수도 있고 안해줘도 그 보수적 조직속에서는 그만인 일을 숙고후 오케이 싸인 냈다는 것\n 당사자와 이들모두 해쳐져선 안됨"
+	},
+	{
 		"created_at": "Wed Jan 22 11:00:02 +0000 2020",
 		"id": 1219858721771151400,
 		"id_str": "1219937762918330370",
