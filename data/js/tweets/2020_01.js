@@ -1,6 +1,494 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 24 07:44:41 +0000 2020",
+		"id": 1220587714103238700,
+		"id_str": "1220613375580758016",
+		"full_text": "군인권센터 얘기 나온 김에 하자면 군인권센터는 국방부 소속이 아님 거기 비정부기구임. 시민단체인데 군대 내 위계 폭력과 여성 직업군인에 대한 차별처우 LGBT 아웃팅과 폭력 및 차별 그리고 지금 트렌스젠더 직업군인 이슈랑 일반적인 징집군인 처우까지 다 다루는 곳임",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 868817730966667300,
+			"id_str": "868817730966667264",
+			"name": "ʙɪʙɪʙɪᴄ(여쿠르트 외판원) 😷",
+			"screen_name": "bibibic_tt",
+			"location": "씨잘데기없는걸로 싸울시간에 다음웹툰 동쪽으로봐라",
+			"description": "레즈왕국 건설! 비비빅! 영원히 날백수로 살고싶다! https://t.co/lfMVzJcos7 / #FreeHK / 비팔로우 알림 x",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lfMVzJcos7",
+							"expanded_url": "http://peing.net/ko/bibibic_tt",
+							"display_url": "peing.net/ko/bibibic_tt",
+							"indices": [
+								29,
+								52
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1209,
+			"friends_count": 172,
+			"listed_count": 16,
+			"created_at": "Sun May 28 13:14:23 +0000 2017",
+			"favourites_count": 7545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191586178727727104/mkB6SPor_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191586178727727104/mkB6SPor_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/868817730966667264/1569250756",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1396,
+		"favorite_count": 417,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "군인권센터 얘기 나온 김에 하자면 군인권센터는 국방부 소속이 아님 거기 비정부기구임. 시민단체인데 군대 내 위계 폭력과 여성 직업군인에 대한 차별처우 LGBT 아웃팅과 폭력 및 차별 그리고 지금 트렌스젠더 직업군인 이슈랑 일반적인 징집군인 처우까지 다 다루는 곳임"
+	},
+	{
+		"created_at": "Fri Jan 24 07:10:42 +0000 2020",
+		"id": 1219912214817063000,
+		"id_str": "1220604824607002625",
+		"full_text": "무슨 사회적약자들 대나무숲도 아닌데 검사 판사 기자 정치인 SNS글이나 사내게시판 글 훔쳐다가 기사쓰는 것좀 그만하면 안되나?? 힘도 있는 분들이 꼬우면 기자불러다가 인터뷰하고 독자 칼럼 투고를 하라 그래라. 기자씩이나 돼서 게시판글 주워다 먹기 쪽팔리지도 않나??\n\nhttps://t.co/UsHztaFJGZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UsHztaFJGZ",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20200122149100004?input=tw",
+					"display_url": "yna.co.kr/view/AKR202001…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2807822528,
+			"id_str": "2807822528",
+			"name": "Borisu Skywalker",
+			"screen_name": "BorisuJohnsonKR",
+			"location": "Daegu, United States of Borisu",
+			"description": "아임 보리수 / 보리수 후?? / 보리수.. 스카이오커..!!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 546,
+			"friends_count": 418,
+			"listed_count": 7,
+			"created_at": "Sat Sep 13 17:06:14 +0000 2014",
+			"favourites_count": 2726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157231100344717315/Ap6u30eq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157231100344717315/Ap6u30eq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2807822528/1564740371",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "무슨 사회적약자들 대나무숲도 아닌데 검사 판사 기자 정치인 SNS글이나 사내게시판 글 훔쳐다가 기사쓰는 것좀 그만하면 안되나?? 힘도 있는 분들이 꼬우면 기자불러다가 인터뷰하고 독자 칼럼 투고를 하라 그래라. 기자씩이나 돼서 게시판글 주워다 먹기 쪽팔리지도 않나??\n\nhttps://t.co/UsHztaFJGZ"
+	},
+	{
+		"created_at": "Fri Jan 24 07:10:17 +0000 2020",
+		"id": 1219921952845922300,
+		"id_str": "1220604719770431489",
+		"full_text": "보수를 넘어 수구에 가까운 군조직 특성상 이런 판단 자체가 놀라울건 없는데, 오히려 놀랍고 실망인건 한국 인권의 역사에서 경우에 따라서는 상당한 분기점으로 평가받을만한 이슈에서 국방부장관이나 청와대와 국회가 전혀 공개적인 목소리를 내지 않고있다는 거다.\n\nhttps://t.co/kuCBWQGoqT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kuCBWQGoqT",
+					"expanded_url": "http://www.hani.co.kr/arti/society/society_general/925412.html",
+					"display_url": "hani.co.kr/arti/society/s…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2807822528,
+			"id_str": "2807822528",
+			"name": "Borisu Skywalker",
+			"screen_name": "BorisuJohnsonKR",
+			"location": "Daegu, United States of Borisu",
+			"description": "아임 보리수 / 보리수 후?? / 보리수.. 스카이오커..!!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 546,
+			"friends_count": 418,
+			"listed_count": 7,
+			"created_at": "Sat Sep 13 17:06:14 +0000 2014",
+			"favourites_count": 2726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157231100344717315/Ap6u30eq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157231100344717315/Ap6u30eq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2807822528/1564740371",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보수를 넘어 수구에 가까운 군조직 특성상 이런 판단 자체가 놀라울건 없는데, 오히려 놀랍고 실망인건 한국 인권의 역사에서 경우에 따라서는 상당한 분기점으로 평가받을만한 이슈에서 국방부장관이나 청와대와 국회가 전혀 공개적인 목소리를 내지 않고있다는 거다.\n\nhttps://t.co/kuCBWQGoqT"
+	},
+	{
+		"created_at": "Fri Jan 24 05:48:09 +0000 2020",
+		"id": 1220581878572306400,
+		"id_str": "1220584051238522880",
+		"full_text": "この外気温…(*≧∀≦*)\n暑い！ https://t.co/OvZghjO18R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1220581871546859500,
+					"id_str": "1220581871546859520",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EPBgvsjVAAAIhg5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPBgvsjVAAAIhg5.jpg",
+					"url": "https://t.co/OvZghjO18R",
+					"display_url": "pic.twitter.com/OvZghjO18R",
+					"expanded_url": "https://twitter.com/shiyon05/status/1220581878572306433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1220581871546859500,
+					"id_str": "1220581871546859520",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/EPBgvsjVAAAIhg5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPBgvsjVAAAIhg5.jpg",
+					"url": "https://t.co/OvZghjO18R",
+					"display_url": "pic.twitter.com/OvZghjO18R",
+					"expanded_url": "https://twitter.com/shiyon05/status/1220581878572306433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1103347705,
+			"id_str": "1103347705",
+			"name": "機織工房しよん Hataori kobo Shiyon",
+			"screen_name": "shiyon05",
+			"location": "沖縄県島尻郡八重瀬町字仲座72",
+			"description": "沖縄県・八重瀬町にある織物工房です。 メンバー4名が糸を染め、各々がデザインをして手織りで制作をしています。        工房では、制作と販売を行っています。 営業時間 9:00〜17:00 定休日 木曜日・旧盆・年末年始　 駐車場 あり",
+			"url": "https://t.co/gHKkuX9Q80",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gHKkuX9Q80",
+							"expanded_url": "https://www.shiyon.info/",
+							"display_url": "shiyon.info",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 306,
+			"friends_count": 88,
+			"listed_count": 7,
+			"created_at": "Sat Jan 19 10:15:42 +0000 2013",
+			"favourites_count": 156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1004194115205017600/e7GGEE7n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004194115205017600/e7GGEE7n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1103347705/1532143612",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "この外気温…(*≧∀≦*)\n暑い！ https://t.co/OvZghjO18R"
+	},
+	{
 		"created_at": "Thu Jan 23 23:02:45 +0000 2020",
 		"id": 1219811981126819800,
 		"id_str": "1220482027113218048",
