@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 25 12:07:30 +0000 2020",
+		"id": 1221028046871789600,
+		"id_str": "1221041905410007040",
+		"full_text": "일본에서 스베틀라나 알렉시예비치 원작의 [전쟁은 여자의 얼굴을 하지 않았다] 를 만화화한 단행본이 나왔다. 과연 한국에서도 라이센스판이 나올 수 있을 것인가...? https://t.co/CV6a7HZDAK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221028035656216600,
+					"id_str": "1221028035656216576",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EPH2h3YU8AAf8F3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPH2h3YU8AAf8F3.jpg",
+					"url": "https://t.co/CV6a7HZDAK",
+					"display_url": "pic.twitter.com/CV6a7HZDAK",
+					"expanded_url": "https://twitter.com/MGC41/status/1221028046871789568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1444,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 40,
+									"y": 619,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 551,
+									"y": 671,
+									"h": 92,
+									"w": 92
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 69,
+									"y": 1057,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 942,
+									"y": 1145,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 23,
+									"y": 350,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 312,
+									"y": 380,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 84,
+									"y": 1281,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 1141,
+									"y": 1388,
+									"h": 191,
+									"w": 191
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221028035656216600,
+					"id_str": "1221028035656216576",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EPH2h3YU8AAf8F3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPH2h3YU8AAf8F3.jpg",
+					"url": "https://t.co/CV6a7HZDAK",
+					"display_url": "pic.twitter.com/CV6a7HZDAK",
+					"expanded_url": "https://twitter.com/MGC41/status/1221028046871789568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1444,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 40,
+									"y": 619,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 551,
+									"y": 671,
+									"h": 92,
+									"w": 92
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 69,
+									"y": 1057,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 942,
+									"y": 1145,
+									"h": 157,
+									"w": 157
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 23,
+									"y": 350,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 312,
+									"y": 380,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 84,
+									"y": 1281,
+									"h": 96,
+									"w": 96
+								},
+								{
+									"x": 1141,
+									"y": 1388,
+									"h": 191,
+									"w": 191
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107116300,
+			"id_str": "107116300",
+			"name": "민경천",
+			"screen_name": "MGC41",
+			"location": "37.497214,126.920253",
+			"description": "자칭 한국 1세대 게이머(GAMER). 게임과 영화, 그리고 책을 좋아하는 평범한 사람. 게임을 좋아하는 사람들의 팔로잉 환영.",
+			"url": "https://t.co/j8a8Z4lpEB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j8a8Z4lpEB",
+							"expanded_url": "http://twtkr.com/MGC41",
+							"display_url": "twtkr.com/MGC41",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1122,
+			"friends_count": 1065,
+			"listed_count": 81,
+			"created_at": "Thu Jan 21 16:05:11 +0000 2010",
+			"favourites_count": 2476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 254459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2149585020/001_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2149585020/001_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107116300/1543750255",
+			"profile_link_color": "080F94",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일본에서 스베틀라나 알렉시예비치 원작의 [전쟁은 여자의 얼굴을 하지 않았다] 를 만화화한 단행본이 나왔다. 과연 한국에서도 라이센스판이 나올 수 있을 것인가...? https://t.co/CV6a7HZDAK"
+	},
+	{
 		"created_at": "Fri Jan 24 07:44:41 +0000 2020",
 		"id": 1220587714103238700,
 		"id_str": "1220613375580758016",
