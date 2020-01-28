@@ -1,6 +1,1218 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 27 15:12:25 +0000 2020",
+		"id": 1221601513161646000,
+		"id_str": "1221813216616910848",
+		"full_text": "인터넷을 돌아다니다, (아직 유명해지기 전 강신주 선생의 재기발랄함을 기억하며) \"참신한 소장학자는 어쩌다가 '흑화' 하는가\" 질문하는 것을 보고, 잠시 눈길이 멈추었다.\n\n- 결론만 간단히하자면 결국 핵심은 '소년등과'의 문제 아니겠나 싶다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884671642596646900,
+			"id_str": "884671642596646912",
+			"name": "평시",
+			"screen_name": "commoncitizen01",
+			"location": "",
+			"description": "조금이라도 덜 투덜대는 2020년을 기원하며.///테마는 주로 역사학 및 여러 잡담 - 플텍계는 맞팔 받지 않으면 블언블 https://t.co/mHguJMpDlN",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mHguJMpDlN",
+							"expanded_url": "http://lazyreader.tistory.com",
+							"display_url": "lazyreader.tistory.com",
+							"indices": [
+								68,
+								91
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 343,
+			"friends_count": 636,
+			"listed_count": 2,
+			"created_at": "Tue Jul 11 07:12:10 +0000 2017",
+			"favourites_count": 2689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/941502276429946880/pq2LVwpD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/941502276429946880/pq2LVwpD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884671642596646912/1500217468",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "인터넷을 돌아다니다, (아직 유명해지기 전 강신주 선생의 재기발랄함을 기억하며) \"참신한 소장학자는 어쩌다가 '흑화' 하는가\" 질문하는 것을 보고, 잠시 눈길이 멈추었다.\n\n- 결론만 간단히하자면 결국 핵심은 '소년등과'의 문제 아니겠나 싶다."
+	},
+	{
+		"created_at": "Mon Jan 27 13:05:10 +0000 2020",
+		"id": 1221781194305491000,
+		"id_str": "1221781194305490945",
+		"full_text": "나는 어디 행사 갔다가 기념품으로 받은 근본 없는 명함지갑에 카드 꽂아서 들고 다니는데 ㅎ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 560,
+			"friends_count": 439,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "나는 어디 행사 갔다가 기념품으로 받은 근본 없는 명함지갑에 카드 꽂아서 들고 다니는데 ㅎ"
+	},
+	{
+		"created_at": "Mon Jan 27 13:03:22 +0000 2020",
+		"id": 1221619481195106300,
+		"id_str": "1221780738879586308",
+		"full_text": "지갑으로 사람 평가하는거 진짜 한남스럽다 ㅋㅋㅋ https://t.co/UWpunGrdoe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221619469690134500,
+					"id_str": "1221619469690134528",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EPQQb22U4AAG_jB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPQQb22U4AAG_jB.jpg",
+					"url": "https://t.co/UWpunGrdoe",
+					"display_url": "pic.twitter.com/UWpunGrdoe",
+					"expanded_url": "https://twitter.com/iamkimgosu/status/1221619481195106304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 418,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 139,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 245,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221619469690134500,
+					"id_str": "1221619469690134528",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/media/EPQQb22U4AAG_jB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPQQb22U4AAG_jB.jpg",
+					"url": "https://t.co/UWpunGrdoe",
+					"display_url": "pic.twitter.com/UWpunGrdoe",
+					"expanded_url": "https://twitter.com/iamkimgosu/status/1221619481195106304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 418,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 139,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 245,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 987925438356897800,
+			"id_str": "987925438356897792",
+			"name": "김샹차이",
+			"screen_name": "iamkimgosu",
+			"location": "",
+			"description": "인용알티 싫어해요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5150,
+			"friends_count": 148,
+			"listed_count": 16,
+			"created_at": "Sun Apr 22 05:25:54 +0000 2018",
+			"favourites_count": 2765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216945911978348545/myFd-g53_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216945911978348545/myFd-g53_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/987925438356897792/1579315300",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1779,
+		"favorite_count": 516,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지갑으로 사람 평가하는거 진짜 한남스럽다 ㅋㅋㅋ https://t.co/UWpunGrdoe"
+	},
+	{
+		"created_at": "Mon Jan 27 11:03:11 +0000 2020",
+		"id": 1221733276307443700,
+		"id_str": "1221750492230901761",
+		"full_text": "진짜 보수정부기간동안 인격형성된 양반들이 극히 위험하다 싶은게 이 양반들은 자기한테 1이라도 득이되거나 재미있을거 같으면 공동체를 위험에 빠트리는 짓을 저지름. 이게 보수정권동안의 이데올로기였던 '나만 아니면 돼'로 합리화 됨. 끔찍한 현상이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1074809835831447600,
+			"id_str": "1074809835831447552",
+			"name": "Subsistence民主香港加油🇭🇰",
+			"screen_name": "Saemaeul_cap",
+			"location": "",
+			"description": "Now play",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1272,
+			"friends_count": 194,
+			"listed_count": 20,
+			"created_at": "Mon Dec 17 23:33:28 +0000 2018",
+			"favourites_count": 3135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106459925968908288/fi8l0V6l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106459925968908288/fi8l0V6l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1074809835831447552/1552635579",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 224,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "진짜 보수정부기간동안 인격형성된 양반들이 극히 위험하다 싶은게 이 양반들은 자기한테 1이라도 득이되거나 재미있을거 같으면 공동체를 위험에 빠트리는 짓을 저지름. 이게 보수정권동안의 이데올로기였던 '나만 아니면 돼'로 합리화 됨. 끔찍한 현상이다."
+	},
+	{
+		"created_at": "Mon Jan 27 08:37:51 +0000 2020",
+		"id": 1221331836913143800,
+		"id_str": "1221713918801825792",
+		"full_text": "716503이 집권한 9년이 정말 뼈아프다. 한국사회가 원래 온갖 차별과 혐오의 복마전이었던 건 사실인데, 위선이나마 인간으로 해선 안 될 소리들이라 인식했던 최소한도의 선까지 그때 무너져버림",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127191367,
+			"id_str": "127191367",
+			"name": "parklirin",
+			"screen_name": "lirin017",
+			"location": "",
+			"description": "질러라 그리고 트윗하라 하여 너와 네 트친이 함께 파산하리라 / 팔로,언팔 모두 자유롭습니다 다만 뭔 드립을 할른지 저도 모르는 계정입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 556,
+			"friends_count": 359,
+			"listed_count": 7,
+			"created_at": "Sun Mar 28 11:07:54 +0000 2010",
+			"favourites_count": 11759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2CCFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2065624833/phpi4noCt_normal",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2065624833/phpi4noCt_normal",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127191367/1482325007",
+			"profile_link_color": "A19CFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "3B615D",
+			"profile_text_color": "B4D9AD",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 848,
+		"favorite_count": 355,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "716503이 집권한 9년이 정말 뼈아프다. 한국사회가 원래 온갖 차별과 혐오의 복마전이었던 건 사실인데, 위선이나마 인간으로 해선 안 될 소리들이라 인식했던 최소한도의 선까지 그때 무너져버림"
+	},
+	{
+		"created_at": "Mon Jan 27 07:49:55 +0000 2020",
+		"id": 1221688746476630000,
+		"id_str": "1221701858860748800",
+		"full_text": "그치만 송가인 본인이 ‘스스로’ 목소리를 내어 ‘자신의 권리’를 주장하기 시작하면 수많은 지지자들이 태도가 바뀔 거라는 점에서 아주 명백한 한계가 있기도 하다🤗 https://t.co/hU37M7XKBV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hU37M7XKBV",
+					"expanded_url": "https://twitter.com/nein_danke_/status/1221419246980218880",
+					"display_url": "twitter.com/nein_danke_/st…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3275011692,
+			"id_str": "3275011692",
+			"name": "무기농(메갈❤💛💚💙💜",
+			"screen_name": "function_not",
+			"location": "",
+			"description": "대체로 탈부착 가능",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5782,
+			"friends_count": 483,
+			"listed_count": 52,
+			"created_at": "Sat Jul 11 02:04:41 +0000 2015",
+			"favourites_count": 7444,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720977666459893760/HnRtQx5T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720977666459893760/HnRtQx5T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3275011692/1436777414",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1221419246980219000,
+		"quoted_status_id_str": "1221419246980218880",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hU37M7XKBV",
+			"expanded": "https://twitter.com/nein_danke_/status/1221419246980218880",
+			"display": "twitter.com/nein_danke_/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 26 13:06:56 +0000 2020",
+			"id": 1221419246980219000,
+			"id_str": "1221419246980218880",
+			"full_text": "사실 송가인은 기념비적 사건이다. 더 이상 1020뿐만 아니라(실질적 경제권력을 쥔, 그러나 문화적으로는 소외를 겪는) 5060이 새로운 대중문화의 소비주체가 된다는 사실을 선포하는, 즉 5060이 대중문화 소비를 위해 지갑을 꺼내도록 만든, 덤으로 60대 어르신들을 페미니즘에 동조하게 만든 사건.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				167
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2862210213,
+				"id_str": "2862210213",
+				"name": "Nein_Danke",
+				"screen_name": "Nein_Danke_",
+				"location": "",
+				"description": "테디와 함께 부정성의 춤을.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1677,
+				"friends_count": 252,
+				"listed_count": 37,
+				"created_at": "Wed Nov 05 10:42:11 +0000 2014",
+				"favourites_count": 245,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6240,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/533957456142290945/8qL9lygZ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/533957456142290945/8qL9lygZ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2862210213/1415184495",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4546,
+			"favorite_count": 2203,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2121,
+		"favorite_count": 785,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그치만 송가인 본인이 ‘스스로’ 목소리를 내어 ‘자신의 권리’를 주장하기 시작하면 수많은 지지자들이 태도가 바뀔 거라는 점에서 아주 명백한 한계가 있기도 하다🤗 https://t.co/hU37M7XKBV"
+	},
+	{
+		"created_at": "Mon Jan 27 07:40:59 +0000 2020",
+		"id": 1221628553831141400,
+		"id_str": "1221699607811391488",
+		"full_text": "확진자들에 대해 아쉬워할순 있어도 너무 비난하거나 지나친 공포감가질 필요가 없음. 안 그러면 그 비난과 시선을 감당할 자신이 없어서 질병신고나 동선공개를 꺼릴수 있음. 그럼 통제에 악영향.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1183603067654008800,
+			"id_str": "1183603067654008833",
+			"name": "hotfuzzfan",
+			"screen_name": "jcsj1988",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143,
+			"friends_count": 95,
+			"listed_count": 2,
+			"created_at": "Mon Oct 14 04:39:07 +0000 2019",
+			"favourites_count": 1400,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183603608043974658/0q7z4qnK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183603608043974658/0q7z4qnK_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 896,
+		"favorite_count": 319,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "확진자들에 대해 아쉬워할순 있어도 너무 비난하거나 지나친 공포감가질 필요가 없음. 안 그러면 그 비난과 시선을 감당할 자신이 없어서 질병신고나 동선공개를 꺼릴수 있음. 그럼 통제에 악영향."
+	},
+	{
+		"created_at": "Mon Jan 27 02:39:59 +0000 2020",
+		"id": 1221609038141522000,
+		"id_str": "1221623859910070272",
+		"full_text": "현재 중국에 방송 촬영 가있는 한국인 의사의 글 전문 https://t.co/iAB1iTX3uv https://t.co/CCBSZINaYC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iAB1iTX3uv",
+					"expanded_url": "https://m.blog.naver.com/xinsiders/221786061682",
+					"display_url": "m.blog.naver.com/xinsiders/2217…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1221609024581300200,
+					"id_str": "1221609024581300224",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EPQG73yUcAAkNdn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPQG73yUcAAkNdn.jpg",
+					"url": "https://t.co/CCBSZINaYC",
+					"display_url": "pic.twitter.com/CCBSZINaYC",
+					"expanded_url": "https://twitter.com/three_oclock_/status/1221609038141521921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1018,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 615,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1018,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 9,
+									"y": 164,
+									"h": 248,
+									"w": 248
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 5,
+									"y": 99,
+									"h": 149,
+									"w": 149
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 9,
+									"y": 164,
+									"h": 248,
+									"w": 248
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 9,
+									"y": 164,
+									"h": 248,
+									"w": 248
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221609024581300200,
+					"id_str": "1221609024581300224",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EPQG73yUcAAkNdn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPQG73yUcAAkNdn.jpg",
+					"url": "https://t.co/CCBSZINaYC",
+					"display_url": "pic.twitter.com/CCBSZINaYC",
+					"expanded_url": "https://twitter.com/three_oclock_/status/1221609038141521921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1018,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 615,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1018,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 9,
+									"y": 164,
+									"h": 248,
+									"w": 248
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 5,
+									"y": 99,
+									"h": 149,
+									"w": 149
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 9,
+									"y": 164,
+									"h": 248,
+									"w": 248
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 9,
+									"y": 164,
+									"h": 248,
+									"w": 248
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1221609024581320700,
+					"id_str": "1221609024581320704",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EPQG73yUwAAtzVY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPQG73yUwAAtzVY.jpg",
+					"url": "https://t.co/CCBSZINaYC",
+					"display_url": "pic.twitter.com/CCBSZINaYC",
+					"expanded_url": "https://twitter.com/three_oclock_/status/1221609038141521921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 654,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1082,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1221609024577163300,
+					"id_str": "1221609024577163264",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EPQG73xVUAAArbk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPQG73xVUAAArbk.jpg",
+					"url": "https://t.co/CCBSZINaYC",
+					"display_url": "pic.twitter.com/CCBSZINaYC",
+					"expanded_url": "https://twitter.com/three_oclock_/status/1221609038141521921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 630,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1112,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1214,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1221609024581296000,
+					"id_str": "1221609024581296128",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EPQG73yUYAAcD3W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPQG73yUYAAcD3W.jpg",
+					"url": "https://t.co/CCBSZINaYC",
+					"display_url": "pic.twitter.com/CCBSZINaYC",
+					"expanded_url": "https://twitter.com/three_oclock_/status/1221609038141521921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 888,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1520,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2974121635,
+			"id_str": "2974121635",
+			"name": "threeoclock",
+			"screen_name": "three_oclock_",
+			"location": "chainblock",
+			"description": "구독, 플텍계 블언블 @five_oclock_",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 136,
+			"friends_count": 291,
+			"listed_count": 6,
+			"created_at": "Sun Jan 11 05:57:03 +0000 2015",
+			"favourites_count": 29792,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 123183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094276416370204672/GLUT-2PK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094276416370204672/GLUT-2PK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2974121635/1483455002",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7607,
+		"favorite_count": 2057,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "현재 중국에 방송 촬영 가있는 한국인 의사의 글 전문 https://t.co/iAB1iTX3uv https://t.co/CCBSZINaYC"
+	},
+	{
 		"created_at": "Sun Jan 26 21:25:58 +0000 2020",
 		"id": 1221544836626468900,
 		"id_str": "1221544836626468871",
