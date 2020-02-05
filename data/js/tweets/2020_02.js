@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 04 13:53:33 +0000 2020",
+		"id": 1224649588428001300,
+		"id_str": "1224692469897412610",
+		"full_text": "@_the_young 잘 아시겠지만, \n\nGDP대비 수출비중 44%\n총수출비중에서 중국비중 27%\n\n세계에서 가장 중국과 밀접하게 연관된 나라가 남조선이죠. 남조선에게는 '중국 보복'도 '팬데믹'도 둘 다 재앙입니다. 어느쪽을 선택해도 망하는 길이고, 그래서 그 중간에서 외줄타기를 해야 하는거죠.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_the_young",
+					"name": "댕",
+					"id": 744219592965292000,
+					"id_str": "744219592965292032",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1224636512353931300,
+		"in_reply_to_status_id_str": "1224636512353931264",
+		"in_reply_to_user_id": 744219592965292000,
+		"in_reply_to_user_id_str": "744219592965292032",
+		"in_reply_to_screen_name": "_the_young",
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn, 오마이걸, NCT, 이달소 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2899,
+			"friends_count": 1350,
+			"listed_count": 79,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 106563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1565051000",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@_the_young 잘 아시겠지만, \n\nGDP대비 수출비중 44%\n총수출비중에서 중국비중 27%\n\n세계에서 가장 중국과 밀접하게 연관된 나라가 남조선이죠. 남조선에게는 '중국 보복'도 '팬데믹'도 둘 다 재앙입니다. 어느쪽을 선택해도 망하는 길이고, 그래서 그 중간에서 외줄타기를 해야 하는거죠."
+	},
+	{
+		"created_at": "Tue Feb 04 13:29:10 +0000 2020",
+		"id": 1224686336507928600,
+		"id_str": "1224686336507928576",
+		"full_text": "인류가 멸망하고 폐허 속에서 발견될 법 한 ㄷㄷㄷ https://t.co/7YhansNc4x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1224686326873612300,
+					"id_str": "1224686326873612288",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EP71ucKUYAAEafP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP71ucKUYAAEafP.jpg",
+					"url": "https://t.co/7YhansNc4x",
+					"display_url": "pic.twitter.com/7YhansNc4x",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1224686336507928576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1224686326873612300,
+					"id_str": "1224686326873612288",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EP71ucKUYAAEafP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EP71ucKUYAAEafP.jpg",
+					"url": "https://t.co/7YhansNc4x",
+					"display_url": "pic.twitter.com/7YhansNc4x",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1224686336507928576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 560,
+			"friends_count": 436,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인류가 멸망하고 폐허 속에서 발견될 법 한 ㄷㄷㄷ https://t.co/7YhansNc4x"
+	},
+	{
 		"created_at": "Sun Feb 02 14:22:10 +0000 2020",
 		"id": 1223973822388326400,
 		"id_str": "1223974897279389702",
