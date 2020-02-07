@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 06 10:43:02 +0000 2020",
+		"id": 1225339745414180900,
+		"id_str": "1225369301609172992",
+		"full_text": "\"싱가포르 방문력 의심한 의사가 '응급실 감염위기' 막았다\" | 다음 뉴스 https://t.co/OP3VYfKvNs\n\n이건 솔직히 일선 공무원들이 놓칠수 있는 부분을 의사가 매우 잘잡아낸 케이스. 일선 공무원이 놓쳤다고 뭐라고 하지 맙시다. 공무원들 지금 인력 부족해서 버틸수가 없는 상황임.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OP3VYfKvNs",
+					"expanded_url": "https://news.v.daum.net/v/20200206143548477",
+					"display_url": "news.v.daum.net/v/202002061435…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022207629,
+			"id_str": "1022207629",
+			"name": "단순한생각",
+			"screen_name": "lemay_wp",
+			"location": "20AF, FE Warren / NO RWY",
+			"description": "기본은 덕질계정 / 멘션은 댓글이 아닙니다. 고로 초면반말은 걸리면 블락 / MAKE PENTAX GREAT AGAIN!!",
+			"url": "https://t.co/SHrXTMmOdL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SHrXTMmOdL",
+							"expanded_url": "https://youtu.be/FM7MFYoylVs",
+							"display_url": "youtu.be/FM7MFYoylVs",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1491,
+			"friends_count": 691,
+			"listed_count": 17,
+			"created_at": "Wed Dec 19 14:34:02 +0000 2012",
+			"favourites_count": 3668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194485169505177600/NAsZ5caY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194485169505177600/NAsZ5caY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022207629/1573563657",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1554,
+		"favorite_count": 612,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"싱가포르 방문력 의심한 의사가 '응급실 감염위기' 막았다\" | 다음 뉴스 https://t.co/OP3VYfKvNs\n\n이건 솔직히 일선 공무원들이 놓칠수 있는 부분을 의사가 매우 잘잡아낸 케이스. 일선 공무원이 놓쳤다고 뭐라고 하지 맙시다. 공무원들 지금 인력 부족해서 버틸수가 없는 상황임."
+	},
+	{
 		"created_at": "Wed Feb 05 05:55:40 +0000 2020",
 		"id": 1224934595923038200,
 		"id_str": "1224934595923038209",
