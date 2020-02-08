@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 07 12:58:00 +0000 2020",
+		"id": 1225765655850340400,
+		"id_str": "1225765655850340352",
+		"full_text": "에어비앤비...이른바 공유숙박의 취약점이 이런 지점에서...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 559,
+			"friends_count": 436,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "에어비앤비...이른바 공유숙박의 취약점이 이런 지점에서..."
+	},
+	{
+		"created_at": "Fri Feb 07 12:52:16 +0000 2020",
+		"id": 1225579435115655200,
+		"id_str": "1225764211906605056",
+		"full_text": "중국에서 온 확진자가 퇴원하니 그동안 숨어있던 다른 중국인 확진자가 튀어나온걸 보면 알수있듯이 국가가 외국인 감염자를 책임지고 치료하는건 꽤 중요한 시그널....",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240020944,
+			"id_str": "240020944",
+			"name": "히미코",
+			"screen_name": "himiko2100",
+			"location": "KOREA",
+			"description": "2020 목표 : 인내, 절제",
+			"url": "https://t.co/FfC2L7uskX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FfC2L7uskX",
+							"expanded_url": "http://himiko.egloos.com",
+							"display_url": "himiko.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 727,
+			"friends_count": 332,
+			"listed_count": 24,
+			"created_at": "Wed Jan 19 00:08:17 +0000 2011",
+			"favourites_count": 572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 90582,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1143760922093113345/LKl4H0MF_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1143760922093113345/LKl4H0MF_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240020944/1565743320",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2136,
+		"favorite_count": 653,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "중국에서 온 확진자가 퇴원하니 그동안 숨어있던 다른 중국인 확진자가 튀어나온걸 보면 알수있듯이 국가가 외국인 감염자를 책임지고 치료하는건 꽤 중요한 시그널...."
+	},
+	{
+		"created_at": "Fri Feb 07 10:56:13 +0000 2020",
+		"id": 1225666525446594600,
+		"id_str": "1225735008939204608",
+		"full_text": "자신의 주장을 뒷받침하기 위해 동일한 인물에 대한 평가가 보는 이가 민망해질 정도로 바뀌었다. (현재와 현 정부 출범 이전) 과문한 탓인지 이런 논리 변화의 이유를 문재인 정부에 대한 반감과 적의 이외엔 어떤 것도 찾을 수 없다. https://t.co/RYrXStDW3e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225666507205513200,
+					"id_str": "1225666507205513218",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EQJxMccUEAIf3-k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQJxMccUEAIf3-k.jpg",
+					"url": "https://t.co/RYrXStDW3e",
+					"display_url": "pic.twitter.com/RYrXStDW3e",
+					"expanded_url": "https://twitter.com/Kvin_1/status/1225666525446594562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1412,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1177,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225666507205513200,
+					"id_str": "1225666507205513218",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EQJxMccUEAIf3-k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQJxMccUEAIf3-k.jpg",
+					"url": "https://t.co/RYrXStDW3e",
+					"display_url": "pic.twitter.com/RYrXStDW3e",
+					"expanded_url": "https://twitter.com/Kvin_1/status/1225666525446594562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1412,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1177,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1225666517372567600,
+					"id_str": "1225666517372567553",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EQJxNCUVAAEKU8C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQJxNCUVAAEKU8C.jpg",
+					"url": "https://t.co/RYrXStDW3e",
+					"display_url": "pic.twitter.com/RYrXStDW3e",
+					"expanded_url": "https://twitter.com/Kvin_1/status/1225666525446594562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 650,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1147,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1376,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 537826801,
+			"id_str": "537826801",
+			"name": "Kiwoo",
+			"screen_name": "Kvin_1",
+			"location": "",
+			"description": "의미란 물을수록 무의미해진다. - Stanley Kubrick",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10832,
+			"friends_count": 805,
+			"listed_count": 164,
+			"created_at": "Tue Mar 27 03:58:02 +0000 2012",
+			"favourites_count": 31777,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DB9D5A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148267815876431872/xyBTKitW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148267815876431872/xyBTKitW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/537826801/1579883609",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자신의 주장을 뒷받침하기 위해 동일한 인물에 대한 평가가 보는 이가 민망해질 정도로 바뀌었다. (현재와 현 정부 출범 이전) 과문한 탓인지 이런 논리 변화의 이유를 문재인 정부에 대한 반감과 적의 이외엔 어떤 것도 찾을 수 없다. https://t.co/RYrXStDW3e"
+	},
+	{
 		"created_at": "Thu Feb 06 10:43:02 +0000 2020",
 		"id": 1225339745414180900,
 		"id_str": "1225369301609172992",
