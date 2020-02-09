@@ -1,6 +1,798 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 08 14:27:01 +0000 2020",
+		"id": 1225995031133048800,
+		"id_str": "1226150444231086080",
+		"full_text": "中国の湖北省武漢市で、新型コロナウイルスに感染している疑いがあり、重い肺炎で入院していた６０代の日本人男性が亡くなったことがわかった。https://t.co/IhoviunuWL #日テレ\n#新型肺炎 #コロナウイルス https://t.co/596Uzs99kX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "日テレ",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "新型肺炎",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "コロナウイルス",
+					"indices": [
+						102,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IhoviunuWL",
+					"expanded_url": "http://www.news24.jp/feature/406/feature406_01.html",
+					"display_url": "news24.jp/feature/406/fe…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1225991607683403800,
+					"id_str": "1225991607683403779",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EQOY-kKVUAEVTJB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQOY-kKVUAEVTJB.jpg",
+					"url": "https://t.co/596Uzs99kX",
+					"display_url": "pic.twitter.com/596Uzs99kX",
+					"expanded_url": "https://twitter.com/news24ntv/status/1225995031133048834/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225991607683403800,
+					"id_str": "1225991607683403779",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EQOY-kKVUAEVTJB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQOY-kKVUAEVTJB.jpg",
+					"url": "https://t.co/596Uzs99kX",
+					"display_url": "pic.twitter.com/596Uzs99kX",
+					"expanded_url": "https://twitter.com/news24ntv/status/1225995031133048834/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45012,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1225991607683403779/vid/480x270/vcTTMfPpWvXUsF4s.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1225991607683403779/vid/640x360/ykAXie9AHBtvmEQl.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1225991607683403779/vid/960x540/skqicVSv8DTPIfpC.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1225991607683403779/pl/C2tz7kR6sZjv7XP1.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "武漢で入院の邦人男性死亡　新型コロナ疑い",
+						"description": "中国の湖北省武漢市で、新型コロナウイルスに感染している疑いがあり、重い肺炎で入院していた６０代の日本人男性が亡くなったことがわかった。http://www.news24.jp/articles/2020/02/08/04592186.html #コロナ #新型肺炎 #日テレ ",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41167899,
+			"id_str": "41167899",
+			"name": "日テレNEWS",
+			"screen_name": "news24ntv",
+			"location": "東京都港区",
+			"description": "日本テレビのニュース専門チャンネル「日テレNEWS24」から最新ニュースをお届けします。",
+			"url": "http://t.co/6Y6XR0k7WW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6Y6XR0k7WW",
+							"expanded_url": "http://www.news24.jp/",
+							"display_url": "news24.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120937,
+			"friends_count": 16,
+			"listed_count": 4110,
+			"created_at": "Tue May 19 17:54:15 +0000 2009",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 133995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209053168870416389/lFgBlkWY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209053168870416389/lFgBlkWY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41167899/1578467006",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2231,
+		"favorite_count": 1954,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "中国の湖北省武漢市で、新型コロナウイルスに感染している疑いがあり、重い肺炎で入院していた６０代の日本人男性が亡くなったことがわかった。https://t.co/IhoviunuWL #日テレ\n#新型肺炎 #コロナウイルス https://t.co/596Uzs99kX"
+	},
+	{
+		"created_at": "Sat Feb 08 14:24:44 +0000 2020",
+		"id": 1225063549518565400,
+		"id_str": "1226149869552730112",
+		"full_text": "昨日2月4日、普天間飛行場にいたグローブマスター。でかい。\n\n#P1000 https://t.co/Da03UODPy3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "P1000",
+					"indices": [
+						31,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1225063473970741200,
+					"id_str": "1225063473970741248",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1225063473970741248/pu/img/D9HE4L83OHYJLjIy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1225063473970741248/pu/img/D9HE4L83OHYJLjIy.jpg",
+					"url": "https://t.co/Da03UODPy3",
+					"display_url": "pic.twitter.com/Da03UODPy3",
+					"expanded_url": "https://twitter.com/camera_oniisan/status/1225063549518565376/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1225063473970741200,
+					"id_str": "1225063473970741248",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1225063473970741248/pu/img/D9HE4L83OHYJLjIy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1225063473970741248/pu/img/D9HE4L83OHYJLjIy.jpg",
+					"url": "https://t.co/Da03UODPy3",
+					"display_url": "pic.twitter.com/Da03UODPy3",
+					"expanded_url": "https://twitter.com/camera_oniisan/status/1225063549518565376/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 50733,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1225063473970741248/pu/vid/1280x720/-Kjy0sm-Ig3BaeJt.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1225063473970741248/pu/vid/640x360/BsSsUnteIYJx9ZK8.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1225063473970741248/pu/vid/480x270/6CffQq0DeqZ5U-O6.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1225063473970741248/pu/pl/J_KzXAKSqGrYHsUN.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 788354212262404100,
+			"id_str": "788354212262404096",
+			"name": "カメラマンのお兄さん",
+			"screen_name": "camera_oniisan",
+			"location": "沖縄県",
+			"description": "沖縄の新聞社・琉球新報のマスコットキャラクター『りゅうちゃん』の専属カメラマンで写真映像部所属です。",
+			"url": "https://t.co/gjeb6aiY3i",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gjeb6aiY3i",
+							"expanded_url": "http://diary.ryuchan.jp",
+							"display_url": "diary.ryuchan.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 727,
+			"friends_count": 757,
+			"listed_count": 14,
+			"created_at": "Tue Oct 18 12:21:05 +0000 2016",
+			"favourites_count": 3580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/961187229384065024/ZjXDKKOB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/961187229384065024/ZjXDKKOB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/788354212262404096/1580033512",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "昨日2月4日、普天間飛行場にいたグローブマスター。でかい。\n\n#P1000 https://t.co/Da03UODPy3"
+	},
+	{
+		"created_at": "Sat Feb 08 11:47:48 +0000 2020",
+		"id": 1226110375843598300,
+		"id_str": "1226110375843598336",
+		"full_text": "방금 리트윗은 동의의 의미로 비춰질까 취소.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1226110097027297300,
+		"in_reply_to_status_id_str": "1226110097027297280",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 560,
+			"friends_count": 436,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "방금 리트윗은 동의의 의미로 비춰질까 취소."
+	},
+	{
+		"created_at": "Sat Feb 08 11:46:41 +0000 2020",
+		"id": 1226110097027297300,
+		"id_str": "1226110097027297280",
+		"full_text": "물론 그들도 모르진 않고 있을 것. 하지만 그게 가능했다면(먼산)  그저 당연하지만 한가한 소리처럼 들린다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 560,
+			"friends_count": 436,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "물론 그들도 모르진 않고 있을 것. 하지만 그게 가능했다면(먼산)  그저 당연하지만 한가한 소리처럼 들린다."
+	},
+	{
+		"created_at": "Sat Feb 08 09:29:40 +0000 2020",
+		"id": 1226036925175193600,
+		"id_str": "1226075615817654272",
+		"full_text": "태극기 집회의 특이한 점? 사회적으로 지도층 위치에 있던 사람들 비중이 아주 높다는 것. 그런 점에서 한국은 “교양에 있어 일반인들의 수준이 낮은 게 아니라 엘리트들의 수준이 낮”다고 한 김영민 교수의 주장에 깊이 공감한다.\nhttps://t.co/qCEC67p0Ft",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qCEC67p0Ft",
+					"expanded_url": "https://news.chosun.com/site/data/html_dir/2019/01/04/2019010401640.html?utm_source=twitter&utm_medium=shareM&utm_campaign=Mnews",
+					"display_url": "news.chosun.com/site/data/html…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1226034603242082300,
+		"in_reply_to_status_id_str": "1226034603242082304",
+		"in_reply_to_user_id": 35781837,
+		"in_reply_to_user_id_str": "35781837",
+		"in_reply_to_screen_name": "dennoch1919",
+		"user": {
+			"id": 35781837,
+			"id_str": "35781837",
+			"name": "dennoch",
+			"screen_name": "dennoch1919",
+			"location": "Seoul, South Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2603,
+			"friends_count": 364,
+			"listed_count": 48,
+			"created_at": "Mon Apr 27 16:15:57 +0000 2009",
+			"favourites_count": 6058,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35781837/1542530531",
+			"profile_link_color": "001871",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 421,
+		"favorite_count": 220,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태극기 집회의 특이한 점? 사회적으로 지도층 위치에 있던 사람들 비중이 아주 높다는 것. 그런 점에서 한국은 “교양에 있어 일반인들의 수준이 낮은 게 아니라 엘리트들의 수준이 낮”다고 한 김영민 교수의 주장에 깊이 공감한다.\nhttps://t.co/qCEC67p0Ft"
+	},
+	{
+		"created_at": "Sat Feb 08 09:29:33 +0000 2020",
+		"id": 1226034603242082300,
+		"id_str": "1226075586029768706",
+		"full_text": "한국 언론이 수준이 낮다고 욕을 많이 먹지만, 일단 한국에는 고급 독자가 되어줄 만한 사람이 별로 없다. 난 언론도 결국 자본주의가 작동하는 출판시장이라고 믿는다. 수요가 있는 곳에 공급이 있다면, 결국 상품의 질은 수요자(독자)를 따라가거나, 생산자(기자) 개인의 장인정신에 기댈 뿐이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1226031316862242800,
+		"in_reply_to_status_id_str": "1226031316862242817",
+		"in_reply_to_user_id": 35781837,
+		"in_reply_to_user_id_str": "35781837",
+		"in_reply_to_screen_name": "dennoch1919",
+		"user": {
+			"id": 35781837,
+			"id_str": "35781837",
+			"name": "dennoch",
+			"screen_name": "dennoch1919",
+			"location": "Seoul, South Korea",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2603,
+			"friends_count": 364,
+			"listed_count": 48,
+			"created_at": "Mon Apr 27 16:15:57 +0000 2009",
+			"favourites_count": 6058,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1064083726928203777/N6EMQwyz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35781837/1542530531",
+			"profile_link_color": "001871",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국 언론이 수준이 낮다고 욕을 많이 먹지만, 일단 한국에는 고급 독자가 되어줄 만한 사람이 별로 없다. 난 언론도 결국 자본주의가 작동하는 출판시장이라고 믿는다. 수요가 있는 곳에 공급이 있다면, 결국 상품의 질은 수요자(독자)를 따라가거나, 생산자(기자) 개인의 장인정신에 기댈 뿐이다."
+	},
+	{
 		"created_at": "Fri Feb 07 12:58:00 +0000 2020",
 		"id": 1225765655850340400,
 		"id_str": "1225765655850340352",
