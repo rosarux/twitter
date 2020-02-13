@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 12 11:42:42 +0000 2020",
+		"id": 1227361232488812500,
+		"id_str": "1227558644885049344",
+		"full_text": "【新型肺炎 日本で複数人が重症】\nhttps://t.co/FJ9nFNiKdj\n\n日本国内で確認された新型コロナウイルス感染者のうち、複数の人が重症になっていることが判明。呼吸困難となるなど容体が非常に深刻な患者もいるといい、懸命の治療が続いている。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FJ9nFNiKdj",
+					"expanded_url": "https://yahoo.jp/LET-Hl",
+					"display_url": "yahoo.jp/LET-Hl",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://dailynews.yahoo.co.jp/fc/\" rel=\"nofollow\">ヤフトピbot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 88846085,
+			"id_str": "88846085",
+			"name": "Yahoo!ニュース",
+			"screen_name": "YahooNewsTopics",
+			"location": "",
+			"description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。",
+			"url": "https://t.co/PORT0VCtyG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PORT0VCtyG",
+							"expanded_url": "https://news.yahoo.co.jp/",
+							"display_url": "news.yahoo.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 643827,
+			"friends_count": 11,
+			"listed_count": 15759,
+			"created_at": "Tue Nov 10 03:59:51 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 361136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DFD7C7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/88846085/1557715365",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A1A33B",
+			"profile_sidebar_fill_color": "FFFCDE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2275,
+		"favorite_count": 2412,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【新型肺炎 日本で複数人が重症】\nhttps://t.co/FJ9nFNiKdj\n\n日本国内で確認された新型コロナウイルス感染者のうち、複数の人が重症になっていることが判明。呼吸困難となるなど容体が非常に深刻な患者もいるといい、懸命の治療が続いている。"
+	},
+	{
 		"created_at": "Mon Feb 10 15:51:10 +0000 2020",
 		"id": 1226817194878742500,
 		"id_str": "1226896396378238982",
