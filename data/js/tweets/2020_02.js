@@ -1,6 +1,753 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 14:19:18 +0000 2020",
+		"id": 1227946923199324200,
+		"id_str": "1227960442414235648",
+		"full_text": "지역감정은 호남혐오라고 불렀어야 하는데",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 947954705228972000,
+			"id_str": "947954705228972032",
+			"name": "😷s u m m e r ◿",
+			"screen_name": "natsutoyuuhi",
+			"location": "히라테와 승완과 사야네",
+			"description": "いつもありがとう、友梨奈ちゃん。/ https://t.co/ZrfFKX9mKT / fan account",
+			"url": "https://t.co/p48eOqHnmm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p48eOqHnmm",
+							"expanded_url": "http://tripandtrap.tistory.com",
+							"display_url": "tripandtrap.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZrfFKX9mKT",
+							"expanded_url": "http://asked.kr/thisissummer",
+							"display_url": "asked.kr/thisissummer",
+							"indices": [
+								18,
+								41
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 338,
+			"listed_count": 3,
+			"created_at": "Mon Jan 01 22:16:28 +0000 2018",
+			"favourites_count": 8170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225361223111172096/RwHVhuBe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225361223111172096/RwHVhuBe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/947954705228972032/1577717522",
+			"profile_link_color": "6A5ACD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지역감정은 호남혐오라고 불렀어야 하는데"
+	},
+	{
+		"created_at": "Thu Feb 13 14:18:54 +0000 2020",
+		"id": 1227960341411197000,
+		"id_str": "1227960341411196928",
+		"full_text": "@holy_pillar 우리 메르스 때랑 판박이 같아요.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "holy_pillar",
+					"name": "Holy Pillar",
+					"id": 1667414719,
+					"id_str": "1667414719",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1227956534639919000,
+		"in_reply_to_status_id_str": "1227956534639919104",
+		"in_reply_to_user_id": 1667414719,
+		"in_reply_to_user_id_str": "1667414719",
+		"in_reply_to_screen_name": "holy_pillar",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 561,
+			"friends_count": 435,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@holy_pillar 우리 메르스 때랑 판박이 같아요."
+	},
+	{
+		"created_at": "Thu Feb 13 14:17:41 +0000 2020",
+		"id": 1227956534639919000,
+		"id_str": "1227960034371309568",
+		"full_text": "@kawanoboru 사스 유행 당시 WHO 서태평양지역사무국장이던 오미 시게루 씨가 기자회견했네요. 국내감염 이미 시작됐고 사망자 최소화를 지상과제로 삼아야 된다는데 어째 심상치 않은 것 같습니다.. https://t.co/VNQduemtZh",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kawanoboru",
+					"name": "縄",
+					"id": 94077994,
+					"id_str": "94077994",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VNQduemtZh",
+					"expanded_url": "https://news.yahoo.co.jp/byline/egawashoko/20200213-00162972/",
+					"display_url": "news.yahoo.co.jp/byline/egawash…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1227951047903105000,
+		"in_reply_to_status_id_str": "1227951047903105025",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 1667414719,
+			"id_str": "1667414719",
+			"name": "Holy Pillar",
+			"screen_name": "holy_pillar",
+			"location": "페이퍼 스트리트 531번지",
+			"description": "비누를 만들고 가끔은 던지기도 합니다. 비누로 할 수 있는 일은 생각보다 훨씬 많습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1288,
+			"friends_count": 494,
+			"listed_count": 25,
+			"created_at": "Tue Aug 13 10:02:04 +0000 2013",
+			"favourites_count": 19300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 38181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/588896374969634816/k4Eq9yQR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/588896374969634816/k4Eq9yQR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1667414719/1392285875",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@kawanoboru 사스 유행 당시 WHO 서태평양지역사무국장이던 오미 시게루 씨가 기자회견했네요. 국내감염 이미 시작됐고 사망자 최소화를 지상과제로 삼아야 된다는데 어째 심상치 않은 것 같습니다.. https://t.co/VNQduemtZh"
+	},
+	{
+		"created_at": "Thu Feb 13 13:53:22 +0000 2020",
+		"id": 1227953917415215000,
+		"id_str": "1227953917415215104",
+		"full_text": "@TorSean 방역체계뿐만 아니라 인프라, 사회시스템... 모든 것이요",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TorSean",
+					"name": "Tor Sean",
+					"id": 133255001,
+					"id_str": "133255001",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1227953585893232600,
+		"in_reply_to_status_id_str": "1227953585893232640",
+		"in_reply_to_user_id": 133255001,
+		"in_reply_to_user_id_str": "133255001",
+		"in_reply_to_screen_name": "TorSean",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 561,
+			"friends_count": 435,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@TorSean 방역체계뿐만 아니라 인프라, 사회시스템... 모든 것이요"
+	},
+	{
+		"created_at": "Thu Feb 13 13:42:31 +0000 2020",
+		"id": 1227951184356368400,
+		"id_str": "1227951184356368384",
+		"full_text": "그냥 필부의 호들갑이길",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1227951047903105000,
+		"in_reply_to_status_id_str": "1227951047903105025",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 561,
+			"friends_count": 435,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그냥 필부의 호들갑이길"
+	},
+	{
+		"created_at": "Thu Feb 13 13:41:58 +0000 2020",
+		"id": 1227951047903105000,
+		"id_str": "1227951047903105025",
+		"full_text": "올해 하계 올림픽은 안열리게 될 것 같다. 그리고 우리는 공항 항만 검역요원 확충 서둘러야 할 듯 ㅠ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 561,
+			"friends_count": 435,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "올해 하계 올림픽은 안열리게 될 것 같다. 그리고 우리는 공항 항만 검역요원 확충 서둘러야 할 듯 ㅠ"
+	},
+	{
+		"created_at": "Thu Feb 13 13:14:40 +0000 2020",
+		"id": 1227861098054877200,
+		"id_str": "1227944174978097152",
+		"full_text": "경제활동 시작도 아니고 세상 물정 눈 떴을 때부터 지금까지 죽 언론과 기업들은  불황이네, 불경기네 떠들어댔는데 20년이 넘는 동안 그러고 있으면 그게 현재 노멀한 상태라는 걸 인지하고 거기 맞춰 대응하고 해법을 찾아야 할 것 아닌가. 불황 불황 거리면서 입만 털거면 경영이란 건 왜 존재하냐.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 192260168,
+			"id_str": "192260168",
+			"name": "NOT DiGITAL",
+			"screen_name": "NOT_DiGITAL_",
+			"location": "Korea, Republic of",
+			"description": "이 시대의 지극히 건전하고 평범한 직장인.",
+			"url": "http://t.co/2ElYr39Zcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2ElYr39Zcc",
+							"expanded_url": "http://notdigital.net",
+							"display_url": "notdigital.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2375,
+			"friends_count": 891,
+			"listed_count": 62,
+			"created_at": "Sat Sep 18 16:45:29 +0000 2010",
+			"favourites_count": 13428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 217397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1743001919/twitter_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1743001919/twitter_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "경제활동 시작도 아니고 세상 물정 눈 떴을 때부터 지금까지 죽 언론과 기업들은  불황이네, 불경기네 떠들어댔는데 20년이 넘는 동안 그러고 있으면 그게 현재 노멀한 상태라는 걸 인지하고 거기 맞춰 대응하고 해법을 찾아야 할 것 아닌가. 불황 불황 거리면서 입만 털거면 경영이란 건 왜 존재하냐."
+	},
+	{
+		"created_at": "Thu Feb 13 13:14:29 +0000 2020",
+		"id": 1227873538058510300,
+		"id_str": "1227944130531086338",
+		"full_text": "한국 의 경제 규모나 성숙도에서 언론이나 기업이 바라는 성장률이나 호황은 미친 소리에 가깝다. -_-",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1227861098054877200,
+		"in_reply_to_status_id_str": "1227861098054877186",
+		"in_reply_to_user_id": 192260168,
+		"in_reply_to_user_id_str": "192260168",
+		"in_reply_to_screen_name": "NOT_DiGITAL_",
+		"user": {
+			"id": 192260168,
+			"id_str": "192260168",
+			"name": "NOT DiGITAL",
+			"screen_name": "NOT_DiGITAL_",
+			"location": "Korea, Republic of",
+			"description": "이 시대의 지극히 건전하고 평범한 직장인.",
+			"url": "http://t.co/2ElYr39Zcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2ElYr39Zcc",
+							"expanded_url": "http://notdigital.net",
+							"display_url": "notdigital.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2375,
+			"friends_count": 891,
+			"listed_count": 62,
+			"created_at": "Sat Sep 18 16:45:29 +0000 2010",
+			"favourites_count": 13428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 217397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1743001919/twitter_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1743001919/twitter_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국 의 경제 규모나 성숙도에서 언론이나 기업이 바라는 성장률이나 호황은 미친 소리에 가깝다. -_-"
+	},
+	{
 		"created_at": "Wed Feb 12 11:42:42 +0000 2020",
 		"id": 1227361232488812500,
 		"id_str": "1227558644885049344",
