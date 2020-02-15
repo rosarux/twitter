@@ -1,6 +1,1139 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 14 13:11:29 +0000 2020",
+		"id": 1228300249615102000,
+		"id_str": "1228305764579594240",
+		"full_text": "트적은 뭐지? 트위터 적폐란 뜻인가? 대체 뭔 뜻임",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 81994673,
+			"id_str": "81994673",
+			"name": "애니프사175",
+			"screen_name": "seventeeeeeenth",
+			"location": "boobs.oppai.가슴",
+			"description": "이게 다 문재인 때문이다",
+			"url": "https://t.co/FA1H8H92Qw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FA1H8H92Qw",
+							"expanded_url": "http://ask.fm/seventeeeeeenth",
+							"display_url": "ask.fm/seventeeeeeenth",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2445,
+			"friends_count": 1021,
+			"listed_count": 56,
+			"created_at": "Tue Oct 13 02:49:55 +0000 2009",
+			"favourites_count": 12260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 145144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220947163967967232/PlyLAGjf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220947163967967232/PlyLAGjf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/81994673/1427901868",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "트적은 뭐지? 트위터 적폐란 뜻인가? 대체 뭔 뜻임"
+	},
+	{
+		"created_at": "Fri Feb 14 13:11:14 +0000 2020",
+		"id": 1228300450799075300,
+		"id_str": "1228305699366563840",
+		"full_text": "시사인과 한국사람들이 공무원을 정말 얼마나 개똥으로 생각하는지가 너무나도 투리구슬로 드러나는 기사와 트윗이다. https://t.co/pW4wjsIMkC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pW4wjsIMkC",
+					"expanded_url": "https://twitter.com/jinwonjung/status/1227736008650715136",
+					"display_url": "twitter.com/jinwonjung/sta…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 198177230,
+			"id_str": "198177230",
+			"name": "뉘에",
+			"screen_name": "nibs17",
+			"location": "",
+			"description": "살려야 한다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 324,
+			"friends_count": 557,
+			"listed_count": 8,
+			"created_at": "Sun Oct 03 15:32:26 +0000 2010",
+			"favourites_count": 8371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/806754520407511040/5Ow87jYc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/806754520407511040/5Ow87jYc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/198177230/1556923182",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1227736008650715100,
+		"quoted_status_id_str": "1227736008650715136",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pW4wjsIMkC",
+			"expanded": "https://twitter.com/jinwonjung/status/1227736008650715136",
+			"display": "twitter.com/jinwonjung/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 12 23:27:29 +0000 2020",
+			"id": 1227736008650715100,
+			"id_str": "1227736008650715136",
+			"full_text": "신종코로나 대응양상을 보고 국뽕을 한사발 들이키려고 했는데 이번호 시사인 보고 차갑게 식음. \n현상태는 정은경 본부장의 개인기일뿐 신종감염병 대응을 할 수 있는 시스템은 아직 갖춰져 있지 않다고. 보복부 관료들은 여전히 의지가 없으며 복지부동할 뿐이라고. https://t.co/r1zzwrBak1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1227735996520775700,
+						"id_str": "1227735996520775681",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/EQnLYk6UwAERwga.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQnLYk6UwAERwga.jpg",
+						"url": "https://t.co/r1zzwrBak1",
+						"display_url": "pic.twitter.com/r1zzwrBak1",
+						"expanded_url": "https://twitter.com/JinwonJung/status/1227736008650715136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1227735996520775700,
+						"id_str": "1227735996520775681",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/EQnLYk6UwAERwga.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EQnLYk6UwAERwga.jpg",
+						"url": "https://t.co/r1zzwrBak1",
+						"display_url": "pic.twitter.com/r1zzwrBak1",
+						"expanded_url": "https://twitter.com/JinwonJung/status/1227736008650715136/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50694421,
+				"id_str": "50694421",
+				"name": "정진원",
+				"screen_name": "JinwonJung",
+				"location": "용인",
+				"description": "단백질의 구조와 동역학, 그것은 생명이 시작되는 화학의 아름다운 춤사위, 를 연구하다가 지금은 신약개발을 하고 있습니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2689,
+				"friends_count": 1500,
+				"listed_count": 61,
+				"created_at": "Thu Jun 25 16:37:30 +0000 2009",
+				"favourites_count": 10819,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 67203,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1228296123145568256/K61gT__M_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228296123145568256/K61gT__M_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50694421/1561519991",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3606,
+			"favorite_count": 1101,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 45,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "시사인과 한국사람들이 공무원을 정말 얼마나 개똥으로 생각하는지가 너무나도 투리구슬로 드러나는 기사와 트윗이다. https://t.co/pW4wjsIMkC"
+	},
+	{
+		"created_at": "Fri Feb 14 12:55:16 +0000 2020",
+		"id": 1228301683345653800,
+		"id_str": "1228301683345653761",
+		"full_text": "나이가 들어 총기가 떨어지면 말을 줄여야 한다. 요즘 모 선생을 보며 드는 생각",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 561,
+			"friends_count": 436,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "나이가 들어 총기가 떨어지면 말을 줄여야 한다. 요즘 모 선생을 보며 드는 생각"
+	},
+	{
+		"created_at": "Fri Feb 14 12:03:13 +0000 2020",
+		"id": 1228162443852963800,
+		"id_str": "1228288583133319169",
+		"full_text": "@DrBrianMay \nSo lovely❤️\n\n治療中のコアラ🐨ちゃんのお見舞い🥺\n医療スタッフさんのギターかな？\nコアラちゃんがブライアンのギターに耳を傾けてる👂🎸\n\n#QAL\n#ブライアンメイ\n#BrianMay https://t.co/iWJn5tcvFv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "QAL",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "ブライアンメイ",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "BrianMay",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrBrianMay",
+					"name": "Dr. Brian May",
+					"id": 863405239,
+					"id_str": "863405239",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1228162377603940400,
+					"id_str": "1228162377603940352",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228162377603940352/pu/img/Ku2o80H3MUkv79kI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228162377603940352/pu/img/Ku2o80H3MUkv79kI.jpg",
+					"url": "https://t.co/iWJn5tcvFv",
+					"display_url": "pic.twitter.com/iWJn5tcvFv",
+					"expanded_url": "https://twitter.com/jjwildworld/status/1228162443852963840/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228162377603940400,
+					"id_str": "1228162377603940352",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228162377603940352/pu/img/Ku2o80H3MUkv79kI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228162377603940352/pu/img/Ku2o80H3MUkv79kI.jpg",
+					"url": "https://t.co/iWJn5tcvFv",
+					"display_url": "pic.twitter.com/iWJn5tcvFv",
+					"expanded_url": "https://twitter.com/jjwildworld/status/1228162443852963840/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 37200,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228162377603940352/pu/vid/320x320/gpywfi7j0Jfd26vj.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228162377603940352/pu/vid/480x480/t7fXePM4sA42e25c.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228162377603940352/pu/vid/720x720/dmL5OdAJCmh57clx.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1228162377603940352/pu/pl/39Bnr-9MnhWnnTyV.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 863405239,
+		"in_reply_to_user_id_str": "863405239",
+		"in_reply_to_screen_name": "DrBrianMay",
+		"user": {
+			"id": 254440582,
+			"id_str": "254440582",
+			"name": "J.J",
+			"screen_name": "jjwildworld",
+			"location": "Japan",
+			"description": "QUEENを愛して止みません。 絡んでください♫無断でフォロー失礼します♫80-90年代の洋楽大好き💕 よろしくお願いします★",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 797,
+			"friends_count": 237,
+			"listed_count": 16,
+			"created_at": "Sat Feb 19 08:23:32 +0000 2011",
+			"favourites_count": 46222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213848136612925441/EXoGLbfW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213848136612925441/EXoGLbfW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/254440582/1574665666",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 43,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "@DrBrianMay \nSo lovely❤️\n\n治療中のコアラ🐨ちゃんのお見舞い🥺\n医療スタッフさんのギターかな？\nコアラちゃんがブライアンのギターに耳を傾けてる👂🎸\n\n#QAL\n#ブライアンメイ\n#BrianMay https://t.co/iWJn5tcvFv"
+	},
+	{
+		"created_at": "Fri Feb 14 08:48:08 +0000 2020",
+		"id": 1228239490033963000,
+		"id_str": "1228239490033963008",
+		"full_text": "오키나와 나하항에 기항한 다이아몬드 프린세스 탑승 중국인 4명을 태우고 관광 안내를 했다고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1228238505089720300,
+		"in_reply_to_status_id_str": "1228238505089720320",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 561,
+			"friends_count": 436,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "오키나와 나하항에 기항한 다이아몬드 프린세스 탑승 중국인 4명을 태우고 관광 안내를 했다고."
+	},
+	{
+		"created_at": "Fri Feb 14 08:44:19 +0000 2020",
+		"id": 1228213597794263000,
+		"id_str": "1228238526849748992",
+		"full_text": "新型コロナ、沖縄で初感染　60代の女性タクシー運転手　「ダイヤモンド・プリンセス」の中国客を案内 https://t.co/p7eGI6xSco #新型肺炎 #新型コロナウイルス #okinawa #沖縄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "新型肺炎",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "新型コロナウイルス",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"text": "okinawa",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "沖縄",
+					"indices": [
+						99,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p7eGI6xSco",
+					"expanded_url": "https://www.okinawatimes.co.jp/articles/-/534920",
+					"display_url": "okinawatimes.co.jp/articles/-/534…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.okinawatimes.co.jp\" rel=\"nofollow\">沖縄タイムス社TweetBot</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118600653,
+			"id_str": "118600653",
+			"name": "沖縄タイムス",
+			"screen_name": "theokinawatimes",
+			"location": "沖縄県那覇市",
+			"description": "「沖縄タイムス」の公式アカウントです。沖縄のニュースをつぶやきます。情報提供はこちら↓↓ https://t.co/dRtcewvbkS",
+			"url": "http://t.co/MNvzHef3vO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/MNvzHef3vO",
+							"expanded_url": "http://www.okinawatimes.co.jp",
+							"display_url": "okinawatimes.co.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dRtcewvbkS",
+							"expanded_url": "https://app.okinawatimes.co.jp/contact/info_form.php",
+							"display_url": "app.okinawatimes.co.jp/contact/info_f…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 93013,
+			"friends_count": 111,
+			"listed_count": 3236,
+			"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+			"favourites_count": 3124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 293481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1554698014",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 186,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "新型コロナ、沖縄で初感染　60代の女性タクシー運転手　「ダイヤモンド・プリンセス」の中国客を案内 https://t.co/p7eGI6xSco #新型肺炎 #新型コロナウイルス #okinawa #沖縄"
+	},
+	{
+		"created_at": "Fri Feb 14 08:44:13 +0000 2020",
+		"id": 1228238505089720300,
+		"id_str": "1228238505089720320",
+		"full_text": "60대 택시기사 오키나와에서 코로나19 첫 감염사례 https://t.co/lZqeQPH5Fv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lZqeQPH5Fv",
+					"expanded_url": "https://twitter.com/theokinawatimes/status/1228213597794263041",
+					"display_url": "twitter.com/theokinawatime…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 561,
+			"friends_count": 436,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1228213597794263000,
+		"quoted_status_id_str": "1228213597794263041",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lZqeQPH5Fv",
+			"expanded": "https://twitter.com/theokinawatimes/status/1228213597794263041",
+			"display": "twitter.com/theokinawatime…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 14 07:05:15 +0000 2020",
+			"id": 1228213597794263000,
+			"id_str": "1228213597794263041",
+			"full_text": "新型コロナ、沖縄で初感染　60代の女性タクシー運転手　「ダイヤモンド・プリンセス」の中国客を案内 https://t.co/p7eGI6xSco #新型肺炎 #新型コロナウイルス #okinawa #沖縄",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "新型肺炎",
+						"indices": [
+							73,
+							78
+						]
+					},
+					{
+						"text": "新型コロナウイルス",
+						"indices": [
+							79,
+							89
+						]
+					},
+					{
+						"text": "okinawa",
+						"indices": [
+							90,
+							98
+						]
+					},
+					{
+						"text": "沖縄",
+						"indices": [
+							99,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/p7eGI6xSco",
+						"expanded_url": "https://www.okinawatimes.co.jp/articles/-/534920",
+						"display_url": "okinawatimes.co.jp/articles/-/534…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.okinawatimes.co.jp\" rel=\"nofollow\">沖縄タイムス社TweetBot</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118600653,
+				"id_str": "118600653",
+				"name": "沖縄タイムス",
+				"screen_name": "theokinawatimes",
+				"location": "沖縄県那覇市",
+				"description": "「沖縄タイムス」の公式アカウントです。沖縄のニュースをつぶやきます。情報提供はこちら↓↓ https://t.co/dRtcewvbkS",
+				"url": "http://t.co/MNvzHef3vO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/MNvzHef3vO",
+								"expanded_url": "http://www.okinawatimes.co.jp",
+								"display_url": "okinawatimes.co.jp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/dRtcewvbkS",
+								"expanded_url": "https://app.okinawatimes.co.jp/contact/info_form.php",
+								"display_url": "app.okinawatimes.co.jp/contact/info_f…",
+								"indices": [
+									45,
+									68
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 93013,
+				"friends_count": 111,
+				"listed_count": 3236,
+				"created_at": "Mon Mar 01 05:31:31 +0000 2010",
+				"favourites_count": 3124,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 293481,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1712719932/logo_wara_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118600653/1554698014",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 186,
+			"favorite_count": 100,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "60대 택시기사 오키나와에서 코로나19 첫 감염사례 https://t.co/lZqeQPH5Fv"
+	},
+	{
 		"created_at": "Thu Feb 13 14:19:18 +0000 2020",
 		"id": 1227946923199324200,
 		"id_str": "1227960442414235648",
