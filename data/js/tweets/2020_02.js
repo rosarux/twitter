@@ -1,6 +1,841 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 22 23:12:38 +0000 2020",
+		"id": 1231068168673583000,
+		"id_str": "1231356150362165248",
+		"full_text": "이번 질병관리본부를 비롯한 의료진들이 이렇게 일하는 것을 보았으면 세금에 대한 인식과 공무원 증원에 대한 인식이 좀 바뀌었으면. 안전해지면 도로 다 잊고 공무원 왜 뽑냐 이런 소리 안 했으면 좋겠다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48216244,
+			"id_str": "48216244",
+			"name": "Nam Myoung-Hee",
+			"screen_name": "worrynet",
+			"location": "Seoul, S. Korea",
+			"description": "Lecturer of Films/Fandom Study. The X-Files/Misha Collins/US TV Shows. I write books of US TV shows, and fanficion. 저서 '미치도록 드라마틱한 세계, 미드', '팬픽션의 이해'",
+			"url": "https://t.co/yDYjFtdZgO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yDYjFtdZgO",
+							"expanded_url": "http://www.worrynet.com",
+							"display_url": "worrynet.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2781,
+			"friends_count": 922,
+			"listed_count": 65,
+			"created_at": "Thu Jun 18 02:39:28 +0000 2009",
+			"favourites_count": 9495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 163833,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956790931637678080/TWMFOeyw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956790931637678080/TWMFOeyw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48216244/1568522567",
+			"profile_link_color": "6D7BC2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFEDCC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1142,
+		"favorite_count": 504,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이번 질병관리본부를 비롯한 의료진들이 이렇게 일하는 것을 보았으면 세금에 대한 인식과 공무원 증원에 대한 인식이 좀 바뀌었으면. 안전해지면 도로 다 잊고 공무원 왜 뽑냐 이런 소리 안 했으면 좋겠다."
+	},
+	{
+		"created_at": "Sat Feb 22 10:59:04 +0000 2020",
+		"id": 1231097984982515700,
+		"id_str": "1231171542320439296",
+		"full_text": "현재 대구에 지원 출동 중인 119구급차 이동장면이라고 합니다. 부디 지원자 모두 무사히 임무를 마치고 근무지로 복귀하시기 바랍니다. https://t.co/qmYO1aqkhn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231097956595425300,
+					"id_str": "1231097956595425280",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1231097956595425280/pu/img/eAb6prDzD6GHAkT2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1231097956595425280/pu/img/eAb6prDzD6GHAkT2.jpg",
+					"url": "https://t.co/qmYO1aqkhn",
+					"display_url": "pic.twitter.com/qmYO1aqkhn",
+					"expanded_url": "https://twitter.com/answodls119/status/1231097984982515713/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231097956595425300,
+					"id_str": "1231097956595425280",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1231097956595425280/pu/img/eAb6prDzD6GHAkT2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1231097956595425280/pu/img/eAb6prDzD6GHAkT2.jpg",
+					"url": "https://t.co/qmYO1aqkhn",
+					"display_url": "pic.twitter.com/qmYO1aqkhn",
+					"expanded_url": "https://twitter.com/answodls119/status/1231097984982515713/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							180
+						],
+						"duration_millis": 12933,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1231097956595425280/pu/vid/320x570/-zNopDmd9e9EV1Zb.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1231097956595425280/pu/vid/404x720/PhbOEjYd4_6dcf6J.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1231097956595425280/pu/pl/DJyKOZAzFvKfOPoi.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1170179945244450800,
+			"id_str": "1170179945244450819",
+			"name": "현인 소방관",
+			"screen_name": "answodls119",
+			"location": "대한민국 소방청",
+			"description": "반갑습니다. 저는 노무현•문재인 대통령을 존경하고 사랑하는 국민이자, 대한민국 국민의 안전과 생명을 지키는 것을 천직으로 여기는 소방공무원입니다. 😊",
+			"url": "https://t.co/J3ZVc3S5Z1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J3ZVc3S5Z1",
+							"expanded_url": "http://www.119.go.kr/Center119/main.do",
+							"display_url": "119.go.kr/Center119/main…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2246,
+			"friends_count": 278,
+			"listed_count": 3,
+			"created_at": "Sat Sep 07 03:40:20 +0000 2019",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182645801249468416/wRZsLdRz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182645801249468416/wRZsLdRz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1170179945244450819/1567828343",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3306,
+		"favorite_count": 1844,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "현재 대구에 지원 출동 중인 119구급차 이동장면이라고 합니다. 부디 지원자 모두 무사히 임무를 마치고 근무지로 복귀하시기 바랍니다. https://t.co/qmYO1aqkhn"
+	},
+	{
+		"created_at": "Sat Feb 22 10:47:23 +0000 2020",
+		"id": 1231084798615011300,
+		"id_str": "1231168602897698816",
+		"full_text": "대한예방의학회 \"비상대응체계 또한 어느 국가들과 비교해도 뒤지지 않는다는 것이 전문가들의 평가\" \"위기극복의 가장 큰 장애물은 가짜뉴스와 왜곡된 정보, 과도한 불안과 선동, 비전문가들이 쏟아내는 근거 부족의 백가쟁명식 해법, (중략) 역학조사 대상자들과 일부 유증상자의 자발적 협조 부족\" https://t.co/TG0MMFLh4e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231084434721407000,
+					"id_str": "1231084434721406978",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ERWwxVQVAAIC6W8.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERWwxVQVAAIC6W8.png",
+					"url": "https://t.co/TG0MMFLh4e",
+					"display_url": "pic.twitter.com/TG0MMFLh4e",
+					"expanded_url": "https://twitter.com/cat_cons/status/1231084798615011328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 725,
+							"h": 579,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 725,
+							"h": 579,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231084434721407000,
+					"id_str": "1231084434721406978",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ERWwxVQVAAIC6W8.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERWwxVQVAAIC6W8.png",
+					"url": "https://t.co/TG0MMFLh4e",
+					"display_url": "pic.twitter.com/TG0MMFLh4e",
+					"expanded_url": "https://twitter.com/cat_cons/status/1231084798615011328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 725,
+							"h": 579,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 725,
+							"h": 579,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1231084451137904600,
+					"id_str": "1231084451137904641",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ERWwySaU4AEfLCY.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERWwySaU4AEfLCY.png",
+					"url": "https://t.co/TG0MMFLh4e",
+					"display_url": "pic.twitter.com/TG0MMFLh4e",
+					"expanded_url": "https://twitter.com/cat_cons/status/1231084798615011328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 698,
+							"h": 353,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 344,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 698,
+							"h": 353,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1231084451142066200,
+					"id_str": "1231084451142066177",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ERWwySbUYAEAMio.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERWwySbUYAEAMio.png",
+					"url": "https://t.co/TG0MMFLh4e",
+					"display_url": "pic.twitter.com/TG0MMFLh4e",
+					"expanded_url": "https://twitter.com/cat_cons/status/1231084798615011328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 645,
+							"h": 539,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 645,
+							"h": 539,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 645,
+							"h": 539,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1231084451142127600,
+					"id_str": "1231084451142127616",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ERWwySbVUAAI1kz.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERWwySbVUAAI1kz.png",
+					"url": "https://t.co/TG0MMFLh4e",
+					"display_url": "pic.twitter.com/TG0MMFLh4e",
+					"expanded_url": "https://twitter.com/cat_cons/status/1231084798615011328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 645,
+							"h": 539,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 645,
+							"h": 539,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 645,
+							"h": 539,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1231083691612369000,
+		"in_reply_to_status_id_str": "1231083691612368896",
+		"in_reply_to_user_id": 1521215323,
+		"in_reply_to_user_id_str": "1521215323",
+		"in_reply_to_screen_name": "cat_cons",
+		"user": {
+			"id": 1521215323,
+			"id_str": "1521215323",
+			"name": "AndCat",
+			"screen_name": "cat_cons",
+			"location": "Nowhere",
+			"description": "`단 내가 묻는 형식을 취하겠다. 두 아이가 굴뚝 청소를 했다. 한 아이는 얼굴이 새까맣게 되어 내려왔고, 또 한 아이는 그을음을 전혀 묻히지 않은 깨끗한 얼굴로 내려왔다. 제군은 어느 쪽의 아이가 얼굴을 씻을 것이라고 생각하는가?` / 트위터는 거의 `밑줄긋는`용도로 올립니다.",
+			"url": "http://t.co/pUKEYKPX8I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/pUKEYKPX8I",
+							"expanded_url": "http://www.youtube.com/watch?v=Xm5i5kbIXzc",
+							"display_url": "youtube.com/watch?v=Xm5i5k…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1329,
+			"friends_count": 115,
+			"listed_count": 21,
+			"created_at": "Sun Jun 16 04:38:01 +0000 2013",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000000282329/b65ecf68a1996d82fecf80bb5916255e_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000000282329/b65ecf68a1996d82fecf80bb5916255e_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1521215323/1371358866",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대한예방의학회 \"비상대응체계 또한 어느 국가들과 비교해도 뒤지지 않는다는 것이 전문가들의 평가\" \"위기극복의 가장 큰 장애물은 가짜뉴스와 왜곡된 정보, 과도한 불안과 선동, 비전문가들이 쏟아내는 근거 부족의 백가쟁명식 해법, (중략) 역학조사 대상자들과 일부 유증상자의 자발적 협조 부족\" https://t.co/TG0MMFLh4e"
+	},
+	{
+		"created_at": "Sat Feb 22 10:44:38 +0000 2020",
+		"id": 1231158662791487500,
+		"id_str": "1231167912397852672",
+		"full_text": "자기가 피해자일 수는 있어도 가해자일 수는 없다는 이 단단한(그리고 근거 없는) 믿음은 어디서 나오는지 너무 궁금할 따름이네. 고생하는 사람 따로, 망치는 사람 따로 있는 거 같아서 너무 화가 남",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1231157770734321700,
+		"in_reply_to_status_id_str": "1231157770734321664",
+		"in_reply_to_user_id": 163422478,
+		"in_reply_to_user_id_str": "163422478",
+		"in_reply_to_screen_name": "xlqptdudn",
+		"user": {
+			"id": 163422478,
+			"id_str": "163422478",
+			"name": "티벳여우",
+			"screen_name": "xlqptdudn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51895,
+			"friends_count": 752,
+			"listed_count": 233,
+			"created_at": "Tue Jul 06 11:18:44 +0000 2010",
+			"favourites_count": 6207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 106532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230502253284352000/ifzcrPX4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230502253284352000/ifzcrPX4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/163422478/1406537300",
+			"profile_link_color": "111111",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 510,
+		"favorite_count": 208,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "자기가 피해자일 수는 있어도 가해자일 수는 없다는 이 단단한(그리고 근거 없는) 믿음은 어디서 나오는지 너무 궁금할 따름이네. 고생하는 사람 따로, 망치는 사람 따로 있는 거 같아서 너무 화가 남"
+	},
+	{
+		"created_at": "Sat Feb 22 10:44:29 +0000 2020",
+		"id": 1231157770734321700,
+		"id_str": "1231167872174395392",
+		"full_text": "나는 나이도 젊고 지병도 없고 우리나라 정부와 의료진을 믿기 때문에 사실 걸려도 어떻게든 낫겠지 싶지만, 그래도 나 때문에 누군가가 피해를 입는다면 죄책감이 너무 클 것 같아서 조심하고 있다. 근데 왜 이렇게 나 하나만 안 걸리면 된다는 식으로 살거나 걸렸는데 속이고 숨기는 사람들이 있냐",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 163422478,
+			"id_str": "163422478",
+			"name": "티벳여우",
+			"screen_name": "xlqptdudn",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51895,
+			"friends_count": 752,
+			"listed_count": 233,
+			"created_at": "Tue Jul 06 11:18:44 +0000 2010",
+			"favourites_count": 6207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 106532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230502253284352000/ifzcrPX4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230502253284352000/ifzcrPX4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/163422478/1406537300",
+			"profile_link_color": "111111",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2055,
+		"favorite_count": 886,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "나는 나이도 젊고 지병도 없고 우리나라 정부와 의료진을 믿기 때문에 사실 걸려도 어떻게든 낫겠지 싶지만, 그래도 나 때문에 누군가가 피해를 입는다면 죄책감이 너무 클 것 같아서 조심하고 있다. 근데 왜 이렇게 나 하나만 안 걸리면 된다는 식으로 살거나 걸렸는데 속이고 숨기는 사람들이 있냐"
+	},
+	{
+		"created_at": "Sat Feb 22 06:47:38 +0000 2020",
+		"id": 1231077915636326400,
+		"id_str": "1231108267809488897",
+		"full_text": "지금 밝혀진 감염 루트들은 해외에서 돌아온 한국인들인데, 정작 중국인 입국금지를 이야기하는 애들은 말하는 의도가 투명하지.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 192260168,
+			"id_str": "192260168",
+			"name": "NOT DiGITAL",
+			"screen_name": "NOT_DiGITAL_",
+			"location": "Korea, Republic of",
+			"description": "이 시대의 지극히 건전하고 평범한 직장인.",
+			"url": "http://t.co/2ElYr39Zcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2ElYr39Zcc",
+							"expanded_url": "http://notdigital.net",
+							"display_url": "notdigital.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2383,
+			"friends_count": 893,
+			"listed_count": 62,
+			"created_at": "Sat Sep 18 16:45:29 +0000 2010",
+			"favourites_count": 13427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 218218,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1743001919/twitter_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1743001919/twitter_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지금 밝혀진 감염 루트들은 해외에서 돌아온 한국인들인데, 정작 중국인 입국금지를 이야기하는 애들은 말하는 의도가 투명하지."
+	},
+	{
 		"created_at": "Fri Feb 21 23:17:12 +0000 2020",
 		"id": 1230838092203905000,
 		"id_str": "1230994914042712064",
