@@ -1,6 +1,776 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 24 00:06:50 +0000 2020",
+		"id": 1231725985965305900,
+		"id_str": "1231732179131981824",
+		"full_text": "나는 오늘도 나 자신과의 싸움을 한다 https://t.co/GtCJTj9DiC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231725978734485500,
+					"id_str": "1231725978734485505",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/ERf4QG8W4AEMgUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERf4QG8W4AEMgUc.jpg",
+					"url": "https://t.co/GtCJTj9DiC",
+					"display_url": "pic.twitter.com/GtCJTj9DiC",
+					"expanded_url": "https://twitter.com/deckybi/status/1231725985965305857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 663,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 726,
+							"h": 745,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 726,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231725978734485500,
+					"id_str": "1231725978734485505",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/ERf4QG8W4AEMgUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERf4QG8W4AEMgUc.jpg",
+					"url": "https://t.co/GtCJTj9DiC",
+					"display_url": "pic.twitter.com/GtCJTj9DiC",
+					"expanded_url": "https://twitter.com/deckybi/status/1231725985965305857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 663,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 726,
+							"h": 745,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 726,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54256163,
+			"id_str": "54256163",
+			"name": "DECK🏳️‍🌈",
+			"screen_name": "deckybi",
+			"location": "Seoul, Korea",
+			"description": "문화기획자/B",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3315,
+			"friends_count": 429,
+			"listed_count": 80,
+			"created_at": "Mon Jul 06 16:37:25 +0000 2009",
+			"favourites_count": 2297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2A2A2A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112496366180163584/ksW4KytO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112496366180163584/ksW4KytO_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EE7700",
+			"profile_text_color": "1A1A1A",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나는 오늘도 나 자신과의 싸움을 한다 https://t.co/GtCJTj9DiC"
+	},
+	{
+		"created_at": "Sun Feb 23 23:42:02 +0000 2020",
+		"id": 1231725936162173000,
+		"id_str": "1231725936162172928",
+		"full_text": "회사 입구에 열화상카메하 설치됨",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 559,
+			"friends_count": 436,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "회사 입구에 열화상카메하 설치됨"
+	},
+	{
+		"created_at": "Sun Feb 23 14:02:03 +0000 2020",
+		"id": 1231562591400419300,
+		"id_str": "1231579979000844288",
+		"full_text": "항상 모두까기 자세를 유지하면서 라이프스타일 트렌드세터 노릇하던 분들께서 \"초반에 중국발 입국 금지 안해서 다 이 사단이 난 거다\" 하는 걸 보면 역시 난세에 사람의 밑바닥이 보이는구나 싶고. 이쯤 되면 당신 신천지세요? 라는 말 밖에 안 나온다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1231560274747875300,
+		"in_reply_to_status_id_str": "1231560274747875328",
+		"in_reply_to_user_id": 165325098,
+		"in_reply_to_user_id_str": "165325098",
+		"in_reply_to_screen_name": "eun_gong",
+		"user": {
+			"id": 165325098,
+			"id_str": "165325098",
+			"name": "서울의 銀空을 찾아서",
+			"screen_name": "eun_gong",
+			"location": "대한민국 서울",
+			"description": "#서울의현대를찾아서 기록합니다 #서울의역사를찾아서 발굴합니다 #머릿돌사냥단 정초석을 찾습니다 #은공컬렉션 #은공아카이브 수집합니다 instagram hashtag #journey_to_modern_seoul 헤더 사진은 종로 대왕빌딩(1967)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9901,
+			"friends_count": 654,
+			"listed_count": 162,
+			"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+			"favourites_count": 10846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 276660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7EE6BD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200684293258788867/akmjKLPg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200684293258788867/akmjKLPg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1569256492",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 448,
+		"favorite_count": 212,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "항상 모두까기 자세를 유지하면서 라이프스타일 트렌드세터 노릇하던 분들께서 \"초반에 중국발 입국 금지 안해서 다 이 사단이 난 거다\" 하는 걸 보면 역시 난세에 사람의 밑바닥이 보이는구나 싶고. 이쯤 되면 당신 신천지세요? 라는 말 밖에 안 나온다."
+	},
+	{
+		"created_at": "Sun Feb 23 14:01:58 +0000 2020",
+		"id": 1231560274747875300,
+		"id_str": "1231579959761588224",
+		"full_text": "각종 커뮤니티부터 단톡방, 나무위키까지 \"정부가 미적대는 사이에도 질병관리본부는 제 할일을 다 하고 있다\" 라는 논리를 펼치던데 언제부터 질병관리본부가 대한민국 보건복지부를 탈출해서 무국적 기관이 되었나 모르겠다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 165325098,
+			"id_str": "165325098",
+			"name": "서울의 銀空을 찾아서",
+			"screen_name": "eun_gong",
+			"location": "대한민국 서울",
+			"description": "#서울의현대를찾아서 기록합니다 #서울의역사를찾아서 발굴합니다 #머릿돌사냥단 정초석을 찾습니다 #은공컬렉션 #은공아카이브 수집합니다 instagram hashtag #journey_to_modern_seoul 헤더 사진은 종로 대왕빌딩(1967)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9901,
+			"friends_count": 654,
+			"listed_count": 162,
+			"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+			"favourites_count": 10846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 276660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7EE6BD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200684293258788867/akmjKLPg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200684293258788867/akmjKLPg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1569256492",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2311,
+		"favorite_count": 850,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "각종 커뮤니티부터 단톡방, 나무위키까지 \"정부가 미적대는 사이에도 질병관리본부는 제 할일을 다 하고 있다\" 라는 논리를 펼치던데 언제부터 질병관리본부가 대한민국 보건복지부를 탈출해서 무국적 기관이 되었나 모르겠다."
+	},
+	{
+		"created_at": "Sun Feb 23 13:39:19 +0000 2020",
+		"id": 1231557284121104400,
+		"id_str": "1231574259836669952",
+		"full_text": "정부에게 전문가 말을 들어보라며 질책하는 사람 상당수는 정작 진짜 전염병 전문집단인 감염학회의 글을 들고 오지 않아요.\n그럼 누구 글을 들고 오냐고요? 홍혜걸,최대집,안철수(?)....🤦‍♀️🤦‍♂️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1225441904285741000,
+			"id_str": "1225441904285741056",
+			"name": "이달",
+			"screen_name": "shouldlistenemo",
+			"location": "",
+			"description": "이모듣는 수달",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75,
+			"friends_count": 98,
+			"listed_count": 0,
+			"created_at": "Thu Feb 06 15:31:42 +0000 2020",
+			"favourites_count": 1316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230381891179540480/BQ8F3Qub_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230381891179540480/BQ8F3Qub_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 371,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "정부에게 전문가 말을 들어보라며 질책하는 사람 상당수는 정작 진짜 전염병 전문집단인 감염학회의 글을 들고 오지 않아요.\n그럼 누구 글을 들고 오냐고요? 홍혜걸,최대집,안철수(?)....🤦‍♀️🤦‍♂️"
+	},
+	{
+		"created_at": "Sun Feb 23 10:29:18 +0000 2020",
+		"id": 1231432845777703000,
+		"id_str": "1231526438068617216",
+		"full_text": "문재인이 신남방 하는 이유가 뭔가. 중국 의존도 분산 하자는 거지. 그런데 거기에 중국몽 중국몽 하는 놈들은 그냥 멍청한 것 혹은 악의로 가득찬 것",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1231432457309716500,
+		"in_reply_to_status_id_str": "1231432457309716480",
+		"in_reply_to_user_id": 42567931,
+		"in_reply_to_user_id_str": "42567931",
+		"in_reply_to_screen_name": "corwin1129",
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn, 오마이걸, NCT, 이달소 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2899,
+			"friends_count": 1364,
+			"listed_count": 80,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 108105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1565051000",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "문재인이 신남방 하는 이유가 뭔가. 중국 의존도 분산 하자는 거지. 그런데 거기에 중국몽 중국몽 하는 놈들은 그냥 멍청한 것 혹은 악의로 가득찬 것"
+	},
+	{
+		"created_at": "Sun Feb 23 10:29:14 +0000 2020",
+		"id": 1231432457309716500,
+		"id_str": "1231526420951617537",
+		"full_text": "문재인 중국몽 중국몽 하는 인간들은 그냥 멍청한 인간들임. 문재인이 아니라 대한민국의 2000년 이후의 경제 자체가 그냥 중국몽임. 20년 경제성장의 성과, 그거 다 반납하자는 건가?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1231431942177902600,
+		"in_reply_to_status_id_str": "1231431942177902593",
+		"in_reply_to_user_id": 42567931,
+		"in_reply_to_user_id_str": "42567931",
+		"in_reply_to_screen_name": "corwin1129",
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn, 오마이걸, NCT, 이달소 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2899,
+			"friends_count": 1364,
+			"listed_count": 80,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 108105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1565051000",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "문재인 중국몽 중국몽 하는 인간들은 그냥 멍청한 인간들임. 문재인이 아니라 대한민국의 2000년 이후의 경제 자체가 그냥 중국몽임. 20년 경제성장의 성과, 그거 다 반납하자는 건가?"
+	},
+	{
+		"created_at": "Sun Feb 23 09:53:54 +0000 2020",
+		"id": 1231501188920533000,
+		"id_str": "1231517532705579008",
+		"full_text": "카톨릭대 생명공학과 남재환 교수, '질본을 제외하고 의사들 포함 다들 전문가인척 하지 말기를'\nhttps://t.co/LKM6TJ9XuM\n\n질본이야말로 이 순간을 위해 특화된 전문가들의 집단입니다. 전문의도 아닌 일반의 최대집은 닥치고, 최대집의 정치질에 휩쓸리는 바보가 되지 마시길.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LKM6TJ9XuM",
+					"expanded_url": "http://cafe.daum.net/ASMONACOFC/gAVU/1648846",
+					"display_url": "cafe.daum.net/ASMONACOFC/gAV…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66627692,
+			"id_str": "66627692",
+			"name": "𝙨𝙚𝙬𝙤𝙤𝙨𝙞𝙡",
+			"screen_name": "sewoosil",
+			"location": "37.500015,127.036564",
+			"description": "생활의 일부분으로서의 정치에 관심 많은 웹개발자이자 태지매니아, 특히 효연이가 아이돌의 완전체라 생각하는 광적인 소녀시대 덕후. 해물과 회에 환장하는 연예 누리꾼. 일베충, 워마드는 무조건 차단합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6513,
+			"friends_count": 792,
+			"listed_count": 222,
+			"created_at": "Tue Aug 18 07:58:25 +0000 2009",
+			"favourites_count": 2350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 107646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176704864639954946/D0KXmVTV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176704864639954946/D0KXmVTV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66627692/1569383341",
+			"profile_link_color": "FFABA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2062,
+		"favorite_count": 875,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카톨릭대 생명공학과 남재환 교수, '질본을 제외하고 의사들 포함 다들 전문가인척 하지 말기를'\nhttps://t.co/LKM6TJ9XuM\n\n질본이야말로 이 순간을 위해 특화된 전문가들의 집단입니다. 전문의도 아닌 일반의 최대집은 닥치고, 최대집의 정치질에 휩쓸리는 바보가 되지 마시길."
+	},
+	{
 		"created_at": "Sat Feb 22 23:12:38 +0000 2020",
 		"id": 1231068168673583000,
 		"id_str": "1231356150362165248",
