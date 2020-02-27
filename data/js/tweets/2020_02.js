@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 13:16:42 +0000 2020",
+		"id": 1232606839377784800,
+		"id_str": "1232655732811554816",
+		"full_text": "이 기사를 필독해야 함. 이제부터 그 이유를 설명하겠음.\n\n먼저, 그간 이야기되어 왔던 ‘코로나19의 위력이 실제로는 독한 독감 수준에 지나지 않는다’ 는 걸 국가기관에서 처음으로, 일정 수준의 임상 데이터까지 포함해서 공식적으로 인정한 기사이기 때문임.\n\nhttps://t.co/IwKUZHxh9p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IwKUZHxh9p",
+					"expanded_url": "http://www.vop.co.kr/A00001470932.html",
+					"display_url": "vop.co.kr/A00001470932.h…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 419246587,
+			"id_str": "419246587",
+			"name": "깃털갈이 시작했습니다",
+			"screen_name": "J_W_B_D",
+			"location": "",
+			"description": "힘들어 죽을 것 같아도 싸워보자",
+			"url": "https://t.co/qnzci1veJX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qnzci1veJX",
+							"expanded_url": "https://youtu.be/HndyEY4eaFA",
+							"display_url": "youtu.be/HndyEY4eaFA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2434,
+			"friends_count": 544,
+			"listed_count": 45,
+			"created_at": "Wed Nov 23 04:05:16 +0000 2011",
+			"favourites_count": 298,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1128285269050806272/32K9Dq_7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1128285269050806272/32K9Dq_7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/419246587/1557839199",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12570,
+		"favorite_count": 3992,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 기사를 필독해야 함. 이제부터 그 이유를 설명하겠음.\n\n먼저, 그간 이야기되어 왔던 ‘코로나19의 위력이 실제로는 독한 독감 수준에 지나지 않는다’ 는 걸 국가기관에서 처음으로, 일정 수준의 임상 데이터까지 포함해서 공식적으로 인정한 기사이기 때문임.\n\nhttps://t.co/IwKUZHxh9p"
+	},
+	{
 		"created_at": "Tue Feb 25 22:59:00 +0000 2020",
 		"id": 1232439885358698500,
 		"id_str": "1232439885358698498",
