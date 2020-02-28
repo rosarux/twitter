@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 27 09:52:45 +0000 2020",
+		"id": 1232925245578739700,
+		"id_str": "1232966793330937856",
+		"full_text": "Different church, same shit. #korea https://t.co/2D4Bb9Rmne",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "korea",
+					"indices": [
+						29,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232923133906014200,
+					"id_str": "1232923133906014208",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/ERw5DtfUUAAAMxx.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERw5DtfUUAAAMxx.png",
+					"url": "https://t.co/2D4Bb9Rmne",
+					"display_url": "pic.twitter.com/2D4Bb9Rmne",
+					"expanded_url": "https://twitter.com/koryodynasty/status/1232925245578739713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 630,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232923133906014200,
+					"id_str": "1232923133906014208",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/ERw5DtfUUAAAMxx.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERw5DtfUUAAAMxx.png",
+					"url": "https://t.co/2D4Bb9Rmne",
+					"display_url": "pic.twitter.com/2D4Bb9Rmne",
+					"expanded_url": "https://twitter.com/koryodynasty/status/1232925245578739713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 630,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1232923373656658000,
+					"id_str": "1232923373656657925",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/ERw5RqoU0AUXHi_.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERw5RqoU0AUXHi_.png",
+					"url": "https://t.co/2D4Bb9Rmne",
+					"display_url": "pic.twitter.com/2D4Bb9Rmne",
+					"expanded_url": "https://twitter.com/koryodynasty/status/1232925245578739713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 745,
+							"h": 672,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 745,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 613,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1232923522244046800,
+					"id_str": "1232923522244046849",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/ERw5aUKUcAEfTjP.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERw5aUKUcAEfTjP.png",
+					"url": "https://t.co/2D4Bb9Rmne",
+					"display_url": "pic.twitter.com/2D4Bb9Rmne",
+					"expanded_url": "https://twitter.com/koryodynasty/status/1232925245578739713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 560,
+							"h": 373,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 560,
+							"h": 373,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1232924782057779200,
+					"id_str": "1232924782057779201",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/ERw6jpVUcAEjJj1.png",
+					"media_url_https": "https://pbs.twimg.com/media/ERw6jpVUcAEjJj1.png",
+					"url": "https://t.co/2D4Bb9Rmne",
+					"display_url": "pic.twitter.com/2D4Bb9Rmne",
+					"expanded_url": "https://twitter.com/koryodynasty/status/1232925245578739713/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 512,
+							"h": 334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 334,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155488031,
+			"id_str": "155488031",
+			"name": "Raphael Rashid",
+			"screen_name": "koryodynasty",
+			"location": "Seoul, Republic of Korea",
+			"description": "Seoul-based freelance journo & @KoreaExpose co-founder. Formerly @EdelmanPR 📧 raphael [at] https://t.co/fLY5GmQEoi 🇬🇧🇫🇷🇧🇩🇰🇷 프리랜서 기자 | 서울 거주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fLY5GmQEoi",
+							"expanded_url": "http://rashid.kr",
+							"display_url": "rashid.kr",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8044,
+			"friends_count": 709,
+			"listed_count": 136,
+			"created_at": "Mon Jun 14 08:04:07 +0000 2010",
+			"favourites_count": 13332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223120496654311425/Vq3cF2OJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223120496654311425/Vq3cF2OJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155488031/1581572990",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 636,
+		"favorite_count": 456,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Different church, same shit. #korea https://t.co/2D4Bb9Rmne"
+	},
+	{
 		"created_at": "Wed Feb 26 13:16:42 +0000 2020",
 		"id": 1232606839377784800,
 		"id_str": "1232655732811554816",
