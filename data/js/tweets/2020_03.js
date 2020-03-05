@@ -1,6 +1,703 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 04 21:21:22 +0000 2020",
+		"id": 1235119904698712000,
+		"id_str": "1235314414590595072",
+		"full_text": "정답입니다! https://t.co/pUtOI7irAc https://t.co/yIpax8SiY2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pUtOI7irAc",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1235117807357980672",
+					"display_url": "twitter.com/kawanoboru/sta…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1235119894548451300,
+					"id_str": "1235119894548451328",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ESQHAAmUEAAbZqc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ESQHAAmUEAAbZqc.jpg",
+					"url": "https://t.co/yIpax8SiY2",
+					"display_url": "pic.twitter.com/yIpax8SiY2",
+					"expanded_url": "https://twitter.com/philoelectroray/status/1235119904698712064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 368,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235119894548451300,
+					"id_str": "1235119894548451328",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ESQHAAmUEAAbZqc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ESQHAAmUEAAbZqc.jpg",
+					"url": "https://t.co/yIpax8SiY2",
+					"display_url": "pic.twitter.com/yIpax8SiY2",
+					"expanded_url": "https://twitter.com/philoelectroray/status/1235119904698712064/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 368,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							23
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ESQHAAmUEAAbZqc.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 753464137263394800,
+			"id_str": "753464137263394816",
+			"name": "전기가오리",
+			"screen_name": "philoelectroray",
+			"location": "Seoul, Republic of Korea",
+			"description": "서양 철학을 함께 공부하고, 관련 문헌을 번역 출판하며, 출판물에 대한 교육 서비스를 제공하는 ‘전기가오리'입니다. 홈페이지에 상세한 정보를 담아두었습니다.",
+			"url": "https://t.co/1BhBXzn9bH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1BhBXzn9bH",
+							"expanded_url": "http://philo-electro-ray.org",
+							"display_url": "philo-electro-ray.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7544,
+			"friends_count": 5817,
+			"listed_count": 51,
+			"created_at": "Thu Jul 14 05:40:23 +0000 2016",
+			"favourites_count": 2058,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758822289446055938/VTeex9ZO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758822289446055938/VTeex9ZO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/753464137263394816/1471322076",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1235117807357980700,
+		"quoted_status_id_str": "1235117807357980672",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pUtOI7irAc",
+			"expanded": "https://twitter.com/kawanoboru/status/1235117807357980672",
+			"display": "twitter.com/kawanoboru/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 04 08:20:07 +0000 2020",
+			"id": 1235117807357980700,
+			"id_str": "1235117807357980672",
+			"full_text": "전기가오리 아닐까",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				9
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1235116791237472300,
+			"in_reply_to_status_id_str": "1235116791237472256",
+			"in_reply_to_user_id": 94077994,
+			"in_reply_to_user_id_str": "94077994",
+			"in_reply_to_screen_name": "kawanoboru",
+			"user": {
+				"id": 94077994,
+				"id_str": "94077994",
+				"name": "縄",
+				"screen_name": "kawanoboru",
+				"location": "마음 만은 언제나 오키나와",
+				"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 558,
+				"friends_count": 436,
+				"listed_count": 22,
+				"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+				"favourites_count": 2659,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18293,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정답입니다! https://t.co/pUtOI7irAc https://t.co/yIpax8SiY2"
+	},
+	{
+		"created_at": "Wed Mar 04 08:40:08 +0000 2020",
+		"id": 1235041787581878300,
+		"id_str": "1235122843572027392",
+		"full_text": "외부에서 들어오는 관문 인천공항이 위치해 있고, \n대한민국 인구의 40%가 거주하는 서울경기 지역엔 확진자의 4%가 발생했고, \n \n대한민국 인구의 10%가 거주하는 대구경북 지역엔 확진자의 90%가 발생하는데도, 여전히 신천지가 아닌 중국타령. https://t.co/VuUV3rJsW2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235041309846417400,
+					"id_str": "1235041309846417408",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/ESO_hxxUMAAHBTb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESO_hxxUMAAHBTb.jpg",
+					"url": "https://t.co/VuUV3rJsW2",
+					"display_url": "pic.twitter.com/VuUV3rJsW2",
+					"expanded_url": "https://twitter.com/ddanziabba/status/1235041787581878272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 776,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 776,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235041309846417400,
+					"id_str": "1235041309846417408",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/ESO_hxxUMAAHBTb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESO_hxxUMAAHBTb.jpg",
+					"url": "https://t.co/VuUV3rJsW2",
+					"display_url": "pic.twitter.com/VuUV3rJsW2",
+					"expanded_url": "https://twitter.com/ddanziabba/status/1235041787581878272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 776,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 776,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1032396980,
+			"id_str": "1032396980",
+			"name": "피고지고",
+			"screen_name": "ddanziabba",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40721,
+			"friends_count": 12312,
+			"listed_count": 183,
+			"created_at": "Mon Dec 24 10:37:56 +0000 2012",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/597025124345196544/kVkrcpOt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/597025124345196544/kVkrcpOt_normal.jpg",
+			"profile_link_color": "A6A6A6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 472,
+		"favorite_count": 181,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "외부에서 들어오는 관문 인천공항이 위치해 있고, \n대한민국 인구의 40%가 거주하는 서울경기 지역엔 확진자의 4%가 발생했고, \n \n대한민국 인구의 10%가 거주하는 대구경북 지역엔 확진자의 90%가 발생하는데도, 여전히 신천지가 아닌 중국타령. https://t.co/VuUV3rJsW2"
+	},
+	{
+		"created_at": "Wed Mar 04 08:39:54 +0000 2020",
+		"id": 1235033561570226200,
+		"id_str": "1235122786533703680",
+		"full_text": "클리앙 펌 [레딧 눈팅 결과 미국이 개판 초저녁인 이유.summary] https://t.co/cF5bgw8sKk https://t.co/71m5FTFt7Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cF5bgw8sKk",
+					"expanded_url": "https://m.clien.net/service/board/park/14668064",
+					"display_url": "m.clien.net/service/board/…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1235033552674152400,
+					"id_str": "1235033552674152448",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/ESO4eQDU4AAzeYb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESO4eQDU4AAzeYb.jpg",
+					"url": "https://t.co/71m5FTFt7Z",
+					"display_url": "pic.twitter.com/71m5FTFt7Z",
+					"expanded_url": "https://twitter.com/peachmotan/status/1235033561570226176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235033552674152400,
+					"id_str": "1235033552674152448",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/ESO4eQDU4AAzeYb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESO4eQDU4AAzeYb.jpg",
+					"url": "https://t.co/71m5FTFt7Z",
+					"display_url": "pic.twitter.com/71m5FTFt7Z",
+					"expanded_url": "https://twitter.com/peachmotan/status/1235033561570226176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3242246588,
+			"id_str": "3242246588",
+			"name": "기르다 밤선생",
+			"screen_name": "peachmotan",
+			"location": "대한민국 성남시",
+			"description": "흔한 잡계정 / 아이허브 추천 코드 RKP417",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 127,
+			"friends_count": 292,
+			"listed_count": 1,
+			"created_at": "Thu Jun 11 12:00:14 +0000 2015",
+			"favourites_count": 32898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226074217898110978/CPJf5Zn4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226074217898110978/CPJf5Zn4_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "클리앙 펌 [레딧 눈팅 결과 미국이 개판 초저녁인 이유.summary] https://t.co/cF5bgw8sKk https://t.co/71m5FTFt7Z"
+	},
+	{
+		"created_at": "Wed Mar 04 08:20:07 +0000 2020",
+		"id": 1235117807357980700,
+		"id_str": "1235117807357980672",
+		"full_text": "전기가오리 아닐까",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1235116791237472300,
+		"in_reply_to_status_id_str": "1235116791237472256",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 558,
+			"friends_count": 436,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "전기가오리 아닐까"
+	},
+	{
 		"created_at": "Mon Mar 02 12:42:01 +0000 2020",
 		"id": 1234439771071500300,
 		"id_str": "1234458940022259712",
