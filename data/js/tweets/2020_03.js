@@ -1,6 +1,455 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 07 23:26:54 +0000 2020",
+		"id": 1236320938305568800,
+		"id_str": "1236433169584283649",
+		"full_text": "지난주에는 세월호에 갖다붙이더니 이번주에는 광주까지. 재밌게들 논다. 근데 정작 광주 북한군 침투설마냥 중국인이 대구에 침투해서 코로나 퍼뜨렸다고 주장하는건 니들이잖아요. https://t.co/ti2Q95SObK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1236319793478652000,
+					"id_str": "1236319793478651907",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EShKTUcUUAMpI9j.png",
+					"media_url_https": "https://pbs.twimg.com/media/EShKTUcUUAMpI9j.png",
+					"url": "https://t.co/ti2Q95SObK",
+					"display_url": "pic.twitter.com/ti2Q95SObK",
+					"expanded_url": "https://twitter.com/BorisuJohnson2/status/1236320938305568768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 596,
+							"h": 873,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 596,
+							"h": 873,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236319793478652000,
+					"id_str": "1236319793478651907",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/EShKTUcUUAMpI9j.png",
+					"media_url_https": "https://pbs.twimg.com/media/EShKTUcUUAMpI9j.png",
+					"url": "https://t.co/ti2Q95SObK",
+					"display_url": "pic.twitter.com/ti2Q95SObK",
+					"expanded_url": "https://twitter.com/BorisuJohnson2/status/1236320938305568768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 596,
+							"h": 873,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 596,
+							"h": 873,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1225244261513171000,
+			"id_str": "1225244261513170944",
+			"name": "보리수 존슨의 재림",
+			"screen_name": "BorisuJohnson2",
+			"location": "",
+			"description": "Fan Account / Return of Borisu Johnson @BorisuJohnsonKR 생존 부계 / 나를 견디십시오 휴먼 / 진지하게 한국의 모든 언론을 혐오합니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 264,
+			"friends_count": 124,
+			"listed_count": 2,
+			"created_at": "Thu Feb 06 02:26:39 +0000 2020",
+			"favourites_count": 202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230412209911717894/rP-KfhRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230412209911717894/rP-KfhRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1225244261513170944/1582188106",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난주에는 세월호에 갖다붙이더니 이번주에는 광주까지. 재밌게들 논다. 근데 정작 광주 북한군 침투설마냥 중국인이 대구에 침투해서 코로나 퍼뜨렸다고 주장하는건 니들이잖아요. https://t.co/ti2Q95SObK"
+	},
+	{
+		"created_at": "Sat Mar 07 15:02:25 +0000 2020",
+		"id": 1236161471182024700,
+		"id_str": "1236306213475766272",
+		"full_text": "마스크 공산주의 운운하는 새끼들 특) 공산주의 배급제 어쩌구 지랄하면서 타갈거 다 타감ㅋㅋㅋㅋ https://t.co/jA8S07MnJl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jA8S07MnJl",
+					"expanded_url": "https://twitter.com/kittykattie_/status/1236084278397526022",
+					"display_url": "twitter.com/kittykattie_/s…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110018577,
+			"id_str": "110018577",
+			"name": "guevava 🌏🌎🌍",
+			"screen_name": "guevava",
+			"location": "악어산",
+			"description": "Homecoming Bastard",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3353,
+			"friends_count": 885,
+			"listed_count": 43,
+			"created_at": "Sun Jan 31 02:17:36 +0000 2010",
+			"favourites_count": 2170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234734367022305280/yYwI9AYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234734367022305280/yYwI9AYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110018577/1552748445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1236084278397526000,
+		"quoted_status_id_str": "1236084278397526022",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jA8S07MnJl",
+			"expanded": "https://twitter.com/kittykattie_/status/1236084278397526022",
+			"display": "twitter.com/kittykattie_/s…"
+		},
+		"retweet_count": 490,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마스크 공산주의 운운하는 새끼들 특) 공산주의 배급제 어쩌구 지랄하면서 타갈거 다 타감ㅋㅋㅋㅋ https://t.co/jA8S07MnJl"
+	},
+	{
+		"created_at": "Sat Mar 07 14:47:05 +0000 2020",
+		"id": 1236209605736202200,
+		"id_str": "1236302355416547328",
+		"full_text": "'신천지고 나발이고 쭝국인 막았으면 다 해결됐다'라는 싸이비 종교가 생긴 둣",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1110687064511529000,
+			"id_str": "1110687064511528961",
+			"name": "근학",
+			"screen_name": "betterca11",
+			"location": "",
+			"description": "얼굴이요 얼굴",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430,
+			"friends_count": 263,
+			"listed_count": 3,
+			"created_at": "Tue Mar 26 23:36:46 +0000 2019",
+			"favourites_count": 13097,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228727617664114688/vkxJIpKe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228727617664114688/vkxJIpKe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1110687064511528961/1578685692",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "'신천지고 나발이고 쭝국인 막았으면 다 해결됐다'라는 싸이비 종교가 생긴 둣"
+	},
+	{
+		"created_at": "Sat Mar 07 11:25:10 +0000 2020",
+		"id": 1236193009223577600,
+		"id_str": "1236251542056927235",
+		"full_text": "NO MERCY. 정부는 일관되게 경고했고 선택지도 계속 줬는데 분위기 파악 못하고 벼랑까지 내달린 CEO가 더 문제 아님? 정부가 마지막까지 일관성을 잃지 않고 집행해서, 정부 투명성을 높게 사는 외인과 투자신뢰관계를 구축하는 게 현 시점에서 가장 나은 방향임.\nhttps://t.co/qxnns6hnra",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qxnns6hnra",
+					"expanded_url": "https://news.v.daum.net/v/20200307082643580",
+					"display_url": "news.v.daum.net/v/202003070826…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 122556604,
+			"id_str": "122556604",
+			"name": "플라피나🧀💫",
+			"screen_name": "plafina",
+			"location": "에스피나 암흑신전",
+			"description": "⚖🎲 게임 밸런스 디자이너 / 🥳🌈 ENFP / 🧀💫 린 애자일 / 💖✨ 선한 영향력 / 💌📚 개발트 저장 @plafinia",
+			"url": "https://t.co/nXMkyRJ5uV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXMkyRJ5uV",
+							"expanded_url": "http://plafina.egloos.com",
+							"display_url": "plafina.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2860,
+			"friends_count": 265,
+			"listed_count": 33,
+			"created_at": "Sat Mar 13 03:35:17 +0000 2010",
+			"favourites_count": 13970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210117171054964737/OOV7s7yl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210117171054964737/OOV7s7yl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122556604/1564471235",
+			"profile_link_color": "8DCAA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 137,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "NO MERCY. 정부는 일관되게 경고했고 선택지도 계속 줬는데 분위기 파악 못하고 벼랑까지 내달린 CEO가 더 문제 아님? 정부가 마지막까지 일관성을 잃지 않고 집행해서, 정부 투명성을 높게 사는 외인과 투자신뢰관계를 구축하는 게 현 시점에서 가장 나은 방향임.\nhttps://t.co/qxnns6hnra"
+	},
+	{
 		"created_at": "Fri Mar 06 23:52:30 +0000 2020",
 		"id": 1236068308094292000,
 		"id_str": "1236077227915141120",
