@@ -1,6 +1,1327 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 10 17:47:39 +0000 2020",
+		"id": 1237385687311270000,
+		"id_str": "1237434957842145280",
+		"full_text": "의심 코호트를 끝까지 추적해서 방역하는 우리나라의 접근방식이 의료자원과 행정력을 너무 많이 갈아넣는 것 아닐까 지속가능한 것일가 걱정됐는데, 도시 봉쇄와 같은 극단적인 처방을 최대한 미루고 사람들이 최소한의 일상생활을 유지할 수 있도록 해주는 정말 감사한 일이라는 생각이 들었다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1237384673120202800,
+		"in_reply_to_status_id_str": "1237384673120202752",
+		"in_reply_to_user_id": 53305769,
+		"in_reply_to_user_id_str": "53305769",
+		"in_reply_to_screen_name": "shinhh",
+		"user": {
+			"id": 53305769,
+			"id_str": "53305769",
+			"name": "Hyunho Shin",
+			"screen_name": "shinhh",
+			"location": "New York, USA",
+			"description": "\"If this isn't nice, what is?” 원고문의: hyunho.shin@outlook.com",
+			"url": "https://t.co/LSaoU0hHJp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LSaoU0hHJp",
+							"expanded_url": "https://peing.net/ko/shinhh?event=0h",
+							"display_url": "peing.net/ko/shinhh?even…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23040,
+			"friends_count": 630,
+			"listed_count": 200,
+			"created_at": "Fri Jul 03 05:35:31 +0000 2009",
+			"favourites_count": 19367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264567085/beach_umbrella_71_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/53305769/1401459717",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 569,
+		"favorite_count": 325,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "의심 코호트를 끝까지 추적해서 방역하는 우리나라의 접근방식이 의료자원과 행정력을 너무 많이 갈아넣는 것 아닐까 지속가능한 것일가 걱정됐는데, 도시 봉쇄와 같은 극단적인 처방을 최대한 미루고 사람들이 최소한의 일상생활을 유지할 수 있도록 해주는 정말 감사한 일이라는 생각이 들었다."
+	},
+	{
+		"created_at": "Tue Mar 10 11:36:18 +0000 2020",
+		"id": 1237333756727324700,
+		"id_str": "1237341505003474945",
+		"full_text": "\"5년 전 메르스 맵 만들자..(박근혜)정부는 사이트 폐쇄 압박\"\nhttps://t.co/QoFaLKtBCV\n메르스 맵 만든 스타트업 대표 \"현 정부선 먼저 요청\"\n과거 정부와 대응 달라진 점 비교하며 \"감사\" 언급도",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QoFaLKtBCV",
+					"expanded_url": "https://news.v.daum.net/v/20200310180417784",
+					"display_url": "news.v.daum.net/v/202003101804…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 768299550905733100,
+			"id_str": "768299550905733120",
+			"name": "Mr.Hong",
+			"screen_name": "qlrvkdlqlrvkdl",
+			"location": "대한민국 서울",
+			"description": "🐂🐕",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12751,
+			"friends_count": 872,
+			"listed_count": 30,
+			"created_at": "Wed Aug 24 04:11:02 +0000 2016",
+			"favourites_count": 318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777127162696433664/27xuej2Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777127162696433664/27xuej2Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/768299550905733120/1528781847",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 426,
+		"favorite_count": 207,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"5년 전 메르스 맵 만들자..(박근혜)정부는 사이트 폐쇄 압박\"\nhttps://t.co/QoFaLKtBCV\n메르스 맵 만든 스타트업 대표 \"현 정부선 먼저 요청\"\n과거 정부와 대응 달라진 점 비교하며 \"감사\" 언급도"
+	},
+	{
+		"created_at": "Tue Mar 10 10:39:43 +0000 2020",
+		"id": 1237312741955625000,
+		"id_str": "1237327268130643969",
+		"full_text": "주일본한국대사관의 일본인 비자발급 요구서류.jpg.... 사실상 가장 강력한 입국 거부정책....... https://t.co/B4nClgoV7B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237312731927068700,
+					"id_str": "1237312731927068677",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/ESvRX8aUwAUCqwu.png",
+					"media_url_https": "https://pbs.twimg.com/media/ESvRX8aUwAUCqwu.png",
+					"url": "https://t.co/B4nClgoV7B",
+					"display_url": "pic.twitter.com/B4nClgoV7B",
+					"expanded_url": "https://twitter.com/clockedlin/status/1237312741955624963/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 741,
+							"h": 322,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 741,
+							"h": 322,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237312731927068700,
+					"id_str": "1237312731927068677",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/ESvRX8aUwAUCqwu.png",
+					"media_url_https": "https://pbs.twimg.com/media/ESvRX8aUwAUCqwu.png",
+					"url": "https://t.co/B4nClgoV7B",
+					"display_url": "pic.twitter.com/B4nClgoV7B",
+					"expanded_url": "https://twitter.com/clockedlin/status/1237312741955624963/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 741,
+							"h": 322,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 741,
+							"h": 322,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710678970564419600,
+			"id_str": "710678970564419584",
+			"name": "Linus",
+			"screen_name": "clockedlin",
+			"location": "Kofu-shi, Yamanashi",
+			"description": "!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1085,
+			"friends_count": 323,
+			"listed_count": 10,
+			"created_at": "Fri Mar 18 04:07:25 +0000 2016",
+			"favourites_count": 1782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1066696168023814145/rvr0XnoP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066696168023814145/rvr0XnoP_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3335,
+		"favorite_count": 543,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "주일본한국대사관의 일본인 비자발급 요구서류.jpg.... 사실상 가장 강력한 입국 거부정책....... https://t.co/B4nClgoV7B"
+	},
+	{
+		"created_at": "Tue Mar 10 10:32:49 +0000 2020",
+		"id": 1237315595319697400,
+		"id_str": "1237325531332239360",
+		"full_text": "잔치국수 먹는 날! https://t.co/b4q4Tuy3RU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237315578597011500,
+					"id_str": "1237315578597011456",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/ESvT9pFU8AAiQ2q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESvT9pFU8AAiQ2q.jpg",
+					"url": "https://t.co/b4q4Tuy3RU",
+					"display_url": "pic.twitter.com/b4q4Tuy3RU",
+					"expanded_url": "https://twitter.com/kkobbiflowerain/status/1237315595319697409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237315578597011500,
+					"id_str": "1237315578597011456",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/ESvT9pFU8AAiQ2q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESvT9pFU8AAiQ2q.jpg",
+					"url": "https://t.co/b4q4Tuy3RU",
+					"display_url": "pic.twitter.com/b4q4Tuy3RU",
+					"expanded_url": "https://twitter.com/kkobbiflowerain/status/1237315595319697409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127225406,
+			"id_str": "127225406",
+			"name": "바이크전도사😷",
+			"screen_name": "kkobbiflowerain",
+			"location": "대한민국 제주도",
+			"description": "나이주의 좀 없애자.\n이륜차 차별 좀 그만 하고.\n여배우 아니고 배우.",
+			"url": "https://t.co/4GbnLfB4wB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4GbnLfB4wB",
+							"expanded_url": "http://bit.ly/30e7YIO",
+							"display_url": "bit.ly/30e7YIO",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12784,
+			"friends_count": 620,
+			"listed_count": 184,
+			"created_at": "Sun Mar 28 14:03:33 +0000 2010",
+			"favourites_count": 16773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 198075,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1172255273421017098/5Nk5YqDH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172255273421017098/5Nk5YqDH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/127225406/1568322661",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잔치국수 먹는 날! https://t.co/b4q4Tuy3RU"
+	},
+	{
+		"created_at": "Tue Mar 10 09:45:19 +0000 2020",
+		"id": 1237170045437890600,
+		"id_str": "1237313574952820736",
+		"full_text": "韓国でコロナ速報を見ていて「感染者」を「확진자＝確定診断者」と、差別に結び難い表現をしてるのにはハッとさせられた。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 345193355,
+			"id_str": "345193355",
+			"name": "hong ⊙ kayu",
+			"screen_name": "nesanroad",
+			"location": "JPN",
+			"description": "FTISLAND（primadonna） ／［YB］윤도현밴드 ／The Rose 더 로즈 ／韓国語勉強中／ヨガ歴13年／イ・ホンギ除隊日：2021年4月18日／イ・ジェジン除隊日：2021年8月1日／チェ・ミンファン除隊日：2021年9月2日",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117,
+			"friends_count": 434,
+			"listed_count": 2,
+			"created_at": "Sat Jul 30 05:53:08 +0000 2011",
+			"favourites_count": 8116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179240614099116033/ZwCmtzo2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179240614099116033/ZwCmtzo2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/345193355/1583323395",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2970,
+		"favorite_count": 7878,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "韓国でコロナ速報を見ていて「感染者」を「확진자＝確定診断者」と、差別に結び難い表現をしてるのにはハッとさせられた。"
+	},
+	{
+		"created_at": "Tue Mar 10 08:27:48 +0000 2020",
+		"id": 1237272990963777500,
+		"id_str": "1237294069178458112",
+		"full_text": "하여간 보수라고 하면 일단 제정신인지부터 체크해봐야 한다니까... 그 다음 체크할 것은 얼마나 무식한가임",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 906774818388717600,
+			"id_str": "906774818388717569",
+			"name": "대타",
+			"screen_name": "daitagayogi",
+			"location": "",
+			"description": "‘ㅅ’ 하청일하는 애니메이터. 작감 같은 거 자주 하네요... 애니메이터 하지 마세요. 19금 그림이나 사진도  RT하니 그런 거 거북한 분들은 팔로우하지 않는 걸 권합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 479,
+			"friends_count": 513,
+			"listed_count": 4,
+			"created_at": "Sun Sep 10 07:02:18 +0000 2017",
+			"favourites_count": 1851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224658441676869633/luBjvfXm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224658441676869633/luBjvfXm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906774818388717569/1558036126",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "하여간 보수라고 하면 일단 제정신인지부터 체크해봐야 한다니까... 그 다음 체크할 것은 얼마나 무식한가임"
+	},
+	{
+		"created_at": "Tue Mar 10 07:38:19 +0000 2020",
+		"id": 1237257576338690000,
+		"id_str": "1237281616810012672",
+		"full_text": "@kittysister 안녕하세요, 해당 사진은 국내에서 찍힌 것이 아닌 사진으로 해당 기사를 작성한 머니투데이 남형도 기자가 사과문을 올리고 사진을 내렸습니다. https://t.co/9gM8dsgudg",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kittysister",
+					"name": "고양이언니🐈",
+					"id": 154419261,
+					"id_str": "154419261",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237257535238750200,
+					"id_str": "1237257535238750209",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/ESufLEuUwAEtBAj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESufLEuUwAEtBAj.jpg",
+					"url": "https://t.co/9gM8dsgudg",
+					"display_url": "pic.twitter.com/9gM8dsgudg",
+					"expanded_url": "https://twitter.com/fly_mina/status/1237257576338690049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 690,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 690,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237257535238750200,
+					"id_str": "1237257535238750209",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/ESufLEuUwAEtBAj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESufLEuUwAEtBAj.jpg",
+					"url": "https://t.co/9gM8dsgudg",
+					"display_url": "pic.twitter.com/9gM8dsgudg",
+					"expanded_url": "https://twitter.com/fly_mina/status/1237257576338690049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 690,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 690,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1237252933797818400,
+		"in_reply_to_status_id_str": "1237252933797818368",
+		"in_reply_to_user_id": 154419261,
+		"in_reply_to_user_id_str": "154419261",
+		"in_reply_to_screen_name": "kittysister",
+		"user": {
+			"id": 87442613,
+			"id_str": "87442613",
+			"name": "날아라미나리",
+			"screen_name": "fly_mina",
+			"location": "S.Korea",
+			"description": "채소왕이 될테야 / 제 트윗은 제 소속과 상관이가 없습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1359,
+			"friends_count": 1261,
+			"listed_count": 60,
+			"created_at": "Wed Nov 04 13:49:42 +0000 2009",
+			"favourites_count": 1500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2F7F7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133745136666460162/ehAnUyUt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133745136666460162/ehAnUyUt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87442613/1490025858",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "4D918A",
+			"profile_sidebar_fill_color": "B9D8D6",
+			"profile_text_color": "587370",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 262,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@kittysister 안녕하세요, 해당 사진은 국내에서 찍힌 것이 아닌 사진으로 해당 기사를 작성한 머니투데이 남형도 기자가 사과문을 올리고 사진을 내렸습니다. https://t.co/9gM8dsgudg"
+	},
+	{
+		"created_at": "Tue Mar 10 06:41:13 +0000 2020",
+		"id": 1237169562153398300,
+		"id_str": "1237267245975228423",
+		"full_text": "노컷,국민일보 : 신천지 까느라 신나서 모든게 단독임\n조동/한경 : 마스크앓이\n중앙 : wonhan 발산중\n\n드라이한 정보전달은 개발자들이, 예방 및 대응에 대한 안내들은 질본이 직접 하거나, 의료계 개인들이 하는 중.\n\n대다수 언론에서 기능을 아예 못 하는 것 같은데. 음.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 161705484,
+			"id_str": "161705484",
+			"name": "since",
+			"screen_name": "beingsince",
+			"location": "dong-jak, seoul, south korea",
+			"description": "도시-데이터-정책 유관업무 종사자. 요즘은 이동에 집중하고 있습니다. concern about data policy in public / data for public policy. especially focusing on mobility issues",
+			"url": "https://t.co/VPq8RHcVYL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VPq8RHcVYL",
+							"expanded_url": "http://smilesl.tistory.com/",
+							"display_url": "smilesl.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2037,
+			"friends_count": 586,
+			"listed_count": 52,
+			"created_at": "Thu Jul 01 15:04:27 +0000 2010",
+			"favourites_count": 6654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23627,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/887493792076488704/rTpCs6us_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/887493792076488704/rTpCs6us_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/161705484/1359488850",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1790,
+		"favorite_count": 568,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "노컷,국민일보 : 신천지 까느라 신나서 모든게 단독임\n조동/한경 : 마스크앓이\n중앙 : wonhan 발산중\n\n드라이한 정보전달은 개발자들이, 예방 및 대응에 대한 안내들은 질본이 직접 하거나, 의료계 개인들이 하는 중.\n\n대다수 언론에서 기능을 아예 못 하는 것 같은데. 음."
+	},
+	{
+		"created_at": "Tue Mar 10 06:10:51 +0000 2020",
+		"id": 1237173695510167600,
+		"id_str": "1237259602816729090",
+		"full_text": "미국 CDC가 건강한 사람들은 마스크를 쓰지 않아도 된다고 했을 때부터 우리 정부도 같은 메세지를 내놨다. 그럼에도 '마스크 대란'이 일어난 데엔 언론의 비과학적 공포심 조장을 빼놓고 얘기할 수 없다. 그러나 이 기사는 그걸 빼놓았다. \n\n#저질저널리즘\n https://t.co/1Wwg6uuupq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "저질저널리즘",
+					"indices": [
+						134,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1Wwg6uuupq",
+					"expanded_url": "http://m.hankookilbo.com/News/Read/202003091669067134?did=tw&dtype=&dtypecode=&prnewsid=&backAd=1",
+					"display_url": "m.hankookilbo.com/News/Read/2020…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 861912852990279700,
+			"id_str": "861912852990279680",
+			"name": "Work Social",
+			"screen_name": "WorkSocial1",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 187,
+			"listed_count": 11,
+			"created_at": "Tue May 09 11:56:52 +0000 2017",
+			"favourites_count": 7409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129431565392650240/YHDRdVY-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129431565392650240/YHDRdVY-_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/861912852990279680/1558112744",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 502,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "미국 CDC가 건강한 사람들은 마스크를 쓰지 않아도 된다고 했을 때부터 우리 정부도 같은 메세지를 내놨다. 그럼에도 '마스크 대란'이 일어난 데엔 언론의 비과학적 공포심 조장을 빼놓고 얘기할 수 없다. 그러나 이 기사는 그걸 빼놓았다. \n\n#저질저널리즘\n https://t.co/1Wwg6uuupq"
+	},
+	{
+		"created_at": "Tue Mar 10 02:13:59 +0000 2020",
+		"id": 1237193144208220200,
+		"id_str": "1237199994664308736",
+		"full_text": "https://t.co/F2htiafHMz\n1. 엔화 3년여 만에 최고치로 강세, 이미 마이너스 금리 인하를 도입해 추가 금리 인하 여력 없음.\n2. 이미 지난해 12월 말 13조2000억엔 규모의 경기 부양책 발표\n블룸버그 통신 \"너무 일찍 부양 정책을 발표한 일본 정부의 고민이 깊어질 것\"\n\n이런 게 정부실패지. ㅉㅉ.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F2htiafHMz",
+					"expanded_url": "https://news.mt.co.kr/mtview.php?no=2020030916423317649",
+					"display_url": "news.mt.co.kr/mtview.php?no=…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1160104030997102600,
+			"id_str": "1160104030997102592",
+			"name": "진_眞_Jean",
+			"screen_name": "Jeanfortruth",
+			"location": "Seoul, South Korea",
+			"description": "낮에는 디자인과 기획을 하고 밤에는 글을 쓰는 부엉이 작가.\n판타지 대하소설 \"빛의 유지 : 비랑도의 별\" 시프트북스 연재 중\n사회정의 지지자(Social justice advocate)\n예술/창작/역사/정치/과학/etc 세상잡사에 대한 주저리를 풉니다.\n하루 한 번 쪽글을 홍보합니다.",
+			"url": "https://t.co/Q5YQqbCyCP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q5YQqbCyCP",
+							"expanded_url": "http://shiftbooks.yes24.com/Detail/16620",
+							"display_url": "shiftbooks.yes24.com/Detail/16620",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 874,
+			"friends_count": 486,
+			"listed_count": 6,
+			"created_at": "Sat Aug 10 08:22:09 +0000 2019",
+			"favourites_count": 6943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232490192608489472/PivwCv5x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232490192608489472/PivwCv5x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1160104030997102592/1565426318",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/F2htiafHMz\n1. 엔화 3년여 만에 최고치로 강세, 이미 마이너스 금리 인하를 도입해 추가 금리 인하 여력 없음.\n2. 이미 지난해 12월 말 13조2000억엔 규모의 경기 부양책 발표\n블룸버그 통신 \"너무 일찍 부양 정책을 발표한 일본 정부의 고민이 깊어질 것\"\n\n이런 게 정부실패지. ㅉㅉ."
+	},
+	{
+		"created_at": "Tue Mar 10 00:44:23 +0000 2020",
+		"id": 1237043668457885700,
+		"id_str": "1237177445645561856",
+		"full_text": "오늘이 무슨날인지 아십니까 https://t.co/bpdb2OTEmB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237043665639374800,
+					"id_str": "1237043665639374848",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/ESrcqOYVAAAYosd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESrcqOYVAAAYosd.jpg",
+					"url": "https://t.co/bpdb2OTEmB",
+					"display_url": "pic.twitter.com/bpdb2OTEmB",
+					"expanded_url": "https://twitter.com/tonaitoo/status/1237043668457885696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 793,
+							"h": 617,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 793,
+							"h": 617,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237043665639374800,
+					"id_str": "1237043665639374848",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/ESrcqOYVAAAYosd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESrcqOYVAAAYosd.jpg",
+					"url": "https://t.co/bpdb2OTEmB",
+					"display_url": "pic.twitter.com/bpdb2OTEmB",
+					"expanded_url": "https://twitter.com/tonaitoo/status/1237043668457885696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 793,
+							"h": 617,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 793,
+							"h": 617,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1693269036,
+			"id_str": "1693269036",
+			"name": "TONAITOO",
+			"screen_name": "tonaitoo",
+			"location": "",
+			"description": "NSFW성분 미량함유된 덕질계정입니다. 인용알티 개소리 + 마음함 지적질은 바로 차단입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3056,
+			"friends_count": 3809,
+			"listed_count": 44,
+			"created_at": "Fri Aug 23 08:52:47 +0000 2013",
+			"favourites_count": 49423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 238614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1221594245322002432/unSftqzw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221594245322002432/unSftqzw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1693269036/1549642852",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 772,
+		"favorite_count": 254,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘이 무슨날인지 아십니까 https://t.co/bpdb2OTEmB"
+	},
+	{
 		"created_at": "Mon Mar 09 12:29:24 +0000 2020",
 		"id": 1236903121613283300,
 		"id_str": "1236992481213874176",
