@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 11 19:00:54 +0000 2020",
+		"id": 1237716103847002000,
+		"id_str": "1237815782056144896",
+		"full_text": "https://t.co/VTj2rIK2NE\n\n조선일보에서 정말 볼 만한 기사는 &lt;바로잡습니다&gt; 연재물밖에 없습니다. 근데 이걸 잘 모르는 사람이 많아요 https://t.co/wgIBpROfiU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VTj2rIK2NE",
+					"expanded_url": "https://nsearch.chosun.com/search/total.search?query=%EB%B0%94%EB%A1%9C%EC%9E%A1%EC%8A%B5%EB%8B%88%EB%8B%A4",
+					"display_url": "nsearch.chosun.com/search/total.s…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1237715898716188700,
+					"id_str": "1237715898716188675",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/ES1ADVvU8AM_zJ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES1ADVvU8AM_zJ5.jpg",
+					"url": "https://t.co/wgIBpROfiU",
+					"display_url": "pic.twitter.com/wgIBpROfiU",
+					"expanded_url": "https://twitter.com/wn4040/status/1237716103847002112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 636,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 847,
+							"h": 905,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 847,
+							"h": 905,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237715898716188700,
+					"id_str": "1237715898716188675",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/ES1ADVvU8AM_zJ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ES1ADVvU8AM_zJ5.jpg",
+					"url": "https://t.co/wgIBpROfiU",
+					"display_url": "pic.twitter.com/wgIBpROfiU",
+					"expanded_url": "https://twitter.com/wn4040/status/1237716103847002112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 636,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 847,
+							"h": 905,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 847,
+							"h": 905,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1237715903606734800,
+					"id_str": "1237715903606734849",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/ES1ADn9UwAEl357.png",
+					"media_url_https": "https://pbs.twimg.com/media/ES1ADn9UwAEl357.png",
+					"url": "https://t.co/wgIBpROfiU",
+					"display_url": "pic.twitter.com/wgIBpROfiU",
+					"expanded_url": "https://twitter.com/wn4040/status/1237716103847002112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 879,
+							"h": 721,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 879,
+							"h": 721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 558,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 453115202,
+			"id_str": "453115202",
+			"name": "EVERGREEN⚾️",
+			"screen_name": "wn4040",
+			"location": "",
+			"description": "강인함과 약간의 겸손 ⚾️#FriarFaithful ⚖️#BetterCallSaul",
+			"url": "https://t.co/KSFcEP4hur",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KSFcEP4hur",
+							"expanded_url": "https://www.youtube.com/user/EVERGREENAA",
+							"display_url": "youtube.com/user/EVERGREEN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 757,
+			"friends_count": 1441,
+			"listed_count": 19,
+			"created_at": "Mon Jan 02 16:04:36 +0000 2012",
+			"favourites_count": 7152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 117677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209173758503608320/HNbtscEM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209173758503608320/HNbtscEM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/453115202/1574219367",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 448,
+		"favorite_count": 150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/VTj2rIK2NE\n\n조선일보에서 정말 볼 만한 기사는 &lt;바로잡습니다&gt; 연재물밖에 없습니다. 근데 이걸 잘 모르는 사람이 많아요 https://t.co/wgIBpROfiU"
+	},
+	{
+		"created_at": "Wed Mar 11 18:54:33 +0000 2020",
+		"id": 1237701638065807400,
+		"id_str": "1237814182805794816",
+		"full_text": "콜센터 문제는 대구시에서 이미 나왔었는데 대구시에서 제대로 역학 조사나 분석 발표를 안하니까 묻혔었구나\n\n대구시 신한은행 콜센터에서 이미 확진자 20명이나 발생했었다고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1170576522320564200,
+			"id_str": "1170576522320564224",
+			"name": "KLEE",
+			"screen_name": "marga32607299",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 363,
+			"friends_count": 974,
+			"listed_count": 1,
+			"created_at": "Sun Sep 08 05:56:25 +0000 2019",
+			"favourites_count": 6918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182214064711196672/mpLp3_V5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182214064711196672/mpLp3_V5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1508,
+		"favorite_count": 467,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "콜센터 문제는 대구시에서 이미 나왔었는데 대구시에서 제대로 역학 조사나 분석 발표를 안하니까 묻혔었구나\n\n대구시 신한은행 콜센터에서 이미 확진자 20명이나 발생했었다고"
+	},
+	{
+		"created_at": "Wed Mar 11 18:52:09 +0000 2020",
+		"id": 1237652360945528800,
+		"id_str": "1237813581225144321",
+		"full_text": "이번 사태로 한국 보수나 보리수나 공공분야에 끔찍히 비용을 지불하긴 꺼려오면서 공공분야나 사회적 서비스는 최상급으로 받고 싶어했음이 만천하에 드러났다. 하지만 이제 이야기 해야한다. 그런 서비스를 누리고 싶다면 비용을 치르라고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1237651921093013500,
+		"in_reply_to_status_id_str": "1237651921093013505",
+		"in_reply_to_user_id": 824126205712601100,
+		"in_reply_to_user_id_str": "824126205712601088",
+		"in_reply_to_screen_name": "kjs333011",
+		"user": {
+			"id": 824126205712601100,
+			"id_str": "824126205712601088",
+			"name": "김준수",
+			"screen_name": "kjs333011",
+			"location": "",
+			"description": "트잉여. 월급루팡. 구파발행을 몹시 저주하는 고양시민.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1384,
+			"friends_count": 210,
+			"listed_count": 16,
+			"created_at": "Wed Jan 25 05:26:13 +0000 2017",
+			"favourites_count": 1906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824127682002685953/Nd_V8aBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824127682002685953/Nd_V8aBi_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 548,
+		"favorite_count": 158,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이번 사태로 한국 보수나 보리수나 공공분야에 끔찍히 비용을 지불하긴 꺼려오면서 공공분야나 사회적 서비스는 최상급으로 받고 싶어했음이 만천하에 드러났다. 하지만 이제 이야기 해야한다. 그런 서비스를 누리고 싶다면 비용을 치르라고."
+	},
+	{
 		"created_at": "Tue Mar 10 17:47:39 +0000 2020",
 		"id": 1237385687311270000,
 		"id_str": "1237434957842145280",
