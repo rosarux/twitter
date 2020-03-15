@@ -1,6 +1,1652 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 14:56:09 +0000 2020",
+		"id": 1238841350952325000,
+		"id_str": "1238841350952325120",
+		"full_text": "@carmikle226 제가 누르겠습니다💕",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "carmikle226",
+					"name": "Carmikle",
+					"id": 157771266,
+					"id_str": "157771266",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1238698182923542500,
+		"in_reply_to_status_id_str": "1238698182923542528",
+		"in_reply_to_user_id": 157771266,
+		"in_reply_to_user_id_str": "157771266",
+		"in_reply_to_screen_name": "carmikle226",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 557,
+			"friends_count": 434,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@carmikle226 제가 누르겠습니다💕"
+	},
+	{
+		"created_at": "Sat Mar 14 14:55:23 +0000 2020",
+		"id": 1238817244324319200,
+		"id_str": "1238841156974170112",
+		"full_text": "「総理、これ、記者会見と呼べますか？」。これ、発言しているの、たぶん沖縄タイムスの阿部岳記者です。沖縄に根を張り、ずっと基地問題を取材し続けている記者です https://t.co/rEjibzfT94",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rEjibzfT94",
+					"expanded_url": "https://twitter.com/chocolat_psyder/status/1238794555681619969",
+					"display_url": "twitter.com/chocolat_psyde…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1533633086,
+			"id_str": "1533633086",
+			"name": "三浦英之　「南三陸日記」にPCJF奨励賞",
+			"screen_name": "miura_hideyuki",
+			"location": "福島・南相馬",
+			"description": "新聞記者・ルポライター。『五色の虹　満州建国大学卒業生たちの戦後』で開高賞、『牙　アフリカゾウの「密猟組織」を追って』で小学館ノンフィクション大賞、『日報隠蔽　南スーダンで自衛隊は何を見たのか』（布施祐仁さんとの共著）で石橋湛山記念早稲田ジャーナリズム大賞。代表作に『南三陸日記』など（＊ツイートは個人の意見です）",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44109,
+			"friends_count": 786,
+			"listed_count": 1260,
+			"created_at": "Thu Jun 20 11:10:27 +0000 2013",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000037148770/b26c65aa46549106d3ffe6545214a9ba_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000037148770/b26c65aa46549106d3ffe6545214a9ba_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1533633086/1455474274",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238794555681620000,
+		"quoted_status_id_str": "1238794555681619969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rEjibzfT94",
+			"expanded": "https://twitter.com/chocolat_psyder/status/1238794555681619969",
+			"display": "twitter.com/chocolat_psyde…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 14 11:50:12 +0000 2020",
+			"id": 1238794555681620000,
+			"id_str": "1238794555681619969",
+			"full_text": "記者「総理、これ\n　　　記者会見と呼べますか？」\n\n世界の安倍「……………」 https://t.co/aiPu3Htiu2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				38
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aiPu3Htiu2",
+						"expanded_url": "https://twitter.com/horiris/status/1238775202483326976",
+						"display_url": "twitter.com/horiris/status…",
+						"indices": [
+							39,
+							62
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1044587252670578700,
+				"id_str": "1044587252670578690",
+				"name": "chocolat.",
+				"screen_name": "chocolat_psyder",
+				"location": "",
+				"description": "ショコラです│愛国心を持つなら地球に持て。魂を国家に管理されるな│ウダウダ言います",
+				"url": "https://t.co/1CAJlSu8Sj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1CAJlSu8Sj",
+								"expanded_url": "https://note.mu/chocolat_psyder",
+								"display_url": "note.mu/chocolat_psyder",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25447,
+				"friends_count": 1897,
+				"listed_count": 294,
+				"created_at": "Tue Sep 25 13:59:43 +0000 2018",
+				"favourites_count": 19354,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 45275,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1094894662844788736/XQ4TA4BH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094894662844788736/XQ4TA4BH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1044587252670578690/1579739850",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1238775202483327000,
+			"quoted_status_id_str": "1238775202483326976",
+			"quoted_status_permalink": {
+				"url": "https://t.co/aiPu3Htiu2",
+				"expanded": "https://twitter.com/horiris/status/1238775202483326976",
+				"display": "twitter.com/horiris/status…"
+			},
+			"retweet_count": 2338,
+			"favorite_count": 4200,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 932,
+		"favorite_count": 1954,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「総理、これ、記者会見と呼べますか？」。これ、発言しているの、たぶん沖縄タイムスの阿部岳記者です。沖縄に根を張り、ずっと基地問題を取材し続けている記者です https://t.co/rEjibzfT94"
+	},
+	{
+		"created_at": "Sat Mar 14 12:24:48 +0000 2020",
+		"id": 1238794555681620000,
+		"id_str": "1238803262112854017",
+		"full_text": "記者「総理、これ\n　　　記者会見と呼べますか？」\n\n世界の安倍「……………」 https://t.co/aiPu3Htiu2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aiPu3Htiu2",
+					"expanded_url": "https://twitter.com/horiris/status/1238775202483326976",
+					"display_url": "twitter.com/horiris/status…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1044587252670578700,
+			"id_str": "1044587252670578690",
+			"name": "chocolat.",
+			"screen_name": "chocolat_psyder",
+			"location": "",
+			"description": "ショコラです│愛国心を持つなら地球に持て。魂を国家に管理されるな│ウダウダ言います",
+			"url": "https://t.co/1CAJlSu8Sj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1CAJlSu8Sj",
+							"expanded_url": "https://note.mu/chocolat_psyder",
+							"display_url": "note.mu/chocolat_psyder",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25447,
+			"friends_count": 1897,
+			"listed_count": 294,
+			"created_at": "Tue Sep 25 13:59:43 +0000 2018",
+			"favourites_count": 19354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094894662844788736/XQ4TA4BH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094894662844788736/XQ4TA4BH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1044587252670578690/1579739850",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238775202483327000,
+		"quoted_status_id_str": "1238775202483326976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aiPu3Htiu2",
+			"expanded": "https://twitter.com/horiris/status/1238775202483326976",
+			"display": "twitter.com/horiris/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 14 10:33:18 +0000 2020",
+			"id": 1238775202483327000,
+			"id_str": "1238775202483326976",
+			"full_text": "動画です。\n安倍首相、固まる。 https://t.co/iZ9vLuurUQ https://t.co/iCPQmvsd0J",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iZ9vLuurUQ",
+						"expanded_url": "https://twitter.com/horiris/status/1238764324224520192",
+						"display_url": "twitter.com/horiris/status…",
+						"indices": [
+							16,
+							39
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1238775175438426000,
+						"id_str": "1238775175438426113",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238775175438426113/pu/img/1FcK50eQUuDYwAPs.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238775175438426113/pu/img/1FcK50eQUuDYwAPs.jpg",
+						"url": "https://t.co/iCPQmvsd0J",
+						"display_url": "pic.twitter.com/iCPQmvsd0J",
+						"expanded_url": "https://twitter.com/horiris/status/1238775202483326976/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1238775175438426000,
+						"id_str": "1238775175438426113",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238775175438426113/pu/img/1FcK50eQUuDYwAPs.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238775175438426113/pu/img/1FcK50eQUuDYwAPs.jpg",
+						"url": "https://t.co/iCPQmvsd0J",
+						"display_url": "pic.twitter.com/iCPQmvsd0J",
+						"expanded_url": "https://twitter.com/horiris/status/1238775202483326976/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 16300,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1238775175438426113/pu/vid/1280x720/0RXmqdVekipJYVHG.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1238775175438426113/pu/vid/640x360/ljItOItkPdJcAPlV.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1238775175438426113/pu/pl/cVebf4y1KHGr4OOD.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1238775175438426113/pu/vid/480x270/mpmZ3davMeaxpA5m.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 200364954,
+				"id_str": "200364954",
+				"name": "ジョンレモン",
+				"screen_name": "horiris",
+				"location": "",
+				"description": "愛していますか？ 愛されていますか？ 愛すること、それは、 たったひとつの 真実です 。 NO NUKES！ANTIFA、NO WAR",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19894,
+				"friends_count": 894,
+				"listed_count": 371,
+				"created_at": "Sat Oct 09 03:10:11 +0000 2010",
+				"favourites_count": 727,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 70394,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/891651761949220864/SnQ3RYIo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/891651761949220864/SnQ3RYIo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/200364954/1489843537",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1238764324224520200,
+			"quoted_status_id_str": "1238764324224520192",
+			"quoted_status_permalink": {
+				"url": "https://t.co/iZ9vLuurUQ",
+				"expanded": "https://twitter.com/horiris/status/1238764324224520192",
+				"display": "twitter.com/horiris/status…"
+			},
+			"retweet_count": 4725,
+			"favorite_count": 8242,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 2338,
+		"favorite_count": 4200,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "記者「総理、これ\n　　　記者会見と呼べますか？」\n\n世界の安倍「……………」 https://t.co/aiPu3Htiu2"
+	},
+	{
+		"created_at": "Sat Mar 14 12:04:17 +0000 2020",
+		"id": 1238791725549621200,
+		"id_str": "1238798098194780161",
+		"full_text": "지브리 장편 애니메이션을 뜨문 뜨문봐서 넷플릭스로 붉은 돼지 처음 봤는데 이 명대사 장면을 처음으로 봤다 https://t.co/TK7ugKBILV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238791608021037000,
+					"id_str": "1238791608021037058",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/ETESZ3LUMAI3MXT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETESZ3LUMAI3MXT.jpg",
+					"url": "https://t.co/TK7ugKBILV",
+					"display_url": "pic.twitter.com/TK7ugKBILV",
+					"expanded_url": "https://twitter.com/lazena/status/1238791725549621248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1153,
+							"h": 721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1153,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238791608021037000,
+					"id_str": "1238791608021037058",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/ETESZ3LUMAI3MXT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETESZ3LUMAI3MXT.jpg",
+					"url": "https://t.co/TK7ugKBILV",
+					"display_url": "pic.twitter.com/TK7ugKBILV",
+					"expanded_url": "https://twitter.com/lazena/status/1238791725549621248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1153,
+							"h": 721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1153,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 211801784,
+			"id_str": "211801784",
+			"name": "LA제나",
+			"screen_name": "lazena",
+			"location": "넓디넓은워로드가슴에서돈까스처럼끼이고있다",
+			"description": "최첨단남캐닦이 [🇰🇷]//⚠️🔞BL🎨\n너도 동탄당하지 않게 조심해\nIcon by 김개찌 - shingari miroku",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 852,
+			"friends_count": 909,
+			"listed_count": 18,
+			"created_at": "Thu Nov 04 09:08:46 +0000 2010",
+			"favourites_count": 17420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 83064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164804290218582016/ioNrjn0S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164804290218582016/ioNrjn0S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/211801784/1566545700",
+			"profile_link_color": "5D46AF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지브리 장편 애니메이션을 뜨문 뜨문봐서 넷플릭스로 붉은 돼지 처음 봤는데 이 명대사 장면을 처음으로 봤다 https://t.co/TK7ugKBILV"
+	},
+	{
+		"created_at": "Sat Mar 14 08:03:09 +0000 2020",
+		"id": 1238735683746857000,
+		"id_str": "1238737417852477442",
+		"full_text": "コロナウィルス対策関連ではあるが、首相に権限を集中させる緊急事態宣言を可能にする法律ができた。もし首相が信頼できる人物であるならばそれも良かろう。しかし首相が嘘、隠蔽、ごまかしの人物だったら国家は極めて危うくなる。その首相を追及してきた立憲民主が法案に賛成したことが理解できない。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 97244324,
+			"id_str": "97244324",
+			"name": "鳩山由紀夫",
+			"screen_name": "hatoyamayukio",
+			"location": "JAPAN",
+			"description": "政治の話に限らず、身辺に起こったいろいろな話題について書いていければと思っています。ご意見ご感想は @hatoyamayukio でお願いいたします。",
+			"url": "http://t.co/7UM0Rv8toT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7UM0Rv8toT",
+							"expanded_url": "http://www.eaci.or.jp/",
+							"display_url": "eaci.or.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 829882,
+			"friends_count": 116498,
+			"listed_count": 25625,
+			"created_at": "Wed Dec 16 16:44:30 +0000 2009",
+			"favourites_count": 24,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5BB007",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/603040601/hatoyama_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/603040601/hatoyama_normal.png",
+			"profile_link_color": "0DA100",
+			"profile_sidebar_border_color": "DBDBDB",
+			"profile_sidebar_fill_color": "F2F2F2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4289,
+		"favorite_count": 10543,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "コロナウィルス対策関連ではあるが、首相に権限を集中させる緊急事態宣言を可能にする法律ができた。もし首相が信頼できる人物であるならばそれも良かろう。しかし首相が嘘、隠蔽、ごまかしの人物だったら国家は極めて危うくなる。その首相を追及してきた立憲民主が法案に賛成したことが理解できない。"
+	},
+	{
+		"created_at": "Sat Mar 14 05:46:20 +0000 2020",
+		"id": 1238692884204916700,
+		"id_str": "1238702988006322176",
+		"full_text": "야 쟤네들 프로필보다 팀 셔록 기자 프로필보니 캬\n레이즈드 인 재팬 앤 코리아\n아너리 시티즌 오브 광주 https://t.co/viGk25Kqd7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238692818140500000,
+					"id_str": "1238692818140499968",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/ETC4jiMXkAAds0p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETC4jiMXkAAds0p.jpg",
+					"url": "https://t.co/viGk25Kqd7",
+					"display_url": "pic.twitter.com/viGk25Kqd7",
+					"expanded_url": "https://twitter.com/angusbull_1/status/1238692884204916737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 234,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 371,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 371,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238692818140500000,
+					"id_str": "1238692818140499968",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/ETC4jiMXkAAds0p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETC4jiMXkAAds0p.jpg",
+					"url": "https://t.co/viGk25Kqd7",
+					"display_url": "pic.twitter.com/viGk25Kqd7",
+					"expanded_url": "https://twitter.com/angusbull_1/status/1238692884204916737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 234,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 371,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 371,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4254165854,
+			"id_str": "4254165854",
+			"name": "앵거스농장",
+			"screen_name": "angusbull_1",
+			"location": "",
+			"description": "으어",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1130,
+			"friends_count": 689,
+			"listed_count": 13,
+			"created_at": "Mon Nov 16 07:15:11 +0000 2015",
+			"favourites_count": 6268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085625866992926721/YyRroIDC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085625866992926721/YyRroIDC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4254165854/1547668424",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야 쟤네들 프로필보다 팀 셔록 기자 프로필보니 캬\n레이즈드 인 재팬 앤 코리아\n아너리 시티즌 오브 광주 https://t.co/viGk25Kqd7"
+	},
+	{
+		"created_at": "Sat Mar 14 04:23:10 +0000 2020",
+		"id": 1237701771817922600,
+		"id_str": "1238682057384976384",
+		"full_text": "아니 명백히 재난인데 문자를 보내지 말래.. 이탈리아랑 중국 당하는 걸 보고도ㅋㅋㅋ https://t.co/zexcDXIONO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zexcDXIONO",
+					"expanded_url": "https://twitter.com/slownewskr/status/1237699249577443328",
+					"display_url": "twitter.com/slownewskr/sta…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2343068034,
+			"id_str": "2343068034",
+			"name": "뀰은 맛있다",
+			"screen_name": "sweetkkyul",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Fri Feb 14 04:55:14 +0000 2014",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087244422150991874/6vzIylQ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087244422150991874/6vzIylQ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2343068034/1548054187",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1237699249577443300,
+		"quoted_status_id_str": "1237699249577443328",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zexcDXIONO",
+			"expanded": "https://twitter.com/slownewskr/status/1237699249577443328",
+			"display": "twitter.com/slownewskr/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 11 11:17:51 +0000 2020",
+			"id": 1237699249577443300,
+			"id_str": "1237699249577443328",
+			"full_text": "왜 '긴급재난문자'는 불청객이 됐을까?\n'한국식 표준'(갈라파고스화)도 문제지만,\n더 큰 문제는 시도 때도 없는 재난문자 남용!\n\nhttps://t.co/onnea0V8Ef BY unifiedh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/onnea0V8Ef",
+						"expanded_url": "https://slownews.kr/75532",
+						"display_url": "slownews.kr/75532",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 532161219,
+				"id_str": "532161219",
+				"name": "슬로우뉴스",
+				"screen_name": "slownewskr",
+				"location": "",
+				"description": "Fast is good, slow is better. 느리지만 꼼꼼한 뉴스, 슬로우뉴스입니다. \n기고 문의: editor@slownews.kr",
+				"url": "http://t.co/hUa0sZzIii",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/hUa0sZzIii",
+								"expanded_url": "http://slownews.kr",
+								"display_url": "slownews.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24534,
+				"friends_count": 0,
+				"listed_count": 453,
+				"created_at": "Wed Mar 21 09:27:25 +0000 2012",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4025,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1921835076/slownews_gravatar_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1921835076/slownews_gravatar_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/532161219/1398608454",
+				"profile_link_color": "947F15",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아니 명백히 재난인데 문자를 보내지 말래.. 이탈리아랑 중국 당하는 걸 보고도ㅋㅋㅋ https://t.co/zexcDXIONO"
+	},
+	{
+		"created_at": "Sat Mar 14 04:22:37 +0000 2020",
+		"id": 1238083494762270700,
+		"id_str": "1238681919635652609",
+		"full_text": "치료상 이득이 있으니깐 사망률이 타국에 비해 적은건데 무슨ㅋ 장기소모전이라도 아예 전체 셧다운 때리는 이미 많이 퍼진 국가 방식이 당연히 자원이 더 많이 듬. 이사람 말은 일본처럼 걍다묻고 적당히 넘기자인데 어차피 다 죽었고 돈많이드니깐 인양하지 말라던 6년전이랑 달라진게 없냐 어케? https://t.co/Kmog3iguBV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kmog3iguBV",
+					"expanded_url": "https://twitter.com/quarantineSta/status/1238069033083088897",
+					"display_url": "twitter.com/quarantineSta/…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2343068034,
+			"id_str": "2343068034",
+			"name": "뀰은 맛있다",
+			"screen_name": "sweetkkyul",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Fri Feb 14 04:55:14 +0000 2014",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087244422150991874/6vzIylQ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087244422150991874/6vzIylQ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2343068034/1548054187",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238069033083089000,
+		"quoted_status_id_str": "1238069033083088897",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Kmog3iguBV",
+			"expanded": "https://twitter.com/quarantineSta/status/1238069033083088897",
+			"display": "twitter.com/quarantineSta/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 12 11:47:14 +0000 2020",
+			"id": 1238069033083089000,
+			"id_str": "1238069033083088897",
+			"full_text": "검사를 많이 하는 것은 치료상 이득이 없다. 방역상 이득은 있으나 한정된 자원 하에서는 그조차도 불분명하다. 아마도 코로나19의 진행 정도에 따라 판단은 달라질 것 […] 코로나19는 장기전이 될 가능성이 크다. 그렇다면 우리도 그에 맞는 시스템을 서둘러 갖추어야한다\n\nhttps://t.co/msXzvRfmJD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/msXzvRfmJD",
+						"expanded_url": "https://www.facebook.com/permalink.php?story_fbid=3080365408692357&id=100001567848059",
+						"display_url": "facebook.com/permalink.php?…",
+						"indices": [
+							151,
+							174
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 262353521,
+				"id_str": "262353521",
+				"name": "sonnet",
+				"screen_name": "quarantineSta",
+				"location": "Seoul, ROK",
+				"description": "이전에 나는 죄가 있기 때문에 사형을 당하거나 감옥에 갇히는 것이라고 생각했다. 그러나 이제는 먼저 누군가에게 ‘괘씸하다’는 판정을 받게 된 연후에 죄를 얻게 되는 것임을 알게 되었다. - 루쉰(魯迅), 「괘씸죄」-",
+				"url": "http://t.co/jHtektmz9j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/jHtektmz9j",
+								"expanded_url": "http://sonnet.egloos.com/",
+								"display_url": "sonnet.egloos.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3957,
+				"friends_count": 268,
+				"listed_count": 124,
+				"created_at": "Mon Mar 07 22:03:27 +0000 2011",
+				"favourites_count": 868,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11294,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1401335216/hm100px_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401335216/hm100px_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/262353521/1398770126",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 50,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "치료상 이득이 있으니깐 사망률이 타국에 비해 적은건데 무슨ㅋ 장기소모전이라도 아예 전체 셧다운 때리는 이미 많이 퍼진 국가 방식이 당연히 자원이 더 많이 듬. 이사람 말은 일본처럼 걍다묻고 적당히 넘기자인데 어차피 다 죽었고 돈많이드니깐 인양하지 말라던 6년전이랑 달라진게 없냐 어케? https://t.co/Kmog3iguBV"
+	},
+	{
+		"created_at": "Sat Mar 14 04:09:50 +0000 2020",
+		"id": 1238088915006845000,
+		"id_str": "1238678701849448448",
+		"full_text": "한국은 코로나 처리는 선별진료소로 빼고 일반 병원은 코로나 안받음으로서 의료기관 확산방지와 더불어 다른 병 치료할 자원 온존을 하고 있는데 무슨 아무 추적도 안하다가 일반병원 응급실로 원인불상폐렴환자 몰려와 다른 병 치료할 의료 리소스도 전부 오염되서 망하는 방법을 하자고 있니? https://t.co/Fbg8Uej7dA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fbg8Uej7dA",
+					"expanded_url": "https://twitter.com/quarantineSta/status/1238069785897779201",
+					"display_url": "twitter.com/quarantineSta/…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2343068034,
+			"id_str": "2343068034",
+			"name": "뀰은 맛있다",
+			"screen_name": "sweetkkyul",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Fri Feb 14 04:55:14 +0000 2014",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087244422150991874/6vzIylQ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087244422150991874/6vzIylQ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2343068034/1548054187",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238069785897779200,
+		"quoted_status_id_str": "1238069785897779201",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Fbg8Uej7dA",
+			"expanded": "https://twitter.com/quarantineSta/status/1238069785897779201",
+			"display": "twitter.com/quarantineSta/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 12 11:50:13 +0000 2020",
+			"id": 1238069785897779200,
+			"id_str": "1238069785897779201",
+			"full_text": "무증상의 건강한확진자를 계속찾아내는 것은 의료자원의 불균형을 야기. 의료를 제공받을필요가 없음에도 불구하고 격리실등의 자원을 잡아먹는다. 그로인해 고위험군 환자는 적절한 치료기회를 박탈. 또 과도한 의료인력이 검사분야에 투여됨으로써 정작 위험군의 '치료'분야에는 의료인력이 모자라게",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1238069033083089000,
+			"in_reply_to_status_id_str": "1238069033083088897",
+			"in_reply_to_user_id": 262353521,
+			"in_reply_to_user_id_str": "262353521",
+			"in_reply_to_screen_name": "quarantineSta",
+			"user": {
+				"id": 262353521,
+				"id_str": "262353521",
+				"name": "sonnet",
+				"screen_name": "quarantineSta",
+				"location": "Seoul, ROK",
+				"description": "이전에 나는 죄가 있기 때문에 사형을 당하거나 감옥에 갇히는 것이라고 생각했다. 그러나 이제는 먼저 누군가에게 ‘괘씸하다’는 판정을 받게 된 연후에 죄를 얻게 되는 것임을 알게 되었다. - 루쉰(魯迅), 「괘씸죄」-",
+				"url": "http://t.co/jHtektmz9j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/jHtektmz9j",
+								"expanded_url": "http://sonnet.egloos.com/",
+								"display_url": "sonnet.egloos.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3957,
+				"friends_count": 268,
+				"listed_count": 124,
+				"created_at": "Mon Mar 07 22:03:27 +0000 2011",
+				"favourites_count": 868,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11294,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1401335216/hm100px_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401335216/hm100px_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/262353521/1398770126",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 479,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국은 코로나 처리는 선별진료소로 빼고 일반 병원은 코로나 안받음으로서 의료기관 확산방지와 더불어 다른 병 치료할 자원 온존을 하고 있는데 무슨 아무 추적도 안하다가 일반병원 응급실로 원인불상폐렴환자 몰려와 다른 병 치료할 의료 리소스도 전부 오염되서 망하는 방법을 하자고 있니? https://t.co/Fbg8Uej7dA"
+	},
+	{
 		"created_at": "Fri Mar 13 20:51:54 +0000 2020",
 		"id": 1238417401852473300,
 		"id_str": "1238568489532583936",
