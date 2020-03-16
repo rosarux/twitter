@@ -1,6 +1,608 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 15 14:33:01 +0000 2020",
+		"id": 1239140464919445500,
+		"id_str": "1239197918894030848",
+		"full_text": "@BBCPolitics @BBCNews I watched the South Korean Foreign Minister talk for 5 minutes, and wished she was the British Prime Minister.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCPolitics",
+					"name": "BBC Politics",
+					"id": 621533,
+					"id_str": "621533",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "BBCNews",
+					"name": "BBC News (UK)",
+					"id": 612473,
+					"id_str": "612473",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1239124226541596700,
+		"in_reply_to_status_id_str": "1239124226541596672",
+		"in_reply_to_user_id": 621533,
+		"in_reply_to_user_id_str": "621533",
+		"in_reply_to_screen_name": "BBCPolitics",
+		"user": {
+			"id": 49260507,
+			"id_str": "49260507",
+			"name": "The Gary",
+			"screen_name": "GaryAbbaFan",
+			"location": "",
+			"description": "Music, TV news and comedy, countryside, general laughs.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48,
+			"friends_count": 98,
+			"listed_count": 1,
+			"created_at": "Sun Jun 21 07:21:40 +0000 2009",
+			"favourites_count": 3818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995741977605033985/Em2nqeIN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995741977605033985/Em2nqeIN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49260507/1526238341",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 419,
+		"favorite_count": 946,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@BBCPolitics @BBCNews I watched the South Korean Foreign Minister talk for 5 minutes, and wished she was the British Prime Minister."
+	},
+	{
+		"created_at": "Sun Mar 15 12:08:54 +0000 2020",
+		"id": 1239134799484186600,
+		"id_str": "1239161647966478341",
+		"full_text": "'봉쇄' 깨지고 '마스크' 시들해지자 '진단키트'로 자국의 기술력까지 뭉개는 부지런함에는 두 손 두 발 다 들었다. ㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 303747971,
+			"id_str": "303747971",
+			"name": "궐(蹶)",
+			"screen_name": "copperdie",
+			"location": "ㆍ",
+			"description": "구석의 필부",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17695,
+			"friends_count": 2368,
+			"listed_count": 97,
+			"created_at": "Mon May 23 11:03:49 +0000 2011",
+			"favourites_count": 176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 108797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079515326054785024/Qtt0ly8u_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079515326054785024/Qtt0ly8u_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/303747971/1426120141",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 795,
+		"favorite_count": 500,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "'봉쇄' 깨지고 '마스크' 시들해지자 '진단키트'로 자국의 기술력까지 뭉개는 부지런함에는 두 손 두 발 다 들었다. ㅋㅋㅋ"
+	},
+	{
+		"created_at": "Sun Mar 15 11:47:31 +0000 2020",
+		"id": 1239027635549655000,
+		"id_str": "1239156270466076672",
+		"full_text": "지금 숫자가 낮아진다고 바로 경계를 풀면 제3파 제4파 오는 것임... 클러스터는 계속 나오고 있음. 특히 말 안 듣는 종교시설들이 제일 문제임",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1399735964,
+			"id_str": "1399735964",
+			"name": "츄군",
+			"screen_name": "chugun_real",
+			"location": "A Taxi Driver (2017)",
+			"description": "Panic by the number is the evidence of unpreparedness.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1061,
+			"friends_count": 92,
+			"listed_count": 18,
+			"created_at": "Fri May 03 13:23:31 +0000 2013",
+			"favourites_count": 5736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156417367473131520/OmeRsSkg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156417367473131520/OmeRsSkg_normal.png",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 289,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지금 숫자가 낮아진다고 바로 경계를 풀면 제3파 제4파 오는 것임... 클러스터는 계속 나오고 있음. 특히 말 안 듣는 종교시설들이 제일 문제임"
+	},
+	{
+		"created_at": "Sun Mar 15 09:50:47 +0000 2020",
+		"id": 1239121399765176300,
+		"id_str": "1239126891723816961",
+		"full_text": "#COVID19: \"Testing is central because that leads to early detection\"\n\nSouth Korean Foreign Minister Kang Kyung-wha explains how they’ve been tackling the #CoronavirusPandemic\n\n#Marr https://t.co/AJl63Em75M https://t.co/CbXjsASutD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "CoronavirusPandemic",
+					"indices": [
+						154,
+						174
+					]
+				},
+				{
+					"text": "Marr",
+					"indices": [
+						176,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AJl63Em75M",
+					"expanded_url": "http://bbc.in/38NGApD",
+					"display_url": "bbc.in/38NGApD",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1239120330674897000,
+					"id_str": "1239120330674896896",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1239120330674896896/img/9Kgi0j-BU_ezvgpD.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1239120330674896896/img/9Kgi0j-BU_ezvgpD.jpg",
+					"url": "https://t.co/CbXjsASutD",
+					"display_url": "pic.twitter.com/CbXjsASutD",
+					"expanded_url": "https://twitter.com/BBCPolitics/status/1239121399765176321/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239120330674897000,
+					"id_str": "1239120330674896896",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1239120330674896896/img/9Kgi0j-BU_ezvgpD.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1239120330674896896/img/9Kgi0j-BU_ezvgpD.jpg",
+					"url": "https://t.co/CbXjsASutD",
+					"display_url": "pic.twitter.com/CbXjsASutD",
+					"expanded_url": "https://twitter.com/BBCPolitics/status/1239121399765176321/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 73838,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1239120330674896896/vid/1280x720/eDWia3eyOUwHNCSo.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1239120330674896896/pl/F_wQoKYOF5KKB0mR.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1239120330674896896/vid/640x360/cgiTigjDmM2R6290.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1239120330674896896/vid/480x270/6LIndcrWbi6VLxmS.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "South Korean Foreign Minister on Covid-19",
+						"description": "Andrew Marr with papers, politics and culture: Most Sundays from 9am on BBC One #marr",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.bbc.co.uk/programmes/b0080bbs"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 621533,
+			"id_str": "621533",
+			"name": "BBC Politics",
+			"screen_name": "BBCPolitics",
+			"location": "London",
+			"description": "The best of the BBC's political coverage. Find us on Facebook too: https://t.co/acObBhqWpq",
+			"url": "https://t.co/TYcu9IVV2N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TYcu9IVV2N",
+							"expanded_url": "http://www.bbc.co.uk/politics",
+							"display_url": "bbc.co.uk/politics",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/acObBhqWpq",
+							"expanded_url": "https://www.facebook.com/BBCPolitics",
+							"display_url": "facebook.com/BBCPolitics",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 669244,
+			"friends_count": 300,
+			"listed_count": 8794,
+			"created_at": "Wed Jan 10 12:34:33 +0000 2007",
+			"favourites_count": 818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 94333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1150756359497015298/xXj2IfkW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150756359497015298/xXj2IfkW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/621533/1527070087",
+			"profile_link_color": "1F527B",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "5A5A5A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3575,
+		"favorite_count": 5306,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#COVID19: \"Testing is central because that leads to early detection\"\n\nSouth Korean Foreign Minister Kang Kyung-wha explains how they’ve been tackling the #CoronavirusPandemic\n\n#Marr https://t.co/AJl63Em75M https://t.co/CbXjsASutD"
+	},
+	{
+		"created_at": "Sun Mar 15 07:25:07 +0000 2020",
+		"id": 1239088445605048300,
+		"id_str": "1239090233825587203",
+		"full_text": "경제지들 원격진료 주 반대층이 의협이란 거 모르는구나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1184833233189388300,
+			"id_str": "1184833233189388289",
+			"name": "아기펭귄벨",
+			"screen_name": "babypengbell",
+			"location": "",
+			"description": "안녕하세요? 제가 돌아왔습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 106,
+			"listed_count": 2,
+			"created_at": "Thu Oct 17 14:07:15 +0000 2019",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184834881877987328/6zcI9xMH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184834881877987328/6zcI9xMH_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "경제지들 원격진료 주 반대층이 의협이란 거 모르는구나"
+	},
+	{
 		"created_at": "Sat Mar 14 14:56:09 +0000 2020",
 		"id": 1238841350952325000,
 		"id_str": "1238841350952325120",
