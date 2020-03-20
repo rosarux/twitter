@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 19 08:24:06 +0000 2020",
+		"id": 1240529731570692000,
+		"id_str": "1240554629710008320",
+		"full_text": "지금 진짜 우려할 건 같은 영남대병원 실험실에서 얼마나 많은 사람들이 샘플오염으로 인한 위양성 판정을 받았을지가 아닌가?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1240528262427578400,
+		"in_reply_to_status_id_str": "1240528262427578368",
+		"in_reply_to_user_id": 1027717303,
+		"in_reply_to_user_id_str": "1027717303",
+		"in_reply_to_screen_name": "shaindtwt",
+		"user": {
+			"id": 1027717303,
+			"id_str": "1027717303",
+			"name": "shaind",
+			"screen_name": "shaindtwt",
+			"location": "ROK",
+			"description": "Sicut Lilium inter Spinas sic Amica mea inter Filias.\n\n마음함 : 안경, 백합, 기타\n\n백쓰마 하지 마세요",
+			"url": "https://t.co/D7FksZZC6m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D7FksZZC6m",
+							"expanded_url": "http://shaind.egloos.com",
+							"display_url": "shaind.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 328,
+			"friends_count": 675,
+			"listed_count": 14,
+			"created_at": "Sat Dec 22 04:03:08 +0000 2012",
+			"favourites_count": 21850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/748429213623934976/fUxkZSZt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/748429213623934976/fUxkZSZt_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지금 진짜 우려할 건 같은 영남대병원 실험실에서 얼마나 많은 사람들이 샘플오염으로 인한 위양성 판정을 받았을지가 아닌가?"
+	},
+	{
+		"created_at": "Thu Mar 19 05:08:11 +0000 2020",
+		"id": 1240492953274953700,
+		"id_str": "1240505326450798592",
+		"full_text": "그러고보니 지금까지 대표적인 바이러스 전파 촉진자는 전염력이라는 과학적 상식을 무시하는 1) 광신 집단 2) 노동자 탄압 기업체인데, 둘 다 자신들의 물욕이 전염병 상황하고 별개의 일이라고 안이하게 본다는 공통점이 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48216244,
+			"id_str": "48216244",
+			"name": "Nam Myoung-Hee",
+			"screen_name": "worrynet",
+			"location": "Seoul, S. Korea",
+			"description": "Lecturer of Films/Fandom Study. The X-Files/Misha Collins/US TV Shows. I write books of US TV shows, and fanficion. 저서 '미치도록 드라마틱한 세계, 미드', '팬픽션의 이해'",
+			"url": "https://t.co/yDYjFtdZgO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yDYjFtdZgO",
+							"expanded_url": "http://www.worrynet.com",
+							"display_url": "worrynet.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2822,
+			"friends_count": 920,
+			"listed_count": 67,
+			"created_at": "Thu Jun 18 02:39:28 +0000 2009",
+			"favourites_count": 9611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 166089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956790931637678080/TWMFOeyw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956790931637678080/TWMFOeyw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48216244/1568522567",
+			"profile_link_color": "6D7BC2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFEDCC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그러고보니 지금까지 대표적인 바이러스 전파 촉진자는 전염력이라는 과학적 상식을 무시하는 1) 광신 집단 2) 노동자 탄압 기업체인데, 둘 다 자신들의 물욕이 전염병 상황하고 별개의 일이라고 안이하게 본다는 공통점이 있다."
+	},
+	{
+		"created_at": "Thu Mar 19 04:47:43 +0000 2020",
+		"id": 1240484900739809300,
+		"id_str": "1240500173723189248",
+		"full_text": "조선왕조 포함 재무 책임자중\n가장 돈을 많이 써봤다고 자랑한게\n멍박이때 강만수&lt;기재부&gt;장관인뎁쇼 https://t.co/wYb5t4LnVd https://t.co/6ZP05mZG0o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wYb5t4LnVd",
+					"expanded_url": "https://twitter.com/1dnflemf/status/1240460652281344000",
+					"display_url": "twitter.com/1dnflemf/statu…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1240484893731090400,
+					"id_str": "1240484893731090432",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/ETcWcEAUcAAddIg.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETcWcEAUcAAddIg.png",
+					"url": "https://t.co/6ZP05mZG0o",
+					"display_url": "pic.twitter.com/6ZP05mZG0o",
+					"expanded_url": "https://twitter.com/kbkgwyd/status/1240484900739809280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 397,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 397,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1240484893731090400,
+					"id_str": "1240484893731090432",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/ETcWcEAUcAAddIg.png",
+					"media_url_https": "https://pbs.twimg.com/media/ETcWcEAUcAAddIg.png",
+					"url": "https://t.co/6ZP05mZG0o",
+					"display_url": "pic.twitter.com/6ZP05mZG0o",
+					"expanded_url": "https://twitter.com/kbkgwyd/status/1240484900739809280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 375,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 397,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 397,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1734503390,
+			"id_str": "1734503390",
+			"name": "5G(오지)리",
+			"screen_name": "kbkgwyd",
+			"location": "",
+			"description": "깨시&승냥",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7104,
+			"friends_count": 441,
+			"listed_count": 30,
+			"created_at": "Fri Sep 06 08:47:03 +0000 2013",
+			"favourites_count": 1522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/836078918079811584/slJFrVuc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/836078918079811584/slJFrVuc_normal.jpg",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240460652281344000,
+		"quoted_status_id_str": "1240460652281344000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wYb5t4LnVd",
+			"expanded": "https://twitter.com/1dnflemf/status/1240460652281344000",
+			"display": "twitter.com/1dnflemf/statu…"
+		},
+		"retweet_count": 161,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "조선왕조 포함 재무 책임자중\n가장 돈을 많이 써봤다고 자랑한게\n멍박이때 강만수&lt;기재부&gt;장관인뎁쇼 https://t.co/wYb5t4LnVd https://t.co/6ZP05mZG0o"
+	},
+	{
 		"created_at": "Wed Mar 18 13:18:06 +0000 2020",
 		"id": 1240263302933926000,
 		"id_str": "1240266228762939393",
