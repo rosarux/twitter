@@ -1,6 +1,576 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 20 11:40:00 +0000 2020",
+		"id": 1240526289301155800,
+		"id_str": "1240966314358800385",
+		"full_text": "KBS 9시 뉴스 정연욱 앵커 \n\"지금 개신교의 행태는 어찌보면 신천지 보다 더 나쁘다. 백번 양보해서 최초 31번 환자와 신도들은 코로나 감염을 모르는 상태에서 저지른 잘못이라면 지금 개신교는 교회 예배 자체가 집단감염의 원인이라는 걸 너무 잘 알면서도 강행하고 있으니 더 나쁘다고 생각한다.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 111457242,
+			"id_str": "111457242",
+			"name": "보부상",
+			"screen_name": "uklondon21",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3042,
+			"friends_count": 395,
+			"listed_count": 20,
+			"created_at": "Fri Feb 05 00:29:56 +0000 2010",
+			"favourites_count": 79816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/706783380398997504/zgAbNfoI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/706783380398997504/zgAbNfoI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/111457242/1457345264",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4680,
+		"favorite_count": 2902,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "KBS 9시 뉴스 정연욱 앵커 \n\"지금 개신교의 행태는 어찌보면 신천지 보다 더 나쁘다. 백번 양보해서 최초 31번 환자와 신도들은 코로나 감염을 모르는 상태에서 저지른 잘못이라면 지금 개신교는 교회 예배 자체가 집단감염의 원인이라는 걸 너무 잘 알면서도 강행하고 있으니 더 나쁘다고 생각한다.\""
+	},
+	{
+		"created_at": "Fri Mar 20 11:38:49 +0000 2020",
+		"id": 1240593101468696600,
+		"id_str": "1240966020459724800",
+		"full_text": "정부가 통 크게 한 300조쯤 추경을 한다면 언론과 야당이 '대통령이 나라 살림 거덜낸다'라며 미친듯이 들고 일어날 것을 모를 리 없고 아마 본인도 거기 편승하지 싶은 사람이 '대통령 간이 작아서 문제다'라고 하는 걸 보면 참 세상 살기 쉽겠구나 싶다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 112715721,
+			"id_str": "112715721",
+			"name": "Rivian🇭🇰民主香港加油",
+			"screen_name": "Eolein",
+			"location": "Tokyo, Japan",
+			"description": "カバンちゃんを返して！",
+			"url": "https://t.co/Iy85hKmC3V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Iy85hKmC3V",
+							"expanded_url": "http://rivian.egloos.com",
+							"display_url": "rivian.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 647,
+			"friends_count": 375,
+			"listed_count": 19,
+			"created_at": "Tue Feb 09 13:28:54 +0000 2010",
+			"favourites_count": 25263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 89975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/685216077/icon14_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/685216077/icon14_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "정부가 통 크게 한 300조쯤 추경을 한다면 언론과 야당이 '대통령이 나라 살림 거덜낸다'라며 미친듯이 들고 일어날 것을 모를 리 없고 아마 본인도 거기 편승하지 싶은 사람이 '대통령 간이 작아서 문제다'라고 하는 걸 보면 참 세상 살기 쉽겠구나 싶다."
+	},
+	{
+		"created_at": "Fri Mar 20 11:13:56 +0000 2020",
+		"id": 1240546785723990000,
+		"id_str": "1240959756560285704",
+		"full_text": "https://t.co/tpNWfQz2xm\n\n치료비 안 주는 것도 아닌데 대체 왜 이럽니까? 의사양반들 진짜 뭐가 잘못돼서 맨날 억울충입니까? \n2018년 기준으로 전국민 평균월소득이 297만원일때 평균월급 1304만원짜리인 의사여러분 대체 뭐가 문젠데 이렇게 나오십니까?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tpNWfQz2xm",
+					"expanded_url": "https://twitter.com/ManeJung/status/1240368212207759366",
+					"display_url": "twitter.com/ManeJung/statu…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58181265,
+			"id_str": "58181265",
+			"name": "이비",
+			"screen_name": "_ibbie",
+			"location": "paraguay, asuncion",
+			"description": "플텍계 팔로워는 맞팔 안받으면 블언블함. RT가 동의인 건 아님 / T(O)RPG(gurps)/ 내 트윗은 나 외의 어느 누구의 뜻도 대변하지 않음",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1684,
+			"friends_count": 1987,
+			"listed_count": 18,
+			"created_at": "Sun Jul 19 11:51:16 +0000 2009",
+			"favourites_count": 47050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 204715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124344744220348416/JLexKpyS_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124344744220348416/JLexKpyS_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58181265/1533710770",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240368212207759400,
+		"quoted_status_id_str": "1240368212207759366",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tpNWfQz2xm",
+			"expanded": "https://twitter.com/ManeJung/status/1240368212207759366",
+			"display": "twitter.com/ManeJung/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 18 20:03:21 +0000 2020",
+			"id": 1240368212207759400,
+			"id_str": "1240368212207759366",
+			"full_text": "의료복지선진국처럼 보이기 위해 보건의료인을 갈아넣는 대한민국. https://t.co/ZyPLWFoOjf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZyPLWFoOjf",
+						"expanded_url": "https://twitter.com/stephen40610844/status/1240284191087972359",
+						"display_url": "twitter.com/stephen4061084…",
+						"indices": [
+							35,
+							58
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62247463,
+				"id_str": "62247463",
+				"name": "ㅁ ㅏ ㄴ ㅔ",
+				"screen_name": "ManeJung",
+				"location": "Planet Earth",
+				"description": "롯데모태신앙이라고는 하나 걍 널린 꼴빠 / 나쁘지 않은 Emergency Physician이 되기 위해 발버둥치는 중",
+				"url": "https://t.co/Lo0CQ51dTy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Lo0CQ51dTy",
+								"expanded_url": "http://manejung.com",
+								"display_url": "manejung.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2213,
+				"friends_count": 471,
+				"listed_count": 53,
+				"created_at": "Sun Aug 02 11:54:01 +0000 2009",
+				"favourites_count": 4487,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 47425,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1240748758062600193/YNvtqwpx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240748758062600193/YNvtqwpx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/62247463/1555680073",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F7DA93",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1240284191087972400,
+			"quoted_status_id_str": "1240284191087972359",
+			"quoted_status_permalink": {
+				"url": "https://t.co/ZyPLWFoOjf",
+				"expanded": "https://twitter.com/stephen40610844/status/1240284191087972359",
+				"display": "twitter.com/stephen4061084…"
+			},
+			"retweet_count": 298,
+			"favorite_count": 105,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 145,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/tpNWfQz2xm\n\n치료비 안 주는 것도 아닌데 대체 왜 이럽니까? 의사양반들 진짜 뭐가 잘못돼서 맨날 억울충입니까? \n2018년 기준으로 전국민 평균월소득이 297만원일때 평균월급 1304만원짜리인 의사여러분 대체 뭐가 문젠데 이렇게 나오십니까?"
+	},
+	{
+		"created_at": "Fri Mar 20 11:12:25 +0000 2020",
+		"id": 1240796042703949800,
+		"id_str": "1240959376409559040",
+		"full_text": "근본적인 품성에 얼마나 문제가 있고, 악질적인지를 보여주는 글의 전형. 당위적 문제를 들어, 구체적 노력을 폄하하고, 비열하게 조롱하는 이런 모습에서, 당파적 문제를 떠나 인성이 얼마나 하품인가를 확인하게 된다. https://t.co/LuW4OF8n9W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LuW4OF8n9W",
+					"expanded_url": "https://twitter.com/TheJihyeLee/status/1240500463625101312",
+					"display_url": "twitter.com/TheJihyeLee/st…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56719360,
+			"id_str": "56719360",
+			"name": "공부하는 사람",
+			"screen_name": "TextlabMax",
+			"location": "",
+			"description": "少年易老 學難成",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382,
+			"friends_count": 104,
+			"listed_count": 7,
+			"created_at": "Tue Jul 14 15:10:24 +0000 2009",
+			"favourites_count": 1641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875087802/max_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875087802/max_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56719360/1582958423",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240500463625101300,
+		"quoted_status_id_str": "1240500463625101312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LuW4OF8n9W",
+			"expanded": "https://twitter.com/TheJihyeLee/status/1240500463625101312",
+			"display": "twitter.com/TheJihyeLee/st…"
+		},
+		"retweet_count": 312,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "근본적인 품성에 얼마나 문제가 있고, 악질적인지를 보여주는 글의 전형. 당위적 문제를 들어, 구체적 노력을 폄하하고, 비열하게 조롱하는 이런 모습에서, 당파적 문제를 떠나 인성이 얼마나 하품인가를 확인하게 된다. https://t.co/LuW4OF8n9W"
+	},
+	{
+		"created_at": "Fri Mar 20 11:05:32 +0000 2020",
+		"id": 1240866284352548900,
+		"id_str": "1240957644459798530",
+		"full_text": "심부름 센터 1순위 섭외대상이 공익이란 말이 돌 정도임. 행정기관에 만연해 있는 업무 떠넘기기를 이번 기회에 근절하고, 가능하다면 사회복무요원의 취지를 살려 복지 분야 등에서만 일하게 하고 행정기관은 공무원을 더 충원해야 한다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1240865816515620900,
+		"in_reply_to_status_id_str": "1240865816515620865",
+		"in_reply_to_user_id": 758910740690448400,
+		"in_reply_to_user_id_str": "758910740690448389",
+		"in_reply_to_screen_name": "malokhem",
+		"user": {
+			"id": 758910740690448400,
+			"id_str": "758910740690448389",
+			"name": "벽옥",
+			"screen_name": "jaspachates",
+			"location": "",
+			"description": "눈 깜박하면 어른이 될거예요",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 271,
+			"friends_count": 135,
+			"listed_count": 2,
+			"created_at": "Fri Jul 29 06:23:15 +0000 2016",
+			"favourites_count": 5164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 43125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240330561346043915/jUqSgsyS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240330561346043915/jUqSgsyS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/758910740690448389/1582078531",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1514,
+		"favorite_count": 256,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "심부름 센터 1순위 섭외대상이 공익이란 말이 돌 정도임. 행정기관에 만연해 있는 업무 떠넘기기를 이번 기회에 근절하고, 가능하다면 사회복무요원의 취지를 살려 복지 분야 등에서만 일하게 하고 행정기관은 공무원을 더 충원해야 한다."
+	},
+	{
 		"created_at": "Thu Mar 19 08:24:06 +0000 2020",
 		"id": 1240529731570692000,
 		"id_str": "1240554629710008320",
