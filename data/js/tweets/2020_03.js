@@ -1,6 +1,1099 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 22 14:07:50 +0000 2020",
+		"id": 1241691095924240400,
+		"id_str": "1241728294384316417",
+		"full_text": "マヨルカ島の警察が外出自粛している皆様にお礼のコンサート。\nなんてステキな警察！ https://t.co/nR741EWhgI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241435159666311200,
+					"id_str": "1241435159666311170",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241435159666311170/pu/img/DIe9iNd1VgZoX5oI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241435159666311170/pu/img/DIe9iNd1VgZoX5oI.jpg",
+					"url": "https://t.co/nR741EWhgI",
+					"display_url": "pic.twitter.com/nR741EWhgI",
+					"expanded_url": "https://twitter.com/adamarch83/status/1241435230797533184/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1241435230797533200,
+					"source_status_id_str": "1241435230797533184",
+					"source_user_id": 137828006,
+					"source_user_id_str": "137828006"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241435159666311200,
+					"id_str": "1241435159666311170",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241435159666311170/pu/img/DIe9iNd1VgZoX5oI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241435159666311170/pu/img/DIe9iNd1VgZoX5oI.jpg",
+					"url": "https://t.co/nR741EWhgI",
+					"display_url": "pic.twitter.com/nR741EWhgI",
+					"expanded_url": "https://twitter.com/adamarch83/status/1241435230797533184/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 352,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1241435230797533200,
+					"source_status_id_str": "1241435230797533184",
+					"source_user_id": 137828006,
+					"source_user_id_str": "137828006",
+					"video_info": {
+						"aspect_ratio": [
+							11,
+							20
+						],
+						"duration_millis": 99593,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241435159666311170/pu/vid/352x640/zMlSr2uAhAfgV7Ai.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241435159666311170/pu/vid/320x580/nCClMbkCXju7DSxf.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1241435159666311170/pu/pl/UiSNpXLZ4DdVxDA5.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 137828006,
+							"id_str": "137828006",
+							"name": "Ada Jo. March",
+							"screen_name": "adamarch83",
+							"location": "Ahora mismo estoy aquí 👉🏻🌍",
+							"description": "Parlanchina a tiempo parcial. Confinada a jornada completa. Vengo a Twitter para saber qué pensamos. Todos.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 723,
+							"friends_count": 899,
+							"listed_count": 5,
+							"created_at": "Tue Apr 27 22:03:33 +0000 2010",
+							"favourites_count": 34795,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 35141,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": true,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1241354406685270017/96T0dDm9_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241354406685270017/96T0dDm9_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/137828006/1563033847",
+							"profile_link_color": "1B95E0",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116460955,
+			"id_str": "116460955",
+			"name": "Clara Kreft 🇪🇺",
+			"screen_name": "808Towns",
+			"location": "やーぱん",
+			"description": "東京の街角探検が大好きな在日ドイツ人女性♪ 他に好き：映画、読書、通訳、落語、鯛焼き食べ比べ、再生可能エネルギー、現代美術、擬音語、人間観察、チョコミント、白アスパラガス。地震と津波は大嫌い。",
+			"url": "https://t.co/KaC0ly1gDn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KaC0ly1gDn",
+							"expanded_url": "http://eighthundredandeighttowns.typepad.com/808-towns/",
+							"display_url": "eighthundredandeighttowns.typepad.com/808-towns/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24512,
+			"friends_count": 4705,
+			"listed_count": 795,
+			"created_at": "Mon Feb 22 14:48:27 +0000 2010",
+			"favourites_count": 11722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 94842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419498120/kurara1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419498120/kurara1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116460955/1574344296",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1364,
+		"favorite_count": 3478,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "マヨルカ島の警察が外出自粛している皆様にお礼のコンサート。\nなんてステキな警察！ https://t.co/nR741EWhgI"
+	},
+	{
+		"created_at": "Sun Mar 22 12:33:51 +0000 2020",
+		"id": 1241659706982060000,
+		"id_str": "1241704641819103232",
+		"full_text": "N번방에 대해 분노하고 더럽고 혐오스럽고 강력 처벌해달라는 글을 올리면 바로바로 트위터고 인스타고 팔로워가 줄어든다. 그래 이게 불편하고 이해가 안되면 제발 좀 꺼져줘.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 122708475,
+			"id_str": "122708475",
+			"name": "봉현",
+			"screen_name": "bonhkr",
+			"location": "",
+			"description": "글 쓰고 그림 그립니다. 베개는 필요없어,네가 있으니까 / 나는 아주,예쁘게 웃었다 / 여백이 / 오늘 내가 마음에 든다 : 4권의 에세이를 냈습니다. / janeannnet@gmail.com",
+			"url": "https://t.co/aYZwwGmY83",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aYZwwGmY83",
+							"expanded_url": "http://m.blog.naver.com/janeannnet/",
+							"display_url": "m.blog.naver.com/janeannnet/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14755,
+			"friends_count": 1002,
+			"listed_count": 162,
+			"created_at": "Sat Mar 13 16:26:31 +0000 2010",
+			"favourites_count": 6491,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224042534332092416/xwRSLBXW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224042534332092416/xwRSLBXW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/122708475/1580669241",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 797,
+		"favorite_count": 633,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "N번방에 대해 분노하고 더럽고 혐오스럽고 강력 처벌해달라는 글을 올리면 바로바로 트위터고 인스타고 팔로워가 줄어든다. 그래 이게 불편하고 이해가 안되면 제발 좀 꺼져줘."
+	},
+	{
+		"created_at": "Sun Mar 22 10:05:24 +0000 2020",
+		"id": 1241657960985591800,
+		"id_str": "1241667284629774337",
+		"full_text": "그 전까지는 해외에 서버가 있으면 진짜 안되는 줄 알았잖아. 누군가 의지를 갖고 하다 보면 방법이 보이는 걸. 결국, 수사 의지의 문제였음. 그리고, 의지를 갖고 하려는 사람들의 경험이 축적되는 거 정말 중요하다. 매뉴얼도 만든다고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1241656469247766500,
+		"in_reply_to_status_id_str": "1241656469247766528",
+		"in_reply_to_user_id": 126124997,
+		"in_reply_to_user_id_str": "126124997",
+		"in_reply_to_screen_name": "baxter033",
+		"user": {
+			"id": 126124997,
+			"id_str": "126124997",
+			"name": "백스터",
+			"screen_name": "baxter033",
+			"location": "",
+			"description": "나는 언제나 내 편입니다.\n(※ 야구 폭트 주의)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1224,
+			"friends_count": 532,
+			"listed_count": 17,
+			"created_at": "Wed Mar 24 22:35:39 +0000 2010",
+			"favourites_count": 5797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6F8A6D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094016933203070977/Vc2NrIfM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094016933203070977/Vc2NrIfM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126124997/1549669293",
+			"profile_link_color": "A84351",
+			"profile_sidebar_border_color": "C7C797",
+			"profile_sidebar_fill_color": "F0F0BB",
+			"profile_text_color": "343D30",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 614,
+		"favorite_count": 252,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그 전까지는 해외에 서버가 있으면 진짜 안되는 줄 알았잖아. 누군가 의지를 갖고 하다 보면 방법이 보이는 걸. 결국, 수사 의지의 문제였음. 그리고, 의지를 갖고 하려는 사람들의 경험이 축적되는 거 정말 중요하다. 매뉴얼도 만든다고."
+	},
+	{
+		"created_at": "Sun Mar 22 08:59:31 +0000 2020",
+		"id": 1241543287879557000,
+		"id_str": "1241650703854006274",
+		"full_text": "보유세가 부담스러운 주택소유자님들은 여지껏 해왔던 일을 반대로 해보세요. 다주택자는 주택을 매각하고, 1주택자라면 어느 가격 이상으로 매각못하게 가격담합의 방향을 바꾸고, 지역사회와 임대주택 주민과도 차별없이 잘 지내고. 그러면 님들 좋아하는 시장이 보유세 부담을 완화해 줄 걸?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1241539218922287000,
+		"in_reply_to_status_id_str": "1241539218922287106",
+		"in_reply_to_user_id": 298358726,
+		"in_reply_to_user_id_str": "298358726",
+		"in_reply_to_screen_name": "rebelofreversal",
+		"user": {
+			"id": 298358726,
+			"id_str": "298358726",
+			"name": "역전의 역적",
+			"screen_name": "rebelofreversal",
+			"location": "",
+			"description": "#민주묘총 #공냥당",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 847,
+			"friends_count": 904,
+			"listed_count": 16,
+			"created_at": "Sat May 14 05:23:17 +0000 2011",
+			"favourites_count": 9479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 186396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192213348508549121/o3Ff88cq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192213348508549121/o3Ff88cq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/298358726/1502902416",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 163,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "보유세가 부담스러운 주택소유자님들은 여지껏 해왔던 일을 반대로 해보세요. 다주택자는 주택을 매각하고, 1주택자라면 어느 가격 이상으로 매각못하게 가격담합의 방향을 바꾸고, 지역사회와 임대주택 주민과도 차별없이 잘 지내고. 그러면 님들 좋아하는 시장이 보유세 부담을 완화해 줄 걸?"
+	},
+	{
+		"created_at": "Sun Mar 22 05:26:15 +0000 2020",
+		"id": 1241539413642866700,
+		"id_str": "1241597034596978688",
+		"full_text": "Scuffle with police as Seoul's Sarang Jeil Church and its mainly elderly followers insist on holding worship services this morning despite orders not to. They are adamant that the right to worship is an inalienable right given to them by God.\n\nhttps://t.co/bnqse61glR https://t.co/kqSq4c9GOB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bnqse61glR",
+					"expanded_url": "https://www.youtube.com/watch?v=8Rg6vnLPmv0",
+					"display_url": "youtube.com/watch?v=8Rg6vn…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1241537572146299000,
+					"id_str": "1241537572146298880",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241537572146298880/pu/img/oFY_kw8o9dM07xaJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241537572146298880/pu/img/oFY_kw8o9dM07xaJ.jpg",
+					"url": "https://t.co/kqSq4c9GOB",
+					"display_url": "pic.twitter.com/kqSq4c9GOB",
+					"expanded_url": "https://twitter.com/koryodynasty/status/1241539413642866688/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 944,
+							"h": 524,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 944,
+							"h": 524,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241537572146299000,
+					"id_str": "1241537572146298880",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241537572146298880/pu/img/oFY_kw8o9dM07xaJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241537572146298880/pu/img/oFY_kw8o9dM07xaJ.jpg",
+					"url": "https://t.co/kqSq4c9GOB",
+					"display_url": "pic.twitter.com/kqSq4c9GOB",
+					"expanded_url": "https://twitter.com/koryodynasty/status/1241539413642866688/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 944,
+							"h": 524,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 377,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 944,
+							"h": 524,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							236,
+							131
+						],
+						"duration_millis": 44967,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241537572146298880/pu/vid/486x270/I8pWK-PtjAmK5NCQ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1241537572146298880/pu/pl/IZQNy5eePN5_tg8x.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241537572146298880/pu/vid/944x524/-xrcGMadEgGmcX4U.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241537572146298880/pu/vid/648x360/X0F43YjdG4cKyexE.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155488031,
+			"id_str": "155488031",
+			"name": "Raphael Rashid",
+			"screen_name": "koryodynasty",
+			"location": "Seoul, Republic of Korea",
+			"description": "Seoul-based freelance journo & @KoreaExpose co-founder. Formerly @EdelmanPR 📧 raphael [at] https://t.co/fLY5GmQEoi 🇬🇧🇫🇷🇧🇩🇰🇷 프리랜서 기자 | 서울 거주",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fLY5GmQEoi",
+							"expanded_url": "http://rashid.kr",
+							"display_url": "rashid.kr",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10319,
+			"friends_count": 721,
+			"listed_count": 187,
+			"created_at": "Mon Jun 14 08:04:07 +0000 2010",
+			"favourites_count": 13771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223120496654311425/Vq3cF2OJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223120496654311425/Vq3cF2OJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155488031/1581572990",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 947,
+		"favorite_count": 626,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Scuffle with police as Seoul's Sarang Jeil Church and its mainly elderly followers insist on holding worship services this morning despite orders not to. They are adamant that the right to worship is an inalienable right given to them by God.\n\nhttps://t.co/bnqse61glR https://t.co/kqSq4c9GOB"
+	},
+	{
+		"created_at": "Sun Mar 22 05:14:03 +0000 2020",
+		"id": 1241586795206160400,
+		"id_str": "1241593964303507456",
+		"full_text": "노환규는 기모란 교수를 걸고넘어지네. 그걸 또 좋다고 받아들이는 이가 있고. 정파 논리에 눈이 멀면 저렇게 된다. https://t.co/Z7anGRtkg4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z7anGRtkg4",
+					"expanded_url": "https://twitter.com/smithers0011/status/1241324731124420609",
+					"display_url": "twitter.com/smithers0011/s…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39013508,
+			"id_str": "39013508",
+			"name": "Mann.",
+			"screen_name": "platypus_mann",
+			"location": "",
+			"description": "MD, PhDing. 의대를 졸업하고 대학원에서 의학의 역사를 전공하고 있습니다. 의학 지식이 사회 속에서 생성되고 작동하는 과정을 공부하고 가르칩니다. seungmann.here@gmail.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2131,
+			"friends_count": 397,
+			"listed_count": 0,
+			"created_at": "Sun May 10 07:17:51 +0000 2009",
+			"favourites_count": 4934,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184346290357821440/lHj4PnF1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184346290357821440/lHj4PnF1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39013508/1571205156",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1241324731124420600,
+		"quoted_status_id_str": "1241324731124420609",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z7anGRtkg4",
+			"expanded": "https://twitter.com/smithers0011/status/1241324731124420609",
+			"display": "twitter.com/smithers0011/s…"
+		},
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노환규는 기모란 교수를 걸고넘어지네. 그걸 또 좋다고 받아들이는 이가 있고. 정파 논리에 눈이 멀면 저렇게 된다. https://t.co/Z7anGRtkg4"
+	},
+	{
+		"created_at": "Sun Mar 22 04:21:57 +0000 2020",
+		"id": 1241565728349675500,
+		"id_str": "1241580854477901824",
+		"full_text": "막줄의 \"오너 지능 공시 의무화하라\"가 너무 뼈아프게 느껴진다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1081075396836126700,
+			"id_str": "1081075396836126720",
+			"name": "Anarchy의 투자계정",
+			"screen_name": "Anarchy_Quant",
+			"location": "",
+			"description": "https://t.co/WEgUYRQG8X / 간간히 금융 관련 썰을 풉니다 / 주식,원자재,채권 등에 투자하려 노력 중 / 제 투자방식이 여러분의 투자수익률을 보장해드리지 않습니다. / 적게 잃고 적게 벌면서 오래가자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WEgUYRQG8X",
+							"expanded_url": "https://anarchykr-quant.tistory.com",
+							"display_url": "anarchykr-quant.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 945,
+			"friends_count": 0,
+			"listed_count": 22,
+			"created_at": "Fri Jan 04 06:30:34 +0000 2019",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081075685836214273/cHgzJ95L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081075685836214273/cHgzJ95L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1081075396836126720/1546583539",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "막줄의 \"오너 지능 공시 의무화하라\"가 너무 뼈아프게 느껴진다"
+	},
+	{
+		"created_at": "Sun Mar 22 03:59:36 +0000 2020",
+		"id": 1241571920765583400,
+		"id_str": "1241575227395469312",
+		"full_text": "いいなこれ。気に入った。 https://t.co/PiCBoX7tlx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241571912251138000,
+					"id_str": "1241571912251138048",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/ETrzE3jU4AAk3ur.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETrzE3jU4AAk3ur.jpg",
+					"url": "https://t.co/PiCBoX7tlx",
+					"display_url": "pic.twitter.com/PiCBoX7tlx",
+					"expanded_url": "https://twitter.com/yutakatheblues/status/1241571920765583361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 317,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 317,
+							"h": 368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 317,
+							"h": 368,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241571912251138000,
+					"id_str": "1241571912251138048",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/ETrzE3jU4AAk3ur.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETrzE3jU4AAk3ur.jpg",
+					"url": "https://t.co/PiCBoX7tlx",
+					"display_url": "pic.twitter.com/PiCBoX7tlx",
+					"expanded_url": "https://twitter.com/yutakatheblues/status/1241571920765583361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 317,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 317,
+							"h": 368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 317,
+							"h": 368,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1479886140,
+			"id_str": "1479886140",
+			"name": "YUTAKA #ANTIFA",
+			"screen_name": "yutakatheblues",
+			"location": "ryukyu",
+			"description": "Uchinanchu.Tweeting in English & Japanese From Okinawa.Let's Talk About Various Things together,「情けは味方、讎は敵」琉球保守派",
+			"url": "https://t.co/hmhtkAJZqC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hmhtkAJZqC",
+							"expanded_url": "http://english.ryukyushimpo.jp",
+							"display_url": "english.ryukyushimpo.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1980,
+			"friends_count": 5001,
+			"listed_count": 89,
+			"created_at": "Mon Jun 03 15:00:27 +0000 2013",
+			"favourites_count": 16609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 144041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/417687100947828736/1V3j0KgI_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/417687100947828736/1V3j0KgI_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1479886140/1509598276",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "いいなこれ。気に入った。 https://t.co/PiCBoX7tlx"
+	},
+	{
 		"created_at": "Sat Mar 21 10:12:51 +0000 2020",
 		"id": 1241297147649122300,
 		"id_str": "1241306772339482624",
