@@ -1,6 +1,106 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 23 21:57:06 +0000 2020",
+		"id": 1241663263013613600,
+		"id_str": "1242208776490323968",
+		"full_text": "아줌마라는 워딩의 여혐요소를 지적하게 앞서서 여성인권 이야기하면서 남인순 의원 모른다는건 그냥 여성인권에 관심없었다는 고백 아닌가... https://t.co/EgfkWzb88A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EgfkWzb88A",
+					"expanded_url": "https://twitter.com/RgxTkhjc8yQ7pTc/status/1241621986201047042?s=19",
+					"display_url": "twitter.com/RgxTkhjc8yQ7pT…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 84485626,
+			"id_str": "84485626",
+			"name": "(இдஇ )",
+			"screen_name": "vilnim",
+			"location": "Azeroth",
+			"description": "WoW/ Horde /Marvel / FEMINIST ※ 최신 코믹스,영화,게임 스포일러 싫어합니다 / 스캔본 업로드 혹은 하야바레 언급 계정 블락",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 702,
+			"friends_count": 214,
+			"listed_count": 19,
+			"created_at": "Fri Oct 23 02:26:55 +0000 2009",
+			"favourites_count": 25819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 58867,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/750174121825296388/Z_RhttFw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/750174121825296388/Z_RhttFw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/84485626/1394513766",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1241621986201047000,
+		"quoted_status_id_str": "1241621986201047042",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EgfkWzb88A",
+			"expanded": "https://twitter.com/RgxTkhjc8yQ7pTc/status/1241621986201047042?s=19",
+			"display": "twitter.com/RgxTkhjc8yQ7pT…"
+		},
+		"retweet_count": 34,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아줌마라는 워딩의 여혐요소를 지적하게 앞서서 여성인권 이야기하면서 남인순 의원 모른다는건 그냥 여성인권에 관심없었다는 고백 아닌가... https://t.co/EgfkWzb88A"
+	},
+	{
 		"created_at": "Sun Mar 22 14:07:50 +0000 2020",
 		"id": 1241691095924240400,
 		"id_str": "1241728294384316417",
