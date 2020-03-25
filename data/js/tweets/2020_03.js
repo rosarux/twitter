@@ -1,6 +1,540 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 24 14:05:36 +0000 2020",
+		"id": 1242245673472450600,
+		"id_str": "1242452507348983809",
+		"full_text": "그럼 검찰이 이 사건들을 수사하는 데 있어서 대통령이 미리 검찰이 내놓아야 하는 수사 결과를 정해주기라도 했어야 한다는 건가? 그렇게 했다면 또 행정부의 월권 행위이자 검찰권력의 사유화라고 욕했을 거면서.\n\n답답한 마음은 십분 이해하나, 그 분노의 방향이 정확하지 않으면 사회 진보는 없다. https://t.co/zCsP3nPUf6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zCsP3nPUf6",
+					"expanded_url": "https://twitter.com/rere_Linnea/status/1242029913890152450",
+					"display_url": "twitter.com/rere_Linnea/st…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 861912852990279700,
+			"id_str": "861912852990279680",
+			"name": "Work Social",
+			"screen_name": "WorkSocial1",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1317,
+			"friends_count": 191,
+			"listed_count": 13,
+			"created_at": "Tue May 09 11:56:52 +0000 2017",
+			"favourites_count": 7463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129431565392650240/YHDRdVY-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129431565392650240/YHDRdVY-_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/861912852990279680/1558112744",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1242029913890152400,
+		"quoted_status_id_str": "1242029913890152450",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zCsP3nPUf6",
+			"expanded": "https://twitter.com/rere_Linnea/status/1242029913890152450",
+			"display": "twitter.com/rere_Linnea/st…"
+		},
+		"retweet_count": 207,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그럼 검찰이 이 사건들을 수사하는 데 있어서 대통령이 미리 검찰이 내놓아야 하는 수사 결과를 정해주기라도 했어야 한다는 건가? 그렇게 했다면 또 행정부의 월권 행위이자 검찰권력의 사유화라고 욕했을 거면서.\n\n답답한 마음은 십분 이해하나, 그 분노의 방향이 정확하지 않으면 사회 진보는 없다. https://t.co/zCsP3nPUf6"
+	},
+	{
+		"created_at": "Tue Mar 24 11:51:30 +0000 2020",
+		"id": 1242404753964859400,
+		"id_str": "1242418762197827584",
+		"full_text": "いやあ、今日の沖縄はドライブ日和だったなぁ。\n\n#沖縄旅行 #イマソラ #ドライブ https://t.co/q2mbTfWhJM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "沖縄旅行",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "イマソラ",
+					"indices": [
+						30,
+						35
+					]
+				},
+				{
+					"text": "ドライブ",
+					"indices": [
+						36,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1242404711635943400,
+					"id_str": "1242404711635943424",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242404711635943424/pu/img/Ox1UvFDKpBS0_hq5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242404711635943424/pu/img/Ox1UvFDKpBS0_hq5.jpg",
+					"url": "https://t.co/q2mbTfWhJM",
+					"display_url": "pic.twitter.com/q2mbTfWhJM",
+					"expanded_url": "https://twitter.com/yskemoto/status/1242404753964859392/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242404711635943400,
+					"id_str": "1242404711635943424",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242404711635943424/pu/img/Ox1UvFDKpBS0_hq5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242404711635943424/pu/img/Ox1UvFDKpBS0_hq5.jpg",
+					"url": "https://t.co/q2mbTfWhJM",
+					"display_url": "pic.twitter.com/q2mbTfWhJM",
+					"expanded_url": "https://twitter.com/yskemoto/status/1242404753964859392/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 6898,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1242404711635943424/pu/vid/720x1280/GV3CZ0b_M_-4f7NT.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1242404711635943424/pu/vid/320x568/oerEZJutbKv8qUgU.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1242404711635943424/pu/pl/Yn-MuhSXK1pBPZ0Q.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1242404711635943424/pu/vid/360x640/GrBpEUeWsvs2fEN-.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 137356844,
+			"id_str": "137356844",
+			"name": "江本祐介 |tinto＊tinto",
+			"screen_name": "yskemoto",
+			"location": "横浜・東京 ✈︎ 沖縄",
+			"description": "合同会社ひとつやどおきなわ代表。沖縄と子育てとtinto＊tintoの宿経営のこと。結婚と同時に沖縄に移住し14年。夫婦で始めた小さな宿を10年目に法人化。2児(10歳♂6歳♂)の父。名護・今帰仁の2拠点暮らし。横浜出身→早稲田大→ソフトバンク→沖縄旅行メディア Webマーケ→@tintotinto_開業。",
+			"url": "https://t.co/kfAoEDOkyo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kfAoEDOkyo",
+							"expanded_url": "https://tintotinto.com/",
+							"display_url": "tintotinto.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1740,
+			"friends_count": 504,
+			"listed_count": 54,
+			"created_at": "Mon Apr 26 14:33:43 +0000 2010",
+			"favourites_count": 5592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E2ECF0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963024956463304705/zBIVVX94_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963024956463304705/zBIVVX94_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/137356844/1407993371",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "ddb61e1317166938",
+			"url": "https://api.twitter.com/1.1/geo/id/ddb61e1317166938.json",
+			"place_type": "city",
+			"name": "名護市",
+			"full_name": "沖縄 名護市",
+			"country_code": "JP",
+			"country": "日本",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.89829,
+							26.505356
+						],
+						[
+							128.151096,
+							26.505356
+						],
+						[
+							128.151096,
+							26.687086
+						],
+						[
+							127.89829,
+							26.687086
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "いやあ、今日の沖縄はドライブ日和だったなぁ。\n\n#沖縄旅行 #イマソラ #ドライブ https://t.co/q2mbTfWhJM"
+	},
+	{
+		"created_at": "Tue Mar 24 05:03:54 +0000 2020",
+		"id": 1242235584359231500,
+		"id_str": "1242316183925227520",
+		"full_text": "やんばるは新緑の季。 https://t.co/n1DmpiloLf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1242235574997549000,
+					"id_str": "1242235574997549057",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/ET1OrH8VAAEq5gb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET1OrH8VAAEq5gb.jpg",
+					"url": "https://t.co/n1DmpiloLf",
+					"display_url": "pic.twitter.com/n1DmpiloLf",
+					"expanded_url": "https://twitter.com/u_ideaninben/status/1242235584359231488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1616,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242235574997549000,
+					"id_str": "1242235574997549057",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/ET1OrH8VAAEq5gb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET1OrH8VAAEq5gb.jpg",
+					"url": "https://t.co/n1DmpiloLf",
+					"display_url": "pic.twitter.com/n1DmpiloLf",
+					"expanded_url": "https://twitter.com/u_ideaninben/status/1242235584359231488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1616,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 129035158,
+			"id_str": "129035158",
+			"name": "くろかわゆうこ",
+			"screen_name": "u_ideaninben",
+			"location": "沖縄県読谷村",
+			"description": "「聴く」「考える」そして「伝える」のが仕事。パンフレットやパッケージの企画制作、編集、執筆などを承る事務所「アイデアにんべん」をふたりで運営しています。2019年12月、共同制作した『沖縄島建築』が出版されました。https://www.fhttps://www.facebook.com/yuko.kurokawa",
+			"url": "https://t.co/yzIewdCfV0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yzIewdCfV0",
+							"expanded_url": "http://idea-ninben.com",
+							"display_url": "idea-ninben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1439,
+			"friends_count": 550,
+			"listed_count": 77,
+			"created_at": "Sat Apr 03 00:34:29 +0000 2010",
+			"favourites_count": 271,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178970286542032896/JrEBKgMB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178970286542032896/JrEBKgMB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/129035158/1569923396",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "やんばるは新緑の季。 https://t.co/n1DmpiloLf"
+	},
+	{
 		"created_at": "Mon Mar 23 21:57:06 +0000 2020",
 		"id": 1241663263013613600,
 		"id_str": "1242208776490323968",
