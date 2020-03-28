@@ -1,6 +1,106 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 27 10:53:52 +0000 2020",
+		"id": 1243488459257335800,
+		"id_str": "1243491422503911424",
+		"full_text": "구청장 딸이야? https://t.co/4rZQh8Nm5g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4rZQh8Nm5g",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1243466270986489856",
+					"display_url": "twitter.com/yonhaptweet/st…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 151696712,
+			"id_str": "151696712",
+			"name": "浮遊物",
+			"screen_name": "banks_ite",
+			"location": "",
+			"description": "전문허송세월러 \n\n하는일 없이 세월을 보냅니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 343,
+			"friends_count": 305,
+			"listed_count": 10,
+			"created_at": "Fri Jun 04 01:23:44 +0000 2010",
+			"favourites_count": 4879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976848193450401798/gefoopDT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976848193450401798/gefoopDT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/151696712/1435404115",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "ACDED6",
+			"profile_sidebar_fill_color": "ACDED6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1243466270986489900,
+		"quoted_status_id_str": "1243466270986489856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4rZQh8Nm5g",
+			"expanded": "https://twitter.com/yonhaptweet/status/1243466270986489856",
+			"display": "twitter.com/yonhaptweet/st…"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "구청장 딸이야? https://t.co/4rZQh8Nm5g"
+	},
+	{
 		"created_at": "Thu Mar 26 11:51:37 +0000 2020",
 		"id": 1243142945575825400,
 		"id_str": "1243143566475448321",
