@@ -1,6 +1,929 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 30 23:10:19 +0000 2020",
+		"id": 1244453313153609700,
+		"id_str": "1244763919979130880",
+		"full_text": "시무라상의 얘기를 듣자마자 멍해서 있는데,\n또 하나 날아온건 일본 대학 다닐당시 교수님의 양성반응 소식. 그리고 10분도 지나지않아 날아온 부고장.\n\n일본애들보다 외국인 제자가 더 많던 교수님의 장례식에 참여할수있는 제자는 아무도 없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1048073854306807800,
+			"id_str": "1048073854306807808",
+			"name": "smallpark_sh",
+			"screen_name": "smallparkk",
+			"location": "",
+			"description": "#아라시 #嵐 #성인 #올라운더 이지만 최풍은 ❤💙 X 💚💛\n#연성은 포타에서 진행합니다 \n#５人で嵐  \n#5 is treasure number\n당분간 아라시가 아닌 이야기가 많이 나올 예정입니다.\n편하게 블블/언팔 뭐든 하셔도 OK.\n💙❤💚💛💜 fan accounts",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 380,
+			"listed_count": 0,
+			"created_at": "Fri Oct 05 04:54:13 +0000 2018",
+			"favourites_count": 10599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216792984751992832/mCWo3XPP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216792984751992832/mCWo3XPP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1048073854306807808/1578941029",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 894,
+		"favorite_count": 683,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "시무라상의 얘기를 듣자마자 멍해서 있는데,\n또 하나 날아온건 일본 대학 다닐당시 교수님의 양성반응 소식. 그리고 10분도 지나지않아 날아온 부고장.\n\n일본애들보다 외국인 제자가 더 많던 교수님의 장례식에 참여할수있는 제자는 아무도 없다."
+	},
+	{
+		"created_at": "Mon Mar 30 23:09:54 +0000 2020",
+		"id": 1244617882786582500,
+		"id_str": "1244763812915544064",
+		"full_text": "의협은 꾸준히 의료인력 과잉이라고 말해 왔는데 이제 와서 갈려 나간다고 비판하면 뭐 믿어줄 수가 있나...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/bkAeD9tAxc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bkAeD9tAxc",
+							"expanded_url": "http://cfr0g.wordpress.com",
+							"display_url": "cfr0g.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4745,
+			"friends_count": 160,
+			"listed_count": 151,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 207,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "의협은 꾸준히 의료인력 과잉이라고 말해 왔는데 이제 와서 갈려 나간다고 비판하면 뭐 믿어줄 수가 있나..."
+	},
+	{
+		"created_at": "Mon Mar 30 13:31:48 +0000 2020",
+		"id": 1244242737169174500,
+		"id_str": "1244618332268924931",
+		"full_text": "그렇다. 바이러스가 무차별적으로 국경을 넘는다는 건 너무 나이브한 말, 바이러스는 몸에서 몸으로, 국경을 넘나드는 \"특정한\" 신체와 \"특정한\" 사람들의 자유를 타고 움직인다. 이 와중에도 자신은 마음대로 움직여도 된다고 믿는 사람들에게 하고 싶은 말.  https://t.co/o8DHSJeYDQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o8DHSJeYDQ",
+					"expanded_url": "http://somatosphere.net/forumpost/border-promiscuity-racialized-blame/",
+					"display_url": "somatosphere.net/forumpost/bord…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1244239277405253600,
+		"in_reply_to_status_id_str": "1244239277405253636",
+		"in_reply_to_user_id": 1111539072281927700,
+		"in_reply_to_user_id_str": "1111539072281927681",
+		"in_reply_to_screen_name": "pulaukuu",
+		"user": {
+			"id": 1111539072281927700,
+			"id_str": "1111539072281927681",
+			"name": "Sohy P",
+			"screen_name": "pulaukuu",
+			"location": "",
+			"description": "Indonesianist. Southeast Asianist. Book translator(Ind-Eng-Kor), writer, editor and binder. tweets in Kor, occasionally in Ind and Eng.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 374,
+			"friends_count": 193,
+			"listed_count": 9,
+			"created_at": "Fri Mar 29 08:02:21 +0000 2019",
+			"favourites_count": 197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210057463967272960/R00Lie2C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210057463967272960/R00Lie2C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1111539072281927681/1553856086",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1180,
+		"favorite_count": 412,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그렇다. 바이러스가 무차별적으로 국경을 넘는다는 건 너무 나이브한 말, 바이러스는 몸에서 몸으로, 국경을 넘나드는 \"특정한\" 신체와 \"특정한\" 사람들의 자유를 타고 움직인다. 이 와중에도 자신은 마음대로 움직여도 된다고 믿는 사람들에게 하고 싶은 말.  https://t.co/o8DHSJeYDQ"
+	},
+	{
+		"created_at": "Mon Mar 30 13:31:21 +0000 2020",
+		"id": 1244239277405253600,
+		"id_str": "1244618217252777985",
+		"full_text": "한 아프리카 출신 인류학자의 지적. 바이러스 앞에서는 국경이 무의미하다고들 하는데, 사실 국경을 더 자유롭게 넘나들며 이동하는 자들(=더 강력한 여권을 소지한 선진국 국민)이 더 강력한 전파자란 점에 대해서는 말하지 않는 것 아닌가. (유럽인들이 최초의 확진자들인) 아프리카의 경우는 특히",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1244237581979549700,
+		"in_reply_to_status_id_str": "1244237581979549696",
+		"in_reply_to_user_id": 1111539072281927700,
+		"in_reply_to_user_id_str": "1111539072281927681",
+		"in_reply_to_screen_name": "pulaukuu",
+		"user": {
+			"id": 1111539072281927700,
+			"id_str": "1111539072281927681",
+			"name": "Sohy P",
+			"screen_name": "pulaukuu",
+			"location": "",
+			"description": "Indonesianist. Southeast Asianist. Book translator(Ind-Eng-Kor), writer, editor and binder. tweets in Kor, occasionally in Ind and Eng.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 374,
+			"friends_count": 193,
+			"listed_count": 9,
+			"created_at": "Fri Mar 29 08:02:21 +0000 2019",
+			"favourites_count": 197,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210057463967272960/R00Lie2C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210057463967272960/R00Lie2C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1111539072281927681/1553856086",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1748,
+		"favorite_count": 495,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한 아프리카 출신 인류학자의 지적. 바이러스 앞에서는 국경이 무의미하다고들 하는데, 사실 국경을 더 자유롭게 넘나들며 이동하는 자들(=더 강력한 여권을 소지한 선진국 국민)이 더 강력한 전파자란 점에 대해서는 말하지 않는 것 아닌가. (유럽인들이 최초의 확진자들인) 아프리카의 경우는 특히"
+	},
+	{
+		"created_at": "Mon Mar 30 12:32:12 +0000 2020",
+		"id": 1244603330661236700,
+		"id_str": "1244603330661236742",
+		"full_text": "리트윗하고 싶어도 못하는 트윗들이 너무 많다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 559,
+			"friends_count": 430,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2679,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "리트윗하고 싶어도 못하는 트윗들이 너무 많다."
+	},
+	{
+		"created_at": "Mon Mar 30 12:30:06 +0000 2020",
+		"id": 1244437795986223000,
+		"id_str": "1244602802678030336",
+		"full_text": "이 도표들, 코로나19 방지 위해 왜 마스크를 써야 하는지 이유에 대한 최고의 과학적 설명\n- 마스크가 효과적이 아니라고 더 이상 주장해서는 안됨\n- 전파거리: 숨 내쉼 1.5m, 기침 2m, 제채기 5m\n- 마스크, 자신과 남을 보호해 줌\n- N95 마스크: 100개 입자 중 1개 스며들고, 기침 시 30개 뚫고나가 https://t.co/1QuXvNnZUL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244437531682201600,
+					"id_str": "1244437531682201600",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EUUhV30U4AAfA9q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUUhV30U4AAfA9q.jpg",
+					"url": "https://t.co/1QuXvNnZUL",
+					"display_url": "pic.twitter.com/1QuXvNnZUL",
+					"expanded_url": "https://twitter.com/wkchoi/status/1244437795986223105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 875,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 875,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244437531682201600,
+					"id_str": "1244437531682201600",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EUUhV30U4AAfA9q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUUhV30U4AAfA9q.jpg",
+					"url": "https://t.co/1QuXvNnZUL",
+					"display_url": "pic.twitter.com/1QuXvNnZUL",
+					"expanded_url": "https://twitter.com/wkchoi/status/1244437795986223105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 875,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 875,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 551,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1244437551454105600,
+					"id_str": "1244437551454105601",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EUUhXBeUMAEi3Ku.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUUhXBeUMAEi3Ku.jpg",
+					"url": "https://t.co/1QuXvNnZUL",
+					"display_url": "pic.twitter.com/1QuXvNnZUL",
+					"expanded_url": "https://twitter.com/wkchoi/status/1244437795986223105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 553,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 553,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 313,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1244437616524546000,
+					"id_str": "1244437616524546048",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EUUhaz4UUAA04HF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUUhaz4UUAA04HF.jpg",
+					"url": "https://t.co/1QuXvNnZUL",
+					"display_url": "pic.twitter.com/1QuXvNnZUL",
+					"expanded_url": "https://twitter.com/wkchoi/status/1244437795986223105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45398722,
+			"id_str": "45398722",
+			"name": "Wan Ki Choi",
+			"screen_name": "wkchoi",
+			"location": "",
+			"description": "Longtime Apple User.  Now Using iPhone 11 Pro Max, Apple Watch Series 4, AirPods 2, Galaxy S10+, 11.0\" iPad Pro, Macbook Air (2018) & Dell XPS 13 (2016 Late).",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45462,
+			"friends_count": 217,
+			"listed_count": 291,
+			"created_at": "Sun Jun 07 19:00:56 +0000 2009",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061703272371773440/E5UiCviI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45398722/1541964648",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2970,
+		"favorite_count": 1100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 도표들, 코로나19 방지 위해 왜 마스크를 써야 하는지 이유에 대한 최고의 과학적 설명\n- 마스크가 효과적이 아니라고 더 이상 주장해서는 안됨\n- 전파거리: 숨 내쉼 1.5m, 기침 2m, 제채기 5m\n- 마스크, 자신과 남을 보호해 줌\n- N95 마스크: 100개 입자 중 1개 스며들고, 기침 시 30개 뚫고나가 https://t.co/1QuXvNnZUL"
+	},
+	{
+		"created_at": "Mon Mar 30 10:26:09 +0000 2020",
+		"id": 1244559762542317600,
+		"id_str": "1244571609505005568",
+		"full_text": "2010년대 '팩트'의 정확한 의미는 '거세된 맥락'이라 보면 되겠다 https://t.co/LYLombCOEO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244559693634130000,
+					"id_str": "1244559693634129920",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/EUWQcojU0AAtljE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUWQcojU0AAtljE.jpg",
+					"url": "https://t.co/LYLombCOEO",
+					"display_url": "pic.twitter.com/LYLombCOEO",
+					"expanded_url": "https://twitter.com/wn4040/status/1244559762542317569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244559693634130000,
+					"id_str": "1244559693634129920",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/media/EUWQcojU0AAtljE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUWQcojU0AAtljE.jpg",
+					"url": "https://t.co/LYLombCOEO",
+					"display_url": "pic.twitter.com/LYLombCOEO",
+					"expanded_url": "https://twitter.com/wn4040/status/1244559762542317569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 453115202,
+			"id_str": "453115202",
+			"name": "EVERGREEN🎗",
+			"screen_name": "wn4040",
+			"location": "",
+			"description": "강인함과 약간의 겸손 ⚾️#FriarFaithful ⚖️#BetterCallSaul",
+			"url": "https://t.co/KSFcEP4hur",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KSFcEP4hur",
+							"expanded_url": "https://www.youtube.com/user/EVERGREENAA",
+							"display_url": "youtube.com/user/EVERGREEN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 760,
+			"friends_count": 1444,
+			"listed_count": 19,
+			"created_at": "Mon Jan 02 16:04:36 +0000 2012",
+			"favourites_count": 7328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 119316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209173758503608320/HNbtscEM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209173758503608320/HNbtscEM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/453115202/1574219367",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2010년대 '팩트'의 정확한 의미는 '거세된 맥락'이라 보면 되겠다 https://t.co/LYLombCOEO"
+	},
+	{
+		"created_at": "Mon Mar 30 08:55:46 +0000 2020",
+		"id": 1244548864486412300,
+		"id_str": "1244548864486412289",
+		"full_text": "ㅇㅊㅅ는 정말 악랄하다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 559,
+			"friends_count": 430,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2679,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "ㅇㅊㅅ는 정말 악랄하다"
+	},
+	{
 		"created_at": "Sun Mar 29 15:05:26 +0000 2020",
 		"id": 1244273729858752500,
 		"id_str": "1244279505578934274",
