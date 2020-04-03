@@ -1,6 +1,947 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 02 15:17:18 +0000 2020",
+		"id": 1245723182486577200,
+		"id_str": "1245732043087962112",
+		"full_text": "한국도 간호인력 부족하면 돈 줌. 보조금 많이 나가죠. 근데 그 돈이 간호사한테 전달이 안 될 뿐. 그 사이엔 누가 있다? 의사가 있음. 의사님들 간호사 힘들다는 플로우에 양심없이 껴들지 마세요. 좆같아요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1245722750427127800,
+		"in_reply_to_status_id_str": "1245722750427127808",
+		"in_reply_to_user_id": 4237001954,
+		"in_reply_to_user_id_str": "4237001954",
+		"in_reply_to_screen_name": "libr99",
+		"user": {
+			"id": 4237001954,
+			"id_str": "4237001954",
+			"name": "libr99",
+			"screen_name": "libr99",
+			"location": "",
+			"description": "Bio",
+			"url": "https://t.co/l19UdfXEZ2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l19UdfXEZ2",
+							"expanded_url": "https://ask.fm/libr99",
+							"display_url": "ask.fm/libr99",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 453,
+			"friends_count": 270,
+			"listed_count": 2,
+			"created_at": "Sat Nov 14 18:00:16 +0000 2015",
+			"favourites_count": 226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/670306337448833024/PkDRrfd8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/670306337448833024/PkDRrfd8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4237001954/1455655394",
+			"profile_link_color": "BDBD02",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국도 간호인력 부족하면 돈 줌. 보조금 많이 나가죠. 근데 그 돈이 간호사한테 전달이 안 될 뿐. 그 사이엔 누가 있다? 의사가 있음. 의사님들 간호사 힘들다는 플로우에 양심없이 껴들지 마세요. 좆같아요."
+	},
+	{
+		"created_at": "Thu Apr 02 14:40:13 +0000 2020",
+		"id": 1245314274676715500,
+		"id_str": "1245722712338620416",
+		"full_text": "보편복지가 아니라 선별복지 하자면서요? 선별복지 하는데 불만이라도? 선별복지 포기하고 모두 보편복지로 가시죠? https://t.co/gbXSr1qcXj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gbXSr1qcXj",
+					"expanded_url": "https://twitter.com/hankyungmedia/status/1245216651890405377",
+					"display_url": "twitter.com/hankyungmedia/…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60690714,
+			"id_str": "60690714",
+			"name": "RORICON",
+			"screen_name": "roricon",
+			"location": "korea",
+			"description": "트위터도 열었지만 디스플레이 트위터는 아닙니다.",
+			"url": "https://t.co/qnDVrdYpI6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qnDVrdYpI6",
+							"expanded_url": "http://roricon.egloos.com",
+							"display_url": "roricon.egloos.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2832,
+			"friends_count": 720,
+			"listed_count": 74,
+			"created_at": "Mon Jul 27 19:47:12 +0000 2009",
+			"favourites_count": 11860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 375124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/772104296103972864/8NEe_zZ4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/772104296103972864/8NEe_zZ4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60690714/1396969546",
+			"profile_link_color": "B3007A",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1245216651890405400,
+		"quoted_status_id_str": "1245216651890405377",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gbXSr1qcXj",
+			"expanded": "https://twitter.com/hankyungmedia/status/1245216651890405377",
+			"display": "twitter.com/hankyungmedia/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 01 05:09:19 +0000 2020",
+			"id": 1245216651890405400,
+			"id_str": "1245216651890405377",
+			"full_text": "\"세금 많이 내는데…\" '코로나 지원금' 제외된 30% '속앓이' https://t.co/hEWZ5a0OZY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hEWZ5a0OZY",
+						"expanded_url": "https://www.hankyung.com/economy/article/2020033156831",
+						"display_url": "hankyung.com/economy/articl…",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 180664850,
+				"id_str": "180664850",
+				"name": "한국경제신문",
+				"screen_name": "hankyungmedia",
+				"location": "",
+				"description": "한국경제신문 공식 트위터 계정입니다. 따뜻이 소통하면서 좋은 정보를 공유하는데 최선을 다하겠습니다. 제보, 의견 기다립니다. The Korea Economic Daily 02-360-4114 https://t.co/b99nT8fJAg",
+				"url": "https://t.co/Gak4jZnfaU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gak4jZnfaU",
+								"expanded_url": "http://www.facebook.com/hankyungmedia",
+								"display_url": "facebook.com/hankyungmedia",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/b99nT8fJAg",
+								"expanded_url": "http://www.hankyung.com",
+								"display_url": "hankyung.com",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 66509,
+				"friends_count": 62598,
+				"listed_count": 1477,
+				"created_at": "Fri Aug 20 04:54:38 +0000 2010",
+				"favourites_count": 56,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 112290,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1047035252705828865/caGM_yMy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047035252705828865/caGM_yMy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/180664850/1585205537",
+				"profile_link_color": "080808",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 160,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보편복지가 아니라 선별복지 하자면서요? 선별복지 하는데 불만이라도? 선별복지 포기하고 모두 보편복지로 가시죠? https://t.co/gbXSr1qcXj"
+	},
+	{
+		"created_at": "Thu Apr 02 14:15:40 +0000 2020",
+		"id": 1245661455782834200,
+		"id_str": "1245716535315853314",
+		"full_text": "무엇이 '혁신'인가?적어도 타다가 하는 건 아닐듯.\n\nhttps://t.co/uS0jh2PjT8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uS0jh2PjT8",
+					"expanded_url": "https://m.khan.co.kr/amp/view.html?art_id=202004012056015&sec_id=990100&art_id=202004012056015&utm_source=facebook&utm_medium=social_share&__twitter_impression=true",
+					"display_url": "m.khan.co.kr/amp/view.html?…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/bkAeD9tAxc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bkAeD9tAxc",
+							"expanded_url": "http://cfr0g.wordpress.com",
+							"display_url": "cfr0g.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4746,
+			"friends_count": 160,
+			"listed_count": 151,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "무엇이 '혁신'인가?적어도 타다가 하는 건 아닐듯.\n\nhttps://t.co/uS0jh2PjT8"
+	},
+	{
+		"created_at": "Thu Apr 02 12:56:50 +0000 2020",
+		"id": 1245249899425181700,
+		"id_str": "1245696695289044992",
+		"full_text": "녀러븐~~ 제 책 나왔나 봐요~~ 서점에 떴어요~~ 실물은 구경도 못했지만... 반갑다.. 흑흑흑..\n&lt;질문하는 역사 3- 조선편&gt;(나무를 심는 사람들) \nhttps://t.co/SfAfmeLhf2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SfAfmeLhf2",
+					"expanded_url": "http://aladin.kr/p/ZNRHm",
+					"display_url": "aladin.kr/p/ZNRHm",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59380957,
+			"id_str": "59380957",
+			"name": "적츄",
+			"screen_name": "nannyoun",
+			"location": "",
+			"description": "수다, 툴툴, 귀차니즘",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1923,
+			"friends_count": 1076,
+			"listed_count": 29,
+			"created_at": "Thu Jul 23 06:19:13 +0000 2009",
+			"favourites_count": 1276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 54726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074937029492764673/6eJ7q2E-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074937029492764673/6eJ7q2E-_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "녀러븐~~ 제 책 나왔나 봐요~~ 서점에 떴어요~~ 실물은 구경도 못했지만... 반갑다.. 흑흑흑..\n&lt;질문하는 역사 3- 조선편&gt;(나무를 심는 사람들) \nhttps://t.co/SfAfmeLhf2"
+	},
+	{
+		"created_at": "Thu Apr 02 12:30:33 +0000 2020",
+		"id": 1245637663694049300,
+		"id_str": "1245690079399407616",
+		"full_text": "한국언론들이 대구 17세 청소년 코로나19 사망 오보 사건이나 이번 대구 의료인 코로나19 사망 오보 사건을 반복해 일으키는 걸 보면 코로나19로 인한 미성년자 사망이나 의료진 사망을 너무나도 보고싶어하는 간절한 마음이 읽히는데 한국 언론인들 직업윤리 바닥 본지 오래라 하더라도 너무 심함",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1421748320,
+			"id_str": "1421748320",
+			"name": "13세기 Leucrota",
+			"screen_name": "adhoclala",
+			"location": "",
+			"description": "플픽은 요끌라님에게 얻은 레우크로타.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34088,
+			"friends_count": 691,
+			"listed_count": 222,
+			"created_at": "Sat May 11 22:40:11 +0000 2013",
+			"favourites_count": 10930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 90716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/812430419798827008/Arvx4ahy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/812430419798827008/Arvx4ahy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1421748320/1402535457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 884,
+		"favorite_count": 212,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국언론들이 대구 17세 청소년 코로나19 사망 오보 사건이나 이번 대구 의료인 코로나19 사망 오보 사건을 반복해 일으키는 걸 보면 코로나19로 인한 미성년자 사망이나 의료진 사망을 너무나도 보고싶어하는 간절한 마음이 읽히는데 한국 언론인들 직업윤리 바닥 본지 오래라 하더라도 너무 심함"
+	},
+	{
+		"created_at": "Thu Apr 02 10:33:20 +0000 2020",
+		"id": 1245598152003997700,
+		"id_str": "1245660582474174464",
+		"full_text": "서울 저소득층 학생 전원에 노트북 5만2천대 지급..교사는 인터넷 무제한(종합) | 다음 뉴스 https://t.co/vYNdjBAYl2\n\n안 그래도 사람들 걱정이 많았는데 늦게라도 대책을 세우고 실행하는구나. 안 하는 것보다야 낫지.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vYNdjBAYl2",
+					"expanded_url": "https://news.v.daum.net/v/20200402124414120",
+					"display_url": "news.v.daum.net/v/202004021244…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 292907833,
+			"id_str": "292907833",
+			"name": "내세에는 식물이 되고 싶은 실피리트",
+			"screen_name": "Sylphirit",
+			"location": "",
+			"description": "문넷//만화애니/라노베/판타지/SF/디스토피아/전기활극//이영도/전민희/이상균/다나카 요시키/우로부치 겐/오노 후유미/러브크래프트//RPG/SRPG/비주얼노벨//슈로대/벽람항로/아이마스/타입문 전반/건담/사이버포뮬러/테카맨 블레이드/戦闘妖精 雪風/마크로스/MCU (기타)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 591,
+			"friends_count": 3649,
+			"listed_count": 14,
+			"created_at": "Wed May 04 12:52:48 +0000 2011",
+			"favourites_count": 5621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 246846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/344513261576854775/a5858db8b3fd74802e3d24494955b315_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/344513261576854775/a5858db8b3fd74802e3d24494955b315_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/292907833/1498642359",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서울 저소득층 학생 전원에 노트북 5만2천대 지급..교사는 인터넷 무제한(종합) | 다음 뉴스 https://t.co/vYNdjBAYl2\n\n안 그래도 사람들 걱정이 많았는데 늦게라도 대책을 세우고 실행하는구나. 안 하는 것보다야 낫지."
+	},
+	{
+		"created_at": "Thu Apr 02 10:31:45 +0000 2020",
+		"id": 1245507439299985400,
+		"id_str": "1245660181775568897",
+		"full_text": "신천지 브레이크가 터졌음에도 대구를 봉쇄하지 않고 시민들의 자발적 협조로 브레이크를 막아내고 봉합하고 사태를 진정시킨 공은 정말 인정해야 한다. 스페인과 이태리의 축구 집단감염 사태를 보면 더더욱 그렇다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1110535327825973200,
+			"id_str": "1110535327825973248",
+			"name": "中山",
+			"screen_name": "DrSunYat_Sen",
+			"location": "",
+			"description": "다시 돌아왔다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1172,
+			"friends_count": 148,
+			"listed_count": 18,
+			"created_at": "Tue Mar 26 13:33:49 +0000 2019",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110546373147947008/5Nx3OG-r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110546373147947008/5Nx3OG-r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1110535327825973248/1553610866",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 327,
+		"favorite_count": 136,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "신천지 브레이크가 터졌음에도 대구를 봉쇄하지 않고 시민들의 자발적 협조로 브레이크를 막아내고 봉합하고 사태를 진정시킨 공은 정말 인정해야 한다. 스페인과 이태리의 축구 집단감염 사태를 보면 더더욱 그렇다."
+	},
+	{
+		"created_at": "Thu Apr 02 09:21:43 +0000 2020",
+		"id": 1232501998764736500,
+		"id_str": "1245642560208437251",
+		"full_text": "감염병은 병 자체보다 사람이 더 무섭다. 정치 이해에 따라 역학 분석을 묵살하는 이들. 기본 수칙을 이기심으로 무시하는 이들. 방역을 해도 소문에 휩쓸려 당국을 무시하는 이들. 공포심을 조장해 혐오를 발산하고 선동하는 이들. 이들이 병리 현상보다 훨씬 더 위협적인 존재다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1399735964,
+			"id_str": "1399735964",
+			"name": "츄군",
+			"screen_name": "chugun_real",
+			"location": "A Taxi Driver (2017)",
+			"description": "다 지났다고 생각했을 때는 아직 다 지나지 않은 것이다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1140,
+			"friends_count": 93,
+			"listed_count": 17,
+			"created_at": "Fri May 03 13:23:31 +0000 2013",
+			"favourites_count": 6266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156417367473131520/OmeRsSkg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156417367473131520/OmeRsSkg_normal.png",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 409,
+		"favorite_count": 151,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "감염병은 병 자체보다 사람이 더 무섭다. 정치 이해에 따라 역학 분석을 묵살하는 이들. 기본 수칙을 이기심으로 무시하는 이들. 방역을 해도 소문에 휩쓸려 당국을 무시하는 이들. 공포심을 조장해 혐오를 발산하고 선동하는 이들. 이들이 병리 현상보다 훨씬 더 위협적인 존재다."
+	},
+	{
+		"created_at": "Thu Apr 02 07:03:24 +0000 2020",
+		"id": 1245380432415166500,
+		"id_str": "1245607751624970246",
+		"full_text": "일본 탐라에서 “중국에 마스크 수백장을 보내니 수만장이 되서 돌아오고 일본정부에 오랫동안 세금을 냈더니 마스크 두장이 되어 돌아온다.”랜다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 233420274,
+			"id_str": "233420274",
+			"name": "Mashox",
+			"screen_name": "mashox101",
+			"location": "섬나라",
+			"description": "반도 → 대륙 → 섬나라",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 758,
+			"friends_count": 181,
+			"listed_count": 12,
+			"created_at": "Mon Jan 03 05:13:59 +0000 2011",
+			"favourites_count": 6681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209929143900442624/j3lZeFUb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209929143900442624/j3lZeFUb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/233420274/1577304562",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4195,
+		"favorite_count": 1637,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "일본 탐라에서 “중국에 마스크 수백장을 보내니 수만장이 되서 돌아오고 일본정부에 오랫동안 세금을 냈더니 마스크 두장이 되어 돌아온다.”랜다ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+	},
+	{
 		"created_at": "Wed Apr 01 14:26:44 +0000 2020",
 		"id": 1245350857484337200,
 		"id_str": "1245356930505117697",
