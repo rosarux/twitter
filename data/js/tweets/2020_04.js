@@ -1,6 +1,2659 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 13:55:20 +0000 2020",
+		"id": 1246291791529177000,
+		"id_str": "1246436193085997056",
+		"full_text": "70%로 자르니 곳곳에서 참을성이 바닥난 &lt;에리뜨-서민&gt;분들이 low-profile을 해제하시는 것을 보게되어 매우 안타까움.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 276843073,
+			"id_str": "276843073",
+			"name": "월터 The 사람",
+			"screen_name": "waltxwalt",
+			"location": "",
+			"description": "신분을 얻는 시험을 최근 종료한 자.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 690,
+			"friends_count": 646,
+			"listed_count": 13,
+			"created_at": "Mon Apr 04 05:50:22 +0000 2011",
+			"favourites_count": 4528,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/535652848554360832/HEZwgoU-_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/535652848554360832/HEZwgoU-_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "70%로 자르니 곳곳에서 참을성이 바닥난 &lt;에리뜨-서민&gt;분들이 low-profile을 해제하시는 것을 보게되어 매우 안타까움."
+	},
+	{
+		"created_at": "Sat Apr 04 13:45:27 +0000 2020",
+		"id": 1246401632889385000,
+		"id_str": "1246433702999019523",
+		"full_text": "#PUNISH_NTHROOM\n함께 연대해주세요. 감사합니다. https://t.co/XKIwqYYDpY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PUNISH_NTHROOM",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246358159268044800,
+					"id_str": "1246358159268044800",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EUv0JHIU4AANF4F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUv0JHIU4AANF4F.jpg",
+					"url": "https://t.co/XKIwqYYDpY",
+					"display_url": "pic.twitter.com/XKIwqYYDpY",
+					"expanded_url": "https://twitter.com/bdooeebds/status/1246358179148992515/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1246358179148992500,
+					"source_status_id_str": "1246358179148992515",
+					"source_user_id": 192475542,
+					"source_user_id_str": "192475542"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246358159268044800,
+					"id_str": "1246358159268044800",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/EUv0JHIU4AANF4F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUv0JHIU4AANF4F.jpg",
+					"url": "https://t.co/XKIwqYYDpY",
+					"display_url": "pic.twitter.com/XKIwqYYDpY",
+					"expanded_url": "https://twitter.com/bdooeebds/status/1246358179148992515/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1246358179148992500,
+					"source_status_id_str": "1246358179148992515",
+					"source_user_id": 192475542,
+					"source_user_id_str": "192475542"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2722718842,
+			"id_str": "2722718842",
+			"name": "Bluehumming",
+			"screen_name": "milk0647",
+			"location": "Germany",
+			"description": "흙을 만지고 쓰고 읽고 마십니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2383,
+			"friends_count": 498,
+			"listed_count": 16,
+			"created_at": "Thu Jul 24 05:40:07 +0000 2014",
+			"favourites_count": 23700,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/611610800244006912/wUb0dGOI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/611610800244006912/wUb0dGOI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2722718842/1460655503",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 323,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#PUNISH_NTHROOM\n함께 연대해주세요. 감사합니다. https://t.co/XKIwqYYDpY"
+	},
+	{
+		"created_at": "Sat Apr 04 11:34:32 +0000 2020",
+		"id": 1246390973329899500,
+		"id_str": "1246400756455845890",
+		"full_text": "나 같으면 정말 다 때려죽이고 싶을 텐데 정말이지 시혜적 자선을 베푸는 선한 자본가 되기도 쉽지 않은 일이다... https://t.co/mAjoxOVVco",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246390956892360700,
+					"id_str": "1246390956892360705",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EUwR-LzUEAErInj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUwR-LzUEAErInj.jpg",
+					"url": "https://t.co/mAjoxOVVco",
+					"display_url": "pic.twitter.com/mAjoxOVVco",
+					"expanded_url": "https://twitter.com/sub_plot/status/1246390973329899520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1566,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 862,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246390956892360700,
+					"id_str": "1246390956892360705",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EUwR-LzUEAErInj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUwR-LzUEAErInj.jpg",
+					"url": "https://t.co/mAjoxOVVco",
+					"display_url": "pic.twitter.com/mAjoxOVVco",
+					"expanded_url": "https://twitter.com/sub_plot/status/1246390973329899520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1566,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 862,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1246390956892377000,
+					"id_str": "1246390956892377090",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EUwR-LzUUAI-8fH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUwR-LzUUAI-8fH.jpg",
+					"url": "https://t.co/mAjoxOVVco",
+					"display_url": "pic.twitter.com/mAjoxOVVco",
+					"expanded_url": "https://twitter.com/sub_plot/status/1246390973329899520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 923,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1463,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1246390956930109400,
+					"id_str": "1246390956930109442",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EUwR-L8UEAI4KHc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUwR-L8UEAI4KHc.jpg",
+					"url": "https://t.co/mAjoxOVVco",
+					"display_url": "pic.twitter.com/mAjoxOVVco",
+					"expanded_url": "https://twitter.com/sub_plot/status/1246390973329899520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 782,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1727,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 443,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1246390957345398800,
+					"id_str": "1246390957345398787",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EUwR-NfU4AM9sxk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUwR-NfU4AM9sxk.jpg",
+					"url": "https://t.co/mAjoxOVVco",
+					"display_url": "pic.twitter.com/mAjoxOVVco",
+					"expanded_url": "https://twitter.com/sub_plot/status/1246390973329899520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 1608,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1246390954107404300,
+		"in_reply_to_status_id_str": "1246390954107404288",
+		"in_reply_to_user_id": 315583544,
+		"in_reply_to_user_id_str": "315583544",
+		"in_reply_to_screen_name": "sub_plot",
+		"user": {
+			"id": 315583544,
+			"id_str": "315583544",
+			"name": "피어스 호th론",
+			"screen_name": "sub_plot",
+			"location": "",
+			"description": "造反有理 革命無罪",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11904,
+			"friends_count": 12917,
+			"listed_count": 161,
+			"created_at": "Sun Jun 12 03:34:43 +0000 2011",
+			"favourites_count": 992676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/543864389233692672/Iv92TTlQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/543864389233692672/Iv92TTlQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/315583544/1356864547",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 234,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나 같으면 정말 다 때려죽이고 싶을 텐데 정말이지 시혜적 자선을 베푸는 선한 자본가 되기도 쉽지 않은 일이다... https://t.co/mAjoxOVVco"
+	},
+	{
+		"created_at": "Sat Apr 04 10:49:02 +0000 2020",
+		"id": 1246369723077410800,
+		"id_str": "1246389307834691584",
+		"full_text": "위기때 톱이 너무 나서도 메시지관리가 어려운 점이 있습니다. 아베 요새 맨날 나와서 이말했다 저말했다 그냥 줘터지는거 보고도 그러시는지. https://t.co/JzJuLiPWMV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JzJuLiPWMV",
+					"expanded_url": "https://twitter.com/masterkeaton1/status/1246367202745311233",
+					"display_url": "twitter.com/masterkeaton1/…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 824126205712601100,
+			"id_str": "824126205712601088",
+			"name": "김준수",
+			"screen_name": "kjs333011",
+			"location": "",
+			"description": "트잉여. 월급루팡. 구파발행을 몹시 저주하는 고양시민. 오마이뉴스에 계신 동명의 기자와는 전혀 다른 사람입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1570,
+			"friends_count": 221,
+			"listed_count": 14,
+			"created_at": "Wed Jan 25 05:26:13 +0000 2017",
+			"favourites_count": 2256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824127682002685953/Nd_V8aBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824127682002685953/Nd_V8aBi_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246367202745311200,
+		"quoted_status_id_str": "1246367202745311233",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JzJuLiPWMV",
+			"expanded": "https://twitter.com/masterkeaton1/status/1246367202745311233",
+			"display": "twitter.com/masterkeaton1/…"
+		},
+		"retweet_count": 19,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "위기때 톱이 너무 나서도 메시지관리가 어려운 점이 있습니다. 아베 요새 맨날 나와서 이말했다 저말했다 그냥 줘터지는거 보고도 그러시는지. https://t.co/JzJuLiPWMV"
+	},
+	{
+		"created_at": "Sat Apr 04 10:05:34 +0000 2020",
+		"id": 1246106949642379300,
+		"id_str": "1246378370717192195",
+		"full_text": "이 정부는 적어도 외국인에 대한 배제와 차별에서 해답을 찾아내고자 하는 이들에게 뚜렷한 반례를 제공했다는 사실만으로 인류에 충분히 기여했다고 생각한다. 전세계가 이 질병에 고통받는 가운데서도 우리는 최소한의 존엄은 지켜낸 것 같다는 생각이 든다. 아직까지는.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1246105294121255000,
+		"in_reply_to_status_id_str": "1246105294121254915",
+		"in_reply_to_user_id": 755766321267310600,
+		"in_reply_to_user_id_str": "755766321267310592",
+		"in_reply_to_screen_name": "lee3an1",
+		"user": {
+			"id": 755766321267310600,
+			"id_str": "755766321267310592",
+			"name": "이재훈",
+			"screen_name": "lee3an1",
+			"location": "",
+			"description": "대학원생, 아무말 잘함. DM확인 잘 안함.\n永吉昴P/園田海未のファン",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1860,
+			"friends_count": 802,
+			"listed_count": 35,
+			"created_at": "Wed Jul 20 14:08:27 +0000 2016",
+			"favourites_count": 8345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 133494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245367425240985600/iKeDEZ1__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245367425240985600/iKeDEZ1__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755766321267310592/1585753705",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 361,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이 정부는 적어도 외국인에 대한 배제와 차별에서 해답을 찾아내고자 하는 이들에게 뚜렷한 반례를 제공했다는 사실만으로 인류에 충분히 기여했다고 생각한다. 전세계가 이 질병에 고통받는 가운데서도 우리는 최소한의 존엄은 지켜낸 것 같다는 생각이 든다. 아직까지는."
+	},
+	{
+		"created_at": "Sat Apr 04 09:42:59 +0000 2020",
+		"id": 1246311305067155500,
+		"id_str": "1246372687468871680",
+		"full_text": "진짜 어쩌라고다.. 나는 엔번방 회원중 한국을 바꿀 천재가 있어도 걔의 인생은 망해야 한다고 생각한다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1718941231,
+			"id_str": "1718941231",
+			"name": "김 할",
+			"screen_name": "xy_yx_ttq",
+			"location": "",
+			"description": "널 떠올리기 전부터 널 떠올리곤 해",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 355,
+			"friends_count": 241,
+			"listed_count": 11,
+			"created_at": "Sun Sep 01 12:39:53 +0000 2013",
+			"favourites_count": 41038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/744393388791738369/zj66SEyz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/744393388791738369/zj66SEyz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1718941231/1486631106",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30450,
+		"favorite_count": 8046,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "진짜 어쩌라고다.. 나는 엔번방 회원중 한국을 바꿀 천재가 있어도 걔의 인생은 망해야 한다고 생각한다"
+	},
+	{
+		"created_at": "Sat Apr 04 08:08:16 +0000 2020",
+		"id": 1246348850882740200,
+		"id_str": "1246348850882740225",
+		"full_text": "여러분 이거 복붙만 해도 사진 링크화되어서 자동으로 올라가 진다고 하니 발견하신다면 복붙 부탁드리겠습니다. \n아이폰은 세 손가락으로 화면 터치해서 복사해주시면 돼요! \n\n #ARREST_NTHROOM https://t.co/DGxuXEBWM9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ARREST_NTHROOM",
+					"indices": [
+						96,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246226173710876700,
+					"id_str": "1246226173710876672",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EUt8GinUwAAApAX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUt8GinUwAAApAX.jpg",
+					"url": "https://t.co/DGxuXEBWM9",
+					"display_url": "pic.twitter.com/DGxuXEBWM9",
+					"expanded_url": "https://twitter.com/Eugxoria_/status/1246226208196399105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1246226208196399000,
+					"source_status_id_str": "1246226208196399105",
+					"source_user_id": 1244479281851318300,
+					"source_user_id_str": "1244479281851318272"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246226173710876700,
+					"id_str": "1246226173710876672",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EUt8GinUwAAApAX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUt8GinUwAAApAX.jpg",
+					"url": "https://t.co/DGxuXEBWM9",
+					"display_url": "pic.twitter.com/DGxuXEBWM9",
+					"expanded_url": "https://twitter.com/Eugxoria_/status/1246226208196399105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1246226208196399000,
+					"source_status_id_str": "1246226208196399105",
+					"source_user_id": 1244479281851318300,
+					"source_user_id_str": "1244479281851318272"
+				},
+				{
+					"id": 1246226190349643800,
+					"id_str": "1246226190349643776",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EUt8HgmUMAAkQtc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUt8HgmUMAAkQtc.jpg",
+					"url": "https://t.co/DGxuXEBWM9",
+					"display_url": "pic.twitter.com/DGxuXEBWM9",
+					"expanded_url": "https://twitter.com/Eugxoria_/status/1246226208196399105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1246226208196399000,
+					"source_status_id_str": "1246226208196399105",
+					"source_user_id": 1244479281851318300,
+					"source_user_id_str": "1244479281851318272"
+				},
+				{
+					"id": 1246226190907523000,
+					"id_str": "1246226190907523072",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EUt8HirUwAASYEM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUt8HirUwAASYEM.jpg",
+					"url": "https://t.co/DGxuXEBWM9",
+					"display_url": "pic.twitter.com/DGxuXEBWM9",
+					"expanded_url": "https://twitter.com/Eugxoria_/status/1246226208196399105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1246226208196399000,
+					"source_status_id_str": "1246226208196399105",
+					"source_user_id": 1244479281851318300,
+					"source_user_id_str": "1244479281851318272"
+				},
+				{
+					"id": 1246226190915928000,
+					"id_str": "1246226190915928064",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EUt8HitVAAAexwn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUt8HitVAAAexwn.jpg",
+					"url": "https://t.co/DGxuXEBWM9",
+					"display_url": "pic.twitter.com/DGxuXEBWM9",
+					"expanded_url": "https://twitter.com/Eugxoria_/status/1246226208196399105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1246226208196399000,
+					"source_status_id_str": "1246226208196399105",
+					"source_user_id": 1244479281851318300,
+					"source_user_id_str": "1244479281851318272"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 558,
+			"friends_count": 431,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분 이거 복붙만 해도 사진 링크화되어서 자동으로 올라가 진다고 하니 발견하신다면 복붙 부탁드리겠습니다. \n아이폰은 세 손가락으로 화면 터치해서 복사해주시면 돼요! \n\n #ARREST_NTHROOM https://t.co/DGxuXEBWM9"
+	},
+	{
+		"created_at": "Sat Apr 04 08:06:34 +0000 2020",
+		"id": 1246348421797052400,
+		"id_str": "1246348421797052416",
+		"full_text": "그 Q자 붙은 아이디 놈 신고했다. 여러분들도 신고해서 계정 정지 먹여버리시길",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 558,
+			"friends_count": 431,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "그 Q자 붙은 아이디 놈 신고했다. 여러분들도 신고해서 계정 정지 먹여버리시길"
+	},
+	{
+		"created_at": "Sat Apr 04 07:46:18 +0000 2020",
+		"id": 1246338977512079400,
+		"id_str": "1246343320000847873",
+		"full_text": "나찌 새끼. https://t.co/PLf25xTIFv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PLf25xTIFv",
+					"expanded_url": "https://twitter.com/dk_electioq/status/1246069528821301253",
+					"display_url": "twitter.com/dk_electioq/st…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 187070498,
+			"id_str": "187070498",
+			"name": "손지상(孫 志尚, Son Ji-Sang)",
+			"screen_name": "doskharaas",
+			"location": "독방",
+			"description": "원고의뢰 및 문의: sonkaiju 네이버메일 | 저서 및 역서 목록: https://t.co/KGtuO0aDER",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KGtuO0aDER",
+							"expanded_url": "http://m.aladin.co.kr/m/msearch.aspx?SearchTarget=Book&KeyWord=%EC%86%90%EC%A7%80%EC%83%81&KeyRecentPublish=0&OutStock=0",
+							"display_url": "m.aladin.co.kr/m/msearch.aspx…",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3179,
+			"friends_count": 1271,
+			"listed_count": 56,
+			"created_at": "Sun Sep 05 04:57:43 +0000 2010",
+			"favourites_count": 42065,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 170040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239791989622636544/Ip5dumJh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239791989622636544/Ip5dumJh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/187070498/1582288042",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246069528821301200,
+		"quoted_status_id_str": "1246069528821301253",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PLf25xTIFv",
+			"expanded": "https://twitter.com/dk_electioq/status/1246069528821301253",
+			"display": "twitter.com/dk_electioq/st…"
+		},
+		"retweet_count": 175,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나찌 새끼. https://t.co/PLf25xTIFv"
+	},
+	{
+		"created_at": "Sat Apr 04 07:12:58 +0000 2020",
+		"id": 1246333476715913200,
+		"id_str": "1246334931862614016",
+		"full_text": "그래서 지금 이 순간은 최고의 정부를 가졌다고 생각합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1246333474954453000,
+		"in_reply_to_status_id_str": "1246333474954452994",
+		"in_reply_to_user_id": 2572908468,
+		"in_reply_to_user_id_str": "2572908468",
+		"in_reply_to_screen_name": "sldn1206",
+		"user": {
+			"id": 2572908468,
+			"id_str": "2572908468",
+			"name": "예비 대머리 담륜",
+			"screen_name": "sldn1206",
+			"location": "Hell, MI",
+			"description": "천명은 저항한다고 거스를 수 없다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5193,
+			"friends_count": 1315,
+			"listed_count": 73,
+			"created_at": "Tue Jun 17 13:34:52 +0000 2014",
+			"favourites_count": 30220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 136418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245371696980176897/yoaVh5fW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245371696980176897/yoaVh5fW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2572908468/1585754728",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그래서 지금 이 순간은 최고의 정부를 가졌다고 생각합니다."
+	},
+	{
+		"created_at": "Sat Apr 04 07:11:04 +0000 2020",
+		"id": 1246177857786622000,
+		"id_str": "1246334456245284865",
+		"full_text": "아무 것도 안한 정도가 아니라 유족을 공격하기까지 한 503이 얼마나 한심한 대통령이었는지.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1246177256130502700,
+		"in_reply_to_status_id_str": "1246177256130502657",
+		"in_reply_to_user_id": 368212732,
+		"in_reply_to_user_id_str": "368212732",
+		"in_reply_to_screen_name": "matrenin_dvor",
+		"user": {
+			"id": 368212732,
+			"id_str": "368212732",
+			"name": "곤도 “스콧” 🤷‍♂️ 마뜨료나",
+			"screen_name": "matrenin_dvor",
+			"location": "가련한 4개의 섬조각",
+			"description": "남혐의 정도가 심해서 일상생활 안되는 사람",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4090,
+			"friends_count": 1257,
+			"listed_count": 56,
+			"created_at": "Mon Sep 05 08:18:14 +0000 2011",
+			"favourites_count": 8318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3169475909/aad9a9a4cf346fc6d559adc2bc1fb5c9_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3169475909/aad9a9a4cf346fc6d559adc2bc1fb5c9_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "아무 것도 안한 정도가 아니라 유족을 공격하기까지 한 503이 얼마나 한심한 대통령이었는지."
+	},
+	{
+		"created_at": "Sat Apr 04 07:11:00 +0000 2020",
+		"id": 1246177256130502700,
+		"id_str": "1246334437815513089",
+		"full_text": "정권 바뀔 때마다 새 정권의 성향에 맞춰서 공문서 스타일까지 갈아엎는 것이 공공기관인데, 명확한 시그널만 주어지면 각자 할 수 있는 것 찾기 정도는 쉬운 일이다. 만일 503이 세월호 때 전 공공기관은 총력을 다해 할 수 있는 지원을 하라고 했더라면 가스공사마저도 뭔가를 찾아냈을 것. https://t.co/fT8yZtZM2X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fT8yZtZM2X",
+					"expanded_url": "https://twitter.com/ktotoreborn/status/1246092202729549829",
+					"display_url": "twitter.com/ktotoreborn/st…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 368212732,
+			"id_str": "368212732",
+			"name": "곤도 “스콧” 🤷‍♂️ 마뜨료나",
+			"screen_name": "matrenin_dvor",
+			"location": "가련한 4개의 섬조각",
+			"description": "남혐의 정도가 심해서 일상생활 안되는 사람",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4090,
+			"friends_count": 1257,
+			"listed_count": 56,
+			"created_at": "Mon Sep 05 08:18:14 +0000 2011",
+			"favourites_count": 8318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3169475909/aad9a9a4cf346fc6d559adc2bc1fb5c9_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3169475909/aad9a9a4cf346fc6d559adc2bc1fb5c9_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246092202729549800,
+		"quoted_status_id_str": "1246092202729549829",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fT8yZtZM2X",
+			"expanded": "https://twitter.com/ktotoreborn/status/1246092202729549829",
+			"display": "twitter.com/ktotoreborn/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 03 15:08:27 +0000 2020",
+			"id": 1246092202729549800,
+			"id_str": "1246092202729549829",
+			"full_text": "나라가 일 잘하는 게 아니라 의료진과 민간이 잘하고 있는 거라고 하는 인간들은 이거 보고 뭐라고 할런지. 이 조치를 취하기 위해 얼마나 많은 부서의 업무가 필요했을지 생각해 보기를. https://t.co/LmeDRdBbhR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				101
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/LmeDRdBbhR",
+						"expanded_url": "https://twitter.com/tanato_kr/status/1246021286632902657",
+						"display_url": "twitter.com/tanato_kr/stat…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 948563622191448000,
+				"id_str": "948563622191448066",
+				"name": "크또또",
+				"screen_name": "ktotoreborn",
+				"location": "",
+				"description": "아니오 저는 여러분의 편이 아닙니다  /  오덕짤은 다 뮤트 / 특정 정치인, 정당 지지하지 않습니다. 관전중.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1893,
+				"friends_count": 230,
+				"listed_count": 30,
+				"created_at": "Wed Jan 03 14:36:05 +0000 2018",
+				"favourites_count": 9449,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31956,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1152588031011934209/5R7_Grvk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152588031011934209/5R7_Grvk_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1246021286632902700,
+			"quoted_status_id_str": "1246021286632902657",
+			"quoted_status_permalink": {
+				"url": "https://t.co/LmeDRdBbhR",
+				"expanded": "https://twitter.com/tanato_kr/status/1246021286632902657",
+				"display": "twitter.com/tanato_kr/stat…"
+			},
+			"retweet_count": 4898,
+			"favorite_count": 1691,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 194,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정권 바뀔 때마다 새 정권의 성향에 맞춰서 공문서 스타일까지 갈아엎는 것이 공공기관인데, 명확한 시그널만 주어지면 각자 할 수 있는 것 찾기 정도는 쉬운 일이다. 만일 503이 세월호 때 전 공공기관은 총력을 다해 할 수 있는 지원을 하라고 했더라면 가스공사마저도 뭔가를 찾아냈을 것. https://t.co/fT8yZtZM2X"
+	},
+	{
+		"created_at": "Sat Apr 04 07:07:08 +0000 2020",
+		"id": 1246256891539284000,
+		"id_str": "1246333466985160704",
+		"full_text": "한국사람들이 선별복지에 찬성하는 이유 :  \n\n\"나는 못받아도 다른 어려운 사람들을 도와라.\" (X)\n\n \"나는 서민이고 투기꾼이나 진짜부자는 주지마라. 나는 받겠지.\"  (O)\n\n강남아파트에 살아도 서민이라 생각하는게 이 나라라.... https://t.co/VuE8SiamZ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246256883217780700,
+					"id_str": "1246256883217780736",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EUuYCEcU0AAbiUY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUuYCEcU0AAbiUY.jpg",
+					"url": "https://t.co/VuE8SiamZ0",
+					"display_url": "pic.twitter.com/VuE8SiamZ0",
+					"expanded_url": "https://twitter.com/sldn1206/status/1246256891539283970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246256883217780700,
+					"id_str": "1246256883217780736",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EUuYCEcU0AAbiUY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUuYCEcU0AAbiUY.jpg",
+					"url": "https://t.co/VuE8SiamZ0",
+					"display_url": "pic.twitter.com/VuE8SiamZ0",
+					"expanded_url": "https://twitter.com/sldn1206/status/1246256891539283970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2572908468,
+			"id_str": "2572908468",
+			"name": "예비 대머리 담륜",
+			"screen_name": "sldn1206",
+			"location": "Hell, MI",
+			"description": "천명은 저항한다고 거스를 수 없다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5193,
+			"friends_count": 1315,
+			"listed_count": 73,
+			"created_at": "Tue Jun 17 13:34:52 +0000 2014",
+			"favourites_count": 30220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 136418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245371696980176897/yoaVh5fW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245371696980176897/yoaVh5fW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2572908468/1585754728",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2285,
+		"favorite_count": 491,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국사람들이 선별복지에 찬성하는 이유 :  \n\n\"나는 못받아도 다른 어려운 사람들을 도와라.\" (X)\n\n \"나는 서민이고 투기꾼이나 진짜부자는 주지마라. 나는 받겠지.\"  (O)\n\n강남아파트에 살아도 서민이라 생각하는게 이 나라라.... https://t.co/VuE8SiamZ0"
+	},
+	{
+		"created_at": "Sat Apr 04 07:05:01 +0000 2020",
+		"id": 1246273358175453200,
+		"id_str": "1246332931028615168",
+		"full_text": "이게 서울이나 수도권신도시에서 적당히 생활꾸려나가면 저 70퍼에서 다 비껴나가기때문인데, 이게 얼마나 빈부격차가 심한지 자각하기보단 갖가지 튀는값 사례를 대면서 자신들이 얼마나 안온한곳에서 살아왔다는 사실을 거부하려드니 문제",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 824126205712601100,
+			"id_str": "824126205712601088",
+			"name": "김준수",
+			"screen_name": "kjs333011",
+			"location": "",
+			"description": "트잉여. 월급루팡. 구파발행을 몹시 저주하는 고양시민. 오마이뉴스에 계신 동명의 기자와는 전혀 다른 사람입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1570,
+			"friends_count": 221,
+			"listed_count": 14,
+			"created_at": "Wed Jan 25 05:26:13 +0000 2017",
+			"favourites_count": 2256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/824127682002685953/Nd_V8aBi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/824127682002685953/Nd_V8aBi_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이게 서울이나 수도권신도시에서 적당히 생활꾸려나가면 저 70퍼에서 다 비껴나가기때문인데, 이게 얼마나 빈부격차가 심한지 자각하기보단 갖가지 튀는값 사례를 대면서 자신들이 얼마나 안온한곳에서 살아왔다는 사실을 거부하려드니 문제"
+	},
+	{
+		"created_at": "Sat Apr 04 06:10:57 +0000 2020",
+		"id": 1246245510534459400,
+		"id_str": "1246319327923466240",
+		"full_text": "공무원들이 거의 국민들한테 애걸복걸 하고 사정사정해야 환수를 할 수 있습니다. 일단 70% 주는 걸로 정해진 이상 어쩔 수 없는 일입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1246245263997407200,
+		"in_reply_to_status_id_str": "1246245263997407233",
+		"in_reply_to_user_id": 1110535327825973200,
+		"in_reply_to_user_id_str": "1110535327825973248",
+		"in_reply_to_screen_name": "DrSunYat_Sen",
+		"user": {
+			"id": 1110535327825973200,
+			"id_str": "1110535327825973248",
+			"name": "中山",
+			"screen_name": "DrSunYat_Sen",
+			"location": "",
+			"description": "다시 돌아왔다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1176,
+			"friends_count": 148,
+			"listed_count": 18,
+			"created_at": "Tue Mar 26 13:33:49 +0000 2019",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110546373147947008/5Nx3OG-r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110546373147947008/5Nx3OG-r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1110535327825973248/1553610866",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "공무원들이 거의 국민들한테 애걸복걸 하고 사정사정해야 환수를 할 수 있습니다. 일단 70% 주는 걸로 정해진 이상 어쩔 수 없는 일입니다."
+	},
+	{
+		"created_at": "Sat Apr 04 06:06:58 +0000 2020",
+		"id": 1246245263997407200,
+		"id_str": "1246318322393595904",
+		"full_text": "다들 주고 뺏으면 되지 않냐 하는데 준돈 도로 가져오는게 국가로는 더욱더 큰 행정력 낭비가 될 수도 있습니다. 근로장려세제 같은 급부행정 잘못했다가 도로 환수하는 과정 보면 이게 쉽지도 않아요. 몇십만원으로 소송할 수도 없고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1110535327825973200,
+			"id_str": "1110535327825973248",
+			"name": "中山",
+			"screen_name": "DrSunYat_Sen",
+			"location": "",
+			"description": "다시 돌아왔다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1176,
+			"friends_count": 148,
+			"listed_count": 18,
+			"created_at": "Tue Mar 26 13:33:49 +0000 2019",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110546373147947008/5Nx3OG-r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110546373147947008/5Nx3OG-r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1110535327825973248/1553610866",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다들 주고 뺏으면 되지 않냐 하는데 준돈 도로 가져오는게 국가로는 더욱더 큰 행정력 낭비가 될 수도 있습니다. 근로장려세제 같은 급부행정 잘못했다가 도로 환수하는 과정 보면 이게 쉽지도 않아요. 몇십만원으로 소송할 수도 없고."
+	},
+	{
+		"created_at": "Sat Apr 04 05:59:32 +0000 2020",
+		"id": 1246092202729549800,
+		"id_str": "1246316454078582784",
+		"full_text": "나라가 일 잘하는 게 아니라 의료진과 민간이 잘하고 있는 거라고 하는 인간들은 이거 보고 뭐라고 할런지. 이 조치를 취하기 위해 얼마나 많은 부서의 업무가 필요했을지 생각해 보기를. https://t.co/LmeDRdBbhR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LmeDRdBbhR",
+					"expanded_url": "https://twitter.com/tanato_kr/status/1246021286632902657",
+					"display_url": "twitter.com/tanato_kr/stat…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948563622191448000,
+			"id_str": "948563622191448066",
+			"name": "크또또",
+			"screen_name": "ktotoreborn",
+			"location": "",
+			"description": "아니오 저는 여러분의 편이 아닙니다  /  오덕짤은 다 뮤트 / 특정 정치인, 정당 지지하지 않습니다. 관전중.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1893,
+			"friends_count": 230,
+			"listed_count": 30,
+			"created_at": "Wed Jan 03 14:36:05 +0000 2018",
+			"favourites_count": 9449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152588031011934209/5R7_Grvk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152588031011934209/5R7_Grvk_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246021286632902700,
+		"quoted_status_id_str": "1246021286632902657",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LmeDRdBbhR",
+			"expanded": "https://twitter.com/tanato_kr/status/1246021286632902657",
+			"display": "twitter.com/tanato_kr/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 03 10:26:39 +0000 2020",
+			"id": 1246021286632902700,
+			"id_str": "1246021286632902657",
+			"full_text": "허;;;; 와;;;;; 디테일 놀랍다. https://t.co/QstPmhgIKw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				21
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1246021267141972000,
+						"id_str": "1246021267141971968",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/EUrBvaKUUAAhYnh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUrBvaKUUAAhYnh.jpg",
+						"url": "https://t.co/QstPmhgIKw",
+						"display_url": "pic.twitter.com/QstPmhgIKw",
+						"expanded_url": "https://twitter.com/tanato_kr/status/1246021286632902657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1246021267141972000,
+						"id_str": "1246021267141971968",
+						"indices": [
+							22,
+							45
+						],
+						"media_url": "http://pbs.twimg.com/media/EUrBvaKUUAAhYnh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUrBvaKUUAAhYnh.jpg",
+						"url": "https://t.co/QstPmhgIKw",
+						"display_url": "pic.twitter.com/QstPmhgIKw",
+						"expanded_url": "https://twitter.com/tanato_kr/status/1246021286632902657/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 100857353,
+				"id_str": "100857353",
+				"name": "tanato",
+				"screen_name": "tanato_kr",
+				"location": "",
+				"description": "PS4/stm/DOA6へなちょこあやね使い/PSN: tanato_jp/ stm: tanato /2016DOAfes photofes sexy group 2nd.",
+				"url": "https://t.co/6I1SosWzS4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6I1SosWzS4",
+								"expanded_url": "http://tanato.pe.kr",
+								"display_url": "tanato.pe.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 406,
+				"friends_count": 246,
+				"listed_count": 14,
+				"created_at": "Thu Dec 31 22:41:55 +0000 2009",
+				"favourites_count": 2487,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 125640,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1112410401516318720/d6eKd4L0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112410401516318720/d6eKd4L0_normal.png",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1023,
+			"favorite_count": 595,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4898,
+		"favorite_count": 1691,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나라가 일 잘하는 게 아니라 의료진과 민간이 잘하고 있는 거라고 하는 인간들은 이거 보고 뭐라고 할런지. 이 조치를 취하기 위해 얼마나 많은 부서의 업무가 필요했을지 생각해 보기를. https://t.co/LmeDRdBbhR"
+	},
+	{
+		"created_at": "Sat Apr 04 05:56:27 +0000 2020",
+		"id": 1246300804459270100,
+		"id_str": "1246315679143219202",
+		"full_text": "다 뿌리고 세금환수하자 -&gt; 과거 연말정산 파동 생각하면 정치적 도박. 줬다뺏는 것만큼 어려운 게 없다는 건 경남 무상급식 사례만 봐도 명확.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53655888,
+			"id_str": "53655888",
+			"name": "U보트 작전관 안빈락커(폐족)",
+			"screen_name": "anbinrocker",
+			"location": "시베리아 설원 근방 북극해",
+			"description": "가카의 마지막 충신",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5750,
+			"friends_count": 373,
+			"listed_count": 157,
+			"created_at": "Sat Jul 04 12:07:41 +0000 2009",
+			"favourites_count": 3167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1010171736409509889/d207BFMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010171736409509889/d207BFMX_normal.jpg",
+			"profile_link_color": "25762E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다 뿌리고 세금환수하자 -&gt; 과거 연말정산 파동 생각하면 정치적 도박. 줬다뺏는 것만큼 어려운 게 없다는 건 경남 무상급식 사례만 봐도 명확."
+	},
+	{
+		"created_at": "Sat Apr 04 05:53:54 +0000 2020",
+		"id": 1246018294462574600,
+		"id_str": "1246315034285731840",
+		"full_text": "리) 한국 독립유공자 명단을 가나다 순으로 배열하면, 제일 먼저 오는 사람이 가네코 후미코, 가장 마지막에 오는 사람이 후세 다쓰지입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3533316680,
+			"id_str": "3533316680",
+			"name": "오렉시스",
+			"screen_name": "beramode_",
+			"location": "",
+			"description": "웹툰, 만화, 영화, 배구, 일상 및 기타 잡다한 것들에 대해 떠드는 계정. 현대건설 경기날 폭풍트윗하니 양해바랍니다.\n\n#FreedomHK #StandwithHK #DemocracyHK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96,
+			"friends_count": 433,
+			"listed_count": 1,
+			"created_at": "Sat Sep 12 02:48:12 +0000 2015",
+			"favourites_count": 1996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195209748922003457/uC9O5K1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195209748922003457/uC9O5K1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3533316680/1581696233",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 868,
+		"favorite_count": 378,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "리) 한국 독립유공자 명단을 가나다 순으로 배열하면, 제일 먼저 오는 사람이 가네코 후미코, 가장 마지막에 오는 사람이 후세 다쓰지입니다."
+	},
+	{
+		"created_at": "Sat Apr 04 02:09:18 +0000 2020",
+		"id": 1246079341517099000,
+		"id_str": "1246258514357399552",
+		"full_text": "캐나다와 이미 무기한 무제한 통화스왑이 체결된 데다, 연준이 필요하면 통화스와프 규모를 확대해줄 수도 있죠. 여기에 보유하고 있는 미 국채(1,200억 달러)를 담보로 달러를 빌려올 수도 있구요. 현재로써는 큰 의미가 없죠. https://t.co/mRUxesq0zY 또다른 안전판 '한일 통화 스와프' 재개 불가",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mRUxesq0zY",
+					"expanded_url": "https://news.chosun.com/site/data/html_dir/2020/04/02/2020040203962.html",
+					"display_url": "news.chosun.com/site/data/html…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744524246500548600,
+			"id_str": "744524246500548608",
+			"name": "Dan Davis",
+			"screen_name": "k4v13",
+			"location": "",
+			"description": "Quot Homines, Tot Sententiae",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2523,
+			"friends_count": 32,
+			"listed_count": 65,
+			"created_at": "Sun Jun 19 13:36:27 +0000 2016",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/830785524738560000/Z-ET4ku0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/830785524738560000/Z-ET4ku0_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 185,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "캐나다와 이미 무기한 무제한 통화스왑이 체결된 데다, 연준이 필요하면 통화스와프 규모를 확대해줄 수도 있죠. 여기에 보유하고 있는 미 국채(1,200억 달러)를 담보로 달러를 빌려올 수도 있구요. 현재로써는 큰 의미가 없죠. https://t.co/mRUxesq0zY 또다른 안전판 '한일 통화 스와프' 재개 불가"
+	},
+	{
+		"created_at": "Sat Apr 04 02:03:32 +0000 2020",
+		"id": 1246247590774988800,
+		"id_str": "1246257062343872512",
+		"full_text": "지금 당장 선을 그어야 하는데 가장 확실하고 객관적인 선이 건보료 밖에 없는 상황입니다. 거기에 개인의 소득 감소 정도를 감안해서 주는게 보완책이고요. 물리적으로 불가능한 걸 요구하면 안 됩니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1246246441158230000,
+		"in_reply_to_status_id_str": "1246246441158230017",
+		"in_reply_to_user_id": 1110535327825973200,
+		"in_reply_to_user_id_str": "1110535327825973248",
+		"in_reply_to_screen_name": "DrSunYat_Sen",
+		"user": {
+			"id": 1110535327825973200,
+			"id_str": "1110535327825973248",
+			"name": "中山",
+			"screen_name": "DrSunYat_Sen",
+			"location": "",
+			"description": "다시 돌아왔다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1176,
+			"friends_count": 148,
+			"listed_count": 18,
+			"created_at": "Tue Mar 26 13:33:49 +0000 2019",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110546373147947008/5Nx3OG-r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110546373147947008/5Nx3OG-r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1110535327825973248/1553610866",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지금 당장 선을 그어야 하는데 가장 확실하고 객관적인 선이 건보료 밖에 없는 상황입니다. 거기에 개인의 소득 감소 정도를 감안해서 주는게 보완책이고요. 물리적으로 불가능한 걸 요구하면 안 됩니다."
+	},
+	{
 		"created_at": "Fri Apr 03 23:16:01 +0000 2020",
 		"id": 1246104796924444700,
 		"id_str": "1246214904433889280",
