@@ -1,6 +1,535 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 15:12:47 +0000 2020",
+		"id": 1247390499033374700,
+		"id_str": "1247542847231758345",
+		"full_text": "이미 2015년 메르스 사태 당시 늑장 대응과 비밀주의로 세계에서 세 번째 사망국이라는 오명을 둘러썼던 한국은 똑같은 의료수준, 똑같은 방역요원, 똑같은 방역당국을 가지고도 정책 전환만으로 모든 것을 바꿔놓은 것이다. https://t.co/XNzlNY4P1q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XNzlNY4P1q",
+					"expanded_url": "https://news.v.daum.net/v/20200407071200649",
+					"display_url": "news.v.daum.net/v/202004070712…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49535568,
+			"id_str": "49535568",
+			"name": "스밀라의雪에대한감각 ",
+			"screen_name": "viya69",
+			"location": "2B347A14",
+			"description": "날지 않는 돼지는 그냥 돼지일 뿐(항상 엔진을 켜둘게)\n여자가 부엌에 드나들면 큰일을 못한다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 536,
+			"listed_count": 30,
+			"created_at": "Mon Jun 22 04:25:32 +0000 2009",
+			"favourites_count": 3993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1140440661587423232/iIXqA_XC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140440661587423232/iIXqA_XC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 345,
+		"favorite_count": 122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이미 2015년 메르스 사태 당시 늑장 대응과 비밀주의로 세계에서 세 번째 사망국이라는 오명을 둘러썼던 한국은 똑같은 의료수준, 똑같은 방역요원, 똑같은 방역당국을 가지고도 정책 전환만으로 모든 것을 바꿔놓은 것이다. https://t.co/XNzlNY4P1q"
+	},
+	{
+		"created_at": "Tue Apr 07 13:06:58 +0000 2020",
+		"id": 1247496350201077800,
+		"id_str": "1247511184804155399",
+		"full_text": "또 감염병예방법 안보고 떠드는 인간 발견. 정부가 강제 휴업시키려면 현행법으로는 없고 대통령 긴급명령권 발동 뿐인데 계엄령을 감수하겠다는건가? https://t.co/7QG0yVcGW2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7QG0yVcGW2",
+					"expanded_url": "https://twitter.com/quarantineSta/status/1247353452453171202",
+					"display_url": "twitter.com/quarantineSta/…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2343068034,
+			"id_str": "2343068034",
+			"name": "뀰은 맛있다",
+			"screen_name": "sweetkkyul",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Fri Feb 14 04:55:14 +0000 2014",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087244422150991874/6vzIylQ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087244422150991874/6vzIylQ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2343068034/1548054187",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247353452453171200,
+		"quoted_status_id_str": "1247353452453171202",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7QG0yVcGW2",
+			"expanded": "https://twitter.com/quarantineSta/status/1247353452453171202",
+			"display": "twitter.com/quarantineSta/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 07 02:40:12 +0000 2020",
+			"id": 1247353452453171200,
+			"id_str": "1247353452453171202",
+			"full_text": "클럽, 유흥업소, 놀이공원 등에 대해 \"운영중단을 강력히 권고\"하지만 최종판단은 사업주에게 맡겨두는 이유는, 정부가 휴업에 따른 비용보상을 떠안고 싶지 않아서가 아닐까?\n이 권고하되 강제하지 않음은 결국 사업주가 모든 비용을 감당하라는 이야기라, 계속 영업하게 되는 강한 유인이 되는 듯함",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 262353521,
+				"id_str": "262353521",
+				"name": "sonnet",
+				"screen_name": "quarantineSta",
+				"location": "Seoul, ROK",
+				"description": "이전에 나는 죄가 있기 때문에 사형을 당하거나 감옥에 갇히는 것이라고 생각했다. 그러나 이제는 먼저 누군가에게 ‘괘씸하다’는 판정을 받게 된 연후에 죄를 얻게 되는 것임을 알게 되었다. - 루쉰(魯迅), 「괘씸죄」-",
+				"url": "http://t.co/jHtektmz9j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/jHtektmz9j",
+								"expanded_url": "http://sonnet.egloos.com/",
+								"display_url": "sonnet.egloos.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3982,
+				"friends_count": 269,
+				"listed_count": 0,
+				"created_at": "Mon Mar 07 22:03:27 +0000 2011",
+				"favourites_count": 879,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11512,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1401335216/hm100px_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401335216/hm100px_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/262353521/1398770126",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 283,
+			"favorite_count": 120,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 220,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "또 감염병예방법 안보고 떠드는 인간 발견. 정부가 강제 휴업시키려면 현행법으로는 없고 대통령 긴급명령권 발동 뿐인데 계엄령을 감수하겠다는건가? https://t.co/7QG0yVcGW2"
+	},
+	{
+		"created_at": "Tue Apr 07 08:16:08 +0000 2020",
+		"id": 1247376885295665200,
+		"id_str": "1247437991607320577",
+		"full_text": "한국 부자들 상당수가 부동산으로 돈 벌었고 부동산 가격의 대부분은 본인의 실력이 아니라 공적 인프라와 인근 지역 개발 계획에 의해 결정된다는 것을 누구보다도 잘 아실 분들이 자신이 돈을 버는데 국가가 뭘 해줬느냐 이런 소리를 하면 당황스러운 것",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68664432,
+			"id_str": "68664432",
+			"name": "minchul park",
+			"screen_name": "summerlight00",
+			"location": "CA",
+			"description": "Software engineer. My tweets do not represent the view of my employer.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1130,
+			"friends_count": 1178,
+			"listed_count": 47,
+			"created_at": "Tue Aug 25 10:55:51 +0000 2009",
+			"favourites_count": 19142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 98916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAF7E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218046046284079104/fOKXIrca_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218046046284079104/fOKXIrca_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68664432/1398148612",
+			"profile_link_color": "FF6699",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8098,
+		"favorite_count": 3087,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국 부자들 상당수가 부동산으로 돈 벌었고 부동산 가격의 대부분은 본인의 실력이 아니라 공적 인프라와 인근 지역 개발 계획에 의해 결정된다는 것을 누구보다도 잘 아실 분들이 자신이 돈을 버는데 국가가 뭘 해줬느냐 이런 소리를 하면 당황스러운 것"
+	},
+	{
+		"created_at": "Tue Apr 07 04:37:37 +0000 2020",
+		"id": 1247358398036766700,
+		"id_str": "1247383000972587009",
+		"full_text": "저렇게 징징댈만큼 모든 부유층들이 납세 성실히 하고 계시냐 하면 그것도 아니면서ㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/M4IC0CB6so",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247358382274539500,
+					"id_str": "1247358382274539520",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/EU-B1wMUcAAm_uI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU-B1wMUcAAm_uI.jpg",
+					"url": "https://t.co/M4IC0CB6so",
+					"display_url": "pic.twitter.com/M4IC0CB6so",
+					"expanded_url": "https://twitter.com/Naraemaru/status/1247358398036766720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 402,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1524,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 709,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247358382274539500,
+					"id_str": "1247358382274539520",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/EU-B1wMUcAAm_uI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU-B1wMUcAAm_uI.jpg",
+					"url": "https://t.co/M4IC0CB6so",
+					"display_url": "pic.twitter.com/M4IC0CB6so",
+					"expanded_url": "https://twitter.com/Naraemaru/status/1247358398036766720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 402,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 1524,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 709,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 168481964,
+			"id_str": "168481964",
+			"name": "나랫마루@에버가든보기",
+			"screen_name": "Naraemaru",
+			"location": "",
+			"description": "리트윗 잦음(반드시 동의의 의미는 아님) / 백합 메인 / 지뢰 거의 없음 / 리듬게임 전반(팝픈뮤직 위주), 포켓몬, 아이마스(본가/데레, 밀리?), 스팀, PS4, 마마마, 악마의 리들, FLOWERS, 킬라킬, LWA, 레뷰스타 등 #GirlsCanDoAnything",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 618,
+			"friends_count": 818,
+			"listed_count": 7,
+			"created_at": "Mon Jul 19 13:09:57 +0000 2010",
+			"favourites_count": 97194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 585702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245354966723653632/nT5XdjIT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245354966723653632/nT5XdjIT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/168481964/1554243086",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3420,
+		"favorite_count": 653,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저렇게 징징댈만큼 모든 부유층들이 납세 성실히 하고 계시냐 하면 그것도 아니면서ㅋㅋㅋㅋㅋㅋㅋㅋ https://t.co/M4IC0CB6so"
+	},
+	{
 		"created_at": "Mon Apr 06 12:07:49 +0000 2020",
 		"id": 1247133911391424500,
 		"id_str": "1247133911391424519",
