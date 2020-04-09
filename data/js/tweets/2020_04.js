@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 14:11:48 +0000 2020",
+		"id": 1247698623120330800,
+		"id_str": "1247889889447702531",
+		"full_text": "중앙 정부는 한 거 없고 전부 다 의료진이 잘했다는 분들과 권영진 대구 시장이 잘했다는 분들이 사실상 동일한 코호트인 건에 대하여... (...)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 307389351,
+			"id_str": "307389351",
+			"name": "Hwanmin Kim (김환민)",
+			"screen_name": "Magi_co",
+			"location": "내용증명 2페이지, 블랙리스트 표지",
+			"description": "게임개발자연대 대표, IT노조 위원장,\n더불어민주당 전국청년위원회 청년을지로 위원\n\n503의 동문. 기계공학사, 경제학사.\n학사로 끝나고 싶진 않은데 아무래도 대학원은 좀...\n\n인터뷰, 기고 문의 및 노동 상담은 hm.kim@gamedevguild.kr로 부탁드립니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5415,
+			"friends_count": 1237,
+			"listed_count": 112,
+			"created_at": "Sun May 29 15:07:18 +0000 2011",
+			"favourites_count": 1858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1132617516897800192/cbobuonl_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1132617516897800192/cbobuonl_normal.png",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 167,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "중앙 정부는 한 거 없고 전부 다 의료진이 잘했다는 분들과 권영진 대구 시장이 잘했다는 분들이 사실상 동일한 코호트인 건에 대하여... (...)"
+	},
+	{
+		"created_at": "Wed Apr 08 11:37:54 +0000 2020",
+		"id": 1247728934633869300,
+		"id_str": "1247851155217997826",
+		"full_text": "한국은 세무전담군을 만들어서 체납자 집에 강습한다고 하면 절반 이상이 좋아할 걸. 바디캠으로 세무군 장교가 금고 뜯어서 금괴 쏟아지는 그림 나오면 대통령 지지율이 가챠 천장 보다 더 높이 올라갈 걸.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119124219,
+			"id_str": "119124219",
+			"name": "사해문서",
+			"screen_name": "frombc7197",
+			"location": "달",
+			"description": "아무튼 로봇은 아닙니다. 달에 가보고 싶습니다. 팔로우는 나와 당신의 자유입니다. 초면에 멘션해도 안 뭅니다. 구알티는 하지 마세요. 마마이트 먹어봤습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3514,
+			"friends_count": 4997,
+			"listed_count": 54,
+			"created_at": "Tue Mar 02 18:57:43 +0000 2010",
+			"favourites_count": 320937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 377392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/848378741872967685/p3N7ZkVi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/848378741872967685/p3N7ZkVi_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국은 세무전담군을 만들어서 체납자 집에 강습한다고 하면 절반 이상이 좋아할 걸. 바디캠으로 세무군 장교가 금고 뜯어서 금괴 쏟아지는 그림 나오면 대통령 지지율이 가챠 천장 보다 더 높이 올라갈 걸."
+	},
+	{
+		"created_at": "Wed Apr 08 11:20:37 +0000 2020",
+		"id": 1247810014225391600,
+		"id_str": "1247846806983020544",
+		"full_text": "참 잘쓴다~ https://t.co/ChRkohlVlm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247809986412941300,
+					"id_str": "1247809986412941313",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/EVEckktUEAE1HhD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVEckktUEAE1HhD.jpg",
+					"url": "https://t.co/ChRkohlVlm",
+					"display_url": "pic.twitter.com/ChRkohlVlm",
+					"expanded_url": "https://twitter.com/mooon111100/status/1247810014225391621/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 670,
+							"h": 445,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 670,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247809986412941300,
+					"id_str": "1247809986412941313",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/EVEckktUEAE1HhD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVEckktUEAE1HhD.jpg",
+					"url": "https://t.co/ChRkohlVlm",
+					"display_url": "pic.twitter.com/ChRkohlVlm",
+					"expanded_url": "https://twitter.com/mooon111100/status/1247810014225391621/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 670,
+							"h": 445,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 670,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189100677668036600,
+			"id_str": "1189100677668036609",
+			"name": "마티스",
+			"screen_name": "mooon111100",
+			"location": "",
+			"description": "문프님, 조국 장관님, 공지영 작가님 만 지킨다 / 민평련과 털, 털떨거지들 극혐",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1531,
+			"friends_count": 181,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 08:44:53 +0000 2019",
+			"favourites_count": 3862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191751284501516289/5MBOWaby_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191751284501516289/5MBOWaby_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1189100677668036609/1572973654",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 983,
+		"favorite_count": 470,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "참 잘쓴다~ https://t.co/ChRkohlVlm"
+	},
+	{
 		"created_at": "Tue Apr 07 15:12:47 +0000 2020",
 		"id": 1247390499033374700,
 		"id_str": "1247542847231758345",
