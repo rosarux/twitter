@@ -1,6 +1,1220 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 13:56:37 +0000 2020",
+		"id": 1248637719200157700,
+		"id_str": "1248973231312089088",
+		"full_text": "박 대표는 \"코로나19로 인한 경기침체까지 더해져 새로운 길을 낼 방도가 없다\"고 토로했다. 그는 \"선거를 앞둔 국회 판단이 한 회사의 미래를 빼앗고, 드라이버님들의 귀중한 일자리를 빼앗는 현실이 참담하다\"고 목소리를 높였다.\n\n핑계거리가 생긴 전원해고 업장폐쇄 자본가\n\n_ https://t.co/zkwA9BH5hG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248637700187414500,
+					"id_str": "1248637700187414539",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EVQNX2zU4AsPhto.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVQNX2zU4AsPhto.png",
+					"url": "https://t.co/zkwA9BH5hG",
+					"display_url": "pic.twitter.com/zkwA9BH5hG",
+					"expanded_url": "https://twitter.com/woochick/status/1248637719200157697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 658,
+							"h": 504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 658,
+							"h": 504,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 658,
+							"h": 504,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248637700187414500,
+					"id_str": "1248637700187414539",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EVQNX2zU4AsPhto.png",
+					"media_url_https": "https://pbs.twimg.com/media/EVQNX2zU4AsPhto.png",
+					"url": "https://t.co/zkwA9BH5hG",
+					"display_url": "pic.twitter.com/zkwA9BH5hG",
+					"expanded_url": "https://twitter.com/woochick/status/1248637719200157697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 658,
+							"h": 504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 658,
+							"h": 504,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 658,
+							"h": 504,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63066773,
+			"id_str": "63066773",
+			"name": "춰",
+			"screen_name": "woochick",
+			"location": "덕우주",
+			"description": "부채깎는 노인",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1930,
+			"friends_count": 301,
+			"listed_count": 33,
+			"created_at": "Wed Aug 05 07:45:08 +0000 2009",
+			"favourites_count": 1210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B6B6B6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/871310530710953984/tqMYROD2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/871310530710953984/tqMYROD2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63066773/1394723610",
+			"profile_link_color": "FFBB00",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "BF0000",
+			"profile_text_color": "4D3339",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "박 대표는 \"코로나19로 인한 경기침체까지 더해져 새로운 길을 낼 방도가 없다\"고 토로했다. 그는 \"선거를 앞둔 국회 판단이 한 회사의 미래를 빼앗고, 드라이버님들의 귀중한 일자리를 빼앗는 현실이 참담하다\"고 목소리를 높였다.\n\n핑계거리가 생긴 전원해고 업장폐쇄 자본가\n\n_ https://t.co/zkwA9BH5hG"
+	},
+	{
+		"created_at": "Sat Apr 11 13:55:41 +0000 2020",
+		"id": 1248914604249370600,
+		"id_str": "1248972993834782721",
+		"full_text": "환경을 보호할 줄 몰라서\n일회용 장갑을 일일이 나눠주는게 아닙니다.\n\n투표소에서 \n손소독후 일회용장갑 착용, 열체크\n질본이 만든 프로세스예요.\n\n환경 보호한다며 집에서 바이러스 묻은 장갑 끼고 나가서 흐뜨러뜨리지 말아요.\n\n사람이 싫어서\n사회적 거리두기 하는거 아니잖아요!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 192943154,
+			"id_str": "192943154",
+			"name": "lovei20",
+			"screen_name": "lovei20",
+			"location": "대한민국",
+			"description": "영화...공연...드라마...스포츠를 좋아하는...나...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2097,
+			"friends_count": 839,
+			"listed_count": 19,
+			"created_at": "Mon Sep 20 15:40:51 +0000 2010",
+			"favourites_count": 7418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 102333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/612272247714123777/LYTejCxc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/612272247714123777/LYTejCxc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/192943154/1429196176",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 553,
+		"favorite_count": 256,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "환경을 보호할 줄 몰라서\n일회용 장갑을 일일이 나눠주는게 아닙니다.\n\n투표소에서 \n손소독후 일회용장갑 착용, 열체크\n질본이 만든 프로세스예요.\n\n환경 보호한다며 집에서 바이러스 묻은 장갑 끼고 나가서 흐뜨러뜨리지 말아요.\n\n사람이 싫어서\n사회적 거리두기 하는거 아니잖아요!"
+	},
+	{
+		"created_at": "Sat Apr 11 13:39:47 +0000 2020",
+		"id": 1248845660985516000,
+		"id_str": "1248968992028385280",
+		"full_text": "서천석 의사,\n\n“투표장에 개인적으로 장갑을 가지고 가면 비닐장갑을 끼지 않아도 된다는 글을 보네요.  바이러스 감염자라면 개인적으로 오염되었을 가능성이 높습니다. 맨손보다 장갑 위에서 바이러스는 더 오래 살아요. 결국 오염된 장갑은 투표장 내의 많은 것을 오염시키겠지요”\n\n좋은 정보네요! https://t.co/f0PM9npKLi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248845656262733800,
+					"id_str": "1248845656262733825",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EVTKgfjUcAEWURL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVTKgfjUcAEWURL.jpg",
+					"url": "https://t.co/f0PM9npKLi",
+					"display_url": "pic.twitter.com/f0PM9npKLi",
+					"expanded_url": "https://twitter.com/Pink12141/status/1248845660985516034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1121,
+							"h": 967,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 587,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1121,
+							"h": 967,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248845656262733800,
+					"id_str": "1248845656262733825",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EVTKgfjUcAEWURL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVTKgfjUcAEWURL.jpg",
+					"url": "https://t.co/f0PM9npKLi",
+					"display_url": "pic.twitter.com/f0PM9npKLi",
+					"expanded_url": "https://twitter.com/Pink12141/status/1248845660985516034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1121,
+							"h": 967,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 587,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1121,
+							"h": 967,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 862168094843654100,
+			"id_str": "862168094843654145",
+			"name": "핑크둘리",
+			"screen_name": "Pink12141",
+			"location": "California, USA",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4650,
+			"friends_count": 1526,
+			"listed_count": 4,
+			"created_at": "Wed May 10 04:51:06 +0000 2017",
+			"favourites_count": 189529,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 146237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235406960192708608/teruA30q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235406960192708608/teruA30q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/862168094843654145/1581905627",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1190,
+		"favorite_count": 299,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서천석 의사,\n\n“투표장에 개인적으로 장갑을 가지고 가면 비닐장갑을 끼지 않아도 된다는 글을 보네요.  바이러스 감염자라면 개인적으로 오염되었을 가능성이 높습니다. 맨손보다 장갑 위에서 바이러스는 더 오래 살아요. 결국 오염된 장갑은 투표장 내의 많은 것을 오염시키겠지요”\n\n좋은 정보네요! https://t.co/f0PM9npKLi"
+	},
+	{
+		"created_at": "Sat Apr 11 13:28:57 +0000 2020",
+		"id": 1248964256201994200,
+		"id_str": "1248966265432989696",
+		"full_text": "총선 사전투표율이 높다는 건 별다른 정치적 의미를 부여할 것 없다. 의미라면, 1100만명이나 참여한 투표가 무사히 끝났다는 데 둬야 한다. 바이러스 공포가 세계를 지배하는 중에도 사전투표를 잘 준비하고 치른 우리 모두를 서로 격려하며 마지막 마무리까지 잘하자. 사실 개표가 더 걱정이다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1209,
+			"friends_count": 355,
+			"listed_count": 24,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/733255325600505857/EMTpAXiY_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "총선 사전투표율이 높다는 건 별다른 정치적 의미를 부여할 것 없다. 의미라면, 1100만명이나 참여한 투표가 무사히 끝났다는 데 둬야 한다. 바이러스 공포가 세계를 지배하는 중에도 사전투표를 잘 준비하고 치른 우리 모두를 서로 격려하며 마지막 마무리까지 잘하자. 사실 개표가 더 걱정이다."
+	},
+	{
+		"created_at": "Sat Apr 11 12:29:16 +0000 2020",
+		"id": 1248917779165507600,
+		"id_str": "1248951246314070016",
+		"full_text": "본인의 포트폴리오 수익률은 공개하지 않지만 유료정보 가격은 공개하는 ‘전업 트레이더’ https://t.co/acIa3KJBlk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/acIa3KJBlk",
+					"expanded_url": "https://twitter.com/eaupierre/status/1248913261208039424",
+					"display_url": "twitter.com/eaupierre/stat…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 131497324,
+			"id_str": "131497324",
+			"name": "코딩잡부 월급루팡",
+			"screen_name": "coding_lupin",
+			"location": "Seattle, WA",
+			"description": "해외에서 코드 팔아서 먹고 삽니다. 트윗은 개인의 의견이며 회사와는 관계가 없습니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5026,
+			"friends_count": 618,
+			"listed_count": 75,
+			"created_at": "Sat Apr 10 13:01:09 +0000 2010",
+			"favourites_count": 5748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133276614505115648/eWeeHEc__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133276614505115648/eWeeHEc__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/131497324/1542238479",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248913261208039400,
+		"quoted_status_id_str": "1248913261208039424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/acIa3KJBlk",
+			"expanded": "https://twitter.com/eaupierre/status/1248913261208039424",
+			"display": "twitter.com/eaupierre/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 11 09:58:19 +0000 2020",
+			"id": 1248913261208039400,
+			"id_str": "1248913261208039424",
+			"full_text": "\"유료로 전환한 뒤로는 가입자 수는 4000명 정도다.\" 김동조 블로그 유료 정보 가격을 보고 잠시 당황... 투자는 부업인건가?! https://t.co/id9D7QJ4T5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1248912980940427300,
+						"id_str": "1248912980940427264",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/EVUHvThUEAAm0W-.png",
+						"media_url_https": "https://pbs.twimg.com/media/EVUHvThUEAAm0W-.png",
+						"url": "https://t.co/id9D7QJ4T5",
+						"display_url": "pic.twitter.com/id9D7QJ4T5",
+						"expanded_url": "https://twitter.com/eaupierre/status/1248913261208039424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 683,
+								"h": 179,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 178,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 683,
+								"h": 179,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1248912980940427300,
+						"id_str": "1248912980940427264",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/EVUHvThUEAAm0W-.png",
+						"media_url_https": "https://pbs.twimg.com/media/EVUHvThUEAAm0W-.png",
+						"url": "https://t.co/id9D7QJ4T5",
+						"display_url": "pic.twitter.com/id9D7QJ4T5",
+						"expanded_url": "https://twitter.com/eaupierre/status/1248913261208039424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 683,
+								"h": 179,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 178,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 683,
+								"h": 179,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 42414289,
+				"id_str": "42414289",
+				"name": "𝗹𝗼𝗯𝗼𝗼𝘀 🐯",
+				"screen_name": "eaupierre",
+				"location": "",
+				"description": "편견이 많은 삶에 필요한 것은 상상력과 믿음뿐. 이렇게 살지 말자.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10500,
+				"friends_count": 936,
+				"listed_count": 134,
+				"created_at": "Mon May 25 14:30:02 +0000 2009",
+				"favourites_count": 4866,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 101180,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1025052840991944704/frtYbsBC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1025052840991944704/frtYbsBC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/42414289/1512781250",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 43,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "본인의 포트폴리오 수익률은 공개하지 않지만 유료정보 가격은 공개하는 ‘전업 트레이더’ https://t.co/acIa3KJBlk"
+	},
+	{
+		"created_at": "Sat Apr 11 10:15:55 +0000 2020",
+		"id": 1248917028422840300,
+		"id_str": "1248917687654174721",
+		"full_text": "리) 집에서 가져온 개인장갑이 모두다 '바이러스 묻은 장갑'은 아니겠지만, '위생과 안전을 아무도 보증할수 없는 장갑'인건 확실하잖아요. 투표장은 사회적 거리두기를 잠시 멈춘 대규모의 사람들이 모여들게 될 공간입니다. 그날 하루만은 환경보호 보다 그 공간을 안전하게 지키는 일에 집중합시다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141659122,
+			"id_str": "141659122",
+			"name": "박작가",
+			"screen_name": "antipoint",
+			"location": "",
+			"description": "극 씁니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150160,
+			"friends_count": 416,
+			"listed_count": 719,
+			"created_at": "Sat May 08 17:26:11 +0000 2010",
+			"favourites_count": 2008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088047491415605248/WzQK9WPe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088047491415605248/WzQK9WPe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141659122/1582048398",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 71,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "리) 집에서 가져온 개인장갑이 모두다 '바이러스 묻은 장갑'은 아니겠지만, '위생과 안전을 아무도 보증할수 없는 장갑'인건 확실하잖아요. 투표장은 사회적 거리두기를 잠시 멈춘 대규모의 사람들이 모여들게 될 공간입니다. 그날 하루만은 환경보호 보다 그 공간을 안전하게 지키는 일에 집중합시다."
+	},
+	{
+		"created_at": "Sat Apr 11 09:32:56 +0000 2020",
+		"id": 1248730483204055000,
+		"id_str": "1248906871341060097",
+		"full_text": "아닙니다. 개인장갑을 가져가도 투표소에서 쓰고나면 폐기해야합니다.  불특정다수가 손댄것을 만져서 감염이되는걸 막자는 의도이고 그 의도가 완성되려면 투표장을 나오면서 안에서 썼던건 폐기해야합니다.  당신의 개인장갑 한켤레가  여러명을 바이러스에 노출시킬수있습니다. https://t.co/9eGn5qD2oJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9eGn5qD2oJ",
+					"expanded_url": "https://twitter.com/eco_kwen/status/1248546354374168576",
+					"display_url": "twitter.com/eco_kwen/statu…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1014036812157804500,
+			"id_str": "1014036812157804544",
+			"name": "misshyde",
+			"screen_name": "heysaythere",
+			"location": "욕쟁이나라 한구석",
+			"description": "엉피씨욕쟁이하미녀\n\n뮤덕아니에오. 류덕도 아니에오.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67,
+			"friends_count": 97,
+			"listed_count": 3,
+			"created_at": "Tue Jul 03 06:43:10 +0000 2018",
+			"favourites_count": 543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245751680320204800/9pk6UUln_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245751680320204800/9pk6UUln_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1014036812157804544/1585963699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248546354374168600,
+		"quoted_status_id_str": "1248546354374168576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9eGn5qD2oJ",
+			"expanded": "https://twitter.com/eco_kwen/status/1248546354374168576",
+			"display": "twitter.com/eco_kwen/statu…"
+		},
+		"retweet_count": 2333,
+		"favorite_count": 209,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아닙니다. 개인장갑을 가져가도 투표소에서 쓰고나면 폐기해야합니다.  불특정다수가 손댄것을 만져서 감염이되는걸 막자는 의도이고 그 의도가 완성되려면 투표장을 나오면서 안에서 썼던건 폐기해야합니다.  당신의 개인장갑 한켤레가  여러명을 바이러스에 노출시킬수있습니다. https://t.co/9eGn5qD2oJ"
+	},
+	{
+		"created_at": "Sat Apr 11 09:32:47 +0000 2020",
+		"id": 1248731952686887000,
+		"id_str": "1248906834976505856",
+		"full_text": "이런게 이번선거에서  방역의 구멍이될수있습니다.  투표장에서 사용한건  그곳을 나오면서  폐기해야합니다. 선한의도로 했던 일이 타인의 건강과 생명을 침해할수있습니다\n\nhttps://t.co/TJti2MrsQO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TJti2MrsQO",
+					"expanded_url": "https://twitter.com/eco_kwen/status/1248546354374168576?s=19",
+					"display_url": "twitter.com/eco_kwen/statu…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1248730483204055000,
+		"in_reply_to_status_id_str": "1248730483204055040",
+		"in_reply_to_user_id": 1014036812157804500,
+		"in_reply_to_user_id_str": "1014036812157804544",
+		"in_reply_to_screen_name": "heysaythere",
+		"user": {
+			"id": 1014036812157804500,
+			"id_str": "1014036812157804544",
+			"name": "misshyde",
+			"screen_name": "heysaythere",
+			"location": "욕쟁이나라 한구석",
+			"description": "엉피씨욕쟁이하미녀\n\n뮤덕아니에오. 류덕도 아니에오.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67,
+			"friends_count": 97,
+			"listed_count": 3,
+			"created_at": "Tue Jul 03 06:43:10 +0000 2018",
+			"favourites_count": 543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245751680320204800/9pk6UUln_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245751680320204800/9pk6UUln_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1014036812157804544/1585963699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1248546354374168600,
+		"quoted_status_id_str": "1248546354374168576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TJti2MrsQO",
+			"expanded": "https://twitter.com/eco_kwen/status/1248546354374168576?s=19",
+			"display": "twitter.com/eco_kwen/statu…"
+		},
+		"retweet_count": 430,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이런게 이번선거에서  방역의 구멍이될수있습니다.  투표장에서 사용한건  그곳을 나오면서  폐기해야합니다. 선한의도로 했던 일이 타인의 건강과 생명을 침해할수있습니다\n\nhttps://t.co/TJti2MrsQO"
+	},
+	{
+		"created_at": "Sat Apr 11 08:03:41 +0000 2020",
+		"id": 1248832671645487000,
+		"id_str": "1248884410528616449",
+		"full_text": "DJ가 불러서 상의한 사람이 손 마사요시와 빌 게이츠니까 IT 인프라 투자 이야기가 나왔지, 국내 대기업들 총수 불렀으면 분명 공적자금 무한 투입, 간단한 해고 따위를 이야기했을 거라는 편견을 갖고 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18895603,
+			"id_str": "18895603",
+			"name": "Minhyung",
+			"screen_name": "lostland",
+			"location": "Seoul, Korea",
+			"description": "Novice programmer. Mostly harmless. Profile Image Source: https://t.co/uVkl7V7Vyk © 2018 Pronama LLC",
+			"url": "https://t.co/lSFHYeNULy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lSFHYeNULy",
+							"expanded_url": "http://ask.fm/lostland",
+							"display_url": "ask.fm/lostland",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/uVkl7V7Vyk",
+							"expanded_url": "https://pronama.jp/2019/03/30/post-82180/",
+							"display_url": "pronama.jp/2019/03/30/pos…",
+							"indices": [
+								58,
+								81
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 95,
+			"friends_count": 96,
+			"listed_count": 25,
+			"created_at": "Mon Jan 12 08:35:00 +0000 2009",
+			"favourites_count": 119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112043182106144769/iDt_mWf__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112043182106144769/iDt_mWf__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18895603/1392652511",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 389,
+		"favorite_count": 148,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "DJ가 불러서 상의한 사람이 손 마사요시와 빌 게이츠니까 IT 인프라 투자 이야기가 나왔지, 국내 대기업들 총수 불렀으면 분명 공적자금 무한 투입, 간단한 해고 따위를 이야기했을 거라는 편견을 갖고 있습니다."
+	},
+	{
+		"created_at": "Sat Apr 11 05:31:50 +0000 2020",
+		"id": 1248783448761753600,
+		"id_str": "1248846198925971457",
+		"full_text": "의석에 따라 할 수 있는 일\n지역구5석 - 전국통일기호\n20석 - 원내교섭단체\n100석 초과 - 개헌 저지\n150석 초과 - 예산안 단독 처리, 합의된 일반적 법안 단독 가결\n180석 초과 - 국회선진화법으로 인한 지연전술 무력화\n200석 이상 - 대통령지정기록물 봉인해제, 개헌 단독 결의",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58181265,
+			"id_str": "58181265",
+			"name": "이비",
+			"screen_name": "_ibbie",
+			"location": "paraguay, asuncion",
+			"description": "플텍계 팔로워는 맞팔 안받으면 블언블함. RT가 동의인 건 아님 / T(O)RPG(gurps)/ 내 트윗은 나 외의 어느 누구의 뜻도 대변하지 않음",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1719,
+			"friends_count": 2010,
+			"listed_count": 21,
+			"created_at": "Sun Jul 19 11:51:16 +0000 2009",
+			"favourites_count": 47618,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 208155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1124344744220348416/JLexKpyS_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1124344744220348416/JLexKpyS_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58181265/1533710770",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 516,
+		"favorite_count": 203,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "의석에 따라 할 수 있는 일\n지역구5석 - 전국통일기호\n20석 - 원내교섭단체\n100석 초과 - 개헌 저지\n150석 초과 - 예산안 단독 처리, 합의된 일반적 법안 단독 가결\n180석 초과 - 국회선진화법으로 인한 지연전술 무력화\n200석 이상 - 대통령지정기록물 봉인해제, 개헌 단독 결의"
+	},
+	{
 		"created_at": "Thu Apr 09 06:38:01 +0000 2020",
 		"id": 1248138078973116400,
 		"id_str": "1248138078973116416",
