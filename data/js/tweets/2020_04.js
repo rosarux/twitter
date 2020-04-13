@@ -1,6 +1,1882 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 22:54:00 +0000 2020",
+		"id": 1249339048776175600,
+		"id_str": "1249470854674571264",
+		"full_text": "이게 사실인데, 성향을 떠나, 분야를 떠나, 실험하고 과학하는 사람들이라면, 그리고 데이터를 보는 일을 업으로 삼고 합리적 인과관계를 들여다보며 퍼즐을 맞춰가는 일응을하는 사람들이라면, 어느 정도 지적 능력이 있는 사람이라면, 호오때문에 스스로 눈을 멀게하지 않는 사람이라면 지금 https://t.co/d07IbHFeaf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d07IbHFeaf",
+					"expanded_url": "https://twitter.com/thehowie/status/1249334793193558018",
+					"display_url": "twitter.com/thehowie/statu…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 461263284,
+			"id_str": "461263284",
+			"name": "GG🌱",
+			"screen_name": "operationoxygen",
+			"location": "대한민국",
+			"description": "에피쿰 뚝딱! 꼬마가 만들어낸 주문. 혈액암 환자. 잘 이겨내자...!! Lab of Axon Regeneration & Degeneration, Lymphoma patient 6xR-CHOP/radiation/high dose chemo/autoSCT",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3798,
+			"friends_count": 3392,
+			"listed_count": 63,
+			"created_at": "Wed Jan 11 16:30:21 +0000 2012",
+			"favourites_count": 192481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 130657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218877508361191426/saoW3Hwy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218877508361191426/saoW3Hwy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/461263284/1580044300",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1249334793193558000,
+		"quoted_status_id_str": "1249334793193558018",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d07IbHFeaf",
+			"expanded": "https://twitter.com/thehowie/status/1249334793193558018",
+			"display": "twitter.com/thehowie/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 12 13:53:20 +0000 2020",
+			"id": 1249334793193558000,
+			"id_str": "1249334793193558018",
+			"full_text": "Today is 1 month since #SouthKorea hit peak cases in isolation. 4 days in row of sub-50 new #Covid19 cases (32 today); MOST cases are \"imported,\" primarily from USA. Weekend testing is 4.1K, still large for this level of outbreak.  1/3 https://t.co/B5bYR3wWQ6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SouthKorea",
+						"indices": [
+							23,
+							34
+						]
+					},
+					{
+						"text": "Covid19",
+						"indices": [
+							92,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1249334472694169600,
+						"id_str": "1249334472694169600",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/EVaHFWqWAAAvZ0s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVaHFWqWAAAvZ0s.jpg",
+						"url": "https://t.co/B5bYR3wWQ6",
+						"display_url": "pic.twitter.com/B5bYR3wWQ6",
+						"expanded_url": "https://twitter.com/thehowie/status/1249334793193558018/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1848,
+								"h": 862,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 317,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 560,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1249334472694169600,
+						"id_str": "1249334472694169600",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/EVaHFWqWAAAvZ0s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVaHFWqWAAAvZ0s.jpg",
+						"url": "https://t.co/B5bYR3wWQ6",
+						"display_url": "pic.twitter.com/B5bYR3wWQ6",
+						"expanded_url": "https://twitter.com/thehowie/status/1249334793193558018/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1848,
+								"h": 862,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 317,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 560,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13329732,
+				"id_str": "13329732",
+				"name": "(((Howard Forman)))",
+				"screen_name": "thehowie",
+				"location": "new haven",
+				"description": "Emergency/Trauma #Radiologist; Health Policy/Econ Professor;  Former U.S. Senate Staff; #Covid19 #ConservativeDemocrat 🏳️‍🌈",
+				"url": "https://t.co/Czxu0OBojn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Czxu0OBojn",
+								"expanded_url": "https://tinyurl.com/txvv3ny",
+								"display_url": "tinyurl.com/txvv3ny",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40464,
+				"friends_count": 1161,
+				"listed_count": 624,
+				"created_at": "Mon Feb 11 01:33:34 +0000 2008",
+				"favourites_count": 30884,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 37207,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1185163655999975424/ROw6Aa-k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185163655999975424/ROw6Aa-k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13329732/1483277176",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 154,
+			"favorite_count": 291,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 88,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이게 사실인데, 성향을 떠나, 분야를 떠나, 실험하고 과학하는 사람들이라면, 그리고 데이터를 보는 일을 업으로 삼고 합리적 인과관계를 들여다보며 퍼즐을 맞춰가는 일응을하는 사람들이라면, 어느 정도 지적 능력이 있는 사람이라면, 호오때문에 스스로 눈을 멀게하지 않는 사람이라면 지금 https://t.co/d07IbHFeaf"
+	},
+	{
+		"created_at": "Sun Apr 12 22:53:54 +0000 2020",
+		"id": 1249339055965220900,
+		"id_str": "1249470828837621760",
+		"full_text": "우리가 단 한 달만에, 어떤 “불가능”을 “가능”하게 실현했는지 판단할수 있을겁니다. 지난 두 달여간 내가 우리 나라에 대해서 느꼈던 기분은 마치 박근혜가 대통령으로 뽑혔던 그때의 기분입니다. 도데체 이렇게 하고있는데 어떻게 욕을 할 수가 있지..? 평균 지적 능력이 이정도로 낮았던걸까?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1249339048776175600,
+		"in_reply_to_status_id_str": "1249339048776175616",
+		"in_reply_to_user_id": 461263284,
+		"in_reply_to_user_id_str": "461263284",
+		"in_reply_to_screen_name": "operationoxygen",
+		"user": {
+			"id": 461263284,
+			"id_str": "461263284",
+			"name": "GG🌱",
+			"screen_name": "operationoxygen",
+			"location": "대한민국",
+			"description": "에피쿰 뚝딱! 꼬마가 만들어낸 주문. 혈액암 환자. 잘 이겨내자...!! Lab of Axon Regeneration & Degeneration, Lymphoma patient 6xR-CHOP/radiation/high dose chemo/autoSCT",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3798,
+			"friends_count": 3392,
+			"listed_count": 63,
+			"created_at": "Wed Jan 11 16:30:21 +0000 2012",
+			"favourites_count": 192481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 130657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218877508361191426/saoW3Hwy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218877508361191426/saoW3Hwy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/461263284/1580044300",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "우리가 단 한 달만에, 어떤 “불가능”을 “가능”하게 실현했는지 판단할수 있을겁니다. 지난 두 달여간 내가 우리 나라에 대해서 느꼈던 기분은 마치 박근혜가 대통령으로 뽑혔던 그때의 기분입니다. 도데체 이렇게 하고있는데 어떻게 욕을 할 수가 있지..? 평균 지적 능력이 이정도로 낮았던걸까?"
+	},
+	{
+		"created_at": "Sun Apr 12 15:43:23 +0000 2020",
+		"id": 1249359565230977000,
+		"id_str": "1249362487146737664",
+		"full_text": "Okinawa: Once a year - monitored by military police - US allows local families back onto their seized land to pay respects at ancestral graves. https://t.co/NQGeL4QjTo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NQGeL4QjTo",
+					"expanded_url": "https://twitter.com/johnmatsumotoph/status/1249289087938211842",
+					"display_url": "twitter.com/johnmatsumotop…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968097194,
+			"id_str": "968097194",
+			"name": "Jon Mitchell 🏴󠁧󠁢󠁷󠁬󠁳󠁿 ジョン・ミッチェル",
+			"screen_name": "jonmitchell_jp",
+			"location": "東京・英国・沖縄",
+			"description": "British journalist in Japan w/ Okinawa Times. FCCJ Press Freedom winner. 沖縄タイムス特約通信員。FCCJ報道の自由推進賞「報道功労賞」受賞。「追跡・沖縄の枯れ葉剤」高文研、「追跡・日米地位協定と基地公害」岩波書店。",
+			"url": "https://t.co/Y1WNjnHXu7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y1WNjnHXu7",
+							"expanded_url": "http://www.jonmitchellinjapan.com",
+							"display_url": "jonmitchellinjapan.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4962,
+			"friends_count": 300,
+			"listed_count": 292,
+			"created_at": "Sat Nov 24 14:13:52 +0000 2012",
+			"favourites_count": 390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077557384342458368/AT6vF71Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077557384342458368/AT6vF71Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968097194/1573128272",
+			"profile_link_color": "151B54",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1249289087938211800,
+		"quoted_status_id_str": "1249289087938211842",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NQGeL4QjTo",
+			"expanded": "https://twitter.com/johnmatsumotoph/status/1249289087938211842",
+			"display": "twitter.com/johnmatsumotop…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 12 10:51:43 +0000 2020",
+			"id": 1249289087938211800,
+			"id_str": "1249289087938211842",
+			"full_text": "米軍基地内に墓がある家族は年に１度だけ墓参のため出入りが許される。沖縄の人にとって重要なシーミー（清明祭）の墓参も軍警察のパトカーが巡回してくるため落ち着いてご先祖様に手を合わせていられない。毎年、胸が痛む光景だ。 https://t.co/88848kqX0Z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1249287715129979000,
+						"id_str": "1249287715129978881",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/EVZcjtKU8AEvrEz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVZcjtKU8AEvrEz.jpg",
+						"url": "https://t.co/88848kqX0Z",
+						"display_url": "pic.twitter.com/88848kqX0Z",
+						"expanded_url": "https://twitter.com/johnmatsumotoph/status/1249289087938211842/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 350,
+								"h": 233,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 350,
+								"h": 233,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 350,
+								"h": 233,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1249287715129979000,
+						"id_str": "1249287715129978881",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/EVZcjtKU8AEvrEz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVZcjtKU8AEvrEz.jpg",
+						"url": "https://t.co/88848kqX0Z",
+						"display_url": "pic.twitter.com/88848kqX0Z",
+						"expanded_url": "https://twitter.com/johnmatsumotoph/status/1249289087938211842/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 350,
+								"h": 233,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 350,
+								"h": 233,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 350,
+								"h": 233,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 895503091,
+				"id_str": "895503091",
+				"name": "ジャン松元 John Matsumoto,John Edward Ellefson",
+				"screen_name": "johnmatsumotoph",
+				"location": "沖縄県 Okinawa",
+				"description": "沖縄・金武生まれ。沖縄の写真家、琉球新報の写真記者。父は元アメリカ海兵隊員。母は奄美大島の人。3世代前の祖先はノルウェーとスコットランドからアメリカへの移民。あまくまチャンプルー人間。※ツイッターは100％個人的意見で参加しています。",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 982,
+				"friends_count": 1261,
+				"listed_count": 25,
+				"created_at": "Sun Oct 21 14:44:33 +0000 2012",
+				"favourites_count": 17351,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9528,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1241336763479556096/lBVfituw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241336763479556096/lBVfituw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/895503091/1574802129",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 152,
+			"favorite_count": 186,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 34,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Okinawa: Once a year - monitored by military police - US allows local families back onto their seized land to pay respects at ancestral graves. https://t.co/NQGeL4QjTo"
+	},
+	{
+		"created_at": "Sun Apr 12 15:39:34 +0000 2020",
+		"id": 1249351981245722600,
+		"id_str": "1249361525829038088",
+		"full_text": "ジョンソンの回復メッセージこれか。わかりやすい。NHSへの感謝の前に「外出を我慢している国民」に謝辞を述べている。そして特に名前を挙げた看護師2人については、ニュージーランドとポルトガルからの移民だったと。これマジでジョンソン？　「きれいなジャイアン」みたいに入れ替わってない？ https://t.co/zQxoI60oHS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zQxoI60oHS",
+					"expanded_url": "https://twitter.com/BorisJohnson/status/1249336590482243585",
+					"display_url": "twitter.com/BorisJohnson/s…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 108197246,
+			"id_str": "108197246",
+			"name": "手塚空",
+			"screen_name": "aibery",
+			"location": "東京都北区",
+			"description": "1991年札幌生まれ。主に、日常生活の中で不服従とDIYを結びつける仕事をしています。排外主義と優生思想に肉体的に抵抗します。",
+			"url": "https://t.co/UTtaIxBats",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UTtaIxBats",
+							"expanded_url": "https://www.instagram.com/sora_tezuka",
+							"display_url": "instagram.com/sora_tezuka",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3461,
+			"friends_count": 889,
+			"listed_count": 187,
+			"created_at": "Mon Jan 25 04:46:47 +0000 2010",
+			"favourites_count": 27110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "496B5E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171105512261160962/cNgkFYPU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171105512261160962/cNgkFYPU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/108197246/1564419680",
+			"profile_link_color": "3190BF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1249336590482243600,
+		"quoted_status_id_str": "1249336590482243585",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zQxoI60oHS",
+			"expanded": "https://twitter.com/BorisJohnson/status/1249336590482243585",
+			"display": "twitter.com/BorisJohnson/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 12 14:00:29 +0000 2020",
+			"id": 1249336590482243600,
+			"id_str": "1249336590482243585",
+			"full_text": "It is hard to find the words to express my debt to the NHS for saving my life.\n\nThe efforts of millions of people across this country to stay home are worth it. Together we will overcome this challenge, as we have overcome so many challenges in the past. #StayHomeSaveLives https://t.co/HK7Ch8BMB5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StayHomeSaveLives",
+						"indices": [
+							255,
+							273
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1249328750740856800,
+						"id_str": "1249328750740856834",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/EVaCytpXkAE-hNz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVaCytpXkAE-hNz.jpg",
+						"url": "https://t.co/HK7Ch8BMB5",
+						"display_url": "pic.twitter.com/HK7Ch8BMB5",
+						"expanded_url": "https://twitter.com/BorisJohnson/status/1249336590482243585/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1249328750740856800,
+						"id_str": "1249328750740856834",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/EVaCytpXkAE-hNz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EVaCytpXkAE-hNz.jpg",
+						"url": "https://t.co/HK7Ch8BMB5",
+						"display_url": "pic.twitter.com/HK7Ch8BMB5",
+						"expanded_url": "https://twitter.com/BorisJohnson/status/1249336590482243585/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 313240,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1249328750740856834/pl/G_BDJSHMvIpdcUzw.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1249328750740856834/vid/1280x720/Yk8w9mwz6wFB0IEV.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1249328750740856834/vid/640x360/LJVVNmLe1Xf5pSXB.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1249328750740856834/vid/480x270/83Bx8hizvgMF6JB-.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3131144855,
+				"id_str": "3131144855",
+				"name": "Boris Johnson #StayHomeSaveLives",
+				"screen_name": "BorisJohnson",
+				"location": "United Kingdom",
+				"description": "Prime Minister of the United Kingdom and @Conservatives leader. Member of Parliament for Uxbridge and South Ruislip. #StayHomeSaveLives",
+				"url": "https://t.co/cEV9soNllt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cEV9soNllt",
+								"expanded_url": "http://gov.uk/coronavirus",
+								"display_url": "gov.uk/coronavirus",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2365748,
+				"friends_count": 458,
+				"listed_count": 6383,
+				"created_at": "Wed Apr 01 20:15:49 +0000 2015",
+				"favourites_count": 439,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3417,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1200430685560983553/xRebdCDg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200430685560983553/xRebdCDg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3131144855/1584811274",
+				"profile_link_color": "2D5CA7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49399,
+			"favorite_count": 208842,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 667,
+		"favorite_count": 1271,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ジョンソンの回復メッセージこれか。わかりやすい。NHSへの感謝の前に「外出を我慢している国民」に謝辞を述べている。そして特に名前を挙げた看護師2人については、ニュージーランドとポルトガルからの移民だったと。これマジでジョンソン？　「きれいなジャイアン」みたいに入れ替わってない？ https://t.co/zQxoI60oHS"
+	},
+	{
+		"created_at": "Sun Apr 12 13:34:12 +0000 2020",
+		"id": 1248793742703616000,
+		"id_str": "1249329977931083776",
+		"full_text": "스타벅스가서 커피 산것과 룸살롱가서 술마시고 성매매 한것을 동일선상에 두고 기사화 할수 있다는 자체가 한국이 얼마나 기울어져있는지 보여준다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 228610555,
+			"id_str": "228610555",
+			"name": "두유",
+			"screen_name": "DoU________",
+			"location": "",
+			"description": "꿋꿋하게 대범하게",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 735,
+			"friends_count": 534,
+			"listed_count": 6,
+			"created_at": "Mon Dec 20 06:04:37 +0000 2010",
+			"favourites_count": 2544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233770585676644352/mAWMqH9d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233770585676644352/mAWMqH9d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/228610555/1571284785",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24039,
+		"favorite_count": 6177,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "스타벅스가서 커피 산것과 룸살롱가서 술마시고 성매매 한것을 동일선상에 두고 기사화 할수 있다는 자체가 한국이 얼마나 기울어져있는지 보여준다"
+	},
+	{
+		"created_at": "Sun Apr 12 11:50:56 +0000 2020",
+		"id": 1249302921981747200,
+		"id_str": "1249303989667020800",
+		"full_text": "国内感染新たに429人　累計7000人超え、4人死亡 | 2020/4/12 - 共同通信 https://t.co/xW3oiKyScT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xW3oiKyScT",
+					"expanded_url": "https://this.kiji.is/622031609317639265?c=39550187727945729",
+					"display_url": "this.kiji.is/62203160931763…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1186987604,
+			"id_str": "1186987604",
+			"name": "Chota Takamine 高嶺　朝太",
+			"screen_name": "tctnews",
+			"location": "Okinawa",
+			"description": "翻訳者、ジャーナリスト  T&CT Office  編集責任者  Translator, editor and journalist.  「調査報道実践マニュアル 」（旬報社）共訳、「中国・北朝鮮脅威論を超えて」（耕文社 ）共著。",
+			"url": "http://t.co/dsi9KwOW1a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/dsi9KwOW1a",
+							"expanded_url": "http://english.ryukyushimpo.jp/",
+							"display_url": "english.ryukyushimpo.jp",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1298,
+			"friends_count": 210,
+			"listed_count": 83,
+			"created_at": "Sat Feb 16 18:02:15 +0000 2013",
+			"favourites_count": 457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762248809514536961/LLdQMYAs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762248809514536961/LLdQMYAs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1186987604/1525591151",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "国内感染新たに429人　累計7000人超え、4人死亡 | 2020/4/12 - 共同通信 https://t.co/xW3oiKyScT"
+	},
+	{
+		"created_at": "Sun Apr 12 11:39:23 +0000 2020",
+		"id": 1249220941898346500,
+		"id_str": "1249301080959152130",
+		"full_text": "91년 4월부터 6월 정원식이 밀가루를 맞기까지 어떤 일이 있었는지는 쏙 빼고 \"앙심\"으로 표현한다. https://t.co/GGDfLrFsWK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GGDfLrFsWK",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1249214251106959366",
+					"display_url": "twitter.com/yonhaptweet/st…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126124997,
+			"id_str": "126124997",
+			"name": "백스터",
+			"screen_name": "baxter033",
+			"location": "",
+			"description": "나는 언제나 내 편입니다.\n(※ 야구 폭트 주의)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1236,
+			"friends_count": 534,
+			"listed_count": 17,
+			"created_at": "Wed Mar 24 22:35:39 +0000 2010",
+			"favourites_count": 5900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 78758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6F8A6D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094016933203070977/Vc2NrIfM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094016933203070977/Vc2NrIfM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126124997/1549669293",
+			"profile_link_color": "A84351",
+			"profile_sidebar_border_color": "C7C797",
+			"profile_sidebar_fill_color": "F0F0BB",
+			"profile_text_color": "343D30",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1249214251106959400,
+		"quoted_status_id_str": "1249214251106959366",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GGDfLrFsWK",
+			"expanded": "https://twitter.com/yonhaptweet/status/1249214251106959366",
+			"display": "twitter.com/yonhaptweet/st…"
+		},
+		"retweet_count": 60,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "91년 4월부터 6월 정원식이 밀가루를 맞기까지 어떤 일이 있었는지는 쏙 빼고 \"앙심\"으로 표현한다. https://t.co/GGDfLrFsWK"
+	},
+	{
+		"created_at": "Sun Apr 12 11:35:13 +0000 2020",
+		"id": 1249149722637545500,
+		"id_str": "1249300035403046919",
+		"full_text": "責任を取る https://t.co/END5sfB56u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1249149718820581400,
+					"id_str": "1249149718820581376",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/EVXfDQ2UcAADZRD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVXfDQ2UcAADZRD.jpg",
+					"url": "https://t.co/END5sfB56u",
+					"display_url": "pic.twitter.com/END5sfB56u",
+					"expanded_url": "https://twitter.com/TomoMachi/status/1249149722637545474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1137,
+							"h": 1022,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 611,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1137,
+							"h": 1022,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249149718820581400,
+					"id_str": "1249149718820581376",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/EVXfDQ2UcAADZRD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVXfDQ2UcAADZRD.jpg",
+					"url": "https://t.co/END5sfB56u",
+					"display_url": "pic.twitter.com/END5sfB56u",
+					"expanded_url": "https://twitter.com/TomoMachi/status/1249149722637545474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1137,
+							"h": 1022,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 611,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1137,
+							"h": 1022,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249149718820610000,
+					"id_str": "1249149718820610048",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/EVXfDQ2U4AA3tsN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVXfDQ2U4AA3tsN.jpg",
+					"url": "https://t.co/END5sfB56u",
+					"display_url": "pic.twitter.com/END5sfB56u",
+					"expanded_url": "https://twitter.com/TomoMachi/status/1249149722637545474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 749,
+							"h": 1035,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 1035,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 95014181,
+			"id_str": "95014181",
+			"name": "町山智浩",
+			"screen_name": "TomoMachi",
+			"location": "California, USA",
+			"description": "雑誌「映画秘宝」創刊者。 映画評論家「映画は、何も知らずに観ても面白い。でも、知ってから観ると100倍面白い。観てから知っても100倍面白い！」",
+			"url": "https://t.co/SSotoE03E9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SSotoE03E9",
+							"expanded_url": "http://d.hatena.ne.jp/TomoMachi/",
+							"display_url": "d.hatena.ne.jp/TomoMachi/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314296,
+			"friends_count": 214,
+			"listed_count": 8911,
+			"created_at": "Sun Dec 06 15:08:59 +0000 2009",
+			"favourites_count": 185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 89001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123252112316436480/KuWJCGeC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123252112316436480/KuWJCGeC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/95014181/1583690713",
+			"profile_link_color": "B40404",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3237,
+		"favorite_count": 6219,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "責任を取る https://t.co/END5sfB56u"
+	},
+	{
+		"created_at": "Sun Apr 12 11:29:49 +0000 2020",
+		"id": 1249295390936936400,
+		"id_str": "1249298675316080640",
+		"full_text": "사회진보연대는 진짜 보수적이네. 맑스의 화폐이론을 그대로 적용해서 재난기본소득 반대, 균형재정 유지 주장이라니ㅋㅋㅋ 금본위 시대도 아니고",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1140251360,
+			"id_str": "1140251360",
+			"name": "■까만사각형 레고■",
+			"screen_name": "Hadrianus753",
+			"location": "조선",
+			"description": "이것저것 씁니다 / 이것저것 혐오 안받아요 / 사회주의입니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 998,
+			"friends_count": 292,
+			"listed_count": 22,
+			"created_at": "Fri Feb 01 17:18:12 +0000 2013",
+			"favourites_count": 4743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 148062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245364879134838785/V2S6hTA2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245364879134838785/V2S6hTA2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1140251360/1566542009",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사회진보연대는 진짜 보수적이네. 맑스의 화폐이론을 그대로 적용해서 재난기본소득 반대, 균형재정 유지 주장이라니ㅋㅋㅋ 금본위 시대도 아니고"
+	},
+	{
+		"created_at": "Sun Apr 12 09:53:36 +0000 2020",
+		"id": 1248553010164142000,
+		"id_str": "1249274459606773762",
+		"full_text": "투표인증한다고 손에 도장찍는건 지금 이 모든 프로세스를 무용지물로 만드는 일입니다. 제발 인증한다고 장갑벗고 도장을 피부에 찍지 마세요.\n환경오염을  감안하고 비닐장갑을 왜 주는지 제발 생각해주세요. https://t.co/rsjqj4tDXA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248553007869919200,
+					"id_str": "1248553007869919232",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EVPAWHVVAAArryh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVPAWHVVAAArryh.jpg",
+					"url": "https://t.co/rsjqj4tDXA",
+					"display_url": "pic.twitter.com/rsjqj4tDXA",
+					"expanded_url": "https://twitter.com/mortlee_8/status/1248553010164142080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 658,
+							"h": 373,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 658,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 658,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248553007869919200,
+					"id_str": "1248553007869919232",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EVPAWHVVAAArryh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVPAWHVVAAArryh.jpg",
+					"url": "https://t.co/rsjqj4tDXA",
+					"display_url": "pic.twitter.com/rsjqj4tDXA",
+					"expanded_url": "https://twitter.com/mortlee_8/status/1248553010164142080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 658,
+							"h": 373,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 658,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 658,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3277124598,
+			"id_str": "3277124598",
+			"name": "mort Lee",
+			"screen_name": "mortlee_8",
+			"location": "사진문의는 dm",
+			"description": "📷SONY photographer.\nMOR.STARWARS.BLACKPANTHER.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 470,
+			"friends_count": 137,
+			"listed_count": 7,
+			"created_at": "Sun Jul 12 06:11:12 +0000 2015",
+			"favourites_count": 350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/859208005459509249/2yyzQiVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/859208005459509249/2yyzQiVX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3277124598/1493647927",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10286,
+		"favorite_count": 1943,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "투표인증한다고 손에 도장찍는건 지금 이 모든 프로세스를 무용지물로 만드는 일입니다. 제발 인증한다고 장갑벗고 도장을 피부에 찍지 마세요.\n환경오염을  감안하고 비닐장갑을 왜 주는지 제발 생각해주세요. https://t.co/rsjqj4tDXA"
+	},
+	{
+		"created_at": "Sun Apr 12 06:58:26 +0000 2020",
+		"id": 1249230380684599300,
+		"id_str": "1249230380684599297",
+		"full_text": "칸테이의 정무감각은 어디로(...)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 556,
+			"friends_count": 431,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "칸테이의 정무감각은 어디로(...)"
+	},
+	{
+		"created_at": "Sun Apr 12 02:46:53 +0000 2020",
+		"id": 1248887747227480000,
+		"id_str": "1249167075253391360",
+		"full_text": "개인장갑을 사용하는 것은 개인의 손을 그냥 사용하는 것과 같습니다. \"투표장 입구에서부터 손에서 손으로 바이러스를 옮기는 경로를 차단\"하고자 하는 비닐장갑의 의도와 완전히 반대되죠. 한시적인 것이니 제공하는 비닐장갑을 사용하세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1237747497168023600,
+			"id_str": "1237747497168023552",
+			"name": "Dr. 금비",
+			"screen_name": "goldgoblin3819",
+			"location": "뽀득뽀득오소리가 사는 집",
+			"description": "어쩌다 아픈 사람을 돌보게 된 황금도깨비입니다. 저 달이 다 할 그 때까지 가짜뉴스 팩트체크합니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 190,
+			"listed_count": 20,
+			"created_at": "Wed Mar 11 14:29:49 +0000 2020",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1239490139815956480/V1Q2Kszs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1239490139815956480/V1Q2Kszs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1237747497168023552/1586087707",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1478,
+		"favorite_count": 812,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "개인장갑을 사용하는 것은 개인의 손을 그냥 사용하는 것과 같습니다. \"투표장 입구에서부터 손에서 손으로 바이러스를 옮기는 경로를 차단\"하고자 하는 비닐장갑의 의도와 완전히 반대되죠. 한시적인 것이니 제공하는 비닐장갑을 사용하세요."
+	},
+	{
 		"created_at": "Sat Apr 11 13:56:37 +0000 2020",
 		"id": 1248637719200157700,
 		"id_str": "1248973231312089088",
