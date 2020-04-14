@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 13 12:54:17 +0000 2020",
+		"id": 1249632323349307400,
+		"id_str": "1249682320136613889",
+		"full_text": "그냥 일본에 뭘 기대하기엔 내 마음이 너무 지쳤어",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2952496166,
+			"id_str": "2952496166",
+			"name": "たる兵衛",
+			"screen_name": "03_Tartare30",
+			"location": "Anyang Korea/Chiba Japan",
+			"description": "일본 거주중인 한국인입니다. /잡식계/雑食垢/人身攻撃には積極対応致します。\n*일빠 아님, 일빠 사절",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 266,
+			"friends_count": 106,
+			"listed_count": 8,
+			"created_at": "Tue Dec 30 18:36:20 +0000 2014",
+			"favourites_count": 6286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 47823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1237011434879344640/6k_suAf4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237011434879344640/6k_suAf4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2952496166/1558524201",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그냥 일본에 뭘 기대하기엔 내 마음이 너무 지쳤어"
+	},
+	{
+		"created_at": "Mon Apr 13 12:52:35 +0000 2020",
+		"id": 1249538603157319700,
+		"id_str": "1249681890090479616",
+		"full_text": "'선진국'에 정답이 있다는 생각을 놓지를 못해서 자신이 무슨 이야기를 하는지도 모름. '다른 나라 공장 다 멈췄는데 한국만 돌아가다니?'가 우리도 공장을 멈추고 실업자나 실업자에 준하는 상태를 만들어야하는 합리적인 이유가 되나? https://t.co/cg3DZ6XqU7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cg3DZ6XqU7",
+					"expanded_url": "https://twitter.com/PRESSIAN_news/status/1249512251901399041",
+					"display_url": "twitter.com/PRESSIAN_news/…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54579208,
+			"id_str": "54579208",
+			"name": "괴골 [개물]",
+			"screen_name": "cfr0g",
+			"location": "",
+			"description": "데이터나 과학 이야기 가끔.",
+			"url": "https://t.co/bkAeD9tAxc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bkAeD9tAxc",
+							"expanded_url": "http://cfr0g.wordpress.com",
+							"display_url": "cfr0g.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4775,
+			"friends_count": 160,
+			"listed_count": 150,
+			"created_at": "Tue Jul 07 15:30:26 +0000 2009",
+			"favourites_count": 628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "195679",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810793493517910016/CHvgUsjN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54579208/1402586925",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1249512251901399000,
+		"quoted_status_id_str": "1249512251901399041",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cg3DZ6XqU7",
+			"expanded": "https://twitter.com/PRESSIAN_news/status/1249512251901399041",
+			"display": "twitter.com/PRESSIAN_news/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 13 01:38:30 +0000 2020",
+			"id": 1249512251901399000,
+			"id_str": "1249512251901399041",
+			"full_text": "\"다른 나라의 경우 코로나19 지역사회 감염을 막기 위해 휴교도 하고 공장 가동도 중단시켰다면, 한국의 경우 휴교는 했지만 공장만은 팽팽 돌렸다. 전 세계에서 한국의 코로나19 대응에 대한 칭찬이 자자하다는데, 이런 현상이 과연 자랑할 거리인지는 의문이다.\"\n\nhttps://t.co/xr7pkRFtup",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xr7pkRFtup",
+						"expanded_url": "https://www.pressian.com/pages/articles/2020041310045992176",
+						"display_url": "pressian.com/pages/articles…",
+						"indices": [
+							146,
+							169
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101700883,
+				"id_str": "101700883",
+				"name": "언론 협동조합 프레시안",
+				"screen_name": "PRESSIAN_news",
+				"location": "서울",
+				"description": "언론 협동조합 프레시안 공식 트위터입니다",
+				"url": "http://t.co/yBOp0OQBd4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/yBOp0OQBd4",
+								"expanded_url": "http://www.PRESSIAN.com",
+								"display_url": "PRESSIAN.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 183520,
+				"friends_count": 55890,
+				"listed_count": 3738,
+				"created_at": "Mon Jan 04 08:23:21 +0000 2010",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 55241,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000184902587/a45647c1bfd893d99b4bf8417b87411a_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000184902587/a45647c1bfd893d99b4bf8417b87411a_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101700883/1583312163",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 163,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'선진국'에 정답이 있다는 생각을 놓지를 못해서 자신이 무슨 이야기를 하는지도 모름. '다른 나라 공장 다 멈췄는데 한국만 돌아가다니?'가 우리도 공장을 멈추고 실업자나 실업자에 준하는 상태를 만들어야하는 합리적인 이유가 되나? https://t.co/cg3DZ6XqU7"
+	},
+	{
+		"created_at": "Mon Apr 13 09:18:57 +0000 2020",
+		"id": 1249526926361784300,
+		"id_str": "1249628127673765888",
+		"full_text": "의사들 중에도 코로나 검사 숫자나 확진자 수를 정부에서 의도적으로 줄일 수 있다고 생각하는 사람들이 있다는게 참 신기하다. 대부분 일선에서 검사하는 상황을 모르는 사람들이겠거니 하고는 있지만.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 121001834,
+			"id_str": "121001834",
+			"name": "Sung Geun Kim",
+			"screen_name": "Lionsfather",
+			"location": "Seoul, Korea",
+			"description": "외과의사, 가톨릭의대 교수, Haiti medical aid team,Justice, Peace, Homo Politicus, Mozart, Astronomy, Photography",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1471,
+			"friends_count": 571,
+			"listed_count": 43,
+			"created_at": "Mon Mar 08 06:12:44 +0000 2010",
+			"favourites_count": 357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/739912991/60285_8070_5919_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/739912991/60285_8070_5919_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/121001834/1398342646",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 351,
+		"favorite_count": 170,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "의사들 중에도 코로나 검사 숫자나 확진자 수를 정부에서 의도적으로 줄일 수 있다고 생각하는 사람들이 있다는게 참 신기하다. 대부분 일선에서 검사하는 상황을 모르는 사람들이겠거니 하고는 있지만."
+	},
+	{
 		"created_at": "Sun Apr 12 22:54:00 +0000 2020",
 		"id": 1249339048776175600,
 		"id_str": "1249470854674571264",
@@ -213,7 +595,7 @@ Grailbird.data.tweets_2020_04 =
 				"name": "(((Howard Forman)))",
 				"screen_name": "thehowie",
 				"location": "new haven",
-				"description": "Emergency/Trauma #Radiologist; Health Policy/Econ Professor;  Former U.S. Senate Staff; #Covid19 #ConservativeDemocrat 🏳️‍🌈",
+				"description": "Emergency/Trauma #Radiologist; Health Policy/Econ Professor;  Former U.S. Senate Staff; #Covid19 #ConservativeDemocrat 🏳️🌈",
 				"url": "https://t.co/Czxu0OBojn",
 				"entities": {
 					"url": {
