@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 08:04:48 +0000 2020",
+		"id": 1250589266406568000,
+		"id_str": "1250696633479659520",
+		"full_text": "지금의 20대 남자들에게 필요한 건 재사회화지 설득이 아닐 것 같다만. 애초에 설득할 여지가 있나? N번방 스너프 필름 못 잃어 광광대는 놈들에게 무슨 설득을 한단 말인가.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 192260168,
+			"id_str": "192260168",
+			"name": "NOT DiGITAL",
+			"screen_name": "NOT_DiGITAL_",
+			"location": "Korea, Republic of",
+			"description": "이 시대의 지극히 건전하고 평범한 직장인.",
+			"url": "http://t.co/2ElYr39Zcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2ElYr39Zcc",
+							"expanded_url": "http://notdigital.net",
+							"display_url": "notdigital.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2461,
+			"friends_count": 896,
+			"listed_count": 64,
+			"created_at": "Sat Sep 18 16:45:29 +0000 2010",
+			"favourites_count": 13410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 224092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1743001919/twitter_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1743001919/twitter_normal.png",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4162,
+		"favorite_count": 1107,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지금의 20대 남자들에게 필요한 건 재사회화지 설득이 아닐 것 같다만. 애초에 설득할 여지가 있나? N번방 스너프 필름 못 잃어 광광대는 놈들에게 무슨 설득을 한단 말인가."
+	},
+	{
 		"created_at": "Wed Apr 15 22:57:09 +0000 2020",
 		"id": 1250552006252523500,
 		"id_str": "1250558812328652801",
@@ -210,7 +304,7 @@ Grailbird.data.tweets_2020_04 =
 			"name": "정소연",
 			"screen_name": "sy876",
 			"location": "여의도, 서울",
-			"description": "변호사. SF작가・번역가. 여기에는 제가 쓰고 싶은 글을 씁니다. // 온라인 법률상담 X // 상담문의 02-780-0328 //🏳️‍🌈// 마이붐:뉴이스트(렌) // instagram: sfwriterjeong (EN)",
+			"description": "변호사. SF작가・번역가. 여기에는 제가 쓰고 싶은 글을 씁니다. // 온라인 법률상담 X // 상담문의 02-780-0328 //🏳️🌈// 마이붐:뉴이스트(렌) // instagram: sfwriterjeong (EN)",
 			"url": "https://t.co/p43kC6e82H",
 			"entities": {
 				"url": {
@@ -574,7 +668,7 @@ Grailbird.data.tweets_2020_04 =
 		"user": {
 			"id": 116991627,
 			"id_str": "116991627",
-			"name": "🏳️‍🌈대뇌찌질🏳️‍⚧",
+			"name": "🏳️🌈대뇌찌질🏳️⚧",
 			"screen_name": "HaxenHammer",
 			"location": "",
 			"description": "국가공인아키비스트(돈듦)/대체로 애니프사 200% 한남/(前)노동당원/VCP찬성/퀄리티필터 적용 중",
