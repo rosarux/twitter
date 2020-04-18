@@ -1,6 +1,634 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 17 23:30:44 +0000 2020",
+		"id": 1251276184983224300,
+		"id_str": "1251292038974197762",
+		"full_text": "진정 태구민이 가져온 특이점 그동안 중국혐오 호남혐오 소수자혐오를 방조하던 조중동이 혐오발언에 대한 문제제기를 함 https://t.co/qQ8lM18cBS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qQ8lM18cBS",
+					"expanded_url": "https://twitter.com/joongangilbo/status/1250952151427239936",
+					"display_url": "twitter.com/joongangilbo/s…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 273786271,
+			"id_str": "273786271",
+			"name": "F_teatime😷",
+			"screen_name": "F_teatime78",
+			"location": "Korea",
+			"description": "아들딸엄마/비자발적 실직자/재봉러/프로 트잉여/novaflare 혹은 Filia /여성혐오&소수자혐오&정치적여성애자론 안 삽니다/트윗 내용 개인적 의견 많음 (적절히 필터링 요망)/체인블락 미러블락 사용함/비팔로잉계정 알림을 꺼놨습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2606,
+			"friends_count": 624,
+			"listed_count": 38,
+			"created_at": "Tue Mar 29 04:45:21 +0000 2011",
+			"favourites_count": 38068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 158065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1069060657088126976/OQvdU48A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069060657088126976/OQvdU48A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/273786271/1543718970",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1250952151427240000,
+		"quoted_status_id_str": "1250952151427239936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qQ8lM18cBS",
+			"expanded": "https://twitter.com/joongangilbo/status/1250952151427239936",
+			"display": "twitter.com/joongangilbo/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 17 01:00:09 +0000 2020",
+			"id": 1250952151427240000,
+			"id_str": "1250952151427239936",
+			"full_text": "지하철 역은 ＇신론현＇ 아파트는 ‘인민이 편한세상’, \n‘간나아이파크’, ‘푸르디요’ 등으로 부르는 패러디물이 쏟아지자, \n일부에선 비판의 목소리가 나오고 있습니다. https://t.co/zn41SoFnXa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zn41SoFnXa",
+						"expanded_url": "https://mnews.joins.com/article/23756573",
+						"display_url": "mnews.joins.com/article/237565…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.joongang.co.kr\" rel=\"nofollow\">joongangilbo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 213591116,
+				"id_str": "213591116",
+				"name": "중앙일보",
+				"screen_name": "joongangilbo",
+				"location": "Seoul",
+				"description": "JoongAng Group is Korea's only comprehensive content group. \n\nFacebook: https://t.co/hp9Jp32t74\nInstagram: https://t.co/od1lnLAYps",
+				"url": "http://t.co/tglh3q22E5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tglh3q22E5",
+								"expanded_url": "http://www.joongang.co.kr",
+								"display_url": "joongang.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/hp9Jp32t74",
+								"expanded_url": "http://facebook.com/joongang",
+								"display_url": "facebook.com/joongang",
+								"indices": [
+									72,
+									95
+								]
+							},
+							{
+								"url": "https://t.co/od1lnLAYps",
+								"expanded_url": "http://instagram.com/joongangilbo",
+								"display_url": "instagram.com/joongangilbo",
+								"indices": [
+									107,
+									130
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 293270,
+				"friends_count": 43261,
+				"listed_count": 1665,
+				"created_at": "Tue Nov 09 09:18:31 +0000 2010",
+				"favourites_count": 83,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 133391,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FA9A0A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1224631020395229189/ERSPAEti_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224631020395229189/ERSPAEti_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/213591116/1553672899",
+				"profile_link_color": "88847F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 902,
+			"favorite_count": 379,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 153,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "진정 태구민이 가져온 특이점 그동안 중국혐오 호남혐오 소수자혐오를 방조하던 조중동이 혐오발언에 대한 문제제기를 함 https://t.co/qQ8lM18cBS"
+	},
+	{
+		"created_at": "Fri Apr 17 11:33:31 +0000 2020",
+		"id": 1250749269306458000,
+		"id_str": "1251111545016250370",
+		"full_text": "종부세 팩폭 https://t.co/VzdonThOwC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250749261366452200,
+					"id_str": "1250749261366452224",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/EVuN05LUYAA1ZFk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVuN05LUYAA1ZFk.jpg",
+					"url": "https://t.co/VzdonThOwC",
+					"display_url": "pic.twitter.com/VzdonThOwC",
+					"expanded_url": "https://twitter.com/HappyDOh2/status/1250749269306458112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250749261366452200,
+					"id_str": "1250749261366452224",
+					"indices": [
+						7,
+						30
+					],
+					"media_url": "http://pbs.twimg.com/media/EVuN05LUYAA1ZFk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVuN05LUYAA1ZFk.jpg",
+					"url": "https://t.co/VzdonThOwC",
+					"display_url": "pic.twitter.com/VzdonThOwC",
+					"expanded_url": "https://twitter.com/HappyDOh2/status/1250749269306458112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 220251764,
+			"id_str": "220251764",
+			"name": "밍싁",
+			"screen_name": "NoSugarJam",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 66,
+			"listed_count": 0,
+			"created_at": "Sat Nov 27 06:15:32 +0000 2010",
+			"favourites_count": 4075,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 928,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250644816649572354/w4NzN7y3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250644816649572354/w4NzN7y3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/220251764/1587014102",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17969,
+		"favorite_count": 6579,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "종부세 팩폭 https://t.co/VzdonThOwC"
+	},
+	{
+		"created_at": "Fri Apr 17 11:24:55 +0000 2020",
+		"id": 1251022600802717700,
+		"id_str": "1251109378645618688",
+		"full_text": "문재인 정부 출범 후, 한겨레, 경향신문, 시사인 등에서 '문재인 정부가 촛불과 탄핵의 범정파적 동맹과 연대를 기반으로 한 국회 '다수파 전략'을 버리고 청와대 중심으로 국정을 운영하면서 정치적 외연을 상실하고 있다'고 광광대면서 비판했던 것에 대한 문재인 대통령의 답변 : 민주당 180석",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391204503,
+			"id_str": "391204503",
+			"name": "Hooo",
+			"screen_name": "soundly_s",
+			"location": "",
+			"description": "충분한 수면과 균형 잡힌 식단",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5687,
+			"friends_count": 80,
+			"listed_count": 77,
+			"created_at": "Sat Oct 15 06:32:10 +0000 2011",
+			"favourites_count": 179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/880360927903666176/e9jbIlsR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/880360927903666176/e9jbIlsR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391204503/1494939949",
+			"profile_link_color": "616161",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 151,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "문재인 정부 출범 후, 한겨레, 경향신문, 시사인 등에서 '문재인 정부가 촛불과 탄핵의 범정파적 동맹과 연대를 기반으로 한 국회 '다수파 전략'을 버리고 청와대 중심으로 국정을 운영하면서 정치적 외연을 상실하고 있다'고 광광대면서 비판했던 것에 대한 문재인 대통령의 답변 : 민주당 180석"
+	},
+	{
+		"created_at": "Fri Apr 17 10:43:25 +0000 2020",
+		"id": 1251015732718116900,
+		"id_str": "1251098936108072962",
+		"full_text": "이건 진짜 한국 정치사에 길이 남을 사진이다 https://t.co/TNDuCToj8D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251015728267956200,
+					"id_str": "1251015728267956224",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EVyALTvWkAAtY8_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVyALTvWkAAtY8_.jpg",
+					"url": "https://t.co/TNDuCToj8D",
+					"display_url": "pic.twitter.com/TNDuCToj8D",
+					"expanded_url": "https://twitter.com/angusbull_1/status/1251015732718116864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 464,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 464,
+							"h": 421,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 464,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251015728267956200,
+					"id_str": "1251015728267956224",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EVyALTvWkAAtY8_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVyALTvWkAAtY8_.jpg",
+					"url": "https://t.co/TNDuCToj8D",
+					"display_url": "pic.twitter.com/TNDuCToj8D",
+					"expanded_url": "https://twitter.com/angusbull_1/status/1251015732718116864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 464,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 464,
+							"h": 421,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 464,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4254165854,
+			"id_str": "4254165854",
+			"name": "앵거스농장",
+			"screen_name": "angusbull_1",
+			"location": "",
+			"description": "으어",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1192,
+			"friends_count": 707,
+			"listed_count": 16,
+			"created_at": "Mon Nov 16 07:15:11 +0000 2015",
+			"favourites_count": 7019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085625866992926721/YyRroIDC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085625866992926721/YyRroIDC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4254165854/1547668424",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3482,
+		"favorite_count": 731,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이건 진짜 한국 정치사에 길이 남을 사진이다 https://t.co/TNDuCToj8D"
+	},
+	{
 		"created_at": "Thu Apr 16 08:04:48 +0000 2020",
 		"id": 1250589266406568000,
 		"id_str": "1250696633479659520",
