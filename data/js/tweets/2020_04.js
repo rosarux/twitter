@@ -1,6 +1,561 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 10:28:01 +0000 2020",
+		"id": 1251331954940670000,
+		"id_str": "1251457447165702144",
+		"full_text": "중앙일보의 대문호 이정재님 (전작으로는 한달 후 대한민국이 있음) 의 신작이 발간되었습니다 그래서 어떻게 회사를 살리라는 건가요?  회사에 돈주면 어차피 사장 법인차 할부대금이랑 기름값으로 나갈텐데 그냥 국민들한테 돈을 주는게 낫지 않을까요? \n\nhttps://t.co/y7vTUM0Eme https://t.co/gxR7smxw3H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y7vTUM0Eme",
+					"expanded_url": "https://news.joins.com/article/23756414",
+					"display_url": "news.joins.com/article/237564…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1251331343192973300,
+					"id_str": "1251331343192973312",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EV2fOg9UYAARQyt.png",
+					"media_url_https": "https://pbs.twimg.com/media/EV2fOg9UYAARQyt.png",
+					"url": "https://t.co/gxR7smxw3H",
+					"display_url": "pic.twitter.com/gxR7smxw3H",
+					"expanded_url": "https://twitter.com/ktotoreborn/status/1251331954940669952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 754,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 577,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 754,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251331343192973300,
+					"id_str": "1251331343192973312",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EV2fOg9UYAARQyt.png",
+					"media_url_https": "https://pbs.twimg.com/media/EV2fOg9UYAARQyt.png",
+					"url": "https://t.co/gxR7smxw3H",
+					"display_url": "pic.twitter.com/gxR7smxw3H",
+					"expanded_url": "https://twitter.com/ktotoreborn/status/1251331954940669952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 754,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 577,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 754,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1251331343209775000,
+					"id_str": "1251331343209775106",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EV2fOhBUwAIiR2L.png",
+					"media_url_https": "https://pbs.twimg.com/media/EV2fOhBUwAIiR2L.png",
+					"url": "https://t.co/gxR7smxw3H",
+					"display_url": "pic.twitter.com/gxR7smxw3H",
+					"expanded_url": "https://twitter.com/ktotoreborn/status/1251331954940669952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 612,
+							"h": 442,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 612,
+							"h": 442,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 612,
+							"h": 442,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948563622191448000,
+			"id_str": "948563622191448066",
+			"name": "크또또",
+			"screen_name": "ktotoreborn",
+			"location": "",
+			"description": "아니오 저는 여러분의 편이 아닙니다  /  오덕짤은 다 뮤트 / 특정 정치인, 정당 지지하지 않습니다. 관전중.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2020,
+			"friends_count": 233,
+			"listed_count": 31,
+			"created_at": "Wed Jan 03 14:36:05 +0000 2018",
+			"favourites_count": 9810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152588031011934209/5R7_Grvk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152588031011934209/5R7_Grvk_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "중앙일보의 대문호 이정재님 (전작으로는 한달 후 대한민국이 있음) 의 신작이 발간되었습니다 그래서 어떻게 회사를 살리라는 건가요?  회사에 돈주면 어차피 사장 법인차 할부대금이랑 기름값으로 나갈텐데 그냥 국민들한테 돈을 주는게 낫지 않을까요? \n\nhttps://t.co/y7vTUM0Eme https://t.co/gxR7smxw3H"
+	},
+	{
+		"created_at": "Sat Apr 18 09:05:28 +0000 2020",
+		"id": 1251422553136001000,
+		"id_str": "1251436674443173888",
+		"full_text": "책 '이니셔티브' 중, 강경화 장관에 대한 평가.\n\n미국을 넘어 전 세계에 대한민국의 훌륭한 메시지를 전하는 중. https://t.co/2Q4XCQZcfN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251422544076222500,
+					"id_str": "1251422544076222464",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EV3yLGuUMAARPFe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV3yLGuUMAARPFe.jpg",
+					"url": "https://t.co/2Q4XCQZcfN",
+					"display_url": "pic.twitter.com/2Q4XCQZcfN",
+					"expanded_url": "https://twitter.com/park_pyung/status/1251422553136001024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1436,
+							"h": 690,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 577,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 327,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251422544076222500,
+					"id_str": "1251422544076222464",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/EV3yLGuUMAARPFe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV3yLGuUMAARPFe.jpg",
+					"url": "https://t.co/2Q4XCQZcfN",
+					"display_url": "pic.twitter.com/2Q4XCQZcfN",
+					"expanded_url": "https://twitter.com/park_pyung/status/1251422553136001024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1436,
+							"h": 690,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 577,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 327,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1047004761181081600,
+			"id_str": "1047004761181081602",
+			"name": "박평🎗",
+			"screen_name": "park_pyung",
+			"location": "대한민국 서울",
+			"description": "작가/대중문화평론가",
+			"url": "https://t.co/yDZK20o1cr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yDZK20o1cr",
+							"expanded_url": "https://www.youtube.com/channel/UCVCfNxKsyqRUdAfFxPOrJBQ?view_as=subscriber",
+							"display_url": "youtube.com/channel/UCVCfN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14880,
+			"friends_count": 2902,
+			"listed_count": 55,
+			"created_at": "Tue Oct 02 06:06:02 +0000 2018",
+			"favourites_count": 7552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123549442190086144/d5WIUCUs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123549442190086144/d5WIUCUs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1047004761181081602/1565012401",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 417,
+		"favorite_count": 394,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "책 '이니셔티브' 중, 강경화 장관에 대한 평가.\n\n미국을 넘어 전 세계에 대한민국의 훌륭한 메시지를 전하는 중. https://t.co/2Q4XCQZcfN"
+	},
+	{
+		"created_at": "Sat Apr 18 06:29:50 +0000 2020",
+		"id": 1251397509248761900,
+		"id_str": "1251397509248761856",
+		"full_text": "요나하상 새 책이 나왔나보군",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 554,
+			"friends_count": 427,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "요나하상 새 책이 나왔나보군"
+	},
+	{
+		"created_at": "Sat Apr 18 06:16:05 +0000 2020",
+		"id": 1251298623607812000,
+		"id_str": "1251394048776011776",
+		"full_text": "가장 보수적인 저널 중 하나인 포린 폴리시가 이제 문재인 정부를 중도 리버럴 기반의 메인스트림이고 보수는 지역에 고립된 낡은 집단이라 분석하는 시대가. 그 과정에 문정부와 민주당을 좌경, 좌익, 친북이라는 분석이 낡았다는 이야기까지. https://t.co/MNRDkNkecE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MNRDkNkecE",
+					"expanded_url": "https://foreignpolicy.com/2020/04/16/south-korea-is-a-liberal-country-now/",
+					"display_url": "foreignpolicy.com/2020/04/16/sou…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56719360,
+			"id_str": "56719360",
+			"name": "공부하는 사람",
+			"screen_name": "TextlabMax",
+			"location": "",
+			"description": "少年易老 學難成",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 473,
+			"friends_count": 115,
+			"listed_count": 7,
+			"created_at": "Tue Jul 14 15:10:24 +0000 2009",
+			"favourites_count": 1971,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875087802/max_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875087802/max_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56719360/1582958423",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1668,
+		"favorite_count": 972,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "가장 보수적인 저널 중 하나인 포린 폴리시가 이제 문재인 정부를 중도 리버럴 기반의 메인스트림이고 보수는 지역에 고립된 낡은 집단이라 분석하는 시대가. 그 과정에 문정부와 민주당을 좌경, 좌익, 친북이라는 분석이 낡았다는 이야기까지. https://t.co/MNRDkNkecE"
+	},
+	{
 		"created_at": "Fri Apr 17 23:30:44 +0000 2020",
 		"id": 1251276184983224300,
 		"id_str": "1251292038974197762",
