@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 23 22:17:25 +0000 2020",
+		"id": 1253445566740086800,
+		"id_str": "1253447916833763329",
+		"full_text": "【生活】うちなんちゅの都会生活あるある\nhttps://t.co/S2sgJLMs0v #098u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "098u",
+					"indices": [
+						44,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S2sgJLMs0v",
+					"expanded_url": "https://www.098u.com/2020/01/219478",
+					"display_url": "098u.com/2020/01/219478",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 182289130,
+			"id_str": "182289130",
+			"name": "沖縄のうわさ話",
+			"screen_name": "tommy098u2",
+			"location": "沖縄県",
+			"description": "沖縄に住む人・来る人・好きな人のための投稿形式クチコミ情報サイトです。あなたの知ってる情報は必ず誰かの役に立ちます。投稿、コメントをお待ちしてます！",
+			"url": "https://t.co/bjJP3bRSzN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bjJP3bRSzN",
+							"expanded_url": "https://www.098u.com/",
+							"display_url": "098u.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12449,
+			"friends_count": 9075,
+			"listed_count": 119,
+			"created_at": "Tue Aug 24 07:52:02 +0000 2010",
+			"favourites_count": 1641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 100106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3505306584/31d6b79d6019b1293e86811d20026f73_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3505306584/31d6b79d6019b1293e86811d20026f73_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/182289130/1398255823",
+			"profile_link_color": "FF7300",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【生活】うちなんちゅの都会生活あるある\nhttps://t.co/S2sgJLMs0v #098u"
+	},
+	{
 		"created_at": "Wed Apr 22 12:17:31 +0000 2020",
 		"id": 1252927347658915800,
 		"id_str": "1252934555964551168",
