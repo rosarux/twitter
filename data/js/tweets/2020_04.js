@@ -1,6 +1,1060 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 29 00:16:06 +0000 2020",
+		"id": 1255288738143514600,
+		"id_str": "1255289722995388417",
+		"full_text": "29日の国際通り。ほとんどの店舗が休業中。沖縄に来ても楽しみやおもてなしは提供できません。どうかコロナウィルス渦が収まるまでは旅行計画の自粛を。 https://t.co/P8iPbIoj0j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255288645340336000,
+					"id_str": "1255288645340336129",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1255288645340336129/pu/img/_T_61wFjAidLOgoj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1255288645340336129/pu/img/_T_61wFjAidLOgoj.jpg",
+					"url": "https://t.co/P8iPbIoj0j",
+					"display_url": "pic.twitter.com/P8iPbIoj0j",
+					"expanded_url": "https://twitter.com/tamakidenny/status/1255288738143514625/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255288645340336000,
+					"id_str": "1255288645340336129",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1255288645340336129/pu/img/_T_61wFjAidLOgoj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1255288645340336129/pu/img/_T_61wFjAidLOgoj.jpg",
+					"url": "https://t.co/P8iPbIoj0j",
+					"display_url": "pic.twitter.com/P8iPbIoj0j",
+					"expanded_url": "https://twitter.com/tamakidenny/status/1255288738143514625/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28688,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1255288645340336129/pu/vid/640x360/jsk2CBar0q7aL5bO.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1255288645340336129/pu/pl/zyROni_eHhBkVh92.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1255288645340336129/pu/vid/480x270/uoa0hFKd1__USaMX.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1255288645340336129/pu/vid/1280x720/YDkijz4mJVMaWeIW.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145152814,
+			"id_str": "145152814",
+			"name": "玉城デニー",
+			"screen_name": "tamakidenny",
+			"location": "沖縄県",
+			"description": "誇りある豊かな沖縄へ。好きなもの〜沖縄、バンド、読書、釣り、映画、自然、動物、麦酒、泡盛、家族。#新時代沖縄",
+			"url": "https://t.co/w9KgkpQqnB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w9KgkpQqnB",
+							"expanded_url": "http://tamakidenny2018.com",
+							"display_url": "tamakidenny2018.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77032,
+			"friends_count": 1958,
+			"listed_count": 1525,
+			"created_at": "Tue May 18 07:14:51 +0000 2010",
+			"favourites_count": 609,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074298751668281344/GefjusKI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074298751668281344/GefjusKI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145152814/1535713239",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 315,
+		"favorite_count": 408,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "29日の国際通り。ほとんどの店舗が休業中。沖縄に来ても楽しみやおもてなしは提供できません。どうかコロナウィルス渦が収まるまでは旅行計画の自粛を。 https://t.co/P8iPbIoj0j"
+	},
+	{
+		"created_at": "Tue Apr 28 13:41:25 +0000 2020",
+		"id": 1255128135785279500,
+		"id_str": "1255129999855677446",
+		"full_text": "沖縄で4月28日が「屈辱の日」と呼ばれているのはなぜ？　本日の社説です。「近年の書籍などでは、沖縄は復帰まで米国の信託統治下に置かれていたという誤った記述も散見される。屈辱の日が今も続いていることを、もっと県外へ発信する必要がある」。https://t.co/C10wRPqvi1 https://t.co/0GsgNxUw5y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C10wRPqvi1",
+					"expanded_url": "https://ryukyushimpo.jp/editorial/entry-1114148.html",
+					"display_url": "ryukyushimpo.jp/editorial/entr…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1255128042701115400,
+					"id_str": "1255128042701115394",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EWscTgzU0AIDccs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWscTgzU0AIDccs.jpg",
+					"url": "https://t.co/0GsgNxUw5y",
+					"display_url": "pic.twitter.com/0GsgNxUw5y",
+					"expanded_url": "https://twitter.com/ryukyushimpo/status/1255128135785279490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 414,
+							"h": 247,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 414,
+							"h": 247,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 414,
+							"h": 247,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255128042701115400,
+					"id_str": "1255128042701115394",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EWscTgzU0AIDccs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWscTgzU0AIDccs.jpg",
+					"url": "https://t.co/0GsgNxUw5y",
+					"display_url": "pic.twitter.com/0GsgNxUw5y",
+					"expanded_url": "https://twitter.com/ryukyushimpo/status/1255128135785279490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 414,
+							"h": 247,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 414,
+							"h": 247,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 414,
+							"h": 247,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1255072263105163300,
+		"in_reply_to_status_id_str": "1255072263105163265",
+		"in_reply_to_user_id": 15746839,
+		"in_reply_to_user_id_str": "15746839",
+		"in_reply_to_screen_name": "ryukyushimpo",
+		"user": {
+			"id": 15746839,
+			"id_str": "15746839",
+			"name": "琉 球 新 報",
+			"screen_name": "ryukyushimpo",
+			"location": "沖縄県那覇市",
+			"description": "沖縄の新聞社・琉球新報の公式アカウントです。 あなたの知りたいに応える「りゅうちゃんねる」LINE⇒https://t.co/CKdhhiBaNN FB⇒https://t.co/9oeMxUstfq 注目記事を毎日配信するLINE⇒https://t.co/VNVjl5sVkx…",
+			"url": "https://t.co/O5qFJJTDMI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O5qFJJTDMI",
+							"expanded_url": "http://ryukyushimpo.jp",
+							"display_url": "ryukyushimpo.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/CKdhhiBaNN",
+							"expanded_url": "https://lin.ee/bSJH5lA",
+							"display_url": "lin.ee/bSJH5lA",
+							"indices": [
+								50,
+								73
+							]
+						},
+						{
+							"url": "https://t.co/9oeMxUstfq",
+							"expanded_url": "http://facebook.com/ryukyushimpo",
+							"display_url": "facebook.com/ryukyushimpo",
+							"indices": [
+								77,
+								100
+							]
+						},
+						{
+							"url": "https://t.co/VNVjl5sVkx",
+							"expanded_url": "http://line.me/R/ti/p/%40oa-r",
+							"display_url": "line.me/R/ti/p/%40oa-r",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 75882,
+			"friends_count": 6511,
+			"listed_count": 2837,
+			"created_at": "Wed Aug 06 06:12:19 +0000 2008",
+			"favourites_count": 8117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 119196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/464646031368392704/Q6HGI6qs_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15746839/1399601351",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "D3D920",
+			"profile_sidebar_fill_color": "FAFCC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "沖縄で4月28日が「屈辱の日」と呼ばれているのはなぜ？　本日の社説です。「近年の書籍などでは、沖縄は復帰まで米国の信託統治下に置かれていたという誤った記述も散見される。屈辱の日が今も続いていることを、もっと県外へ発信する必要がある」。https://t.co/C10wRPqvi1 https://t.co/0GsgNxUw5y"
+	},
+	{
+		"created_at": "Tue Apr 28 13:09:21 +0000 2020",
+		"id": 1254990665382944800,
+		"id_str": "1255121929511424002",
+		"full_text": "「食費は月２千円」。新型コロナの感染拡大で沖縄在住の外国人留学生が苦境に陥っている。生活費を得るアルバイトができなくなり、国際便の欠航で帰国もできない。行政は県民生活への対応に追われ、外国人の支援に手が回っていない。「助けてほしい」。留学生らは窮状を訴える https://t.co/cAs7UT5BG0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cAs7UT5BG0",
+					"expanded_url": "https://www.okinawatimes.co.jp/articles/-/564035",
+					"display_url": "okinawatimes.co.jp/articles/-/564…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3189396996,
+			"id_str": "3189396996",
+			"name": "totoro♡",
+			"screen_name": "xcxc521521",
+			"location": "日本 沖縄",
+			"description": "迷子",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85,
+			"friends_count": 91,
+			"listed_count": 2,
+			"created_at": "Sat May 09 05:14:35 +0000 2015",
+			"favourites_count": 411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/725705219321958401/m7GdVhXa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/725705219321958401/m7GdVhXa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3189396996/1475631164",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 600,
+		"favorite_count": 557,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「食費は月２千円」。新型コロナの感染拡大で沖縄在住の外国人留学生が苦境に陥っている。生活費を得るアルバイトができなくなり、国際便の欠航で帰国もできない。行政は県民生活への対応に追われ、外国人の支援に手が回っていない。「助けてほしい」。留学生らは窮状を訴える https://t.co/cAs7UT5BG0"
+	},
+	{
+		"created_at": "Tue Apr 28 05:14:10 +0000 2020",
+		"id": 1255002344028340200,
+		"id_str": "1255002344028340224",
+		"full_text": "64년전 오늘 샌프란시스코 강화조약 발효로 오키나와가 일본으로부터 분리, 미국의 시정권 하에. きょう「４・２８」　沖縄「屈辱の日」を知ってますか？ - 琉球新報 - 沖縄の新聞、地域のニュース https://t.co/Fu9DLwuzRT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fu9DLwuzRT",
+					"expanded_url": "https://ryukyushimpo.jp/news/entry-268569.html?fbclid=IwAR0od7XX_MqPh3dg8SLxLJ9F-nJPrOH6VhCeU7Di7aTiLIoyEPqDy9yFaM4",
+					"display_url": "ryukyushimpo.jp/news/entry-268…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 553,
+			"friends_count": 426,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "64년전 오늘 샌프란시스코 강화조약 발효로 오키나와가 일본으로부터 분리, 미국의 시정권 하에. きょう「４・２８」　沖縄「屈辱の日」を知ってますか？ - 琉球新報 - 沖縄の新聞、地域のニュース https://t.co/Fu9DLwuzRT"
+	},
+	{
+		"created_at": "Tue Apr 28 05:11:59 +0000 2020",
+		"id": 1255000184641085400,
+		"id_str": "1255001794914086912",
+		"full_text": "4月27日、沖縄県は新型コロナウイルス感染拡大を防止するために4月8日に来島自粛要請を発表したが、ゴールデンウイークを前に玉城知事が「沖縄旅行キャンセルを」呼び掛けた。宮古島市は4月6日に来島自粛を、石垣市・竹富町は22日「絶対に来島しないで」と呼びかけている。\nhttps://t.co/1jtKZhMAGk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1jtKZhMAGk",
+					"expanded_url": "https://www.nikkei.com/article/DGXMZO58540120X20C20A4ACYZ00/",
+					"display_url": "nikkei.com/article/DGXMZO…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 183185693,
+			"id_str": "183185693",
+			"name": "伊波 洋一　(いは　よういち）",
+			"screen_name": "ihayoichi",
+			"location": "沖縄",
+			"description": "沖縄県宜野湾市出身、普天間高校、琉球大学理工学部卒。沖縄県議2期、宜野湾市長２期を経て、2016年7月から参議院議員・沖縄の風。座右の銘：基地のない平和な沖縄／著書「普天間基地はあなたの隣にある。だから一緒になくしたい。」「対論・普天間基地はなくせる」「沖縄とヤマト」（かもがわ出版）等",
+			"url": "https://t.co/zwfPM26qrU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zwfPM26qrU",
+							"expanded_url": "http://ihayoichi.jp",
+							"display_url": "ihayoichi.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23029,
+			"friends_count": 5859,
+			"listed_count": 1457,
+			"created_at": "Thu Aug 26 10:45:57 +0000 2010",
+			"favourites_count": 4043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1792340090/twitter__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1792340090/twitter__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/183185693/1401474190",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "4月27日、沖縄県は新型コロナウイルス感染拡大を防止するために4月8日に来島自粛要請を発表したが、ゴールデンウイークを前に玉城知事が「沖縄旅行キャンセルを」呼び掛けた。宮古島市は4月6日に来島自粛を、石垣市・竹富町は22日「絶対に来島しないで」と呼びかけている。\nhttps://t.co/1jtKZhMAGk"
+	},
+	{
+		"created_at": "Tue Apr 28 04:58:20 +0000 2020",
+		"id": 1254641511968329700,
+		"id_str": "1254998359833628674",
+		"full_text": "더 질이 나쁜 건 총리실서 일본 지원은 검토한 적이 없다고 해명하니까 자기들 실수 안 들키려고 '한발 물러섰다'로 또 한번 틀어버림. 이거 한국 언론 고질병인데, 오보 내고 당사자가 사실 해명하고 나서면 이 '한발 물러났다'가 전가의 보도",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1254634353985872000,
+		"in_reply_to_status_id_str": "1254634353985871872",
+		"in_reply_to_user_id": 453845917,
+		"in_reply_to_user_id_str": "453845917",
+		"in_reply_to_screen_name": "fakemommy",
+		"user": {
+			"id": 453845917,
+			"id_str": "453845917",
+			"name": "루나(안남시 작전세력 교육분과)",
+			"screen_name": "fakemommy",
+			"location": "대한민국 어딘가",
+			"description": "아무말 막말러",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5935,
+			"friends_count": 924,
+			"listed_count": 95,
+			"created_at": "Tue Jan 03 10:30:36 +0000 2012",
+			"favourites_count": 2492,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2132184900/____normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2132184900/____normal.jpg",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 141,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "더 질이 나쁜 건 총리실서 일본 지원은 검토한 적이 없다고 해명하니까 자기들 실수 안 들키려고 '한발 물러섰다'로 또 한번 틀어버림. 이거 한국 언론 고질병인데, 오보 내고 당사자가 사실 해명하고 나서면 이 '한발 물러났다'가 전가의 보도"
+	},
+	{
+		"created_at": "Tue Apr 28 01:58:13 +0000 2020",
+		"id": 1254953033319899100,
+		"id_str": "1254953033319899136",
+		"full_text": "아베 마스크 페이퍼컴퍼니 사건 캐다가 드러난 사실",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1254952738896535600,
+		"in_reply_to_status_id_str": "1254952738896535552",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 553,
+			"friends_count": 426,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "아베 마스크 페이퍼컴퍼니 사건 캐다가 드러난 사실"
+	},
+	{
+		"created_at": "Tue Apr 28 01:57:22 +0000 2020",
+		"id": 1254952632260497400,
+		"id_str": "1254952819230076930",
+		"full_text": "이래서야 오키나와 같이 마음급한 지자체에서 검사키트를 들여오는 것도 불가능. https://t.co/vY9prsJGFF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vY9prsJGFF",
+					"expanded_url": "https://twitter.com/yonhaptweet/status/1254924447988936704",
+					"display_url": "twitter.com/yonhaptweet/st…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22887121,
+			"id_str": "22887121",
+			"name": "残🎗",
+			"screen_name": "shhong",
+			"location": "Okinawa, Japan",
+			"description": "짠~하구려",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 406,
+			"listed_count": 24,
+			"created_at": "Thu Mar 05 05:49:34 +0000 2009",
+			"favourites_count": 11302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244883157624614913/c5Y4Gf9p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244883157624614913/c5Y4Gf9p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22887121/1541758198",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1254924447988936700,
+		"quoted_status_id_str": "1254924447988936704",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vY9prsJGFF",
+			"expanded": "https://twitter.com/yonhaptweet/status/1254924447988936704",
+			"display": "twitter.com/yonhaptweet/st…"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이래서야 오키나와 같이 마음급한 지자체에서 검사키트를 들여오는 것도 불가능. https://t.co/vY9prsJGFF"
+	},
+	{
+		"created_at": "Tue Apr 28 01:57:03 +0000 2020",
+		"id": 1254952738896535600,
+		"id_str": "1254952738896535552",
+		"full_text": "후쿠시마현 일부 지역이 311 이후 복구/부흥을 위해 법인세 0로 지정되어서 일본 내에서 조세회피처 역할을 해왔다고...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 553,
+			"friends_count": 426,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "후쿠시마현 일부 지역이 311 이후 복구/부흥을 위해 법인세 0로 지정되어서 일본 내에서 조세회피처 역할을 해왔다고..."
+	},
+	{
 		"created_at": "Mon Apr 27 11:57:03 +0000 2020",
 		"id": 1254635152531026000,
 		"id_str": "1254741347199643649",
