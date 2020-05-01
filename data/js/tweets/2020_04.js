@@ -1,6 +1,732 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 30 12:24:23 +0000 2020",
+		"id": 1255835387802448000,
+		"id_str": "1255835387802447872",
+		"full_text": "https://t.co/4BRoJR0RiN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4BRoJR0RiN",
+					"expanded_url": "https://music.apple.com/kr/album/school-days/1508182526?i=1508182775",
+					"display_url": "music.apple.com/kr/album/schoo…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 552,
+			"friends_count": 426,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/4BRoJR0RiN"
+	},
+	{
+		"created_at": "Thu Apr 30 10:44:36 +0000 2020",
+		"id": 1255782112365404200,
+		"id_str": "1255810276819009536",
+		"full_text": "인터넷 은행법 논란 보면 참여연대 등 진보 시민사회의 다당제 비례대표제 협치 요구 정말 원하는 게 맞기나 한지 의심스러운 편. 협치로 패키지딜했더니 하지 말라고 하면 엔번방이고 재난지원금이고 때려치고 국회파행 가즈아 대책이나 가르쳐쥬 아님 걍 다당제말고 전권 민주주의하자는 뜻 아뉜가.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 53655888,
+			"id_str": "53655888",
+			"name": "U보트 작전관 안빈락커(폐족)",
+			"screen_name": "anbinrocker",
+			"location": "시베리아 설원 근방 북극해",
+			"description": "가카의 마지막 충신",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5745,
+			"friends_count": 373,
+			"listed_count": 155,
+			"created_at": "Sat Jul 04 12:07:41 +0000 2009",
+			"favourites_count": 3161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1010171736409509889/d207BFMX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010171736409509889/d207BFMX_normal.jpg",
+			"profile_link_color": "25762E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "인터넷 은행법 논란 보면 참여연대 등 진보 시민사회의 다당제 비례대표제 협치 요구 정말 원하는 게 맞기나 한지 의심스러운 편. 협치로 패키지딜했더니 하지 말라고 하면 엔번방이고 재난지원금이고 때려치고 국회파행 가즈아 대책이나 가르쳐쥬 아님 걍 다당제말고 전권 민주주의하자는 뜻 아뉜가."
+	},
+	{
+		"created_at": "Thu Apr 30 09:25:58 +0000 2020",
+		"id": 1255789585566560300,
+		"id_str": "1255790487551635456",
+		"full_text": "굳이 전쟁특수가 아니더라도 한국의 산업시설이 타격을 입으면 일본은 대체재로 떠오를 수 있는 것. 한국에 전쟁날 확률이 일본에 대지진날 확률 이하로 관리가 되어 왔던 것이 성공의 요인... https://t.co/lmyKVpX0rp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lmyKVpX0rp",
+					"expanded_url": "https://twitter.com/ctn717/status/1255642230615760896",
+					"display_url": "twitter.com/ctn717/status/…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22887121,
+			"id_str": "22887121",
+			"name": "残🎗",
+			"screen_name": "shhong",
+			"location": "Okinawa, Japan",
+			"description": "짠~하구려",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 408,
+			"listed_count": 24,
+			"created_at": "Thu Mar 05 05:49:34 +0000 2009",
+			"favourites_count": 11315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244883157624614913/c5Y4Gf9p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244883157624614913/c5Y4Gf9p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22887121/1541758198",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1255642230615761000,
+		"quoted_status_id_str": "1255642230615760896",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lmyKVpX0rp",
+			"expanded": "https://twitter.com/ctn717/status/1255642230615760896",
+			"display": "twitter.com/ctn717/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 29 23:36:51 +0000 2020",
+			"id": 1255642230615761000,
+			"id_str": "1255642230615760896",
+			"full_text": "이건 일부 우익의 소망이 아니라 그냥 일본인들이 불황 이래로 수십년간 평범하게 공유하는 사상인듯... 한반도에 전쟁 터지면 대박난다고 목매고 있는게...\n\n\"한반도에 전쟁 터지면 돈 번다\"헛된 기대 심리\nhttps://t.co/4woqP70h9b https://t.co/eVY9VWxuQJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				137
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4woqP70h9b",
+						"expanded_url": "http://www.sisajournal.com/news/articleView.html?idxno=78092",
+						"display_url": "sisajournal.com/news/articleVi…",
+						"indices": [
+							114,
+							137
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1255642222579441700,
+						"id_str": "1255642222579441664",
+						"indices": [
+							138,
+							161
+						],
+						"media_url": "http://pbs.twimg.com/media/EWzv8uHUYAAirc5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWzv8uHUYAAirc5.jpg",
+						"url": "https://t.co/eVY9VWxuQJ",
+						"display_url": "pic.twitter.com/eVY9VWxuQJ",
+						"expanded_url": "https://twitter.com/ctn717/status/1255642230615760896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 668,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 763,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 763,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1255642222579441700,
+						"id_str": "1255642222579441664",
+						"indices": [
+							138,
+							161
+						],
+						"media_url": "http://pbs.twimg.com/media/EWzv8uHUYAAirc5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWzv8uHUYAAirc5.jpg",
+						"url": "https://t.co/eVY9VWxuQJ",
+						"display_url": "pic.twitter.com/eVY9VWxuQJ",
+						"expanded_url": "https://twitter.com/ctn717/status/1255642230615760896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 668,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 763,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 763,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1255642222587859000,
+						"id_str": "1255642222587858944",
+						"indices": [
+							138,
+							161
+						],
+						"media_url": "http://pbs.twimg.com/media/EWzv8uJU0AA8nIp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWzv8uJU0AA8nIp.jpg",
+						"url": "https://t.co/eVY9VWxuQJ",
+						"display_url": "pic.twitter.com/eVY9VWxuQJ",
+						"expanded_url": "https://twitter.com/ctn717/status/1255642230615760896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 615,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 558,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 615,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1255640723489054700,
+			"in_reply_to_status_id_str": "1255640723489054720",
+			"in_reply_to_user_id": 2558882390,
+			"in_reply_to_user_id_str": "2558882390",
+			"in_reply_to_screen_name": "ctn717",
+			"user": {
+				"id": 2558882390,
+				"id_str": "2558882390",
+				"name": "캇/catena",
+				"screen_name": "ctn717",
+				"location": "",
+				"description": "降御 : 알렉매그 : House of M : 프리붓 DC : 박복권 안삼",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 736,
+				"friends_count": 199,
+				"listed_count": 11,
+				"created_at": "Tue Jun 10 12:05:05 +0000 2014",
+				"favourites_count": 60609,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 105344,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1250495866974040064/7SqJn_3D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250495866974040064/7SqJn_3D_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2558882390/1550672648",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 150,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 7,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "굳이 전쟁특수가 아니더라도 한국의 산업시설이 타격을 입으면 일본은 대체재로 떠오를 수 있는 것. 한국에 전쟁날 확률이 일본에 대지진날 확률 이하로 관리가 되어 왔던 것이 성공의 요인... https://t.co/lmyKVpX0rp"
+	},
+	{
+		"created_at": "Thu Apr 30 06:32:17 +0000 2020",
+		"id": 1255674750606512000,
+		"id_str": "1255746777728184321",
+		"full_text": "' 빵과 장미 ' 라는 상징의 부정 - 재벌 2/3세에게 재벌그룹 호텔의 애플망고빙수를 사먹게 정치후원금을 달라던 광고 - 여성의 문화생활 격화를 보고 있으니 , 그들에게 남은 것이 자본주의와 자기계발에 대한 정념 말고는 없는 것 같아 안타깝다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2469054806,
+			"id_str": "2469054806",
+			"name": "솔",
+			"screen_name": "Solidarity_R",
+			"location": "안남",
+			"description": "트랜스. 퀴어 페미니스트. 사회주의자.\n참 자유 평등 그 길로 힘차게 나가자!  차별선동하시는 분은 블언블.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1148,
+			"friends_count": 474,
+			"listed_count": 13,
+			"created_at": "Tue Apr 29 09:50:14 +0000 2014",
+			"favourites_count": 9867,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174300005118562305/BU_pz9LO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174300005118562305/BU_pz9LO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2469054806/1555401159",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "' 빵과 장미 ' 라는 상징의 부정 - 재벌 2/3세에게 재벌그룹 호텔의 애플망고빙수를 사먹게 정치후원금을 달라던 광고 - 여성의 문화생활 격화를 보고 있으니 , 그들에게 남은 것이 자본주의와 자기계발에 대한 정념 말고는 없는 것 같아 안타깝다."
+	},
+	{
+		"created_at": "Thu Apr 30 06:31:56 +0000 2020",
+		"id": 1255746691392667600,
+		"id_str": "1255746691392667653",
+		"full_text": "어젯밤 꿈에도 급히 집에 돌아가야 하는 일이 생겼는데 집을 못찾겠어서 막 헤매다보니 다카다노바바역-_-;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1255744539677114400,
+		"in_reply_to_status_id_str": "1255744539677114368",
+		"in_reply_to_user_id": 94077994,
+		"in_reply_to_user_id_str": "94077994",
+		"in_reply_to_screen_name": "kawanoboru",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 552,
+			"friends_count": 426,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "어젯밤 꿈에도 급히 집에 돌아가야 하는 일이 생겼는데 집을 못찾겠어서 막 헤매다보니 다카다노바바역-_-;"
+	},
+	{
+		"created_at": "Thu Apr 30 06:23:23 +0000 2020",
+		"id": 1255744539677114400,
+		"id_str": "1255744539677114368",
+		"full_text": "요즘 오키나와 살던 꿈을 거의 매일 꾸는데 내용은 매일 버라이어티하게 바뀌지만 결말은  꼭 내가 집에 가야할 일이 생기지만 집을 못찾거나 길을 잃게 되버리는. 🤔",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 552,
+			"friends_count": 426,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "요즘 오키나와 살던 꿈을 거의 매일 꾸는데 내용은 매일 버라이어티하게 바뀌지만 결말은  꼭 내가 집에 가야할 일이 생기지만 집을 못찾거나 길을 잃게 되버리는. 🤔"
+	},
+	{
 		"created_at": "Wed Apr 29 14:04:10 +0000 2020",
 		"id": 1255469053898096600,
 		"id_str": "1255498111931355140",
