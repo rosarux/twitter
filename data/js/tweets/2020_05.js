@@ -1,6 +1,753 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 10 21:19:32 +0000 2020",
+		"id": 1259498442549637000,
+		"id_str": "1259593943081074688",
+		"full_text": "75年前の今日。\n\n1945年5月10日 沖縄。那覇を南に眺める景観。米軍は安謝川を渡り、那覇への進撃を続けている。\n\n白黒写真を、人工知能＋手動補正でカラー化しました。Google Earthとの比較。 https://t.co/Bygg99cRPr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259498433657749500,
+					"id_str": "1259498433657749513",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EXqjJv1UwAk8V6s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXqjJv1UwAk8V6s.jpg",
+					"url": "https://t.co/Bygg99cRPr",
+					"display_url": "pic.twitter.com/Bygg99cRPr",
+					"expanded_url": "https://twitter.com/horinyo/status/1259498442549637122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 646,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1140,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259498433657749500,
+					"id_str": "1259498433657749513",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EXqjJv1UwAk8V6s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXqjJv1UwAk8V6s.jpg",
+					"url": "https://t.co/Bygg99cRPr",
+					"display_url": "pic.twitter.com/Bygg99cRPr",
+					"expanded_url": "https://twitter.com/horinyo/status/1259498442549637122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 646,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1140,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259498433741639700,
+					"id_str": "1259498433741639683",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EXqjJwJU0AMOaQi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXqjJwJU0AMOaQi.jpg",
+					"url": "https://t.co/Bygg99cRPr",
+					"display_url": "pic.twitter.com/Bygg99cRPr",
+					"expanded_url": "https://twitter.com/horinyo/status/1259498442549637122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1679,
+							"h": 1514,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1082,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 613,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141643888,
+			"id_str": "141643888",
+			"name": "ホリーニョ",
+			"screen_name": "horinyo",
+			"location": "大阪 ",
+			"description": "戦前〜戦後の沖縄／白黒写真のカラー化",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2604,
+			"friends_count": 397,
+			"listed_count": 55,
+			"created_at": "Sat May 08 16:33:09 +0000 2010",
+			"favourites_count": 54971,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095281294622126081/GFnYOtoE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095281294622126081/GFnYOtoE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141643888/1555160163",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "75年前の今日。\n\n1945年5月10日 沖縄。那覇を南に眺める景観。米軍は安謝川を渡り、那覇への進撃を続けている。\n\n白黒写真を、人工知能＋手動補正でカラー化しました。Google Earthとの比較。 https://t.co/Bygg99cRPr"
+	},
+	{
+		"created_at": "Sun May 10 21:16:11 +0000 2020",
+		"id": 1259397718788550700,
+		"id_str": "1259593096913752064",
+		"full_text": "지역 제조업의 생산성과 기업문화를 어떻게 바꿀 것인지를 고민해야 하는 시점에 무슨 타다니 배민이니 이딴 없어도 하등 문제될 게 없는 기업들 신경쓸 게 전혀 아님.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1259396981564141600,
+		"in_reply_to_status_id_str": "1259396981564141568",
+		"in_reply_to_user_id": 2511973291,
+		"in_reply_to_user_id_str": "2511973291",
+		"in_reply_to_screen_name": "bezhine",
+		"user": {
+			"id": 2511973291,
+			"id_str": "2511973291",
+			"name": "월급도둑",
+			"screen_name": "bezhine",
+			"location": "",
+			"description": "할 줄 아는 게 없는 n년차 기획자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3445,
+			"friends_count": 505,
+			"listed_count": 44,
+			"created_at": "Wed May 21 08:31:09 +0000 2014",
+			"favourites_count": 5246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125052966505832449/ShnVwCT4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125052966505832449/ShnVwCT4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2511973291/1538034261",
+			"profile_link_color": "666666",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지역 제조업의 생산성과 기업문화를 어떻게 바꿀 것인지를 고민해야 하는 시점에 무슨 타다니 배민이니 이딴 없어도 하등 문제될 게 없는 기업들 신경쓸 게 전혀 아님."
+	},
+	{
+		"created_at": "Sun May 10 21:15:41 +0000 2020",
+		"id": 1259484332076306400,
+		"id_str": "1259592973337026560",
+		"full_text": "특성 상, 숨으려들기때문에 더욱 질병 추적이 어려워진다는 걸 알고있기때문에, 최대한 성소수자들의 신분을 숨겨주면서 조심해서 발표했던 걸 기데기들이 다 엎어놓고는, 이걸 질타하는 외국 언론들의 보도를 한국 정부 비판하는 것처럼 제목 뽑아서 기사를 내니 적반하장도 이런 적반하장이 없다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1259484328804749300,
+		"in_reply_to_status_id_str": "1259484328804749313",
+		"in_reply_to_user_id": 248685731,
+		"in_reply_to_user_id_str": "248685731",
+		"in_reply_to_screen_name": "sangseek_kim",
+		"user": {
+			"id": 248685731,
+			"id_str": "248685731",
+			"name": "김상식: 사회적 거리두기",
+			"screen_name": "sangseek_kim",
+			"location": "",
+			"description": "이런 분들 수시로 블언블 혹은 블락합니다.\nhttps://t.co/3rY9cosOzN\n\n남양불매 중(since 1993)\n애경, SK캐미컬 불매해주세요.",
+			"url": "https://t.co/61zOwrJ6PE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/61zOwrJ6PE",
+							"expanded_url": "https://youtu.be/81az6WwaIRc",
+							"display_url": "youtu.be/81az6WwaIRc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3rY9cosOzN",
+							"expanded_url": "https://twitter.com/zoomx100/status/1211818508507480064?s=19",
+							"display_url": "twitter.com/zoomx100/statu…",
+							"indices": [
+								24,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4556,
+			"friends_count": 1267,
+			"listed_count": 65,
+			"created_at": "Mon Feb 07 14:29:02 +0000 2011",
+			"favourites_count": 41138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 522270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245510862959284224/g0T-1a4w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245510862959284224/g0T-1a4w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/248685731/1554639834",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 315,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "특성 상, 숨으려들기때문에 더욱 질병 추적이 어려워진다는 걸 알고있기때문에, 최대한 성소수자들의 신분을 숨겨주면서 조심해서 발표했던 걸 기데기들이 다 엎어놓고는, 이걸 질타하는 외국 언론들의 보도를 한국 정부 비판하는 것처럼 제목 뽑아서 기사를 내니 적반하장도 이런 적반하장이 없다."
+	},
+	{
+		"created_at": "Sun May 10 12:46:54 +0000 2020",
+		"id": 1259464934510997500,
+		"id_str": "1259464934510997504",
+		"full_text": "초등학교 3학년때 처음 본 선생님 딸 미치루짱이 올해 20세가 되었다고!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 552,
+			"friends_count": 425,
+			"listed_count": 22,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "초등학교 3학년때 처음 본 선생님 딸 미치루짱이 올해 20세가 되었다고!"
+	},
+	{
+		"created_at": "Sun May 10 12:44:43 +0000 2020",
+		"id": 1259396981564141600,
+		"id_str": "1259464384356577280",
+		"full_text": "https://t.co/2LhyZSSIhe\n\n타다랑 배민은 죽이는 게 혁신임. 꼼수로 장사하고 외곽에서 매체 동원해서 언론플레이하고. 창업자나 투자자는 몇조씩 벌어가는데 하는 짓은 독과점 사업자의 갑질인데 이런 쉬운 돈벌이가 안되게 해야 혁신이 되는 거.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2LhyZSSIhe",
+					"expanded_url": "https://news.v.daum.net/v/20200510085529710",
+					"display_url": "news.v.daum.net/v/202005100855…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2511973291,
+			"id_str": "2511973291",
+			"name": "월급도둑",
+			"screen_name": "bezhine",
+			"location": "",
+			"description": "할 줄 아는 게 없는 n년차 기획자",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3445,
+			"friends_count": 505,
+			"listed_count": 44,
+			"created_at": "Wed May 21 08:31:09 +0000 2014",
+			"favourites_count": 5246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125052966505832449/ShnVwCT4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125052966505832449/ShnVwCT4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2511973291/1538034261",
+			"profile_link_color": "666666",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 399,
+		"favorite_count": 145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/2LhyZSSIhe\n\n타다랑 배민은 죽이는 게 혁신임. 꼼수로 장사하고 외곽에서 매체 동원해서 언론플레이하고. 창업자나 투자자는 몇조씩 벌어가는데 하는 짓은 독과점 사업자의 갑질인데 이런 쉬운 돈벌이가 안되게 해야 혁신이 되는 거."
+	},
+	{
+		"created_at": "Sun May 10 08:17:32 +0000 2020",
+		"id": 1259333613834780700,
+		"id_str": "1259397144877740032",
+		"full_text": "타다랑 배민이 무슨 혁신이란 거지\n\nhttps://t.co/ytHOO4PGFe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ytHOO4PGFe",
+					"expanded_url": "https://news.v.daum.net/v/20200510085529710",
+					"display_url": "news.v.daum.net/v/202005100855…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1206538042413990000,
+			"id_str": "1206538042413989888",
+			"name": "日々のあわ",
+			"screen_name": "TangTan08793028",
+			"location": "으어어어어",
+			"description": "탐라는 아직 빛서인을 받아들이기에 100만년은 이르다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 179,
+			"friends_count": 159,
+			"listed_count": 0,
+			"created_at": "Mon Dec 16 11:34:27 +0000 2019",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1258617163985772545/S0UKFLd__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1258617163985772545/S0UKFLd__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1206538042413989888/1588912691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 415,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "타다랑 배민이 무슨 혁신이란 거지\n\nhttps://t.co/ytHOO4PGFe"
+	},
+	{
+		"created_at": "Sun May 10 05:15:37 +0000 2020",
+		"id": 1259348017527681000,
+		"id_str": "1259351364594839554",
+		"full_text": "'이때다' 하고 공격하는 심보가 아니라 '이때만은 좀' 하며 안타깝고 속상해 하는 마음들이 보인다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 124039788,
+			"id_str": "124039788",
+			"name": "Saint Ho",
+			"screen_name": "ysimock",
+			"location": "",
+			"description": "➰🏐➰🏀 !",
+			"url": "https://t.co/4uauEa0QDr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4uauEa0QDr",
+							"expanded_url": "https://www.youtube.com/channel/UCMLIvwSY-hbC2R0W9_XWuVg",
+							"display_url": "youtube.com/channel/UCMLIv…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14172,
+			"friends_count": 1493,
+			"listed_count": 288,
+			"created_at": "Thu Mar 18 01:58:43 +0000 2010",
+			"favourites_count": 753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179958517832114177/6WAJ8sr5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179958517832114177/6WAJ8sr5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/124039788/1587218786",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "'이때다' 하고 공격하는 심보가 아니라 '이때만은 좀' 하며 안타깝고 속상해 하는 마음들이 보인다."
+	},
+	{
 		"created_at": "Sat May 09 21:52:38 +0000 2020",
 		"id": 1258813175253749800,
 		"id_str": "1259239882859220992",
