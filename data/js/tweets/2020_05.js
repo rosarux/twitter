@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 14 22:23:55 +0000 2020",
+		"id": 1260726193835266000,
+		"id_str": "1261059694128291840",
+		"full_text": "방역비용 아무리 많이 드는 것 같아도 집단감염으로 락다운 되어 치뤄야 하는 경제적 비용보다는 100배 저렴함.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn, 오마이걸, NCT, 이달소 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2955,
+			"friends_count": 1377,
+			"listed_count": 67,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 113635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1565051000",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 883,
+		"favorite_count": 453,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "방역비용 아무리 많이 드는 것 같아도 집단감염으로 락다운 되어 치뤄야 하는 경제적 비용보다는 100배 저렴함."
+	},
+	{
 		"created_at": "Tue May 12 01:29:37 +0000 2020",
 		"id": 1260011519003127800,
 		"id_str": "1260019264339099650",
@@ -25,7 +120,7 @@ Grailbird.data.tweets_2020_05 =
 		"user": {
 			"id": 3218900551,
 			"id_str": "3218900551",
-			"name": "겨🙋🏻‍♀️",
+			"name": "겨🙋🏻♀️",
 			"screen_name": "_arm_pit__",
 			"location": "부욬",
 			"description": "더불어민주당 愛黨러입니다. 싫으면 피해 가세요.",
