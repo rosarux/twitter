@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 19 11:43:48 +0000 2020",
+		"id": 1262701422077862000,
+		"id_str": "1262710546027036677",
+		"full_text": "중위소득 100%가 1인가구 기준 건보료 한달에 8만6천원을 내요. 이런데 우리나라 국민소득이 1인당 3만1천불이라는 게 와닿으세요? 한해 평균 가구소득(4인 기준)이 1억원을 훌쩍 넘어선 것인데 와닿으시냐구요. 우리는 혁명이 아니면 무엇을 해야합니까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87978502,
+			"id_str": "87978502",
+			"name": "앨리스",
+			"screen_name": "toxicalice",
+			"location": "리하브센타",
+			"description": "(심야영업)머리 감겨주는 가게 사장이자 북유럽 오뎅바 마담을 꿈꾸며 내일부턴 다시 태어나야지 항상 생각하느라 늘 죽어있는 사람. 하지만 그냥 쓰는 사람. 나는 무엇을 하고 살아야할까. 그래도 행복은 따뜻한 강아지.",
+			"url": "https://t.co/ggYXg8ssRQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ggYXg8ssRQ",
+							"expanded_url": "http://Instagram.com/toxicalice",
+							"display_url": "Instagram.com/toxicalice",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9353,
+			"friends_count": 965,
+			"listed_count": 95,
+			"created_at": "Fri Nov 06 16:40:48 +0000 2009",
+			"favourites_count": 4665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 159091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "D61E1E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1236341555293646849/OOA3MJGQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1236341555293646849/OOA3MJGQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87978502/1414337575",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "444545",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "중위소득 100%가 1인가구 기준 건보료 한달에 8만6천원을 내요. 이런데 우리나라 국민소득이 1인당 3만1천불이라는 게 와닿으세요? 한해 평균 가구소득(4인 기준)이 1억원을 훌쩍 넘어선 것인데 와닿으시냐구요. 우리는 혁명이 아니면 무엇을 해야합니까."
+	},
+	{
+		"created_at": "Tue May 19 08:13:23 +0000 2020",
+		"id": 1262657591919800300,
+		"id_str": "1262657591919800320",
+		"full_text": "@shhong 그렇긴하네요😅",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shhong",
+					"name": "残🎗",
+					"id": 22887121,
+					"id_str": "22887121",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1262655411695390700,
+		"in_reply_to_status_id_str": "1262655411695390721",
+		"in_reply_to_user_id": 22887121,
+		"in_reply_to_user_id_str": "22887121",
+		"in_reply_to_screen_name": "shhong",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 552,
+			"friends_count": 424,
+			"listed_count": 19,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "@shhong 그렇긴하네요😅"
+	},
+	{
 		"created_at": "Mon May 18 11:27:29 +0000 2020",
 		"id": 1262344052164358100,
 		"id_str": "1262344052164358146",
