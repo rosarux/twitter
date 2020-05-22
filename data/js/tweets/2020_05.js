@@ -1,6 +1,1623 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 21 18:31:24 +0000 2020",
+		"id": 1263385423406981000,
+		"id_str": "1263537894569852929",
+		"full_text": "트위터에서 의사들이 보이는 반응이 정형적인 것은 그것이 제도적으로 학습되었다는 사실을 시사함. 그렇다면 그들은 그걸 어디서 배웠을까? 기재부에서 오래 일하면 멀쩡한 사람도 좀 이상해진다고 말하듯, 멀쩡한 사람도 의대에서 5년 쯤 보내고 나면 그 논리를 자연스럽게 체화하게 되는 것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1069213258836455400,
+			"id_str": "1069213258836455424",
+			"name": "세상의 멀쩡한 소리를 찾아서",
+			"screen_name": "BarleyHare",
+			"location": "",
+			"description": "RT is not an endorsement, especially in the case of newspaper articles",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 450,
+			"friends_count": 413,
+			"listed_count": 3,
+			"created_at": "Sun Dec 02 12:54:40 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1119909718464446464/tjMWPtOM_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1119909718464446464/tjMWPtOM_normal.png",
+			"profile_link_color": "00498C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "트위터에서 의사들이 보이는 반응이 정형적인 것은 그것이 제도적으로 학습되었다는 사실을 시사함. 그렇다면 그들은 그걸 어디서 배웠을까? 기재부에서 오래 일하면 멀쩡한 사람도 좀 이상해진다고 말하듯, 멀쩡한 사람도 의대에서 5년 쯤 보내고 나면 그 논리를 자연스럽게 체화하게 되는 것."
+	},
+	{
+		"created_at": "Thu May 21 13:21:00 +0000 2020",
+		"id": 1263423211749826600,
+		"id_str": "1263459779487252483",
+		"full_text": "기사 읽어보면 당연히 을병정 업체들에선 환영하고있고 갑 업체에서 강력반대하는 모습을 보실 수 있구요\nhttps://t.co/zXZ9hiLozg\n\n그리고 같이 도입된 법들도 살펴보면 SI 해본사람들이 진짜 치를 떨고 바들바들거리는 내용들중 상당수가 이번에 한방에 통과되었는데",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zXZ9hiLozg",
+					"expanded_url": "http://m.comworld.co.kr/news/articleView.html?idxno=7509",
+					"display_url": "m.comworld.co.kr/news/articleVi…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1263422339775033300,
+		"in_reply_to_status_id_str": "1263422339775033348",
+		"in_reply_to_user_id": 130779448,
+		"in_reply_to_user_id_str": "130779448",
+		"in_reply_to_screen_name": "simnalamburt",
+		"user": {
+			"id": 130779448,
+			"id_str": "130779448",
+			"name": "김지현",
+			"screen_name": "simnalamburt",
+			"location": "Seoul, Republic of Korea",
+			"description": "Feminist, Software Engineer, Free Software Supporter, SNUCSE",
+			"url": "https://t.co/yAvhAV56iP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yAvhAV56iP",
+							"expanded_url": "https://hyeon.me",
+							"display_url": "hyeon.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2053,
+			"friends_count": 1336,
+			"listed_count": 52,
+			"created_at": "Thu Apr 08 08:32:30 +0000 2010",
+			"favourites_count": 103086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715977322235437056/GvSspd9w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715977322235437056/GvSspd9w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130779448/1475522732",
+			"profile_link_color": "744D25",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 127,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기사 읽어보면 당연히 을병정 업체들에선 환영하고있고 갑 업체에서 강력반대하는 모습을 보실 수 있구요\nhttps://t.co/zXZ9hiLozg\n\n그리고 같이 도입된 법들도 살펴보면 SI 해본사람들이 진짜 치를 떨고 바들바들거리는 내용들중 상당수가 이번에 한방에 통과되었는데"
+	},
+	{
+		"created_at": "Thu May 21 11:32:21 +0000 2020",
+		"id": 1263414788299751400,
+		"id_str": "1263432436727201793",
+		"full_text": "정부나 국회에서 소프트웨어 관련으로 뭐만 하면 일단 까고보는게 프로그래머들 밈이라는건 저도 잘 아는데\n\n저게 SI 업계에서 개고통 받던 사람들이 10년 넘게 추진해서 드디어 입법된거라는걸 이렇게 모르시는걸 보니\n\n한국 프로그래머 안에 카스트가 진짜로 존재하긴 하나봅니다 https://t.co/vZLYpIunmX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vZLYpIunmX",
+					"expanded_url": "https://twitter.com/perillamint/status/1263400864519094273",
+					"display_url": "twitter.com/perillamint/st…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130779448,
+			"id_str": "130779448",
+			"name": "김지현",
+			"screen_name": "simnalamburt",
+			"location": "Seoul, Republic of Korea",
+			"description": "Feminist, Software Engineer, Free Software Supporter, SNUCSE",
+			"url": "https://t.co/yAvhAV56iP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yAvhAV56iP",
+							"expanded_url": "https://hyeon.me",
+							"display_url": "hyeon.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2053,
+			"friends_count": 1336,
+			"listed_count": 52,
+			"created_at": "Thu Apr 08 08:32:30 +0000 2010",
+			"favourites_count": 103086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715977322235437056/GvSspd9w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715977322235437056/GvSspd9w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130779448/1475522732",
+			"profile_link_color": "744D25",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1263400864519094300,
+		"quoted_status_id_str": "1263400864519094273",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vZLYpIunmX",
+			"expanded": "https://twitter.com/perillamint/status/1263400864519094273",
+			"display": "twitter.com/perillamint/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 21 09:26:53 +0000 2020",
+			"id": 1263400864519094300,
+			"id_str": "1263400864519094273",
+			"full_text": "\"단계별 분리발주제도 도입된다. 공공SW사업을 발주할 때 기획과 설계 부분을 우선 발주하고, 이후 개발 및 구축 과정을 별도 사업으로 발주하는 방식으로 바뀐다.\"\n\n와 나무그네! 익스트림! 에디션!\n\nhttps://t.co/68AFpkE1qc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				135
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/68AFpkE1qc",
+						"expanded_url": "https://www.zdnet.co.kr/view/?no=20200520180528",
+						"display_url": "zdnet.co.kr/view/?no=20200…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2890022617,
+				"id_str": "2890022617",
+				"name": "perillamint🧝🧙⚧ - UID=0 소유권 이전 전문가",
+				"screen_name": "perillamint",
+				"location": "시스템 어드민의 지옥",
+				"description": "Who loves under the hood; Embedded hacker; OpenWRT contributor; FLOSS; OSHW; crypto-anarchist; 리눅서; ⚧ Agender - they/them or she/her; 웜충/웜앨라이 안사요",
+				"url": "https://t.co/QpiTBhQCUM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QpiTBhQCUM",
+								"expanded_url": "https://blog.quendi.moe",
+								"display_url": "blog.quendi.moe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1415,
+				"friends_count": 913,
+				"listed_count": 56,
+				"created_at": "Tue Nov 04 16:38:06 +0000 2014",
+				"favourites_count": 1409,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 186690,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048981410499809280/GA-1f750_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2890022617/1567318260",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 94,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 635,
+		"favorite_count": 294,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정부나 국회에서 소프트웨어 관련으로 뭐만 하면 일단 까고보는게 프로그래머들 밈이라는건 저도 잘 아는데\n\n저게 SI 업계에서 개고통 받던 사람들이 10년 넘게 추진해서 드디어 입법된거라는걸 이렇게 모르시는걸 보니\n\n한국 프로그래머 안에 카스트가 진짜로 존재하긴 하나봅니다 https://t.co/vZLYpIunmX"
+	},
+	{
+		"created_at": "Thu May 21 11:30:56 +0000 2020",
+		"id": 1263142401922736000,
+		"id_str": "1263432082950221824",
+		"full_text": "1992~2008년까지의 장기간 동안 소득 불평등은 거의 전적으로 하위소득 악화에 의해 추동. 하위 90%, 99% 동맹 형성 어렵고, 정치적 목소리가 작은 소득하층 문제 해결위해 정치적 목소리가 큰 상위 50%의 지지를 받아 상위층의 (일정 정도의) 희생을 요구해야. 2/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1263142319131328500,
+		"in_reply_to_status_id_str": "1263142319131328517",
+		"in_reply_to_user_id": 3357881951,
+		"in_reply_to_user_id_str": "3357881951",
+		"in_reply_to_screen_name": "KimSovidence",
+		"user": {
+			"id": 3357881951,
+			"id_str": "3357881951",
+			"name": "Sociological Evidence",
+			"screen_name": "KimSovidence",
+			"location": "",
+			"description": "ChangHwan Kim, Sociology Professor, Specialized in labor markets, stratification, education, & Asian American studies",
+			"url": "https://t.co/TPYdhkbTzf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TPYdhkbTzf",
+							"expanded_url": "https://sovidence.tistory.com/",
+							"display_url": "sovidence.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3228,
+			"friends_count": 337,
+			"listed_count": 21,
+			"created_at": "Sat Jul 04 01:45:39 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "1992~2008년까지의 장기간 동안 소득 불평등은 거의 전적으로 하위소득 악화에 의해 추동. 하위 90%, 99% 동맹 형성 어렵고, 정치적 목소리가 작은 소득하층 문제 해결위해 정치적 목소리가 큰 상위 50%의 지지를 받아 상위층의 (일정 정도의) 희생을 요구해야. 2/"
+	},
+	{
+		"created_at": "Thu May 21 11:28:48 +0000 2020",
+		"id": 1263142517098320000,
+		"id_str": "1263431547153076224",
+		"full_text": "한국에서 계급정치가 어려운 것은 정치적으로 액티브한 상위50%의 지지로 정치적 활동이 없는 하위20%의 문제를 해결하는 미션이기 때문. 상위50%가 하층으로 떨어지지 않도록 보장하는 것(소득 안정성)과 하층이 혜택을 늘리는 것(소득 불평등 축소)을 교환해야. 3/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1263142401922736000,
+		"in_reply_to_status_id_str": "1263142401922736129",
+		"in_reply_to_user_id": 3357881951,
+		"in_reply_to_user_id_str": "3357881951",
+		"in_reply_to_screen_name": "KimSovidence",
+		"user": {
+			"id": 3357881951,
+			"id_str": "3357881951",
+			"name": "Sociological Evidence",
+			"screen_name": "KimSovidence",
+			"location": "",
+			"description": "ChangHwan Kim, Sociology Professor, Specialized in labor markets, stratification, education, & Asian American studies",
+			"url": "https://t.co/TPYdhkbTzf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TPYdhkbTzf",
+							"expanded_url": "https://sovidence.tistory.com/",
+							"display_url": "sovidence.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3228,
+			"friends_count": 337,
+			"listed_count": 21,
+			"created_at": "Sat Jul 04 01:45:39 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국에서 계급정치가 어려운 것은 정치적으로 액티브한 상위50%의 지지로 정치적 활동이 없는 하위20%의 문제를 해결하는 미션이기 때문. 상위50%가 하층으로 떨어지지 않도록 보장하는 것(소득 안정성)과 하층이 혜택을 늘리는 것(소득 불평등 축소)을 교환해야. 3/"
+	},
+	{
+		"created_at": "Thu May 21 11:28:19 +0000 2020",
+		"id": 1263142319131328500,
+		"id_str": "1263431422909374464",
+		"full_text": "한국에서 상위10%와 하위90%를 대비시키려는 정치적 시도가 성공하기 어렵다. 사실이 아니기 때문. 가구단위로 보면 상위 1%, 상위 10%, 중간층이 통시적으로 비슷하게 경제적 이득을 취함. 한국 불평등의 가장 큰 문제는 하층의 소득 하락, 빈곤의 문제. 1/ https://t.co/EjARephPBg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EjARephPBg",
+					"expanded_url": "https://sovidence.tistory.com/1063",
+					"display_url": "sovidence.tistory.com/1063",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3357881951,
+			"id_str": "3357881951",
+			"name": "Sociological Evidence",
+			"screen_name": "KimSovidence",
+			"location": "",
+			"description": "ChangHwan Kim, Sociology Professor, Specialized in labor markets, stratification, education, & Asian American studies",
+			"url": "https://t.co/TPYdhkbTzf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TPYdhkbTzf",
+							"expanded_url": "https://sovidence.tistory.com/",
+							"display_url": "sovidence.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3228,
+			"friends_count": 337,
+			"listed_count": 21,
+			"created_at": "Sat Jul 04 01:45:39 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 265,
+		"favorite_count": 188,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국에서 상위10%와 하위90%를 대비시키려는 정치적 시도가 성공하기 어렵다. 사실이 아니기 때문. 가구단위로 보면 상위 1%, 상위 10%, 중간층이 통시적으로 비슷하게 경제적 이득을 취함. 한국 불평등의 가장 큰 문제는 하층의 소득 하락, 빈곤의 문제. 1/ https://t.co/EjARephPBg"
+	},
+	{
+		"created_at": "Thu May 21 10:08:52 +0000 2020",
+		"id": 1263411427680772000,
+		"id_str": "1263411427680772098",
+		"full_text": "나하에서 아무 이자카야나 들어가서 타베노미호다이 주문하고서 돈 아깝다고 후회하고 싶다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 552,
+			"friends_count": 424,
+			"listed_count": 19,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ko",
+		"text": "나하에서 아무 이자카야나 들어가서 타베노미호다이 주문하고서 돈 아깝다고 후회하고 싶다."
+	},
+	{
+		"created_at": "Thu May 21 09:30:18 +0000 2020",
+		"id": 1263401098229866500,
+		"id_str": "1263401725953634304",
+		"full_text": "입국금지조치가 단계적으로 풀릴꺼라는 뉴스인에, 첫단계가 경기회복을 위한 비지네스관계자 라는것은 알겠는데, 그 다음이 콤비니등의 일손으로써의 유학생?이해불가... 아르바이트하는 유학생이 많은건 사실이지만, 콤비니업계등을 위해 유학생을 받아들이는건 아니잖아요. https://t.co/fVeXuim4QQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fVeXuim4QQ",
+					"expanded_url": "https://www.nikkei.com/article/DGXMZO59387440R20C20A5PP8000/",
+					"display_url": "nikkei.com/article/DGXMZO…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113815545,
+			"id_str": "113815545",
+			"name": "美蘭(미란)🍀",
+			"screen_name": "miran_sk",
+			"location": "",
+			"description": "行政書士です。主に外国人のＶＩＳＡ取得や営業にかかわる許認可申請を業務としてます。     \n일본에서 행정서사라는 일을 하고 있습니다. 외국인의 비자취득과 영업인허가신청 등이 주업무입니다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1230,
+			"friends_count": 698,
+			"listed_count": 72,
+			"created_at": "Sat Feb 13 04:13:06 +0000 2010",
+			"favourites_count": 2900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015761951329116161/Sv1Wj3dO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015761951329116161/Sv1Wj3dO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113815545/1531011496",
+			"profile_link_color": "7C2680",
+			"profile_sidebar_border_color": "EBD3EB",
+			"profile_sidebar_fill_color": "FA71A8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "입국금지조치가 단계적으로 풀릴꺼라는 뉴스인에, 첫단계가 경기회복을 위한 비지네스관계자 라는것은 알겠는데, 그 다음이 콤비니등의 일손으로써의 유학생?이해불가... 아르바이트하는 유학생이 많은건 사실이지만, 콤비니업계등을 위해 유학생을 받아들이는건 아니잖아요. https://t.co/fVeXuim4QQ"
+	},
+	{
+		"created_at": "Thu May 21 08:39:21 +0000 2020",
+		"id": 1262983204085985300,
+		"id_str": "1263388903156797445",
+		"full_text": "이 할머니가 현 상황을 옳은 방식으로 이끌었다고 생각안함. 윤미향은 피해자들에게 강력한 정치적 우군이 될 수 있었으나, 결론적으로 매우 깊은 내상을 입고 향후 행보에 제약을 받을 수 밖에 없음. 덕분에 수요집회 등 모든 것들이 엉망이 됨.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1150220481259171800,
+			"id_str": "1150220481259171840",
+			"name": "Macro Strategy",
+			"screen_name": "StrategyMacro",
+			"location": "",
+			"description": "Professional macroeconomist",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1477,
+			"friends_count": 511,
+			"listed_count": 18,
+			"created_at": "Sun Jul 14 01:48:27 +0000 2019",
+			"favourites_count": 772,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157903333933252610/LC3xlhl6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157903333933252610/LC3xlhl6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1150220481259171840/1564900632",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이 할머니가 현 상황을 옳은 방식으로 이끌었다고 생각안함. 윤미향은 피해자들에게 강력한 정치적 우군이 될 수 있었으나, 결론적으로 매우 깊은 내상을 입고 향후 행보에 제약을 받을 수 밖에 없음. 덕분에 수요집회 등 모든 것들이 엉망이 됨."
+	},
+	{
+		"created_at": "Thu May 21 08:38:34 +0000 2020",
+		"id": 1263132125416448000,
+		"id_str": "1263388704166408198",
+		"full_text": "댓글읽어주는 기자들이니 저널리즘 K니 뭐니 전부다 쓸데 없다. 아무리 조국사태때  언론들이 잘못했니 어쩌니 해도 똑같다. 지금 정의연뉴스만 봐도... 기레기는 달라지지 않는다 never change...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 81994673,
+			"id_str": "81994673",
+			"name": "MEAL덕175",
+			"screen_name": "seventeeeeeenth",
+			"location": "boobs.oppai.가슴",
+			"description": "인권?\n인간의 권리가 하나님의 권리보다 더 크다고....?\n히...히익... 너무... 커..... 이렇게... 히끅!",
+			"url": "https://t.co/FA1H8H92Qw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FA1H8H92Qw",
+							"expanded_url": "http://ask.fm/seventeeeeeenth",
+							"display_url": "ask.fm/seventeeeeeenth",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2535,
+			"friends_count": 1146,
+			"listed_count": 34,
+			"created_at": "Tue Oct 13 02:49:55 +0000 2009",
+			"favourites_count": 11683,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 150543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242702917926191104/3LO7rcHy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242702917926191104/3LO7rcHy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/81994673/1427901868",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "댓글읽어주는 기자들이니 저널리즘 K니 뭐니 전부다 쓸데 없다. 아무리 조국사태때  언론들이 잘못했니 어쩌니 해도 똑같다. 지금 정의연뉴스만 봐도... 기레기는 달라지지 않는다 never change..."
+	},
+	{
+		"created_at": "Thu May 21 08:31:06 +0000 2020",
+		"id": 1263347138429214700,
+		"id_str": "1263386825885769729",
+		"full_text": "저 개인적으로는 이런 말 앞으로 다시는 안 나오도록 법정최고형을 내리는 것이 국민 통합에 이바지하는 바가 클 거라고 생각해요. https://t.co/TJxTWqfTcw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TJxTWqfTcw",
+					"expanded_url": "https://twitter.com/pressian_news/status/1263346173177257984",
+					"display_url": "twitter.com/pressian_news/…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 129115028,
+			"id_str": "129115028",
+			"name": "Nekizlab",
+			"screen_name": "nekizlab",
+			"location": "Seoul, Korea",
+			"description": "독서가입니다. 진짜임.",
+			"url": "https://t.co/WtnttZzWxT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WtnttZzWxT",
+							"expanded_url": "http://www.nekizlab.com/",
+							"display_url": "nekizlab.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1739,
+			"friends_count": 321,
+			"listed_count": 21,
+			"created_at": "Sat Apr 03 06:31:10 +0000 2010",
+			"favourites_count": 207337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 281274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/577243935996702720/mx0uvSNR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/577243935996702720/mx0uvSNR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/129115028/1589784943",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1263346173177258000,
+		"quoted_status_id_str": "1263346173177257984",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TJxTWqfTcw",
+			"expanded": "https://twitter.com/pressian_news/status/1263346173177257984",
+			"display": "twitter.com/pressian_news/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 21 05:49:34 +0000 2020",
+			"id": 1263346173177258000,
+			"id_str": "1263346173177257984",
+			"full_text": "'박근혜 사면'은 '적폐 청산'에서 '국민 통합'으로 국정 운영의 기조를 바꿔야 한다고 강조하는 과정에서 나온 말입니다 \n\nhttps://t.co/WQbcLtaHyi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WQbcLtaHyi",
+						"expanded_url": "https://www.pressian.com/pages/articles/2020052114362770576",
+						"display_url": "pressian.com/pages/articles…",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101700883,
+				"id_str": "101700883",
+				"name": "프레시안",
+				"screen_name": "PRESSIAN_news",
+				"location": "서울",
+				"description": "언론 협동조합 프레시안 공식 트위터입니다",
+				"url": "https://t.co/xSnQ26tjA1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xSnQ26tjA1",
+								"expanded_url": "https://pressian.com",
+								"display_url": "pressian.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 181483,
+				"friends_count": 55371,
+				"listed_count": 3520,
+				"created_at": "Mon Jan 04 08:23:21 +0000 2010",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 55805,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000184902587/a45647c1bfd893d99b4bf8417b87411a_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000184902587/a45647c1bfd893d99b4bf8417b87411a_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101700883/1588577982",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 108,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저 개인적으로는 이런 말 앞으로 다시는 안 나오도록 법정최고형을 내리는 것이 국민 통합에 이바지하는 바가 클 거라고 생각해요. https://t.co/TJxTWqfTcw"
+	},
+	{
+		"created_at": "Thu May 21 07:50:21 +0000 2020",
+		"id": 1263370347618812000,
+		"id_str": "1263376570607001600",
+		"full_text": "재난지원금이 동네에 불어넣은 활력이 크고 즉각적이라 놀랍다.  전 가구가 돈 받아도 나라 안망한단걸 깨달은 국민들의 가치관과 신념체계가 어떻게 바뀔지, 어떤 변화의 마중물이 될지..",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2281840261,
+			"id_str": "2281840261",
+			"name": "Marion",
+			"screen_name": "Marion0411",
+			"location": "",
+			"description": "유튜브 채널 ‘고잉투파’에서 경제산업 뉴스를 읽습니다.  https://t.co/fz1iTmISsu",
+			"url": "https://t.co/fcUp84F3j0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fcUp84F3j0",
+							"expanded_url": "https://blog.naver.com/tazimarinon",
+							"display_url": "blog.naver.com/tazimarinon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fz1iTmISsu",
+							"expanded_url": "https://www.youtube.com/channel/UCWJS6T1UbgPflOdZdGs1RGA",
+							"display_url": "youtube.com/channel/UCWJS6…",
+							"indices": [
+								32,
+								55
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3598,
+			"friends_count": 532,
+			"listed_count": 11,
+			"created_at": "Wed Jan 08 08:47:58 +0000 2014",
+			"favourites_count": 10185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/836899519673544704/sUj8KhSK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/836899519673544704/sUj8KhSK_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4048,
+		"favorite_count": 1881,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "재난지원금이 동네에 불어넣은 활력이 크고 즉각적이라 놀랍다.  전 가구가 돈 받아도 나라 안망한단걸 깨달은 국민들의 가치관과 신념체계가 어떻게 바뀔지, 어떤 변화의 마중물이 될지.."
+	},
+	{
+		"created_at": "Thu May 21 07:44:27 +0000 2020",
+		"id": 1263366172575056000,
+		"id_str": "1263375086666436608",
+		"full_text": "보리수랑 조선일보는 국민 대상 현금 직접 지원을 통한 승수효과라는 개념을 결코 받아들일 생각이 없기 때문에 정부가 기부를 종용한다고 생각해야 함. 기업 지원이 아니라 보편적 현금 지원이 효과있다고 생각하는 순간 보리수 세계관이 대붕괴해버림",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948563622191448000,
+			"id_str": "948563622191448066",
+			"name": "크또또",
+			"screen_name": "ktotoreborn",
+			"location": "",
+			"description": "아니오 저는 여러분의 편이 아닙니다  /  오덕짤은 다 뮤트 / 특정 정치인, 정당 지지하지 않습니다. 관전중.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2150,
+			"friends_count": 240,
+			"listed_count": 12,
+			"created_at": "Wed Jan 03 14:36:05 +0000 2018",
+			"favourites_count": 10380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152588031011934209/5R7_Grvk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152588031011934209/5R7_Grvk_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 183,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "보리수랑 조선일보는 국민 대상 현금 직접 지원을 통한 승수효과라는 개념을 결코 받아들일 생각이 없기 때문에 정부가 기부를 종용한다고 생각해야 함. 기업 지원이 아니라 보편적 현금 지원이 효과있다고 생각하는 순간 보리수 세계관이 대붕괴해버림"
+	},
+	{
+		"created_at": "Thu May 21 07:43:49 +0000 2020",
+		"id": 1263364789243310000,
+		"id_str": "1263374925739421702",
+		"full_text": "기본소득이냐 재난지원금이냐 무의미한 논쟁임. 결국 국가가 기업에게 쓸 돈 전국민에게 주는것도 가능하다는걸 보여줬고 체감했다는 사실만이 중요함. 기본소득으로 우리가 갈지 안갈지는 모르지만 거기로 가는 길은 열린것.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 757442379808772100,
+			"id_str": "757442379808772096",
+			"name": "가짜서울사람 이경채",
+			"screen_name": "mokpoll2",
+			"location": "",
+			"description": "답답해서 트위터함. 혼자 주절주절",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 893,
+			"friends_count": 777,
+			"listed_count": 4,
+			"created_at": "Mon Jul 25 05:08:30 +0000 2016",
+			"favourites_count": 4828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070662542454738945/3FySHaJx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070662542454738945/3FySHaJx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/757442379808772096/1544102444",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 79,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "기본소득이냐 재난지원금이냐 무의미한 논쟁임. 결국 국가가 기업에게 쓸 돈 전국민에게 주는것도 가능하다는걸 보여줬고 체감했다는 사실만이 중요함. 기본소득으로 우리가 갈지 안갈지는 모르지만 거기로 가는 길은 열린것."
+	},
+	{
+		"created_at": "Thu May 21 07:37:54 +0000 2020",
+		"id": 1263369435278008300,
+		"id_str": "1263373437914902528",
+		"full_text": "자발적 기부 같은 거 다 그짓말이었고 그냥 명목에 불과했는데 그거에 기재부가 속은 건지 그냥 굴복한건지 궁금함. 누가 기부해 ㅋㅋㅋㅋㅋㅋ 다 펑펑 쓰지 ㅋㅋㅋㅋ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1110535327825973200,
+			"id_str": "1110535327825973248",
+			"name": "中山",
+			"screen_name": "DrSunYat_Sen",
+			"location": "",
+			"description": "다시 돌아왔다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1417,
+			"friends_count": 162,
+			"listed_count": 12,
+			"created_at": "Tue Mar 26 13:33:49 +0000 2019",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7091,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110546373147947008/5Nx3OG-r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110546373147947008/5Nx3OG-r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1110535327825973248/1553610866",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "자발적 기부 같은 거 다 그짓말이었고 그냥 명목에 불과했는데 그거에 기재부가 속은 건지 그냥 굴복한건지 궁금함. 누가 기부해 ㅋㅋㅋㅋㅋㅋ 다 펑펑 쓰지 ㅋㅋㅋㅋ"
+	},
+	{
 		"created_at": "Thu May 21 00:00:53 +0000 2020",
 		"id": 1263258332715864000,
 		"id_str": "1263258425267347456",
