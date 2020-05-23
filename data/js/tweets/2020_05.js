@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 22 10:26:21 +0000 2020",
+		"id": 1263424975840505900,
+		"id_str": "1263778215962701825",
+		"full_text": "51年前の沖縄。\n\n1969年2月 弾薬庫で働く女性。食堂で働いているかのような格好だが、手にしているのはゴーヤーチャンプルーではなく砲弾。\n\n当時の沖縄市知花弾薬庫内で撮影されたカラー写真です。 https://t.co/RMzUQQihqB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1263424966730498000,
+					"id_str": "1263424966730498048",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EYiWUDZUwAAjY4c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYiWUDZUwAAjY4c.jpg",
+					"url": "https://t.co/RMzUQQihqB",
+					"display_url": "pic.twitter.com/RMzUQQihqB",
+					"expanded_url": "https://twitter.com/horinyo/status/1263424975840505856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 654,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 832,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 832,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263424966730498000,
+					"id_str": "1263424966730498048",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EYiWUDZUwAAjY4c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYiWUDZUwAAjY4c.jpg",
+					"url": "https://t.co/RMzUQQihqB",
+					"display_url": "pic.twitter.com/RMzUQQihqB",
+					"expanded_url": "https://twitter.com/horinyo/status/1263424975840505856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 654,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 832,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 832,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 141643888,
+			"id_str": "141643888",
+			"name": "ホリーニョ",
+			"screen_name": "horinyo",
+			"location": "大阪 ",
+			"description": "戦前〜戦後の沖縄／白黒写真のカラー化",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3242,
+			"friends_count": 399,
+			"listed_count": 54,
+			"created_at": "Sat May 08 16:33:09 +0000 2010",
+			"favourites_count": 55273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095281294622126081/GFnYOtoE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095281294622126081/GFnYOtoE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141643888/1589466300",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "51年前の沖縄。\n\n1969年2月 弾薬庫で働く女性。食堂で働いているかのような格好だが、手にしているのはゴーヤーチャンプルーではなく砲弾。\n\n当時の沖縄市知花弾薬庫内で撮影されたカラー写真です。 https://t.co/RMzUQQihqB"
+	},
+	{
 		"created_at": "Thu May 21 18:31:24 +0000 2020",
 		"id": 1263385423406981000,
 		"id_str": "1263537894569852929",
