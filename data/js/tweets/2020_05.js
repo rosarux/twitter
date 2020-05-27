@@ -1,6 +1,684 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 26 17:27:49 +0000 2020",
+		"id": 1264836542494724000,
+		"id_str": "1265333833009774592",
+		"full_text": "우리나라가 영주비자 가진 외국인에게 지방자치단체 선거권을 부여한 것은 수십년간 이어진 재일동포 참정권 운동을 지원하기 위한 목적도 있었다고. 근데... 그 운동이 있었다는 것 자체를 기억 못하는 인간들이 태반이 된 지금은 여기에 반발하는 인간들이 졸 많다고...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107272352,
+			"id_str": "107272352",
+			"name": "Samuel Seong",
+			"screen_name": "ravenclaw69",
+			"location": "경기남부",
+			"description": "현직 해체목수 전직 글쟁이 #NC_Dinos",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12517,
+			"friends_count": 5002,
+			"listed_count": 327,
+			"created_at": "Fri Jan 22 01:42:42 +0000 2010",
+			"favourites_count": 9032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/486023366910816256/Viq4cTKQ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/486023366910816256/Viq4cTKQ_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107272352/1568463451",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 187,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "우리나라가 영주비자 가진 외국인에게 지방자치단체 선거권을 부여한 것은 수십년간 이어진 재일동포 참정권 운동을 지원하기 위한 목적도 있었다고. 근데... 그 운동이 있었다는 것 자체를 기억 못하는 인간들이 태반이 된 지금은 여기에 반발하는 인간들이 졸 많다고..."
+	},
+	{
+		"created_at": "Tue May 26 14:40:38 +0000 2020",
+		"id": 1265203250166259700,
+		"id_str": "1265291762852982788",
+		"full_text": "영어로 써서 그런가, 관심이 적어서 내가 리트윗. 블룸버그는 자사 기자의 트위터 활동이 자사의 가이드라인에 맞는지 점검해야 할 것이다. https://t.co/63fiKdoRDN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/63fiKdoRDN",
+					"expanded_url": "https://twitter.com/torsean/status/1265131068551606272",
+					"display_url": "twitter.com/torsean/status…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1210,
+			"friends_count": 357,
+			"listed_count": 15,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 1008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254372739416158210/ZLkuWJsr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254372739416158210/ZLkuWJsr_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1265131068551606300,
+		"quoted_status_id_str": "1265131068551606272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/63fiKdoRDN",
+			"expanded": "https://twitter.com/torsean/status/1265131068551606272",
+			"display": "twitter.com/torsean/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 26 04:02:06 +0000 2020",
+			"id": 1265131068551606300,
+			"id_str": "1265131068551606272",
+			"full_text": "Hi, @Bloomberg I think that you need to review your journalist @TheJihyeLee activities on twitter overall in terms of your company’s social media guidelines. Is it yours, right? https://t.co/SfBFkd3eSl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				201
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Bloomberg",
+						"name": "Bloomberg LP",
+						"id": 104237736,
+						"id_str": "104237736",
+						"indices": [
+							4,
+							14
+						]
+					},
+					{
+						"screen_name": "TheJihyeLee",
+						"name": "Jihye Lee 이지혜",
+						"id": 2484763212,
+						"id_str": "2484763212",
+						"indices": [
+							63,
+							75
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SfBFkd3eSl",
+						"expanded_url": "https://www.poynter.org/reporting-editing/2011/bloomberg-policy-ask-questions-first-tweet-later/",
+						"display_url": "poynter.org/reporting-edit…",
+						"indices": [
+							178,
+							201
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 133255001,
+				"id_str": "133255001",
+				"name": "Tor Sean",
+				"screen_name": "TorSean",
+				"location": "",
+				"description": "아름다움이 악함을 이긴다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1210,
+				"friends_count": 357,
+				"listed_count": 15,
+				"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+				"favourites_count": 1008,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 21038,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1254372739416158210/ZLkuWJsr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254372739416158210/ZLkuWJsr_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영어로 써서 그런가, 관심이 적어서 내가 리트윗. 블룸버그는 자사 기자의 트위터 활동이 자사의 가이드라인에 맞는지 점검해야 할 것이다. https://t.co/63fiKdoRDN"
+	},
+	{
+		"created_at": "Tue May 26 14:40:28 +0000 2020",
+		"id": 1265131068551606300,
+		"id_str": "1265291719743954944",
+		"full_text": "Hi, @Bloomberg I think that you need to review your journalist @TheJihyeLee activities on twitter overall in terms of your company’s social media guidelines. Is it yours, right? https://t.co/SfBFkd3eSl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bloomberg",
+					"name": "Bloomberg LP",
+					"id": 104237736,
+					"id_str": "104237736",
+					"indices": [
+						4,
+						14
+					]
+				},
+				{
+					"screen_name": "TheJihyeLee",
+					"name": "Jihye Lee 이지혜",
+					"id": 2484763212,
+					"id_str": "2484763212",
+					"indices": [
+						63,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SfBFkd3eSl",
+					"expanded_url": "https://www.poynter.org/reporting-editing/2011/bloomberg-policy-ask-questions-first-tweet-later/",
+					"display_url": "poynter.org/reporting-edit…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 133255001,
+			"id_str": "133255001",
+			"name": "Tor Sean",
+			"screen_name": "TorSean",
+			"location": "",
+			"description": "아름다움이 악함을 이긴다.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1210,
+			"friends_count": 357,
+			"listed_count": 15,
+			"created_at": "Thu Apr 15 11:51:23 +0000 2010",
+			"favourites_count": 1008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254372739416158210/ZLkuWJsr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254372739416158210/ZLkuWJsr_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hi, @Bloomberg I think that you need to review your journalist @TheJihyeLee activities on twitter overall in terms of your company’s social media guidelines. Is it yours, right? https://t.co/SfBFkd3eSl"
+	},
+	{
+		"created_at": "Tue May 26 14:28:19 +0000 2020",
+		"id": 1264967199057277000,
+		"id_str": "1265288663442706432",
+		"full_text": "사실 지금 정의협이 방기했다고 문제제기된 모든 문제들 할머니들에게 국가지원금에대한 감시 한일 민간교류 학생들과의 접촉 주거지원 다 정의협이 해오던 일들.. 부족함에대한 비판으로 족한 문제를 그동안 아무것도 안해온 파렴치범으로 만들어버렸다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 757442379808772100,
+			"id_str": "757442379808772096",
+			"name": "가짜서울사람 이경채",
+			"screen_name": "mokpoll2",
+			"location": "",
+			"description": "답답해서 트위터함. 혼자 주절주절",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 901,
+			"friends_count": 779,
+			"listed_count": 4,
+			"created_at": "Mon Jul 25 05:08:30 +0000 2016",
+			"favourites_count": 4859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 92222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070662542454738945/3FySHaJx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070662542454738945/3FySHaJx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/757442379808772096/1544102444",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 193,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사실 지금 정의협이 방기했다고 문제제기된 모든 문제들 할머니들에게 국가지원금에대한 감시 한일 민간교류 학생들과의 접촉 주거지원 다 정의협이 해오던 일들.. 부족함에대한 비판으로 족한 문제를 그동안 아무것도 안해온 파렴치범으로 만들어버렸다."
+	},
+	{
+		"created_at": "Tue May 26 14:05:29 +0000 2020",
+		"id": 1265141329731793000,
+		"id_str": "1265282914851229702",
+		"full_text": "트위터 드문드문 들어올 때마다 보면 하루는 기혼여성 혐오하고 있고 다른 날은 트랜스젠더 혐오하고 있고 또 다른 날은 성매매여성 혐오하고 있고 어떤 날은 한꺼번에 하고 있음 예전에는 쿨타임 차면 돌아온다는 느낌이었는데 이제는 날이면 날마다 온다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1265139481876721700,
+		"in_reply_to_status_id_str": "1265139481876721665",
+		"in_reply_to_user_id": 723923171745751000,
+		"in_reply_to_user_id_str": "723923171745751043",
+		"in_reply_to_screen_name": "taeng_al",
+		"user": {
+			"id": 723923171745751000,
+			"id_str": "723923171745751043",
+			"name": "탱알",
+			"screen_name": "taeng_al",
+			"location": "Sydney, New South Wales",
+			"description": "책 〈다 된 만화에 페미니즘 끼얹기: 여성 서사 웹툰 읽기〉를 썼습니다.",
+			"url": "https://t.co/YadBM7vwxJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YadBM7vwxJ",
+							"expanded_url": "http://taengal.com",
+							"display_url": "taengal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8290,
+			"friends_count": 92,
+			"listed_count": 23,
+			"created_at": "Sat Apr 23 17:15:08 +0000 2016",
+			"favourites_count": 5594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223440807190941696/Bwtsq7o5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223440807190941696/Bwtsq7o5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/723923171745751043/1557550502",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1220,
+		"favorite_count": 459,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "트위터 드문드문 들어올 때마다 보면 하루는 기혼여성 혐오하고 있고 다른 날은 트랜스젠더 혐오하고 있고 또 다른 날은 성매매여성 혐오하고 있고 어떤 날은 한꺼번에 하고 있음 예전에는 쿨타임 차면 돌아온다는 느낌이었는데 이제는 날이면 날마다 온다"
+	},
+	{
+		"created_at": "Tue May 26 14:05:26 +0000 2020",
+		"id": 1265139481876721700,
+		"id_str": "1265282901026803714",
+		"full_text": "다들 원래 가지고 있던 혐오 그대로 유지하면서 페미니즘의 이름으로 명분을 찾았을 뿐임.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 723923171745751000,
+			"id_str": "723923171745751043",
+			"name": "탱알",
+			"screen_name": "taeng_al",
+			"location": "Sydney, New South Wales",
+			"description": "책 〈다 된 만화에 페미니즘 끼얹기: 여성 서사 웹툰 읽기〉를 썼습니다.",
+			"url": "https://t.co/YadBM7vwxJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YadBM7vwxJ",
+							"expanded_url": "http://taengal.com",
+							"display_url": "taengal.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8290,
+			"friends_count": 92,
+			"listed_count": 23,
+			"created_at": "Sat Apr 23 17:15:08 +0000 2016",
+			"favourites_count": 5594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9659,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223440807190941696/Bwtsq7o5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223440807190941696/Bwtsq7o5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/723923171745751043/1557550502",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2894,
+		"favorite_count": 1388,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "다들 원래 가지고 있던 혐오 그대로 유지하면서 페미니즘의 이름으로 명분을 찾았을 뿐임."
+	},
+	{
 		"created_at": "Mon May 25 12:21:12 +0000 2020",
 		"id": 1264511531456184300,
 		"id_str": "1264894284798390272",
