@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 28 12:44:58 +0000 2020",
+		"id": 1265201979204071400,
+		"id_str": "1265987428793245696",
+		"full_text": "[단독]\"한국, 위기는 이제부터\" 하버드 경제학자 로고프의 경고 | 다음 뉴스 https://t.co/nNMsNXsHW2\n\n이분 꽤 무식하네. 이제 미국 학자 데려다 대충 썰푸는 것도 안먹히는 시대구나.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nNMsNXsHW2",
+					"expanded_url": "https://news.v.daum.net/v/20200526150121544",
+					"display_url": "news.v.daum.net/v/202005261501…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 111542923,
+			"id_str": "111542923",
+			"name": "뮨트윗",
+			"screen_name": "mjbeanss",
+			"location": "",
+			"description": "Love, family, finance, fund, economics, pasta, golf.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1418,
+			"friends_count": 265,
+			"listed_count": 47,
+			"created_at": "Fri Feb 05 08:46:21 +0000 2010",
+			"favourites_count": 1797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/741763904/shark80103_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/741763904/shark80103_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/111542923/1507506028",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[단독]\"한국, 위기는 이제부터\" 하버드 경제학자 로고프의 경고 | 다음 뉴스 https://t.co/nNMsNXsHW2\n\n이분 꽤 무식하네. 이제 미국 학자 데려다 대충 썰푸는 것도 안먹히는 시대구나."
+	},
+	{
 		"created_at": "Tue May 26 17:27:49 +0000 2020",
 		"id": 1264836542494724000,
 		"id_str": "1265333833009774592",
