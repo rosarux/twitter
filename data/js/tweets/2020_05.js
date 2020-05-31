@@ -1,6 +1,492 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 30 11:30:28 +0000 2020",
+		"id": 1266693257091625000,
+		"id_str": "1266693455884939266",
+		"full_text": "安倍晋三の「夜会食」封印７３日連続、だそうだ\nhttps://t.co/bGcdDrDwgh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bGcdDrDwgh",
+					"expanded_url": "https://ryukyushimpo.jp/kyodo/entry-1130873.html",
+					"display_url": "ryukyushimpo.jp/kyodo/entry-11…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4907327179,
+			"id_str": "4907327179",
+			"name": "乱調",
+			"screen_name": "rantyo3141",
+			"location": "",
+			"description": "リベラルサヨクな「国民国家」主義者どもよ、さようなら！",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1567,
+			"friends_count": 658,
+			"listed_count": 45,
+			"created_at": "Sun Feb 14 15:43:41 +0000 2016",
+			"favourites_count": 2738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 36246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1199546861910028288/9xE16vhl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1199546861910028288/9xE16vhl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4907327179/1590160798",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ja",
+		"text": "安倍晋三の「夜会食」封印７３日連続、だそうだ\nhttps://t.co/bGcdDrDwgh"
+	},
+	{
+		"created_at": "Sat May 30 03:59:27 +0000 2020",
+		"id": 1266007596642611200,
+		"id_str": "1266579954277351424",
+		"full_text": "뮤트하던 중에 기록할 만한 트윗이 보여서 박제하고 얘 뮤트함.\n이 트윗을 보면 아주 뚜렷하게 확인되는데 랟펨들에게는 가부장적 규준 외의 다른 규준, 이를테면 근대 시민 사회 성립 이후 만들어진 시민 사회 윤리 등에 대한 인식이 굉장히 희박해 보인다. (타래로 계속) https://t.co/tAUbYe3Wtk https://t.co/D5WqLaWr7X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tAUbYe3Wtk",
+					"expanded_url": "https://twitter.com/oB432b5zIvl54gf/status/1265993128919437313",
+					"display_url": "twitter.com/oB432b5zIvl54g…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1266007578384855000,
+					"id_str": "1266007578384855045",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EZHDL1iU8AUmm2i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZHDL1iU8AUmm2i.jpg",
+					"url": "https://t.co/D5WqLaWr7X",
+					"display_url": "pic.twitter.com/D5WqLaWr7X",
+					"expanded_url": "https://twitter.com/moon_breeze_/status/1266007596642611201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266007578384855000,
+					"id_str": "1266007578384855045",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EZHDL1iU8AUmm2i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZHDL1iU8AUmm2i.jpg",
+					"url": "https://t.co/D5WqLaWr7X",
+					"display_url": "pic.twitter.com/D5WqLaWr7X",
+					"expanded_url": "https://twitter.com/moon_breeze_/status/1266007596642611201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1266007588614942700,
+					"id_str": "1266007588614942721",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EZHDMbpXsAE6mFj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZHDMbpXsAE6mFj.jpg",
+					"url": "https://t.co/D5WqLaWr7X",
+					"display_url": "pic.twitter.com/D5WqLaWr7X",
+					"expanded_url": "https://twitter.com/moon_breeze_/status/1266007596642611201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1029,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 648,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1029,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1243484985660604400,
+			"id_str": "1243484985660604416",
+			"name": "달 바람 부는 곳",
+			"screen_name": "moon_breeze_",
+			"location": "",
+			"description": "당신의 사랑스러운 미친 사람.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129,
+			"friends_count": 100,
+			"listed_count": 1,
+			"created_at": "Fri Mar 27 10:28:25 +0000 2020",
+			"favourites_count": 1143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1255031474828402688/4mY4lKbD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1255031474828402688/4mY4lKbD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1243484985660604416/1585308488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1265993128919437300,
+		"quoted_status_id_str": "1265993128919437313",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tAUbYe3Wtk",
+			"expanded": "https://twitter.com/oB432b5zIvl54gf/status/1265993128919437313",
+			"display": "twitter.com/oB432b5zIvl54g…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 28 13:07:37 +0000 2020",
+			"id": 1265993128919437300,
+			"id_str": "1265993128919437313",
+			"full_text": "여성주의자들 보고 사회성, 규준에 문제있다고 악마화하는 게 안티페미들의 오래된 수법인데. 남자들이 만든 도식화된 틀에 따르지 않았단 이유로 마녀로 몰리기도 했고 2020년도에 똑같은 소릴 하는 사람이 여기있네 https://t.co/DZ7REIZxZ1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DZ7REIZxZ1",
+						"expanded_url": "https://twitter.com/moon_breeze_/status/1265809710038441990",
+						"display_url": "twitter.com/moon_breeze_/s…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 993486902933143600,
+				"id_str": "993486902933143553",
+				"name": "영어공부힘주자",
+				"screen_name": "oB432b5zIvl54gf",
+				"location": "",
+				"description": "퍄퍄에서 계이함 #투표용지에_여성정치인 #여성소비총파업 4B탈코 MTT는 여혐이다 먼저차단하면맞차단함 #여성의당",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1551,
+				"friends_count": 291,
+				"listed_count": 7,
+				"created_at": "Mon May 07 13:45:10 +0000 2018",
+				"favourites_count": 1274,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20225,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265985225563095041/GYU8bGfc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265985225563095041/GYU8bGfc_normal.jpg",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1265809710038442000,
+			"quoted_status_id_str": "1265809710038441990",
+			"quoted_status_permalink": {
+				"url": "https://t.co/DZ7REIZxZ1",
+				"expanded": "https://twitter.com/moon_breeze_/status/1265809710038441990",
+				"display": "twitter.com/moon_breeze_/s…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 194,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뮤트하던 중에 기록할 만한 트윗이 보여서 박제하고 얘 뮤트함.\n이 트윗을 보면 아주 뚜렷하게 확인되는데 랟펨들에게는 가부장적 규준 외의 다른 규준, 이를테면 근대 시민 사회 성립 이후 만들어진 시민 사회 윤리 등에 대한 인식이 굉장히 희박해 보인다. (타래로 계속) https://t.co/tAUbYe3Wtk https://t.co/D5WqLaWr7X"
+	},
+	{
+		"created_at": "Sat May 30 01:31:39 +0000 2020",
+		"id": 1266191075997184000,
+		"id_str": "1266542758111506433",
+		"full_text": "\"당일 필요한 물건이라면 직접 그곳에 가서 사온다.\" 라는 소리는 다시 봐도 기가 찬다.\n\n저것이 가능하려면 어떤 조건들이 충족되어야 하는지, 당사자 본인이 얼마나 좋은 환경 속에서 살아가고 있는지를 아는 건지 모르는 건지.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1266182601628242000,
+		"in_reply_to_status_id_str": "1266182601628241920",
+		"in_reply_to_user_id": 224137655,
+		"in_reply_to_user_id_str": "224137655",
+		"in_reply_to_screen_name": "loveaselin",
+		"user": {
+			"id": 224137655,
+			"id_str": "224137655",
+			"name": "🎗 Hanbin KIM (201系) 🇰🇷 民主香港加油 🇭🇰",
+			"screen_name": "loveaselin",
+			"location": "서울(Seoul)",
+			"description": "덕업일치 철도인 / 항덕 / 여행 / 소녀전선 / ROKAF#677 / LUMIX GH1, GH2, GH5 user / `91 NISSAN 300ZX(Z32) owner / 밀리라이브 팀코 中 하나요 / 프사는 @ZeBread_KR 님",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1763,
+			"friends_count": 687,
+			"listed_count": 19,
+			"created_at": "Wed Dec 08 07:13:07 +0000 2010",
+			"favourites_count": 15679,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 185889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242849097691717637/4v9Ib5kx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242849097691717637/4v9Ib5kx_normal.jpg",
+			"profile_link_color": "00BD4C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 778,
+		"favorite_count": 264,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"당일 필요한 물건이라면 직접 그곳에 가서 사온다.\" 라는 소리는 다시 봐도 기가 찬다.\n\n저것이 가능하려면 어떤 조건들이 충족되어야 하는지, 당사자 본인이 얼마나 좋은 환경 속에서 살아가고 있는지를 아는 건지 모르는 건지."
+	},
+	{
 		"created_at": "Thu May 28 12:44:58 +0000 2020",
 		"id": 1265201979204071400,
 		"id_str": "1265987428793245696",
