@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 31 01:56:30 +0000 2020",
+		"id": 1266862673712435200,
+		"id_str": "1266911400804270080",
+		"full_text": "Currently at the White House https://t.co/6DTRbFAqo6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1266843633384394800,
+					"id_str": "1266843633384394752",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1266843633384394752/pu/img/3L5QvUSaFbt_fCzY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1266843633384394752/pu/img/3L5QvUSaFbt_fCzY.jpg",
+					"url": "https://t.co/6DTRbFAqo6",
+					"display_url": "pic.twitter.com/6DTRbFAqo6",
+					"expanded_url": "https://twitter.com/aletweetsnews/status/1266844117654478851/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1266844117654478800,
+					"source_status_id_str": "1266844117654478851",
+					"source_user_id": 464067709,
+					"source_user_id_str": "464067709"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266843633384394800,
+					"id_str": "1266843633384394752",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1266843633384394752/pu/img/3L5QvUSaFbt_fCzY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1266843633384394752/pu/img/3L5QvUSaFbt_fCzY.jpg",
+					"url": "https://t.co/6DTRbFAqo6",
+					"display_url": "pic.twitter.com/6DTRbFAqo6",
+					"expanded_url": "https://twitter.com/aletweetsnews/status/1266844117654478851/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1266844117654478800,
+					"source_status_id_str": "1266844117654478851",
+					"source_user_id": 464067709,
+					"source_user_id_str": "464067709",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38735,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1266843633384394752/pu/vid/480x270/xItovgbxjxFJXZZ6.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1266843633384394752/pu/vid/640x360/8b9j6dvenuWtbJ64.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1266843633384394752/pu/pl/cX7mneluxADDUQwd.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1266843633384394752/pu/vid/1280x720/YrPjgK_KLz6wIr7x.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 464067709,
+							"id_str": "464067709",
+							"name": "Alejandro Alvarez",
+							"screen_name": "aletweetsnews",
+							"location": "Washington, DC",
+							"description": "Digital editor @WTOP. Journalist and photographer chasing politics and protest movements with 👀 on 🇺🇸🇨🇳🇭🇰. Contributor @N2Sreports & @SipaUSA.",
+							"url": "https://t.co/ZPjDdXK9SO",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/ZPjDdXK9SO",
+											"expanded_url": "http://alealvarez.net",
+											"display_url": "alealvarez.net",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 26422,
+							"friends_count": 980,
+							"listed_count": 417,
+							"created_at": "Sat Jan 14 20:12:46 +0000 2012",
+							"favourites_count": 10621,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 22251,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/877607909198266369/qJrDS0yX_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/877607909198266369/qJrDS0yX_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/464067709/1579905785",
+							"profile_link_color": "36536B",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 410318537,
+			"id_str": "410318537",
+			"name": "FreeZerohedge",
+			"screen_name": "freezerohedge",
+			"location": "Twitter Jail",
+			"description": "Providing #zerohedge content daily. \n#FreeZerohedge",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98597,
+			"friends_count": 0,
+			"listed_count": 1270,
+			"created_at": "Fri Nov 11 23:12:27 +0000 2011",
+			"favourites_count": 467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263953493750018049/xC1XX_1y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263953493750018049/xC1XX_1y_normal.jpg",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 707,
+		"favorite_count": 1034,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Currently at the White House https://t.co/6DTRbFAqo6"
+	},
+	{
 		"created_at": "Sat May 30 11:30:28 +0000 2020",
 		"id": 1266693257091625000,
 		"id_str": "1266693455884939266",
