@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 11:10:04 +0000 2020",
+		"id": 1270205667664511000,
+		"id_str": "1270312199429386240",
+		"full_text": "한국 기득권 중년 남성의 면접 갑질 정당화를 왜 내가 한겨레 칼럼에서 보고 있어야 할까? https://t.co/JNPFoIXU8N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1270205655442354200,
+					"id_str": "1270205655442354176",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/EaCtUFRVcAAcgbF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaCtUFRVcAAcgbF.jpg",
+					"url": "https://t.co/JNPFoIXU8N",
+					"display_url": "pic.twitter.com/JNPFoIXU8N",
+					"expanded_url": "https://twitter.com/_anpyung/status/1270205667664510982/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270205655442354200,
+					"id_str": "1270205655442354176",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/EaCtUFRVcAAcgbF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaCtUFRVcAAcgbF.jpg",
+					"url": "https://t.co/JNPFoIXU8N",
+					"display_url": "pic.twitter.com/JNPFoIXU8N",
+					"expanded_url": "https://twitter.com/_anpyung/status/1270205667664510982/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2971590678,
+			"id_str": "2971590678",
+			"name": "평",
+			"screen_name": "_anpyung",
+			"location": "",
+			"description": "우린 아름답고 참 슬픈 사이야",
+			"url": "https://t.co/GgupKAhOti",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GgupKAhOti",
+							"expanded_url": "http://brunch.co.kr/@anpyung",
+							"display_url": "brunch.co.kr/@anpyung",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 766,
+			"friends_count": 964,
+			"listed_count": 4,
+			"created_at": "Sat Jan 10 09:59:29 +0000 2015",
+			"favourites_count": 5242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245172152535592960/Hx2omW9t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245172152535592960/Hx2omW9t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2971590678/1566920380",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2495,
+		"favorite_count": 578,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국 기득권 중년 남성의 면접 갑질 정당화를 왜 내가 한겨레 칼럼에서 보고 있어야 할까? https://t.co/JNPFoIXU8N"
+	},
+	{
+		"created_at": "Tue Jun 09 07:06:49 +0000 2020",
+		"id": 1270159646657933300,
+		"id_str": "1270250982899773440",
+		"full_text": "해리 포터 영화판에 출연했던 아역배우들이 조앤 롤링보다 나은 인간으로 성장한 것은 여러모로 다행스러운 일이다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 273786271,
+			"id_str": "273786271",
+			"name": "F_teatime😷",
+			"screen_name": "F_teatime78",
+			"location": "Korea",
+			"description": "아들딸엄마/비자발적 실직자/재봉러/프로 트잉여/novaflare 혹은 Filia /여성혐오&소수자혐오에 반대합니다/트윗 내용 개인적 의견 많음 (적절히 필터링 요망)/체인블락 미러블락 사용함/비팔로잉계정 알림을 꺼놨습니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2799,
+			"friends_count": 640,
+			"listed_count": 22,
+			"created_at": "Tue Mar 29 04:45:21 +0000 2011",
+			"favourites_count": 41424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 166479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1260333485744508929/IJlvCqpQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260333485744508929/IJlvCqpQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/273786271/1589322080",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3651,
+		"favorite_count": 1683,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "해리 포터 영화판에 출연했던 아역배우들이 조앤 롤링보다 나은 인간으로 성장한 것은 여러모로 다행스러운 일이다"
+	},
+	{
 		"created_at": "Mon Jun 08 12:28:53 +0000 2020",
 		"id": 1269968428393259000,
 		"id_str": "1269969646351835136",
