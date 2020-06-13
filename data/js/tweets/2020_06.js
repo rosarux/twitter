@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 12 13:18:47 +0000 2020",
+		"id": 1270734589628047400,
+		"id_str": "1271431755728252928",
+		"full_text": "맞는 말 하는 것 같지만... 베트남전 전시 성폭력 문제에 정의연이 무관심했던 것처럼 서술한 것은 정말 악의적이던지 무식하던지 둘 중 하나다. \n\nhttps://t.co/GsCJsZQy2a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GsCJsZQy2a",
+					"expanded_url": "http://www.ejanews.co.kr/news/articleView.html?idxno=218055&fbclid=IwAR0zZfxcjgcmXvAXaa4mesbMUluke2gCsUu3dZlprhPDNX-On0HMkLH5uF4",
+					"display_url": "ejanews.co.kr/news/articleVi…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1027536116100948000,
+			"id_str": "1027536116100947971",
+			"name": "Flooky",
+			"screen_name": "Flooky_study",
+			"location": "대한민국 서울",
+			"description": "PhD student / Sociology / researching gender and sexuality, queer theory, social movements, masculinities",
+			"url": "https://t.co/1KG8o9VeyG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1KG8o9VeyG",
+							"expanded_url": "https://flooky.tistory.com/",
+							"display_url": "flooky.tistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86,
+			"friends_count": 239,
+			"listed_count": 0,
+			"created_at": "Thu Aug 09 12:44:35 +0000 2018",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266566356004007936/bi0SqBSR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266566356004007936/bi0SqBSR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1027536116100947971/1566670300",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 404,
+		"favorite_count": 122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "맞는 말 하는 것 같지만... 베트남전 전시 성폭력 문제에 정의연이 무관심했던 것처럼 서술한 것은 정말 악의적이던지 무식하던지 둘 중 하나다. \n\nhttps://t.co/GsCJsZQy2a"
+	},
+	{
 		"created_at": "Tue Jun 09 11:10:04 +0000 2020",
 		"id": 1270205667664511000,
 		"id_str": "1270312199429386240",
