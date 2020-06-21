@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 20 12:52:28 +0000 2020",
+		"id": 1274314328125042700,
+		"id_str": "1274324237189124098",
+		"full_text": "40대 가장이 해고 당해 생계가 막막해지는 상황 vs 40대 가장이 검단신도시 신축 아파트에 대출금이 부족해서 입주하지 못하는 상황\n\n보수경제지의 세계에서 후자는 불공정한 세계의 증명이지만, 전자는 세계의 작동원리 상 어쩔 수 없이 발생하는 콜래트럴 데미지",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn, 오마이걸, NCT, 이달소 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2960,
+			"friends_count": 1391,
+			"listed_count": 67,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 114398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1565051000",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 448,
+		"favorite_count": 151,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "40대 가장이 해고 당해 생계가 막막해지는 상황 vs 40대 가장이 검단신도시 신축 아파트에 대출금이 부족해서 입주하지 못하는 상황\n\n보수경제지의 세계에서 후자는 불공정한 세계의 증명이지만, 전자는 세계의 작동원리 상 어쩔 수 없이 발생하는 콜래트럴 데미지"
+	},
+	{
 		"created_at": "Tue Jun 16 22:15:05 +0000 2020",
 		"id": 1272927508401250300,
 		"id_str": "1273016270342897664",
