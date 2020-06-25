@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 24 08:48:10 +0000 2020",
+		"id": 1275241779046932500,
+		"id_str": "1275712307675398146",
+		"full_text": "공기업 정규직 전환은 (1)정규직 전환 대상자를 입사시점 기준으로 노사정이 합의한 다음에 실시됐습니다. (2)이 합의에 몇 년이 걸렸습니다. (3)기준에 해당한다고 비정규직 전원 정규직 전환을 한 것이 아니고 제한경쟁을 또 거쳤습니다. (4)공개경쟁채용 정규직도 별도로 뽑았습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4318226714,
+			"id_str": "4318226714",
+			"name": "정소연",
+			"screen_name": "sy876",
+			"location": "여의도, 서울",
+			"description": "변호사. SF작가・번역가. 여기에는 제가 쓰고 싶은 글을 씁니다. // 온라인 법률상담 X // 상담문의 02-780-0328 //🏳️‍🌈// 마이붐:뉴이스트(렌) // instagram: sfwriterjeong (EN)",
+			"url": "https://t.co/p43kC6e82H",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p43kC6e82H",
+							"expanded_url": "http://bodalaw.net",
+							"display_url": "bodalaw.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15130,
+			"friends_count": 497,
+			"listed_count": 82,
+			"created_at": "Sun Nov 22 02:11:55 +0000 2015",
+			"favourites_count": 3224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981002998926077958/e6NqXms3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981002998926077958/e6NqXms3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4318226714/1592835622",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1280,
+		"favorite_count": 544,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "공기업 정규직 전환은 (1)정규직 전환 대상자를 입사시점 기준으로 노사정이 합의한 다음에 실시됐습니다. (2)이 합의에 몇 년이 걸렸습니다. (3)기준에 해당한다고 비정규직 전원 정규직 전환을 한 것이 아니고 제한경쟁을 또 거쳤습니다. (4)공개경쟁채용 정규직도 별도로 뽑았습니다."
+	},
+	{
 		"created_at": "Sat Jun 20 12:52:28 +0000 2020",
 		"id": 1274314328125042700,
 		"id_str": "1274324237189124098",
