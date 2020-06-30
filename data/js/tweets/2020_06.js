@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 29 00:44:13 +0000 2020",
+		"id": 1277401788522496000,
+		"id_str": "1277402457694326785",
+		"full_text": "인천공항 비정규직 정규직 전환은 최소 3년 이상 걸린 작업인데 그걸 단순하고 과격하게 접근했다고 한다는 건 몰라서 하는 소리인가 일부러 그런 것일까\nhttps://t.co/bMVrbdZugt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bMVrbdZugt",
+					"expanded_url": "https://news.v.daum.net/v/20200629093000328",
+					"display_url": "news.v.daum.net/v/202006290930…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 42567931,
+			"id_str": "42567931",
+			"name": "일기통관",
+			"screen_name": "corwin1129",
+			"location": "Seoul",
+			"description": "Mistborn, 오마이걸, NCT, 이달소 붐은 온다!",
+			"url": "https://t.co/8U3n76Lk4F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8U3n76Lk4F",
+							"expanded_url": "http://blog.naver.com/corwin77",
+							"display_url": "blog.naver.com/corwin77",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2960,
+			"friends_count": 1396,
+			"listed_count": 67,
+			"created_at": "Tue May 26 04:55:02 +0000 2009",
+			"favourites_count": 3597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 114583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/944758249936404485/IKG-4MjM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/42567931/1565051000",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인천공항 비정규직 정규직 전환은 최소 3년 이상 걸린 작업인데 그걸 단순하고 과격하게 접근했다고 한다는 건 몰라서 하는 소리인가 일부러 그런 것일까\nhttps://t.co/bMVrbdZugt"
+	},
+	{
 		"created_at": "Wed Jun 24 08:48:10 +0000 2020",
 		"id": 1275241779046932500,
 		"id_str": "1275712307675398146",
@@ -28,7 +134,7 @@ Grailbird.data.tweets_2020_06 =
 			"name": "정소연",
 			"screen_name": "sy876",
 			"location": "여의도, 서울",
-			"description": "변호사. SF작가・번역가. 여기에는 제가 쓰고 싶은 글을 씁니다. // 온라인 법률상담 X // 상담문의 02-780-0328 //🏳️‍🌈// 마이붐:뉴이스트(렌) // instagram: sfwriterjeong (EN)",
+			"description": "변호사. SF작가・번역가. 여기에는 제가 쓰고 싶은 글을 씁니다. // 온라인 법률상담 X // 상담문의 02-780-0328 //🏳️🌈// 마이붐:뉴이스트(렌) // instagram: sfwriterjeong (EN)",
 			"url": "https://t.co/p43kC6e82H",
 			"entities": {
 				"url": {
