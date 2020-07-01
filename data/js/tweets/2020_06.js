@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 30 04:58:10 +0000 2020",
+		"id": 1277605822919397400,
+		"id_str": "1277828754337746945",
+		"full_text": "SNS 상에서의 발언력도 엄연히 한정된 자원이다. 본인이 적어도 진보연 하는 사람이라면, 인천공항공사 사무직렬 정규직 공채 면접에 떨어졌다고 엉엉 우는 강남 출신 연세대 졸업생을 딱하게 여길 시간에, 수 천, 수 만명의 비정규직 SOC 노동자들을 위한 말들을 해야 하지 않을까.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1277604381496467500,
+		"in_reply_to_status_id_str": "1277604381496467456",
+		"in_reply_to_user_id": 165325098,
+		"in_reply_to_user_id_str": "165325098",
+		"in_reply_to_screen_name": "eun_gong",
+		"user": {
+			"id": 165325098,
+			"id_str": "165325098",
+			"name": "서울의 隱公을 찾아서",
+			"screen_name": "eun_gong",
+			"location": "도시라는 선 위에 존재합니다",
+			"description": "주로 서울을 기록하지만 다른 도시와 이슈에도 관심이 많습니다",
+			"url": "https://t.co/rRRANkO5ZI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rRRANkO5ZI",
+							"expanded_url": "http://instagram.com/journey.to.modern.seoul",
+							"display_url": "instagram.com/journey.to.mod…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12036,
+			"friends_count": 676,
+			"listed_count": 109,
+			"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+			"favourites_count": 11333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 278029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7EE6BD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277359483778285568/7DEvqFve_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277359483778285568/7DEvqFve_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1593381209",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "SNS 상에서의 발언력도 엄연히 한정된 자원이다. 본인이 적어도 진보연 하는 사람이라면, 인천공항공사 사무직렬 정규직 공채 면접에 떨어졌다고 엉엉 우는 강남 출신 연세대 졸업생을 딱하게 여길 시간에, 수 천, 수 만명의 비정규직 SOC 노동자들을 위한 말들을 해야 하지 않을까."
+	},
+	{
 		"created_at": "Mon Jun 29 00:44:13 +0000 2020",
 		"id": 1277401788522496000,
 		"id_str": "1277402457694326785",
