@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 06:34:50 +0000 2020",
+		"id": 1280389794158112800,
+		"id_str": "1280389794158112771",
+		"full_text": "@H4n_Yang @platypus_mann @luxsecuritatis @msy_marple @Letsbuysilver @wangfei_2016 @bohemian_96 @feelingofadore @mina_0807 @mingxiu90 @pencilpenbrush @sherpa21 @lrumr @manchun_bs @prismnolight @seibeimir @chataulait @jynirage @zozingzing @kimbangtong @TorSean @Estel_Eldalieva @ChooMiAe @moonriver365 @hellopolicy @TheBlueHouseKR @happymoj @8uuh @ownbookreading @holy_pillar @bookian #성착취는_경솔한_판단_아닌_중범죄다\n#Nth_COURTROOM\n#미국에서_100년_손정우_소환하라 \n#사법부도_공범이다",
+		"truncated": false,
+		"display_text_range": [
+			383,
+			450
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "성착취는_경솔한_판단_아닌_중범죄다",
+					"indices": [
+						383,
+						403
+					]
+				},
+				{
+					"text": "Nth_COURTROOM",
+					"indices": [
+						404,
+						418
+					]
+				},
+				{
+					"text": "미국에서_100년_손정우_소환하라",
+					"indices": [
+						419,
+						438
+					]
+				},
+				{
+					"text": "사법부도_공범이다",
+					"indices": [
+						440,
+						450
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "H4n_Yang",
+					"name": "閑良(전라도)",
+					"id": 3109900699,
+					"id_str": "3109900699",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "platypus_mann",
+					"name": "Mann.",
+					"id": 39013508,
+					"id_str": "39013508",
+					"indices": [
+						10,
+						24
+					]
+				},
+				{
+					"screen_name": "luxsecuritatis",
+					"name": "lux securitatis",
+					"id": 149830678,
+					"id_str": "149830678",
+					"indices": [
+						25,
+						40
+					]
+				},
+				{
+					"screen_name": "msy_marple",
+					"name": "Misun Yun",
+					"id": 57587790,
+					"id_str": "57587790",
+					"indices": [
+						41,
+						52
+					]
+				},
+				{
+					"screen_name": "Letsbuysilver",
+					"name": "은사자",
+					"id": 45046320,
+					"id_str": "45046320",
+					"indices": [
+						53,
+						67
+					]
+				},
+				{
+					"screen_name": "wangfei_2016",
+					"name": "왕페이",
+					"id": 727102434800111600,
+					"id_str": "727102434800111616",
+					"indices": [
+						68,
+						81
+					]
+				},
+				{
+					"screen_name": "bohemian_96",
+					"name": "Abend𓃰",
+					"id": 323204915,
+					"id_str": "323204915",
+					"indices": [
+						82,
+						94
+					]
+				},
+				{
+					"screen_name": "feelingofadore",
+					"name": "도레",
+					"id": 966343207490486300,
+					"id_str": "966343207490486273",
+					"indices": [
+						95,
+						110
+					]
+				},
+				{
+					"screen_name": "mina_0807",
+					"name": "Mina",
+					"id": 97382540,
+					"id_str": "97382540",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"screen_name": "mingxiu90",
+					"name": "shu",
+					"id": 2354010836,
+					"id_str": "2354010836",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"screen_name": "pencilpenbrush",
+					"name": "pencilpenbrush",
+					"id": 2422728991,
+					"id_str": "2422728991",
+					"indices": [
+						133,
+						148
+					]
+				},
+				{
+					"screen_name": "sherpa21",
+					"name": "박태근/바갈라딘",
+					"id": 116684150,
+					"id_str": "116684150",
+					"indices": [
+						149,
+						158
+					]
+				},
+				{
+					"screen_name": "lrumr",
+					"name": "박시하",
+					"id": 343717085,
+					"id_str": "343717085",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"screen_name": "manchun_bs",
+					"name": "만춘서점",
+					"id": 233186716,
+					"id_str": "233186716",
+					"indices": [
+						166,
+						177
+					]
+				},
+				{
+					"screen_name": "prismnolight",
+					"name": "두부럽",
+					"id": 1585695722,
+					"id_str": "1585695722",
+					"indices": [
+						178,
+						191
+					]
+				},
+				{
+					"screen_name": "seibeimir",
+					"name": "dolminari",
+					"id": 483344886,
+					"id_str": "483344886",
+					"indices": [
+						192,
+						202
+					]
+				},
+				{
+					"screen_name": "chataulait",
+					"name": "Jeeyeon",
+					"id": 2327962542,
+					"id_str": "2327962542",
+					"indices": [
+						203,
+						214
+					]
+				},
+				{
+					"screen_name": "jynirage",
+					"name": "Park, J.Y",
+					"id": 67317976,
+					"id_str": "67317976",
+					"indices": [
+						215,
+						224
+					]
+				},
+				{
+					"screen_name": "zozingzing",
+					"name": "조징",
+					"id": 158409927,
+					"id_str": "158409927",
+					"indices": [
+						225,
+						236
+					]
+				},
+				{
+					"screen_name": "kimbangtong",
+					"name": "김방통",
+					"id": 83797548,
+					"id_str": "83797548",
+					"indices": [
+						237,
+						249
+					]
+				},
+				{
+					"screen_name": "TorSean",
+					"name": "Tor Sean",
+					"id": 133255001,
+					"id_str": "133255001",
+					"indices": [
+						250,
+						258
+					]
+				},
+				{
+					"screen_name": "Estel_Eldalieva",
+					"name": "에스텔🌟",
+					"id": 1163789709803266000,
+					"id_str": "1163789709803266049",
+					"indices": [
+						259,
+						275
+					]
+				},
+				{
+					"screen_name": "ChooMiAe",
+					"name": "추미애",
+					"id": 59686991,
+					"id_str": "59686991",
+					"indices": [
+						276,
+						285
+					]
+				},
+				{
+					"screen_name": "moonriver365",
+					"name": "문재인",
+					"id": 444465942,
+					"id_str": "444465942",
+					"indices": [
+						286,
+						299
+					]
+				},
+				{
+					"screen_name": "hellopolicy",
+					"name": "대한민국 정부",
+					"id": 134679265,
+					"id_str": "134679265",
+					"indices": [
+						300,
+						312
+					]
+				},
+				{
+					"screen_name": "TheBlueHouseKR",
+					"name": "대한민국 청와대",
+					"id": 867990237804249100,
+					"id_str": "867990237804249099",
+					"indices": [
+						313,
+						328
+					]
+				},
+				{
+					"screen_name": "happymoj",
+					"name": "법무부",
+					"id": 61355799,
+					"id_str": "61355799",
+					"indices": [
+						329,
+						338
+					]
+				},
+				{
+					"screen_name": "8uuh",
+					"name": "ㄱ",
+					"id": 161698671,
+					"id_str": "161698671",
+					"indices": [
+						339,
+						344
+					]
+				},
+				{
+					"screen_name": "ownbookreading",
+					"name": "limited edition",
+					"id": 2847298525,
+					"id_str": "2847298525",
+					"indices": [
+						345,
+						360
+					]
+				},
+				{
+					"screen_name": "holy_pillar",
+					"name": "Holy Pillar",
+					"id": 1667414719,
+					"id_str": "1667414719",
+					"indices": [
+						361,
+						373
+					]
+				},
+				{
+					"screen_name": "bookian",
+					"name": "ㅎ¡ㅎ",
+					"id": 1094435775846830100,
+					"id_str": "1094435775846830080",
+					"indices": [
+						374,
+						382
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1280353787584999400,
+		"in_reply_to_status_id_str": "1280353787584999424",
+		"in_reply_to_user_id": 3109900699,
+		"in_reply_to_user_id_str": "3109900699",
+		"in_reply_to_screen_name": "H4n_Yang",
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 549,
+			"friends_count": 423,
+			"listed_count": 19,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1441838938",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@H4n_Yang @platypus_mann @luxsecuritatis @msy_marple @Letsbuysilver @wangfei_2016 @bohemian_96 @feelingofadore @mina_0807 @mingxiu90 @pencilpenbrush @sherpa21 @lrumr @manchun_bs @prismnolight @seibeimir @chataulait @jynirage @zozingzing @kimbangtong @TorSean @Estel_Eldalieva @ChooMiAe @moonriver365 @hellopolicy @TheBlueHouseKR @happymoj @8uuh @ownbookreading @holy_pillar @bookian #성착취는_경솔한_판단_아닌_중범죄다\n#Nth_COURTROOM\n#미국에서_100년_손정우_소환하라 \n#사법부도_공범이다"
+	},
+	{
 		"created_at": "Sun Jul 05 11:40:57 +0000 2020",
 		"id": 1279742058266165200,
 		"id_str": "1279742058266165249",
