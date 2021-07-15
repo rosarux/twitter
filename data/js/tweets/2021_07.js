@@ -1,0 +1,86 @@
+Grailbird.data.tweets_2021_07 = 
+[
+	{
+		"created_at": "Wed Jul 14 13:05:59 +0000 2021",
+		"id": 1414945067673047000,
+		"id_str": "1415296519180218379",
+		"full_text": "대통령 선거에 나오려는 관료들 출신을 살펴보면\n\n- 기획재정부 관료\n- 대검찰청 관료\n- 판사 \n\n인데 역설적으로 이 세 종류 관료들을 때려잡아야 나라가 바로선다는 걸 의미하는 듯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1265058494530506800,
+			"id_str": "1265058494530506753",
+			"name": "새로운 슈퍼JC 리카는 합니다",
+			"screen_name": "doombus8282",
+			"location": "새로운 경기 공정한 세상",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1007,
+			"friends_count": 341,
+			"listed_count": 4,
+			"created_at": "Mon May 25 23:13:58 +0000 2020",
+			"favourites_count": 121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412318542096076803/DrFXI34N_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412318542096076803/DrFXI34N_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1265058494530506753/1623909555",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 198,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "대통령 선거에 나오려는 관료들 출신을 살펴보면\n\n- 기획재정부 관료\n- 대검찰청 관료\n- 판사 \n\n인데 역설적으로 이 세 종류 관료들을 때려잡아야 나라가 바로선다는 걸 의미하는 듯."
+	}
+]
