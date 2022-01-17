@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 16 00:58:14 +0000 2022",
+		"id": 1482355994017812500,
+		"id_str": "1482517517377884163",
+		"full_text": "사과도 할 줄 알고 주변국 눈치라도 보던 자민당이 지금 이 꼴이 났고, 메르켈이 나가자마자 정신 못 차리는 독일 기민련도 그렇고, 입법된 지 햇수로 10년 째인 동성결혼을 전면철폐하자는 프랑스 공화당도 그렇고, 세상의 주류 우파가 일제히 정신을 놓는 상황에서 너무 안이하게들 사신다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1482355200459690000,
+		"in_reply_to_status_id_str": "1482355200459689984",
+		"in_reply_to_user_id": 165325098,
+		"in_reply_to_user_id_str": "165325098",
+		"in_reply_to_screen_name": "eun_gong",
+		"user": {
+			"id": 165325098,
+			"id_str": "165325098",
+			"name": "隱公",
+			"screen_name": "eun_gong",
+			"location": "日本 東京",
+			"description": "Urban Planning & Modern Architecture",
+			"url": "https://t.co/zin5unCl05",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zin5unCl05",
+							"expanded_url": "http://instagram.com/journey.to.modern.seoul",
+							"display_url": "instagram.com/journey.to.mod…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14289,
+			"friends_count": 663,
+			"listed_count": 122,
+			"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+			"favourites_count": 13476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 283306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7EE6BD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1475854511847911432/41sdYZIp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1475854511847911432/41sdYZIp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1608977535",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "77173905596af4ab",
+			"url": "https://api.twitter.com/1.1/geo/id/77173905596af4ab.json",
+			"place_type": "city",
+			"name": "文京区",
+			"full_name": "東京 文京区",
+			"country_code": "JP",
+			"country": "日本",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							139.717275,
+							35.699474
+						],
+						[
+							139.772477,
+							35.699474
+						],
+						[
+							139.772477,
+							35.735929
+						],
+						[
+							139.717275,
+							35.735929
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사과도 할 줄 알고 주변국 눈치라도 보던 자민당이 지금 이 꼴이 났고, 메르켈이 나가자마자 정신 못 차리는 독일 기민련도 그렇고, 입법된 지 햇수로 10년 째인 동성결혼을 전면철폐하자는 프랑스 공화당도 그렇고, 세상의 주류 우파가 일제히 정신을 놓는 상황에서 너무 안이하게들 사신다."
+	},
+	{
+		"created_at": "Sun Jan 16 00:58:08 +0000 2022",
+		"id": 1482355200459690000,
+		"id_str": "1482517491905884161",
+		"full_text": "70년대 유신체제에 살아가면서 어리버리하게 마리톤이나 뛰는 정치인과, 그래도 모든 국민의 의견을 들어야지 하면서 이쪽저쪽 다 귀 기울이는 정치인을 동일선상에 놓고 보이콧하자고 촉구하면, 뭐 그냥 다 같이 죽자는 얘기 밖에 안되겠지요. 그렇게 트럼프가 뽑혔고.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1482354979138842600,
+		"in_reply_to_status_id_str": "1482354979138842630",
+		"in_reply_to_user_id": 165325098,
+		"in_reply_to_user_id_str": "165325098",
+		"in_reply_to_screen_name": "eun_gong",
+		"user": {
+			"id": 165325098,
+			"id_str": "165325098",
+			"name": "隱公",
+			"screen_name": "eun_gong",
+			"location": "日本 東京",
+			"description": "Urban Planning & Modern Architecture",
+			"url": "https://t.co/zin5unCl05",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zin5unCl05",
+							"expanded_url": "http://instagram.com/journey.to.modern.seoul",
+							"display_url": "instagram.com/journey.to.mod…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14289,
+			"friends_count": 663,
+			"listed_count": 122,
+			"created_at": "Sun Jul 11 07:04:00 +0000 2010",
+			"favourites_count": 13476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 283306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7EE6BD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1475854511847911432/41sdYZIp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1475854511847911432/41sdYZIp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/165325098/1608977535",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "77173905596af4ab",
+			"url": "https://api.twitter.com/1.1/geo/id/77173905596af4ab.json",
+			"place_type": "city",
+			"name": "文京区",
+			"full_name": "東京 文京区",
+			"country_code": "JP",
+			"country": "日本",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							139.717275,
+							35.699474
+						],
+						[
+							139.772477,
+							35.699474
+						],
+						[
+							139.772477,
+							35.735929
+						],
+						[
+							139.717275,
+							35.735929
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "70년대 유신체제에 살아가면서 어리버리하게 마리톤이나 뛰는 정치인과, 그래도 모든 국민의 의견을 들어야지 하면서 이쪽저쪽 다 귀 기울이는 정치인을 동일선상에 놓고 보이콧하자고 촉구하면, 뭐 그냥 다 같이 죽자는 얘기 밖에 안되겠지요. 그렇게 트럼프가 뽑혔고."
+	},
+	{
 		"created_at": "Fri Jan 07 08:06:45 +0000 2022",
 		"id": 1479340802111582200,
 		"id_str": "1479363866681540615",
