@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 11 05:22:30 +0000 2022",
+		"id": 1492004734667935700,
+		"id_str": "1492006104163057666",
+		"full_text": "お絞りをコースターにする #あるあると思ったらRT https://t.co/ABTojWgkKI #沖縄あるある",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "あるあると思ったらRT",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"text": "沖縄あるある",
+					"indices": [
+						50,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 626627060153217000,
+					"id_str": "626627060153217024",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/CLI5_b8UcAAlNYa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CLI5_b8UcAAlNYa.jpg",
+					"url": "https://t.co/ABTojWgkKI",
+					"display_url": "pic.twitter.com/ABTojWgkKI",
+					"expanded_url": "http://twitter.com/okiaru/status/626627060899778560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 626627060899778600,
+					"source_status_id_str": "626627060899778560",
+					"source_user_id": 621651382,
+					"source_user_id_str": "621651382"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 626627060153217000,
+					"id_str": "626627060153217024",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/CLI5_b8UcAAlNYa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CLI5_b8UcAAlNYa.jpg",
+					"url": "https://t.co/ABTojWgkKI",
+					"display_url": "pic.twitter.com/ABTojWgkKI",
+					"expanded_url": "http://twitter.com/okiaru/status/626627060899778560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 533,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 626627060899778600,
+					"source_status_id_str": "626627060899778560",
+					"source_user_id": 621651382,
+					"source_user_id_str": "621651382"
+				}
+			]
+		},
+		"source": "<a href=\"http://twittbot.net/\" rel=\"nofollow\">twittbot.net</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 621651382,
+			"id_str": "621651382",
+			"name": "沖縄あるある",
+			"screen_name": "okiaru",
+			"location": "沖縄(Okinawa)",
+			"description": "沖縄あるあるをまとめたbot★約3時間ごとにあるある発信(0～7時の間はつぶやきません)★あるあると思ったらRT★流しても良い沖縄あるあるを思いついたら教えてください★返事は気まぐれ★ ※100%全ての沖縄県民、地域にあてはまるということではないのでご了承ください！",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43859,
+			"friends_count": 23,
+			"listed_count": 145,
+			"created_at": "Fri Jun 29 06:56:06 +0000 2012",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2351508598/hngr7mdgdsdcz1fbvepy_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2351508598/hngr7mdgdsdcz1fbvepy_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/621651382/1439522650",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "お絞りをコースターにする #あるあると思ったらRT https://t.co/ABTojWgkKI #沖縄あるある"
+	},
+	{
 		"created_at": "Thu Feb 10 05:25:19 +0000 2022",
 		"id": 1491644425071886300,
 		"id_str": "1491644425071886338",
