@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 19 09:15:52 +0000 2022",
+		"id": 1494963937426964500,
+		"id_str": "1494963937426964488",
+		"full_text": "헤더 이미지 바꿨다. 대선 끝날 때까지. https://t.co/aYT59oWAvO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1494963933224251400,
+					"id_str": "1494963933224251395",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/FL8txs_aMAMCN3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL8txs_aMAMCN3a.jpg",
+					"url": "https://t.co/aYT59oWAvO",
+					"display_url": "pic.twitter.com/aYT59oWAvO",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1494963937426964488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494963933224251400,
+					"id_str": "1494963933224251395",
+					"indices": [
+						23,
+						46
+					],
+					"media_url": "http://pbs.twimg.com/media/FL8txs_aMAMCN3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL8txs_aMAMCN3a.jpg",
+					"url": "https://t.co/aYT59oWAvO",
+					"display_url": "pic.twitter.com/aYT59oWAvO",
+					"expanded_url": "https://twitter.com/kawanoboru/status/1494963937426964488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94077994,
+			"id_str": "94077994",
+			"name": "縄",
+			"screen_name": "kawanoboru",
+			"location": "마음 만은 언제나 오키나와",
+			"description": "沖縄戦後史を勉強してた、ソウルに住んでいる普通の会社員 오키나와 전후사를 공부한 적이 있는, 서울에 살고 있는 평범한 회사원",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 533,
+			"friends_count": 408,
+			"listed_count": 20,
+			"created_at": "Wed Dec 02 12:19:58 +0000 2009",
+			"favourites_count": 2493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203076836759986176/k5j8dlPA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94077994/1645262050",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "헤더 이미지 바꿨다. 대선 끝날 때까지. https://t.co/aYT59oWAvO"
+	},
+	{
 		"created_at": "Wed Feb 16 02:45:51 +0000 2022",
 		"id": 1493778623664631800,
 		"id_str": "1493778623664631808",
