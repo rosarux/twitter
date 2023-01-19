@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Wed Jan 18 15:24:36 +0000 2023",
+		"id": 1615652043812896800,
+		"id_str": "1615731889767317510",
+		"full_text": "이태원참사 당일 실질적 인원배치 58명\n그에비해 민주노총 압수수색에는 700명이나 되는 경찰력을 배치했습니다\n\n이렇게 국민을 지켜야 할 경찰력이 윤석열정권의 위기 탈출 용으로 쓰이는 상황에\n윤석열정권은 민주노총 죽이기를 멈추고\n국민안전에 전념하라!!! https://t.co/KfVSQ89VCO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1615652033817895000,
+					"id_str": "1615652033817894912",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Fmvy9vRaYAAhrEo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fmvy9vRaYAAhrEo.jpg",
+					"url": "https://t.co/KfVSQ89VCO",
+					"display_url": "pic.twitter.com/KfVSQ89VCO",
+					"expanded_url": "https://twitter.com/ekctu/status/1615652043812896773/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1893,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 761,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 431,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1615652033817895000,
+					"id_str": "1615652033817894912",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Fmvy9vRaYAAhrEo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fmvy9vRaYAAhrEo.jpg",
+					"url": "https://t.co/KfVSQ89VCO",
+					"display_url": "pic.twitter.com/KfVSQ89VCO",
+					"expanded_url": "https://twitter.com/ekctu/status/1615652043812896773/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1893,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 761,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 431,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119629477,
+			"id_str": "119629477",
+			"name": "민주노총",
+			"screen_name": "ekctu",
+			"location": "대한민국 서울",
+			"description": "일하는 사람들의 든든한 우산, 노동조합! 전국민주노동조합총연맹 공식 트위터입니다. / Korean Confederation of Trade Union Official tweets (https://t.co/qV9ASgathh)",
+			"url": "https://t.co/x4GxEuy571",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x4GxEuy571",
+							"expanded_url": "http://nodong.org",
+							"display_url": "nodong.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/qV9ASgathh",
+							"expanded_url": "http://kctu.org",
+							"display_url": "kctu.org",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23374,
+			"friends_count": 14002,
+			"listed_count": 583,
+			"created_at": "Thu Mar 04 05:27:19 +0000 2010",
+			"favourites_count": 2505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468798048285315072/9ixkN5aJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468798048285315072/9ixkN5aJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119629477/1672417565",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 296,
+		"favorite_count": 118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이태원참사 당일 실질적 인원배치 58명\n그에비해 민주노총 압수수색에는 700명이나 되는 경찰력을 배치했습니다\n\n이렇게 국민을 지켜야 할 경찰력이 윤석열정권의 위기 탈출 용으로 쓰이는 상황에\n윤석열정권은 민주노총 죽이기를 멈추고\n국민안전에 전념하라!!! https://t.co/KfVSQ89VCO"
+	},
+	{
 		"created_at": "Sat Jan 14 21:13:53 +0000 2023",
 		"id": 1613551010139758600,
 		"id_str": "1614370238514200576",
